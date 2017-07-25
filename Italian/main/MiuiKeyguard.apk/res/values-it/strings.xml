@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string name="accessibility_enter_lock_wallpaper">Tocca lo sfondo della schermata di blocco</string>
+     <string name="click_to_enter_text">Tocca per sbloccare</string>
+     <string name="confirm_pin_msg">Inserisci di nuovo PIN</string>
+     <string name="custom_lock_wallpaper_enter">Inserisci</string>
+     <string name="default_lockscreen_unlock_hint_text">Scorri in alto per sbloccare</string>
+     <string name="delete">Elimina</string>
+     <string name="emergency_call_string">Emergenza</string>
+     <string name="fingerprint_add_text">"L'interfaccia impronta è stata aggiornata. Aggiungi di nuovo la tua impronta"</string>
+     <string name="fingerprint_add_title">Aggiungi impronta</string>
+     <string name="fingerprint_again_identified_msg">La tua impronta adesso è attiva. Utilizzala per sbloccare il dispositivo o utilizza la password.</string>
+     <string name="fingerprint_enter_second_psw_msg">Inserisci la password dello Spazio Secondario dopo aver riavviato il dispositivo per utilizzare il lettore di impronte</string>
+     <string name="fingerprint_enter_second_psw_msg_oldman">Impossibile accedere allo spazio Secondario in modalità semplificata</string>
+     <string name="fingerprint_enter_second_psw_title">Inserisci password Spazio Secondario</string>
+     <string name="fingerprint_not_identified_msg">Inserisci la password per sbloccare il dispositivo.</string>
+     <string name="fingerprint_not_identified_title">Impossibile leggere le impronte digitali</string>
+     <string name="fingerprint_try_again_msg">"Impossibile verificare l'impronta, prova di nuovo."</string>
+     <string name="fingerprint_try_again_text">Prova di nuovo</string>
+     <string name="forget_password_string">Pwd dimenticata</string>
+     <string name="incorrect_pincode">Codice PIN errato</string>
+     <string name="incorrect_pukcode">Codice PUK errato</string>
+     <string name="input_password_after_boot_msg">Dovrai inserire la password dopo il riavvio del terminale.</string>
+     <string name="input_password_after_boot_msg_can_not_switch_when_calling">Impossibile cambiare spazio durante una chiamata</string>
+     <string name="input_password_after_boot_msg_must_enter_owner_space">Devi accedere allo spazio Primario dopo il riavvio del dispositivo</string>
+     <string name="input_password_hint_text">Inserisci password</string>
+     <string name="input_pattern_hint_text">Disegna la sequenza di sblocco</string>
+     <string name="input_pin_code">Ins. PIN</string>
+     <string name="input_puk_code">Ins. PUK</string>
+     <string name="invalid_confirm_pin_hint">I PIN non corrispondono</string>
+     <string name="invalid_sim_pin_hint">Digita un PIN tra 4 e 8 numeri</string>
+     <string name="invalid_sim_puk_hint">Il codice PUK dovrebbe essere di 8 o più numeri</string>
+     <string name="keyguard_charging_info_battery_temperature_text">Temperatura</string>
+     <string name="keyguard_charging_info_battery_used_time_text">Utilizzata</string>
+     <string name="keyguard_charging_info_charging_text">In carica</string>
+     <string name="keyguard_charging_info_charging_voltage_text">Voltaggio</string>
+     <string name="keyguard_charging_info_click_to_detail">Dettagli</string>
+     <string name="keyguard_charging_info_current_now_text">Tempo reale</string>
+     <string name="keyguard_charging_info_data_c">%s℃</string>
+     <string name="keyguard_charging_info_data_ma">%smA</string>
+     <string name="keyguard_charging_info_data_percent">%s%%</string>
+     <string name="keyguard_charging_info_data_v">%sV</string>
+     <string name="keyguard_charging_info_drained_power_percent_text">Consumato</string>
+     <string name="keyguard_charging_info_finished_charging_text">Carica completa</string>
+     <string name="keyguard_charging_info_last_charge_time">d/M H:mm</string>
+     <string name="keyguard_charging_info_last_charge_today_time">Oggi %s</string>
+     <string name="keyguard_charging_info_last_charge_yesterday_time">Ieri %s</string>
+     <string name="keyguard_charging_info_last_charged_time_text">Ultima carica</string>
+     <string name="keyguard_charging_info_tip_text1">Tieni il dispositivo con carica almeno al 10% per prolungare la vita della batteria.</string>
+     <string name="keyguard_charging_info_tip_text2">Non sovraccaricare i l dispositivo. Molte sessioni di carica brevi sono migliori di un lungo periodo di ricarica.</string>
+     <string name="keyguard_charging_info_tip_text3">"Evita di caricare il tuo dispositivo quando la temperatura dell'ambiente è sotto i 0 °C."</string>
+     <string name="keyguard_charging_info_tip_text4">Non utilizzare intensamente il dispositivo quando in carica per evitare il surriscaldamento.</string>
+     <string name="keyguard_charging_info_tip_text5">La carica della batteria è più lunga quando si scaldano più del solito.</string>
+     <string name="keyguard_charging_info_tip_text6">Disattiva lo schermo e riponi il dispositivo per raffreddarlo.</string>
+     <string name="keyguard_left_bankcard">Mi Pay</string>
+     <string name="keyguard_left_buscard">Transport card</string>
+     <string name="keyguard_left_remotecentral">Mi Remote</string>
+     <string name="keyguard_left_smarthome">Mi Home</string>
+     <string name="keyguard_quick_charging_info_click_to_detail">Info carica rapida, tocca per leggere</string>
+     <string name="keyguard_quickly_charging_info_charging_text">Carica rapida</string>
+     <string name="keyguard_torch_cover_text">Premi a lungo il tasto accensione per tenere accesa la Torcia</string>
+     <string name="lock_screen_date">EEEE, dd MMMM</string>
+     <string name="lock_screen_date_12">EEEE, dd MMMM</string>
+     <string name="lock_wallpaper_enter">Inserisci</string>
+     <string name="lock_wallpaper_learn_more">Leggi di più ></string>
+     <string name="lockscreen_access_pattern_cell_added">Cella aggiunta</string>
+     <string name="lockscreen_access_pattern_cleared">Sequenza annullata</string>
+     <string name="lockscreen_access_pattern_detected">Sequenza completa</string>
+     <string name="lockscreen_access_pattern_start">Sequenza iniziata</string>
+     <string name="lockscreen_charging_msg">In carica</string>
+     <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">"Hai eseguito %d tentativi errati di sbloccare il telefono. Dopo altri %d tentativi errati, il telefono sarà ripristinato alle impostazioni di fabbrica e tutti i dati utente andranno persi."</string>
+     <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Hai inserito la password sbagliata per %d volte. Dopo altri %d tentativi errati, ti verrà chiesto di sbloccare il tuo telefono accedendo al tuo account.
+
+ Riprova tra %d secondi."</string>
+     <string name="lockscreen_failed_attempts_now_wiping">Hai eseguito %d tentativi errati di sbloccare il telefono. Il telefono sarà ripristinato alle impostazioni di fabbrica.</string>
+     <string name="miui_keyguard_ble_unlock_succeed_msg">Sbloccato con dispositivo Bluetooth</string>
+     <string name="open_camera_hint_text">Scorri a sinistra per aprire la Fotocamera</string>
+     <string name="open_remote_center_hint_text">Scorri a destra per aprire il Telefono</string>
+     <string name="phone_locked_foget_password">Password dimenticata?</string>
+     <string name="phone_locked_foget_password_mehod_back">Back</string>
+     <string name="phone_locked_foget_password_method">Forgot password?</string>
+     <string name="phone_locked_foget_password_method_content">&lt;Data&gt;You have to &amp;lt;font color=#a5220e&amp;gt;erase all data &amp;lt;/font&amp;gt; on your device, including photos and contacts, and then set a new Lock screen password.&lt;/Data&gt;</string>
+     <string name="phone_locked_foget_password_method_next">Next</string>
+     <string name="phone_locked_foget_password_ok">Ho capito</string>
+     <string name="phone_locked_forget_password_suggesstion_one_content">&lt;Data&gt;Power off your device, press and hold the &amp;lt;font color=#a5220e&amp;gt;Power button &amp;lt;/font&amp;gt; and the &amp;lt;font color=#a5220e&amp;gt;Volume up button &amp;lt;/font&amp;gt;simultaneously until you see ml.&lt;/Data&gt;</string>
+     <string name="phone_locked_forget_password_suggesstion_two_content">&lt;Data&gt;Select &amp;lt;font color=#a5220e&amp;gt;\"Wipe &amp;amp;amp; Reset\"&amp;lt;/font&amp;gt; and wait until the device reboots.&lt;/Data&gt;</string>
+     <string name="phone_locked_forget_password_suggesstions_title">How to erase data?</string>
+     <string name="phone_locked_string">Il telefono è bloccato</string>
+     <string name="symbol_colon">:</string>
+     <string name="unlock_string">Sblocca</string>
+     <string name="unlocking_sim_card">Sblocco carta SIM</string>
+     <string name="unlockscreen_low_battery">Collegare il caricabatteria</string>
+     <string name="unlockscreen_recharge_completed">Carica completa</string>
+     <string name="unlockscreen_recharging_message">In carica, al %d%%</string>
+     <string name="wrong_password">Password non corretta</string>
+</resources>

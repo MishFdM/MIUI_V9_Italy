@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sfondo Carousel</string>
+    <string name="apply">Applica</string>
+    <string name="at_least_one">Scegli almeno una categoria</string>
+    <string name="auto_interval">Automatico</string>
+    <string name="cancel">Annulla</string>
+    <string name="cancel_international">Annulla</string>
+    <string name="cancel_lockscreen">Annulla</string>
+    <string name="change_time">Cambia sfondi</string>
+    <string name="day">Una volta al giorno</string>
+    <string name="declaration">Ottieni gratuitamente ogni giorno nuovi sfondi direttamente sulla schermata di blocco.</string>
+    <string name="declaration_lockscreen_title">Sfondo Carousel</string>
+    <string name="declaration_title">Termini e condizioni</string>
+    <string name="dislike">Elimina</string>
+    <string name="from_migallerylockscreen">Da sfondo Carousel</string>
+    <string name="hour_1">Ogni ora</string>
+    <string name="hour_3">Ogni 3 ore</string>
+    <string name="like">Piace</string>
+    <string name="liked">piaciuti</string>
+    <string name="lockscreen_magazine_summary">Categorie</string>
+    <string name="lockscreen_magazine_system_title">Locali</string>
+    <string name="lockscreen_magazine_title">Sfondo Carousel</string>
+    <string name="lockscreen_wallpaper_changed">sfondo cambiato</string>
+    <string name="minutes_15">15 minuti</string>
+    <string name="no_long_show">Non mostrare di nuovo</string>
+    <string name="ok_enable_network_prov">"D'accordo"</string>
+    <string name="ok_international">"D'accordo"</string>
+    <string name="ok_lockscreen">OK</string>
+    <string name="ok_network">"D'accordo"</string>
+    <string name="platform_unavailable_qq">si prega di installare QQ</string>
+    <string name="platform_unavailable_qzone">si prega di installare Qzone</string>
+    <string name="platform_unavailable_wechat">si prega di installare wechat</string>
+    <string name="platform_unavailable_wechatmoment">si prega di installare wechat</string>
+    <string name="platform_unavailable_weibo">si prega di installare weibo</string>
+    <string name="resource_apply">Applica</string>
+    <string name="resource_no_network_text">Impossibile connettersi alla rete</string>
+    <string name="setting_head">Impostazioni</string>
+    <string name="settings">impostazioni</string>
+    <string name="share">Condividi</string>
+    <string name="sst_favor_desc">Visualizza sfondi preferiti</string>
+    <string name="sst_favor_title">Preferiti</string>
+    <string name="sst_grid_view_select_all">Seleziona tutti</string>
+    <string name="sst_grid_view_unselect_all">Deseleziona tutti</string>
+    <string name="sst_no_favor_wallpaper_hint">Nessuno sfondo nei preferiti</string>
+    <string name="sst_prov_enable_desc">Attiva Sfondo Carousel sulla schermata di blocco</string>
+    <string name="sst_prov_enable_title">Attiva Sfondo Carousel</string>
+    <string name="sst_require_one_category_hint">Seleziona almeno 1 categoria</string>
+    <string name="sst_sti_desc">Imposta frequenza aggiornamento sfondo</string>
+    <string name="sst_sti_title">Frequenza aggiornamento</string>
+    <string name="sst_subscribe_title">Mie categorie</string>
+    <string name="sst_wifi_only_desc">Disattiva questa funzione per non consumare dati mobili</string>
+    <string name="sst_wifi_only_title">Aggiorna gli sfondi utilizzando il Wi-Fi</string>
+    <string name="summary">"Utilizzando questa funzione, tu sei d'accordo con &lt;a href='http://www.miui.com/res/doc/privacy/en.html'>Privacy Policy&lt;/a>. Questa funzione necessita di una connessione internet per funzionare normalmente."</string>
+    <string name="summary_international">"Utilizzando questa funzione, tu sei d'accordo con &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'>Accordo utenti&lt;/a> e &lt;a href='http://www.miui.com/res/doc/privacy/en.html'>Privacy Policy&lt;/a>. Questa funzione necessita di una connessione internet per funzionare normalmente."</string>
+    <string name="theme_apply_failured">Impossibile applicare, si prega di riprovare più tardi</string>
+    <string name="theme_apply_success">Schermata di blocco applicata</string>
+    <string name="theme_applying">Applicazione…</string>
+    <string name="wlan_download">Aggiornamento tramite Wi-Fi</string>
+    <string name="wlan_download_cn">Aggiornamento tramite Wi-Fi</string>
+</resources>
