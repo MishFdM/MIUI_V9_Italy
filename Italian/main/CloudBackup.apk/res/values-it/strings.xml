@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="about_to_recover">Solo un attimo…</string>
+     <string name="account_error">Account error</string>
      <string name="app_name">Backup</string>
      <string name="as_new_device">Sostituisci Schermata Home e impostazioni precedenti</string>
      <string name="as_new_device_summary">Cancella precedenti backup su Mi Cloud</string>

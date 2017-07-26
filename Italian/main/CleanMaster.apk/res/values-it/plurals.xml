@@ -34,12 +34,8 @@
         <item quantity="other">Scaricato da %1$d persone</item>
     </plurals>
     <plurals name="view_num">
-        <item quantity="other">%1$d visualizzazioni</item>
-        <item quantity="zero">%1$d visualizzazioni</item>
-        <item quantity="one">%1$d visualizzazione</item>
-        <item quantity="two">%1$d visualizzazioni</item>
-        <item quantity="few">%1$d visualizzazioni</item>
-        <item quantity="many">%1$d visualizzazioni</item>
+        <item quantity="other">%1$s views</item>
+        <item quantity="one">%1$s view</item>
     </plurals>
     <plurals name="hint_similar_image_header_left">
         <item quantity="other">%d gruppi</item>
@@ -101,7 +97,8 @@
         <item quantity="other">Non utilizzato per %d anni</item>
         <item quantity="one">Non utilizzato per %d anno</item>
     </plurals>
-    <plurals name="resutl_function_install_app_summary">
-        <item quantity="other">%d app non sono state utilizzate per lungo tempo, dai uno sguardo.</item>
-    </plurals>
+     <plurals name="resutl_function_install_app_summary">
+        <item quantity="other">"&lt;Data>"&lt;font color=#ff0000 >%d&lt;/font> apps haven't been used for a long time, take a look."&lt;/Data>"</item>
+        <item quantity="one">"&lt;Data>"&lt;font color=#ff0000 >%d&lt;/font> app hasn't been used for a long time, take a look."&lt;/Data>"</item>
+     </plurals>
 </resources>

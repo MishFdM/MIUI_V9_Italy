@@ -77,7 +77,6 @@
      <string name="preference_tip_rename">"Rinomina al termine della registrazione"</string>
      <string name="recognition_error_cancel">Annullato</string>
      <string name="recognition_error_download_cancel">Più tardi</string>
-     <string name="recognition_error_download_data_msg">Download recognition engine to make this service available, which will consume about 20MB in current mobile data connection.</string>
      <string name="recognition_error_download_fail">Impossibile scaricare. Controlla le impostazioni di rete e riprova.</string>
      <string name="recognition_error_download_msg">Scarica motore di riconoscimento per utilizzare questo servizio.</string>
      <string name="recognition_error_download_ok">Scarica</string>
@@ -98,7 +97,6 @@
      <string name="record_downloading_notification">Download in corso…</string>
      <string name="record_downloading_notification_complete">Download completato</string>
      <string name="record_downloading_notification_count">%d in download</string>
-     <string name="record_format_preference_title">Recording format</string>
      <string name="record_list">Elenco registrazioni</string>
      <string name="record_list_call">Registrazioni chiamate</string>
      <string name="record_list_category_title_format">MMMM yyyy</string>
@@ -110,7 +108,6 @@
      <string name="record_name_hour">.</string>
      <string name="record_name_minute" />
      <string name="record_quliaty_preference_title">Qualità di registrazione</string>
-     <string name="record_resotre">Recover records</string>
      <string name="recording">Registrazione</string>
      <string name="recording_quality_high">Alta</string>
      <string name="recording_quality_low">Bassa</string>
@@ -153,13 +150,6 @@
      <string name="timer_format_three_sections" formatted="false">%02d:%02d:%02d</string>
      <string name="toast_max_record_time">App: %1$s tempo di registrazione massima %2$s</string>
      <string name="toast_uninstall_fileexplorer">File Explorer non è installato!</string>
-     <string name="webview_check_network">Network settings</string>
-     <string name="webview_data_error">An error occurred</string>
-     <string name="webview_locating_fail">"Couldn't find your location"</string>
-     <string name="webview_network_access_denied">Network access denied</string>
-     <string name="webview_network_unavaliable">"Can't connect to the network"</string>
-     <string name="webview_service_unavailiable">Service unavailable</string>
-     <string name="webview_try_again">Try again</string>
      <string name="wifi_recommended_body" formatted="false">""L'utilizzo della rete dati cellulare per il download di questo file (%s) aumenterà il consumo dei dati. Se superi il limite previsto dal piano del tuo operatore potresti andare incontro a costi aggiuntivi. Se vuoi attendere la disponibilità di una rete Wi-Fi per il download di questo file tocca %s."</string>
      <string name="wifi_recommended_title">Avviso traffico</string>
 </resources>

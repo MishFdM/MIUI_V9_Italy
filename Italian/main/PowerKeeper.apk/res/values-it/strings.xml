@@ -179,6 +179,8 @@
      <string name="ui">Predefinito</string>
      <string name="user_define_mode">Nome</string>
      <string name="vip_feedback">Feedback VIP</string>
+     <string name="vip_feedback_apply">Apply Vip Feedback</string>
+     <string name="vip_feedback_apply_msg">Please contact vip-feedback-system@xiaomi.com to apply Vip Feedback</string>
      <string name="vip_feedback_enable">Attiva Feedback automatico VIP</string>
      <string name="warm_configure">Configurazione controllo riscaldamento</string>
 </resources>

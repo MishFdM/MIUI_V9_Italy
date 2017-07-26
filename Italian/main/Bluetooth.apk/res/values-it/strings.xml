@@ -2,6 +2,7 @@
 <resources>
      <string name="ErrorTooManyRequests">Troppe richieste in fase di elaborazione. Riprova più tardi.</string>
      <string name="ack_record">Record ACK</string>
+     <string name="airplane_can_not_share">"Airplane can't use Bluetooth to share"</string>
      <string name="airplane_error_msg">Non puoi utilizzare Bluetooth in modalità aereo.</string>
      <string name="airplane_error_title">Modalità aereo</string>
      <string name="app_name">Condivisione Bluetooth</string>
@@ -10,6 +11,7 @@
      <string name="auth_notif_title">Chiave sessione</string>
      <string name="bluetooth_connected">Audio Bluetooth connesso</string>
      <string name="bluetooth_disconnected">Audio Bluetooth disconnesso</string>
+     <string name="bluetooth_in_airplane_mode">In Airplane mode</string>
      <string name="bluetooth_map_settings_app_icon">Icona applicazione</string>
      <string name="bluetooth_map_settings_cancel">Annulla</string>
      <string name="bluetooth_map_settings_count">Slot rimanenti:</string>
@@ -58,11 +60,13 @@
      <string name="download_succ_ok">Apri</string>
      <string name="download_success">Ricezione completata (%1$s)</string>
      <string name="download_title">Trasferimento file</string>
+     <string name="empty_file_notification_sent">Bluetooth share: Remote rejected zero length file %1$s</string>
      <string name="enabling_progress_content">Attivazione Bluetooth…</string>
      <string name="enabling_progress_title">Attendi…</string>
      <string name="hello">Hello World, TestActivity</string>
      <string name="inbound_history_title">Trasferimenti in entrata</string>
      <string name="inbound_noti_title">Condivisione Bluetooth: file ricevuti</string>
+     <string name="incoming_file_confirm_Notification_caption">Do you want to receive this file?</string>
      <string name="incoming_file_confirm_Notification_content">%1$s è pronto per inviare %2$s</string>
      <string name="incoming_file_confirm_Notification_title">Condivisione Bluetooth: file in arrivo</string>
      <string name="incoming_file_confirm_cancel">Rifiuta</string>
@@ -84,6 +88,7 @@
      <string name="not_exist_file">Nessun file</string>
      <string name="not_exist_file_desc">"Il file non esiste.
 "</string>
+     <string name="noti_caption">%1$s successful, %2$s unsuccessful.</string>
      <string name="notification_received">Condivisione Bluetooth: file %1$s ricevuto</string>
      <string name="notification_received_fail">Condivisione Bluetooth: file %1$s non ricevuto</string>
      <string name="notification_receiving">Condivisione Bluetooth: ricezione file %1$s</string>

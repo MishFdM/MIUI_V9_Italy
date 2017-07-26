@@ -242,6 +242,7 @@ La funzione di risparmio energetico viene disattivata automaticamente quando il 
      <string name="config_ethernet_tcp_buffers">524288,1048576,3145728,524288,1048576,2097152</string>
      <string name="config_forceVoiceInteractionServicePackage" />
      <string name="config_fusedLocationProviderPackageName">com.qualcomm.location</string>
+     <string name="config_geocoderProviderPackageName">com.xiaomi.metoknlp</string>
      <string name="config_hardwareFlpPackageName">com.android.location.fused</string>
      <string name="config_isoImagePath" />
      <string name="config_keyguardComponent">com.android.keyguard/com.android.keyguard.KeyguardService</string>
@@ -374,7 +375,6 @@ utilizzando %s"</string>
      <string name="editTextMenuTitle">Azioni testo</string>
      <string name="elapsed_time_short_format_h_mm_ss">%1$d:%2$02d:%3$02d</string>
      <string name="elapsed_time_short_format_mm_ss">%1$02d:%2$02d</string>
-     <string name="ellipsis">…</string>
      <string name="emailTypeCustom">Personalizzato</string>
      <string name="emailTypeHome">Casa</string>
      <string name="emailTypeMobile">Cellulare</string>
@@ -675,9 +675,16 @@ Riprova tra %d secondi."</string>
      <string name="locale_replacement" />
      <string name="locale_search_menu">Search</string>
      <string name="lock_pattern_view_aspect">square</string>
+     <string name="lock_to_app_description">"Screen pinning locks the display in a single view.
+
+To unpin, press and hold Home and the Power button at the same time."</string>
+     <string name="lock_to_app_description_accessible">"Screen pinning locks the display in a single view.
+
+To unpin, press and hold Home and the Power button at the same time."</string>
      <string name="lock_to_app_exit">Schermata sbloccata</string>
      <string name="lock_to_app_start">Schermata bloccata</string>
      <string name="lock_to_app_toast">Per sbloccare questa schermata, tocca e tieni premute contemporaneamente le opzioni Indietro e Panoramica.</string>
+     <string name="lock_to_app_toast_accessible">To unpin this screen, press and hold Home and the Power button at the same time.</string>
      <string name="lock_to_app_toast_locked">La schermata è bloccata. La tua organizzazione non ne consente lo sblocco.</string>
      <string name="lock_to_app_unlock_password">Richiedi password prima di sbloccare</string>
      <string name="lock_to_app_unlock_pattern">Richiedi sequenza di sblocco prima di sbloccare</string>
@@ -1048,6 +1055,7 @@ Riprova tra %d secondi."</string>
      <string name="permgrouplab_sensors">Sensori</string>
      <string name="permgrouplab_sms">SMS</string>
      <string name="permgrouplab_storage">Archiviazione</string>
+     <string name="permission">Permission</string>
      <string name="permission_remember_choice">Remember</string>
      <string name="permission_request_notification_title">Autorizzazione richiesta</string>
      <string name="permission_request_notification_with_subtitle">"Autorizzazione richiesta
@@ -1480,19 +1488,6 @@ L'ascolto ad alto volume per lunghi periodi di tempo potrebbe danneggiare l'udit
      <string name="usb_mtp_notification_title">Collegato come dispositivo multimediale</string>
      <string name="usb_notification_message">Tocca per altre opzioni USB</string>
      <string name="usb_ptp_notification_title">Collegato come fotocamera</string>
-     <string name="usb_storage_activity_title">Archivio di massa USB</string>
-     <string name="usb_storage_button_mount">Attiva archivio USB</string>
-     <string name="usb_storage_error_message">"Problema di utilizzo dell'archivio USB come archivio di massa USB."</string>
-     <string name="usb_storage_message">"Ti sei collegato al computer tramite USB. Tocca il pulsante in basso se desideri copiare file tra il computer e l'archivio USB di Android."</string>
-     <string name="usb_storage_notification_message">Seleziona per copiare file sul/dal computer.</string>
-     <string name="usb_storage_notification_title">USB collegata</string>
-     <string name="usb_storage_stop_button_mount">Disattiva archivio USB</string>
-     <string name="usb_storage_stop_error_message">"Si è verificato un problema durante la disattivazione dell'archivio USB. Assicurati di avere smontato l'host USB e riprova."</string>
-     <string name="usb_storage_stop_message">"Prima di disattivare l'archivio USB, smonta (\"espulsione\") l'archivio USB di Android dal computer."</string>
-     <string name="usb_storage_stop_notification_message">"Tocca per disattivare l'archivio USB."</string>
-     <string name="usb_storage_stop_notification_title">Disattiva archivio USB</string>
-     <string name="usb_storage_stop_title">Archivio USB in uso</string>
-     <string name="usb_storage_title">USB collegata</string>
      <string name="usb_supplying_notification_title">USB supplying power to attached device</string>
      <string name="use_a_different_app">"Utilizza un'app diversa"</string>
      <string name="user_creation_account_exists">Allow %1$s to create a new User with %2$s ?</string>

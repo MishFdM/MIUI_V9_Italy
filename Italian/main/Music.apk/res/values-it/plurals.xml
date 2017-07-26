@@ -27,7 +27,6 @@
      </plurals>
      <plurals name="Nnew_tracks_count">
         <item quantity="other">%d nuovi</item>
-        <item quantity="one">1 nuovo</item>
      </plurals>
      <plurals name="Nquit_warning">
         <item quantity="other">La riproduzione terminerà tra %d minuti</item>

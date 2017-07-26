@@ -81,6 +81,7 @@ o inserisci la password"</string>
      <string name="anim_gamebooster_text">Just a sec…</string>
      <string name="anti_disturb_msg_detail">Turn off all notifications except for incoming calls</string>
      <string name="anti_disturb_msg_title">DND</string>
+     <string name="antispam_mode_details">details of interception mode</string>
      <string name="antispam_notificaiton_type_show_all">Tutte le chiamate</string>
      <string name="antispam_notificaiton_type_show_except_blacklist">Solo chiamate non in blacklist</string>
      <string name="antispam_notificaiton_type_show_none">Mai</string>
@@ -225,7 +226,6 @@ se se dimenticata"</string>
      <string name="applock_close_dialog_summary">Le app non saranno piùprotette e la tua password verrà elimintata dopo la disattivazione di App lock.</string>
      <string name="applock_close_dialog_title">Disattivare App lock?</string>
      <string name="applock_exit_account_info">"L'account verrà rimosso automaticamente quando esegui il logout"</string>
-     <string name="applock_header_text_less_than_half">Too little space for this app. Drag the separator further.</string>
      <string name="applock_login_and_add_account">Accedi e aggiungi</string>
      <string name="applock_not_add_account">Non adesso</string>
      <string name="applock_not_login_account">"Non hai eseguito l'accesso"</string>
@@ -310,7 +310,6 @@ se se dimenticata"</string>
      <string name="auto_task_operation_sync">Sincronizzazione</string>
      <string name="auto_task_operation_vibration">Vibrazione</string>
      <string name="auto_task_operation_wifi">Wi-Fi</string>
-     <string name="background_restrict_app_dialog_message">Restricting background network access for this app might make it impossible for the app to work normally, receive messages, download content, etc. Restrict anyway?</string>
      <string name="background_traffic">Sfondo %s</string>
      <string name="backsound_set_hint">Impostare %s come sottofondo?</string>
      <string name="battery_capacity_title">Capacità</string>
@@ -424,6 +423,7 @@ se se dimenticata"</string>
      <string name="call_private">Chiamate private</string>
      <string name="call_stranger_block">Blocca sconosciuti</string>
      <string name="call_transfer_block">Inoltro di chiamata</string>
+     <string name="call_transfer_info">Block calls forwarded from unknown numbers</string>
      <string name="cancal_to_setting_fingerprint">Annulla</string>
      <string name="cancel">Annulla</string>
      <string name="cancel_button">Annulla</string>
@@ -450,6 +450,8 @@ se se dimenticata"</string>
      <string name="card_main_private_space_summary">Utilizzando lo Spazio Secondario sarà come avere 2 dispositivi</string>
      <string name="card_main_private_space_title">Spazio Secondario</string>
      <string name="card_main_sectool_title">Strumenti</string>
+     <string name="card_main_speeddetail_title">Connection speed</string>
+     <string name="card_main_speeddetailt_summary">View connection speed for individual apps</string>
      <string name="card_main_xspace_action">Crea</string>
      <string name="card_main_xspace_summary">Crea un doppio account per le applicazioni</string>
      <string name="card_main_xspace_title">Clona applicazioni</string>
@@ -495,6 +497,15 @@ se se dimenticata"</string>
      <string name="convenient_summary">"Non richiedere la password dopo che un'app è stata sbloccata"</string>
      <string name="correction_attention_dialog_message">Regolazione delle impostazioni. Attendi che il processo termini e riprova.</string>
      <string name="cpu_usage_android_system">Sistema Android</string>
+     <string name="cpu_usage_app_bg_restrict_default">Auto (recommended)</string>
+     <string name="cpu_usage_app_bg_restrict_default_short">Auto</string>
+     <string name="cpu_usage_app_bg_restrict_full">Restrict background activity</string>
+     <string name="cpu_usage_app_bg_restrict_no_limit">"Don't restrict"</string>
+     <string name="cpu_usage_app_bg_restrict_partly">After %s</string>
+     <string name="cpu_usage_app_bg_restrict_partly_short">After%s</string>
+     <string name="cpu_usage_app_bg_restrict_title">Background settings</string>
+     <string name="cpu_usage_app_tip_can_not_restrict_system_app">"Can't restrict system services"</string>
+     <string name="cpu_usage_app_uninstalled_toast">This app is uninstalled</string>
      <string name="cpu_usage_process_run_time_little_time">Meno di 1 minuto</string>
      <string name="cpu_usage_view_action_btn_text">Tocca per vedere</string>
      <string name="create_shortcut">Create a Home screen shortcut for Game speed booster</string>
@@ -510,6 +521,7 @@ se se dimenticata"</string>
      <string name="cta_settings">Allow internet connection</string>
      <string name="current_network_state_not_need_diagnose">La connessione internet è regolare.</string>
      <string name="customize_limit_pkg">%s (personalizzato)</string>
+     <string name="customizer_mode_user_define_name">My rules</string>
      <string name="daily_limit_and_lock_screen">Limite dati e notifiche</string>
      <string name="daily_limit_network_available_body">Tocca per visualizzare le statistiche di utilizzo dei dati.</string>
      <string name="daily_limit_over_message">Hai superato il limite dati giornaliero</string>
@@ -561,10 +573,19 @@ se se dimenticata"</string>
      <string name="dlg_add_blacklist">Aggiungere numero alla blacklist?</string>
      <string name="dlg_add_blacklist_title">Aggiungi alla blacklist</string>
      <string name="dlg_add_keyword">Aggiungi parole chiave</string>
+     <string name="dlg_antispam_mode_delete_message">"You can't recover rules after they've been deleted."</string>
+     <string name="dlg_antispam_mode_delete_title">Delete rules?</string>
+     <string name="dlg_antispam_using_mode_delete_message">"Delete the rules you're currently using and switch back to blocklist's default rules?"</string>
+     <string name="dlg_antispam_using_mode_international_delete_message">"Delete the rules you're currently using and switch back to blocklist's default rules?"</string>
      <string name="dlg_black_address_antispam_message">Aggiungere questo elemento alla blacklist?</string>
      <string name="dlg_black_antispam_hint">Blacklist</string>
      <string name="dlg_black_antispam_message">Aggiungere questo messaggio alla blacklist?</string>
+     <string name="dlg_clear_all_call">Clear blocked calls?</string>
+     <string name="dlg_clear_all_ok">Clear all</string>
+     <string name="dlg_clear_all_sms">Delete blocked messages?</string>
+     <string name="dlg_clear_current_call">Clear all blocked calls from this number?</string>
      <string name="dlg_clear_current_ok">Rimuovi</string>
+     <string name="dlg_clear_current_sms">Delete all blocked messages sent from this number?</string>
      <string name="dlg_delete_keyword">Rimuovere parole chiave selezionate?</string>
      <string name="dlg_edit_keyword">Modifica parola chiave</string>
      <string name="dlg_import_blacklist">Importazione nella blacklist</string>
@@ -724,6 +745,7 @@ se se dimenticata"</string>
      <string name="hide_mode_app_background_setting_text">Risparmio batteria app</string>
      <string name="hide_mode_summary_text">Gestisci le attività di background delle app per risparmiare la batteria</string>
      <string name="hide_system_app">Nascondi app di sistema</string>
+     <string name="hint_antispam_mode_edit">Custom mode</string>
      <string name="hints_handle_item_text_virus">Danger</string>
      <string name="hints_input_roaming_daily_limit">Inserisci limite utilizzo dati</string>
      <string name="hints_loading_text">Caricamento…</string>
@@ -744,6 +766,8 @@ se se dimenticata"</string>
      <string name="i_know">Got it</string>
      <string name="im">IM</string>
      <string name="info_and_call">Chiamate e messaggi</string>
+     <string name="info_antispam_close">AntiSpam Off</string>
+     <string name="info_antispam_current_mode">%s</string>
      <string name="info_antispam_phone">Blocco chiamate</string>
      <string name="info_antispam_phone_sms">Blocca messaggi e chiamate</string>
      <string name="info_antispam_sms">Blocco messaggi</string>
@@ -789,6 +813,7 @@ se se dimenticata"</string>
      <string name="label_callwait">Chiamata in attesa</string>
      <string name="label_mi_stats">Statistiche Mi</string>
      <string name="last_check_canceled">La scansione precedente è stata annullata</string>
+     <string name="later">稍后处理</string>
      <string name="left_precent">60%</string>
      <string name="legal_workday">Festivi</string>
      <string name="legal_workday_invalidate">Dati scaduti (Attualmente attivo da Lunedì a Venerdì)</string>
@@ -867,15 +892,12 @@ L'operatore potrebbe addebitarti costi aggiuntivi se continui ad utilizzare la c
      <string name="main_alert_message_no_imsi">Nessuna SIM rilevata</string>
      <string name="main_alert_message_open_traffic_ctrl">uso di restrizione dei dati</string>
      <string name="main_bill_remained">Saldo telefono</string>
-     <string name="main_button_mi_sim_close">Activate Mi SIM</string>
-     <string name="main_button_mi_sim_open">View details</string>
      <string name="main_button_usage_adjust">Sincronizza utilizzo dati mobile</string>
      <string name="main_button_usage_adjust_manual">Imposta limite utilizzo dati</string>
      <string name="main_button_usage_adjusting">Carica in corso…</string>
      <string name="main_button_usage_adjusting_bill">Modifica in corso…</string>
      <string name="main_button_usage_package_setting">Imposta limite utilizzo dati</string>
      <string name="main_daily_package">Piano tariffario giornaliero</string>
-     <string name="main_indicator_title">Activation</string>
      <string name="main_leisure_remained">Dati off-peak rimanenti</string>
      <string name="main_month_total_used">Usati questo mese</string>
      <string name="main_month_used">Questo mese</string>
@@ -894,7 +916,6 @@ L'operatore potrebbe addebitarti costi aggiuntivi se continui ad utilizzare la c
 per calibrare"</string>
      <string name="main_tc_wait_result">"In attesa di risposta
 dall'operatore"</string>
-     <string name="main_tobe_added_desc">Mobile data from ¥0.03/MB</string>
      <string name="main_today_used">Oggi</string>
      <string name="main_toolbar_firewall">Limita utilizzo dati</string>
      <string name="main_toolbar_internet_by_mobiledata">Connessione dati</string>
@@ -947,14 +968,13 @@ dall'operatore"</string>
      <string name="memory_clean_no_need_clean">Sembra tutto OK</string>
      <string name="memory_clean_no_running_process">Nessuna operazione da terminare</string>
      <string name="memory_clean_running_process_title">App monitorate (%d)</string>
+     <string name="memory_cleaned_memory_info">Available memory</string>
      <string name="memory_cleaned_memory_up">Aumenta velocità</string>
      <string name="menu_add">Aggiungi</string>
      <string name="menu_bl_call_log">Controlla il registro delle chiamate bloccate</string>
      <string name="menu_bl_remove">Rimuovi dalla blacklist</string>
      <string name="menu_bl_sms_log">Controlla il registro dei messaggi bloccati</string>
      <string name="menu_call">Chiama</string>
-     <string name="menu_charge_bill">Top-up balance</string>
-     <string name="menu_charge_traffic">Buy data</string>
      <string name="menu_edit">Modifica</string>
      <string name="menu_item_about_content">Versione: %s</string>
      <string name="menu_item_about_summary">Versione: %s</string>
@@ -978,7 +998,6 @@ dall'operatore"</string>
      <string name="menu_item_virus_install_monitor_title">Gestore installazioni</string>
      <string name="menu_item_virus_lib_auto_update_summary">Ultimo aggiornamento: %s</string>
      <string name="menu_remove">Rimuovi</string>
-     <string name="menu_report">Report error</string>
      <string name="menu_sms">Invia messaggio</string>
      <string name="menu_text_antispam">Blacklist</string>
      <string name="menu_text_antivirus">Antivirus</string>
@@ -1077,6 +1096,8 @@ dall'operatore"</string>
      <string name="notification_mask_title">Nascondi contenuto</string>
      <string name="notification_subtitle">Tocca per attivare</string>
      <string name="notification_summary_cmcc_app_check">Tocca per vedere i dettagli.</string>
+     <string name="notification_sysapp_cracked_text">The current version of MIUI has been modified</string>
+     <string name="notification_sysapp_cracked_title">Security risk is detected</string>
      <string name="notify_daily_data_usage_body">"Per limitare l'uso dei dati automaticamente imposta il tuo piano dati mensile."</string>
      <string name="notify_daily_limit_body">Tocca per impostare il limite dati.</string>
      <string name="notify_daily_limit_title">Usati %s oggi</string>
@@ -1103,6 +1124,7 @@ il tuo dispositivo"</string>
      <string name="om_formatted_percent_string">%s%%</string>
      <string name="om_ill_proc_activity_title">Problemi</string>
      <string name="om_ill_proc_handle_uninstall_prompt">Disinstallare questa app per risolvere i problemi di consumo.</string>
+     <string name="om_ill_proc_handle_unstaill_title">Uninstall %s?</string>
      <string name="om_ill_proc_type_alarm_detail">Risolvi i problemi dovuti alle attività in background</string>
      <string name="om_ill_proc_type_alarm_title">"L'app attiva spesso lo schermo e consuma molta batteria"</string>
      <string name="om_ill_proc_type_cpu_detail">Risolvi problemi dovuti al sovraccarico CPU</string>
@@ -1116,6 +1138,7 @@ il tuo dispositivo"</string>
      <string name="om_ill_proc_type_wifiscan_detail">Risolvi problemi dovuti alla ricerca Wi-Fi</string>
      <string name="om_ill_proc_type_wifiscan_title">"L'app cerca spesso resti Wi-Fi e consuma molta batteria"</string>
      <string name="om_lock_app_locked_app">Bloccato</string>
+     <string name="om_lock_app_locked_app_occupy_memory">"Locking too many apps reduces your phone's performance"</string>
      <string name="om_lock_app_tip_msg">Tocca per bloccare</string>
      <string name="om_lock_app_unlocked_app">Sbloccato</string>
      <string name="om_media_scan_time_warn_title">"Media server lavora in background.
@@ -1128,6 +1151,8 @@ Questa attività riduce la durata della batteria."</string>
      <string name="om_notify_cpu_load_too_high_title">"L'utilizzo della CPU di %s è troppo elevato"</string>
      <string name="om_notify_need_clean_memory_summary">Cancella cache per aumentare la veocità</string>
      <string name="om_notify_need_clean_memory_title">Dimensione cache raggiunta %s</string>
+     <string name="om_other_processes">Other tasks</string>
+     <string name="om_other_processes_cpu_usage_summary">Average CPU usage is lower than %s%%</string>
      <string name="om_settings_cpu_over_load_notify">Utilizzo CPU</string>
      <string name="om_settings_cpu_over_load_summary">"Notifica quando l'utilizzo della CPU è troppo elevato"</string>
      <string name="om_settings_lock_app">Blocca app</string>
@@ -1177,6 +1202,7 @@ Questa attività riduce la durata della batteria."</string>
      <string name="optimize_result_button_see_detaills">Dettagli</string>
      <string name="optimize_result_button_to_set">Imposta</string>
      <string name="optimize_result_button_update_now">Aggiorna</string>
+     <string name="optimize_result_header_view_summary">Speed boost</string>
      <string name="optimize_result_summary_sucurity_risk">Alcune funzionalità di sicurezza sono disattivate. Attiva queste funzionalità per rendere il tuo dispositivo più sicuro:</string>
      <string name="optimize_result_summary_system_default_settings">"L'utilizzo di applicazioni di predefinite MIUI aumenta il livello di stabilità e sicurezza del sistema."</string>
      <string name="optimize_result_title_sucurity_risk">Trovati rischi per la sicurezza</string>
@@ -1411,7 +1437,6 @@ Questa attività riduce la durata della batteria."</string>
      <string name="preferred_app_entries_messaging">Messaggi</string>
      <string name="preferred_app_entries_music">Musica</string>
      <string name="privacy_declare_dialog_title">Termini del Servizio</string>
-     <string name="privacy_dialog_message">"When you connect to the internet, this message along with the carrier info will be encrypted and uploaded to Mi's servers to help us improve data usage monitoring."</string>
      <string name="privacy_mode_dialog_title">Modalità ospite</string>
      <string name="privacy_prompt_tc_sms_report_message">Il tuo numero di telefono e le informazioni sul tuo operatore verranno crittografate e caricate sui server Xiaomi per aggiornare le informazioni sul tuo utilizzo del traffico dati.</string>
      <string name="privacy_prompt_traffic_adjust_message">"Questa funzione deve crittografare ed inviare il tuo IMEI, numero di telefono ed informazioni sul tuo operatore ai server Xiaomi per poter recuperare le statistiche del consumo dati dal tuo operatore.</string>
@@ -1570,8 +1595,6 @@ Questa attività riduce la durata della batteria."</string>
      <string name="sms_contact_block">Contacts Intercept</string>
      <string name="sms_delete_hint">Eliminare tutti i messaggi bloccati inviati dai numeri selezionati?</string>
      <string name="sms_delete_title">Rimuovi Messaggio</string>
-     <string name="sms_detail_fragment_title_bill">Phone balance</string>
-     <string name="sms_detail_fragment_title_traffic">Remaining data</string>
      <string name="sms_filter">Blacklist Parole</string>
      <string name="sms_keywords">Blacklist Località</string>
      <string name="sms_malicious_url">Malicious URL</string>
@@ -1614,13 +1637,37 @@ Questa attività riduce la durata della batteria."</string>
      <string name="st_antispam_bw_head_add">Aggiungi prefisso</string>
      <string name="st_antispam_bw_man_add">Aggiungi numero di telefono</string>
      <string name="st_antispam_bw_pick_add">Seleziona un contatto</string>
+     <string name="st_antispam_delete">Delete</string>
      <string name="st_antispam_des_anti">Blocca</string>
      <string name="st_antispam_des_permit">Consenti</string>
      <string name="st_antispam_des_permit_nokeyword">Consenti (escluse le parole chiave)</string>
      <string name="st_antispam_des_smart_anti">Blocco intelligente</string>
      <string name="st_antispam_des_uesless">Inutile</string>
+     <string name="st_antispam_mode_add_new">Add rules</string>
+     <string name="st_antispam_mode_blacklist">Blocked numbers</string>
+     <string name="st_antispam_mode_blacklist_state">11112121</string>
+     <string name="st_antispam_mode_blacklist_sum">"Block calls and SMS from numbers you've added manually to the blocklist"</string>
+     <string name="st_antispam_mode_denyownself_sum">Custom rules</string>
+     <string name="st_antispam_mode_only_all_deny">Block everything</string>
+     <string name="st_antispam_mode_only_all_deny_state">10000000</string>
+     <string name="st_antispam_mode_only_all_deny_sum">Block all calls and messages</string>
+     <string name="st_antispam_mode_only_contacts">Only allow contacts</string>
+     <string name="st_antispam_mode_only_contacts_state">11110000</string>
+     <string name="st_antispam_mode_only_contacts_sum">Only allow calls and messages from Contacts</string>
+     <string name="st_antispam_mode_only_whitelist">Only allow exceptions</string>
+     <string name="st_antispam_mode_only_whitelist_state">11000000</string>
+     <string name="st_antispam_mode_only_whitelist_sum">Only allow calls and messages from numbers on the exceptions list</string>
+     <string name="st_antispam_mode_smart">Reported numbers</string>
+     <string name="st_antispam_mode_smart_state">11111111</string>
+     <string name="st_antispam_mode_smart_sum">"Block numbers you've added manually and numbers that have been reported by other users"</string>
+     <string name="st_antispam_title_anoy_incoming">Calls from strangers</string>
      <string name="st_antispam_title_anoy_sms">Messaggi da sconosciuti</string>
+     <string name="st_antispam_title_contact_incoming">Calls from Contacts</string>
+     <string name="st_antispam_title_contact_sms">Messages from Contacts</string>
+     <string name="st_antispam_title_contactandanoy_group">Settings</string>
+     <string name="st_antispam_title_null_incoming">Private numbers</string>
      <string name="st_antispam_title_service_sms">Notifiche di servizio</string>
+     <string name="st_antispam_title_whitelist">Exceptions</string>
      <string name="st_call_backsound_group">BackSound</string>
      <string name="st_call_intercept_contacts">Blocca chiamate dai contatti</string>
      <string name="st_call_intercept_forwarding">Blocca chiamate inoltrate</string>
@@ -1650,20 +1697,28 @@ Questa attività riduce la durata della batteria."</string>
      <string name="st_msg_stranger_group">Blocca messaggi da sconosciuti</string>
      <string name="st_settings_name">Impostazioni</string>
      <string name="st_share_settings">Condividi le informazioni con la SIM 1</string>
+     <string name="st_sub_title_customize_mode_name">Name</string>
+     <string name="st_sub_title_whiteblack_list_group">Blocklist</string>
      <string name="st_sum_call_wait">Se il segnale di occupato non è quello predefinito potrebbe confondere il chiamante.</string>
      <string name="st_summary_blacklist_numbers">Blocca le chiamate utilizzando prefissi e codici internazionali</string>
+     <string name="st_summary_blacklist_numbers_international">Block calls and messages from specific numbers</string>
+     <string name="st_summary_keywords_blacklist">Add keywords to block messages</string>
+     <string name="st_summary_special_numbers">Block flagged phone numbers</string>
      <string name="st_summary_whitelist_numbers">Consenti chiamate da numeri ed aree geografiche specifiche</string>
+     <string name="st_summary_whitelist_numbers_international">Allow calls and messages from specific numbers</string>
      <string name="st_tab_title">%1$s(SIM%2$d)</string>
      <string name="st_title_addblacklist">Aggiungi alla blacklist</string>
      <string name="st_title_addwhitelist">Aggiungi alle eccezioni</string>
      <string name="st_title_adress">Seleziona località</string>
      <string name="st_title_adress_num">%d selezionato</string>
      <string name="st_title_anticomintcall_backsound_setting">Messaggio</string>
+     <string name="st_title_antispam_mode">Rules</string>
      <string name="st_title_back_sound_busy">Occupato</string>
      <string name="st_title_back_sound_choose">Tono messaggio</string>
      <string name="st_title_back_sound_closed">Telefono spento</string>
      <string name="st_title_back_sound_none">Numero inesistente</string>
      <string name="st_title_back_sound_stop">Numero fuori servizio</string>
+     <string name="st_title_backsound_group">Away message</string>
      <string name="st_title_blacklist_numbers">Numeri bloccati</string>
      <string name="st_title_call_wait">Chiamata in attesa</string>
      <string name="st_title_call_wait_setting">Impostazioni chiamata in attesa</string>
@@ -1677,8 +1732,10 @@ Questa attività riduce la durata della batteria."</string>
      <string name="st_title_man_head_addblacklist">Aggiungi prefisso telefonico alla blacklist</string>
      <string name="st_title_man_head_addwhitelist">Aggiungi prefisso telefonico alle eccezioni</string>
      <string name="st_title_markednumber_group">Blocca numeri segnalati</string>
+     <string name="st_title_mode_choose_group">Blocklist rules</string>
      <string name="st_title_not_sim">Vuoto</string>
      <string name="st_title_open_antispam">Attiva filtro</string>
+     <string name="st_title_other_group">Other</string>
      <string name="st_title_settings_other_group">Impostazioni addizionali</string>
      <string name="st_title_show_antispam_notification">Blocklist notifications</string>
      <string name="st_title_sim_card">%1$s-SIM %2$s</string>
@@ -1728,12 +1785,21 @@ Questa attività riduce la durata della batteria."</string>
      <string name="summary_xiaomi_roaming">0.01 yuan per MB per il traffico su rete internazionale.</string>
      <string name="support_game_booster_tips">Boost speed &amp; improve gaming experience</string>
      <string name="sys_app_prot_cracked_confirm">Ho capito</string>
+     <string name="sys_app_prot_cracked_login">Sign in with Mi Account</string>
+     <string name="sys_app_prot_cracked_text_login">"The current version of MIUI has been modified which puts your device's security at risk.
+
+Make sure you know where this device comes from, and contact authorized Xiaomi service center in your area to get help."</string>
+     <string name="sys_app_prot_cracked_text_unlogin">"The current version of MIUI has been modified which puts your device's security at risk. Sign in with your Mi Account to turn this warning off.
+
+If you haven't modified MIUI in any way, make sure you know where this device comes from and contact authorized Xiaomi service center in your area."</string>
+     <string name="sys_app_prot_cracked_title">Security risk</string>
      <string name="sys_cpu_title">CPU usage</string>
      <string name="sys_freememory_title">Available</string>
      <string name="sys_title_gamebooster_unit_gb">G</string>
      <string name="sys_title_gamebooster_unit_mb">M</string>
      <string name="system_app">App di sistema</string>
      <string name="system_application">App di sistema</string>
+     <string name="tab_blacklist">Blacklist</string>
      <string name="tab_block_log_unKnowNumber">Numero sconosciuto</string>
      <string name="tab_call">Chiamate</string>
      <string name="tab_sms">Messaggi</string>
@@ -1987,14 +2053,13 @@ I dati rimanenti includono dati che sono stati erogati il mese precedente."</str
      <string name="usbsharenet_exception_title">Test condivisione internet attraverso USB</string>
      <string name="usbsharenet_pc_exception_summary">"Impossibile connettersi ad internet attraverso connessione USB condivisa. Controlla la connessione internet del tuo computer."</string>
      <string name="use_immediately">Utilizza</string>
+     <string name="user_define_title">Add rules</string>
      <string name="virus_ad_icon_text">Ad</string>
      <string name="virus_auto_update_engine">Aggiornamento automatico：%s</string>
      <string name="virus_scan_process_pre">%</string>
      <string name="virus_update_tips_title">Collegati a Wi-Fi</string>
      <string name="virus_wait_network_dialog_message">Gli aggiornamenti sono di grandi dimensioni. Collegati ad una rete Wi-Fi per scaricarli.</string>
      <string name="voltage_symbol">V</string>
-     <string name="vpn_disabled_by_user">Designated data connection is off</string>
-     <string name="vpn_unbale_get_phonenum">"Can't get phone numbers using designated data plans"</string>
      <string name="wakepath_confirm_start_activity">Consentire a %1$s di aprire %2$s?</string>
      <string name="warn_function_no_work">&lt;u&gt;来红包时无法正常提醒？&lt;/u&gt;</string>
      <string name="weChat_not_found">您的应用版本过低或者未安装</string>

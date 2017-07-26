@@ -5,11 +5,9 @@
         <item>4x5</item>
      </string-array>
      <string-array name="editing_mode_entries">
-        <item>Temi</item>
-        <item>Widget</item>
         <item>Sfondo</item>
-        <item>Effetti</item>
-        <item>Celle schermo</item>
+        <item>Widget</item>
+        <item>Impostazioni</item>
      </string-array>
      <string-array name="gadget_weather_image">
         <item>Sereno</item>

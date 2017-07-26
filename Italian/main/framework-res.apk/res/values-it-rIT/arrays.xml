@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
+
 <resources>
      <string-array name="app_ops_labels">
         <item>Trying to enable WLAN</item>
@@ -101,25 +102,33 @@
         <item>Personalizzato</item>
      </string-array>
      <string-array name="fingerprint_acquired_vendor">
-        <item>Prova di nuovo</item>
+        <item>Try again</item>
         <item></item>
         <item></item>
-        <item>Copri il sensore completamente e premi</item>
+        <item>Cover the fingerprint scanner completely and apply pressure</item>
         <item></item>
-        <item>Copri il sensore completamente e premi</item>
-        <item>Copri il sensore completamente e premi</item>
-        <item></item>
-        <item></item>
+        <item>Cover the fingerprint scanner completely and apply pressure</item>
+        <item>Cover the fingerprint scanner completely and apply pressure</item>
         <item></item>
         <item></item>
-        <item>Copri il sensore completamente e premi</item>
-        <item>Copri il sensore completamente e premi</item>
-        <item>Troppo veloce! Impronta non riconosciuta</item>
-        <item>Sposta leggermente il dito e riprova</item>
-        <item>Solleva il dito e posizionalo di nuovo sul sensore</item>
-        <item>"Tieni il dito sul sensore un po' più a lungo"</item>
         <item></item>
         <item></item>
+        <item>Cover the fingerprint scanner completely and apply pressure</item>
+        <item>Cover the fingerprint scanner completely and apply pressure</item>
+        <item>"Too fast! Couldn't recognize fingerprint"</item>
+        <item>Move your finger a bit and try again</item>
+        <item>Lift your finger and put it back on the scanner again</item>
+        <item>Keep your finger on the scanner a bit longer</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Move your finger slightly</item>
+        <item>This fingerprint has been added, use a different finger</item>
      </string-array>
      <integer-array name="flingboost_param_value">
         <item>0x41800000</item>
@@ -269,49 +278,6 @@
         <item>0x40C00000</item>
         <item>0x00000002</item>
      </integer-array>
-     <array name="preloaded_color_state_lists">
-        <item>@color/primary_text_dark</item>
-        <item>@color/primary_text_dark_disable_only</item>
-        <item>@color/primary_text_dark_nodisable</item>
-        <item>@color/primary_text_disable_only_holo_dark</item>
-        <item>@color/primary_text_disable_only_holo_light</item>
-        <item>@color/primary_text_holo_dark</item>
-        <item>@color/primary_text_holo_light</item>
-        <item>@color/primary_text_light</item>
-        <item>@color/primary_text_light_disable_only</item>
-        <item>@color/primary_text_light_nodisable</item>
-        <item>@color/primary_text_nodisable_holo_dark</item>
-        <item>@color/primary_text_nodisable_holo_light</item>
-        <item>@color/secondary_text_dark</item>
-        <item>@color/secondary_text_dark_nodisable</item>
-        <item>@color/secondary_text_holo_dark</item>
-        <item>@color/secondary_text_holo_light</item>
-        <item>@color/secondary_text_light</item>
-        <item>@color/secondary_text_light_nodisable</item>
-        <item>@color/secondary_text_nodisable_holo_dark</item>
-        <item>@color/secondary_text_nodisable_holo_light</item>
-        <item>@color/secondary_text_nofocus</item>
-        <item>@color/hint_foreground_dark</item>
-        <item>@color/hint_foreground_holo_dark</item>
-        <item>@color/hint_foreground_holo_light</item>
-        <item>@color/hint_foreground_light</item>
-        <item>@color/bright_foreground_light</item>
-        <item>@color/bright_foreground_dark</item>
-        <item>@color/tab_indicator_text</item>
-        <item>#ff000000</item>
-        <item>#00000000</item>
-        <item>#ffffffff</item>
-        <item>@color/background_cache_hint_selector_material_dark</item>
-        <item>@color/background_cache_hint_selector_material_light</item>
-        <item>@color/btn_default_material_dark</item>
-        <item>@color/btn_default_material_light</item>
-        <item>@color/primary_text_disable_only_material_dark</item>
-        <item>@color/primary_text_disable_only_material_light</item>
-        <item>@color/primary_text_material_dark</item>
-        <item>@color/primary_text_material_light</item>
-        <item>@color/search_url_text_material_dark</item>
-        <item>@color/search_url_text_material_light</item>
-     </array>
      <array name="preloaded_freeform_multi_window_drawables">
         <item>@drawable/decor_maximize_button_dark</item>
         <item>@drawable/decor_maximize_button_light</item>

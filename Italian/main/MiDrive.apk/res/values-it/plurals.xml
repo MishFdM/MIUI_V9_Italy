@@ -16,10 +16,6 @@
         <item quantity="few">%1$d giorni fa</item>
         <item quantity="many">%1$d giorni fa</item>
      </plurals>
-     <plurals name="delete_files">
-        <item quantity="other">Delete %1$d files?</item>
-        <item quantity="one">Delete this file?</item>
-     </plurals>
      <plurals name="delete_files_confirm">
         <item quantity="other">Eliminare %1$d file</item>
         <item quantity="zero">Eliminare %1$d file</item>
@@ -27,10 +23,6 @@
         <item quantity="two">Eliminare %1$d file</item>
         <item quantity="few">Eliminare %1$d file</item>
         <item quantity="many">Eliminare %1$d file</item>
-     </plurals>
-     <plurals name="delete_folders">
-        <item quantity="other">Delete %1$d folders?</item>
-        <item quantity="one">Delete this folder?</item>
      </plurals>
      <plurals name="delete_folders_confirm">
         <item quantity="other">" e %1$d cartelle?"</item>

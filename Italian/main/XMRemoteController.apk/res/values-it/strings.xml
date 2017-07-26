@@ -37,6 +37,8 @@
      <string name="ac_mode_dry">Deumidificazione</string>
      <string name="ac_mode_fan">Direzione</string>
      <string name="ac_mode_hot">Riscaldamento</string>
+     <string name="ac_power_off">关</string>
+     <string name="ac_power_on">开</string>
      <string name="ac_set_timer_title_text">"Seleziona l'ora e premi il tasto timer sul condizionatore"</string>
      <string name="activity_stb_list_title">Scegli set-top box</string>
      <string name="actor_intro_title_text">Attori</string>
@@ -408,6 +410,7 @@ Try the following to fix the issue:
      <string name="get_data_fail_tips">Impossibile ottenere i dati, si prega di riprovare</string>
      <string name="get_info_failed">Impossibile ottenere le informazioni</string>
      <string name="get_location_fail_tip">Impossibile impostare una località,scegli una città</string>
+     <string name="goto_weather">查看天气</string>
      <string name="guid_one">· Collegati alla stessa rete Wi-Fi come dispositivo di destinazione</string>
      <string name="guid_three">· Alcuni controlli potrebbero non essere disponibili se il televisore o set-top box non supporta Android</string>
      <string name="guid_two">· Spegni il router di isolamento AP</string>

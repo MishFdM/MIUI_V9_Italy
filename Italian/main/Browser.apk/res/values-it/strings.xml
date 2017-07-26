@@ -855,7 +855,6 @@ Sei sicuro di voler abbandonare questa pagina?"</string>
      <string name="pull_to_refresh_pull_label">Trascina per aggiornare…</string>
      <string name="pull_to_refresh_release_label">Rilascia per andare ai Suggeriti ed aggiornare</string>
      <string name="qr_code_title">Codice QR</string>
-     <string name="qr_description">Scan QR code</string>
      <string name="quicklink_bookmark_save">Salva in</string>
      <string name="quicklink_cannot_save_url">Questo URL non può essere aggiunto.</string>
      <string name="quicklink_folder_text">App Top</string>
@@ -1108,7 +1107,6 @@ Sei sicuro di voler abbandonare questa pagina?"</string>
      <string name="view_document_downloaded_files">Accedi ai file scaricati del Gestore download</string>
      <string name="voice_check_network">Controlla la rete e prova di nuovo</string>
      <string name="voice_connect_network">Impossibile connettersi alla rete</string>
-     <string name="voice_description">Voice search</string>
      <string name="voice_network_connection">"L'utilizzo della ricerca vocale richiede la connessione di rete, devi autorizzare la connessione"</string>
      <string name="voice_search_permission">La ricerca vocale richiede i permessi adeguati, vai nelle impostazioni del Browser per aprire i permessi vocali</string>
      <string name="voice_semantic_analysis">Analisi semantica dopo la connessione</string>

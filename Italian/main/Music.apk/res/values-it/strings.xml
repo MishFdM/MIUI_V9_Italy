@@ -74,8 +74,6 @@
      <string name="asset_sync_power_alert_title">Batteria in esaurimento</string>
      <string name="atmd_music">Ultimate</string>
      <string name="audio_picker_title">Scegli un brano</string>
-     <string name="audio_recognition_setting_summary">"Automatically optimize song' info, album and lyric when playing local songs"</string>
-     <string name="audio_recognition_setting_title">Intelligent optimize album and lyric</string>
      <string name="auth_activity_title">Account Xunlei</string>
      <string name="auto_download_in_wifi">Nessuna connessione internet rilevata</string>
      <string name="auto_payment">Rinnovo automatico</string>
@@ -111,6 +109,9 @@
      <string name="cancel_running_download">Annulla</string>
      <string name="change_download_quality">Modifica qualità download</string>
      <string name="channel_list_fragment_title">Radio</string>
+     <string name="chinese_female">Female artists (China)</string>
+     <string name="chinese_group">Bands (China)</string>
+     <string name="chinese_male">Male artists (China)</string>
      <string name="choose_download_quality">Seleziona la qualità dei download</string>
      <string name="choose_stream_quality">Seleziona la qualità dello streaming</string>
      <string name="click_modify">Tocca per modificare i testi</string>
@@ -304,6 +305,9 @@
      <string name="enable_auto_payment_success">Rinnova automaticamente</string>
      <string name="enable_auto_payment_success_message">Rinnovo automatico attivato. Il prossimo pagamento scadrà il %s.</string>
      <string name="enabled">Attivato</string>
+     <string name="english_female">Female artists (US/Europe)</string>
+     <string name="english_group">Bands (US/Europe)</string>
+     <string name="english_male">Male artists (US/Europe)</string>
      <string name="enter_garbage_clean">Pulisci memoria interna.</string>
      <string name="eq_auto">Personalizza</string>
      <string name="eq_blues">Blues</string>
@@ -340,6 +344,7 @@
      <string name="favorites">Preferiti</string>
      <string name="favourite_music_left_half">Per aggiungere brani a questa playlist, tocca</string>
      <string name="favourite_music_right_half">"l'icona Preferito alla destra del titolo del brano"</string>
+     <string name="female_artist">Female artists</string>
      <string name="file_not_found">File inesistente</string>
      <string name="filter_by_duration">Per durata</string>
      <string name="filter_by_duration_format">%2$dm %5$2ds</string>
@@ -398,6 +403,7 @@
      <string name="global_search_title_movie">lista canzoni da film</string>
      <string name="global_search_title_prenatal">Musica prenatale</string>
      <string name="global_search_title_radar">Riconoscimento musica</string>
+     <string name="group_artist">Bands</string>
      <string name="handle_later">Non adesso</string>
      <string name="higher_quality_music">Audio di alta qualità</string>
      <string name="higher_quality_music_summary">Esegui download e streaming alla massima qualità</string>
@@ -424,6 +430,9 @@
      <string name="is_scanning">Scansione, attendere…</string>
      <string name="is_scanning_support_online">"Scansione, 
 attendere o selezionare Musica Online."</string>
+     <string name="japan_korea_female">Female artists (Japan/Korea)</string>
+     <string name="japan_korea_group">Bands (Japan/Korea)</string>
+     <string name="japan_korea_male">Male artists (Japan/Korea)</string>
      <string name="keep_queued_download">Mantieni</string>
      <string name="ktv_playlist">Il mio KTV</string>
      <string name="latest_song">Riproduci cronologia (%d).</string>
@@ -455,6 +464,7 @@ attendere o selezionare Musica Online."</string>
      <string name="lyric_is_empty">Testo vuoto o non disponibile.</string>
      <string name="lyric_open_other_connect">Scarica testi utilizzando la connessione dati cellulare</string>
      <string name="lyric_setting">Impostazioni testi</string>
+     <string name="male_artist">Male artists</string>
      <string name="manager_cloud_space">Gestisci spazio Mi Cloud</string>
      <string name="max_sleep_time">%d</string>
      <string name="media_filter">Media</string>
@@ -820,13 +830,8 @@ attendere o selezionare Musica Online."</string>
      <string name="talkback_download">Scarica</string>
      <string name="talkback_favorite">Mi piace</string>
      <string name="talkback_mode">Ripetizione playlist</string>
-     <string name="talkback_mode_repeat_all">List loop mode</string>
-     <string name="talkback_mode_repeat_current">Single loop mode</string>
-     <string name="talkback_mode_repeat_shuffle">Random play mode</string>
      <string name="talkback_more">Altri menù</string>
      <string name="talkback_next">Prossimo brano</string>
-     <string name="talkback_nowplaying_bar">Play Bar</string>
-     <string name="talkback_nowplaying_circle">Play Circle</string>
      <string name="talkback_play">Riproduci / Pausa</string>
      <string name="talkback_pre">Brano precedente</string>
      <string name="talkback_progress">Barra progresso</string>
@@ -868,6 +873,7 @@ attendere o selezionare Musica Online."</string>
      <string name="track_main_fragment_tab_album">Album</string>
      <string name="track_main_fragment_tab_track">Brano</string>
      <string name="track_search_title">Brano</string>
+     <string name="track_view">Song</string>
      <string name="traffic_free_to_play">Utilizza il piano dati musica</string>
      <string name="traffic_network_alert">Piano dati Mi Music</string>
      <string name="traffic_network_alert_message">Stai utilizzando un piano dati Mi Music fornito da China Unicom. Dovresti connetterti ad una rete 3G per ascoltare musica in streaming senza costi aggiuntivi. Assicurati di aver verificato la tua connessione prima di ascoltare musica in streaming.</string>
