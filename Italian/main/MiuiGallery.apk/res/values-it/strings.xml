@@ -619,7 +619,6 @@
      <string name="confirm_recommandation_face_is">" "<data> Sei sicuro che sia <font color="#323232"><b>%1$s</b></font>? Questo volto verrà spostato in \"%2$s\" dopo la conferma. </data>" "</string>
      <string name="confirm_recommandation_face_not">"" "&lt;Data&gt;" Sure this isn't &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? "&lt;/Data&gt;" "</string>
      <string name="confirm_recommandation_multiple_faces_are">" "<data> Sei sicuro che siano <font color="#323232"><b>%1$s</b></font>? Questi volti verranno spostati in \"%2$s\" dopo la conferma. </data>" "</string>
-     <string name="confirm_recommandation_multiple_faces_not">" " "&lt;Data&gt;" Sure these aren't &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? "&lt;/Data&gt;" ""</string>
      <string name="contact_tip">Contatti</string>
      <string name="context_menu_add_contact">Aggiungi ai contatti</string>
      <string name="context_menu_copy">Copia</string>
