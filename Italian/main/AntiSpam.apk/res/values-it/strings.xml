@@ -14,7 +14,6 @@
     <string name="bl_no_block_sms">Tutti i messaggi bloccati verranno registrati qui</string>
     <string name="bl_no_blacklist">Blacklist vuota</string>
     <string name="wl_no_whitelist">Nessun numero consentito</string>
-    <string name="log_count">(%d)</string>
     <string name="tab_block_log_unKnowNumber">Numero sconosciuto</string>
     <string name="user_define_title">Personalizza</string>
     <string name="blacklist_prefix_add_hint">Aggiungi alla blacklist tutti i numeri con prefisso</string>
@@ -280,7 +279,6 @@
     <string name="info_unantispam_phone_sms">Consenti messaggi e chiamate</string>
     <string name="st_antispam_delete">Elimina</string>
     <string name="baidu_thanks">Fornito da Baidu</string>
-    <string name="info_antispam_current_mode">%s</string>
     <string name="note_list_none">Nessuna lista da modificare</string>
     <string name="note_sms_none">Nessun messaggio da modificare</string>
     <string name="note_call_none">Nessun dato da modificare</string>
@@ -322,7 +320,6 @@
     <string name="mark_sell_time_setting">Blocca i numeri segnalati come venditori più di un certo numero di volte</string>
     <string name="mark_harass_time_setting">Blocca i numeri segnalati come indesiderati più di un certo numero di volte</string>
     <string name="mark_courier_time_setting">Blocca i numeri riportati come corrieri un certo numero di volte</string>
-    <string name="mark_time_text">%d</string>
     <string name="mark_time_setting_dialog_title">Impostazioni numero segnalazione</string>
     <string name="sms_smart_engine_update">Aggiorna automaticamente il filtro SMS</string>
     <string name="mark_number_setting_guide_title">Blocca i numeri segnalati</string>
