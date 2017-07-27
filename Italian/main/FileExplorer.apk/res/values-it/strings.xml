@@ -419,6 +419,7 @@
      <string name="other_user_no_liked_video_tip">Nessun video piaciuto.</string>
      <string name="overwrite_msg">\"%s\" è già esistente. Tocca per sostituirlo con il nuovo file.</string>
      <string name="pad">Memoria interna</string>
+     <string name="partial_cancel_successful">"Couldn't remove some files. Moved the rest of the files to %s."</string>
      <string name="partial_delete_failure">Non è stato possibile eliminare alcuni file, riprova</string>
      <string name="partial_encrypt_success">Non è stato possibile nascondere alcuni file, riprova"</string>
      <string name="path_download">Gestisci i tuoi download</string>
