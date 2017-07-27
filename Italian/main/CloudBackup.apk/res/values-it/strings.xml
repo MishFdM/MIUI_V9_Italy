@@ -122,4 +122,5 @@ Nota: i dati delle applicazioni installate non verranno salvati su Mi Cloud."</s
      <string name="start_recover">Ripristino %s</string>
      <string name="success_open_cloudbackup">Backup applicazioni Schermata Home attivato</string>
      <string name="wait_icon_download">Download icona applicazione</string>
+     <string name="xiaomi_account_type">com.xiaomi</string>
 </resources>

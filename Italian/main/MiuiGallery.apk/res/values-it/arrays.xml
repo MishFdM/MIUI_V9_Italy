@@ -4,6 +4,10 @@
         <item>Bambino</item>
         <item>Bambina</item>
      </string-array>
+     <string-array name="baby_sexy_value">
+        <item>male</item>
+        <item>female</item>
+     </string-array>
      <integer-array name="backup_pause_hours">
         <item>2</item>
         <item>12</item>
@@ -15,6 +19,14 @@
         <item>Nonna paterna</item>
         <item>Nonno materno</item>
         <item>Nonna materna</item>
+     </string-array>
+     <string-array name="owner_relation_value">
+        <item>father</item>
+        <item>mother</item>
+        <item>grandfather</item>
+        <item>grandmother</item>
+        <item>maternalGrandfather</item>
+        <item>maternalGrandmother</item>
      </string-array>
      <string-array name="relation_with_me">
         <item>Io</item>

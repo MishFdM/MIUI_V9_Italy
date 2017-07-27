@@ -43,6 +43,7 @@
      <string name="bt_toast_6">Invio del file a \"%1$s\" interrotto</string>
      <string name="btopp_live_folder">Ricezione Bluetooth avvenuta</string>
      <string name="defaultname">Kit auto</string>
+     <string name="defaultnumber">000000</string>
      <string name="deleteAll_record">Elimina tutti i record</string>
      <string name="delete_record">Elimina record</string>
      <string name="download_cancel">Interrompi</string>

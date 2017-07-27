@@ -230,7 +230,9 @@ La funzione di risparmio energetico viene disattivata automaticamente quando il 
      <string name="config_customVpnConfirmDialogComponent">com.android.vpndialogs/com.android.vpndialogs.ConfirmDialog</string>
      <string name="config_datause_iface">rmnet0</string>
      <string name="config_defaultDndAccessPackages">com.android.camera2</string>
+     <string name="config_defaultNetworkScorerPackageName" />
      <string name="config_defaultPictureInPictureBounds">180 200 880 600</string>
+     <string name="config_default_dns_server">8.8.8.8</string>
      <string name="config_demoModeLauncherComponent">com.android.retaildemo/.DemoPlayer</string>
      <string name="config_deviceProvisioningPackage" />
      <string name="config_doubleTouchGestureEnableFile" />
@@ -320,6 +322,9 @@ utilizzando %s"</string>
      <string name="date_time_set">Imposta</string>
      <string name="day">giorno</string>
      <string name="days">giorni</string>
+     <string name="db_default_journal_mode">PERSIST</string>
+     <string name="db_default_sync_mode">FULL</string>
+     <string name="db_wal_sync_mode">FULL</string>
      <string name="decline">Rifiuto</string>
      <string name="decline_remote_bugreport_action">DECLINE</string>
      <string name="def_custom_bt_defname" />
@@ -333,6 +338,7 @@ utilizzando %s"</string>
      <string name="default_audio_route_name_headphones">Cuffie</string>
      <string name="default_browser" />
      <string name="default_media_route_name_hdmi">HDMI</string>
+     <string name="default_sms_application">com.android.mms</string>
      <string name="delete">Elimina</string>
      <string name="deleteText">Elimina</string>
      <string name="deleted_key">%1$s eliminato</string>

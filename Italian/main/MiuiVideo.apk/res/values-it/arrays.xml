@@ -63,9 +63,17 @@
         <item>Server test</item>
         <item>Server online</item>
      </string-array>
+     <string-array name="server_list_entries_value">
+        <item>cp.v3.tv.mitvos.com</item>
+        <item>api.video.xiaomi.com</item>
+     </string-array>
      <string-array name="version_list_entries">
         <item>Stabile</item>
         <item>Beta</item>
+     </string-array>
+     <string-array name="version_list_entries_value">
+        <item>90</item>
+        <item>00</item>
      </string-array>
      <array name="vip_rights">
         <item>@array/right_item1</item>

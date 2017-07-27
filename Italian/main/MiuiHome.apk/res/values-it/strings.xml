@@ -141,6 +141,7 @@
      <string name="guide_install_app_msg">"Applicazione non installata. Vuoi cercare l'app sul Play Store?"</string>
      <string name="guide_install_app_title">"Installa l'applicazione"</string>
      <string name="guide_tips_editing_mode">Tocca e tieni premuto per modificare un widget</string>
+     <string name="home_indicator">bottom_point</string>
      <string name="home_screen">Schermata Home</string>
      <string name="image_too_small_message">"L'immagine originale non è abbastanza grande"</string>
      <string name="install">Installa</string>
@@ -269,6 +270,7 @@
      <string name="wallpaper_failed_message">Impossibile applicare lo sfondo</string>
      <string name="wallpaper_scaling_message">Ridimensionamento alla dimensione applicata</string>
      <string name="wallpaper_scroll_type_tips">Sfondo scorrevole</string>
+     <string name="wallpaper_scrolling">all</string>
      <string name="wallpaper_settings">Impostazioni sfondo</string>
      <string name="wallpaper_success_message">Sfondo applicato con successo</string>
      <string name="widget_favorite_contacts_edit">Modifica</string>

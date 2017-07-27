@@ -1873,8 +1873,12 @@ Quando attivi il backup automatico, il dispositivo e i dati delle applicazioni v
      <string name="input_method">Metodo inserimento</string>
      <string name="input_method_selector">Selettore metodo di immissione</string>
      <string name="input_method_selector_always_hide_title">Nascondi sempre</string>
+     <string name="input_method_selector_always_hide_value">2</string>
      <string name="input_method_selector_always_show_title">Mostra sempre</string>
+     <string name="input_method_selector_always_show_value">1</string>
      <string name="input_method_selector_show_automatically_title">Automatico</string>
+     <string name="input_method_selector_show_automatically_value">0</string>
+     <string name="input_method_selector_visibility_default_value">0</string>
      <string name="input_method_settings">Impostazioni</string>
      <string name="input_method_settings_button">Impostazioni</string>
      <string name="input_methods_and_subtype_enabler_title">Scegli metodi di immissione attivi</string>

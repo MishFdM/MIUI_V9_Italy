@@ -282,6 +282,7 @@ Se riattivi i dati, l'operatore potrebbe addebitarti un costo."</string>
      <string name="ext_media_safe_unmount_notification_title">"Rimozione sicura dell'archivio USB"</string>
      <string name="ext_media_unmountable_notification_message">Archivio USB danneggiato. Potrebbe essere necessario formattarlo.</string>
      <string name="ext_media_unmountable_notification_title">Archivio USB danneggiato</string>
+     <string name="flash_device">/sys/class/leds/flashlight/brightness</string>
      <string name="float_incall_ignore">Ignora</string>
      <string name="float_incall_message">Messaggio</string>
      <string name="force_allow_on_external">Force allow apps on external</string>

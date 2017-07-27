@@ -775,6 +775,9 @@ Sei sicuro di voler abbandonare questa pagina?"</string>
      <string name="pref_content_night_read_mode">Modalità notte</string>
      <string name="pref_content_search_engine">Imposta motore di ricerca preferito</string>
      <string name="pref_content_search_engine_summary">Scegli un motore di ricerca</string>
+     <string name="pref_data_preload_value_always">ALWAYS</string>
+     <string name="pref_data_preload_value_never">NEVER</string>
+     <string name="pref_data_preload_value_wifi_only">WIFI_ONLY</string>
      <string name="pref_enable_adblock_notification">Notifiche Ad blocker</string>
      <string name="pref_enable_news">Nuovi avvisi</string>
      <string name="pref_enable_novels">Libri</string>
@@ -797,7 +800,13 @@ Sei sicuro di voler abbandonare questa pagina?"</string>
      <string name="pref_force_userscalable">Attivazione forzata zoom</string>
      <string name="pref_force_userscalable_summary">Ignora richieste dei siti di controllare lo zoom</string>
      <string name="pref_general_title">Generali</string>
+     <string name="pref_images_preload_value_always">2</string>
+     <string name="pref_images_preload_value_never">0</string>
+     <string name="pref_images_preload_value_wifi_only">1</string>
      <string name="pref_key_gesture_title">Tasti e gesti</string>
+     <string name="pref_link_prefetch_value_always">ALWAYS</string>
+     <string name="pref_link_prefetch_value_never">NEVER</string>
+     <string name="pref_link_prefetch_value_wifi_only">WIFI_ONLY</string>
      <string name="pref_nav_mode_summary_pad">Tablet</string>
      <string name="pref_nav_mode_summary_phone">Telefono</string>
      <string name="pref_nav_mode_title">Modalità browser</string>
@@ -845,6 +854,9 @@ Sei sicuro di voler abbandonare questa pagina?"</string>
      <string name="pref_setting_title">Impostazioni pagina</string>
      <string name="pref_ua_string">Stringa user agent</string>
      <string name="pref_version_info">Info versione</string>
+     <string name="pref_video_preload_value_always">ALWAYS</string>
+     <string name="pref_video_preload_value_never">NEVER</string>
+     <string name="pref_video_preload_value_wifi_only">WIFI_ONLY</string>
      <string name="pref_volume_key_action">Scorri con i tasti volume</string>
      <string name="private_browsing_warning">Questa funzione non è supportata su questa versione di Android.</string>
      <string name="profiler_error_toast">Impossibile avviare profilo</string>

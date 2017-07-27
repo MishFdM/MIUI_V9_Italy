@@ -413,6 +413,7 @@
      <string name="email_setting_keywords">Account;Aggiungi account;account mail;aggiungi account mail;conferma prima di eliminare;conferma eliminazione;conferma prima di inviare;invia conferma;elimina flusso messaggi;elimina reindirizzamento;visualizza conversazione;conversazione mail;risparmio batteria;batteria mail;invia feedback;invia log</string>
      <string name="email_sina">Sina Mail</string>
      <string name="email_suggestions_authority">com.android.email.provider</string>
+     <string name="eml_attachment_provider">com.android.email.provider.eml.attachment</string>
      <string name="empty_account_tip">"Impossibile trovare l'account"</string>
      <string name="empty_email_tip">Impossibile inviare email vuota</string>
      <string name="empty_spam">Svuota spam</string>
@@ -572,6 +573,14 @@
      <string name="mailbox_name_display_starred">Speciali</string>
      <string name="mailbox_name_display_trash">Cestino</string>
      <string name="mailbox_name_display_unread">Da leggere</string>
+     <string name="mailbox_name_server_all_unread">Unread</string>
+     <string name="mailbox_name_server_drafts">Drafts</string>
+     <string name="mailbox_name_server_inbox">Inbox</string>
+     <string name="mailbox_name_server_junk">Junk</string>
+     <string name="mailbox_name_server_outbox">Outbox</string>
+     <string name="mailbox_name_server_sent">Sent</string>
+     <string name="mailbox_name_server_starred">Starred</string>
+     <string name="mailbox_name_server_trash">Trash</string>
      <string name="mailbox_settings_activity_title">Opzioni di sincronizzazione</string>
      <string name="mailbox_settings_activity_title_with_mailbox">Opzioni di sincronizzazione (%s)</string>
      <string name="mailbox_settings_mailbox_sync_window_label">Giorni da sincronizzare</string>
@@ -784,6 +793,7 @@ perr icevere promemoria sui pagamenti dei tuoi viaggi"</string>
      <string name="policy_screen_timeout">Richiedi dispos. inattivo per blocco schermo</string>
      <string name="policy_text_truncation">Restringi dimensione email testo</string>
      <string name="pop3_name">POP3</string>
+     <string name="prefDefault_autoAdvance">list</string>
      <string name="preference_eas_tips">Tocca Attiva per configurare il server email.</string>
      <string name="preference_imap_tips" />
      <string name="preference_pop_tips">Gli allegati verranno scaricati inseme alle email come previsto dal protocollo POP3. Fai attenzione quando utilizzi la connessione dati mobile.</string>
@@ -1090,6 +1100,7 @@ Tocca "<b>Sincronizza adesso</b> per sincronizzare le mail una volta, o <b>Modif
      <string name="widget_all_mail">Aggiungi Mail</string>
      <string name="widget_large_unread_count">%d+</string>
      <string name="widget_other_views">Altro</string>
+     <string name="widget_provider">com.kingsoft.email.provider.WidgetProvider</string>
      <string name="wipe_account_fail_description">Consenti</string>
      <string name="wipe_account_fail_title">Impossibile eliminare informazioni personali</string>
      <string name="wrong_password">Password errata</string>
