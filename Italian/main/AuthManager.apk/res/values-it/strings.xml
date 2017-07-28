@@ -101,5 +101,4 @@
      <string name="screen_overlay_button">Apri impostazioni</string>
      <string name="screen_overlay_message">Per modificare queste impostazioni di autorizzazione, devi prima disattivare la sovrapposizione dello schermo in Impostazioni > Applicazioni</string>
      <string name="screen_overlay_title">Sovrapposizione schermo rilevato</string>
-     <string name="static_cache_db_md5">6718fd8466a6a7361e40ebafa6299e3d</string>
 </resources>

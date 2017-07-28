@@ -79,14 +79,11 @@
      <string name="custom_progress">%d elementi</string>
      <string name="data_item_desc">Dati</string>
      <string name="data_no_enough_space_message">Non hai abbastanza spazio nella memoria interna del dispositivo.</string>
-     <string name="date_format">HH:mm:ss MM-dd-yyyy</string>
      <string name="delete">Elimina</string>
      <string name="delete_backup_process">Eliminazione in corso…</string>
      <string name="delete_backup_title">Elimina backup</string>
      <string name="delete_failed_backup_confirm">Si è verificato un errore. Impossibile ripristinare da questo backup.</string>
      <string name="deselect_all">Deseleziona tutto</string>
-     <string name="digit_percent">%</string>
-     <string name="dir_date_format">yyyyMMdd_HHmmss</string>
      <string name="disable_encrypt_title">Crittografia disabilitata</string>
      <string name="enable_encrypt">Abilita adesso</string>
      <string name="enable_encrypt_fail">Abilitazione crittografia fallita</string>
@@ -338,7 +335,6 @@ In attesa del trasferimento…"</string>
      <string name="user_notice_message">Alcune funzioni richiedono una connessione internet per funzionare correttamente.</string>
      <string name="user_notice_title">Notifiche utente</string>
      <string name="wifi_title">Impostazioni Wi-Fi</string>
-     <string name="xiaomi_account_type">com.xiaomi</string>
      <string name="xiaomi_bytes_unit">%1$s B</string>
      <string name="xiaomi_connect_download_manager_fail">Connessione Download Manager fallita, controlla lo stato del Download Manager nella Gestione Applicazioni.</string>
      <string name="xiaomi_external_storage_unavailable">Memoria non disponibile, verifica la scheda SD.</string>

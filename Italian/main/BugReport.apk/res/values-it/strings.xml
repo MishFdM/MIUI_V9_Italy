@@ -107,8 +107,6 @@
      <string name="feedback_tracking">Segui le segnalazioni</string>
      <string name="feedback_version_label">Versione</string>
      <string name="feesback_list">Report</string>
-     <string name="first_position">2#</string>
-     <string name="floor">%1$s#</string>
      <string name="from">da %1$s</string>
      <string name="goon_feedback_main">Continua</string>
      <string name="hint_feedback_main">Descrivi il problema</string>
@@ -119,7 +117,6 @@
      <string name="menu_copy">Copia</string>
      <string name="message_label">Messaggio</string>
      <string name="michat_app_name">Supporto online</string>
-     <string name="michat_artificial_customer_phone">4001005678</string>
      <string name="michat_artificial_customer_phone_dial_error">Se non riesci a chiamare il numero 400, componi %1$s utilizzando un telefono diverso</string>
      <string name="michat_artificial_customer_text">Support personnel</string>
      <string name="michat_attach_image">Immagini</string>
@@ -221,12 +218,10 @@
      <string name="network_unavailable_dialog_content">Il tuo feedback verrà inviato appena la rete sarà disponibile</string>
      <string name="network_unavailable_dialog_title">Network non disponibile</string>
      <string name="non_system_app_select">App scaricate</string>
-     <string name="nothing">--</string>
      <string name="open_feedback_main">Altro</string>
      <string name="packaging_dialog_content">Generazione rapporto, si prega di attendere…</string>
      <string name="permission_granted">%1$s permessi concessi</string>
      <string name="pic_not_exist">Questa immagine non esiste</string>
-     <string name="pic_view_format">%1$s/%2$s</string>
      <string name="plus_one_submit_dialog_content">Il tuo feedback, insieme al log di errore, verrà inviato ai server Xiaomi.</string>
      <string name="plus_one_submit_dialog_not_show_again">Ricorda la scelta</string>
      <string name="post_miui_bbs_failed">Impossibile postare sul Forum</string>
@@ -244,7 +239,6 @@
      <string name="save_pic_fail">"Impossibile salvare l'immagine, controlla la tua scheda SD"</string>
      <string name="save_pic_success">Salva immagine in %s</string>
      <string name="screen_lock">Blocco schermo</string>
-     <string name="second_position">3#</string>
      <string name="section_description">Descrizione</string>
      <string name="section_err_type">Tipologia Feedback</string>
      <string name="section_screenshot">Screenshot</string>
@@ -288,7 +282,6 @@
      <string name="toast_report_sent_succeed">Il rapporto è stato inviato con successo</string>
      <string name="toast_third_packagename_required">Inserisci nome app</string>
      <string name="toast_title_required">Descrivi il tuo problema</string>
-     <string name="topic_author">1#</string>
      <string name="try_again">Prova di nuovo</string>
      <string name="upload_log_failed">Impossibile inviare logs</string>
      <string name="warning_field_empty">Inserisci %1$s</string>
