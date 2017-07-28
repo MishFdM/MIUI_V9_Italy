@@ -5,14 +5,9 @@
      <string name="SMTP_username_text">Nome utente</string>
      <string name="accessibility_guide_first">Nella prossima schermata, seleziona il tab \"Servizi\" per attivare il 139 Email Configurazione Automatica</string>
      <string name="accessibility_guide_second">""Poi tocca il comando nell'angolo in alto a destra, click the \"Confirm\" to continue."</string>
-     <string name="account_cache_provider">Account Cache Provider</string>
      <string name="account_duplicate_dlg_message_fmt">"Utilizzi già questo nome utente per l'account \"%s\"."</string>
      <string name="account_duplicate_dlg_title">Account duplicato</string>
      <string name="account_failure">Account failure</string>
-     <string name="account_manager_type_exchange">com.android.exchange</string>
-     <string name="account_manager_type_imap">com.android.email</string>
-     <string name="account_manager_type_legacy_imap">com.android.email</string>
-     <string name="account_manager_type_pop3">com.android.email</string>
      <string name="account_name_toast">Nome già esistente, rinominare</string>
      <string name="account_options_sync_title">Sync</string>
      <string name="account_password_spaces_error">Questa password inizia o termina con uno o più spazi. Molti server non supportano le password contenenti spazi.</string>
@@ -167,7 +162,6 @@
      <string name="always_bcc_myself">Mettimi sempre in Ccn nelle mail</string>
      <string name="always_show_images">Mostra sempre le immagini da questo mittente</string>
      <string name="app_name">Email</string>
-     <string name="application_mime_type">application/email-ls</string>
      <string name="archive">Archivia</string>
      <string name="archived">Archiviata</string>
      <string name="att_download_failed_content">Download fallito</string>
@@ -203,7 +197,6 @@
      <string name="attachment_unknown">File %s</string>
      <string name="attachment_video">Video</string>
      <string name="attachments_header">Allegati</string>
-     <string name="authority_email_provider">com.android.email.provider</string>
      <string name="auto_advance_help_title">"Dopo un'eliminazione, mostra…"</string>
      <string name="auto_advance_label">Avanzamento automatico</string>
      <string name="auto_advance_summary">"Scegli quale schermata visualizzare dopo l'eliminazione di un messaggio"</string>
@@ -324,7 +317,6 @@
      <string name="contextmenu_send_mail">Invia email</string>
      <string name="contextmenu_sharelink">Condividi link</string>
      <string name="contextmenu_sms_dot">SMS…</string>
-     <string name="conversation_content_provider">Conversation Content Provider</string>
      <string name="conversation_folder_moved">Spostata in %1$s</string>
      <string name="conversation_item_mark_read">Letta</string>
      <string name="conversation_item_mark_unread">Non letta</string>
@@ -400,8 +392,6 @@
      <string name="drawer_open">Apri pannello di navigazione</string>
      <string name="due">Scadenza</string>
      <string name="due_date_text">Pagamento finale</string>
-     <string name="eas_hotmail_email">hotmail.com</string>
-     <string name="eas_outlook_email">outlook.com</string>
      <string name="edit_quick_response_dialog">Risposta veloce</string>
      <string name="elided_padding_token"> </string>
      <string name="email_address">Indirizzo email</string>
@@ -413,7 +403,6 @@
      <string name="email_setting_keywords">Account;Aggiungi account;account mail;aggiungi account mail;conferma prima di eliminare;conferma eliminazione;conferma prima di inviare;invia conferma;elimina flusso messaggi;elimina reindirizzamento;visualizza conversazione;conversazione mail;risparmio batteria;batteria mail;invia feedback;invia log</string>
      <string name="email_sina">Sina Mail</string>
      <string name="email_suggestions_authority">com.android.email.provider</string>
-     <string name="eml_attachment_provider">com.android.email.provider.eml.attachment</string>
      <string name="empty_account_tip">"Impossibile trovare l'account"</string>
      <string name="empty_email_tip">Impossibile inviare email vuota</string>
      <string name="empty_spam">Svuota spam</string>
@@ -537,8 +526,6 @@
      <string name="info_switch_title">Promozione</string>
      <string name="inline_picture_deleted">"Impossibile trovare l'immagine, download in corso…"</string>
      <string name="input_password_prompt">Inserisci la tua password</string>
-     <string name="intent_account_manager_entry">com.android.email.activity.setup.ACCOUNT_MANAGER_ENTRY</string>
-     <string name="intent_exchange_package">com.android.exchange</string>
      <string name="interact_with_server_error">Impossibile collegarsi al server</string>
      <string name="invalid_recipient">"L'indirizzo %s non è valido."</string>
      <string name="invalid_recipient_title">Destinatario non valido</string>
@@ -573,14 +560,6 @@
      <string name="mailbox_name_display_starred">Speciali</string>
      <string name="mailbox_name_display_trash">Cestino</string>
      <string name="mailbox_name_display_unread">Da leggere</string>
-     <string name="mailbox_name_server_all_unread">Unread</string>
-     <string name="mailbox_name_server_drafts">Drafts</string>
-     <string name="mailbox_name_server_inbox">Inbox</string>
-     <string name="mailbox_name_server_junk">Junk</string>
-     <string name="mailbox_name_server_outbox">Outbox</string>
-     <string name="mailbox_name_server_sent">Sent</string>
-     <string name="mailbox_name_server_starred">Starred</string>
-     <string name="mailbox_name_server_trash">Trash</string>
      <string name="mailbox_settings_activity_title">Opzioni di sincronizzazione</string>
      <string name="mailbox_settings_activity_title_with_mailbox">Opzioni di sincronizzazione (%s)</string>
      <string name="mailbox_settings_mailbox_sync_window_label">Giorni da sincronizzare</string>
@@ -653,7 +632,6 @@
      <string name="min_payment_text">Pagamento minimo</string>
      <string name="more_atts_remaining">%1$d rimanenti</string>
      <string name="more_context">Altro</string>
-     <string name="more_string">+%1$s</string>
      <string name="move_to_selection_dialog_title">"Sposta in un'altra cartella"</string>
      <string name="multiple_new_message_notification_item">%1$s"   %2$s"</string>
      <string name="mute">Disattiva</string>
@@ -667,7 +645,6 @@
      <string name="new_messages">%1$d nuovi messaggi</string>
      <string name="next_action">Avanti</string>
      <string name="no">No</string>
-     <string name="no_address_email">noaddressemail@123.com</string>
      <string name="no_application_found">Nessuna applicazione può aprire questo allegato per la visualizzazione.</string>
      <string name="no_application_found_title">Apri questo allegato.</string>
      <string name="no_bill_discribe">"Impossibile trovare bollette.
@@ -793,7 +770,6 @@ perr icevere promemoria sui pagamenti dei tuoi viaggi"</string>
      <string name="policy_screen_timeout">Richiedi dispos. inattivo per blocco schermo</string>
      <string name="policy_text_truncation">Restringi dimensione email testo</string>
      <string name="pop3_name">POP3</string>
-     <string name="prefDefault_autoAdvance">list</string>
      <string name="preference_eas_tips">Tocca Attiva per configurare il server email.</string>
      <string name="preference_imap_tips" />
      <string name="preference_pop_tips">Gli allegati verranno scaricati inseme alle email come previsto dal protocollo POP3. Fai attenzione quando utilizzi la connessione dati mobile.</string>
@@ -806,10 +782,6 @@ perr icevere promemoria sui pagamenti dei tuoi viaggi"</string>
      <string name="previous_action">Indietro</string>
      <string name="print">Stampa</string>
      <string name="prompt_title">Prompt</string>
-     <string name="protocol_eas">eas</string>
-     <string name="protocol_imap">imap</string>
-     <string name="protocol_legacy_imap">imap</string>
-     <string name="protocol_pop3">pop3</string>
      <string name="protocol_setting_toast">"Tocca l'angolo in alto a destra per entrare nelle impostazioni dopo aver accettato"</string>
      <string name="pull_to_refresh">Trascina per aggiornare</string>
      <string name="push_wps_better_confirm_download">Scarica</string>
@@ -851,9 +823,7 @@ perr icevere promemoria sui pagamenti dei tuoi viaggi"</string>
      <string name="quick_reply_hint_bcc">(In Ccn)</string>
      <string name="quick_reply_hint_cc">(In Cc)</string>
      <string name="quick_reply_hint_reply_only_from">Risposta rapida (solo mittente)</string>
-     <string name="quick_reply_pattern">.*审批.*|.*批准.*|.*申请.*|.*申报.*|.*请示.*|.*请求.*</string>
      <string name="quick_responses_empty_view">Nessuna risposta rapida</string>
-     <string name="quote_begin">&lt;div class=\"wps_quotion\"&gt;</string>
      <string name="quote_divider_1">-------- Messaggio originale --------</string>
      <string name="quote_divider_11">----- Originale -----</string>
      <string name="quote_divider_12"> Messaggio originale </string>
@@ -888,10 +858,8 @@ perr icevere promemoria sui pagamenti dei tuoi viaggi"</string>
      <string name="recognize_hotel_other_money">Altre spese %1$s</string>
      <string name="recognize_hotel_reverse_date">Check in entro %1$s:%2$s %3$s</string>
      <string name="recognize_hotel_room_type">Camera</string>
-     <string name="recognize_hotel_room_type_value">%1$s × %2$s</string>
      <string name="recognize_hotel_title">Prenotazione hotel</string>
      <string name="recognize_hotel_user_names">Ospite</string>
-     <string name="recognize_hotel_user_names_value">%1$s+%2$s</string>
      <string name="recognize_setting_title">Impostazioni di viaggio</string>
      <string name="recognize_ticket_air_notification_content">Goditi il volo!</string>
      <string name="recognize_ticket_air_notification_title">Volo %3$s (%1$s/%2$s) will take off soon. Double check your flight info.</string>
@@ -923,10 +891,6 @@ perr icevere promemoria sui pagamenti dei tuoi viaggi"</string>
      <string name="reply_attribution" formatted="false">Il %s, %s ha scritto:</string>
      <string name="reply_subject_label">R:</string>
      <string name="report_phishing">Segnala come phishing</string>
-     <string name="report_rendering_improvement">Looks good</string>
-     <string name="report_rendering_improvement_desc">This message looks good.</string>
-     <string name="report_rendering_problem">Looks bad</string>
-     <string name="report_rendering_problem_desc">This message looks bad.</string>
      <string name="report_spam">Segnala come spam</string>
      <string name="request_entity_large">File richiesto troppo grande!</string>
      <string name="request_permission_activity">Richiesta Permissi</string>
@@ -975,7 +939,7 @@ perr icevere promemoria sui pagamenti dei tuoi viaggi"</string>
      <string name="ser_resp_err_map_mailbox_not_open">Nessun account email</string>
      <string name="ser_resp_err_map_max_connections">Troppi tentativi di connessione</string>
      <string name="ser_resp_err_map_nouser">Nessun utente</string>
-     <string name="ser_resp_err_map_or"> %1$s or %2$s</string>
+     <string name="ser_resp_err_map_or"> %1$s o %2$s</string>
      <string name="ser_resp_err_map_pserr">Nome utente o password non corre</string>
      <string name="ser_resp_err_map_serclosed">%s server closed</string>
      <string name="ser_resp_err_map_ssl">"Prova a selezionare 'SSL/TLS (accetta tutti i certificati)' in 'Tipo di sicurezza'"</string>
@@ -1008,15 +972,11 @@ perr icevere promemoria sui pagamenti dei tuoi viaggi"</string>
      <string name="special_text_5">wrote:</string>
      <string name="special_text_colon_en">:</string>
      <string name="special_text_colon_zh">：</string>
-     <string name="special_text_qq_subscribe">loadScript(_aoFiles){</string>
-     <string name="special_text_sender_en">sender</string>
-     <string name="special_text_sender_zh">发件人</string>
      <string name="storage">Memoria</string>
      <string name="str_select_all">Seleziona tutto</string>
      <string name="str_select_none">Deseleziona tutto</string>
      <string name="subject_and_snippet" formatted="false">%s — %s</string>
      <string name="subject_hint">Oggetto</string>
-     <string name="suggestions_authority">com.android.mail.providers.SuggestionsProvider</string>
      <string name="sync_error">Impossibile sincronizzare</string>
      <string name="sync_error_message">Spazio insufficiente per la sincronizzazione</string>
      <string name="syncing_wait_restart">Tocca Riprova</string>
@@ -1090,7 +1050,6 @@ Interrompere adesso?"</string>
      <string name="wait_for_manual_sync_body">""Questo account non è impostato per la sincronizzazione automatica.
 Tocca "<b>Sincronizza adesso</b> per sincronizzare le mail una volta, o <b>Modifica impostazioni di sincronizzazione</b> per impostare questo account per la sincronizzazione automatica."</string>
      <string name="wait_for_sync_title">In attesa di sincronizzazione</string>
-     <string name="wait_help_context">wait</string>
      <string name="webview_logout">Puoi provare ad accedere di nuovo</string>
      <string name="webview_logout_cancel">Non adesso</string>
      <string name="webview_logout_sure">Prova di nuovo</string>
@@ -1098,9 +1057,7 @@ Tocca "<b>Sincronizza adesso</b> per sincronizzare le mail una volta, o <b>Modif
      <string name="webview_sslerror_handle_continue">Continua</string>
      <string name="webview_sslerror_handle_hitmessage">Si è verificato un errore relativo al certificato, procedere comunque?</string>
      <string name="widget_all_mail">Aggiungi Mail</string>
-     <string name="widget_large_unread_count">%d+</string>
      <string name="widget_other_views">Altro</string>
-     <string name="widget_provider">com.kingsoft.email.provider.WidgetProvider</string>
      <string name="wipe_account_fail_description">Consenti</string>
      <string name="wipe_account_fail_title">Impossibile eliminare informazioni personali</string>
      <string name="wrong_password">Password errata</string>

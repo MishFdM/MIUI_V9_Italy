@@ -6,7 +6,6 @@
      <string name="activity_parse_video_title">Incolla URL</string>
      <string name="ad_download">Scaricate</string>
      <string name="ad_downloading">Caricamento…</string>
-     <string name="add_one">+1</string>
      <string name="add_private">Aggiungi file alle cartelle nascoste</string>
      <string name="add_private_files">Aggiungi file</string>
      <string name="album_creator">Creato da %s</string>
@@ -199,7 +198,6 @@
      <string name="favorite_ringtone">Suoneria</string>
      <string name="favorite_screen_cap">Screenshot MIUI</string>
      <string name="female">Femmina</string>
-     <string name="fileSizeSuffix">%1$s%2$s</string>
      <string name="file_info_canread">Lettura:</string>
      <string name="file_info_canwrite">Scrittura:</string>
      <string name="file_info_ishidden">Nascosto:</string>
@@ -540,8 +538,6 @@
      <string name="search_result_more">Altro</string>
      <string name="search_statistic_appname">fonte</string>
      <string name="search_statistic_keyword">keyin</string>
-     <string name="search_statistic_match_invalid">0</string>
-     <string name="search_statistic_match_valid">1</string>
      <string name="search_statistic_tag">tag</string>
      <string name="search_title">Cerca documenti</string>
      <string name="search_title_hint">Cerca</string>
@@ -740,7 +736,6 @@
      <string name="user_topic_text">Argomenti</string>
      <string name="user_video_text">Video</string>
      <string name="utf8_summary">Tipo di codifica predefinito</string>
-     <string name="utf8_title">UTF-8</string>
      <string name="video_ad_download">Installa</string>
      <string name="video_comment_hint">seleziona tag di argomenti richiesti</string>
      <string name="video_comment_limit">%1$s rimanenti</string>
@@ -773,9 +768,7 @@
      <string name="video_publish_watchable_tag">Seguimi per vedere questo video</string>
      <string name="video_status_reject">Rifiutato</string>
      <string name="video_status_review">In fase di verifica</string>
-     <string name="video_tag">\# %s #</string>
      <string name="video_tag_search_hint">personalizza un argomento</string>
-     <string name="video_tag_search_lead">\#</string>
      <string name="video_tag_search_title">Scegli un argomento</string>
      <string name="video_topic_hint">Cerca argomento</string>
      <string name="video_upload_btn">passo successivo</string>
