@@ -324,7 +324,6 @@
      <string name="color_picker_dialog_title">Seleziona colore</string>
      <string name="color_picker_hue">Colore</string>
      <string name="color_picker_saturation">Saturazione</string>
-     <string name="color_picker_value">Value</string>
      <string name="com_taobao_tae_sdk_alert_message">您离开太久了，请重新操作</string>
      <string name="com_taobao_tae_sdk_authorize_title">登录授权</string>
      <string name="com_taobao_tae_sdk_back_message">返回</string>

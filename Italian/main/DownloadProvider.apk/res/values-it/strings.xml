@@ -16,7 +16,6 @@
      <string name="download_apk_desktop_running">In download</string>
      <string name="download_error">Operazione non riuscita</string>
      <string name="download_no_application_title">Impossibile aprire il file</string>
-     <string name="download_percent">%d%%</string>
      <string name="download_queued">In coda</string>
      <string name="download_remaining">%s rimanenti</string>
      <string name="download_running">In corso</string>

@@ -186,14 +186,6 @@
      <string name="composer_failed_to_get_database_infomation">Recupero informazioni database non riuscito.</string>
      <string name="composer_has_no_exportable_contact">"Non sono presenti contatti esportabili. Se hai contatti sul dispositivo, è possibile che alcuni fornitori di dati non consentano l'esportazione dei contatti."</string>
      <string name="composer_not_initialized">Il compositore di vCard non si è avviato correttamente.</string>
-     <string name="config_export_dir">/mnt/sdcard</string>
-     <string name="config_export_extensions_to_consider" />
-     <string name="config_export_file_extension">vcf</string>
-     <string name="config_export_file_prefix" />
-     <string name="config_export_file_suffix" />
-     <string name="config_export_vcard_type">v30_generic</string>
-     <string name="config_import_vcard_type">default</string>
-     <string name="config_prohibited_phone_number_regexp" />
      <string name="confirm_delete_contact_all_call_logs">Cancellare il registro chiamate?</string>
      <string name="confirm_delete_selected_all_call_logs">Cancellare il registro chiamate?</string>
      <string name="confirm_delete_sim_entry_miui_title">Elimina</string>
@@ -545,7 +537,6 @@ Motivo: \"%s\""</string>
      <string name="import_multiple_vcard_string">Importa più file vCard</string>
      <string name="import_name">Nome</string>
      <string name="import_one_vcard_string">Importa un file vCard</string>
-     <string name="import_percent">0%</string>
      <string name="import_selected_sim_entries_miui">Importa i contatti selezionati</string>
      <string name="import_sim_entries_finish">Importazione contatti da SIM eseguita</string>
      <string name="import_sim_entry_miui">Importa</string>
@@ -565,7 +556,6 @@ Motivo: \"%s\""</string>
      <string name="import_weibo_fetch_followers">Fetching contacts…</string>
      <string name="import_weibo_notification_title_done">Updated %s contacts</string>
      <string name="import_weibo_progress_name">Matching \"%1$s\"…</string>
-     <string name="import_weibo_progress_percent">%1$d%%</string>
      <string name="importing_sim_contacts_miui">Importazione contatti dalla SIM…</string>
      <string name="importing_sim_contacts_miui_prepare">"Preparazione per l'impostazione…"</string>
      <string name="importing_vcard_canceled_title">Importazione di %s annullata</string>
@@ -893,8 +883,6 @@ Per aggiungere un contatto alla lista dei Preferiti:
      <string name="path_wipe_data">Applicazioni di sistema/Contatti/Organizza Contatti/Cancella dati</string>
      <string name="payphone">Telefonata a pagamento</string>
      <string name="people">Contatti</string>
-     <string name="percent_sign">%</string>
-     <string name="percentage">%s%%</string>
      <string name="phoneLabelsGroup">Telefono</string>
      <string name="phone_info_divider">" ｜ "</string>
      <string name="phone_number_too_long_toast">Numero troppo lungo</string>
@@ -986,7 +974,6 @@ Per aggiungere un contatto alla lista dei Preferiti:
      <string name="private_num">Numero privato</string>
      <string name="profileSavedErrorToast">Impossibile salvare le modifiche del mio profilo</string>
      <string name="profileSavedToast">Il mio profilo è salvato</string>
-     <string name="profile_binded_numbers">%s</string>
      <string name="profile_delete_toast">Profilo eliminato correttamente</string>
      <string name="profile_display_name">Imposta il mio profilo</string>
      <string name="profile_name">Il mio profilo</string>
