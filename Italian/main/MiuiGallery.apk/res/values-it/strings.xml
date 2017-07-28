@@ -50,7 +50,10 @@
      <string name="album_jump_failed">Attendi fino a che gli album non sono stati sincronizzati con Mi Cloud e prova di nuovo</string>
      <string name="album_member">Iscritto album %s</string>
      <string name="album_name">Nome album</string>
+     <string name="album_name_locations">Locations</string>
+     <string name="album_name_people">People</string>
      <string name="album_name_recent_discovery">Recenti</string>
+     <string name="album_name_tags">Tags</string>
      <string name="album_others_share_baby_info_format">Album bambino da %s</string>
      <string name="album_others_share_info_format">Da %s</string>
      <string name="album_owner_share">Le mie condivisioni</string>
@@ -696,6 +699,7 @@
      <string name="empty_recommend_back">Back</string>
      <string name="empty_recommend_face_page_view">Nessun altro suggerimento</string>
      <string name="empty_relation">Il nome del gruppo non può essere vuoto</string>
+     <string name="empty_title_no_photos">No photos or videos</string>
      <string name="enable_auto_upload_tip">"Questo album verrà rimosso da \"Altri album\" dopo l'attivazione."</string>
      <string name="enable_auto_upload_title">Attiva sincronizzazione con Mi Cloud</string>
      <string name="enable_cloud_for_sharing">"Abilita l'album per vedere le immagini condivise."</string>
@@ -787,7 +791,7 @@ Scatta più foto ai tuoi amici!"</string>
      <string name="has_invalid_recipient">Destinatari non validi: %1$s</string>
      <string name="have_known">Conosciuto</string>
      <string name="hidden_album_display_name">Album nascosto</string>
-     <string name="home_page_empty">Empty</string>
+     <string name="home_page_empty_action">Take a photo</string>
      <string name="home_page_label">Foto</string>
      <string name="how_to_set_relation">Tieni premuto su un album per creare un gruppo</string>
      <string name="hybrid_check_network">Impostazioni di rete</string>
@@ -941,7 +945,10 @@ Scatta più foto ai tuoi amici!"</string>
      <string name="other_album">Altri album</string>
      <string name="other_settings">Impostazioni aggiuntive</string>
      <string name="owner_album_subtitle">Condiviso con %1$s membri</string>
+     <string name="people_album_empty_title">Photos can be sorted by people in them</string>
      <string name="people_jump_failed">Attendi fino a che le foto con persone non sono state sincronizzate con Mi Cloud e prova di nuovo</string>
+     <string name="people_mark_mode_title">Select \"%s\"</string>
+     <string name="people_mark_mode_title_no_mark_name">Select a person</string>
      <string name="people_page_label">Volto</string>
      <string name="people_page_unname">Senza nome</string>
      <string name="percent_sign">%</string>
@@ -968,6 +975,7 @@ Scatta più foto ai tuoi amici!"</string>
      <string name="picker_title_format">puoi selezionare %d</string>
      <string name="picker_title_selection_format">%d selezionati</string>
      <string name="picker_title_unlimit">Seleziona immagine</string>
+     <string name="places_album_empty_title">Photos can be sorted by location</string>
      <string name="preparing_data">Preparazione…</string>
      <string name="projection_checkbox_text">Ricorda questo schermo</string>
      <string name="projection_device_connection_failed">Impossibile collegare il proiettore</string>
@@ -983,6 +991,7 @@ Scatta più foto ai tuoi amici!"</string>
      <string name="publish_succeeded">Album pubblicato</string>
      <string name="publishing">Pubblicazione in corso, attendere…</string>
      <string name="quotation">\"%s\"</string>
+     <string name="recent_album_empty_title">"Haven't added new photos recently"</string>
      <string name="recipient_editor_count_format">%d</string>
      <string name="recommanded_face_abandon_tip">Rimuovi dai suggerimenti</string>
      <string name="recommanded_face_added_tip">Aggiunto a \"%s\"</string>
@@ -1030,7 +1039,6 @@ Scatta più foto ai tuoi amici!"</string>
      <string name="scan_barcode_guide">"Per aprire un album con il Codice QR, tocca l'icona di condivisione nell'angolo in alto a destra."</string>
      <string name="scan_barcode_to_join">Scansiona il Codice QR per entrare in un album</string>
      <string name="scan_qr_code_buttom_text">Scansiona il Codice QR per vedere questo album.</string>
-     <string name="search_album_jump_failed">Wait until albums are synced with Mi Cloud and try again</string>
      <string name="search_backup_full_screen">Attiva la sincronizzazione con Mi Cloud per trovare altri elementi e persone</string>
      <string name="search_backup_now">Attiva</string>
      <string name="search_backup_sub_title">Attiva per trovare altre immagini</string>
@@ -1046,15 +1054,22 @@ Scatta più foto ai tuoi amici!"</string>
      <string name="search_login_sub_title">Accedi per vedere altre foto</string>
      <string name="search_login_title">Mi Account</string>
      <string name="search_login_title_full_screen">Accedi con il tuo Mi Account per trovare altri elementi e persone</string>
-     <string name="search_people_jump_failed">Wait until photos with people are synced with Mi Cloud and try again</string>
+     <string name="search_net_error">A network error occurred. Connect to a different network and try again.</string>
+     <string name="search_request_open">Join testing team</string>
      <string name="search_result_empty">Nessun risultato</string>
      <string name="search_retry">Prova di nuovo</string>
+     <string name="search_select_network">Select network</string>
      <string name="search_set_network_connection">Impostazioni di rete</string>
+     <string name="search_setting_sub_title">Improved image search</string>
+     <string name="search_setting_sub_title_open">Approved. Wait a while before you start.</string>
+     <string name="search_setting_title">Find photos in Gallery</string>
+     <string name="search_title_album">Album</string>
      <string name="search_title_history">Cronologia di ricerca</string>
      <string name="search_title_location">Posizioni</string>
      <string name="search_title_others">Tutti i risultati</string>
      <string name="search_title_people">Persone</string>
      <string name="search_title_recommend">Consigliati</string>
+     <string name="search_title_suggestion">Suggestions</string>
      <string name="search_title_tag">Oggetti</string>
      <string name="search_transition_element_icon">search_icon</string>
      <string name="search_transition_element_input">search_input</string>
@@ -1090,6 +1105,7 @@ Scatta più foto ai tuoi amici!"</string>
      <string name="set_face_image">Imposta un nuovo volto</string>
      <string name="set_group">Imposta gruppo</string>
      <string name="set_wallpaper_get_image_failed">"Impossibile scaricare l'immagine, prova più tardi"</string>
+     <string name="setup_network_connection">Network settings</string>
      <string name="share">Condividi</string>
      <string name="share_album">Condividi album</string>
      <string name="share_album_needs_auto_upload_tip">"L'album condiviso non può disattivare il backup automatico"</string>
@@ -1145,6 +1161,7 @@ Scatta più foto ai tuoi amici!"</string>
      <string name="text_append_hint">Inserisci testo</string>
      <string name="text_append_style">Bolla</string>
      <string name="text_append_transparent">Opacità</string>
+     <string name="things_album_empty_title">Photos can be sorted by objects in them</string>
      <string name="tip_capture_location">Località:</string>
      <string name="tip_capture_params">Parametri:</string>
      <string name="tip_capture_time">Data:</string>

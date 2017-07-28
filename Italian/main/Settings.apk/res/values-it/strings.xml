@@ -2429,9 +2429,12 @@ Ci sono altri utenti presenti su questo dispositivo.
      <string name="miui_allow_vibrate">Vibrazione</string>
      <string name="miui_data_usage_menu_metered">Hotspot dati cellulare</string>
      <string name="miui_experience_optimization">Attiva ottimizzazione MIUI</string>
+     <string name="miui_lab_feature_applied">Applied</string>
      <string name="miui_lab_feature_off">Off</string>
      <string name="miui_lab_feature_on">On</string>
      <string name="miui_lab_features">MIUI lab features</string>
+     <string name="miui_lab_gallery_search_desc">Improved image search</string>
+     <string name="miui_lab_gallery_search_title">Find photos in Gallery</string>
      <string name="miui_lab_settings">MIUI lab</string>
      <string name="miui_lab_slogan">Learn. Explore. Discover.</string>
      <string name="miui_lab_taplus_desc">Press and hold to trigger shortcuts</string>
