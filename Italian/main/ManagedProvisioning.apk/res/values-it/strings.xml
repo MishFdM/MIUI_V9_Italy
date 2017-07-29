@@ -2,11 +2,11 @@
 <resources>
      <string name="admin_has_ability_to_monitor_device">"L'amministratore ha la capacità di monitorare e gestire le impostazioni, l'accesso aziendale, applicazioni e i dati associati a questo dispositivo, tra cui attività di rete e le informazioni sulla posizione del dispositivo."</string>
      <string name="admin_has_ability_to_monitor_profile">"L'amministratore ha la capacità di monitorare e gestire le impostazioni, l'accesso aziendale, applicazioni e i dati associati al profilo, tra cui attività di rete e le informazioni sulla posizione del dispositivo."</string>
-     <string name="app_label">Work profile setup</string>
+     <string name="app_label">Imposta profilo di lavoro</string>
      <string name="cancel_delete_profile">Annulla</string>
      <string name="cancel_provisioning">Annulla</string>
      <string name="cancel_setup">Annulla</string>
-     <string name="cancel_setup_and_factory_reset_dialog_cancel">Cancel</string>
+     <string name="cancel_setup_and_factory_reset_dialog_cancel">Annulla</string>
      <string name="cancel_setup_and_factory_reset_dialog_msg">Ending this setup will factory reset your device and take you back to the first screen.</string>
      <string name="cancel_setup_and_factory_reset_dialog_ok">Reset device</string>
      <string name="cancel_setup_and_factory_reset_dialog_title">End setup and factory reset?</string>
@@ -46,7 +46,7 @@
      <string name="managed_provisioning_not_supported_by_launcher">Il tuo profilo di lavoro non è supportato da questo launcher. Devi passare ad un launcher compatibile.</string>
      <string name="maximum_user_limit_reached">Il profilo di lavoro non può essere creato perché hai raggiunto il numero massimo di utenti sul tuo dispositivo. Rimuovi almeno un utente e prova di nuovo."</string>
      <string name="mdm_icon_label">Icona %1$s</string>
-     <string name="next">Next</string>
+     <string name="next">Avanti</string>
      <string name="ok_setup">OK</string>
      <string name="opening_paragraph_delete_profile_known_company">Questo profilo di lavoro è gestito per %s utilizzando:</string>
      <string name="opening_paragraph_delete_profile_unknown_company">Esiste già un profilo di lavoro ed è gestito da:</string>
