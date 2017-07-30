@@ -1,29 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-     <array name="app_locating_animation_scaler">
-        <item>1.0</item>
-        <item>1.4</item>
-        <item>0.9</item>
-        <item>1.1</item>
-        <item>1.0</item>
-     </array>
-     <string-array name="cell_layout_size_entries">
-        <item>4x4</item>
-        <item>4x5</item>
-     </string-array>
-     <string-array name="cell_layout_size_values">
-        <item>4x4</item>
-        <item>4x5</item>
-     </string-array>
      <string-array name="editing_mode_entries">
         <item>Sfondo</item>
         <item>Widget</item>
         <item>Impostazioni</item>
-     </string-array>
-     <string-array name="editing_mode_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
      </string-array>
      <string-array name="gadget_weather_image">
         <item>Sereno</item>
@@ -56,16 +36,6 @@
         <item>Predefinito</item>
         <item>Classico</item>
      </string-array>
-     <array name="item_shake_animation_scaler">
-        <item>0.0dip</item>
-        <item>-4.0dip</item>
-        <item>2.0dip</item>
-        <item>-1.0dip</item>
-        <item>0.0dip</item>
-     </array>
-     <string-array name="quality_business_devices">
-        <item>lithium</item>
-     </string-array>
      <string-array name="transformation_entries">
         <item>Scorrimento senza rimbalzo</item>
         <item>Dissolvenza</item>
@@ -74,44 +44,11 @@
         <item>Cascata</item>
         <item>Rotazione</item>
         <item>Cubo</item>
-     </string-array>
-     <string-array name="transformation_values">
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>5</item>
-        <item>7</item>
-        <item>8</item>
-        <item>4</item>
-     </string-array>
+     </string-array>>
      <string-array name="wallpaper_scroll_entries">
         <item>Per tema</item>
         <item>Centro</item>
         <item>Sinistra</item>
         <item>Destra</item>
-     </string-array>
-     <string-array name="wallpaper_scroll_values">
-        <item>byTheme</item>
-        <item>center</item>
-        <item>left</item>
-        <item>right</item>
-     </string-array>
-     <string-array name="widget_sizes">
-        <item>home_edit_box_area_1_1</item>
-        <item>home_edit_box_area_1_2</item>
-        <item>home_edit_box_area_1_3</item>
-        <item>home_edit_box_area_1_4</item>
-        <item>home_edit_box_area_2_1</item>
-        <item>home_edit_box_area_2_2</item>
-        <item>home_edit_box_area_2_3</item>
-        <item>home_edit_box_area_2_4</item>
-        <item>home_edit_box_area_3_1</item>
-        <item>home_edit_box_area_3_2</item>
-        <item>home_edit_box_area_3_3</item>
-        <item>home_edit_box_area_3_4</item>
-        <item>home_edit_box_area_4_1</item>
-        <item>home_edit_box_area_4_2</item>
-        <item>home_edit_box_area_4_3</item>
-        <item>home_edit_box_area_4_4</item>
      </string-array>
 </resources>

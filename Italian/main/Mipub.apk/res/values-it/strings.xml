@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="prefDefault_ringtone_repeat">1</string>
     <string name="pref_summary_manage_sim_messages">Gestisci i messaggi archiviati sulla tua SIM</string>
     <string name="pref_title_manage_sim_messages">Gestici messaggi SIM</string>
     <string name="sim_empty">Nessun messaggio SIM</string>
@@ -215,8 +214,6 @@
     <string name="pref_title_festival_networking">Notifica connessione</string>
     <string name="left_cancel">Effettua uno swipe a sinistra per annullare</string>
     <string name="press_recording">"Premi e blocca l'icona del microfono per registrare"</string>
-    <string name="snippet_audio">[audio]</string>
-    <string name="snippet_picture">[picture]</string>
     <string name="hms_add_image_progress_message">Processo…</string>
     <string name="view_hms_attachment_fail">"Impossibile scaricare l'immagine"</string>
     <string name="hms_uri_param_err">"L'indirizzo URL non può essere vuoto"</string>
@@ -240,7 +237,6 @@
     <string name="message_block_confirmation">Confermi di non voler ricevere messaggi?</string>
     <string name="current_service_number">numero servizio attuale</string>
     <string name="menu_more_service">Altro</string>
-    <string name="app_name">com.miui.mipub</string>
     <string name="low_memory">Memoria insufficiente!</string>
     <string name="scan_result">Risultati scansione</string>
 </resources>

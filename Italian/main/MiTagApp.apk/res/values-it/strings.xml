@@ -21,7 +21,7 @@
     <string name="add">Aggiungi</string>
     <string name="write_tag">Scrivi tag</string>
     <string name="phone_call">Chiama</string>
-    <string name="call_sb">Chiama%s</string>
+    <string name="call_sb">Chiama %s</string>
     <string name="delete">Elimina</string>
     <string name="sound_ringer">Suoneria</string>
     <string name="sound_notification">Notifiche</string>
@@ -132,7 +132,6 @@ tocca un altro tag con il retro del tuo dispositivo."</string>
     <string name="on">Attivata</string>
     <string name="off">Disattivata</string>
     <string name="toggle">Cambia</string>
-    <string name="percent">%s%%</string>
     <string name="brightness">Luminosità</string>
     <string name="bluetooth">Bluetooth</string>
     <string name="call_to">Chiama…;</string>

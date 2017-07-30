@@ -51,7 +51,7 @@
     <string name="mipay_bank_card_cvv2">CVV2</string>
     <string name="mipay_bank_card_cvv2_hint">CVV2</string>
     <string name="mipay_bank_card_valid_date">Data di scadenza</string>
-    <string name="mipay_bank_card_valid_date_hint">MM/AA</string>
+    <string name="mipay_bank_card_valid_date_hint">MM/yy</string>
     <string name="mipay_bank_card_phone">Telefono</string>
     <string name="mipay_bank_card_phone_hint">Numero di telefono associato al conto corrente</string>
     <string name="mipay_bank_card_info_error">Verifica le informazioni sulla carta di credito</string>

@@ -64,5 +64,4 @@
      <string name="stop_by_second_space">"Cambiando l'utente si fermerà la registrazione schermo"</string>
      <string name="stop_record_while_locking">Terminare quando bloccato</string>
      <string name="stop_record_while_locking_summary">Termina e salva la registrazione quando il dispositivo è bloccato</string>
-     <string name="timer_format">%s</string>
 </resources>
