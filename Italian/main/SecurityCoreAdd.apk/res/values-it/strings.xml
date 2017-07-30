@@ -150,7 +150,7 @@ Puoi anche scaricarli separatamente"</string>
      <string name="passWordGuardSummary">Inserisci lo spazio secondario dalla schermata di blocco utilizzando una password</string>
      <string name="passwordProtect">Password</string>
      <string name="please_diff_finger_print">"Assicurati che le impronte per gli spazi Primario e Secondario siano diverse.
-Altrimenti potresti non essere in grado di accedere allo spazio Secondario dalla schermata di blocco.""</string>
+Altrimenti potresti non essere in grado di accedere allo spazio Secondario dalla schermata di blocco."</string>
      <string name="privacyContactsSummary">Mostra elementi private nello Spazio Secondario</string>
      <string name="privacyContactsTitle">Messaggi privati e contatti</string>
      <string name="private_sms_show_sub_title">I dati dei messaggi verranno condivisi tra i due spazi​</string>

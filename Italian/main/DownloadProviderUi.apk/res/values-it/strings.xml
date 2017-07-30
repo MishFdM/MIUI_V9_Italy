@@ -146,7 +146,7 @@
      <string name="editmode_menu_share">Condividi</string>
      <string name="engine_open">Apri</string>
      <string name="enter_search">Cerca</string>
-     <string name="experience_xunlei_account_speed">"Gli utenti Xunlei possono provare l'esperienza del download accelerato.""</string>
+     <string name="experience_xunlei_account_speed">"Gli utenti Xunlei possono provare l'esperienza del download accelerato."</string>
      <string name="expire_notification_msg">Il tuo account Xunlei sta per scadere, tocca Mostra Dettagli</string>
      <string name="expire_today_notification_msg">Il tuo account Xunlei scade oggi, tocca Mostra Dettagli</string>
      <string name="extend">estendi</string>
@@ -202,7 +202,7 @@
      <string name="new_add_bt">Aggiungi torrent</string>
      <string name="no_downloads">Nessun download</string>
      <string name="no_file_hint">Il download di questo file è già presente</string>
-     <string name="no_result_for_keyword">Impossibile trovare \"%1$s\""</string>
+     <string name="no_result_for_keyword">Impossibile trovare \"%1$s\"</string>
      <string name="no_share_file">Impossibile condividere questo file</string>
      <string name="no_share_file_content">Il file selezionato è stato eliminato</string>
      <string name="no_share_files">Impossibile condividere un file eliminato</string>

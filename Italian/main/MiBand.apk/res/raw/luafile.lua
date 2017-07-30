@@ -32,7 +32,7 @@ function getCaloriesString(calories)
     -- test
     --calories = math.random(100, 1000);
 
-    defautMsg  = ""
+    defautMsg  = "
     threshHoldValue = 96
 
     if calories < threshHoldValue then
@@ -94,7 +94,7 @@ function clearDBOnceADay(ConfigInfo)
 
     Properties = luajava.newInstance("de.greenrobot.daobracelet.LuaListDao$Properties")
 
-    today = "" .. os.date("%Y-%m-%d",os.time())
+    today = " .. os.date("%Y-%m-%d",os.time())
     w1 = Properties.Date:eq(today)
     w2 = Properties.Type:eq("9999") -- 9999 is controll msg
 
@@ -110,8 +110,8 @@ function clearDBOnceADay(ConfigInfo)
     clearDB(ConfigInfo)
 
     t = {}
-    t.t1 = ""..__luaVersion
-    t.t2 = ""..__javaVersion
+    t.t1 = "..__luaVersion
+    t.t2 = "..__javaVersion
     t.stype = "9999"
     setMessage(listDao,t)
 end
@@ -124,7 +124,7 @@ function clearDBOnceAVersion(ConfigInfo)
 
     Properties = luajava.newInstance("de.greenrobot.daobracelet.LuaListDao$Properties")
 
-    w1 = Properties.Text1:eq(""..__luaVersion)
+    w1 = Properties.Text1:eq("..__luaVersion)
     w2 = Properties.Type:eq("9999") -- 9999 is controll msg
 
     luaAction:queryWhere(qb,w1)
@@ -139,8 +139,8 @@ function clearDBOnceAVersion(ConfigInfo)
     clearDB(ConfigInfo)
 
     t = {}
-    t.t1 = ""..__luaVersion
-    t.t2 = ""..__javaVersion
+    t.t1 = "..__luaVersion
+    t.t2 = "..__javaVersion
     t.stype = "9999"
     setMessage(listDao,t)
 end
@@ -180,7 +180,7 @@ function judgeUniqueByDate_Type(listDao,ConfigInfo,stype)
 
     Properties = luajava.newInstance("de.greenrobot.daobracelet.LuaListDao$Properties")
 
-    today = "" .. os.date("%Y-%m-%d",os.time())
+    today = " .. os.date("%Y-%m-%d",os.time())
     w1 = Properties.Date:eq(today)
     w2 = Properties.Type:eq(stype)
 
@@ -220,7 +220,7 @@ function getTimeString2(start, stop)
     if m1 < 10 then
         sm1 = "0"..m1
     else
-        sm1 = ""..m1
+        sm1 = "..m1
     end
 
     m2 = stop % 60
@@ -230,10 +230,10 @@ function getTimeString2(start, stop)
     if m2 < 10 then
         sm2 = "0"..m2
     else
-        sm2 = ""..m2
+        sm2 = "..m2
     end
 
-    return (""..h1..":"..sm1.."-"..h2..":"..sm2)
+    return ("..h1..":"..sm1.."-"..h2..":"..sm2)
 end
 
 ---------------------------------------------------
@@ -257,12 +257,12 @@ function setMessage(listDao,table)
     -- 1 auto set date/time/__luaVersion
     time = os.date("%X",os.time())
     time = string.sub(time,0,5)
-    listItem:setTime(""..time)
+    listItem:setTime("..time)
 
-    date = "" .. os.date("%Y-%m-%d",os.time())
+    date = " .. os.date("%Y-%m-%d",os.time())
     listItem:setDate(date)
 
-    listItem:setScriptVersion(""..__luaVersion)
+    listItem:setScriptVersion("..__luaVersion)
 
     -- 2 set item according to table
     t = table
@@ -285,7 +285,7 @@ function setMessage(listDao,table)
     if t.strScript ~= nil then
         listItem:setLuaActionScript(t.strScript)
     else
-        listItem:setLuaActionScript("")
+        listItem:setLuaActionScript(")
     end
 
     if t.start ~= nil then
@@ -328,7 +328,7 @@ function replaceMsgByType(listDao,ConfigInfo,table)
     luaAction = ConfigInfo:getLuaAction()
     Properties = luajava.newInstance("de.greenrobot.daobracelet.LuaListDao$Properties")
 
-    today = "" .. os.date("%Y-%m-%d",os.time())
+    today = " .. os.date("%Y-%m-%d",os.time())
     w1 = Properties.Date:eq(today)
     w2 = Properties.Type:eq(table.stype)
 
@@ -349,7 +349,7 @@ function mergeActivityMsg(listDao,ConfigInfo,table)
     luaAction = ConfigInfo:getLuaAction()
 
     --check old msg
-    today = "" .. os.date("%Y-%m-%d",os.time())
+    today = " .. os.date("%Y-%m-%d",os.time())
     Properties = luajava.newInstance("de.greenrobot.daobracelet.LuaListDao$Properties")
     qb = listDao:queryBuilder()
     qb2 = listDao:queryBuilder()
@@ -397,7 +397,7 @@ function mergeSleepMsg(listDao,ConfigInfo,table)
     luaAction = ConfigInfo:getLuaAction()
     Properties = luajava.newInstance("de.greenrobot.daobracelet.LuaListDao$Properties")
 
-    today = "" .. os.date("%Y-%m-%d",os.time())
+    today = " .. os.date("%Y-%m-%d",os.time())
     w1 = Properties.Date:eq(today)
     w2 = Properties.Type:eq(t.stype)
 
@@ -456,7 +456,7 @@ function newUser(listDao,ConfigInfo)
     t2 = getString('take_a_walk_info')
     stype = "1002"
 
-    strScript = ""
+    strScript = "
 
     t = {}
     t.t1 = t1
@@ -496,7 +496,7 @@ function clearUnlockHint(listDao,ConfigInfo)
     luaAction = ConfigInfo:getLuaAction()
     Properties = luajava.newInstance("de.greenrobot.daobracelet.LuaListDao$Properties")
 
-    today = "" .. os.date("%Y-%m-%d",os.time())
+    today = " .. os.date("%Y-%m-%d",os.time())
     stype = "1003" --magic number ,but u know it
     w1 = Properties.Date:eq(today)
     w2 = Properties.Type:eq(stype)
@@ -519,7 +519,7 @@ function noData(listDao,ConfigInfo)
 
     t = {}
     t.t1 = msgTable[r]
-    t.t2 = ""
+    t.t2 = "
     t.stype = "1004"
     replaceMsgByType(listDao,ConfigInfo,t)
 end
@@ -530,7 +530,7 @@ function clearUnbindMsg(listDao,ConfigInfo)
     luaAction = ConfigInfo:getLuaAction()
     Properties = luajava.newInstance("de.greenrobot.daobracelet.LuaListDao$Properties")
 
-    today = "" .. os.date("%Y-%m-%d",os.time())
+    today = " .. os.date("%Y-%m-%d",os.time())
     stype = "1005" --magic number ,but u know it
     w1 = Properties.Date:eq(today)
     w2 = Properties.Type:eq(stype)
@@ -543,7 +543,7 @@ end
 function unbindHint(listDao,ConfigInfo)
     t = {}
     t.t1 = getString('not_binded_hint')
-    t.t2 = ""
+    t.t2 = "
     t.stype = "1005"
     t.right="This_is_important"
 
@@ -623,7 +623,7 @@ function dayComplete(listDao,ConfigInfo)
 
 
     t1 = getString('today_goal_reached')
-    t2 = ""
+    t2 = "
     stype = "2002"
 
 --    uniqueMsg(listDao,ConfigInfo,t1,t2,stype)
@@ -645,7 +645,7 @@ end
 --2003
 function weekComplete(listDao,ConfigInfo)
     t1 = getString('week_continue_reach_goal')
-    t2 = ""
+    t2 = "
 
     stype = "2003"
 --    msg(listDao,t1,t2,stype)
@@ -824,8 +824,8 @@ function activityRun(listDao,ConfigInfo)
     t.t2 = t2
     t.stype = stype
     t.strScript = strScript
-    t.start = "".. activityItem:getStart()
-    t.stop = "".. activityItem:getStop()
+    t.start = ".. activityItem:getStart()
+    t.stop = ".. activityItem:getStop()
 
     mergeActivityMsg(listDao,ConfigInfo,t)
 end
@@ -862,8 +862,8 @@ function activityWalk(listDao,ConfigInfo)
     t.t2 = t2
     t.stype = stype
     t.strScript = strScript
-    t.start = "".. activityItem:getStart()
-    t.stop = "".. activityItem:getStop()
+    t.start = ".. activityItem:getStart()
+    t.stop = ".. activityItem:getStop()
 
     mergeActivityMsg(listDao,ConfigInfo,t)
 end
@@ -886,8 +886,8 @@ function activityActivity(listDao,ConfigInfo)
     t.t2 = t2
     t.stype = stype
     t.strScript = strScript
-    t.start = "".. activityItem:getStart()
-    t.stop = "".. activityItem:getStop()
+    t.start = ".. activityItem:getStart()
+    t.stop = ".. activityItem:getStop()
 
     mergeActivityMsg(listDao,ConfigInfo,t)
 end
@@ -1019,7 +1019,7 @@ end
 --5001
 function batteryLow(listDao,ConfigInfo)
     t1 = getString('battery_low_info')
-    t2 = ""
+    t2 = "
 
     stype = "5001"
 --    msg(listDao,t1,t2,stype)
@@ -1034,7 +1034,7 @@ end
 --5002
 function batteryVeryLow(listDao,ConfigInfo)
     t1 = getString('battery_very_low_info')
-    t2 = ""
+    t2 = "
 
     stype = "5002"
 --    msg(listDao,t1,t2,stype)
@@ -1240,7 +1240,7 @@ function testAddItem(listDao)
     t.t2 = "点击查看如何玩转小米手环"
     t.stype = "0001"
     t.index = "0001"
-    t.right = ""..r
+    t.right = "..r
 
     setMessage(listDao,t)
 end
@@ -1272,7 +1272,7 @@ function launchIntent2(context, url)
 end
 
 function getLuaVersion(Cinfo)
-    Cinfo:setLuaVersion(""..__luaVersion);
+    Cinfo:setLuaVersion("..__luaVersion);
     log("set lua version:" .. __luaVersion)
 end
 
@@ -1430,7 +1430,7 @@ function showGameBanner(listDao, ConfigInfo)
     elseif title_str == STR_GAME_PLAYING_FAIL then
         actionBarColor = COLOR_REACH_FAIL
         listTxtColor =  COLOR_REACH_FAIL_APP
-        t.right = "";
+        t.right = ";
         timeStamp = ConfigInfo:getTimeStamp()
         if (getDayDif(timeStamp) == -1) then
             t.t1 = getString("game_fail_title_ytd")
@@ -1443,7 +1443,7 @@ function showGameBanner(listDao, ConfigInfo)
     elseif title_str == STR_GAME_PLAYING_FAILED then
         actionBarColor = COLOR_REACH_FAIL
         listTxtColor =  COLOR_REACH_FAIL_APP
-        t.right = "";
+        t.right = ";
         t.t1 = getString("game_failed_title")
         t.t2 = getString("game_fail_info")
         shareContent = getString("game_share_to_failed")
@@ -1499,13 +1499,13 @@ function showGameBanner(listDao, ConfigInfo)
     t.right = ConfigInfo:getRight();
 
     if (t.stype == nil) then
-        t.stype = ""
+        t.stype = "
     end
     if (t.right == nil) then
-        t.right = ""
+        t.right = "
     end
     if (url == nil) then
-        url = ""
+        url = "
     end
 
     ---Uniform action bar color to RED

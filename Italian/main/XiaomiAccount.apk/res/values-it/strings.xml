@@ -289,7 +289,7 @@ Per attivare il tuo account, segui il
      <string name="passport_relogin_notice">Devi accedere di nuovo</string>
      <string name="passport_remove_confirm">Esci</string>
      <string name="passport_remove_unactivated_account_notice">Il tuo account non è stato attivato</string>
-     <string name="passport_resend_active_email">""Invia di nuovo l'email di attivazione"</string>
+     <string name="passport_resend_active_email">"Invia di nuovo l'email di attivazione"</string>
      <string name="passport_reset_fail_title">Impossibile ripristinare</string>
      <string name="passport_reset_password_prompt">Password non corretta</string>
      <string name="passport_reset_password_title">Ripristina password</string>

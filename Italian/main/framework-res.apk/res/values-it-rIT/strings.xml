@@ -557,7 +557,7 @@ Vuoi abbandonare la pagina?"</string>
      <string name="kg_invalid_puk">Inserisci di nuovo il codice PUK corretto. Ripetuti tentativi comportano la disattivazione definitiva della scheda SIM.</string>
      <string name="kg_invalid_sim_pin_hint">Il PIN deve essere di 4-8 numeri.</string>
      <string name="kg_invalid_sim_puk_hint">Il codice PUK deve essere di 8 cifre.</string>
-     <string name="kg_login_account_recovery_hint">""Hai dimenticato il nome utente o la password?
+     <string name="kg_login_account_recovery_hint">"Hai dimenticato il nome utente o la password?
 Visita "<b>google.com/accounts/recovery</b>."</string>
      <string name="kg_login_checking_password">Controllo account…</string>
      <string name="kg_login_instructions">Per sbloccare, accedi con il tuo account Google.</string>
@@ -631,7 +631,7 @@ To unpin, press and hold Home and the Power button at the same time."</string>
  Riprova tra %d secondi."</string>
      <string name="lockscreen_failed_attempts_now_wiping">Hai erroneamente tentato di sbloccare il telefono %d volte. Il telefono ora verrà sottoposto a un ripristino dati di fabbrica.</string>
      <string name="lockscreen_forgot_pattern_button_text">Hai dimenticato la sequenza?</string>
-     <string name="lockscreen_glogin_account_recovery_hint">""Hai dimenticato il nome utente o la password?
+     <string name="lockscreen_glogin_account_recovery_hint">"Hai dimenticato il nome utente o la password?
 Visita "<b>google.com/accounts/recovery</b>."</string>
      <string name="lockscreen_glogin_checking_password">Verifica…</string>
      <string name="lockscreen_glogin_forgot_pattern">Sblocco account</string>
@@ -1314,7 +1314,7 @@ L'ascolto ad alto volume per lunghi periodi di tempo potrebbe danneggiare l'udit
      <string name="sms_short_code_confirm_deny">Annulla</string>
      <string name="sms_short_code_confirm_message"><b>%1$s</b> vorrebbe inviare un messaggio a <b>%2$s</b>.</string>
      <string name="sms_short_code_confirm_never_allow">Non consentire mai</string>
-     <string name="sms_short_code_details">"<b>Potrebbero essere effettuati addebiti</b>" sull'account del tuo gestore di telefonia mobile.""</string>
+     <string name="sms_short_code_details">"<b>Potrebbero essere effettuati addebiti</b>" sull'account del tuo gestore di telefonia mobile."</string>
      <string name="sms_short_code_remember_choice">Memorizza la mia scelta</string>
      <string name="sms_short_code_remember_undo_instruction">Modifica: Impostazioni > Applicazioni</string>
      <string name="smv_application">"L'applicazione %1$s (processo %2$s) ha violato la norma StrictMode autoimposta."</string>

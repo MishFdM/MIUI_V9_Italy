@@ -48,7 +48,7 @@
      <string name="confirm_restore_message">Ripristinare le impostazioni predefinite della fotocamera?</string>
      <string name="confirm_restore_title">Ripristina le impostazioni predefinite</string>
      <string name="dialog_ok">OK</string>
-     <string name="dual_camera_lens_covered_toast">""L'obiettivo è coperto"."</string>
+     <string name="dual_camera_lens_covered_toast">"L'obiettivo è coperto"."</string>
      <string name="dual_camera_lowlight_toast">"Sembra che l'ambiente sia troppo buio."</string>
      <string name="dual_camera_too_close_toast">La fotocamera è troppo vicina al soggetto.</string>
      <string name="dual_camera_use_hint">"La modalità Dual Camera permette di esaltare il soggetto in primo piano.

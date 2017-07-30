@@ -176,7 +176,7 @@ Nota: il tocco triplo per ingrandire funziona ovunque tranne che per la tastiera
      <string name="add_new">add</string>
      <string name="add_rule">add rules</string>
      <string name="add_virtual_keyboard">Manage keyboards</string>
-     <string name="adding_profile_owner_warning">""Proseguendo, l'utente sarà gestito dall'amministratore che può essere in grado di memorizzare i dati associati, oltre ai vostri dati personali.
+     <string name="adding_profile_owner_warning">"Proseguendo, l'utente sarà gestito dall'amministratore che può essere in grado di memorizzare i dati associati, oltre ai vostri dati personali.
 
 L'amministratore ha la capacità di monitorare e gestire le impostazioni, l'accesso, applicazioni e dati associati a questo utente, tra cui attività di rete e le informazioni sulla posizione del dispositivo "."</string>
      <string name="additional_permissions">Permessi aggiuntivi</string>
@@ -2312,7 +2312,7 @@ Al momento sei collegato ai seguenti account:
      <string name="master_clear_apply_title">Attenzione</string>
      <string name="master_clear_button_text">Resetta dispositivo</string>
      <string name="master_clear_confirm_title">Ripristinare?</string>
-     <string name="master_clear_desc">""Questa operazione rimuoverà tutti i dati memorizzati nell'"<b>archivio interno</b>" del dispositivo, compresi:
+     <string name="master_clear_desc">"Questa operazione rimuoverà tutti i dati memorizzati nell'"<b>archivio interno</b>" del dispositivo, compresi:
 
 "<li>Il tuo account Google</li>"
 "<li>Dati e impostazioni del sistema e delle applicazioni</li>"
@@ -2320,7 +2320,7 @@ Al momento sei collegato ai seguenti account:
      <string name="master_clear_desc_also_erases_external">"<li>Musica</li>"
 "<li>Foto</li>"
 "<li>Altri dati utente</li>"</string>
-     <string name="master_clear_desc_erase_external_storage">""
+     <string name="master_clear_desc_erase_external_storage">"
 
 Per rimuovere musica, foto e altri dati dell'utente è necessario eliminare i dati dell'"<b>archivio USB</b>."</string>
      <string name="master_clear_erase_application_progress">Eliminazione app\u2026</string>
@@ -3194,7 +3194,7 @@ ed esegui il software."</string>
      <string name="reset_network_button_text">Ripristina impostazioni</string>
      <string name="reset_network_complete_toast">Impostazioni di rete ripristinate correttamente</string>
      <string name="reset_network_confirm_title">Ripristinare?</string>
-     <string name="reset_network_desc">""Verranno reimpostate tutte le impostazioni di rete, tra cui:
+     <string name="reset_network_desc">"Verranno reimpostate tutte le impostazioni di rete, tra cui:
 
 "<li>Wi-Fi</li>"
 "<li>Dati cellulare</li>"
@@ -3648,8 +3648,8 @@ Come usare Mantieni su schermo:
      <string name="security_settings_fingerprint_enroll_dialog_delete">Elimina</string>
      <string name="security_settings_fingerprint_enroll_dialog_name_label">Nome</string>
      <string name="security_settings_fingerprint_enroll_dialog_ok">OK</string>
-     <string name="security_settings_fingerprint_enroll_disclaimer">""Oltre a sbloccare il dispositivo, è anche possibile utilizzare le impronte per autorizzare gli acquisti e l'accesso alle app."<annotation id="url">Per saperne di più</annotation>"</string>
-     <string name="security_settings_fingerprint_enroll_disclaimer_lockscreen_disabled">""Opzione blocco schermo disattivata. Puoi comunque utilizzare le impronte digitali per autorizzare gli acquisti e l'accesso alle app."<annotation id="url">Per saperne di più</annotation>"</string>
+     <string name="security_settings_fingerprint_enroll_disclaimer">"Oltre a sbloccare il dispositivo, è anche possibile utilizzare le impronte per autorizzare gli acquisti e l'accesso alle app."<annotation id="url">Per saperne di più</annotation>"</string>
+     <string name="security_settings_fingerprint_enroll_disclaimer_lockscreen_disabled">"Opzione blocco schermo disattivata. Puoi comunque utilizzare le impronte digitali per autorizzare gli acquisti e l'accesso alle app."<annotation id="url">Per saperne di più</annotation>"</string>
      <string name="security_settings_fingerprint_enroll_done">Fatto</string>
      <string name="security_settings_fingerprint_enroll_error_dialog_title">Enrollment was not completed</string>
      <string name="security_settings_fingerprint_enroll_error_generic_dialog_message">"Fingerprint enrollment didn't work. Try again or use a different finger."</string>
@@ -3843,7 +3843,7 @@ Il PIN potrebbe essere errato."</string>
      <string name="sim_pin_toggle">Blocca SIM</string>
      <string name="sim_pins_dont_match">I PIN non corrispondono</string>
      <string name="sim_pref_divider">Attività</string>
-     <string name="sim_preferred_message">""%1$s è l'unica SIM nel tuo dispositivo. Vuoi usare questa SIM per la rete dati mobile, chiamate ed SMS?"</string>
+     <string name="sim_preferred_message">"%1$s è l'unica SIM nel tuo dispositivo. Vuoi usare questa SIM per la rete dati mobile, chiamate ed SMS?"</string>
      <string name="sim_preferred_title">Aggiornare la SIM preferita?</string>
      <string name="sim_radio_off">Non attivato</string>
      <string name="sim_reenter_new">Ridigita nuovo PIN</string>
@@ -4045,7 +4045,7 @@ Tutte le archiviate su questo ^1 verranno disinstallate e i loro dati verranno c
      <string name="storage_internal_title">Memoria dispositivo</string>
      <string name="storage_internal_unmount_details">"<b>Quando espelli ^1, le app memorizzate su di esso smetteranno di funzionare, e i file media archiviati su di esso non saranno disponibili fino al successivo reinserimento.</b>" 
 
-Questo ^1 è stato formattato per funzionare solo su questo dispositivo. Non funzionerà su altri.""</string>
+Questo ^1 è stato formattato per funzionare solo su questo dispositivo. Non funzionerà su altri."</string>
      <string name="storage_label">Archiviazione</string>
      <string name="storage_low_summary">Alcune funzioni di sistema, come la sincronizzazione, potrebbero non funzionare correttamente. Prova a liberare spazio eliminando o sbloccando elementi, come applicazioni o contenuti multimediali.</string>
      <string name="storage_low_title">Spazio archiviazione in esaurimento.</string>
@@ -4182,7 +4182,7 @@ Considera l'utilizzo di un ^1 più veloce per prestazioni migliori."</string>
      <string name="sync_one_time_sync">"Tocca per sincronizzare ora 
 %1$s"</string>
      <string name="sync_plug">"Benvenuto in Google Sync." 
-L'approccio di Google alla sincronizzazione di dati per consentirti l'accesso ai tuoi contatti, appuntamenti e altro ancora, ovunque tu sia.""</string>
+L'approccio di Google alla sincronizzazione di dati per consentirti l'accesso ai tuoi contatti, appuntamenti e altro ancora, ovunque tu sia."</string>
      <string name="sync_settings">Sincronizzazione</string>
      <string name="sync_wifi_label">Wi-Fi</string>
      <string name="sync_wifi_only">Solo in Wi-Fi</string>
@@ -4239,7 +4239,7 @@ L'approccio di Google alla sincronizzazione di dati per consentirti l'accesso ai
 
 1.When your device is serving as a WLAN hotspot, you can't use your device's applications to access the Internet via its WLAN connection (but of course you remain connected to the Internet via your mobile data network). 
 
-2.You configure the hotspot with the WLAN hotspot settings.""</string>
+2.You configure the hotspot with the WLAN hotspot settings."</string>
      <string name="tethering_help_dialog_title">Help</string>
      <string name="tethering_no_sim_alert_title">No SIM Card</string>
      <string name="tethering_no_sim_card_text">Please install SIM card in order to share your data connection with other devices using Mobile HotSpot or USB tethering for Internet access.</string>
@@ -5045,7 +5045,7 @@ Consentirlo a tutte le app che vogliono eseguire la ricerca?"</string>
      <string name="wifi_setup_connect">Connetti</string>
      <string name="wifi_setup_description_connected">"Tocca <b>Avanti</b>" per continuare con la configurazione.
 
-Tocca "<b>Indietro</b>" per connetterti a un'altra rete Wi-Fi.""</string>
+Tocca "<b>Indietro</b>" per connetterti a un'altra rete Wi-Fi."</string>
      <string name="wifi_setup_description_connecting">La connessione può richiedere qualche minuto…</string>
      <string name="wifi_setup_detail">Dettagli rete</string>
      <string name="wifi_setup_eap_not_supported">"Impossibile configurare una connessione Wi-Fi EAP durante l'impostazione. Dopo l'impostazione potrai configurarla nella sezione Impostazioni > Wireless e reti."</string>

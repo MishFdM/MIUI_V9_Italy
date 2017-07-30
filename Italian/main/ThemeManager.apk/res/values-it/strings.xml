@@ -250,7 +250,7 @@
      <string name="resource_notification_default">Notifiche</string>
      <string name="resource_on_trial">Prova: %1$s</string>
      <string name="resource_online">Online</string>
-     <string name="resource_pack_confirm">""Hai già acquistato %1$d oggetti, l'attuale prezzo di acquisto è migliore rispetto all'acquisto dei singoli oggetti. Vuoi continuare?"</string>
+     <string name="resource_pack_confirm">"Hai già acquistato %1$d oggetti, l'attuale prezzo di acquisto è migliore rispetto all'acquisto dei singoli oggetti. Vuoi continuare?"</string>
      <string name="resource_pack_discount_info">%1$s Salvato!</string>
      <string name="resource_pack_get_auth_has_been_undercarriaged">Questo tema non è più disponibile.</string>
      <string name="resource_pack_price_info">%1$s Originale</string>
@@ -328,7 +328,7 @@
      <string name="search_hint_header_text">Parole più ricercate</string>
      <string name="selected_resource_file_invalid">Impossibile utilizzare il file di risorsa selezionato</string>
      <string name="settings">Impostazioni</string>
-     <string name="the_picture_is_not_support">""L'immagine non è supportata"</string>
+     <string name="the_picture_is_not_support">"L'immagine non è supportata"</string>
      <string name="the_picture_is_too_small">"L'immagine è troppo piccola"</string>
      <string name="theme_apply_audio_dialog_item_alarm">Sveglia</string>
      <string name="theme_apply_audio_dialog_item_notification">Notifiche</string>

@@ -870,7 +870,7 @@ Sei sicuro di voler abbandonare questa pagina?"</string>
      <string name="readmode_recommend_message">Hai letto tutti i capitoli di questo libro. Passa alla lettura di un altro.</string>
      <string name="readmode_refresh">Aggiorna</string>
      <string name="readmodelist_bookmarks_to_show">Lista di lettura</string>
-     <string name="remember_passwords_confirm_message">""La disattivazione di questa funzione potrebbe influire sull'utilizzo."."</string>
+     <string name="remember_passwords_confirm_message">"La disattivazione di questa funzione potrebbe influire sull'utilizzo."."</string>
      <string name="remove_bookmark">Elimina segnalibro</string>
      <string name="remove_bookmark_group">Cancella gruppo</string>
      <string name="remove_from_bookmarks">Rimuovi dai segnalibri</string>

@@ -590,7 +590,7 @@
      <string name="shared_sticker_str">Condividi con i Mi fan</string>
      <string name="shared_sticker_suffix">Adesivo a %s</string>
      <string name="shared_sticker_use_tip">"Puoi inviare gli adesivi salvati nelle conversazioni di WeChat allo stesso modo in cui invii le immagini.
-(Le GIF possono essere aggiunte agli adesivi Personalizzati di WeChat).""</string>
+(Le GIF possono essere aggiunte agli adesivi Personalizzati di WeChat)."</string>
      <string name="shared_sticker_use_tip_title">Come utilizzare gli adesivi</string>
      <string name="shared_str">Condiviso da %s</string>
      <string name="shortcut_exists">Collegamento già presente</string>

@@ -71,7 +71,7 @@
      <string name="incoming_file_confirm_cancel">Rifiuta</string>
      <string name="incoming_file_confirm_content">Accept incoming file?</string>
      <string name="incoming_file_confirm_ok">Accetta</string>
-     <string name="incoming_file_confirm_timeout_content">"Si è verificato un timeout durante l'accettazione di un file in arrivo da \"%1$s\""</string>
+     <string name="incoming_file_confirm_timeout_content">"Si è verificato un timeout durante l'accettazione di un file in arrivo da \"%1$s\"</string>
      <string name="incoming_file_confirm_timeout_ok">OK</string>
      <string name="incoming_file_confirm_title">Trasferimento file</string>
      <string name="incoming_file_toast_msg">File in arrivo da un altro dispositivo. Conferma che vuoi ricevere il file.</string>

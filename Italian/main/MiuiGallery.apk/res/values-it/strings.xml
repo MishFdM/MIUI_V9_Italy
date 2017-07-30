@@ -41,7 +41,7 @@
      <string name="adjust_sharpen">Nitido</string>
      <string name="adjust_vignette">Vignetta</string>
      <string name="album_already_exists_check">Mostra</string>
-     <string name="album_already_exists_msg">""L'album '%s' è già presente"</string>
+     <string name="album_already_exists_msg">"L'album '%s' è già presente"</string>
      <string name="album_already_forced_top">Già top</string>
      <string name="album_camera_name">Fotocamera</string>
      <string name="album_detail_page_empty">Nessuna foto o video</string>
@@ -617,7 +617,7 @@
      <string name="confirm_merge_many_face_albums">" "<data> Unire questi album con %s? </data>" "</string>
      <string name="confirm_not_face">Non è questa persona</string>
      <string name="confirm_recommandation_face_is">" "<data> Sei sicuro che sia <font color="#323232"><b>%1$s</b></font>? Questo volto verrà spostato in \"%2$s\" dopo la conferma. </data>" "</string>
-     <string name="confirm_recommandation_face_not">"" "&lt;Data&gt;" Sure this isn't &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? "&lt;/Data&gt;" "</string>
+     <string name="confirm_recommandation_face_not">" "&lt;Data&gt;" Sure this isn't &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? "&lt;/Data&gt;" "</string>
      <string name="confirm_recommandation_multiple_faces_are">" "<data> Sei sicuro che siano <font color="#323232"><b>%1$s</b></font>? Questi volti verranno spostati in \"%2$s\" dopo la conferma. </data>" "</string>
      <string name="confirm_recommandation_multiple_faces_not">" "&lt;Data&gt;" Sure these aren't &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? "&lt;/Data&gt;" "</string>
      <string name="contact_tip">Contatti</string>
@@ -705,7 +705,7 @@
      <string name="error_album_not_exist">Album inesistente.</string>
      <string name="error_cloud_not_active">Album Mi Cloud non attivo</string>
      <string name="error_forbidden">Si sono verificati dei problemi con il tuo account: sincronizzazione disattivata.</string>
-     <string name="error_invalid_link">""Il link non è valido o è scaduto, chiedi al proprietario dell'album di creare un nuovo link di condivisione"."</string>
+     <string name="error_invalid_link">"Il link non è valido o è scaduto, chiedi al proprietario dell'album di creare un nuovo link di condivisione"."</string>
      <string name="error_link_has_expired">Link scaduto</string>
      <string name="error_not_acceptable">Sincronizzazione disattivata.</string>
      <string name="error_repeat_apply">Partecipi già alla condivisione di questo album</string>
@@ -1128,7 +1128,7 @@ Scatta più foto ai tuoi amici!"</string>
      <string name="sub_discard_negative_btn">Annulla</string>
      <string name="sub_discard_positive_btn">Salva</string>
      <string name="success_create_quick_icon_on_desk">Creati correttamente</string>
-     <string name="sync_album_in_proecess">""L'album è in fase di sincronizzazione, attendere…"</string>
+     <string name="sync_album_in_proecess">"L'album è in fase di sincronizzazione, attendere…"</string>
      <string name="sync_battery_low">Batteria scarica</string>
      <string name="sync_cloud_space_full">Archiviazione Mi Cloud esaurita</string>
      <string name="sync_diabled_toast">Sincronizzazione non attivata</string>

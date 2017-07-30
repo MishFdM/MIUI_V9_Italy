@@ -54,7 +54,7 @@ Esegui il login su https://account.xiaomi.com e seleziona l'opzione di recupero 
      <string name="general_security_exception">Eccezione generale di sicurezza</string>
      <string name="gif_not_support_camera_msg">Il tuo dispositivo non supporta la registrazione video.</string>
      <string name="how_it_works_menu_item">Come funziona</string>
-     <string name="howitworks_page_enter_code_details">""Questa app genererà il codice necessario per procedere con la creazione dell'account"."</string>
+     <string name="howitworks_page_enter_code_details">"Questa app genererà il codice necessario per procedere con la creazione dell'account"."</string>
      <string name="howitworks_page_enter_code_title">Se sei su un nuovo computer, inserisci un codice dal tuo telefono.</string>
      <string name="howitworks_page_enter_password_details">Comunque, se sei su un nuovo computer o su un nuovo dispositivo, Xiaomi ti richiederà un codice speciale per assicurarsi che sia realmente tu.</string>
      <string name="howitworks_page_enter_password_title">"Per creare l'account dovrai inserire la tua password"</string>

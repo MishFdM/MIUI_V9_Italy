@@ -12,7 +12,7 @@ zh_TW = 'zh_TW'
 en_US = 'en_US'
 en_GB = 'en_GB'
 en = 'en'
-g_CurLocale = ""
+g_CurLocale = "
 DEBUG = false
 -------------Globals----------------
 

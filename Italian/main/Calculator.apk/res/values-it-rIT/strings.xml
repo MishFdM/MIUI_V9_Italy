@@ -48,7 +48,7 @@
      <string name="default_text">我</string>
      <string name="del">DEL</string>
      <string name="deleteDesc">delete</string>
-     <string name="description_content">""Oltre alle funzioni base, l'app Calcolatrice funziona anche da multi convertitore, calcolo finanziamenti e tasse. Assicurati di non aver necessità di queste funzioni prima di eliminare l'app"</string>
+     <string name="description_content">"Oltre alle funzioni base, l'app Calcolatrice funziona anche da multi convertitore, calcolo finanziamenti e tasse. Assicurati di non aver necessità di queste funzioni prima di eliminare l'app"</string>
      <string name="description_title">Informazioni</string>
      <string name="devided_by_zero_reminder_message">Impossibile dividere per zero</string>
      <string name="digit0">0</string>

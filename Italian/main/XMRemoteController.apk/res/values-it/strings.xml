@@ -860,7 +860,7 @@ Assicurati che %1$s risponda."</string>
      <string name="passport_register">Crea un account</string>
      <string name="passport_register_account_goto_email">Vai alla tua email</string>
      <string name="passport_register_account_verified_confirm">Tu hai già verificato il tuo account</string>
-     <string name="passport_register_by_email">"<u>"\"Crea un account usando l'indirizzo email\""</u>"</string>
+     <string name="passport_register_by_email">"<u>"\"Crea un account usando l'indirizzo email\"</u>"</string>
      <string name="passport_register_restricted">Too many accounts have been associated with this number, try a different one</string>
      <string name="passport_register_restricted_title">"Can't use this phone number"</string>
      <string name="passport_registered_phone_user_ID">User ID: %s</string>
@@ -928,7 +928,7 @@ Assicurati che %1$s risponda."</string>
      <string name="press_to_continue_match">Tocca per continuare</string>
      <string name="press_to_match">Abbina</string>
      <string name="prev_remote">Telecomando precedente</string>
-     <string name="privacy_content">"Leggi le Xiaomi <a href="http://www.miui.com/res/doc/privacy/en.html">Privacy Policy</a> e <a href="http://www.miui.com/res/doc/eula/en.html">Licenza utente</a>" \"prima di utilizzare il Mi Remote. L'applicazione deve accedere a internet e alla posizione per funzionare correttamente.\"""</string>
+     <string name="privacy_content">"Leggi le Xiaomi <a href="http://www.miui.com/res/doc/privacy/en.html">Privacy Policy</a> e <a href="http://www.miui.com/res/doc/eula/en.html">Licenza utente</a>" \"prima di utilizzare il Mi Remote. L'applicazione deve accedere a internet e alla posizione per funzionare correttamente.\""</string>
      <string name="privacy_nohit">Non mostrare più</string>
      <string name="privacy_title">Termini e Condizioni</string>
      <string name="program_booking_book_filter_book_status">预约状态</string>
@@ -997,7 +997,7 @@ direttamente dalla Schermata di blocco"</string>
      <string name="scan_code">扫码添加</string>
      <string name="scan_error">二维码识别错误</string>
      <string name="scan_text">"请扫描遥控器分享页面的二维码快速添加遥控器
-二维码在 遥控器面板-&gt;\"设置\"-&gt;\"分享\""</string>
+二维码在 遥控器面板-&gt;\"设置\"-&gt;\"分享\"</string>
      <string name="scaning">Scansione…</string>
      <string name="scanning_milink">Ricerca dispositivi ...</string>
      <string name="scene_default">Predefinito</string>
@@ -1116,7 +1116,7 @@ direttamente dalla Schermata di blocco"</string>
      <string name="share_rc_title">Condividi telecomando</string>
      <string name="share_rc_type_desc">Chi può vedere e utilizzare i telecomandi condivisi da voi</string>
      <string name="share_scan_hint">"请朋友使用万能遥控扫码快速分享
-扫码功能在 首页-&gt;\"+\"-&gt;\"扫一扫\""</string>
+扫码功能在 首页-&gt;\"+\"-&gt;\"扫一扫\"</string>
      <string name="share_score_share_no_install">不支持分享</string>
      <string name="share_switch">Condividi telecomando</string>
      <string name="share_tips">Condividi telecomando con una persona collegata alla stessa LAN</string>

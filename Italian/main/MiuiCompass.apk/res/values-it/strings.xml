@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="altitude">%.1f</string>
-     <string name="altitude_longitude_Degree_format" formatted="false">"%d°%d'%d\""</string>
+     <string name="altitude_longitude_Degree_format" formatted="false">"%d°%d'%d\"</string>
      <string name="altitude_title">Altitudine</string>
      <string name="altitude_uncalibrate_cancel">Annulla</string>
      <string name="altitude_uncalibrate_msg">"Impossibile calibrare l'altitudine senza una connessione dati o GPS."</string>

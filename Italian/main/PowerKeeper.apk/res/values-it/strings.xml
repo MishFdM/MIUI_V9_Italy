@@ -26,7 +26,7 @@
      <string name="config_restrict_function_title">Limita applicazioni in background</string>
      <string name="config_restrict_running_description">Le app verranno chiuse per risparmiare batteria</string>
      <string name="config_restrict_running_title">Limita attività in background</string>
-     <string name="config_restrict_running_warning">""L'app verrà chiusa quando in background, potrebbe non lavorare normalmente"</string>
+     <string name="config_restrict_running_warning">"L'app verrà chiusa quando in background, potrebbe non lavorare normalmente"</string>
      <string name="config_scenario_policies_title">Scenari</string>
      <string name="config_suggest_description">"Identifica applicazioni e attività per mantenere attivi i processi importanti. Il sistema di risparmio batteria gestirà le app importanti in modo selettivo."</string>
      <string name="config_suggest_suffix_title">Risparmio batteria MIUI (consigliato)</string>

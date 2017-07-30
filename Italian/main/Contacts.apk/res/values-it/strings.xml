@@ -449,7 +449,7 @@ To avoid frequent queries, we update balance info once a day."</string>
      <string name="export_to_sim_title">Esportazione…</string>
      <string name="export_vcard_description">Esporta vCard sulla scheda SD</string>
      <string name="exporting_contact_failed_message">"I dati dei contatti non sono stati esportati.
-Motivo: \"%s\""</string>
+Motivo: \"%s\"</string>
      <string name="exporting_contact_failed_title">Impossibile esportare</string>
      <string name="exporting_contact_list_message">I dati dei contatti sono in fase di esportazione in: %s.</string>
      <string name="exporting_contact_list_progress" formatted="false">%s contatti su %s</string>
@@ -1031,7 +1031,7 @@ Tocca l'icona Unisci in basso per iniziare."</string>
      <string name="scan_merge">Ricerca contatti duplicati…</string>
      <string name="scan_qrcode_card_hint1">Scansiona codice QR</string>
      <string name="scan_qrcode_card_hint2">Aggiungi le mie informazioni ai tuoi contatti</string>
-     <string name="scanning_sdcard_failed_message">"Scansione dell'archivio non riuscita. Motivo: \"%s\""</string>
+     <string name="scanning_sdcard_failed_message">"Scansione dell'archivio non riuscita. Motivo: \"%s\"</string>
      <string name="scanning_sdcard_failed_title">La scheda SD non può essere scansionata</string>
      <string name="searchHint">Cerca contatti</string>
      <string name="search_batch_delete">Organizza;Contatti</string>
