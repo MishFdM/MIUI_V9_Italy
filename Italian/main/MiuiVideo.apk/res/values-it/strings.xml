@@ -29,18 +29,15 @@
      <string name="allow_storage_access_description">Player needs you to grant this permission to access the media files on this device.</string>
      <string name="allow_storage_access_title">Allow Player to access video and audio files</string>
      <string name="app_name">Video</string>
-     <string name="appbar_scrolling_view_behavior">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
      <string name="artists">Artists</string>
      <string name="audio">Audio</string>
      <string name="audio_delay">Audio delay</string>
      <string name="back_quit_lock">Press back again to quit video</string>
-     <string name="bottom_sheet_behavior">android.support.design.widget.BottomSheetBehavior</string>
      <string name="brightness">Brightness</string>
      <string name="cancel">Cancel</string>
      <string name="character_counter_pattern">%1$d / %2$d</string>
      <string name="common_google_play_services_unknown_issue">%1$s is having trouble with Google Play services. If the problem persists, please contact the developer for assistance.</string>
      <string name="default_text">Default</string>
-     <string name="default_web_client_id">632999161735-6aq4lemaj7m65ehgel6v3grrvgjo6bea.apps.googleusercontent.com</string>
      <string name="delete">Delete</string>
      <string name="delete_file_tips">Delete this file?</string>
      <string name="details">Details</string>
@@ -60,18 +57,11 @@ Last modified: %s
 Location: %s
 
 "</string>
-     <string name="file_match_detail">[A-Za-z0-9]*</string>
      <string name="filter">Filter</string>
      <string name="filter_file_tips">Filter this file?</string>
-     <string name="firebase_database_url">https://miuiglobalvideoplayer.firebaseio.com</string>
      <string name="folder">Folder</string>
      <string name="folder_up_tips">(Folder up)</string>
-     <string name="gcm_defaultSenderId">632999161735</string>
      <string name="genres">Genres</string>
-     <string name="google_api_key">AIzaSyCVxqdJP4EVPngD7PtPd5th7ut1aSe1efA</string>
-     <string name="google_app_id">1:632999161735:android:962992f33e5cb7ff</string>
-     <string name="google_crash_reporting_api_key">AIzaSyCVxqdJP4EVPngD7PtPd5th7ut1aSe1efA</string>
-     <string name="google_storage_bucket">miuiglobalvideoplayer.appspot.com</string>
      <string name="hide">Hide</string>
      <string name="hide_file_tips">Hide this file?</string>
      <string name="hide_files_tips">Hide files</string>
@@ -168,7 +158,6 @@ Length: %s
      <string name="video_error_text_unknown">An unknown error occurred.</string>
      <string name="video_error_title">Unknown error</string>
      <string name="video_file_details" formatted="false">%d Videos | %s</string>
-     <string name="video_item_title_lines">2</string>
      <string name="videos">Videos</string>
      <string name="volume">Volume</string>
      <string name="wrapper_footer_text">Reached the bottom of the page</string>

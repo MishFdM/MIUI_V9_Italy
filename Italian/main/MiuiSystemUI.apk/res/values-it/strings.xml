@@ -180,7 +180,6 @@
      <string name="cancel">Cancel</string>
      <string name="category_personal">Personale</string>
      <string name="category_work">Lavoro</string>
-     <string name="certinstaller_package">com.android.certinstaller</string>
      <string name="charge_length_format">%1$s fa</string>
      <string name="chooseUsbActivity">Scegli come utilizzare il collegamento USB</string>
      <string name="choose_profile">Scegli profilo</string>
@@ -282,7 +281,6 @@ Se riattivi i dati, l'operatore potrebbe addebitarti un costo."</string>
      <string name="ext_media_safe_unmount_notification_title">"Rimozione sicura dell'archivio USB"</string>
      <string name="ext_media_unmountable_notification_message">Archivio USB danneggiato. Potrebbe essere necessario formattarlo.</string>
      <string name="ext_media_unmountable_notification_title">Archivio USB danneggiato</string>
-     <string name="flash_device">/sys/class/leds/flashlight/brightness</string>
      <string name="float_incall_ignore">Ignora</string>
      <string name="float_incall_message">Messaggio</string>
      <string name="force_allow_on_external">Force allow apps on external</string>
@@ -416,10 +414,6 @@ Utilizza solo l'alimentatore in dotazione."</string>
      <string name="power_remaining_duration_only">Approx. %1$s left</string>
      <string name="power_remaining_duration_only_short">%1$s left</string>
      <string name="process_kernel_label">Android OS</string>
-     <string name="proxy_exclusionlist_hint">example.com,mycomp.test.com,localhost</string>
-     <string name="proxy_hostname_hint">proxy.example.com</string>
-     <string name="proxy_port_hint">8080</string>
-     <string name="proxy_url_hint">https://www.example.com/proxy.pac</string>
      <string name="quick_settings_bluetooth_detail_empty_text">Nessun dispositivo abbinato disponibile</string>
      <string name="quick_settings_bluetooth_label">Bluetooth</string>
      <string name="quick_settings_connect_success">Connesso</string>
@@ -645,7 +639,6 @@ scorri in basso per bloccare"</string>
      <string name="vpn_title_long">Connettiti alla VPN utilizzando %s</string>
      <string name="wait_for_debugger">Wait for debugger</string>
      <string name="wait_for_debugger_summary">Debugged application waits for debugger to attach before executing</string>
-     <string name="weather_description_no_aqi">%1$s</string>
      <string name="weather_publish_time">Aggiornato %1$s</string>
      <string name="wifi_aggressive_handover">Aggressive Wi‑Fi to Cellular handover</string>
      <string name="wifi_aggressive_handover_summary">When enabled, Wi‑Fi will be more aggressive in handing over the data connection to Cellular, when Wi‑Fi signal is low</string>
@@ -658,12 +651,7 @@ scorri in basso per bloccare"</string>
      <string name="wifi_disabled_wifi_failure">Errore connessione Wi-Fi</string>
      <string name="wifi_display_certification">Wireless display certification</string>
      <string name="wifi_display_certification_summary">Show options for wireless display certification</string>
-     <string name="wifi_dns1_hint">8.8.8.8</string>
-     <string name="wifi_dns2_hint">8.8.4.4</string>
      <string name="wifi_fail_to_scan">"Impossibile scansionare le reti</string>
-     <string name="wifi_gateway_hint">192.168.1.1</string>
-     <string name="wifi_ip_address_hint">192.168.1.128</string>
-     <string name="wifi_network_prefix_length_hint">24</string>
      <string name="wifi_no_internet">Nessun accesso ad Internet, non si riconnetterà automaticamente.</string>
      <string name="wifi_not_in_range">Fuori portata</string>
      <string name="wifi_remembered">Salvata</string>

@@ -302,16 +302,11 @@ with more clear main body and more beautiful portrait"</string>
      <string name="pref_camera_snap_label_take_movie">Video</string>
      <string name="pref_camera_snap_label_take_picture">Photo</string>
      <string name="pref_camera_snap_toast_when_volume_can_wake_screen">Impossibile utilizzare la modalità Quick Snap mentre la funzione \"Utilizza i tasti volume per attivare\" è attiva.</string>
-     <string name="pref_camera_snap_value_off">Off</string>
-     <string name="pref_camera_snap_value_take_movie">Movie</string>
-     <string name="pref_camera_snap_value_take_picture">Picture</string>
      <string name="pref_camera_sound_title">"Suoni nell'applicazione"</string>
      <string name="pref_camera_square_mode_title">Quadrato</string>
      <string name="pref_camera_stereo_mode_title">Stereo</string>
      <string name="pref_camera_tilt_shift_entry_circle">Cerchio</string>
      <string name="pref_camera_tilt_shift_entry_parallel">Parallelo</string>
-     <string name="pref_camera_tilt_shift_entryvalue_circle">circle</string>
-     <string name="pref_camera_tilt_shift_entryvalue_parallel">parallel</string>
      <string name="pref_camera_tilt_shift_title">Tilt-shift</string>
      <string name="pref_camera_touchafaec_entry_off">Disattivato</string>
      <string name="pref_camera_touchafaec_entry_on">Attivato</string>
@@ -381,7 +376,6 @@ with more clear main body and more beautiful portrait"</string>
      <string name="pref_video_speed_fast_title">Time-lapse</string>
      <string name="pref_video_speed_slow_title">Slow-motion</string>
      <string name="pref_video_speed_title">Velocità video</string>
-     <string name="pref_video_time_lapse_frame_interval_default">120</string>
      <string name="pref_video_time_lapse_frame_interval_entry_10">Intervallo di 0.3 secondi (10x)</string>
      <string name="pref_video_time_lapse_frame_interval_entry_120">Intervallo di 4 secondi (120x)</string>
      <string name="pref_video_time_lapse_frame_interval_entry_150">Intervallo di 5 secondi (150x)</string>
