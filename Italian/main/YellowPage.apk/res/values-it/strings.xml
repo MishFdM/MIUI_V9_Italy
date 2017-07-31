@@ -379,7 +379,6 @@ Si prega di verificare il numero di spedizione."</string>
      <string name="quick_yellow_page_tab_phones">Telefono</string>
      <string name="recharge_actual_price">Prezzo:</string>
      <string name="recharge_charge_range">Prezzo:¥%1$s-%2$s</string>
-     <string name="recharge_charge_value">Price: RMB %s</string>
      <string name="recharge_follow_name">Ricarica</string>
      <string name="recharge_history">Cronologia ricariche</string>
      <string name="recharge_history_empty">Nessuna cronologia</string>

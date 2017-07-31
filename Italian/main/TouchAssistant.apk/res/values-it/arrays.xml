@@ -5,7 +5,6 @@
         <item>Attivato</item>
         <item>Mostra temporaneamente in modalità orizzontale</item>
      </string-array>
-     </string-array>
      <string-array name="motion_behavior_entries">
         <item>Scorrimento</item>
         <item>Tocco</item>
