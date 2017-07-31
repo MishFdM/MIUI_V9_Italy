@@ -287,7 +287,6 @@ Customer service center:400-100-5678"</string>
      <string name="mibi_title_password_threshold">Daily limit = ￥%1$s</string>
      <string name="mibi_title_sms_code">Please enter the mobile phone verification code</string>
      <string name="mibi_unit">Mi Credit</string>
-     <string name="mibi_unit_value">%1$s Mi Credit</string>
      <string name="mibi_voucher_card_text">Please scratch off the coat</string>
      <string name="mibi_voucher_error_password">Code invalid.</string>
      <string name="mibi_voucher_input_password_prompt">Enter code</string>

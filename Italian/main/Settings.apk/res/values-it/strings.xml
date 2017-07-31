@@ -22,18 +22,6 @@
      <string name="abc_activitychooserview_choose_application">Choose an app</string>
      <string name="abc_capital_off">OFF</string>
      <string name="abc_capital_on">ON</string>
-     <string name="abc_font_family_body_1_material">sans-serif</string>
-     <string name="abc_font_family_body_2_material">sans-serif-medium</string>
-     <string name="abc_font_family_button_material">sans-serif-medium</string>
-     <string name="abc_font_family_caption_material">sans-serif</string>
-     <string name="abc_font_family_display_1_material">sans-serif</string>
-     <string name="abc_font_family_display_2_material">sans-serif</string>
-     <string name="abc_font_family_display_3_material">sans-serif</string>
-     <string name="abc_font_family_display_4_material">sans-serif-light</string>
-     <string name="abc_font_family_headline_material">sans-serif</string>
-     <string name="abc_font_family_menu_material">sans-serif</string>
-     <string name="abc_font_family_subhead_material">sans-serif</string>
-     <string name="abc_font_family_title_material">sans-serif-medium</string>
      <string name="abc_search_hint">Search…</string>
      <string name="abc_searchview_description_clear">Clear query</string>
      <string name="abc_searchview_description_query">Search query</string>
@@ -891,10 +879,6 @@ La trasmissione utilizza segnali Bluetooth a bassa potenza."</string>
      <string name="carrier_enabled">Attivazione/disattivazione APN</string>
      <string name="carrier_enabled_summaryOff">APN non attivo</string>
      <string name="carrier_enabled_summaryOn">APN attivo</string>
-     <string name="category_key_device">com.android.settings.category.device</string>
-     <string name="category_key_personal">com.android.settings.category.personal</string>
-     <string name="category_key_system">com.android.settings.category.system</string>
-     <string name="category_key_wireless">com.android.settings.category.wireless</string>
      <string name="category_personal">Personale</string>
      <string name="category_work">Lavoro</string>
      <string name="cdma_security_settings_summary">Imposta La mia posizione, blocco schermo, blocco archivio credenziali</string>
@@ -909,7 +893,6 @@ La trasmissione utilizza segnali Bluetooth a bassa potenza."</string>
      <string name="cellular_to_wlan_hint_title">Cellular->WLAN hint</string>
      <string name="cellular_to_wlan_hint_toast">Cellular->WLAN connection may be affected</string>
      <string name="cellular_to_wlan_title">Cellular->WLAN</string>
-     <string name="certinstaller_package">com.android.certinstaller</string>
      <string name="change">Cambia</string>
      <string name="change_password">Cambia password</string>
      <string name="change_security_lock">Prova altri modi per sbloccare</string>
@@ -956,7 +939,6 @@ La trasmissione utilizza segnali Bluetooth a bassa potenza."</string>
      <string name="color_blue">Blu</string>
      <string name="color_calibration_none">Nativo</string>
      <string name="color_calibration_srgb">sRGB</string>
-     <string name="color_custom">\#%1$02X%2$02X%3$02X</string>
      <string name="color_cyan">Ciano</string>
      <string name="color_gray">Grigio</string>
      <string name="color_green">Verde</string>
@@ -995,9 +977,6 @@ La trasmissione utilizza segnali Bluetooth a bassa potenza."</string>
      <string name="condition_zen_title">Do not disturb is on (%1$s)</string>
      <string name="config_charging_function_name">charging</string>
      <string name="config_list_label">Reti configurate</string>
-     <string name="config_mass_storage_function_name">mass_storage</string>
-     <string name="config_mtp_function_name">mtp</string>
-     <string name="config_ptp_function_name">ptp</string>
      <string name="configure">Configure</string>
      <string name="configure_apps">Configura app</string>
      <string name="configure_input_method">Configura metodi di immissione</string>
@@ -1873,12 +1852,8 @@ Quando attivi il backup automatico, il dispositivo e i dati delle applicazioni v
      <string name="input_method">Metodo inserimento</string>
      <string name="input_method_selector">Selettore metodo di immissione</string>
      <string name="input_method_selector_always_hide_title">Nascondi sempre</string>
-     <string name="input_method_selector_always_hide_value">2</string>
      <string name="input_method_selector_always_show_title">Mostra sempre</string>
-     <string name="input_method_selector_always_show_value">1</string>
      <string name="input_method_selector_show_automatically_title">Automatico</string>
-     <string name="input_method_selector_show_automatically_value">0</string>
-     <string name="input_method_selector_visibility_default_value">0</string>
      <string name="input_method_settings">Impostazioni</string>
      <string name="input_method_settings_button">Impostazioni</string>
      <string name="input_methods_and_subtype_enabler_title">Scegli metodi di immissione attivi</string>
@@ -3725,7 +3700,6 @@ Come usare Mantieni su schermo:
      <string name="settings_license_activity_unavailable">Errore durante il caricamento delle licenze.</string>
      <string name="settings_manual_activity_title">Manual</string>
      <string name="settings_manual_activity_unavailable">There is a problem loading the manual.</string>
-     <string name="settings_package">com.android.settings</string>
      <string name="settings_safetylegal_activity_loading">Caricamento…</string>
      <string name="settings_safetylegal_activity_title">Informazioni sulla sicurezza</string>
      <string name="settings_safetylegal_activity_unreachable">Nessuna connessione disponibile. Per visualizzare le informazioni, visita il sito %s da qualsiasi computer collegato ad internet.</string>
@@ -4877,9 +4851,7 @@ Aggiungi una parola toccando il tasto +."</string>
      <string name="wifi_display_status_not_available">Non disponibile</string>
      <string name="wifi_display_wps_config">Configurazione WPS</string>
      <string name="wifi_dns1">DNS 1</string>
-     <string name="wifi_dns1_hint">8.8.8.8</string>
      <string name="wifi_dns2">DNS 2</string>
-     <string name="wifi_dns2_hint">8.8.4.4</string>
      <string name="wifi_do_not_provide_eap_user_cert">Do not provide</string>
      <string name="wifi_do_not_validate_eap_server">Do not validate</string>
      <string name="wifi_do_not_validate_eap_server_warning">No certificate specified. Your connection will not be private.</string>
@@ -4908,7 +4880,6 @@ Aggiungi una parola toccando il tasto +."</string>
      <string name="wifi_forget">Elimina</string>
      <string name="wifi_frequency">Frequenza</string>
      <string name="wifi_gateway">Gateway</string>
-     <string name="wifi_gateway_hint">192.168.1.1</string>
      <string name="wifi_hotspot_checkbox_text">Hotspot Wi-Fi</string>
      <string name="wifi_hotspot_checkbox_text_summary">Usa la connessione del cellulare per condividere la rete Wi-Fi</string>
      <string name="wifi_hotspot_configure_ap_text">Configurazione hotspot Wi-Fi</string>
@@ -4920,7 +4891,6 @@ Aggiungi una parola toccando il tasto +."</string>
      <string name="wifi_info_reconnect">Error password, please try again!</string>
      <string name="wifi_install_credentials">Installa certificati</string>
      <string name="wifi_ip_address">Indirizzo IP</string>
-     <string name="wifi_ip_address_hint">192.168.1.128</string>
      <string name="wifi_ip_settings">Impostazioni IP</string>
      <string name="wifi_ip_settings_invalid_dns">Digita un indirizzo DNS valido.</string>
      <string name="wifi_ip_settings_invalid_gateway">"Digita l'indirizzo di un gateway valido."</string>
