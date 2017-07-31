@@ -17,19 +17,6 @@
         <item>Indirizzo</item>
         <item>Note</item>
      </string-array>
-     <string-array name="contact_values">
-        <item>vnd.android.cursor.item/name</item>
-        <item>vnd.android.cursor.item/nickname</item>
-        <item>vnd.android.cursor.item/phone_v2</item>
-        <item>vnd.android.cursor.item/email_v2</item>
-        <item>vnd.android.cursor.item/organization</item>
-        <item>vnd.android.cursor.item/im</item>
-        <item>vnd.android.cursor.item/sip_address</item>
-        <item>vnd.android.cursor.item/contact_event</item>
-        <item>vnd.android.cursor.item/website</item>
-        <item>vnd.android.cursor.item/postal-address_v2</item>
-        <item>vnd.android.cursor.item/note</item>
-     </string-array>
      <string-array name="folder_operations">
         <item>Rinomina</item>
         <item>Elimina</item>
@@ -44,14 +31,6 @@
         <item>Ordina per data di creazione</item>
         <item>Ordina per data di modifica</item>
      </string-array>
-     <integer-array name="welcome_notes_color">
-        <item>0</item>
-        <item>0</item>
-        <item>0</item>
-        <item>0</item>
-        <item>0</item>
-        <item>1</item>
-     </integer-array>
      <string-array name="welcome_notes_content">
         <item>"Benvenuto in Note
 "</item>
@@ -87,13 +66,5 @@ Imposta promemoria
 Imposta i promemoria direttamente dalle note.
 Tocca il tasto \"+\" in alto a destra, seleziona \"Promemoria\" e imposta l'orario.
 "</item>
-     </string-array>
-     <string-array name="welcome_notes_image">
-        <item>guide_1</item>
-        <item></item>
-        <item>guide_3_1</item>
-        <item></item>
-        <item></item>
-        <item></item>
      </string-array>
 </resources>

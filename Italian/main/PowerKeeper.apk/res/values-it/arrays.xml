@@ -1,17 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string-array name="action_name">
-        <item>set_brightness</item>
-        <item>set_cpufreq_max</item>
-        <item>set_lcd_mode</item>
-        <item>set_cpu_powermode</item>
-        <item>set_data_connection</item>
-        <item>set_location</item>
-        <item>set_idle_notification</item>
-        <item>set_keyguard_notification</item>
-        <item>set_bg_data_delay_time</item>
-     </string-array>
      <string-array name="action_name_translate">
         <item>Massima luminosità schermo</item>
         <item>Massima frequenza CPU</item>
@@ -22,21 +11,6 @@
         <item>Prima notifica</item>
         <item>Notifica primo messaggio</item>
         <item>Notifica keyguard</item>
-     </string-array>
-     <string-array name="action_param">
-        <item>none</item>
-        <item>ui</item>
-        <item>still</item>
-        <item>movie</item>
-        <item>low</item>
-        <item>middle</item>
-        <item>high</item>
-        <item>true</item>
-        <item>false</item>
-        <item>bg_delay_0_mins</item>
-        <item>bg_delay_10_mins</item>
-        <item>bg_delay_30_mins</item>
-        <item>bg_delay_screen_off</item>
      </string-array>
      <string-array name="action_param_translate">
         <item>Nessuna</item>
@@ -53,35 +27,10 @@
         <item>Dopo 30 min</item>
         <item>Quando lo schermo è disattivato</item>
      </string-array>
-     <integer-array name="alarm_general_type_restricted">
-        <item>-1</item>
-     </integer-array>
      <string-array name="app_groups">
         <item>Selezionati</item>
         <item>Deselezionati</item>
         <item>Altri selezionati</item>
-     </string-array>
-     <string-array name="broadcast_general_type_restricted">
-        <item>android.intent.action.SCREEN_ON</item>
-        <item>android.intent.action.SCREEN_OFF</item>
-        <item>android.net.wifi.RSSI_CHANGED</item>
-        <item>android.net.wifi.SCAN_RESULTS</item>
-        <item>android.intent.action.USER_PRESENT</item>
-     </string-array>
-     <string-array name="cpu_actions_device">
-        <item>cancro</item>
-     </string-array>
-     <string-array name="event_name">
-        <item>foreground_change</item>
-        <item>screen_on</item>
-        <item>screen_off</item>
-        <item>screen_off_10_min</item>
-        <item>full_screen_enter</item>
-        <item>full_screen_exit</item>
-        <item>background_change</item>
-        <item>start_charging</item>
-        <item>stop_charging</item>
-        <item>idle_enter</item>
      </string-array>
      <string-array name="event_name_translate">
         <item>App in primo piano</item>
@@ -94,12 +43,6 @@
         <item>Telefono in carica</item>
         <item>Telefono non in carica</item>
         <item>Telefono in sospensione</item>
-     </string-array>
-     <string-array name="group_name">
-        <item>normal</item>
-        <item>hide</item>
-        <item>reading</item>
-        <item>media</item>
      </string-array>
      <string-array name="group_name_translate">
         <item>Predefinito</item>
@@ -120,11 +63,6 @@
         <item>Background</item>
         <item>Recenti</item>
      </string-array>
-     <string-array name="power_checker_group_suffix">
-        <item></item>
-        <item></item>
-        <item></item>
-     </string-array>
      <string-array name="power_checker_recent_group_titles">
         <item>WakeLock kernel</item>
         <item>WakeLock</item>
@@ -140,37 +78,6 @@
         <item>utilizzo GPS</item>
         <item>Impegno CPU</item>
         <item>Attivazione frequente dispositivo</item>
-     </string-array>
-     <string-array name="read_disable">
-        <item>com.chaozh.iReaderFree</item>
-     </string-array>
-     <string-array name="shown_action_name">
-        <item>set_cpu_powermode</item>
-        <item>set_lcd_mode</item>
-        <item>set_data_connection</item>
-        <item>set_location</item>
-        <item>set_idle_notification</item>
-        <item>set_keyguard_notification</item>
-        <item>set_sync_alarm</item>
-        <item>set_bg_data_delay_time</item>
-     </string-array>
-     <string-array name="shown_action_param_default">
-        <item>middle</item>
-        <item>ui</item>
-        <item>true</item>
-        <item>true</item>
-        <item>false</item>
-        <item>false</item>
-        <item>true</item>
-        <item>bg_delay_10_mins</item>
-     </string-array>
-     <string-array name="shown_mandatory_event_name">
-        <item>foreground_change</item>
-     </string-array>
-     <string-array name="shown_optional_event_name">
-        <item>full_screen_enter</item>
-        <item>start_charging</item>
-        <item>idle_enter</item>
      </string-array>
      <string-array name="thermal_entries">
         <item>Modalità controllo temperatura predefinita</item>
