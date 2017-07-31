@@ -127,7 +127,7 @@
      <string name="provision_second_title">Seleziona uno dei 5 temi predefiniti</string>
      <string name="provision_title">Scegli un tema</string>
      <string name="purchased_list">Temi acquistati</string>
-     <string name="purchased_list_current">MIUI 8</string>
+     <string name="purchased_list_current">MIUI 9</string>
      <string name="purchased_list_legacy">Vecchie versioni</string>
      <string name="reload">Riprova</string>
      <string name="resource_account_abnormal_state">Errore account, riprovare più tardi.</string>
@@ -309,7 +309,7 @@
      <string name="resource_trial_end_purchase">Acquista</string>
      <string name="resource_trial_end_restore">Prova terminata</string>
      <string name="resource_trial_end_time">(prova fino %1$s)</string>
-     <string name="resource_trial_end_time_format">hh:mma MMM d</string>
+     <string name="resource_trial_end_time_format">hh:mma d MMM</string>
      <string name="resource_trial_end_title">Prova scaduta</string>
      <string name="resource_trial_fail_cancel">OK</string>
      <string name="resource_trial_fail_go_settings">Impostazioni</string>

@@ -349,7 +349,7 @@ Per attivare il tuo account, segui il
      <string name="scan_barcode_title">"Esegui l'accesso sicuro al Mi Account scansionando il codice QR dalla pagina web o dalla TV"</string>
      <string name="search_account_security">Sicurezza account</string>
      <string name="search_account_security_desc">Impostazioni account</string>
-     <string name="search_account_security_key_words">MOdifica Telefono,Modifica Email,Protezione account,Account,Sina Weibo,QQ,Autorizzazione,Dispositivi</string>
+     <string name="search_account_security_key_words">Modifica Telefono,Modifica Email,Protezione account,Account,Sina Weibo,QQ,Autorizzazione,Dispositivi</string>
      <string name="search_account_security_path">Impostazioni/Mi Account/Sicurezza account</string>
      <string name="search_app_name">Mi Account</string>
      <string name="search_mi_account">Mi Account</string>

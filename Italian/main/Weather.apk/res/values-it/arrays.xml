@@ -8,30 +8,6 @@
         <item>Very unhealthy</item>
         <item>Hazardous</item>
      </string-array>
-     <string-array name="aqi_title">
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-     </string-array>
-     <string-array name="aqi_title_append">
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-     </string-array>
-     <string-array name="aqi_title_prefix">
-        <item>AQI %1$s</item>
-        <item>AQI %1$s</item>
-        <item>AQI %1$s</item>
-        <item>AQI %1$s</item>
-        <item>AQI %1$s</item>
-        <item>AQI %1$s</item>
-     </string-array>
      <string-array name="aqi_value">
         <item>Buono</item>
         <item>Soddisfacente</item>
@@ -56,19 +32,19 @@
         <item>Jakarta</item>
         <item>Delhi</item>
         <item>Mumbai</item>
-        <item>Moscow</item>
+        <item>Mosca</item>
         <item>Hyderabad</item>
         <item>Chennai</item>
         <item>Istanbul</item>
         <item>Rio de Janeiro</item>
         <item>Singapore</item>
-        <item>Berlin</item>
-        <item>Rome</item>
+        <item>Berlino</item>
+        <item>Roma</item>
         <item>New York</item>
         <item>Los Angeles</item>
         <item>Chicago</item>
         <item>Tokyo</item>
-        <item>Paris</item>
+        <item>Parigi</item>
         <item>Bangkok</item>
         <item>Seoul</item>
         <item>Kuala Lumpur</item>
@@ -148,21 +124,6 @@
         <item>SO</item>
         <item>O</item>
         <item>NO</item>
-     </string-array>
-     <string-array name="wind_power">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
-        <item>5</item>
-        <item>6</item>
-        <item>7</item>
-        <item>8</item>
-        <item>9</item>
-        <item>10</item>
-        <item>11</item>
-        <item>12</item>
      </string-array>
      <string-array name="wind_unit_detail">
         <item>Scala Beaufort</item>

@@ -101,7 +101,6 @@
      <string name="can_not_dial_while_vt_prompt">Impossibile chiamare mentre è in corso una videochiamata</string>
      <string name="category_personal">Personal</string>
      <string name="category_work">Work</string>
-     <string name="certinstaller_package">com.android.certinstaller</string>
      <string name="change_default_dialer_dialog_affirmative">Set Default</string>
      <string name="change_default_dialer_dialog_negative">Cancel</string>
      <string name="change_default_dialer_dialog_title">Make %s your default Phone app?</string>
@@ -112,7 +111,6 @@
      <string name="config_helpIntentExtraKey" />
      <string name="config_helpIntentNameKey" />
      <string name="config_helpPackageNameKey" />
-     <string name="config_helpPackageNameValue" />
      <string name="confirm_enable_oem_unlock_text">WARNING: Device protection features will not work on this device while this setting is turned on.</string>
      <string name="confirm_enable_oem_unlock_title">Allow OEM unlocking?</string>
      <string name="connected_via_passpoint">Connected via %1$s</string>
@@ -158,7 +156,6 @@
      <string name="development_settings_title">Developer options</string>
      <string name="dial_conference_fail_prompt">"Impossibile avviare l'audioconferenza, la rete non supporta la tecnologia VoLTE."</string>
      <string name="dial_vt_fail_prompt">La rete non supporta VoLTE. Effettuare una chiamata normale?</string>
-     <string name="dialer_default_class">com.android.contacts.activities.TwelveKeyDialer</string>
      <string name="disable_overlays">Disable HW overlays</string>
      <string name="disable_overlays_summary">Always use GPU for screen compositing</string>
      <string name="disabled_by_admin">Disabled by administrator</string>
@@ -197,7 +194,6 @@
      <string name="inactive_app_active_summary">Active. Tap to toggle.</string>
      <string name="inactive_app_inactive_summary">Inactive. Tap to toggle.</string>
      <string name="inactive_apps_title">Inactive apps</string>
-     <string name="incall_default_class">com.android.incallui.InCallServiceImpl</string>
      <string name="incall_error_call_failed">Impossibile effettuare la chiamata</string>
      <string name="incoming_call_failed_low_battery">Incoming Call is failed due to low battery.</string>
      <string name="keep_screen_on">Stay awake</string>
@@ -260,7 +256,6 @@
      <string name="process_kernel_label">Android OS</string>
      <string name="proxy_exclusionlist_hint">example.com,mycomp.test.com,localhost</string>
      <string name="proxy_hostname_hint">proxy.example.com</string>
-     <string name="proxy_port_hint">8080</string>
      <string name="proxy_url_hint">https://www.example.com/proxy.pac</string>
      <string name="pull_to_call_back">Tap to pull</string>
      <string name="remaining_length_format">%1$s left</string>
@@ -293,7 +288,6 @@
      <string name="select_webview_provider_dialog_title">Set WebView implementation</string>
      <string name="select_webview_provider_title">WebView implementation</string>
      <string name="select_webview_provider_toast_text">This choice is no longer valid. Try again.</string>
-     <string name="settings_package">com.android.settings</string>
      <string name="show_all_anrs">Show all ANRs</string>
      <string name="show_all_anrs_summary">Show App Not Responding dialog for background apps</string>
      <string name="show_hw_layers_updates">Show hardware layers updates</string>
@@ -356,8 +350,6 @@
      <string name="tts_status_ok">%1$s is fully supported</string>
      <string name="tts_status_requires_network">%1$s requires network connection</string>
      <string name="tts_status_title">Default language status</string>
-     <string name="ui_default_package">com.android.incallui</string>
-     <string name="ui_default_package_dialer">com.android.contacts</string>
      <string name="unblock_button">Unblock</string>
      <string name="unblock_dialog_body">Unblock %1$s?</string>
      <string name="unknown">Sconosciuto</string>
@@ -385,12 +377,7 @@
      <string name="wifi_disabled_wifi_failure">WLAN Connection Failure</string>
      <string name="wifi_display_certification">Wireless display certification</string>
      <string name="wifi_display_certification_summary">Show options for wireless display certification</string>
-     <string name="wifi_dns1_hint">8.8.8.8</string>
-     <string name="wifi_dns2_hint">8.8.4.4</string>
      <string name="wifi_fail_to_scan">"Can't scan for networks"</string>
-     <string name="wifi_gateway_hint">192.168.1.1</string>
-     <string name="wifi_ip_address_hint">192.168.1.128</string>
-     <string name="wifi_network_prefix_length_hint">24</string>
      <string name="wifi_no_internet">No Internet Access.</string>
      <string name="wifi_no_internet_no_reconnect">"No Internet Access Detected, won't automatically reconnect."</string>
      <string name="wifi_not_in_range">Not in range</string>
