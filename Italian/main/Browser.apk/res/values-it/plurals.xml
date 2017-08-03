@@ -10,7 +10,7 @@
      </plurals>
      <plurals name="last_num_days">
         <item quantity="other">Ultimi %d giorni</item>
-        <item quantity="one">Ultimo giorno</item>
+        <item quantity="one">Ultimo %d giorno</item>
      </plurals>
      <plurals name="matches_found">
         <item quantity="other">%1$d di %2$d</item>
