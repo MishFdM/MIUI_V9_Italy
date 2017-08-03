@@ -125,6 +125,10 @@ o inserisci la password"</string>
      <string name="app_install_tips_go_to">Apri</string>
      <string name="app_install_tips_install_success">%1$s installazioni completate</string>
      <string name="app_maanger_app_uninstalled_toast">Questa app è stata disinstallata</string>
+     <string name="app_manager_app_ifno_version">App version</string>
+     <string name="app_manager_app_info_label">App info</string>
+     <string name="app_manager_app_info_name">App name</string>
+     <string name="app_manager_app_info_pkg">APK name</string>
      <string name="app_manager_app_lock">App lock</string>
      <string name="app_manager_app_power">"Utilizzo batteria: "</string>
      <string name="app_manager_app_storage">"Archiviazione: "</string>
@@ -138,6 +142,7 @@ o inserisci la password"</string>
      <string name="app_manager_clear_data_dlg_title">Eliminare i dati app?</string>
      <string name="app_manager_clear_failed_dlg_message">Impossibile cancellare i dati app.</string>
      <string name="app_manager_clear_failed_dlg_title">Cancelal dati</string>
+     <string name="app_manager_copy_pkg_to_clip">Copied to clipboard</string>
      <string name="app_manager_default_close_summary">Nessuna impostazione predefinita.</string>
      <string name="app_manager_default_open">Aperto predefinito</string>
      <string name="app_manager_default_open_summary">Hai deciso di lanciare questa app in modo predefinito per attività specifiche.</string>
@@ -154,6 +159,7 @@ o inserisci la password"</string>
      <string name="app_manager_force_stop_dlg_text">"Se forzi la chiusura di un'app, potrebbe non funzionare."</string>
      <string name="app_manager_force_stop_dlg_title">Forzare la chiusura?</string>
      <string name="app_manager_have_not_consume">No</string>
+     <string name="app_manager_hide_system_server">Hide system services</string>
      <string name="app_manager_instruction">Istruzione</string>
      <string name="app_manager_loading_data">Caricamento dati…</string>
      <string name="app_manager_manage_space">Gestisci spazio</string>
@@ -182,6 +188,7 @@ o inserisci la password"</string>
      <string name="app_manager_reduce_wakepath_dialog">Minimizza avvio a catena</string>
      <string name="app_manager_reduce_wakepath_summary">"La limitazione dell'avvio automatico minimizzerrà l'avvio a catena. Limitare l'avvio automatico per %s?"</string>
      <string name="app_manager_reject_count_over">Bloccato 100000+ volte</string>
+     <string name="app_manager_show_all_apps">Show all apps</string>
      <string name="app_manager_show_detail_infos">Mostra tutto</string>
      <string name="app_manager_sort">Ordinato per</string>
      <string name="app_manager_start_by">Avviato da %s</string>

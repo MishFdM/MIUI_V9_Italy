@@ -227,6 +227,7 @@ Se riattivi i dati, l'operatore potrebbe addebitarti un costo."</string>
      <string name="debug_monitoring_category">Monitoring</string>
      <string name="debug_networking_category">Networking</string>
      <string name="debug_view_attributes">Enable view attribute inspection</string>
+     <string name="demo_mode">Demo mode</string>
      <string name="description_direction_left">Scorri a sinistra per %s.</string>
      <string name="description_direction_up">Scorri in alto per %s.</string>
      <string name="description_target_search">Cerca</string>
@@ -475,6 +476,7 @@ Utilizza solo l'alimentatore in dotazione."</string>
      <string name="screenshot_dlg_delete_button">Elimina</string>
      <string name="screenshot_edit">Modifica</string>
      <string name="screenshot_failed_text">"Impossibile salvare lo screenshot. L'archivio esterno potrebbe essere in uso."</string>
+     <string name="screenshot_insert_failed">Fail to load the screenshot, please retake a new one or view the picture in the album</string>
      <string name="screenshot_long_screenshot">Screenshot lungo</string>
      <string name="screenshot_saved_text">Tap to view your screenshot.</string>
      <string name="screenshot_saved_title">Screenshot captured</string>
@@ -500,6 +502,7 @@ Utilizza solo l'alimentatore in dotazione."</string>
      <string name="show_all_anrs_summary">Show App Not Responding dialog for background apps</string>
      <string name="show_cpu_usage">Show CPU usage</string>
      <string name="show_cpu_usage_summary">Screen overlay showing current CPU usage</string>
+     <string name="show_demo_mode">Show demo mode</string>
      <string name="show_hw_layers_updates">Show hardware layers updates</string>
      <string name="show_hw_layers_updates_summary">Flash hardware layers green when they update</string>
      <string name="show_hw_screen_updates">Show GPU view updates</string>

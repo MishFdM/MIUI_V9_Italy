@@ -830,8 +830,13 @@ attendere o selezionare Musica Online."</string>
      <string name="talkback_download">Scarica</string>
      <string name="talkback_favorite">Mi piace</string>
      <string name="talkback_mode">Ripetizione playlist</string>
+     <string name="talkback_mode_repeat_all">List loop mode</string>
+     <string name="talkback_mode_repeat_current">Single loop mode</string>
+     <string name="talkback_mode_repeat_shuffle">Random play mode</string>
      <string name="talkback_more">Altri menù</string>
      <string name="talkback_next">Prossimo brano</string>
+     <string name="talkback_nowplaying_bar">Play Bar</string>
+     <string name="talkback_nowplaying_circle">Play Circle</string>
      <string name="talkback_play">Riproduci / Pausa</string>
      <string name="talkback_pre">Brano precedente</string>
      <string name="talkback_progress">Barra progresso</string>

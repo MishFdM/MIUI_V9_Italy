@@ -1252,6 +1252,7 @@ avviso"</string>
      <string name="delete_rule">remove rules</string>
      <string name="delete_saved_network">Eliminazione reti salvate</string>
      <string name="demo_mode">Demo mode</string>
+     <string name="demo_mode_summary">Display specific status bar icons for demo</string>
      <string name="deny">Nega</string>
      <string name="details_subtitle">Dettagli di utilizzo</string>
      <string name="details_title">Dettagli di utilizzo</string>
@@ -2236,6 +2237,7 @@ You can set a new screen lock for both your device and your work profile, but an
      <string name="lockscreen_glogin_checking_password">Verifica\u2026</string>
      <string name="lockscreen_glogin_password_hint">Password</string>
      <string name="lockscreen_glogin_submit_button">Accedi</string>
+     <string name="lockscreen_magazine_title">Wallpaper Carousel</string>
      <string name="lockscreen_remote_input">If device is locked, prevent typing replies or other text in notifications</string>
      <string name="login_account_dialog_message">Sign in with your Mi Account and turn on sync with Mi Cloud.</string>
      <string name="login_account_dialog_title">Sign in with Mi Account</string>
@@ -2482,6 +2484,7 @@ ed esegui il software."</string>
      <string name="music_dirac_mode_general_earbuds">Generali</string>
      <string name="music_dirac_mode_general_inear">In-ear normale</string>
      <string name="music_dirac_mode_headset">Cuffie Mi</string>
+     <string name="music_dirac_mode_headset_comfort">Mi Comfort</string>
      <string name="music_dirac_mode_in_ear">Cuffie Mi in-ear</string>
      <string name="music_dirac_mode_in_ear_2013">Mi In-Ear(2013)</string>
      <string name="music_dirac_mode_in_ear_pro">Mi In-Ear Pro</string>

@@ -119,7 +119,7 @@
      </plurals>
      <plurals name="settings_toggle_position_divider_page">
         <item quantity="other">%1$d comandi sopra sono attivi</item>
-        <item quantity="one">1 comando sopra è attivo</item>
+        <item quantity="one">%1$d comando sopra è attivo</item>
      </plurals>
      <plurals name="show_cit_countdown">
         <item quantity="other">Ti mancano %1$d tocchi per avviare la diagnostica</item>
@@ -162,12 +162,12 @@ Per maggiori informazioni su questo certificato contatta l'amministratore."</ite
         <item quantity="one">Controlla certificato</item>
      </plurals>
      <plurals name="status_bar_settings_disabled_header_title">
-        <item quantity="other">%s app non possono mostrare le notifiche</item>
-        <item quantity="one">"Un'app non può mostrare le notifiche"</item>
+        <item quantity="other">%d app non possono mostrare le notifiche</item>
+        <item quantity="one">%d app non può mostrare le notifiche</item>
      </plurals>
      <plurals name="status_bar_settings_enabled_header_title">
-        <item quantity="other">%s app possono mostrare le notifiche</item>
-        <item quantity="one">"Un'app può mostrare le notifiche"</item>
+        <item quantity="other">%d app possono mostrare le notifiche</item>
+        <item quantity="one">%dapp può mostrare le notifiche</item>
      </plurals>
      <plurals name="uri_permissions_text">
         <item quantity="other">%d elementi</item>
