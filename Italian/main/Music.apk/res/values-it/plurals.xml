@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-<plurals name="download_finished">
-        <item quantity="other">lt;font color=\"red\">%d brani&lt;/font> scaricati</item>
-        <item quantity="one">lt;font color==\"red\">%d brano&lt;/font> scaricato</item>
-     </plurals>
-     <plurals name="download_running">
-        <item quantity="other">lt;font color=\"red\">%d brani&;lt;/font> in download</item>
-        <item quantity="one">lt;font color==\"red\">%d brano&;lt;/font> in download</item>
+    <plurals name="download_finished">
+        <item quantity="other">&lt;font color=\"red\">%d brani&lt;/font> downloaded</item>
+        <item quantity="one">&lt;font color==\"red\">%d brano&lt;/font> downloaded</item>
+    </plurals>
+    <plurals name="download_running">
+        <item quantity="other">&lt;font color=\"red\">%d brani&lt;/font> downloading</item>
+        <item quantity="one">&lt;font color==\"red\">%d brano&lt;/font> downloading</item>
     </plurals>
      <plurals name="dialog_confirm_delete_downloads_message">
         <item quantity="other">Delete %d items?</item>
@@ -16,7 +16,7 @@
         <item quantity="other">%d downloads removed</item>
         <item quantity="one">%d download removed</item>
      </plurals>
-<plurals name="Ntracks_search_result">
+     <plurals name="Ntracks_search_result">
         <item quantity="other">%d brani trovati</item>
         <item quantity="one">%d brano trovato</item>
      </plurals>

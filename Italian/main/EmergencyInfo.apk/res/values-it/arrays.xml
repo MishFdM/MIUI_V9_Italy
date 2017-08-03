@@ -22,11 +22,6 @@
         <item>Natural colors as seen by the eye</item>
         <item>Colors optimized for digital content</item>
      </string-array>
-     <integer-array name="color_mode_ids">
-        <item>0</item>
-        <item>-1</item>
-        <item>7</item>
-     </integer-array>
      <string-array name="color_mode_names">
         <item>Vibrant (default)</item>
         <item>Natural</item>

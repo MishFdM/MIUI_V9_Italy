@@ -26,11 +26,6 @@
         <item>Hide number</item>
         <item>Show number</item>
      </string-array>
-     <string-array name="clir_values">
-        <item>DEFAULT</item>
-        <item>HIDE</item>
-        <item>SHOW</item>
-     </string-array>
      <string-array name="color_mode_descriptions">
         <item>Enhanced colors</item>
         <item>Natural colors as seen by the eye</item>
