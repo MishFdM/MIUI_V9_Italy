@@ -98,7 +98,7 @@
         <item quantity="one">Non utilizzato per %d anno</item>
     </plurals>
      <plurals name="resutl_function_install_app_summary">
-        <item quantity="other">"%d apps haven't been used for a long time, take a look."</item>
-        <item quantity="one">"%d app hasn't been used for a long time, take a look."</item>
+        <item quantity="other">"%d app non sono state utilizzate per lungo tempo, dagli un'occhiata."</item>
+        <item quantity="one">"%d app non sono state utilizzate per lungo tempo, dagli un'occhiata."</item>
      </plurals>
 </resources>
