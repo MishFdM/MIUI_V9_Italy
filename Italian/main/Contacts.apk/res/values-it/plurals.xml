@@ -41,8 +41,8 @@
         <item quantity="one">Un messaggio in segreteria</item>
      </plurals>
    <plurals name="export_sim_contacts_dialog_message">
-        <item quantity="other">SIM card can store %1$d contacts.</item>
-        <item quantity="one">SIM card can store %1$d contact.</item>
+        <item quantity="other">La SIM può ospitare %1$d contatti.</item>
+        <item quantity="one">La SIM può opsitare %1$d contatti.</item>
     </plurals>
 <plurals name="confirm_delete_sim_entry_miui">
         <item quantity="other">Eliminare %1$d contatti dalla SIM?</item>
