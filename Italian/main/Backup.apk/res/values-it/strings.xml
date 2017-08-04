@@ -281,14 +281,14 @@ Tocca [I'm a recipient] per creare un Codice QR"</string>
 3. Scansiona il Codice QR con il vecchio dispositivo"</string>
      <string name="trans_operate_old_phone_tips2">"Vai in Impostazioni > Impostazioni aggiuntive > Trasferimento e tocca [Sono il mittente]"</string>
      <string name="trans_please_waiting">Attendi…</string>
-     <string name="trans_progress_subdescript_br_receiver">Restoring %1$s, %2$s completed</string>
-     <string name="trans_progress_subdescript_br_sender">Backing up %1$s, %2$s completed</string>
+     <string name="trans_progress_subdescript_br_receiver">Ripristino %1$s, %2$s completato</string>
+     <string name="trans_progress_subdescript_br_sender">Backup %1$s, %2$s completato</string>
      <string name="trans_progress_subdescript_br_sender_finish">Backup di %s eseguito, in attesa di invio…</string>
-     <string name="trans_progress_subdescript_transing_receiver">Receiving %1$s, %2$s completed</string>
+     <string name="trans_progress_subdescript_transing_receiver">Recezione %1$s, %2$s completata</string>
      <string name="trans_progress_subdescript_transing_receiver_finish">%s ricevuti, in attesa di ripristino…</string>
-     <string name="trans_progress_subdescript_transing_sender">Sending %1$s, %2$s completed </string>
-     <string name="trans_progress_subdescript_transingsd_receiver">Receiving files, %s completed</string>
-     <string name="trans_progress_subdescript_transingsd_sender">Sending files, %s completed</string>
+     <string name="trans_progress_subdescript_transing_sender">Invio %1$s, %2$s completato</string>
+     <string name="trans_progress_subdescript_transingsd_receiver">Ricezione files, %s completato</string>
+     <string name="trans_progress_subdescript_transingsd_sender">Invio file, %s completato</string>
      <string name="trans_progress_subdescript_transingsddata_receiver">Ricezione dati sdcard di %1$s, %2$s completato</string>
      <string name="trans_progress_subdescript_transingsddata_sender">Invio dati sdcard di %1$s, %2$s completato</string>
      <string name="trans_progress_subdescript_waiting">In attesa di ricevere %s</string>
