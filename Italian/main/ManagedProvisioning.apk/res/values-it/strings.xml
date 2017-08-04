@@ -7,18 +7,18 @@
      <string name="cancel_provisioning">Annulla</string>
      <string name="cancel_setup">Annulla</string>
      <string name="cancel_setup_and_factory_reset_dialog_cancel">Annulla</string>
-     <string name="cancel_setup_and_factory_reset_dialog_msg">Ending this setup will factory reset your device and take you back to the first screen.</string>
-     <string name="cancel_setup_and_factory_reset_dialog_ok">Reset device</string>
-     <string name="cancel_setup_and_factory_reset_dialog_title">End setup and factory reset?</string>
+     <string name="cancel_setup_and_factory_reset_dialog_msg">Il termine di questo configurazione porterà al reset di fabbrica del dispositivo che riporterà alla schermata iniziale.</string>
+     <string name="cancel_setup_and_factory_reset_dialog_ok">Resetta dispositivo</string>
+     <string name="cancel_setup_and_factory_reset_dialog_title">Termina configurazione e resetta ad impostazioni di fabbrica?</string>
      <string name="company_controls_device">La tua azienda controlla questo dispositivo e lo mantiene sicuro.</string>
      <string name="company_controls_workspace">La tua azienda controlla questo profilo e lo mantiene sicuro. Il resto del dispositivo lo controlli tu.</string>
      <string name="contact_your_admin_for_more_info">"Contatta l'amministratore per ulteriori informazioni, comprese le politiche di privacy della propria organizzazione."</string>
      <string name="continue_provisioning_notify_text">Tocca per continuare a impostare il profilo di lavoro</string>
      <string name="continue_provisioning_notify_title">Cifratura completata</string>
      <string name="copying_certs">Impostazione certificati CA</string>
-     <string name="default_first_meat_user_name">Primary user</string>
-     <string name="default_managed_profile_name">Work profile</string>
-     <string name="default_owned_device_username">User of work device</string>
+     <string name="default_first_meat_user_name">Utente primario</string>
+     <string name="default_managed_profile_name">Profilo di lavoro</string>
+     <string name="default_owned_device_username">Utente del dispositivo di lavoro</string>
      <string name="delete_profile">Rimuovi</string>
      <string name="delete_profile_title">Rimuovere il profilo di lavoro?</string>
      <string name="device_owner_cancel_cancel">Annulla</string>
@@ -51,7 +51,7 @@
      <string name="opening_paragraph_delete_profile_known_company">Questo profilo di lavoro è gestito per %s utilizzando:</string>
      <string name="opening_paragraph_delete_profile_unknown_company">Esiste già un profilo di lavoro ed è gestito da:</string>
      <string name="pick_launcher">OK</string>
-     <string name="preprovisioning_error_encryption_not_supported">Your device does not support encryption. Contact your IT department.</string>
+     <string name="preprovisioning_error_encryption_not_supported">Il tuo dispositivo non supporta la cifratura. Contatta il tuo dipartimento IT.</string>
      <string name="profile_owner_cancel_cancel">No</string>
      <string name="profile_owner_cancel_message">Sei sicuro di voler interrompere la creazione?</string>
      <string name="profile_owner_cancel_ok">Si</string>
@@ -61,7 +61,7 @@
      <string name="progress_download">Download app admin...</string>
      <string name="progress_install">Installazione app admin...</string>
      <string name="progress_set_owner">Impostando proprietario del dispositivo...</string>
-     <string name="provisioning">Provisioning</string>
+     <string name="provisioning">Introduzione</string>
      <string name="provisioning_error_title">Ops!</string>
      <string name="read_more_delete_profile">Prima di procedere, <a href="#read_this_link">leggi qua</a>.</string>
      <string name="setting_up_workspace">Impostando il profilo di lavoro...</string>
@@ -80,9 +80,9 @@
      <string name="the_following_is_your_mdm">La seguente applicazione avrà bisogno di accedere a questo profilo:</string>
      <string name="the_following_is_your_mdm_for_device">La seguente applicazione gestirà il tuo dispositivo:</string>
      <string name="theft_protection_disabled_warning">Continuando, la protezione antifurto non verrà attivata. Per attivare la protezione antifurto annulla adesso e imposta questo dispositivo come personale.</string>
-     <string name="user_cannot_have_work_profile">This user cannot have a work profile</string>
-     <string name="user_consent_msg">I consent</string>
-     <string name="user_setup_incomplete">User Setup Incomplete</string>
+     <string name="user_cannot_have_work_profile">Questo utente non può avere un profilo di lavoro</string>
+     <string name="user_consent_msg">Acconsento</string>
+     <string name="user_setup_incomplete">Configurazione utente incompleta</string>
      <string name="work_profile_setup_continue">CONTINUA</string>
      <string name="work_profile_setup_later_message">"Puoi impostare il tuo profilo di lavoro più tardi dall'app di gestione utilizzata dalla tua azienda."</string>
      <string name="work_profile_setup_later_title">"Interrompere l'impostazione del profilo?"</string>
