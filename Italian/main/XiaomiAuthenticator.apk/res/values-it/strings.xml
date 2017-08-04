@@ -2,7 +2,7 @@
 <resources>
      <string name="about_preference_screen_title">Informazioni</string>
      <string name="about_preference_title">Informazioni</string>
-     <string name="acknowledge_btn">I Acknowledge</string>
+     <string name="acknowledge_btn">Mio Riconoscimento</string>
      <string name="action_settings">Impostazioni</string>
      <string name="activation_page">Token non attivo</string>
      <string name="activation_page_btn_txt">Attiva</string>
@@ -11,8 +11,8 @@
      <string name="app_name">Mi Authenticator</string>
      <string name="app_name_lockpattern">LockPattern</string>
      <string name="app_name_short">Mi Authenticator</string>
-     <string name="authenticator_invalid_tip">You may have turned this feature off using your desktop Browser or activated another Mi Security Token.</string>
-     <string name="authenticator_invalid_title">Account：%1$s security token has expired.</string>
+     <string name="authenticator_invalid_tip">Devi disattivare questa funzionalità utilizzando il tuo Browser desktop o attivare un altro Mi Security Token.</string>
+     <string name="authenticator_invalid_title">Account：%1$s il token di sicurezza è scaduto.</string>
      <string name="authenticator_page_reactivation">Riattiva</string>
      <string name="button_add_account">Aggiungi account</string>
      <string name="button_add_account_manual_entry">Aggiungi account manualmente</string>
@@ -27,7 +27,7 @@
      <string name="check_code">Per verificare di avere il valore corretto della chiave %1$s verifica che il valore qui riportato corrisponda con quello di verifica integrità fornito dal server</string>
      <string name="check_code_menu_item">Verifica il valore chiave</string>
      <string name="check_code_title">Valore di verifica integrità</string>
-     <string name="continue_btn">Continue</string>
+     <string name="continue_btn">Continua</string>
      <string name="copy_to_clipboard">Copia negli appunti</string>
      <string name="correct_enter_password">Inserisci una password valida</string>
      <string name="correct_enter_update_password">La password inserita non è corretta</string>
@@ -111,7 +111,7 @@ Esegui il login su https://account.xiaomi.com e seleziona l'opzione di recupero 
      <string name="remove_Xiaomi_account_dialog_message">Rimuovendo questo account &lt;b&gt;perderai la possibilità&lt;/b&gt; di generare dei codici, comunque questo &lt;b&gt;non&lt;/b&gt; disattiverà la verifica in 2 passi. Questo potrebbe impedirti di accedere al tuo account. &lt;p&gt; Prima di procedere con la rimozione: &lt;ul&gt; &lt;li&gt;Disattivare la verifica in 2 passi per questo account, oppure &lt;/li&gt; &lt;li&gt;Assicurati di avere un meccanismo alternativo per la generazione dei codici.&lt;/li&gt; &lt;/ul&gt;</string>
      <string name="remove_account">Remove account</string>
      <string name="remove_account_dialog_message">Rimuovendo questo account &lt;b&gt;perderai la possibilità&lt;/b&gt; di generare dei codici, comunque questo &lt;b&gt;non&lt;/b&gt; disattiverà la verifica in 2 passi. Questo potrebbe impedirti di accedere al tuo account. &lt;p&gt; Prima di procedere con la rimozione: &lt;ul&gt; &lt;li&gt;Disattivare la verifica in 2 passi per questo account, oppure &lt;/li&gt; &lt;li&gt;Assicurati di avere un meccanismo alternativo per la generazione dei codici.&lt;/li&gt; &lt;/ul&gt;</string>
-     <string name="remove_account_dialog_title">Remove account?</string>
+     <string name="remove_account_dialog_title">Rimuovere account?</string>
      <string name="rename">Rinomina</string>
      <string name="rename_message">Rinomina %1$s</string>
      <string name="resetbtn_patternforgotten">Reimposta ora</string>
