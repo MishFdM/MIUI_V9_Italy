@@ -83,7 +83,7 @@ Ultimo backup: %2$s"</string>
      <string name="find_device_disabled_title">Servizio Trova dispositivo disabilitato</string>
      <string name="find_device_disabling">Disattivazione…</string>
      <string name="find_device_dspt">Blocca o ripristina il dispositivo da remoto.</string>
-     <string name="find_device_dspt_provision"> If you lose your device, you can go to %s to locate, lock, or reset it. You can turn this feature on or off anytime in Settings.</string>
+     <string name="find_device_dspt_provision">Nel caso dovessi smarrire il tuo dispositivo, dirigiti su %s per localizzarlo, bloccarlo, o resettarlo. Puoi abilitare o disabilitare questa funzionalità quando vuoi dalle Impostazioni.</string>
      <string name="find_device_dspt_provision_2">i.mi.com</string>
      <string name="find_device_dspt_provision_2_int">www.mi.com/micloud</string>
      <string name="find_device_dspt_provision_3">" . Puoi attivare questa funzione in qualsiasi momento in Impostazioni."</string>
@@ -136,8 +136,8 @@ Se cambia la SIM, deve essere inviato un nuovo SMS di attivazione."</string>
      <string name="micloud_all_sub_2_intl_sms">Verranno inviati 2 SMS internazionali per attivare la tua SIM.</string>
      <string name="micloud_all_sub_2_sms">Verranno inviati 2 SMS per attivare la tua SIM.</string>
      <string name="micloud_all_sub_resend_sms">"Quando attivi 'Trova Dispositivo', potrebbe essere inviato un SMS dopo il cambio SIM."</string>
-     <string name="micloud_battery_low_notification_message">Connect charger to sync</string>
-     <string name="micloud_battery_low_notification_title">Low battery</string>
+     <string name="micloud_battery_low_notification_message">Connetti il caricabatterie per sincronizzare</string>
+     <string name="micloud_battery_low_notification_title">Batteria scarica</string>
      <string name="micloud_buy_member">Acquista iscrizione Mi Cloud</string>
      <string name="micloud_buy_member_safe">Acquista iscrizione Mi Cloud</string>
      <string name="micloud_check_sim_notify_text">"Sembra che tu abbia cambiato SIM. Accedi
@@ -186,7 +186,7 @@ al tuo Mi Account per riattivare Mi Cloud."</string>
      <string name="micloud_detail_force_sync">Sincronizza adesso</string>
      <string name="micloud_detail_lastest">Sincronizzato</string>
      <string name="micloud_detail_lastest_with_off">Sincronizzato</string>
-     <string name="micloud_detail_need_charge_or_sleep">Connect charger and turn off screen to resume syncing</string>
+     <string name="micloud_detail_need_charge_or_sleep">Connetti il caricabatterie e spegni lo schermo per riavviare la sincronizzazione</string>
      <string name="micloud_detail_not_sync">%d in attesa di sincronizzazione</string>
      <string name="micloud_detail_not_syncable">Non sincronizzabile</string>
      <string name="micloud_detail_not_synced">Non sincronizzato</string>
@@ -194,11 +194,11 @@ al tuo Mi Account per riattivare Mi Cloud."</string>
      <string name="micloud_detail_pause">Sincronizazione in pausa</string>
      <string name="micloud_detail_pending">In attesa</string>
      <string name="micloud_detail_preference_sync_items">Elementi</string>
-     <string name="micloud_detail_query_error">"Can't obtain sync state"</string>
+     <string name="micloud_detail_query_error">Impossibile ottenere lo stato della sincronizzazione</string>
      <string name="micloud_detail_success">Sincronizzato</string>
      <string name="micloud_detail_sync_now">Sincronizza adesso</string>
      <string name="micloud_detail_syncing">Sincronizzazione</string>
-     <string name="micloud_detail_upload_syncing">Upload %s</string>
+     <string name="micloud_detail_upload_syncing">Invio %s</string>
      <string name="micloud_detail_wlan">%d in attesa di sincronizzazione</string>
      <string name="micloud_dialog_sync_now_message">Si consiglia di utilizzare la rete Wi-Fi</string>
      <string name="micloud_dialog_sync_now_negative">Non adesso</string>
@@ -223,7 +223,7 @@ al tuo Mi Account per riattivare Mi Cloud."</string>
      <string name="micloud_find_device_guide_noti_title_by_app_change_wx">Attiva \"Trova Dispositivo\" per mettere al sicuro i tuoi dati Wechat</string>
      <string name="micloud_find_device_guide_noti_title_by_app_change_zfb">Alipay suggerisci di attivare Trova Telefono</string>
      <string name="micloud_find_device_guide_progress">Attivazione Trova Dispositivo…</string>
-     <string name="micloud_find_device_guide_title">Sign in to %s to locate, lock, or erase your device</string>
+     <string name="micloud_find_device_guide_title">Loggati su %s per localizzare, bloccare, o formattare il tuo dispositivo</string>
      <string name="micloud_find_device_open_fail">Impossibile attivare Trova Dispositivo</string>
      <string name="micloud_find_device_opened">Trova Dispositivo attivato</string>
      <string name="micloud_find_device_opened_content">Trova Dispositivo a %s</string>
@@ -254,8 +254,8 @@ Per rimediare a questo puoi cancellare i vecchi file oppure comprare spazio aggi
      <string name="micloud_main_master_sync_on">Sincronizzazione attiva</string>
      <string name="micloud_main_memory_low_message">Per poter sincronizzare, elimina alcuni elementi in Mi Cloud.</string>
      <string name="micloud_main_memory_low_title">Spazio di archiviazione insufficiente</string>
-     <string name="micloud_main_message_master_sync_off">AImpostazioni di sincronizzazione automatica nella barra delle notifiche.</string>
-     <string name="micloud_main_message_not_synced">%s data not synced</string>
+     <string name="micloud_main_message_master_sync_off">Impostazioni di sincronizzazione automatica nella barra delle notifiche.</string>
+     <string name="micloud_main_message_not_synced">%s dati non sincronizzati</string>
      <string name="micloud_main_multi_user_error_message">"Hai eseguito l'accesso con lo stesso account dello spazio Primario che causa un errore in Mi Cloud.
 Utilizza un account diverso."</string>
      <string name="micloud_main_multi_user_error_title">Interruzione Mi Cloud</string>
@@ -287,7 +287,7 @@ Utilizza un account diverso."</string>
      <string name="micloud_main_synced_data_count">%d items synced</string>
      <string name="micloud_main_syncing">Sincronizzazione…</string>
      <string name="micloud_main_title_master_sync_off">Auto-sinc. disattivata</string>
-     <string name="micloud_main_title_not_synced">Not synced</string>
+     <string name="micloud_main_title_not_synced">Non sincronizzato</string>
      <string name="micloud_main_title_sync_fail">Impossibile sincronizzare</string>
      <string name="micloud_main_title_sync_off">Sincronizzazione disattivata</string>
      <string name="micloud_main_title_sync_on_wifi">Utilizza Wi-Fi</string>
@@ -297,7 +297,7 @@ Utilizza un account diverso."</string>
      <string name="micloud_main_wait_wlan">In attesa di Wi-Fi</string>
      <string name="micloud_main_wait_wlan_charge">In attesa di Wi-Fi, collegare il carica batteria</string>
      <string name="micloud_main_wait_wlan_charge_sleep">In attesa di Wi-Fi, collegare il carica batteria e disattivare lo schermo</string>
-     <string name="micloud_main_wlan_sync_data_count">Items waiting to sync: %d</string>
+     <string name="micloud_main_wlan_sync_data_count">Elementi in attesa di sincr.: %d</string>
      <string name="micloud_member">Abbonamento Mi Cloud</string>
      <string name="micloud_member_advantage">Ottieni altro spazio di archiviazione.</string>
      <string name="micloud_member_buy_content" formatted="false">"Valido per %s-%s-%s
