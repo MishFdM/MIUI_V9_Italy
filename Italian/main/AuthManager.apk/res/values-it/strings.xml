@@ -82,7 +82,7 @@
      <string name="HIPS_SecurityPrompt_Reject">Nega (%d)</string>
      <string name="HIPS_SecurityPrompt_Reject_Once">Nega una volta (%d)</string>
      <string name="HIPS_SecurityPrompt_Title">%1$s sta tentando di accedere a %2$s</string>
-     <string name="Su_Package_Forbidden2">Accesso root non presente.</string>
+     <string name="Su_Package_Forbidden2">non hai accesso root.</string>
      <string name="app_name">Gestione Permessi</string>
      <string name="current_permission_template">%1$s di %2$s</string>
      <string name="default_permission_description">"Eseguire un'operazione sconosciuta"</string>
