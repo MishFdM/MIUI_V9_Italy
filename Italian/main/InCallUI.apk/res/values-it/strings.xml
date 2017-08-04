@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="accept_modify_call_request_prompt">Accettare la richiesta di modifica della chiamata?</string>
-     <string name="add_vm_number_str">Add number</string>
+     <string name="add_vm_number_str">Aggiungi numero</string>
      <string name="antispam_local_marked">Segnalato localmente</string>
      <string name="antispam_marked_count">Segnalato da %1$d utenti MIUI</string>
      <string name="antispam_marked_title">%1$s</string>
