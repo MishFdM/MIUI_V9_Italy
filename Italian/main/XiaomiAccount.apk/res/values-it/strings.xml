@@ -48,7 +48,7 @@
      <string name="account_user_name_dialog_title">Inserisci nome utente</string>
      <string name="account_user_other_info">Altre risorse</string>
      <string name="account_user_phone">Telefono</string>
-     <string name="account_user_recovery_phone">Recovery phone</string>
+     <string name="account_user_recovery_phone">Recupera telefono</string>
      <string name="account_user_region">Regione</string>
      <string name="account_user_using_facebook_avatar">Usa la foto profilo di Facebook</string>
      <string name="account_user_using_qq_avatar">Usa la foto profilo di QQ</string>
@@ -113,7 +113,7 @@
      <string name="find_device_account_error">"Impossibile recuperare lo stato a causa di un errore con l'account"</string>
      <string name="find_device_activate_account">Attiva account</string>
      <string name="find_device_bad_response_error">Impossibile recuperare lo stato, riprova più tardi</string>
-     <string name="find_device_display_id">Unlock number: %s</string>
+     <string name="find_device_display_id">Sblocca numero: %s</string>
      <string name="find_device_error_password_not_confirmed">Impossibile disattivare Trova Dispositivo. Inserisci il tuo Mi Account.</string>
      <string name="find_device_error_password_recently_changed">Hai modificato la password negli ultimi 3 giorni. Impossibile disattivare Trova Dispositivo per motivi di sicurezza.</string>
      <string name="find_device_interrupted">"L'operazione è stata interrotta, riprova più tardi"</string>
@@ -169,7 +169,7 @@
      <string name="notify_network_restricted_title">Mi Account non è riuscito a connettersi alla rete</string>
      <string name="oauth_get_scopes_failed">Impossibile recuperare le informazioni account</string>
      <string name="oauth_getting_scopes">Verifica account…</string>
-     <string name="oauth_scopes_intro">&lt;font color=#%1$s&gt;%2$s&lt;/font&gt; will get following permissions:&lt;br&gt; &lt;br&gt; %3$s</string>
+     <string name="oauth_scopes_intro">&lt;font color=#%1$s&gt;%2$s&lt;/font&gt; otterrà i seguenti permessi:&lt;br&gt; &lt;br&gt; %3$s</string>
      <string name="oauth_title">Accedi con il Mi Account</string>
      <string name="other_devices_title">Altri dispositivi</string>
      <string name="passport_access_denied">Accesso negato</string>
@@ -232,7 +232,7 @@ Per attivare il tuo account, segui il
      <string name="passport_get_verify_code">Ricevi il codice</string>
      <string name="passport_getting_verify_code">Ricezione</string>
      <string name="passport_i_know">OK</string>
-     <string name="passport_identitfication_expired">Verification code expired, start over</string>
+     <string name="passport_identitfication_expired">Codice di verifica scaduto, ricomincia</string>
      <string name="passport_imei_permission_denied_message">"Abbiamo richiesto i permessi per l'acquisizione del codice IMEI del tuo dispositivo. Mi Account utilizza l'IMEI per identificare il dispositivo a cui accedi o da cui esci per mantenere al sicuro il tuo Mi Account."</string>
      <string name="passport_imei_permission_denied_title">Richiesta permessi IMEI</string>
      <string name="passport_input_captcha_hint">Inserisci il captcha</string>
@@ -328,7 +328,7 @@ Per attivare il tuo account, segui il
      <string name="passport_wrong_vcode">Il codice inserito non è corretto</string>
      <string name="phone_activated">%s attivato</string>
      <string name="photoPickerNotFoundText">Nessuna foto disponibile.</string>
-     <string name="push_notification_content">Premi per ricevere ilcodice di verifica</string>
+     <string name="push_notification_content">Premi per ricevere il codice di verifica</string>
      <string name="push_notification_title">"Hai effettuato l'accesso Mi Account tramite un dispositivo sconosciuto"</string>
      <string name="push_notify_dialog_message">Un nuovo dispositivo sta cercando di accedere al tuo Mi Account. Inserisci il codice di verifica sul tuo nuovo dispositivo per completare la verifica di sicurezza. Se non lo hai richiesto tu, modifica la password del tuo Mi Account.</string>
      <string name="push_notify_dialog_title">Verifica di Sicurezza Accesso</string>
@@ -354,7 +354,7 @@ Per attivare il tuo account, segui il
      <string name="search_app_name">Mi Account</string>
      <string name="search_mi_account">Mi Account</string>
      <string name="search_mi_account_desc">Mi Account</string>
-     <string name="search_mi_account_key_words">Mi Account,Sign in,Crea account,Mi Cloud,Mi Credit,Mi Wallet,Mi Pass,Mi Insurance,Impostazioni Account,Account Management</string>
+     <string name="search_mi_account_key_words">Mi Account,Loggati,Crea account,Mi Cloud,Mi Credit,Mi Wallet,Mi Pass,Mi Insurance,Impostazioni Account,Account Management</string>
      <string name="search_mi_account_path">Mi Account,Impostazioni/Mi Account</string>
      <string name="search_user_detail">Informazioni personali</string>
      <string name="search_user_detail_bottom_key_words">Modifica telefono,Modifica Email,Modifica Introiti,Modifica scuola,Modifica posizione,Modifica regione</string>
