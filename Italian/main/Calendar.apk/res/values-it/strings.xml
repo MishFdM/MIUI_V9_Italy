@@ -47,8 +47,8 @@
      <string name="birthday_event_description_a_week_later">Tra una settimana</string>
      <string name="birthday_event_description_day_after_tomorrow">Dopodomani</string>
      <string name="birthday_event_description_day_before_yesterday">"L'altro ieri"</string>
-     <string name="birthday_event_description_days_ago">%1$d days since</string>
-     <string name="birthday_event_description_days_later">%1$d days until</string>
+     <string name="birthday_event_description_days_ago">%1$d giorni da</string>
+     <string name="birthday_event_description_days_later">%1$d giorni a</string>
      <string name="birthday_event_description_default">%1$s %2$s %3$s %4$s</string>
      <string name="birthday_event_description_special">"%1$s %2$s %3$s %4$s %5$s"</string>
      <string name="birthday_event_description_today">Oggi</string>
@@ -524,7 +524,7 @@ Puoi anche aggiungere dei promemoria per non perdere niente di importante."</str
      <string name="subscribe_channel_subscribe">Sottoscrivi</string>
      <string name="subscribe_channel_subscribing">Sottoscrizione in corso</string>
      <string name="subscribe_channel_title">Canale</string>
-     <string name="subscribing_card">Annulla mento iscrizione</string>
+     <string name="subscribing_card">Annullamento iscrizione</string>
      <string name="swipe_up_guide_hint_text">上滑发现更多</string>
      <string name="synced">Sincronizzato</string>
      <string name="taishen" />
@@ -554,9 +554,9 @@ Puoi anche aggiungere dei promemoria per non perdere niente di importante."</str
      <string name="travel_eta_advice">Guida per %2$s minuti fino a %1$s.</string>
      <string name="travel_ets_advice">Guida fino a %2$s prima %1$s.</string>
      <string name="travel_event_add_successfully">Evento creato</string>
-     <string name="travel_event_add_unsuccessfully">"Couldn't create event"</string>
-     <string name="travel_event_added">Event created</string>
-     <string name="travel_event_delete_successfully">Event deleted</string>
+     <string name="travel_event_add_unsuccessfully">"Impossibile creare l'evento"</string>
+     <string name="travel_event_added">Evento creato</string>
+     <string name="travel_event_delete_successfully">Evento eliminato</string>
      <string name="travel_event_title_flight">Volo: %1$s-%2$s %3$s</string>
      <string name="travel_event_title_train">Treno: %1$s-%2$s %3$s</string>
      <string name="travel_event_title_train_only_dep">Treno: %1$s %2$s</string>
