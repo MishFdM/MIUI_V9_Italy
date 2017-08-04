@@ -90,8 +90,6 @@
      <string name="incompatible_dialog_message">Questo tema non è pienamente compatibile con MIUI 8. Alcuni elementi potrebbero non essere visualizzati correttamente.</string>
      <string name="incompatible_dialog_ok">OK</string>
      <string name="incompatible_dialog_title">Problemi di compatibilità</string>
-     <string name="internal_online_precust_gorgeous_black_name">gorgeous black</string>
-     <string name="internal_online_precust_gorgeous_color_name">gorgeous color</string>
      <string name="is_setting_wallpaper_message">Impostazione sfondo...</string>
      <string name="live_wallpaper">Sfondo animati</string>
      <string name="loading">Caricamento…</string>
@@ -119,6 +117,8 @@
      <string name="my_gifts_received">Ricevuti</string>
      <string name="no_data">Impossibile collegare alla rete</string>
      <string name="online_no_network">Impossibile connettere alla rete</string>
+     <string name="online_precust_dreams">Dreams</string>
+     <string name="online_precust_midnight">Midnight</string>
      <string name="online_search_hint">Cerca risorse online</string>
      <string name="present_local_themes">Scaricati</string>
      <string name="present_online_themes">Online</string>

@@ -31,6 +31,7 @@
      <string name="config_suggest_description">"Identifica applicazioni e attività per mantenere attivi i processi importanti. Il sistema di risparmio batteria gestirà le app importanti in modo selettivo."</string>
      <string name="config_suggest_suffix_title">Risparmio batteria MIUI (consigliato)</string>
      <string name="config_suggest_title">Consigliate</string>
+     <string name="confirm">Confirm</string>
      <string name="disable_hide_mode">Disattiva Risparmio Batteria MIUI</string>
      <string name="disable_hide_mode_warning">La disattivazione di Risparmio Batteria MIUI potrebbe causare maggiori consumi</string>
      <string name="disabled">Disattivato</string>
@@ -49,6 +50,7 @@
      <string name="hide_system_app">Nascondi app di sistema</string>
      <string name="high">Alte prestazioni</string>
      <string name="hints_loading_text">Solo un attimo…</string>
+     <string name="important_warning">Warning</string>
      <string name="invalid_size_value">Impossibile determinare le dimensioni del pacchetto.</string>
      <string name="location_disable_description">"Le applicazioni in background possono utilizzare i servizi di localizzazione solo per un breve periodo di tempo, mentre l'uso continuo è limitato"</string>
      <string name="location_disable_title">Nega</string>
@@ -181,4 +183,5 @@
      <string name="vip_feedback">Feedback VIP</string>
      <string name="vip_feedback_enable">Attiva Feedback automatico VIP</string>
      <string name="warm_configure">Configurazione controllo riscaldamento</string>
+     <string name="warm_performance_tip">In high load scenarios, the cell phone temperature is higher than the default mode</string>
 </resources>
