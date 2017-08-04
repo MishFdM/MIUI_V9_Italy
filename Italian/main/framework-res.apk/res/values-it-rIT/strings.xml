@@ -68,7 +68,7 @@
      <string name="aerr_process">Il processo %1$s si è interrotto.</string>
      <string name="aerr_process_repeated">%1$s continua ad interrompersi</string>
      <string name="aerr_report">Invia feedback</string>
-     <string name="aerr_restart">"Apri l'app di nuovo"</string>
+     <string name="aerr_restart">"Esegui l'app nuovamente"</string>
      <string name="aerr_title" />
      <string name="aerr_wait">Aspetta</string>
      <string name="allow">Consenti</string>
@@ -101,7 +101,7 @@ Vuoi chiuderlo?"</string>
      <string name="app_running_notification_text">"Tocca per ulteriori informazioni o per interrompere l'app."</string>
      <string name="app_running_notification_title">%1$s è in esecuzione</string>
      <string name="app_upgrading_toast">%1$s è in fase di upgrade…</string>
-     <string name="audit_safemode_notification">Reset di fabbrica per utilizzare questo dispositivo senza restrisioni</string>
+     <string name="audit_safemode_notification">Reset di fabbrica per utilizzare questo dispositivo senza restrizioni</string>
      <string name="audit_safemode_notification_details">Premi per apprendere di piú.</string>
      <string name="autofill_address_line_1_label_re">address|adresse|indirizzo|住所|地址</string>
      <string name="autofill_address_line_1_re">address.?line|address1|addr1|street|strasse|straße|hausnummer|housenumber|house.?name|direccion|dirección|adresse|indirizzo|住所1|morada|endereço|Адрес|地址</string>
@@ -112,7 +112,7 @@ Vuoi chiuderlo?"</string>
      <string name="autofill_address_summary_name_format">$1$2$3</string>
      <string name="autofill_address_summary_separator">", "</string>
      <string name="autofill_address_type_same_as_re">uguale a</string>
-     <string name="autofill_address_type_use_my_re">usa il mio</string>
+     <string name="autofill_address_type_use_my_re">utilizza il mio</string>
      <string name="autofill_area">Area</string>
      <string name="autofill_area_code_notext_re">^\\($</string>
      <string name="autofill_area_code_re">area.*code|acode|area</string>
@@ -490,7 +490,7 @@ utilizzando %s"</string>
      <string name="immersive_cling_description">"Per uscire, scorri dall'alto verso il basso."</string>
      <string name="immersive_cling_positive">OK</string>
      <string name="immersive_cling_title">Visualizzazione a schermo intero</string>
-     <string name="importance_from_person">Questo è importante per il coinvolgimento di persone.</string>
+     <string name="importance_from_person">Questo è importante per via del coinvolgimento di persone.</string>
      <string name="importance_from_user">"Imposta l'importanza di queste notifiche."</string>
      <string name="inputMethod">Metodo inserimento</string>
      <string name="input_method_binding_label">Metodo inserimento</string>
@@ -1281,7 +1281,7 @@ L'ascolto ad alto volume per lunghi periodi di tempo potrebbe danneggiare l'udit
      <string name="share_action_provider_share_with">Condividi con</string>
      <string name="share_remote_bugreport_action">SHARE</string>
      <string name="share_remote_bugreport_notification_message_finished">Il tuo amministratore IT richiede una segnalazione bug per aiutare a risolvere i problemi di questo dispositivo. Applicazioni e dati potrebbero essere condivisi.</string>
-     <string name="share_remote_bugreport_notification_title">Xondividere segnalazione bug?</string>
+     <string name="share_remote_bugreport_notification_title">Condividere segnalazione bug?</string>
      <string name="shareactionprovider_share_with">Condividi con</string>
      <string name="shareactionprovider_share_with_application">Condividi con %s</string>
      <string name="sharing_remote_bugreport_notification_title">Condivisione segnalazione bug…</string>
@@ -1387,7 +1387,7 @@ L'ascolto ad alto volume per lunghi periodi di tempo potrebbe danneggiare l'udit
      <string name="usb_mtp_notification_title">Collegato come dispositivo multimediale</string>
      <string name="usb_notification_message">Tocca per altre opzioni USB</string>
      <string name="usb_ptp_notification_title">Collegato come fotocamera</string>
-     <string name="usb_supplying_notification_title">La USB fornirà potenza al dispositivo connesso</string>
+     <string name="usb_supplying_notification_title">La USB fornirà energia al dispositivo connesso</string>
      <string name="use_a_different_app">"Utilizza un'app diversa"</string>
      <string name="user_creation_account_exists">Permetti a %1$s di creare un nuovo Utente con %2$s ?</string>
      <string name="user_creation_adding">Permetti a %1$s di creare un nuovo Utente con %2$s (un Utente con questo account è attualmente esistente) ?</string>
