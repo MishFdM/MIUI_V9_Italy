@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string-array name="aqi_detail_title">
-        <item>Good</item>
-        <item>Moderate</item>
-        <item>Unhealthy for sensitive groups</item>
-        <item>Unhealthy</item>
-        <item>Very unhealthy</item>
-        <item>Hazardous</item>
+        <item>Buono</item>
+        <item>Moderato</item>
+        <item>Malsano per gruppi sensibili</item>
+        <item>Malsano</item>
+        <item>Molto malsano</item>
+        <item>Pericoloso</item>
      </string-array>
      <string-array name="aqi_value">
         <item>Buono</item>
@@ -15,7 +15,7 @@
         <item>Scarso</item>
         <item>Molto scarso</item>
         <item>Pessimo</item>
-        <item>Beyond index</item>
+        <item>"Oltre l'indice"</item>
      </string-array>
      <string-array name="breeze">
         <item>&lt;Forza 2</item>
@@ -25,10 +25,10 @@
         <item>&lt;3.2kn</item>
      </string-array>
      <string-array name="hot_city">
-        <item>Beijing</item>
+        <item>Pechino</item>
         <item>Shanghai</item>
         <item>Hong Kong</item>
-        <item>Taipei City</item>
+        <item>Taipei</item>
         <item>Jakarta</item>
         <item>Delhi</item>
         <item>Mumbai</item>
