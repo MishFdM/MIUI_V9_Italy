@@ -5,8 +5,8 @@
         <item quantity="one">%d elemento bloccato</item>
      </plurals>
      <plurals name="find_on_page_matches">
-        <item quantity="other">%d matches</item>
-        <item quantity="one">%d match</item>
+        <item quantity="other">%d combaciano</item>
+        <item quantity="one">%d combacia</item>
      </plurals>
      <plurals name="last_num_days">
         <item quantity="other">Ultimi %d giorni</item>
@@ -25,8 +25,8 @@
         <item quantity="one">%1$d video rimosso correttamente.</item>
      </plurals>
      <plurals name="video_download_clear_prompt">
-        <item quantity="other">Clear %1$d videos?</item>
-        <item quantity="one">Clear %1$d video?</item>
+        <item quantity="other">Cancellare %1$d video?</item>
+        <item quantity="one">Cancellare %1$d video?</item>
      </plurals>
      <plurals name="video_history_clear_info">
         <item quantity="other">%1$d elementi rimossi dalla cronologia.</item>
@@ -37,7 +37,7 @@
         <item quantity="one">Eliminare %1$d elemento dalla cronologia?</item>
      </plurals>
      <plurals name="video_subtitle_last_message">
-        <item quantity="other">%d minutes remaining</item>
-        <item quantity="one">%d minute remaining</item>
+        <item quantity="other">%d minuti rimanenti</item>
+        <item quantity="one">%d minuti rimanenti</item>
      </plurals>
 </resources>
