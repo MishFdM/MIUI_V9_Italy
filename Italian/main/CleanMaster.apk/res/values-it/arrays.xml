@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string-array name="apk_clean_menu">
-        <item>Clean up</item>
-        <item>Install this app</item>
-        <item>View in folder</item>
+        <item>Ripulisci</item>
+        <item>"Installa quest'app"</item>
+        <item>Visualizza nella cartella</item>
      </string-array>
      <string-array name="app_clean_menu">
-        <item>Uninstall</item>
+        <item>Disinstalla</item>
      </string-array>
      <string-array name="auto_alert_apps_time">
-        <item>Every 7 days</item>
-        <item>Every 15 days</item>
-        <item>Every 30 days</item>
+        <item>Ogni 7 giorni</item>
+        <item>Ogni 15 giorni</item>
+        <item>Ogni 30 giorni</item>
      </string-array>
      <string-array name="auto_clean_size">
         <item>100 MB</item>
@@ -30,15 +30,15 @@
         <item>Mostra più tardi</item>
      </string-array>
      <string-array name="cache_clean_menu">
-        <item>Clean up this file</item>
-        <item>"View file's location"</item>
+        <item>Ripulisci da questo file</item>
+        <item>Visualizza posizione file</item>
      </string-array>
      <string-array name="cache_sort_type">
         <item>Dimensione</item>
         <item>Nome</item>
      </string-array>
      <string-array name="empty_floder_clean_menu">
-        <item>Clean up</item>
+        <item>Ripulisci</item>
      </string-array>
      <string-array name="installed_app_sort_type">
         <item>Utilizzate di frequente</item>
@@ -49,31 +49,31 @@
         <item>Nome</item>
      </string-array>
      <string-array name="long_add_app_menu">
-        <item>Add app to exceptions</item>
+        <item>Aggiungi app alle eccezioni</item>
      </string-array>
      <string-array name="long_add_menu">
-        <item>Add to exceptions</item>
+        <item>Aggiungi alle eccezioni</item>
      </string-array>
      <string-array name="scan_engine">
         <item>Clean Master</item>
         <item>Tencent</item>
      </string-array>
      <string-array name="trash_clean_menu">
-        <item>Clean up this file</item>
-        <item>"View file's location"</item>
+        <item>Ripulisci da questo file</item>
+        <item>Visualizza posizione file</item>
      </string-array>
      <string-array name="video_clean_menu">
-        <item>Clean up this file</item>
-        <item>Open</item>
+        <item>Ripulisci da questo file</item>
+        <item>Apri</item>
      </string-array>
      <string-array name="wechat_menu_delete">
-        <item>Clear</item>
+        <item>Cancella</item>
      </string-array>
      <string-array name="wechat_menu_delete_whitelist">
-        <item>Clear</item>
+        <item>Cancella</item>
      </string-array>
      <string-array name="wechat_menu_delete_whitelist_view">
-        <item>Clear</item>
-        <item>View</item>
+        <item>Cancella</item>
+        <item>Visualizza</item>
      </string-array>
 </resources>
