@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="VideoView_error_button">OK</string>
-     <string name="VideoView_error_text_invalid_progressive_playback">"This video isn't valid for streaming to this device."</string>
-     <string name="VideoView_error_text_unknown">"Can't play this video."</string>
-     <string name="VideoView_error_title">Video problem</string>
+     <string name="VideoView_error_text_invalid_progressive_playback">Questo video non è valido per lo streaming da questo dispositivo.</string>
+     <string name="VideoView_error_text_unknown">Impossibile riprodurre il video.</string>
+     <string name="VideoView_error_title">Problema video</string>
      <string name="active_xiaomi_account">Attiva</string>
      <string name="active_xiaomi_account_title">Attiva Mi Account</string>
      <string name="alpha_cancel">Esci dal programma di beta testing</string>
@@ -20,8 +20,8 @@
      <string name="auto_dialog_msg">"Abbiamo aggiornato la nostra Informativa sulla Privacy. Leggila attentamente prima di aggiornare. "</string>
      <string name="auto_dialog_msg_check_again">"Devi accettare l'Informativa sulla Privacy prima di aggiornare. "</string>
      <string name="auto_dialog_title_check_again">"Annullare l'aggiornamento?"</string>
-     <string name="auto_download">Download automatically</string>
-     <string name="auto_download_sum">Download updates when connected to WLAN</string>
+     <string name="auto_download">Scarica automaticamente</string>
+     <string name="auto_download_sum">Scarica automaticamente aggiornamenti quando connesso al Wi-Fi</string>
      <string name="auto_update">Aggiorna automaticamente</string>
      <string name="auto_update_sum">Cerca automaticamente il momento migliore per scaricare aggiornamenti</string>
      <string name="autosetmode">Impostazioni aggiornamento</string>
@@ -41,7 +41,7 @@
      <string name="check_local_package_wipe_btn">Elimina e aggiorna</string>
      <string name="check_local_package_wipe_msg">Stai per aggiornare MIUI alla versione %s, che è precedente alla versione attuale. I tuoi dati personali verranno eliminati. Assicurati di aver eseguito il backup dei dati importanti prima di iniziare.</string>
      <string name="check_local_package_wipe_title">Elimina dati</string>
-     <string name="check_network">"Can't connect to the network"</string>
+     <string name="check_network">Impossibile connettersi al network</string>
      <string name="check_new_version">Cerca</string>
      <string name="clean_up_button">Cancella</string>
      <string name="comment_publish">Invia</string>
@@ -58,7 +58,7 @@
      <string name="dialog_delay_update_tonight">Aggiorna stanotte</string>
      <string name="download_again">Scarica di nuovo</string>
      <string name="download_cancel">Annulla</string>
-     <string name="download_current_rom">"Scarica l'ultima ROM Full"</string>
+     <string name="download_current_rom">"Scarica l'ultima ROM completa"</string>
      <string name="download_diff">Scarica aggiornamento Delta</string>
      <string name="download_error">Errore nel download. Attendi qualche minuto e riprova.</string>
      <string name="download_failed">Download fallito</string>
@@ -88,8 +88,8 @@
      <string name="later">Riavvia dopo</string>
      <string name="loading">Caricamento</string>
      <string name="log_share">Condividi</string>
-     <string name="log_status_locked_info">"Sorry，You don't have the permission to access the update log"</string>
-     <string name="log_status_locked_summary">Please try to login in the system with an authorized XiaoMi ID</string>
+     <string name="log_status_locked_info">Spiacente，Non hai i permessi per accedere al log di aggiornamento</string>
+     <string name="log_status_locked_summary">Prova a loggarti nel sistema con uno Xiaomi ID autorizzato</string>
      <string name="menu_more_button">Menu</string>
      <string name="menu_title_apply_for_alpha">Accedi al programma di beta testing</string>
      <string name="menu_title_current_version_log">Riepilogo aggiornamento</string>
@@ -158,7 +158,7 @@
      <string name="provision_connect_wifi">Connessione a Wi-Fi</string>
      <string name="provision_have_sim">SIM inserita</string>
      <string name="provision_no_network_extra">Collegati a Wi-Fi o inserisci la tua SIM ed utilizzi la rete mobile per attivar eil dispositivo senza collegarti alla rete."</string>
-     <string name="provision_no_network_title">Collegatialla rete</string>
+     <string name="provision_no_network_title">Collegati alla rete</string>
      <string name="provision_retry">Prova di nuovo</string>
      <string name="provision_toast_no_network">Collegati prima alla rete</string>
      <string name="provision_toast_server_error">Impossibile collegarsi al server. Attendi un minuto o due e prova di nuovo.</string>
@@ -169,20 +169,20 @@
 http://zhushou.xiaomi.com"</string>
      <string name="recovery_failed_notification_msg">Impossibile entrare in modalità Recovery</string>
      <string name="recovery_failed_title">Usa Mi PC Suite per aggiornare il sistema</string>
-     <string name="recovery_power_need_plugged">Connect charger to update</string>
+     <string name="recovery_power_need_plugged">Connetti caricabatterie da aggiornare</string>
      <string name="recovery_power_not_enough_msg">Collega ad un caricabatterie se la batteria è inferiore al 30%</string>
      <string name="recovery_power_not_enough_title">Batteria scarica</string>
      <string name="recovery_power_plugged_warning">"Accertati che il carica batteria resti collegato al dispositivo per tutto l'aggiornamento"</string>
      <string name="repeat">Riprova</string>
      <string name="root_acquired">Consenti accesso root</string>
-     <string name="root_agree_check_box_title">"Sono consapevole dei rischi dei permessi di root."</string>
+     <string name="root_agree_check_box_title">Sono consapevole dei rischi dei permessi di root.</string>
      <string name="root_dangerous_msg">"L'abilitazione dei permessi root è estremamente pericolosa e potrebbe esporre il tuo dispositivo ed i dati in esso contenuti ad attacchi da parte di applicazioni dannose. Accetti di essere l'unico responsabile per eventuali danni al tuo dispositivo o perdite di dati derivanti dall'abilitazione dei permessi root."</string>
      <string name="set_auto">Imposta mod. autom.</string>
-     <string name="set_auto_download_msg">MIUI will download updates automatically when your device is connected to WLAN.</string>
-     <string name="set_auto_download_title">Download automatically?</string>
-     <string name="set_auto_download_update_title">Install automatically?</string>
+     <string name="set_auto_download_msg">La MIUI scaricherà automaticamente gli aggiornamenti quando il tuo dispositivo sarà connesso al Wi-Fi.</string>
+     <string name="set_auto_download_title">Scaricare automaticamente?</string>
+     <string name="set_auto_download_update_title">Installare automaticamente?</string>
      <string name="set_auto_msg">Quando viene rilevata una nuova versione non devi aggiornare manualmente, il sistema sceglierà il momento migliore per aggiornare, sotto copertura rete Wi-Fi.</string>
-     <string name="set_auto_update_msg">"MIUI will install updates when you aren't using your device."</string>
+     <string name="set_auto_update_msg">La MIUI installerà gli aggiornamenti quando non utilizzerai il dispositivo</string>
      <string name="set_auto_update_title">Lancia aggiornamenti automaticamente</string>
      <string name="set_installfail_full_msg">Impossibile aggiornare in questo momento. Tocca \"OK\" per segnalare questo errore ai nostri sviluppatori."</string>
      <string name="set_installfail_msg">Il download di questo aggiornamento tramite rete dati cellulare influirà sul tuo traffico dati.</string>
@@ -210,8 +210,8 @@ http://zhushou.xiaomi.com"</string>
      <string name="submit_success">Inviato correttamente</string>
      <string name="test">Test</string>
      <string name="title_toast_auto">Scarica aggiornamenti ed installa automaticamente</string>
-     <string name="title_toast_auto_download">Updates will be downloaded automatically</string>
-     <string name="title_toast_auto_update">Updates will be installed automatically</string>
+     <string name="title_toast_auto_download">Gli aggiornamenti verranno scaricati automaticamente</string>
+     <string name="title_toast_auto_update">Gli aggiornamenti verranno installati automaticamente</string>
      <string name="toast_delay_update_tonight">Il dispositivo verrà aggiornato tra le 2:00AM e le 5:00AM</string>
      <string name="top_secret_build">Segreta</string>
      <string name="uncrypt_title">Decrittazione (%s)</string>
@@ -243,9 +243,9 @@ Potrai partecipare il prossimo martedì"</string>
      <string name="user_begin">Scarica</string>
      <string name="user_intertup_download_msg">"Il download è stato messo in pausa. Puoi riavviarlo in qualsiasi momento dall'applicazione Updater."</string>
      <string name="user_intertup_download_title">Download aggiornamento in pausa</string>
-     <string name="userdata_alert_content">Using your mobile data connection to watch videos will increase your data usage. If you go over your plan’s data usage limit, your carrier could charge you fees.</string>
-     <string name="userdata_alert_ok">Play</string>
-     <string name="userdata_alert_title">Data usage warning</string>
+     <string name="userdata_alert_content">Utilizzare il tuo piano dati per visualizzare video aumenterà il consumo di traffico. Se andrai oltre il limite, il tuo operatore potrebbe addebitartene il costo.</string>
+     <string name="userdata_alert_ok">Avvia</string>
+     <string name="userdata_alert_title">Avciso uso dati</string>
      <string name="validate_pkg_failed_msg">"L'aggiornamento che hai scaricato non corrisponde con i nostri dati. Prova a scaricarlo di nuovo."</string>
      <string name="validate_pkg_failed_title">"Impossibile verificare l'aggiornamento"</string>
      <string name="vote_beta">Programma Feedback Beta</string>
