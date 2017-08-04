@@ -2,7 +2,7 @@
 <resources>
     <plurals name="Ndays">
         <item quantity="other">%d giorni</item>
-        <item quantity="one">%d  giorno</item>
+        <item quantity="one">%d giorno</item>
     </plurals>
     <plurals name="Ndays_after_at">
         <item quantity="other">Tra %1$d giorni alle %2$s</item>
@@ -14,7 +14,7 @@
     </plurals>
     <plurals name="Nhours">
         <item quantity="other">%d ore</item>
-        <item quantity="one">%d  ora</item>
+        <item quantity="one">%d ora</item>
     </plurals>
     <plurals name="Nminutes">
         <item quantity="other">%d minuti</item>
@@ -29,12 +29,12 @@
         <item quantity="one">%1$s giorno</item>
     </plurals>
     <plurals name="anniversary_notify_before_3_day_title">
-        <item quantity="other">Anniversary: %2$d anni da %1$s tra 3 giorni</item>
-        <item quantity="one">Anniversary: %2$d anno da %1$s tra 3 giorni</item>
+        <item quantity="other">Anniversario: %2$d anni da %1$s tra 3 giorni</item>
+        <item quantity="one">Anniversario: %2$d anno da %1$s tra 3 giorni</item>
     </plurals>
     <plurals name="anniversary_notify_title">
         <item quantity="other">Anniversario: %2$d anni da %1$s</item>
-        <item quantity="one">Anniversary: %2$d anno da %1$s</item>
+        <item quantity="one">Anniversario: %2$d anno da %1$s</item>
     </plurals>
     <plurals name="anniversary_year">
         <item quantity="other">%1$s anni</item>
