@@ -138,7 +138,7 @@ Si prega di verificare il numero di spedizione."</string>
      <string name="express_inquiry_status_return">Respinto</string>
      <string name="express_inquiry_status_sign_out">Firmato</string>
      <string name="express_inquiry_status_unknown">Sconosciuto</string>
-     <string name="express_install_cainiao_description">%s riciede l'installazione di Cainiao. Installare ora?</string>
+     <string name="express_install_cainiao_description">"%s riciede l'installazione di Cainiao. Installare ora?"</string>
      <string name="express_install_cainiao_ok">Download</string>
      <string name="express_install_cainiao_title">Installa Cainiao</string>
      <string name="express_install_delivery_service">Servizio di distribuzione</string>
