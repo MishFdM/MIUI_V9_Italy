@@ -26,19 +26,19 @@
         <item>SMC HK 3G</item>
      </string-array>
      <string-array name="color_mode_descriptions">
-        <item>Enhanced colors</item>
-        <item>Natural colors as seen by the eye</item>
-        <item>Colors optimized for digital content</item>
+        <item>Colori migliorati</item>
+        <item>Colori naturali come percepiti dagli occhi</item>
+        <item>Colori ottimizzati per contenuti digitali</item>
      </string-array>
      <string-array name="color_mode_names">
-        <item>Vibrant (default)</item>
-        <item>Natural</item>
+        <item>Vibrante (predefinito)</item>
+        <item>Naturale</item>
         <item>Standard</item>
      </string-array>
      <string-array name="debug_hw_overdraw_entries">
-        <item>Off</item>
-        <item>Show overdraw areas</item>
-        <item>Show areas for Deuteranomaly</item>
+        <item>Disattivato</item>
+        <item>Mostra aree overdraw</item>
+        <item>Mostra aree per Deuteranomalia</item>
      </string-array>
      <string-array name="enable_opengl_traces_entries">
         <item>Nessuno</item>
@@ -47,14 +47,14 @@
         <item>Richiamo su glGetError</item>
      </string-array>
      <string-array name="hdcp_checking_summaries">
-        <item>Never use HDCP checking</item>
-        <item>Use HDCP checking for DRM content only</item>
-        <item>Always use HDCP checking</item>
+        <item>Non utilizzare mai controllo HDCP</item>
+        <item>Usa controllo HDCP solo per contenuti DRM</item>
+        <item>Usa sempre controllo HDCP</item>
      </string-array>
      <string-array name="hdcp_checking_titles">
-        <item>Never check</item>
-        <item>Check for DRM content only</item>
-        <item>Always check</item>
+        <item>Non controllare mai</item>
+        <item>Controlla solo per contenuti DRM</item>
+        <item>Controlla sempre</item>
      </string-array>
      <string-array name="overlay_display_devices_entries">
         <item>Nessuno</item>
@@ -93,14 +93,14 @@
         <item>16M</item>
      </string-array>
      <string-array name="show_non_rect_clip_entries">
-        <item>Off</item>
-        <item>Draw non-rectangular clip region in blue</item>
-        <item>Highlight tested drawing commands in green</item>
+        <item>Disattivto</item>
+        <item>Mostra regione di ritaglio non rettangolare in blu</item>
+        <item>Evidenzia comandi di disegno testati in verde</item>
      </string-array>
      <string-array name="track_frame_time_entries">
-        <item>Off</item>
-        <item>On screen as bars</item>
-        <item>In adb shell dumpsys gfxinfo</item>
+        <item>Disattivto</item>
+        <item>Su schermo tramite barre</item>
+        <item>Su adb shell dumpsys gfxinfo</item>
      </string-array>
      <string-array name="transition_animation_scale_entries">
         <item>Animazioni disattivate</item>
@@ -128,22 +128,22 @@
         <item>이것은 한국어 음성 합성의 예입니다.</item>
      </string-array>
      <string-array name="tts_rate_entries">
-        <item>Very slow</item>
-        <item>Slow</item>
-        <item>Normal</item>
-        <item>Fast</item>
-        <item>Faster</item>
-        <item>Very fast</item>
-        <item>Rapid</item>
-        <item>Very rapid</item>
-        <item>Fastest</item>
+        <item>Veramente lento</item>
+        <item>Lento</item>
+        <item>Normale</item>
+        <item>Veloce</item>
+        <item>Molto veloce</item>
+        <item>Velocissimo</item>
+        <item>Rapido</item>
+        <item>Molto rapido</item>
+        <item>Rapidissimo</item>
      </string-array>
      <string-array name="usb_configuration_titles">
-        <item>Charging</item>
+        <item>Ricarica</item>
         <item>MTP (Media Transfer Protocol)</item>
         <item>PTP (Picture Transfer Protocol)</item>
         <item>RNDIS (USB Ethernet)</item>
-        <item>Audio Source</item>
+        <item>Sorgente audio</item>
         <item>MIDI</item>
      </string-array>
      <string-array name="weather_type">
