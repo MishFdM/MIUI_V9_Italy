@@ -190,7 +190,7 @@
      <string name="confirm_enable_oem_unlock_title">Permettere sblocco OEM?</string>
      <string name="connected_via_passpoint">Connesso tramite %1$s</string>
      <string name="connected_via_wfa">Collegato tramite assistente Wi-Fi</string>
-     <string name="convert_to_fbe_warning">"Xonverti partizione dati a file basato su criptazione.
+     <string name="convert_to_fbe_warning">"Converti partizione dati a file basato su criptazione.
  !!Attenzione!! Questa procedura cancellerà tutti i tuoi dati.
  Questa funzionalità è in stadio alpha, e potrebbe non funzionare correttamente.
  Premi 'Pulisci e converti…' per continuare."</string>
