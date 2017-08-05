@@ -37,8 +37,8 @@
      <string name="cannot_connect_camera_twice">Impossibile avviare la fotocamera, riavvia il dispositivo</string>
      <string name="cannot_connect_camera_volte_call">La video chiamata è in corso, prova più tardi.</string>
      <string name="cannot_move_warning_message">Mantieni il dispositivo fermo</string>
-     <string name="confirm_install_scanner_message">"Scanner allows you to scan QR codes, barcodes, and more. You don't have to connect to the internet to install it."</string>
-     <string name="confirm_install_scanner_title">Install Scanner</string>
+     <string name="confirm_install_scanner_message">Lo scansionatore ti permette di scansionare codici QR, a barre, ed altri. E non dovrai connetterti ad internet per installarlo.</string>
+     <string name="confirm_install_scanner_title">Installa scansionatore</string>
      <string name="confirm_location_alert">Memorizza posizione GPS quando scatti una foto</string>
      <string name="confirm_location_message">Vuoi attivare i servizi di localizzazione per la fotocamera?</string>
      <string name="confirm_location_title">Utilizza posizione GPS</string>
@@ -82,10 +82,10 @@ Il soggetto non deve essere più lontano di 2 metri."</string>
      <string name="face_beauty_intelligent_level_1">Basso</string>
      <string name="face_beauty_intelligent_level_2">Medio</string>
      <string name="face_beauty_intelligent_level_3">Alto</string>
-     <string name="face_beauty_smart">Smart</string>
-     <string name="groupshot_mode_use_hint">"Camera will take multiple photos
-and then create a shot where everyone looks best."</string>
-     <string name="hibernate_hint">Tocca lo schermo per avviare la Fogocamera</string>
+     <string name="face_beauty_smart">Intelligente</string>
+     <string name="groupshot_mode_use_hint">La fotocamera scatterà foto multiple
+e creerà una foto dove ognuno apparirà nella sua miglior forma.</string>
+     <string name="hibernate_hint">Tocca lo schermo per avviare la fotocamera</string>
      <string name="image_file_name_format">"'IMG'_yyyyMMdd_HHmmss"</string>
      <string name="install_confirmed">Install</string>
      <string name="message_snap_double_confirm">La funzione attuale associata alla pressione prolungata del tasto volume è la modalità NFC, confermare la sostituzione?</string>
@@ -102,9 +102,9 @@ and then create a shot where everyone looks best."</string>
      <string name="portrait_mode_lowlight_hint">Adesso è troppo scuro</string>
      <string name="portrait_mode_too_close_hint">"Allontanati dall'oggetto"</string>
      <string name="portrait_mode_too_far_hint">"Posiziona l'oggetto entro 2.5"</string>
-     <string name="portrait_mode_use_hint">"Portrait mode helps you blur the background
-with more clear main body and more beautiful portrait"</string>
-     <string name="portrait_with_facebeauty_hint">La funzione Bellezza adesso è disponibile inmodalità ritratto</string>
+     <string name="portrait_mode_use_hint">"La modalità portrait ti aiuta a sfocare lo sfondo
+per rendere il tuo corpo ancor più chiaro e meraviglioso"</string>
+     <string name="portrait_with_facebeauty_hint">La funzione Bellezza adesso è disponibile in modalità ritratto</string>
      <string name="pref_advance_settings">Impostazioni aggiuntive</string>
      <string name="pref_audio_focus_entry_front">Frontale</string>
      <string name="pref_audio_focus_entry_general">Normale</string>
@@ -392,8 +392,8 @@ with more clear main body and more beautiful portrait"</string>
      <string name="pref_video_time_lapse_frame_interval_title">Intervallo Time-lapse</string>
      <string name="preparing_sd">Preparo scheda SD…</string>
      <string name="record_back_pressed_hint">Premi di nuovo per interrompere la registrazione</string>
-     <string name="screen_on_proximity_sensor_hint">To turn this feature off, press the Volume up and Back buttons simultaneously.</string>
-     <string name="screen_on_proximity_sensor_summary">"Don't cover the earphone area"</string>
+     <string name="screen_on_proximity_sensor_hint">Per disabilitare questa funzionalità, premi contemporaneamente i pulsanti volume su e indietro.</string>
+     <string name="screen_on_proximity_sensor_summary">"Non coprire l'area auricolari"</string>
      <string name="search_settings">Impostazioni fotocamera;Qualità;Qualità immagine;Posizione immagine;Posizione foto;Riconoscimento viso;Suono fotocamera</string>
      <string name="see_qrcode_detals">Dettagli codice QR</string>
      <string name="simple_mode_button_asd_flash">Chiudi scatto Flash</string>
