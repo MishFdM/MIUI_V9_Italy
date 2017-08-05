@@ -243,11 +243,7 @@ al tuo Mi Account per riattivare Mi Cloud."</string>
      <string name="micloud_find_device_guide_noti_title_by_app_change_wx">Attiva \"Trova Dispositivo\" per mettere al sicuro i tuoi dati Wechat</string>
      <string name="micloud_find_device_guide_noti_title_by_app_change_zfb">Alipay suggerisci di attivare Trova Telefono</string>
      <string name="micloud_find_device_guide_progress">Attivazione Trova Dispositivo…</string>
-     <!-- MNPS mismatch found! Translated: 1 Original: 0
-	%s: 1 Original: 0
-	%d: 0 Original: 0 -->
-     <!-- Original string: "Sign in to &lt;font color=#FF0000&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt; to locate, lock, or erase your device. This might help you to find your device in case it's lost.&lt;br /&gt;If you lose your device, you could contact the security service of the apps you use frequently (e.g., Alipay, WeChat, QQ) to protect your accounts on &lt;font color=#FF0000&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt;." -->
-     <string name="micloud_find_device_guide_title">Loggati su %s per localizzare, bloccare, o formattare il tuo dispositivo</string>
+     <string name="micloud_find_device_guide_title">"Loggati su &lt;font color=#FF0000&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt; per localizzare, bloccare, o formattare il tuo dispositivo. Questo potrà aiutarti a localizzare il tuo dispositivo in caso di smarrimento.&lt;br /&gt;Se smarrirai il tuo dispositivo, puoi contattare il servizio di sicurezza delle app che usi più di frequente (es. Alipay, WeChat, QQ) per proteggere il tuo account su &lt;font color=#FF0000&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt;."</string>
      <string name="micloud_find_device_open_fail">Impossibile attivare Trova Dispositivo</string>
      <string name="micloud_find_device_opened">Trova Dispositivo attivato</string>
      <string name="micloud_find_device_opened_content">Trova Dispositivo a %s</string>
