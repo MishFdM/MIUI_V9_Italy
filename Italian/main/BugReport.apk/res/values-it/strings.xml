@@ -182,7 +182,7 @@
      <string name="mobile_data_note_dialog_cancel">In attesa del Wi-Fi</string>
      <string name="mobile_data_note_dialog_confirm">Invio</string>
      <string name="mobile_data_note_dialog_content">Utilizzare i dati mobili per inviare i log può comportare degli addebiti.</string>
-     <string name="mobile_data_note_dialog_content_with_file_size">"L'invio dei log tramite dati mobili richiede l'uso di %sMBdi traffico Internet."</string>
+     <string name="mobile_data_note_dialog_content_with_file_size">"L'invio dei log tramite dati mobili richiede l'uso di %sMB di traffico Internet."</string>
      <string name="mobile_data_note_dialog_title">Avviso uso dati</string>
      <string name="modem_tool_log">Cattura log modem</string>
      <string name="modem_tool_log_start">Inizia</string>

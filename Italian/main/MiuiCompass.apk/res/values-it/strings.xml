@@ -37,7 +37,7 @@
      <string name="first_using_dialog_message">La Bussola deve utilizzare la fotocamera per funzionare correttamente.</string>
      <string name="first_using_dialog_title">Accesso alla fotocamera</string>
      <string name="guide_toast">A causa di possibili interferenze del campo magnetico, si consiglia di calibrare la Bussola con il seguente movimento.</string>
-     <string name="keywords_search_compass">Bussola;Calibra bussola;Pressione;Altitudine;Latitudine;Longitudine;Controlla longititude; Controlla latitudine;MIUI Compass;App bussola;MIUI Compass app;"Dov'è la bussola";Download bussola;Pressione atmosferica;Controlla altitudine;Qual è l'altitudine</string>
+     <string name="keywords_search_compass">"Bussola;Calibra bussola;Pressione;Altitudine;Latitudine;Longitudine;Controlla longititude; Controlla latitudine;MIUI Compass;App bussola;MIUI Compass app;Dov'è la bussola;Download bussola;Pressione atmosferica;Controlla altitudine;Qual è l'altitudine"</string>
      <string name="latitude">LAT</string>
      <string name="location_east">E</string>
      <string name="location_enable">Consenti</string>
