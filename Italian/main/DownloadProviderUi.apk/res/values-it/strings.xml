@@ -10,7 +10,7 @@
      <string name="action_settings">Impostazioni</string>
      <string name="ad_install">Install</string>
      <string name="ad_mark">AD</string>
-     <string name="ad_title">Altre persone hanno scaricato anche  %1$s </string>
+     <string name="ad_title">Altre persone hanno scaricato anche %1$s </string>
      <string name="ad_title_other">Gli utenti che hanno scaricato questa immagine hanno scaricato anche</string>
      <string name="add_flow_fail_haveget_msg">Spiacente, hai esaurito il tuo traffico ad alta velocità per questo mese</string>
      <string name="add_flow_fail_vip_msg">Caro Vip Thunder, il canale ad alta velocità è stato aperto</string>
@@ -95,7 +95,7 @@
      <string name="download_list_get_hightspeed_flow_auto_open">Accelerazione download Xunlei attivato</string>
      <string name="download_list_get_hightspeed_flow_pay_ok">Pagamento completato.</string>
      <string name="download_list_get_hightspeed_flow_sucess_head">Sessione di prova Xunlei creata</string>
-     <string name="download_list_get_hightspeed_flow_sucess_tail">Goditi una maggiore velocità in download, powered by Xunlei</string>
+     <string name="download_list_get_hightspeed_flow_sucess_tail">Goditi una maggiore velocità in download, fornita da Xunlei</string>
      <string name="download_list_intoAuth">Accesso alla pagina di autorizzazione MIUI</string>
      <string name="download_list_intoAuthAlert">Attendere</string>
      <string name="download_list_open_xl_cancel">Annulla</string>
@@ -429,7 +429,7 @@ Accelerate i download su tutti i tuoi dispositivi."</string>
      <string name="xl_privilege_storage_info">Hai spazio sufficiente per tutti i tuoi download</string>
      <string name="xl_privilege_support">Dispositivi multipli</string>
      <string name="xl_privilege_title">Abbonamento Xunlei</string>
-     <string name="xl_validate_title">Valido fino al:  </string>
+     <string name="xl_validate_title">Valido fino al: </string>
      <string name="xl_vip_annual">Annuale: %1$s Mi Credit × 12</string>
      <string name="xl_vip_combo">Piani</string>
      <string name="xl_vip_month">Mensile: %1$s Mi Credit × 1</string>
