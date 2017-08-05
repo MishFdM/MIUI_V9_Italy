@@ -18,7 +18,7 @@ Contatta il tuo venditore per ulteriori informazioni."</string>
      <string name="enable_find_device_success">Trova Dispositivo attivo.</string>
      <string name="find_device">Trova Dispositivo</string>
      <string name="find_device_crash">Trova Dispositivo si è chiuso in modo inaspettato</string>
-     <string name="find_device_error_access_denied">Access denied.</string>
+     <string name="find_device_error_access_denied">Accesso negato.</string>
      <string name="find_device_error_account_sys_timeout">Impossibile collegarsi al Mi Account</string>
      <string name="find_device_error_account_unknown_error">Errore Mi Account (%s)</string>
      <string name="find_device_error_network">Cerca la tua connessione e riprova.</string>
@@ -51,10 +51,10 @@ Se cambi SIM, verrà automaticamente inviato un SMS per riattivare questa funzio
      <string name="phone_locked_account_phone">, numero associato: %s</string>
      <string name="stop_on_empty_captcha">Il captcha non può essere vuoto</string>
      <string name="stop_on_empty_password">La password non può essere vuota</string>
-     <string name="sys_notification_async_open_failed_content">Tap to try again or cancel.</string>
-     <string name="sys_notification_async_open_failed_title">"Couldn't turn on Find device"</string>
-     <string name="sys_notification_async_verify_content">Our updated Security Policy requires that Find device should be reactivated.</string>
-     <string name="sys_notification_async_verify_title">Reactivate Find device</string>
+     <string name="sys_notification_async_open_failed_content">Premi per riprovare o annullare.</string>
+     <string name="sys_notification_async_open_failed_title">Impossibile abilitare Trova dispositivo</string>
+     <string name="sys_notification_async_verify_content">La nostra policy di sicurezza aggiornata richiede la riattivazione di Trova dispositivo.</string>
+     <string name="sys_notification_async_verify_title">Riattiva Trova dispositivo</string>
      <string name="time_correction_failure">"Impossibile corregere l'orario (%s)"</string>
      <string name="time_correction_success">Orario corretto</string>
      <string name="unlock">Attivato</string>
