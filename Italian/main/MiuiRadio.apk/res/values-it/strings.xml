@@ -25,7 +25,7 @@
     <string name="category_tone_quality">"QUALITA' AUDIO"</string>
     <string name="title_tone_quality">Qualità audio</string>
     <string name="summary_tone_quality">Audio Streaming in diverse velocità di bit</string>
-    <string name="category_sleep_mode">SLEEP TIMER</string>
+    <string name="category_sleep_mode">TIMER SPEGNIMENTO</string>
     <string name="title_sleep_mode">Timer disattivazione</string>
     <string name="summary_on_sleep_mode">Chiudi la radio dopo un tempo prestabilito</string>
     <string name="summary_off_sleep_mode">Chiudi la radio dopo un tempo prestabilito</string>
