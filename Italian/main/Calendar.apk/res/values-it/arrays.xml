@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string-array name="aquarius_info">
-        <item>aquarius</item>
-        <item>Aquarius</item>
+        <item>aquario</item>
+        <item>Aquario</item>
         <item>1/20 - 2/18</item>
      </string-array>
      <string-array name="aries_info">
-        <item>aries</item>
-        <item>Aries</item>
+        <item>ariete</item>
+        <item>Ariete</item>
         <item>3/21 - 4/19</item>
      </string-array>
      <string-array name="cancer_info">
-        <item>cancer</item>
-        <item>Cancer</item>
+        <item>cancro</item>
+        <item>Cancro</item>
         <item>6/22 - 7/22</item>
      </string-array>
      <string-array name="capricorn_info">
-        <item>capricorn</item>
-        <item>Capricorn</item>
+        <item>capricorno</item>
+        <item>Capricorno</item>
         <item>12/22 - 1/19</item>
      </string-array>
      <string-array name="change_response_labels">
@@ -45,25 +45,25 @@
         <item>Tutti gli eventi</item>
      </string-array>
      <string-array name="gemini_info">
-        <item>gemini</item>
-        <item>Gemini</item>
+        <item>gemelli</item>
+        <item>Gemelli</item>
         <item>5/21 - 6/21</item>
      </string-array>
      <string-array name="global_criket_match">
         <item>IPL</item>
-        <item>International</item>
-        <item>Domestic</item>
-        <item>T20 Leagues</item>
+        <item>Internazionale</item>
+        <item>Domestico</item>
+        <item>Lega T20</item>
      </string-array>
 
      <string-array name="leo_info">
-        <item>leo</item>
-        <item>Leo</item>
+        <item>leone</item>
+        <item>Leone</item>
         <item>7/23 - 8/22</item>
      </string-array>
      <string-array name="libra_info">
-        <item>libra</item>
-        <item>Libra</item>
+        <item>bilancia</item>
+        <item>Bilancia</item>
         <item>9/23 - 10/23</item>
      </string-array>
      <string-array name="ordinal_labels">
@@ -74,8 +74,8 @@
         <item>ultimo</item>
      </string-array>
      <string-array name="pisces_info">
-        <item>pisces</item>
-        <item>Pisces</item>
+        <item>pesci</item>
+        <item>Pesci</item>
         <item>2/19 - 3/20</item>
      </string-array>
      <string-array name="prefEntries_alerts_vibrateWhen">
@@ -158,18 +158,18 @@
         <item>No</item>
      </string-array>
      <string-array name="sagittarius_info">
-        <item>sagittarius</item>
-        <item>Sagittarius</item>
+        <item>sagittario</item>
+        <item>Sagittario</item>
         <item>11/23 - 12/21</item>
      </string-array>
      <string-array name="scorpio_info">
-        <item>scorpio</item>
-        <item>Scorpio</item>
+        <item>scorpione</item>
+        <item>Scorpione</item>
         <item>10/24 - 11/22</item>
      </string-array>
      <string-array name="taurus_info">
-        <item>taurus</item>
-        <item>Taurus</item>
+        <item>toro</item>
+        <item>Toro</item>
         <item>4/20 - 5/20</item>
      </string-array>
      <string-array name="travel_reminder_minutes_labels">
@@ -180,8 +180,8 @@
         <item>1 giorno</item>
      </string-array>
      <string-array name="virgo_info">
-        <item>virgo</item>
-        <item>Virgo</item>
+        <item>vergine</item>
+        <item>Vergine</item>
         <item>8/23 - 9/22</item>
      </string-array>
      <string-array name="week_header_name">
