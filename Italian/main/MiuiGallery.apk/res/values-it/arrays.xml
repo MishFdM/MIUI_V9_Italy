@@ -22,11 +22,11 @@
         <item>Sconosciuto</item>
      </string-array>
      <string-array name="sharer_relation_addressive">
-        <item>Father</item>
-        <item>Mother</item>
-        <item>Paternal grandfather</item>
-        <item>Paternal grandmother</item>
-        <item>Maternal grandfather</item>
-        <item>Maternal grandmother</item>
+        <item>Padre</item>
+        <item>Madre</item>
+        <item>Nonno paterno</item>
+        <item>Nonna paterna</item>
+        <item>Nonno materno</item>
+        <item>Nonna materna</item>
      </string-array>
 </resources>
