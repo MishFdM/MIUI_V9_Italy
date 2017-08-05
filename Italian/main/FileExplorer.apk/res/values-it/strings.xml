@@ -55,7 +55,7 @@
      <string name="cancel">Annulla</string>
      <string name="cancel_error">Impossibile rimuovere, riprova</string>
      <string name="cancel_operation">Annulla operazione</string>
-     <string name="cancel_success">Removed successfully, all files moved to %s</string>
+     <string name="cancel_success">Rimozione riuscita, tutti i file sono stati spostati %s</string>
      <string name="cancelled_by_user">Operazione annullata</string>
      <string name="cannot_send">Impossibile inviare file dalla memoria interna</string>
      <string name="category">Categorie</string>
@@ -141,7 +141,7 @@
      <string name="decrypt_error">Impossibile decrittare</string>
      <string name="decrypt_to">Decripta e salva in…</string>
      <string name="decrypting">Decriptazione…</string>
-     <string name="default_prize_text">Questo va dritto con i miei tesori!</string>
+     <string name="default_prize_text">Questo va dritto assieme ai miei tesori!</string>
      <string name="default_user_desc">Questa persona non ha ancora aggiunto una descrizione</string>
      <string name="delete_dialog_button">Elimina</string>
      <string name="delete_error">Non è stato possibile eliminare alcuni file, riprova</string>
