@@ -88,12 +88,12 @@
      <string name="open_camera_hint_text">Scorri a sinistra per aprire la Fotocamera</string>
      <string name="open_remote_center_hint_text">Scorri a destra per aprire il Telefono</string>
      <string name="phone_locked_foget_password">Password dimenticata?</string>
-     <string name="phone_locked_foget_password_content">"You can sign in to i.mi.com using the Mi Account which is associated with this device, and clear all data. This will erase all personal data stored on this device. After this, you can reboot the device and restore contacts, messages, photos, and other items from Mi Cloud. 
+     <string name="phone_locked_foget_password_content">Puoi loggarti su i.mi.com usando il Mi Account a cui è assoxiato questo dispositivo, e cancellare tutti i dati. Questo eliminerà tutti i dati personali salvati su questo dispositivo. Dopo questo, potrai riavviare il dispositivo e ripristinare i contatti, messaggi, foto, ed altri elementi da Mi Cloud. 
 
-You won't be able to do this unless you've signed in to your Mi Account on this device. Otherwise, you'll have to flash the device again."</string>
-     <string name="phone_locked_foget_password_footer">"Steps:
-Sign in to i.mi.com, go to “Find device”, select the device and press Wipe device."</string>
-     <string name="phone_locked_foget_password_header">What should I do if I forgot my password?</string>
+Non sarai in grado di fare ciò fino a che non sarai loggato sul tuo Mi Account in questo dispositivo. Altrimenti, dovrai nuovamente flashare questo dispositivo.</string>
+     <string name="phone_locked_foget_password_footer">"Passaggi:
+Loggati su i.mi.com, vai su “Trova dispositivo”, selezionalo e premi su Pulisci dispositivo."</string>
+     <string name="phone_locked_foget_password_header">Cosa devo fare se dimentico la mia password?</string>
      <string name="phone_locked_foget_password_ok">Ho capito</string>
      <string name="phone_locked_string">Il telefono è bloccato</string>
      <string name="phone_locked_timeout_minutes_string">Riprova nuovamente fra %d minuti</string>
