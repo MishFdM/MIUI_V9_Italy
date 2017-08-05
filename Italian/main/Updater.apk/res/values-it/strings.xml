@@ -41,7 +41,7 @@
      <string name="check_local_package_wipe_btn">Elimina e aggiorna</string>
      <string name="check_local_package_wipe_msg">Stai per aggiornare MIUI alla versione %s, che è precedente alla versione attuale. I tuoi dati personali verranno eliminati. Assicurati di aver eseguito il backup dei dati importanti prima di iniziare.</string>
      <string name="check_local_package_wipe_title">Elimina dati</string>
-     <string name="check_network">Impossibile connettersi al network</string>
+     <string name="check_network">Impossibile connettersi alla rete</string>
      <string name="check_new_version">Cerca</string>
      <string name="clean_up_button">Cancella</string>
      <string name="comment_publish">Invia</string>
