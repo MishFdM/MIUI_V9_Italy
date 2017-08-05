@@ -19,9 +19,9 @@
      <string name="fingerprint_try_again_text">Prova di nuovo</string>
      <string name="forget_password_string">Pwd dimenticata</string>
      <string name="incorrect_pincode">Codice PIN errato</string>
-     <string name="incorrect_pincode_remaining_attempts">Incorrect PIN code, %d attempts remaining</string>
+     <string name="incorrect_pincode_remaining_attempts">Codice PIN non corretto, %d tentativi rimasti</string>
      <string name="incorrect_pukcode">Codice PUK errato</string>
-     <string name="incorrect_pukcode_remaining_attempts">Incorrect PUK code, %d attempts remaining</string>
+     <string name="incorrect_pukcode_remaining_attempts">Codice PUK non corretto, %d tentativi rimasti</string>
      <string name="input_password_after_boot_msg">Dovrai inserire la password dopo il riavvio del terminale.</string>
      <string name="input_password_after_boot_msg_can_not_switch_when_calling">Impossibile cambiare spazio durante una chiamata</string>
      <string name="input_password_after_boot_msg_must_enter_owner_space">Devi accedere allo spazio Primario dopo il riavvio del dispositivo</string>
@@ -34,25 +34,25 @@
      <string name="invalid_sim_puk_hint">Il codice PUK dovrebbe essere di 8 o più numeri</string>
      <string name="keyguard_charging_info_battery_temperature_text">Temperatura</string>
      <string name="keyguard_charging_info_battery_used_time_text">Utilizzata</string>
-     <string name="keyguard_charging_info_charging_full_need_hour_time__text">About %d hr until full</string>
-     <string name="keyguard_charging_info_charging_full_need_min_time__text">About %d min until full​</string>
-     <string name="keyguard_charging_info_charging_full_need_time__text" formatted="false">About %d hr %d min until full</string>
+     <string name="keyguard_charging_info_charging_full_need_hour_time__text">Circa %d ore prima del completamento</string>
+     <string name="keyguard_charging_info_charging_full_need_min_time__text">Circa %d minuti prima del completamento​</string>
+     <string name="keyguard_charging_info_charging_full_need_time__text" formatted="false">Circa %d ore %d minuti prima del completamento</string>
      <string name="keyguard_charging_info_charging_text">In carica</string>
      <string name="keyguard_charging_info_charging_voltage_text">Voltaggio</string>
      <string name="keyguard_charging_info_click_to_detail">Dettagli</string>
-     <string name="keyguard_charging_info_could_use_hour_time_text">About %d hr left</string>
-     <string name="keyguard_charging_info_could_use_min_time_text">About %d min left</string>
-     <string name="keyguard_charging_info_could_use_time_text" formatted="false">About %d hr %d min left</string>
+     <string name="keyguard_charging_info_could_use_hour_time_text">Circa %d ore rimanenti</string>
+     <string name="keyguard_charging_info_could_use_min_time_text">Circa %d minuti rimanenti</string>
+     <string name="keyguard_charging_info_could_use_time_text" formatted="false">Circa %d ore %d minuti rimanenti</string>
      <string name="keyguard_charging_info_current_now_text">Tempo reale</string>
      <string name="keyguard_charging_info_data_c">%s℃</string>
      <string name="keyguard_charging_info_data_ma">%smA</string>
      <string name="keyguard_charging_info_data_percent">%s%%</string>
      <string name="keyguard_charging_info_data_v">%sV</string>
-     <string name="keyguard_charging_info_drained_hour_time_format">%d hr</string>
-     <string name="keyguard_charging_info_drained_min_time_format">%d min</string>
+     <string name="keyguard_charging_info_drained_hour_time_format">%d ore</string>
+     <string name="keyguard_charging_info_drained_min_time_format">%d minuti</string>
      <string name="keyguard_charging_info_drained_power_percent_text">Consumato</string>
-     <string name="keyguard_charging_info_drained_time_format" formatted="false">%d hr %d min</string>
-     <string name="keyguard_charging_info_finished_charging_text">Carica completa</string>
+     <string name="keyguard_charging_info_drained_time_format" formatted="false">%d ore %d minuti</string>
+     <string name="keyguard_charging_info_finished_charging_text">Carica completata</string>
      <string name="keyguard_charging_info_last_charge_time">d/M H:mm</string>
      <string name="keyguard_charging_info_last_charge_today_time">Oggi %s</string>
      <string name="keyguard_charging_info_last_charge_yesterday_time">Ieri %s</string>
@@ -96,8 +96,8 @@ Sign in to i.mi.com, go to “Find device”, select the device and press Wipe d
      <string name="phone_locked_foget_password_header">What should I do if I forgot my password?</string>
      <string name="phone_locked_foget_password_ok">Ho capito</string>
      <string name="phone_locked_string">Il telefono è bloccato</string>
-     <string name="phone_locked_timeout_minutes_string">Try again in %d minutes</string>
-     <string name="phone_locked_timeout_seconds_string">Try again in %d seconds</string>
+     <string name="phone_locked_timeout_minutes_string">Riprova nuovamente fra %d minuti</string>
+     <string name="phone_locked_timeout_seconds_string">Riprova nuovamente fra %d secondi</string>
      <string name="symbol_colon">:</string>
      <string name="unlock_string">Sblocca</string>
      <string name="unlocking_sim_card">Sblocco carta SIM</string>
