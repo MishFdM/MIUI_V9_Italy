@@ -75,7 +75,7 @@
      <string name="account_info">Accesso non eseguito</string>
      <string name="activate_usb_message">Per attivare questa funzione inserisci la SIM.</string>
      <string name="activate_usb_title">Attiva USB</string>
-     <string name="adb_keys_warning_message">Revocare l'accesso al debug USB da tutti i PC che hai precedentemente autorizzato?</string>
+     <string name="adb_keys_warning_message">"Revocare l'accesso al debug USB da tutti i PC che hai precedentemente autorizzato?"</string>
      <string name="adb_warning_message">Il debug USB è destinato ad un uso puramente di sviluppo. Usalo per copiare dati fra il tuo PC ed il tuo dispositivo, installare app sul tuo dispositivo senza notifiche, e leggere i dati di log.</string>
      <string name="adb_warning_title">Permettere il debug USB?</string>
      <string name="allow_mock_location">Permettere false localizzazioni?</string>
@@ -476,7 +476,7 @@ Utilizza solo l'alimentatore in dotazione."</string>
      <string name="screenshot_dlg_delete_button">Elimina</string>
      <string name="screenshot_edit">Modifica</string>
      <string name="screenshot_failed_text">"Impossibile salvare lo screenshot. L'archivio esterno potrebbe essere in uso."</string>
-     <string name="screenshot_insert_failed">:Caricamento schermata fallito, prego riacquisiscine una nuova o visualizza le immagini nell'album"</string>
+     <string name="screenshot_insert_failed">"Caricamento schermata fallito, prego riacquisiscine una nuova o visualizza le immagini nell'album"</string>
      <string name="screenshot_long_screenshot">Screenshot lungo</string>
      <string name="screenshot_saved_text">Premi per visualizzare la tua schermata.</string>
      <string name="screenshot_saved_title">Schermata acquisita</string>
