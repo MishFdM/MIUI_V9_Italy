@@ -24,7 +24,7 @@
      <string name="activate_phone_cancel_notif_title">Attivazione SIM annullata</string>
      <string name="activate_phone_cancel_notif_title_msim">Attivazione SIM %s annullata</string>
      <string name="activate_phone_failed_notif_title">Impossibile attivare SIM</string>
-     <string name="activate_phone_failed_notif_title_msim">Impossibile attivae SIM %s</string>
+     <string name="activate_phone_failed_notif_title_msim">Impossibile attivare SIM %s</string>
      <string name="activate_phone_success_notif_title">SIM attivata</string>
      <string name="activate_phone_success_notif_title_msim">SIM %s attivata</string>
      <string name="activate_popup_confirm_all_gateway_failed_query_info">Riprova</string>
