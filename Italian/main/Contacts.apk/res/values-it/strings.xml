@@ -401,7 +401,7 @@ Le schede contatti sono disattivate"</string>
      <string name="directory_search_label">Cartella</string>
      <string name="disclaimer_text">"Le pagine gialle recuperano infomrazioni sul tuo saldo tramite invio di un SMS. Il tuo operatore potrebbe , so the numbers you get might not be accurate. If you see a mistake, you can report the inquiry SMS to help us improve this service. 
 
-To avoid frequent queries, we update balance info once a day."</string>
+Per evitare richieste frequenti, noi aggiorneremo le informazioni del saldo una volta al giorno."</string>
      <string name="disclaimer_title">Avviso</string>
      <string name="display_all_contacts">Tutti i contatti</string>
      <string name="display_more_groups">Altri gruppi…</string>
@@ -440,7 +440,7 @@ To avoid frequent queries, we update balance info once a day."</string>
      <string name="expandCloseViewDescription">Chiudi</string>
      <string name="expandOpenViewDescription">Espandi</string>
      <string name="export_sim_contact_finish">Esportazione completata</string>
-     <string name="export_sim_contact_finish_msg">%1$d transferred | %2$d duplicated | %3$d remaining %4$s</string>
+     <string name="export_sim_contact_finish_msg">%1$d trasferiti | %2$d duplicati | %3$d rimasti %4$s</string>
      <string name="export_to_sdcard">Esporta su SD</string>
      <string name="export_to_sim">Esporta sulla SIM</string>
      <string name="export_to_sim1">Esporta su SIM 1</string>
@@ -494,7 +494,7 @@ Motivo: \"%s\"</string>
      <string name="group_delete_success_toast">Gruppo eliminato</string>
      <string name="group_detail_label_placeholder"> </string>
      <string name="group_edit_field_hint_text">Nome del gruppo</string>
-     <string name="group_member_remove_toast">Removed from group</string>
+     <string name="group_member_remove_toast">Rimosso dal gruppo</string>
      <string name="group_name">I miei gruppi</string>
      <string name="group_name_hint">Nome del gruppo</string>
      <string name="group_read_only">Non modificabile su questo dispositivo.</string>
@@ -517,7 +517,7 @@ Motivo: \"%s\"</string>
      <string name="hybrid_network_unavaliable">"Impossibile collegarsi alla rete"</string>
      <string name="hybrid_service_unavailiable">Servizio non disponibile</string>
      <string name="hybrid_try_again">Riprova</string>
-     <string name="hybrid_webpage_not_available">Webpage not available</string>
+     <string name="hybrid_webpage_not_available">Pagina web non disponibile</string>
      <string name="ic_menu_back">Indietro</string>
      <string name="ic_menu_done">Fatto</string>
      <string name="imLabelsGroup">Chat</string>
@@ -547,15 +547,15 @@ Motivo: \"%s\"</string>
      <string name="import_to_xiaomi_account_title">Vuoi importare i seguenti contatti sul tuo Mi Account?</string>
      <string name="import_vcard_description">Importa contatti dalla tua scheda SD</string>
      <string name="import_vcard_dialog_message">Importare vCard?</string>
-     <string name="import_weibo_dialog_title">Import Weibo contacts</string>
-     <string name="import_weibo_error_no_matched_contacts">No matching contacts</string>
-     <string name="import_weibo_error_no_network">"Can't connect to the network. Check your data connection and try again."</string>
-     <string name="import_weibo_error_no_xiaomi_phone">There are no phone numbers stored in your Mi Account.</string>
-     <string name="import_weibo_error_unknown">Unknown error</string>
-     <string name="import_weibo_error_user_cancel">Import canceled</string>
-     <string name="import_weibo_fetch_followers">Fetching contacts…</string>
-     <string name="import_weibo_notification_title_done">Updated %s contacts</string>
-     <string name="import_weibo_progress_name">Matching \"%1$s\"…</string>
+     <string name="import_weibo_dialog_title">Importa contatti Weibo</string>
+     <string name="import_weibo_error_no_matched_contacts">Nessuna corrispondenza contatti</string>
+     <string name="import_weibo_error_no_network">"Impossibile connettersi alla rete. Controlla la tua connessione dati e riprova."</string>
+     <string name="import_weibo_error_no_xiaomi_phone">Non esiste alcun numero di telefono salvato nel tuo Mi Account.</string>
+     <string name="import_weibo_error_unknown">Errore sconosciuto</string>
+     <string name="import_weibo_error_user_cancel">Importazione annullata</string>
+     <string name="import_weibo_fetch_followers">Ricerca contatti…</string>
+     <string name="import_weibo_notification_title_done">%s contatti aggiornati</string>
+     <string name="import_weibo_progress_name">Corrispondenza \"%1$s\"…</string>
      <string name="importing_sim_contacts_miui">Importazione contatti dalla SIM…</string>
      <string name="importing_sim_contacts_miui_prepare">"Preparazione per l'impostazione…"</string>
      <string name="importing_vcard_canceled_title">Importazione di %s annullata</string>
@@ -1017,7 +1017,7 @@ Per aggiungere un contatto alla lista dei Preferiti:
      <string name="remove_duplicate">"MIUI ti aiuterà a trovare ed unire i contatti duplicati.
 
 Tocca l'icona Unisci in basso per iniziare."</string>
-     <string name="report_inquiry_mms">Report SMS</string>
+     <string name="report_inquiry_mms">Segnala SMS</string>
      <string name="restore_nickname">Ripristina</string>
      <string name="ret_sign">"
 "</string>
@@ -1214,7 +1214,7 @@ Scegli una delle seguenti opzioni:"</string>
      <string name="user_profile_contacts_list_header">Io</string>
      <string name="vcard_export_request_rejected_message">Richiesta esportazione vCard rifiutata. Riprova più tardi.</string>
      <string name="vcard_export_will_start_message">La vCard %s verrà esportata a breve.</string>
-     <string name="vcard_import_failed">"Couldn't import vCard %s."</string>
+     <string name="vcard_import_failed">"Impossibile importare vCard %s."</string>
      <string name="vcard_import_request_rejected_message">Richiesta importazione vCard rifiutata. Riprova più tardi.</string>
      <string name="vcard_import_will_start_message">La vCard %s verrà importata a breve.</string>
      <string name="vcard_import_will_start_message_with_default_name">Il file sarà importato a breve.</string>
