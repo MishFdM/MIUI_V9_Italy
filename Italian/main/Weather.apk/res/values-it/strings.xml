@@ -157,7 +157,7 @@ trascina verso il basso per aggiornare o verifica le impostazioni di rete"</stri
      <string name="install_progress">%1$s%%</string>
      <string name="international_detail_menu_title">Dettagli</string>
      <string name="international_details_pressure_title">PRESSIONE</string>
-     <string name="international_details_real_feel_title">REAL FEEL® (temperatura avvertita)</string>
+     <string name="international_details_real_feel_title">REAL FEEL®</string>
      <string name="international_details_title">Dettagli</string>
      <string name="international_details_uv_index_title">INDICE UV</string>
      <string name="international_details_wind_connect">%1$s %2$s</string>
@@ -279,5 +279,5 @@ Tocca lo schermo per aggiungere manualmente o riprovare"</string>
      <string name="xiaomi_weather_description_content">"Il Meteo fornisce previsioni metereologiche affidabili. Senza questa app, il widget della barra di stato e della Home non funzioneranno. Accertati di non aver necessità di queste funzioni prima di elimiare l'app."</string>
      <string name="xiaomi_weather_description_title">Informazioni</string>
      <string name="yes_vote_ratio">Per %1$s%%</string>
-     <string name="your_location">La tua locazione</string>
+     <string name="your_location">La tua posizione</string>
 </resources>
