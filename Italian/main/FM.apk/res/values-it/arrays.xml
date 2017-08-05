@@ -70,9 +70,9 @@
         <item>Meteo</item>
     </string-array>
     <string-array name="presetlist_edit_category">
-        <item>Rename</item>
-        <item>Auto-Select</item>
-        <item>Delete</item>
+        <item>Rinomina</item>
+        <item>Auto-Selezione</item>
+        <item>Elimina</item>
     </string-array>
     <string-array name="regional_band_entries">
         <item>Nord America</item>
@@ -158,7 +158,7 @@
         <item>Configura i parametri di ricerca FM</item>
     </string-array>
     <string-array name="cfg_rf">
-        <item>"Imposta il delta RSSI per l'FM"</item>
+        <item>Imposta il delta RSSI per FM</item>
         <item>Imposta la soglia del segnale</item>
         <item>Statistiche RF</item>
     </string-array>
