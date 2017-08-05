@@ -64,7 +64,7 @@
      <string name="default_shortcut_title_10086">10086.cn</string>
      <string name="delete">Elimina</string>
      <string name="delete_screen">Elimina tasto schermo</string>
-     <string name="delete_wallpaper_message">Delete %1$d wallpaper?</string>
+     <string name="delete_wallpaper_message">Eliminare %1$d sfondo?</string>
      <string name="deselect_all">Deseleziona tutto</string>
      <string name="disable_wallpaper_scroll">Disattiva scorrimento sfondo</string>
      <string name="download_action">Download</string>
@@ -116,7 +116,7 @@
      <string name="gadget_photo_24_label">Cornice 2x4</string>
      <string name="gadget_photo_44_label">Cornice 4x4</string>
      <string name="gadget_photo_label">Cornice</string>
-     <string name="gadget_power_clear_button_label">Super Cleaner</string>
+     <string name="gadget_power_clear_button_label">Super Pulitore</string>
      <string name="gadget_search_label">Ricerca</string>
      <string name="gadget_weather_app_not_installed">Installa Meteo MIUI</string>
      <string name="gadget_weather_aqi_title">Qualità aria</string>
@@ -155,9 +155,9 @@
      <string name="lock_screen_success_message">Applicato</string>
      <string name="lock_screen_wallpaper">Sfondo Schermata di blocco</string>
      <string name="menu_add">Aggiungi</string>
-     <string name="menu_auto_fill">Auto Fill</string>
+     <string name="menu_auto_fill">Auto-riempimento</string>
      <string name="menu_back_desktop">Torna alla Home</string>
-     <string name="menu_cell_setting">Screen Setting</string>
+     <string name="menu_cell_setting">Impostazioni schermo</string>
      <string name="menu_customize">Personalizza impostazioni</string>
      <string name="menu_edit">Modifica</string>
      <string name="menu_exit_scene">Esci da Free Desktop</string>
@@ -170,7 +170,7 @@
      <string name="menu_search">Cerca</string>
      <string name="menu_settings">Impostazioni</string>
      <string name="menu_sort">Ordina icone desktop</string>
-     <string name="menu_trans_effect">Transition Effect</string>
+     <string name="menu_trans_effect">Effetti di transizione</string>
      <string name="menu_wallpaper">Sfondo</string>
      <string name="menu_workspace_preview">Anteprima Home</string>
      <string name="mi_wallpaper">Sfondo MIUI</string>
@@ -273,5 +273,5 @@
      <string name="widget_favorite_contacts_style">Modifica dimensioni</string>
      <string name="widget_gadget_player">Musica</string>
      <string name="widget_global_search">Ricerca Globale</string>
-     <string name="widget_quick_function">Quick function</string>
+     <string name="widget_quick_function">Funzione veloce</string>
 </resources>
