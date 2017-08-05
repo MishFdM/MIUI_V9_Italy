@@ -186,7 +186,7 @@ Tocca lo schermo per aggiungere manualmente o riprovare"</string>
      <string name="more_details">Altri dettagli</string>
      <string name="network_not_available">Impossibile collegarsi alla rete</string>
      <string name="network_unavailable">Impossibile connettersi alla rete.</string>
-     <string name="night_not_disturb_settings_summary">Non riceverai nessuna notizia meteo dalle 23:00 alle 7:00 del giorno dopo l'apertura</string>
+     <string name="night_not_disturb_settings_summary">"Non riceverai nessuna notizia meteo dalle 23:00 alle 7:00 del giorno dopo l'apertura"</string>
      <string name="night_not_disturb_settings_title">Non disturbare di notte</string>
      <string name="no_data">--</string>
      <string name="no_network_btn">Riprova</string>
