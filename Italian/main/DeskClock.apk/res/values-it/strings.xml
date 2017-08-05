@@ -71,8 +71,8 @@
      <string name="legal_workday_invalidate_message">(Data scaduta, aggiorna in Impostazioni)</string>
      <string name="legal_workday_message">(escluse le festività)</string>
      <string name="life_post_setting">Rapporto del mattino</string>
-     <string name="life_post_setting_FBE_remind">Due to system restriction, weather info in morning report may not display correctly after reboot</string>
-     <string name="life_post_setting_open_subtitle">Ricevi informazioni sul meteo quando disattivilesveglietra le 4:00 e le 9:30</string>
+     <string name="life_post_setting_FBE_remind">A causa di una restrizione del sistema, le informazioni meteo potrebbero non essere visualizzate correttamente dopo il riavvio</string>
+     <string name="life_post_setting_open_subtitle">Ricevi informazioni sul meteo alla disattivazione delle sveglie tra le 4:00 e le 9:30</string>
      <string name="life_post_setting_open_title">Ricevi rapporti del mattino</string>
      <string name="life_post_setting_wake_up_list_title">Cronologia risvegli</string>
      <string name="life_post_wake_up_acumu_day_title">Conteggio giorni</string>
