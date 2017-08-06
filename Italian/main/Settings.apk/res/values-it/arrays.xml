@@ -1377,7 +1377,7 @@
         <item>Nessuno</item>
         <item>Manuale</item>
         <item>Proxy auto-config</item>
-     </string-array>>
+     </string-array>
      <string-array name="wifi_signal">
         <item>Scadente</item>
         <item>Discreta</item>
