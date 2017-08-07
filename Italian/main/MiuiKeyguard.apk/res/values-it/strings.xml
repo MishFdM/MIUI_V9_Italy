@@ -88,7 +88,7 @@
      <string name="open_camera_hint_text">Scorri a sinistra per aprire la Fotocamera</string>
      <string name="open_remote_center_hint_text">Scorri a destra per aprire il Telefono</string>
      <string name="phone_locked_foget_password">Password dimenticata?</string>
-     <string name="phone_locked_foget_password_content">Puoi loggarti su i.mi.com usando il Mi Account a cui è assoxiato questo dispositivo, e cancellare tutti i dati. Questo eliminerà tutti i dati personali salvati su questo dispositivo. Dopo questo, potrai riavviare il dispositivo e ripristinare i contatti, messaggi, foto, ed altri elementi da Mi Cloud. 
+     <string name="phone_locked_foget_password_content">Puoi loggarti su i.mi.com usando il Mi Account a cui è associato questo dispositivo, e cancellare tutti i dati. Questo eliminerà tutti i dati personali salvati su questo dispositivo. Dopo questo, potrai riavviare il dispositivo e ripristinare i contatti, messaggi, foto, ed altri elementi da Mi Cloud. 
 
 Non sarai in grado di fare ciò fino a che non sarai loggato sul tuo Mi Account in questo dispositivo. Altrimenti, dovrai nuovamente flashare questo dispositivo.</string>
      <string name="phone_locked_foget_password_footer">"Passaggi:

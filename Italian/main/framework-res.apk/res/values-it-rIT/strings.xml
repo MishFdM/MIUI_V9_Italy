@@ -973,7 +973,7 @@ Riprova tra %d secondi."</string>
      <string name="permgroupdesc_phone">effettuare e gestire le chiamate telefoniche</string>
      <string name="permgroupdesc_sensors">accesso e informazioni ai sensori vitali</string>
      <string name="permgroupdesc_sms">inviare e visualizzare messaggi SMS</string>
-     <string name="permgroupdesc_storage">"accesso all'archivio USB."</string>
+     <string name="permgroupdesc_storage">"accesso all'archivio USB"</string>
      <string name="permgrouplab_calendar">Calendario</string>
      <string name="permgrouplab_camera">Fotocamera</string>
      <string name="permgrouplab_contacts">Contatti</string>

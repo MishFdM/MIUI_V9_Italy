@@ -497,7 +497,7 @@ Questa funziona cripta ed invia l'ID del tuo dispositivo ai server Xiaomi."</str
      <string name="sub_sync_item_sms_title_wifi_only">Sincronizza MMS solo con Wi-Fi</string>
      <string name="success_upgraded_space">Aggiungi %s</string>
      <string name="sync_dspt">Abilita sincronizzazione</string>
-     <string name="sync_dspt_entrance_provision">"Sync your photos, contacts, call history, and messages across all your devices. Access the things you sync from any browser at %s. " </string>
+     <string name="sync_dspt_entrance_provision">Sincronizza le tue foto, contatti, chiamate, e messaggi tra tutti i tuoi dispositivi. Accedi a quello che sincronizza da qualsiasi browser %s.</string>
      <string name="sync_dspt_entrance_provision_2">Leggi di più</string>
      <string name="sync_dspt_entrance_provision_confirm_close">Non utilizzare</string>
      <string name="sync_dspt_entrance_provision_confirm_content">"Le applicazioni integrate in MIUI necessitano di Mi Cloud per il backup di foto, contatti, note ed altro. Mi Cloud è gratuito e pronto all'uso."</string>

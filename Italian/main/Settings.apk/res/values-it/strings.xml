@@ -3762,12 +3762,12 @@ Come usare Mantieni su schermo:
      <string name="shut_down_find_device_network_failure_content">Impossibile disattivare Trova dispositivo. Accertati che il dispositivo sia connesso ad internet.</string>
      <string name="shut_down_find_device_network_failure_title">Impossibile connettersi alla rete</string>
      <string name="shuting_down_find_device">Disattivazione Trova dispositivo\u2026</string>
-     <string name="silent_mode">Silent Mode</string>
+     <string name="silent_mode">Modalità silenziosa</string>
      <string name="silent_mode_title">Modalità silenziosa</string>
      <string name="silent_off">Turn off</string>
-     <string name="silent_settings">Silent Mode</string>
-     <string name="silent_standard">Silent</string>
-     <string name="silent_time">Slience Duration</string>
+     <string name="silent_settings">Modalità silenziosa</string>
+     <string name="silent_standard">Silenzioso</string>
+     <string name="silent_time">Durata</string>
      <string name="silent_total">DND</string>
      <string name="sim_bad_pin">PIN errato</string>
      <string name="sim_call_back_title">SIM per le richiamate</string>
@@ -3887,9 +3887,9 @@ Il PIN potrebbe essere errato."</string>
 
 Questo è reso possibile da credenziali attendibili installate sul tuo dispositivo."</string>
      <string name="stable_build">" | Stabile"</string>
-     <string name="standard">Silent</string>
-     <string name="standard_info">Calls and notifications are forbidden, but alarm, music will still sound</string>
-     <string name="start_silent_mode">Turn on Silent Mode</string>
+     <string name="standard">Selenzioso</string>
+     <string name="standard_info">Le chiamate e le notifiche sono saranno silenziate, mentre gli allarmi e la musica continuerà a suonare</string>
+     <string name="start_silent_mode">Attiva modalità silenziosa</string>
      <string name="start_vip_mode">enable VIP mode</string>
      <string name="starting_android">Avvio di Android</string>
      <string name="status_awaiting_tap">Tocca un tag da scrivere…</string>
