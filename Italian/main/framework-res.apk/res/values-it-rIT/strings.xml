@@ -965,11 +965,11 @@ Riprova tra %d secondi."</string>
      <string name="permdesc_writeHistoryBookmarks">"Consente all'applicazione di modificare la cronologia o i segnalibri del Browser memorizzati sul telefono. Ciò potrebbe consentire all'applicazione di cancellare o modificare i dati del Browser. Nota. È possibile che questa autorizzazione non sia applicabile da browser di terze parti o altre applicazioni con funzionalità di navigazione web."</string>
      <string name="permdesc_writeSettings">"Consente all'applicazione di modificare i dati delle impostazioni di sistema. Le applicazioni dannose potrebbero compromettere la configurazione di sistema."</string>
      <string name="permdesc_writeSyncSettings">"Consente a un'applicazione di modificare le impostazioni di sincronizzazione per un account. Ad esempio, può servire per attivare la sincronizzazione dell'applicazione Persone con un account."</string>
-     <string name="permgroupdesc_calendar">accesso diretto al calendario e agli eventi.</string>
-     <string name="permgroupdesc_camera">accesso diretto alla fotocamera per acquisizione di immagini o video.</string>
+     <string name="permgroupdesc_calendar">accesso diretto al calendario e agli eventi</string>
+     <string name="permgroupdesc_camera">accesso diretto alla fotocamera per acquisizione di immagini o video</string>
      <string name="permgroupdesc_contacts">accesso ai tuoi contatti</string>
-     <string name="permgroupdesc_location">"monitoraggio della posizione fisica dell'utente."</string>
-     <string name="permgroupdesc_microphone">accesso diretto al microfono per registrare audio.</string>
+     <string name="permgroupdesc_location">"monitoraggio della posizione fisica dell'utente"</string>
+     <string name="permgroupdesc_microphone">accesso diretto al microfono per registrare audio</string>
      <string name="permgroupdesc_phone">effettuare e gestire le chiamate telefoniche</string>
      <string name="permgroupdesc_sensors">accesso e informazioni ai sensori vitali</string>
      <string name="permgroupdesc_sms">inviare e visualizzare messaggi SMS</string>
