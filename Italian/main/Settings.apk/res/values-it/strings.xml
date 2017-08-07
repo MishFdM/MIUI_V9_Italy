@@ -206,7 +206,7 @@ L'amministratore ha la capacità di monitorare e gestire le impostazioni, l'acce
      <string name="allow_mock_location_summary">Consenti posizioni fittizie</string>
      <string name="allow_overlay_description">"Questo permesso consente ad un app di visualizzare dei contenuti sopra ad altre app che stai usando e potrebbero così interferire con l'uso dell'interfaccia delle altre app, o modificare quelli che pensi di visualizzare in altre applicazioni."</string>
      <string name="alpha_build">" | Alpha"</string>
-     <string name="always">Always</string>
+     <string name="always">Sempre</string>
      <string name="always_allow_bind_appwidgets_text">Hai scelto di consentire a questa applicazione di creare widget e di accedere ai relativi dati.</string>
      <string name="always_running">Sempre in esecuzione (%s)</string>
      <string name="amber_alerts_summary">Ricevi i bollettini sui rapimenti di bambini</string>
@@ -1674,7 +1674,7 @@ Se il testo sul tuo dispositivo è troppo piccolo prova ad utilizzare "</string>
      <string name="forget_privacy_password_summary">Usa il Mi Account per ripristinare la password</string>
      <string name="forget_wifi_message">Il tuo dispositivo non si connetterà più a questa rete automaticamente.</string>
      <string name="found_new_version">Trovata nuova versione</string>
-     <string name="fourhours">2 hours</string>
+     <string name="fourhours">2 ore</string>
      <string name="fp_nav_center_back_to_home_title">Premi il tasto Home per tornare alla schermata Home</string>
      <string name="free_memory">Libera</string>
      <string name="free_wifi_agreement_remind_never">Non chiedere più</string>
@@ -2699,7 +2699,7 @@ ed esegui il software."</string>
      <string name="one_cacrt">one CA certificate</string>
      <string name="one_usercrt">one user certificate</string>
      <string name="one_userkey">one user key</string>
-     <string name="onehour">30 minutes</string>
+     <string name="onehour">30 minuti</string>
      <string name="onekey_migrate">Trasferisci</string>
      <string name="online_resource_entry">Risorse online</string>
      <string name="only_one_home_message">"Le impostazioni proprietarie saranno nascoste fino a quando non installi un'altra applicazione proprietaria."</string>

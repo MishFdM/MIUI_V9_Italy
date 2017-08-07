@@ -4,7 +4,7 @@
      <string name="add_frequent_phrases">Aggiungi frase</string>
      <string name="all_call_livetalk_enable">Pacchetti di ricarica per effettuare le chiamate nazionali e internazionali </string>
      <string name="all_call_livetalk_remain_mins">Minutes remaining: %1$s domestic or %2$s international</string>
-     <string name="always">Always</string>
+     <string name="always">Sempre</string>
      <string name="alwaysUsePrompt">Ricorda questa scelta</string>
      <string name="apply_password_action">Imposta password</string>
      <string name="apply_password_confirm_dlg_msg">Richiedere password per %s?</string>
@@ -46,7 +46,7 @@ Per attivare questa funzione, vai in Impostazioni > Sistema > Tasti"</string>
      <string name="fm_record_smaple_prefix_miui">Registrazione FM</string>
      <string name="force_exit_message">Chiusura forzata di %1$s</string>
      <string name="force_exit_skip_message">Impossibile chiudere %1$s perché è richiesta dal sistema.</string>
-     <string name="fourhours">2 hours</string>
+     <string name="fourhours">2 ore</string>
      <string name="fp_nav_center_action_choose_dlg_msg">Puoi tornare alla Home premendo il tasto Home. Personalizza il tasto Home in Impostazioni > Impostazioni aggiuntive > Tasti e attiva Tocca per Home.</string>
      <string name="fp_nav_center_action_choose_dlg_negative_btn_text">Non adesso</string>
      <string name="fp_nav_center_action_choose_dlg_positive_btn_text">Vai nelle impostazioni</string>
@@ -81,7 +81,7 @@ Per attivare questa funzione, vai in Impostazioni > Sistema > Tasti"</string>
      <string name="memory_clear_result">%1$sB cleared</string>
      <string name="miui">MIUI</string>
      <string name="miui_upgrading_notification_title">System is loading, some features may be limited</string>
-     <string name="onehour">30 minutes</string>
+     <string name="onehour">30 minuti</string>
      <string name="package_delete_confirm_step_1">Eliminare %s?</string>
      <string name="package_delete_confirm_step_2">Eliminando questa app potresti causare instabilità del sistema.</string>
      <string name="package_delete_confirm_step_3">Non potrai utilizzare questa app una volta eliminata.</string>
@@ -161,7 +161,7 @@ Per attivare questa funzione, vai in Impostazioni > Sistema > Tasti"</string>
      <string name="translation_query_error">Impossibile trovare risultati</string>
      <string name="translation_query_error_network">Impossibile connettersi alla rete. Controlla le impostazioni e riprova.</string>
      <string name="turn_off">Spegni</string>
-     <string name="twohours">1 hour</string>
+     <string name="twohours">1 ora</string>
      <string name="unknown_caller">Numero sconosciuto</string>
      <string name="user_switching_dialog_text">Cambio…</string>
      <string name="xspace_resolver_activity_title">Seleziona app</string>
