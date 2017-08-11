@@ -5,14 +5,14 @@
         <item quantity="one">Eliminare questa %1$s conversazione?</item>
     </plurals>
     <plurals name="slide_duration">
-        <item quantity="other">%d secondo</item>
-        <item quantity="one">%d secondo</item>
-        <item quantity="few">%d secondo</item>
+        <item quantity="other">%d sec</item>
+        <item quantity="one">%d sec</item>
+        <item quantity="few">%d sec</item>
     </plurals>
     <plurals name="slide_audio_duration">
-        <item quantity="other">%d secondi</item>
-        <item quantity="one">%d secondo</item>
-        <item quantity="few">%d secondo</item>
+        <item quantity="other">%d sec</item>
+        <item quantity="one">%d sec</item>
+        <item quantity="few">%d sec</item>
     </plurals>
     <plurals name="search_results_title">
         <item quantity="other">%1$s risultati per \"%2$s\"</item>
