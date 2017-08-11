@@ -53,7 +53,7 @@
      <string name="artist_area_china">Cina</string>
      <string name="artist_area_europe_usa">Europa/USA</string>
      <string name="artist_area_japan">Giappone</string>
-     <string name="artist_area_korea">Korea</string>
+     <string name="artist_area_korea">Corea</string>
      <string name="artist_favor">In evidenza</string>
      <string name="artist_gender_all">Tutti</string>
      <string name="artist_gender_female">Femmina</string>
@@ -272,7 +272,7 @@
      <string name="download_toast_with_beyond_data">Rete dati mobile in uso per il download dei brani. Limite suerato di %s</string>
      <string name="download_toast_with_data">Utilizzo in corso della rete dati mobile per il download dei brani, %s rimanenti</string>
      <string name="download_traffic_dialog_buy_package">Acquista un piano dati per la musica</string>
-     <string name="download_traffic_dialog_msg">You have %s of mobile data left. Use mobile data to download songs?</string>
+     <string name="download_traffic_dialog_msg">Hai %s s di dati mobili. Utilizzare i dati mobili per scaricare canzoni?</string>
      <string name="download_traffic_dialog_msg_beyond">"Hai già superato il tuo limite dati di %s. Utilizzare comunque la rete dati per scaricare i brani?"</string>
      <string name="download_traffic_dialog_msg_serious">Ti restano solo %s di traffico dati. Utilizzare la rete dati mobile per scaricare i brani?</string>
      <string name="download_traffic_dialog_msg_without_data">Stai utilizzando il traffico dati mobile per scaricare i brani. Scaricare comunque?</string>
@@ -305,9 +305,9 @@
      <string name="enable_auto_payment_success">Rinnova automaticamente</string>
      <string name="enable_auto_payment_success_message">Rinnovo automatico attivato. Il prossimo pagamento scadrà il %s.</string>
      <string name="enabled">Attivato</string>
-     <string name="english_female">Female artists (US/Europe)</string>
-     <string name="english_group">Bands (US/Europe)</string>
-     <string name="english_male">Male artists (US/Europe)</string>
+     <string name="english_female">Artisti femminili (US/Europa)</string>
+     <string name="english_group">Bande (US/Europa)</string>
+     <string name="english_male">Artisti maschili (US/Europa)</string>
      <string name="enter_garbage_clean">Pulisci memoria interna.</string>
      <string name="eq_auto">Personalizza</string>
      <string name="eq_blues">Blues</string>
@@ -348,8 +348,8 @@
      <string name="file_not_found">File inesistente</string>
      <string name="filter_by_duration">Per durata</string>
      <string name="filter_by_duration_format">%2$dm %5$2ds</string>
-     <string name="filter_by_duration_max">%d mins</string>
-     <string name="filter_by_duration_min">%d sec</string>
+     <string name="filter_by_duration_max">%d minuti</string>
+     <string name="filter_by_duration_min">%d secondi</string>
      <string name="filter_by_duration_prefix">"Durata minima: "</string>
      <string name="filter_by_duration_summary">Non mostrare file audio brevi</string>
      <string name="filter_by_folder">Per cartella</string>
@@ -379,7 +379,7 @@
      <string name="global_search_description_entry">Goditi la tua musica</string>
      <string name="global_search_description_hot">Aggiorna settimanalmente</string>
      <string name="global_search_description_radar">Riconosci belle canzoni</string>
-     <string name="global_search_key_absolute">musica pura; musica soft</string>
+     <string name="global_search_key_absolute">musica pura;musica soft</string>
      <string name="global_search_key_buddha">musica buddhista</string>
      <string name="global_search_key_cantonese">lista canzoni cantonesi</string>
      <string name="global_search_key_child">canzoni per bambini</string>
@@ -430,9 +430,9 @@
      <string name="is_scanning">Scansione, attendere…</string>
      <string name="is_scanning_support_online">"Scansione, 
 attendere o selezionare Musica Online."</string>
-     <string name="japan_korea_female">Female artists (Japan/Korea)</string>
-     <string name="japan_korea_group">Bands (Japan/Korea)</string>
-     <string name="japan_korea_male">Male artists (Japan/Korea)</string>
+     <string name="japan_korea_female">Artisti femminili (Giappone/Corea)</string>
+     <string name="japan_korea_group">Bande (Giappone/Corea)</string>
+     <string name="japan_korea_male">Artisti maschili (Giappone/Corea)</string>
      <string name="keep_queued_download">Mantieni</string>
      <string name="ktv_playlist">Il mio KTV</string>
      <string name="latest_song">Riproduci cronologia (%d).</string>
@@ -837,7 +837,7 @@ attendere o selezionare Musica Online."</string>
      <string name="talkback_next">Prossimo brano</string>
      <string name="talkback_nowplaying_bar">Play Bar</string>
      <string name="talkback_nowplaying_circle">Play Circle</string>
-     <string name="talkback_play">Riproduci / Pausa</string>
+     <string name="talkback_play">Riproduci/Pausa</string>
      <string name="talkback_pre">Brano precedente</string>
      <string name="talkback_progress">Barra progresso</string>
      <string name="talkback_radar">Riconoscimento musica</string>
@@ -904,8 +904,8 @@ attendere o selezionare Musica Online."</string>
      <string name="upgrade_waringing">Potrai ascoltare soltanto la musica archiviata in locale.</string>
      <string name="valid_period">Validità: %s</string>
      <string name="version_info">Informazioni</string>
-     <string name="vip_after_tomorrow_auto_renew_message">Your Music subscription will be renewed automatically the evening of day after tomorrow. Make sure you have enough Mi Credits in your account to complete this payment.</string>
-     <string name="vip_after_tomorrow_renew_message">"You won't be able to stream high quality audio, but some songs will be available in regular quality."</string>
+     <string name="vip_after_tomorrow_auto_renew_message">Il tuo abbonamento musica sarà rinnovato automaticamente la sera del giorno dopo domani. Assicurati di avere abbastanza Crediti Mi nel tuo account per completare questo pagamento.</string>
+     <string name="vip_after_tomorrow_renew_message">Non sarai in grado di eseguire lo streaming di audio in alta qualità, ma alcune canzoni saranno disponibili in qualità normale.</string>
      <string name="vip_auto_renew_message">Il tuo abbonamento a Musica verrà rinnovato automaticamente questa sera. Assicurati di avere Mi Credit sufficienti per poter eseguire il pagamento.</string>
      <string name="vip_auto_renew_title">Rinnovo abbonamento</string>
      <string name="vip_renew_message">Non potrai ascoltare audio di alta qualità in streaming, ma alcuni brani saranno comunque disponibili in qualità normale.</string>

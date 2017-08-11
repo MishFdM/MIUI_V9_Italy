@@ -4,9 +4,9 @@
      <string name="bass_boost_strength">Bassi più intensi</string>
      <string name="ci_extreme">FX booster</string>
      <string name="classical">Classical</string>
-     <string name="combo_device">Effects supported only on headphone playback.</string>
+     <string name="combo_device">Effetti supportati solo per la riproduzione da auricolari.</string>
      <string name="dance">Dance</string>
-     <string name="eq_custom">To customize, select Custom</string>
+     <string name="eq_custom">Per personalizzare, selezionare Personalizzato</string>
      <string name="eq_dialog_title">Equalizzatore</string>
      <string name="flat">Flat</string>
      <string name="folk">Folk</string>
@@ -25,7 +25,7 @@
      <string name="picker_title">Pann. controllo effetti music.</string>
      <string name="plate">Plate</string>
      <string name="pop">Pop</string>
-     <string name="power_on_prompt">Press the power button on the top-right.</string>
+     <string name="power_on_prompt">Premere il pulsante di accensione in alto a destra.</string>
      <string name="pr_dialog_title">Preimpostazione riverbero</string>
      <string name="pr_summary">Altri effetti riverbero stanza</string>
      <string name="pr_title">Riverbero:</string>

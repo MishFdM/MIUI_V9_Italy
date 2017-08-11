@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="download_finished">
-        <item quantity="other">&lt;font color=\"red\">%d brani&lt;/font> downloaded</item>
-        <item quantity="one">&lt;font color==\"red\">%d brano&lt;/font> downloaded</item>
+        <item quantity="other">&lt;font color=\"red\">%d brani&lt;/font> scaricati</item>
+        <item quantity="one">&lt;font color==\"red\">%d brano&lt;/font> scaricato</item>
     </plurals>
     <plurals name="download_running">
-        <item quantity="other">&lt;font color=\"red\">%d brani&lt;/font> downloading</item>
-        <item quantity="one">&lt;font color==\"red\">%d brano&lt;/font> downloading</item>
+        <item quantity="other">&lt;font color=\"red\">%d brani&lt;/font> scaricati</item>
+        <item quantity="one">&lt;font color==\"red\">%d brano&lt;/font> scaricato</item>
     </plurals>
      <plurals name="dialog_confirm_delete_downloads_message">
-        <item quantity="other">Delete %d items?</item>
-        <item quantity="one">Delete %d item?</item>
+        <item quantity="other">Eliminare %d elementi?</item>
+        <item quantity="one">Eliminare %d elemento?</item>
      </plurals>
      <plurals name="download_info_count_deleted_tasks">
-        <item quantity="other">%d downloads removed</item>
-        <item quantity="one">%d download removed</item>
+        <item quantity="other">%d download rimossi</item>
+        <item quantity="one">%d download rimosso</item>
      </plurals>
      <plurals name="Ntracks_search_result">
         <item quantity="other">%d brani trovati</item>
@@ -122,7 +122,7 @@
         <item quantity="one">%d brano totale</item>
      </plurals>
      <plurals name="skipped_online_songs_tips">
-        <item quantity="other">Skipped %d songs. Turn on online services in the settings to listen to them.</item>
-        <item quantity="one">Skipped %d song. Turn on online services in the settings to listen to it.</item>
+        <item quantity="other">%d canzoni saltate. Attivare i servizi online nelle impostazioni per ascoltarle.</item>
+        <item quantity="one">%d canzone saltata. Attivare i servizi online nelle impostazioni per ascoltarla.</item>
      </plurals>
 </resources>

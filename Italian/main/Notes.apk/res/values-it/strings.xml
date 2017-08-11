@@ -17,7 +17,7 @@
     <string name="dlg_check_reminder">Non mostrare più</string>
     <string name="dlg_title_set_password">Imposta password</string>
     <string name="dlg_message_set_password">La password di protezione privacy funziona con le app, foto, e cartelle nascoste</string>
-    <string name="dlg_title_use_privacy_password">Usa la passwod di protezione privacy</string>
+    <string name="dlg_title_use_privacy_password">Usa la password di protezione privacy</string>
     <string name="dlg_message_use_privacy_password">Usa la passwod di protezione privacy. La password di protezione privacy funziona con le app, foto, e cartelle nascoste</string>
     <string name="dlg_title_password_reset">Aggiorna la password</string>
     <string name="dlg_message_password_reset">"La password per le note nascoste verrà sostituita dalla passowrd di protezione privacy, la quale funziona con le app, foto, e cartelle nascoste"</string>
