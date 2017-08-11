@@ -638,11 +638,11 @@
      <string name="url_fraud_visit"><u>Visita comunque</u></string>
      <string name="url_result_safe">Questo URL è sicuro</string>
      <string name="url_scanning">Scansione URL…</string>
-     <string name="user_agreement1">Read the applicable terms carefully before you install additional software or use this product.</string>
-     <string name="user_agreement2">Terms of Service</string>
-     <string name="user_agreement3">" and "</string>
+     <string name="user_agreement1">Leggere attentamente le condizioni applicabili prima di installare un software aggiuntivo o utilizzare questo prodotto.</string>
+     <string name="user_agreement2">Termini di servizio</string>
+     <string name="user_agreement3">" e "</string>
      <string name="user_agreement4">Privacy Policy</string>
-     <string name="user_agreement5">By tapping OK, you agree to our Terms of Service and Privacy Policy.</string>
+     <string name="user_agreement5">Cliccando su OK, accetti i termini di servizio e le norme sulla privacy.</string>
      <string name="verification_code_icon_name">V</string>
      <string name="verification_code_list_title">Codici di verifica</string>
      <string name="view">Visualizza</string>
