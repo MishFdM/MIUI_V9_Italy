@@ -150,7 +150,7 @@ Lunghezza: %s
      <string name="unknown_artist">Artista sconosciuto</string>
      <string name="unknown_genre">Genere sconosciuto</string>
      <string name="unlocked">Sbloccato</string>
-     <string name="unseekable_stream">"Flusso non comparabile/string>
+     <string name="unseekable_stream">"Flusso non comparabile</string>
      <string name="v7_preference_off">DISATTIVA"</string>
      <string name="v7_preference_off">OFF</string>
      <string name="v7_preference_on">ATTIVA</string>
