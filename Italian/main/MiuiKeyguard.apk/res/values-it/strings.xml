@@ -25,6 +25,7 @@
      <string name="input_password_after_boot_msg">Dovrai inserire la password dopo il riavvio del terminale.</string>
      <string name="input_password_after_boot_msg_can_not_switch_when_calling">Impossibile cambiare spazio durante una chiamata</string>
      <string name="input_password_after_boot_msg_must_enter_owner_space">Devi accedere allo spazio Primario dopo il riavvio del dispositivo</string>
+     <string name="input_password_handle_sdcard_fs">进入分身前需要在开发者选项中关闭“模拟SD卡优化”</string>
      <string name="input_password_hint_text">Inserisci password</string>
      <string name="input_pattern_hint_text">Disegna la sequenza di sblocco</string>
      <string name="input_pin_code">Ins. PIN</string>
@@ -88,9 +89,9 @@
      <string name="open_camera_hint_text">Scorri a sinistra per aprire la Fotocamera</string>
      <string name="open_remote_center_hint_text">Scorri a destra per aprire il Telefono</string>
      <string name="phone_locked_foget_password">Password dimenticata?</string>
-     <string name="phone_locked_foget_password_content">Puoi loggarti su i.mi.com usando il Mi Account a cui è associato questo dispositivo, e cancellare tutti i dati. Questo eliminerà tutti i dati personali salvati su questo dispositivo. Dopo questo, potrai riavviare il dispositivo e ripristinare i contatti, messaggi, foto, ed altri elementi da Mi Cloud. 
+     <string name="phone_locked_foget_password_content">"Puoi loggarti su i.mi.com usando il Mi Account a cui è associato questo dispositivo, e cancellare tutti i dati. Questo eliminerà tutti i dati personali salvati su questo dispositivo. Dopo questo, potrai riavviare il dispositivo e ripristinare i contatti, messaggi, foto, ed altri elementi da Mi Cloud. 
 
-Non sarai in grado di fare ciò fino a che non sarai loggato sul tuo Mi Account in questo dispositivo. Altrimenti, dovrai nuovamente flashare questo dispositivo.</string>
+Non sarai in grado di fare ciò fino a che non sarai loggato sul tuo Mi Account in questo dispositivo. Altrimenti, dovrai nuovamente flashare questo dispositivo."</string>
      <string name="phone_locked_foget_password_footer">"Passaggi:
 Loggati su i.mi.com, vai su “Trova dispositivo”, selezionalo e premi su Pulisci dispositivo."</string>
      <string name="phone_locked_foget_password_header">Cosa devo fare se dimentico la mia password?</string>

@@ -1487,7 +1487,7 @@ avviso"</string>
      <string name="enable_service_password_reason">Poiché attivare %1$s influenza la crittografia dei dati, devi confermare la password.</string>
      <string name="enable_service_pattern_reason">Poiché attivare %1$s influenza la crittografia dei dati, devi confermare la sequenza di sblocco.</string>
      <string name="enable_service_pin_reason">Poiché attivare %1$s influenza la crittografia dei dati, devi confermare il PIN.</string>
-     <string name="enable_service_title">Use %1$s?</string>
+     <string name="enable_service_title">The service will perform these actions:</string>
      <string name="enable_snapshot_screenlock">Tieni premuto Indietro per scattare una foto</string>
      <string name="enable_terminal_summary">"Abilita l'app Terminale che offre l'accesso alla shell locale"</string>
      <string name="enable_terminal_title">Terminale locale</string>
@@ -2604,6 +2604,8 @@ ed esegui il software."</string>
      <string name="no_updates_warning2">"Tranquillo, ti avviseremo se c'è un aggiornamento."</string>
      <string name="no_vr_listeners">No installed apps have requested to be run as VR helper services.</string>
      <string name="noise_suppression">Soppressione del rumore ambientale</string>
+     <string name="normal">Normal</string>
+     <string name="normal_info">All the volume is normal</string>
      <string name="normal_smartcover_title">Cover frontale opaca</string>
      <string name="not_battery_optimizing">Not using battery optimization</string>
      <string name="not_installed">Non installata</string>
@@ -3153,7 +3155,6 @@ ed esegui il software."</string>
      <string name="remove_managed_profile_label">Rimuovi profilo di lavoro</string>
      <string name="repeat">Ripeti</string>
      <string name="repeat_call">Repeated caller reminder</string>
-     <string name="repeat_call_info">In the standard mute, if the same person in 15 minutes two calls, allowing Ling Ling reminders</string>
      <string name="repeat_title">Ripeti</string>
      <string name="reset_aaid">"Resetta identificatore AD"</string>
      <string name="reset_app_preferences">Reimposta preferenze app</string>
@@ -3762,6 +3763,7 @@ Come usare Mantieni su schermo:
      <string name="shut_down_find_device_network_failure_content">Impossibile disattivare Trova dispositivo. Accertati che il dispositivo sia connesso ad internet.</string>
      <string name="shut_down_find_device_network_failure_title">Impossibile connettersi alla rete</string>
      <string name="shuting_down_find_device">Disattivazione Trova dispositivo\u2026</string>
+     <string name="silent_duration">Duration</string>
      <string name="silent_mode">Modalità silenziosa</string>
      <string name="silent_mode_title">Modalità silenziosa</string>
      <string name="silent_off">Turn off</string>
@@ -4308,6 +4310,7 @@ L'approccio di Google alla sincronizzazione di dati per consentirti l'accesso ai
      <string name="turn_off_common_password_confirm_msg">Anche la password verrà disattivata.</string>
      <string name="turn_off_keyguard_password_alert_title">Disattiva</string>
      <string name="turn_off_keyguard_password_confirm_msg">Disattivare la password Schermata di blocco?</string>
+     <string name="turn_off_keyguard_password_wait_dialog">Closing password</string>
      <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg">Non sarai in grado di sbloccare il dispositivo con la tua impronta dopo aver disattivato la password per la Schermata di blocco</string>
      <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg_delete">Dopo aver disattivato la password della Schermata di blocco, le impronte digitali registrate verranno eliminate. Non sarai in grado di sbloccare il dispositivo con la tua impronta digitale.</string>
      <string name="turn_off_security_lock">Disabilita il blocco</string>
@@ -4315,6 +4318,7 @@ L'approccio di Google alla sincronizzazione di dati per consentirti l'accesso ai
      <string name="turn_on_security_lock">Aggiungi password di sicurezza</string>
      <string name="turn_on_wifi_dialog_text">WLAN is turned off when Mobile HotSpot is active. To turn on WLAN, please turn off Mobile HotSpot.</string>
      <string name="turn_on_wifi_dialog_title">Turn on wifi</string>
+     <string name="turn_update_keyguard_password_wait_dialog">Modifying password</string>
      <string name="twohours">1 hours</string>
      <string name="under_keyguard">Schermata di blocco</string>
      <string name="uninstall_all_users_text">Disinstalla per tutti gli utenti</string>

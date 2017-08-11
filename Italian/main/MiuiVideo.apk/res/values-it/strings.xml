@@ -42,8 +42,8 @@
      <string name="delete_file_tips">Eliminare questo file?</string>
      <string name="details">Dettagli</string>
      <string name="dselect_all">Deseleziona tutto</string>
-     <string name="encountered_error_message">Il lettore ha riscontrato un errore con questo file multimediale.
-Prova a riaggiornare la libreria multimediale.</string>
+     <string name="encountered_error_message">"Il lettore ha riscontrato un errore con questo file multimediale.
+Prova a riaggiornare la libreria multimediale."</string>
      <string name="encountered_error_title">Errore di riproduzione</string>
      <string name="error_text_invalid_progressive_playback">Questo tipo di file non è supportato</string>
      <string name="exit_app">Chiudi lettore</string>
@@ -109,7 +109,7 @@ Lunghezza: %s
      <string name="rename_hidden_error">Il file verrà nascosto</string>
      <string name="replace_num_files">%d file</string>
      <string name="replace_num_videos">%d video</string>
-     <string name="ringtone_error">Si è verificato un errore durante l'impostazione della suoneria.</string>
+     <string name="ringtone_error">"Si è verificato un errore durante l'impostazione della suoneria."</string>
      <string name="ringtone_set">"Il file '%1$s' è stato impostato come suoneria."</string>
      <string name="sdcard_text">SdCard</string>
      <string name="sdcard_tips">Sdcard/</string>
@@ -150,8 +150,9 @@ Lunghezza: %s
      <string name="unknown_artist">Artista sconosciuto</string>
      <string name="unknown_genre">Genere sconosciuto</string>
      <string name="unlocked">Sbloccato</string>
-     <string name="unseekable_stream">Flusso non comparabile/string>
-     <string name="v7_preference_off">DISATTIVA</string>
+     <string name="unseekable_stream">"Flusso non comparabile/string>
+     <string name="v7_preference_off">DISATTIVA"</string>
+     <string name="v7_preference_off">OFF</string>
      <string name="v7_preference_on">ATTIVA</string>
      <string name="video">Video</string>
      <string name="video_error_network_not_available">Impossibile connettersi alla rete</string>

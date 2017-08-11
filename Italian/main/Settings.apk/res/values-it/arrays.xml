@@ -23,7 +23,7 @@
         <item>Scala animazione 5x</item>
         <item>Scala animazione 10x</item>
      </string-array>
-         <string-array name="apn_auth_entries">
+     <string-array name="apn_auth_entries">
         <item>Nessuno</item>
         <item>PAP</item>
         <item>CHAP</item>
@@ -1200,6 +1200,13 @@
         <item>Disattivato</item>
         <item>Area ritaglio non rettangolare blu</item>
         <item>Evidenzia comandi di disegno test in verde</item>
+     </string-array>
+     <string-array name="silent_mode_duration_text">
+        <item>Always</item>
+        <item>30 minutes</item>
+        <item>1 hour</item>
+        <item>2 hours</item>
+        <item>8 hours</item>
      </string-array>
      <string-array name="standard_configuration_version_description_primary">
         <item>CPU</item>
