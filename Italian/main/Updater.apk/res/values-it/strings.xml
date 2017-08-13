@@ -25,17 +25,17 @@
      <string name="auto_update">Aggiorna automaticamente</string>
      <string name="auto_update_sum">Cerca automaticamente il momento migliore per scaricare aggiornamenti</string>
      <string name="autosetmode">Impostazioni aggiornamento</string>
-     <string name="battery_islow">&lt;font color=#f37981&gt;Plug your charger&lt;/font&gt;</string>
-     <string name="battery_islow_desc">Battery level is too low to install zip file safely, plug in your charger and try again later!</string>
+     <string name="battery_islow">&lt;font color=#f37981&gt;Connetti il tuo caricabatterie&lt;/font&gt;</string>
+     <string name="battery_islow_desc">Il livello della batteria è troppo basso per installare questo file .zip in maniera sicura, connetti il tuo caricabatterie e riprova più tardi!</string>
      <string name="best_update">Il migliore aggiornamento finora</string>
      <string name="boot_recovery">Riavvia in Recovery</string>
      <string name="btn_changelog">Changelog</string>
      <string name="btn_download">Download</string>
-     <string name="btn_install">Install</string>
-     <string name="btn_no">Cancel</string>
+     <string name="btn_install">Installa</string>
+     <string name="btn_no">Annulla</string>
      <string name="btn_ok">OK</string>
-     <string name="btn_share">Share</string>
-     <string name="btn_yes">Yes</string>
+     <string name="btn_share">Condividi</string>
+     <string name="btn_yes">Si</string>
      <string name="button_delay_update_reboot">Riavvia e aggiorna</string>
      <string name="button_text_check">Cerca</string>
      <string name="button_text_reboot">Riavvia adesso</string>
@@ -69,18 +69,18 @@
      <string name="download_cancel">Annulla</string>
      <string name="download_current_rom">"Scarica l'ultima ROM completa"</string>
      <string name="download_diff">Scarica aggiornamento Delta</string>
-     <string name="download_done">Successfully downloaded!</string>
-     <string name="download_error">Errore nel download. Attendi qualche minuto e riprova.</string>
-     <string name="download_fail">Error while downloading!</string>
-     <string name="download_fail_desc">MD5 Sum does not match…</string>
+     <string name="download_done">Download riuscito!</string>
+     <string name="download_error">Errore durante il download. Attendi qualche minuto e riprova.</string>
+     <string name="download_fail">Errore durante il download!</string>
+     <string name="download_fail_desc">Il valore MD5 non corrisponde…</string>
      <string name="download_failed">Download fallito</string>
-     <string name="download_full">Scarica aggiornamento Full</string>
+     <string name="download_full">Scarica aggiornamento completo</string>
      <string name="download_success_reboot_immediately">"Riavvia per installare l'aggiornamento"</string>
      <string name="download_title">Download (%s)</string>
      <string name="download_title_first">Ricevo informazioni di aggiornamento…</string>
      <string name="download_title_full_download">Ricevo informazioni pacchetto…</string>
-     <string name="downloading">Downloading…</string>
-     <string name="downloading_desc">Downloading in progress, check status in notification area.</string>
+     <string name="downloading">Download…</string>
+     <string name="downloading_desc">"Download in corso, controlla lo stato nell'area notifiche."</string>
      <string name="edit_text_default">Scrivi un commento</string>
      <string name="emegency_build">Build:</string>
      <string name="expect">Aspettative</string>
@@ -95,12 +95,12 @@
      <string name="go_on_download">Continua</string>
      <string name="important_suggestion">"L'informativa sulla Privacy è stata modificata"</string>
      <string name="install">Installa</string>
-     <string name="install_desc">"Device will reboot to recovery and install chosen file: %1$s
-Data will not be wiped."</string>
+     <string name="install_desc">"Il dispositivo sarà riavviato in recovery e verrà installato il seguente file: %1$s
+I dati non verranno cancellati."</string>
      <string name="install_failed">Aggiornamento fallito</string>
      <string name="install_file_explorer">Installa prima un File Explorer</string>
      <string name="install_local">Installa localmente</string>
-     <string name="install_title">Are you sure to continue?</string>
+     <string name="install_title">Sei sicuro di voler continuare?</string>
      <string name="internal_build">Interna</string>
      <string name="later">Riavvia dopo</string>
      <string name="loading">Caricamento</string>
@@ -125,20 +125,20 @@ Data will not be wiped."</string>
      <string name="my_rank">Mia posizione:</string>
      <string name="my_update_feel">Il mio feedback</string>
      <string name="my_worst_update">Peggior aggiornamento</string>
-     <string name="new_version">New version found!</string>
+     <string name="new_version">Nuova versione trovata!</string>
      <string name="next">Avanti</string>
      <string name="no_log">Riepilogo non disponibile</string>
-     <string name="no_network">No network access.</string>
-     <string name="no_update">You already up to date!</string>
+     <string name="no_network">Nessun accesso alla rete.</string>
+     <string name="no_update">"Hai già installato l'ultimo aggiornamento!"</string>
      <string name="no_wifi_msg">"Non sei più collegato alla rete Wi-Fi. Continuando con l'aggiornamento su rete dati, consumerai il traffico incluso nel tuo piano dati."</string>
      <string name="no_wifi_title">Avviso utilizzo dati</string>
-     <string name="no_xioamieu">"You are not using MIUI Rom created by Xiaomi.eu team!
-Updates are not available for you!"</string>
+     <string name="no_xioamieu">"Non stai utilizzando una rom MIUI creata dal team Xiaomi.eu!
+Nessun aggiornamento sarà disponibile per te!"</string>
      <string name="not_open">Non adesso</string>
-     <string name="notif_cancel">Cancel</string>
-     <string name="notif_install">Install</string>
-     <string name="notif_new_summary">Tap to get details</string>
-     <string name="notif_new_title">New version available!</string>
+     <string name="notif_cancel">Annulla</string>
+     <string name="notif_install">Installa</string>
+     <string name="notif_new_summary">Premi per ottenere informazioni</string>
+     <string name="notif_new_title">Nuova versione disponibile!</string>
      <string name="notification_auto_reboot_seccess_title">Dispositivo aggiornato automaticamente</string>
      <string name="notification_delay_update_low_power">Sembra che la batteria fosse troppo scarica stanotte</string>
      <string name="notification_delay_update_no_update">Gli aggiornamenti non sono stati installati</string>
@@ -167,12 +167,12 @@ Updates are not available for you!"</string>
      <string name="open_now">Sì</string>
      <string name="particular_build">Speciale</string>
      <string name="pause">Pausa</string>
-     <string name="permdesc_cache_filesystem">Allows app to write files on /cache.</string>
-     <string name="permdesc_reboot">Allows app to reboot the device.</string>
-     <string name="permlab_cache_filesystem">Cache Access</string>
-     <string name="permlab_reboot">Reboot Access</string>
-     <string name="pick_not_found">No suitable File Manager was found.</string>
-     <string name="pick_title">Pick using:</string>
+     <string name="permdesc_cache_filesystem">"Consenti allapp di creare file nella directory /cache."</string>
+     <string name="permdesc_reboot">"Consenti all'app di riavviare il dispositivo."</string>
+     <string name="permlab_cache_filesystem">Accesso alla cache</string>
+     <string name="permlab_reboot">Accesso al riavvio</string>
+     <string name="pick_not_found">Nessun gestore file adatto è stato trovato.</string>
+     <string name="pick_title">Scegli utilizzando:</string>
      <string name="pm_root_acquired_button">Accesso root</string>
      <string name="pm_root_acquired_notification_title">Accesso root</string>
      <string name="pm_root_acquired_rooting">Accesso root %s</string>
@@ -196,7 +196,7 @@ Updates are not available for you!"</string>
      <string name="provision_toast_server_error">Impossibile collegarsi al server. Attendi un minuto o due e prova di nuovo.</string>
      <string name="provision_toast_timeout">Connessione scaduta. Verifica le tue impostazioni di rete.</string>
      <string name="reboot">Riavvia</string>
-     <string name="recovery_desc">Device will reboot to Recover mode now if you are not familiar with the mode cancel future actions. Continue?</string>
+     <string name="recovery_desc">Il dispositivo verrà riavviato in modalità recovery ora se non hai familiarità con questa modalità annulla le azioni future. Continuare?</string>
      <string name="recovery_failed_button">OK</string>
      <string name="recovery_failed_msg">"Il dispositivo non ha sufficiente memoria per entrare in modalità Recovery ed aggiornare il sistema. Prova ad utilizzare Mi PC Suite:
  http://zhushou.xiaomi.com"</string>
@@ -210,7 +210,7 @@ Updates are not available for you!"</string>
      <string name="root_acquired">Consenti accesso root</string>
      <string name="root_agree_check_box_title">Sono consapevole dei rischi dei permessi di root.</string>
      <string name="root_dangerous_msg">"L'abilitazione dei permessi root è estremamente pericolosa e potrebbe esporre il tuo dispositivo ed i dati in esso contenuti ad attacchi da parte di applicazioni dannose. Accetti di essere l'unico responsabile per eventuali danni al tuo dispositivo o perdite di dati derivanti dall'abilitazione dei permessi root."</string>
-     <string name="server_error">Server not responding, application might not work properly!</string>
+     <string name="server_error">"Il server non risponde, l'applicazione potrebbe non funzionare correttamente!"</string>
      <string name="set_auto">Imposta mod. autom.</string>
      <string name="set_auto_download_msg">La MIUI scaricherà automaticamente gli aggiornamenti quando il tuo dispositivo sarà connesso al Wi-Fi.</string>
      <string name="set_auto_download_title">Scaricare automaticamente?</string>
@@ -227,7 +227,7 @@ Updates are not available for you!"</string>
      <string name="set_network_title">Connessione alla rete</string>
      <string name="set_only_wifi">Cerca solo con Wi-Fi</string>
      <string name="share_sina">Posta tramite Sina weibo</string>
-     <string name="share_title">Share with</string>
+     <string name="share_title">Condividi con</string>
      <string name="share_update">Condividi informazioni di aggiornamento</string>
      <string name="share_update_content_sign">Ho aggiornato MIUI alla %1$s! La mia posizione utente adesso è %2$s. Per il changelog completo visita %3$s</string>
      <string name="share_update_content_unsign">Ho aggiornato MIUI alla %1$s! Per il changelog completo visita %2$s</string>
@@ -239,7 +239,7 @@ Updates are not available for you!"</string>
      <string name="sina_token_invalid_warning">"Account Weibo non valido: riesegui l'accesso"</string>
      <string name="space_not_enough_msg">Spazio insufficiente per scaricare questo aggiornamento.</string>
      <string name="space_not_enough_title">Spazio insufficiente</string>
-     <string name="stable">stable</string>
+     <string name="stable">stabile</string>
      <string name="stable_build">Stabile</string>
      <string name="submit_fail">Invio fallito</string>
      <string name="submit_progress">Invio</string>
@@ -284,7 +284,7 @@ Updates are not available for you!"</string>
      <string name="userdata_alert_title">Avciso uso dati</string>
      <string name="validate_pkg_failed_msg">"L'aggiornamento che hai scaricato non corrisponde con i nostri dati. Prova a scaricarlo di nuovo."</string>
      <string name="validate_pkg_failed_title">"Impossibile verificare l'aggiornamento"</string>
-     <string name="version">Currently installed:</string>
+     <string name="version">Attualmente installato:</string>
      <string name="vote_beta">Programma Feedback Beta</string>
      <string name="vote_error1">"Sembra che tu non sia un membro
  del Programma Feedback Beta"</string>
@@ -302,8 +302,8 @@ Updates are not available for you!"</string>
      <string name="vote_not_recommend">Non consigliare</string>
      <string name="vote_recommend">Consiglia questo aggiornamento</string>
      <string name="vote_submit">Invia</string>
-     <string name="weekly">weekly</string>
+     <string name="weekly">settimanale</string>
      <string name="weekly_build">Settimanale</string>
-     <string name="wifi_recommended">No WiFi connection to start download safely!</string>
-     <string name="worst_update">Il peggiore aggiornamento finora</string>
+     <string name="wifi_recommended">Nessuna connessione Wi-Fi per iniziare il download in modo sicuro!</string>
+     <string name="worst_update">Il peggiore aggiornamento fino ad ora</string>
 </resources>
