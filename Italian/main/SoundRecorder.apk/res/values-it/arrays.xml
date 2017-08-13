@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string-array name="hd_record_scenes_entries">
-        <item>Music</item>
-        <item>Voice</item>
-        <item>Interview</item>
+        <item>Musica</item>
+        <item>Voce</item>
+        <item>Intervista</item>
         <item>HD</item>
      </string-array>
      <string-array name="interview_record_scenes_entries">
@@ -32,9 +32,9 @@
         <item>La distanza massima del microfono è di 10 metri</item>
      </string-array>
      <string-array name="record_scenes_summaries_stereo">
-        <item>Record through 2 channels, listen to stereo sound in the earphones</item>
-        <item>Move the mic closer to the source of the sound for better quality</item>
-        <item>Place the phone between 2 people to record their conversation clearly</item>
-        <item>High dynamic range technology allows the microphone to capture more detailed sound</item>
+        <item>Registra su 2 canali, ascolta in stereo con le cuffie</item>
+        <item>Sposta il microfono più vicino alla fonte del suono per una migliore qualità</item>
+        <item>Posiziona il telefono tra due persone per registrare bene</item>
+        <item>La tecnologia High dynamic range consente al microfono di catturare maggiori dettagli sonori</item>
      </string-array>
 </resources>
