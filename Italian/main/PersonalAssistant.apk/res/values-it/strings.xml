@@ -67,8 +67,8 @@
      <string name="didi_trip_content">快捷的使用滴滴出行的打车服务</string>
      <string name="didi_trip_open">开启滴滴出行卡片</string>
      <string name="drive">Guida</string>
-     <string name="duokan_not_installed">"Quest'app non è installata sul tuo telefeono. Impossibile usare questa carta ora."</string>
-     <string name="duokan_open">Aggiungi carta Duokak</string>
+     <string name="duokan_not_installed">"Quest'app non è installata sul tuo telefono. Impossibile usare questa scheda ora."</string>
+     <string name="duokan_open">Aggiungi scheda Duokak</string>
      <string name="duokan_reading">Duokan</string>
      <string name="duokan_setting_brief">Mantieni lettura dalla punto in cui hai lasciato.</string>
      <string name="entrance">Entrata migliore</string>
@@ -119,7 +119,7 @@
      <string name="launch_enable">开启快速启动卡片</string>
      <string name="launch_function">自定义快捷功能</string>
      <string name="launch_label">快速启动</string>
-     <string name="launch_no_dapp_dialog_content">La responsività a doppia è stata eliminata per questa carta. Puoi sostituire questa carta con una differente.</string>
+     <string name="launch_no_dapp_dialog_content">La responsività a doppia app è stata eliminata per questa scheda. Puoi sostituire questa carta con una differente.</string>
      <string name="launch_no_dapp_dialog_reset">Impostazioni doppia app</string>
      <string name="launch_no_dapp_dialog_title">La doppia app è stata rimossa</string>
      <string name="launch_noapp_dialog_cancel">取消</string>
@@ -192,7 +192,7 @@
      <string name="req_no_sdata">Nessun risultato</string>
      <string name="retry">Riprova</string>
      <string name="scan">Scansione</string>
-     <string name="scan_card">Carta di attività commerciale</string>
+     <string name="scan_card">Scheda di attività commerciale</string>
      <string name="scan_code">QR code</string>
      <string name="scan_doc">Documento</string>
      <string name="scan_exercise">Studio</string>
@@ -221,7 +221,7 @@
      <string name="taxi">Taxi</string>
      <string name="taxi_open">开启打车卡片</string>
      <string name="taxi_setting_brief">"È necessario contattare un taxi in base al percorso progettato, chiamalo con un tasto."</string>
-     <string name="trans_card">Carta di trasporto</string>
+     <string name="trans_card">Scheda di trasporto</string>
      <string name="transit_subway">Bus o metro</string>
      <string name="trip_profession">专车</string>
      <string name="trip_quick">快车</string>
@@ -242,7 +242,7 @@
      <string name="widget_fav_setting_brief">Visualizza i tuoi dati preferiti.</string>
      <string name="wx_aa">Go Dutch</string>
      <string name="wx_collectioncode">Ricevi pagamento</string>
-     <string name="wx_name">La mia carta</string>
+     <string name="wx_name">La mia scheda</string>
      <string name="wx_parent">WeChat</string>
      <string name="wx_paycode">Pagamento</string>
      <string name="wx_scan">Scanner</string>
