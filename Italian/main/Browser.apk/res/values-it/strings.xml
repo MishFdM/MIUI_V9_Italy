@@ -244,7 +244,6 @@
      <string name="aqi_quality_index_moderate">Moderato</string>
      <string name="aqi_quality_index_pure">Eccellente</string>
      <string name="aqi_quality_index_unhealthy">Malsano</string>
-     <string name="at_miui_browser">\@小米浏览器</string>
      <string name="autoSwithcingSearchEngineTips">Passaggio al motore di ricerca più utilizzato</string>
      <string name="autofill_keyboard_accessory_content_description">Suggerimento disponibile</string>
      <string name="autofill_popup_content_description">Mostra popup riempimento automatico</string>
