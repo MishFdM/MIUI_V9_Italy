@@ -39,7 +39,7 @@ questa funzione verrà aggiunta automaticamente allo spazio Secondario."</string
      <string name="confirmCloseSpaceDes">Non potrai accedere allo Spazio Secondario dopo averlo eliminato. Tutti i dati verranno spostati o eliminati."</string>
      <string name="confirmDelete">Elimina</string>
      <string name="confirmSecondSpacePassword">Conferma la password dello spazio Secondario</string>
-     <string name="confirm_airspace_password">Confirm %s password </string>
+     <string name="confirm_airspace_password">Conferma password %s</string>
      <string name="confirm_main_space_password">Conferma la password dello spazio Primario</string>
      <string name="confirm_restore">Non mostrare</string>
      <string name="contactData">Contatti</string>
@@ -55,7 +55,7 @@ per essere in grado di vederli sempre"</string>
      <string name="create_space_loading">Creazione spazio Secondario…</string>
      <string name="create_work_space">Crea spazio di lavoro</string>
      <string name="creating_app_icon">Creazione icona…</string>
-     <string name="current_space">Current Space</string>
+     <string name="current_space">Spazio corrente</string>
      <string name="dataSafe">Utilizzando lo Spazio Secondario sarà come avere due dispositivi diversi.</string>
      <string name="declare_dialog_title">Informazioni su Clona applicazioni</string>
      <string name="deleteAll">Elimina tutto</string>
@@ -181,7 +181,7 @@ per accedervi dalla schermata di blocco"</string>
      <string name="scanner_second_space_fingerprint">Scansiona impronta per lo spazio Secondario</string>
      <string name="sdcardfs_dialog_message">进入分身前需要在开发者选项中关闭”模拟SD卡优化“</string>
      <string name="search_input_txt_na">"&lt;font color='#ff0000'&gt;%s&lt;/font&gt;"</string>
-     <string name="search_result_text">"Couldn't find any apps"</string>
+     <string name="search_result_text">Non è stato possibile trovare alcuna app</string>
      <string name="secondSpace">Spazio Secondario</string>
      <string name="second_owner_finger_print">Impronta digitale Spazio Secondario</string>
      <string name="second_space_finger_printf_desc">Aggiungi impronta utilizzata per accedere allo spazio Secondario</string>
@@ -225,7 +225,7 @@ per accedervi dalla schermata di blocco"</string>
 per accedere dalla schermata di blocco"</string>
      <string name="start_setting_guide_desc_title">Restano solo alcune cose da impostare</string>
      <string name="summary_switch_apps_settings">Selezionale app utilizzate nello Spazio Secondario</string>
-     <string name="support_desc">Security services provided by Graphite</string>
+     <string name="support_desc">Servizio di sicurezza offerto da Graphite</string>
      <string name="sure_to_use">Conferma</string>
      <string name="switchDataSummary">Sposta elementi tra i due spazi</string>
      <string name="switch_apps_settings">Impostazioni applicazioni</string>

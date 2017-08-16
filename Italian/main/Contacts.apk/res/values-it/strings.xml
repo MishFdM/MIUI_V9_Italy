@@ -88,7 +88,6 @@
      <string name="call_radio">Chiama radiotelefono</string>
      <string name="call_record_setting_miui">Impostazioni registrazione</string>
      <string name="call_settings">Impostazioni</string>
-     <string name="call_settings_primary_user_only">"Le impostazioni di chiamata possono essere modificate solo dall'utente primario."</string>
      <string name="call_sim1_description">SIM 1</string>
      <string name="call_sim1_menu_title">Chiama con SIM 1</string>
      <string name="call_sim2_description">SIM 2</string>
@@ -1196,7 +1195,6 @@ Tocca l'icona Unisci in basso per iniziare."</string>
      <string name="type_outgoing">Chiamata effettuata</string>
      <string name="type_voicemail">Segreteria</string>
      <string name="unable_get_device_id">Impossibile recuperare IMEI</string>
-     <string name="unfold_all">apri tutto</string>
      <string name="unknow_phone_number_call_failed">Impossibile chiamare il numero sconosciuto</string>
      <string name="unknow_phone_number_mms_failed">Impossibile inviare il messaggio ad un numero sconosciuto</string>
      <string name="unknown">Sconosciuto</string>

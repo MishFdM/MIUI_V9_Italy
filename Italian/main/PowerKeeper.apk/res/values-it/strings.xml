@@ -14,7 +14,7 @@
      <string name="alter_message_delete">Eliminare?</string>
      <string name="alter_message_switch_mode">Cambiare modalità?</string>
      <string name="alter_message_switch_mode_message">Quando cambi modalità, le impostazioni precedenti non saranno più applicate a questa app.</string>
-     <string name="app_invisible_title">AppInvisible</string>
+     <string name="app_invisible_title">App non visibile</string>
      <string name="app_list_title">Scegli applicazioni</string>
      <string name="app_name">Risparmio batteria</string>
      <string name="background">"L'app è in esecuzione in background"</string>
@@ -31,7 +31,7 @@
      <string name="config_suggest_description">"Identifica applicazioni e attività per mantenere attivi i processi importanti. Il sistema di risparmio batteria gestirà le app importanti in modo selettivo."</string>
      <string name="config_suggest_suffix_title">Risparmio batteria MIUI (consigliato)</string>
      <string name="config_suggest_title">Consigliate</string>
-     <string name="confirm">Confirm</string>
+     <string name="confirm">Conferma</string>
      <string name="disable_hide_mode">Disattiva Risparmio Batteria MIUI</string>
      <string name="disable_hide_mode_warning">La disattivazione di Risparmio Batteria MIUI potrebbe causare maggiori consumi</string>
      <string name="disabled">Disattivato</string>
@@ -50,7 +50,7 @@
      <string name="hide_system_app">Nascondi app di sistema</string>
      <string name="high">Alte prestazioni</string>
      <string name="hints_loading_text">Solo un attimo…</string>
-     <string name="important_warning">Warning</string>
+     <string name="important_warning">Attenzione</string>
      <string name="invalid_size_value">Impossibile determinare le dimensioni del pacchetto.</string>
      <string name="location_disable_description">"Le applicazioni in background possono utilizzare i servizi di localizzazione solo per un breve periodo di tempo, mentre l'uso continuo è limitato"</string>
      <string name="location_disable_title">Nega</string>
@@ -124,7 +124,7 @@
      <string name="power_config_location_title">Accesso alla posizione GPS</string>
      <string name="power_config_mode_title">Modalità di risparmio</string>
      <string name="power_config_phone_charging_title">In carica</string>
-     <string name="power_config_phone_idle_title">In sttesa</string>
+     <string name="power_config_phone_idle_title">In attesa</string>
      <string name="power_config_select_apps_empty">Tocca per scegliere le app</string>
      <string name="power_config_select_apps_title">App</string>
      <string name="power_config_title">Impostazioni</string>
@@ -183,5 +183,5 @@
      <string name="vip_feedback">Feedback VIP</string>
      <string name="vip_feedback_enable">Attiva Feedback automatico VIP</string>
      <string name="warm_configure">Configurazione controllo riscaldamento</string>
-     <string name="warm_performance_tip">In high load scenarios, the cell phone temperature is higher than the default mode</string>
+     <string name="warm_performance_tip">In scenari di alto carico, la temperatura del telefono sarà maggiore della modalità predefinita</string>
 </resources>

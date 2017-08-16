@@ -1202,11 +1202,11 @@
         <item>Evidenzia comandi di disegno test in verde</item>
      </string-array>
      <string-array name="silent_mode_duration_text">
-        <item>Always</item>
-        <item>30 minutes</item>
-        <item>1 hour</item>
-        <item>2 hours</item>
-        <item>8 hours</item>
+        <item>Sempre</item>
+        <item>30 minuti</item>
+        <item>1 ora</item>
+        <item>2 ore</item>
+        <item>8 ore</item>
      </string-array>
      <string-array name="standard_configuration_version_description_primary">
         <item>CPU</item>
