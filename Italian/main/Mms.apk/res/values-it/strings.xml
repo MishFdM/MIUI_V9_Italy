@@ -555,7 +555,7 @@
      <string name="sms_full_title">Memoria SMS piena</string>
      <string name="sms_rejected_body">SMS in entrata rifiutato per cause sconosciute.</string>
      <string name="sms_rejected_title">SMS rifiutato</string>
-     <string name="sms_report_dialog_content">Impossibile inviarevil rapporto, prova di nuovo.</string>
+     <string name="sms_report_dialog_content">Impossibile inviare il rapporto, prova di nuovo.</string>
      <string name="sms_report_dialog_retry">Prova di nuovo</string>
      <string name="sms_report_dialog_title">Prova di nuovo</string>
      <string name="sms_report_failed">Impossibile inviare segnalazione</string>
@@ -598,7 +598,7 @@
      <string name="timed_message_to">a</string>
      <string name="title_allow_network_access">Aggiorna automaticamente le informazioni</string>
      <string name="title_collapse_sp_messages">Raccogli i messaggi del provider</string>
-     <string name="title_hide_verification_code">Nascondi automaticamente le OTP sulla schemrata di blocco</string>
+     <string name="title_hide_verification_code">Nascondi automaticamente le OTP sulla schermata di blocco</string>
      <string name="title_show_blocked_messages">Mostra gli SMS bloccati</string>
      <string name="title_show_list_avatar">Mostra foto e info</string>
      <string name="title_show_photo_word">Assegna foto ai contatti</string>

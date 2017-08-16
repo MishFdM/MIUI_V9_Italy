@@ -26,7 +26,7 @@
      <string name="allow_settings_access_brightness_title">Consenti al lettore di modificare la modalità luminosità</string>
      <string name="allow_settings_access_ringtone_description">Il lettore necessita di questo permesso per impostare questo suono come suoneria.</string>
      <string name="allow_settings_access_ringtone_title">Consenti al lettore di impostare la suoneria</string>
-     <string name="allow_storage_access_description">Il lettore necessita di questo permesso per accedere ai file multimwediali su questo dispositivo.</string>
+     <string name="allow_storage_access_description">Il lettore necessita di questo permesso per accedere ai file multimediali su questo dispositivo.</string>
      <string name="allow_storage_access_title">Consenti al lettore di accedere ai file video e audio</string>
      <string name="app_name">Video</string>
      <string name="artists">Artisti</string>
@@ -130,11 +130,11 @@ Lunghezza: %s
      <string name="status_bar_notification_info_overflow">999+</string>
      <string name="subtitle">Sottotitoli</string>
      <string name="subtitle_color_text">Colore sottotitoli</string>
-     <string name="subtitle_font_tips">Dimensione testo sottititoli</string>
+     <string name="subtitle_font_tips">Dimensione testo sottotitoli</string>
      <string name="subtitles">Sottotitoli</string>
      <string name="synchronization">Sincronizzazione</string>
      <string name="toast_player_list_header">Playlist</string>
-     <string name="toast_player_list_none">"Nessun'altro contenuto"</string>
+     <string name="toast_player_list_none">"Nessun altro contenuto"</string>
      <string name="toast_screen_text_add">Aggiungi successo</string>
      <string name="toast_screen_text_default">Grandezza predefinita</string>
      <string name="toast_screen_text_full">Schermo intero</string>
@@ -143,7 +143,7 @@ Lunghezza: %s
      <string name="toast_screen_text_stream">Clicca il pulsante Flusso</string>
      <string name="toast_screen_text_vertical">Scala verticalmente</string>
      <string name="track_audio">Traccia audio</string>
-     <string name="track_text">Traccia sottotioli</string>
+     <string name="track_text">Traccia sottotitoli</string>
      <string name="track_unknown">Traccia sconosciuta</string>
      <string name="track_video">Traccia video</string>
      <string name="unknown_album">Album sconosciuto</string>

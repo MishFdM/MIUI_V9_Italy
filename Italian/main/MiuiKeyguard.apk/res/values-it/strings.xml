@@ -25,7 +25,7 @@
      <string name="input_password_after_boot_msg">Dovrai inserire la password dopo il riavvio del terminale.</string>
      <string name="input_password_after_boot_msg_can_not_switch_when_calling">Impossibile cambiare spazio durante una chiamata</string>
      <string name="input_password_after_boot_msg_must_enter_owner_space">Devi accedere allo spazio Primario dopo il riavvio del dispositivo</string>
-     <string name="input_password_handle_sdcard_fs">进入分身前需要在开发者选项中关闭“模拟SD卡优化”</string>
+     <string name="input_password_handle_sdcard_fs">"Prima di aggiungere l'avatar, devi disattivare l'ottimizzazione di simulazione SD nelle Opzioni Sviluppatore"</string>
      <string name="input_password_hint_text">Inserisci password</string>
      <string name="input_pattern_hint_text">Disegna la sequenza di sblocco</string>
      <string name="input_pin_code">Ins. PIN</string>
@@ -65,7 +65,7 @@
      <string name="keyguard_charging_info_tip_text5">La carica della batteria è più lunga quando si scaldano più del solito.</string>
      <string name="keyguard_charging_info_tip_text6">Disattiva lo schermo e riponi il dispositivo per raffreddarlo.</string>
      <string name="keyguard_left_bankcard">Mi Pay</string>
-     <string name="keyguard_left_buscard">Transport card</string>
+     <string name="keyguard_left_buscard">Scheda trasporto</string>
      <string name="keyguard_left_remotecentral">Mi Remote</string>
      <string name="keyguard_left_smarthome">Mi Home</string>
      <string name="keyguard_quick_charging_info_click_to_detail">Info carica rapida, tocca per leggere</string>

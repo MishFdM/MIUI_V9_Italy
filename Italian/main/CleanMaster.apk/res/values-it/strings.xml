@@ -33,7 +33,7 @@
      <string name="apk_status_install">Installata</string>
      <string name="apk_status_installed_old">Vecchia versione</string>
      <string name="apk_status_uninstalled">Non installata</string>
-     <string name="apk_title_alipay_plugin">支付宝插件</string>
+     <string name="apk_title_alipay_plugin">Plugin Alipay</string>
      <string name="app_description_content">"L'app Pulizia trova ed elimina i file inutili per liberare spazio. Assicurati di poter fare a meno di queste funzioni prima di eliminare l'app."</string>
      <string name="app_description_title">Informazioni</string>
      <string name="app_name">Cheetah Mobile CleanMaster SDK</string>
@@ -218,8 +218,8 @@
      <string name="hints_installed_app_fewer">Utilizzata raramente</string>
      <string name="hints_installed_app_near">Utilizzata di recente</string>
      <string name="hints_installed_app_never">Mai utilizzata</string>
-     <string name="hints_installed_apps_header_left">Installed apps: %d</string>
-     <string name="hints_large_file_header_left">Big files: %d</string>
+     <string name="hints_installed_apps_header_left">App installate: %d</string>
+     <string name="hints_large_file_header_left">Grandi file: %d</string>
      <string name="hints_latest_garbage_cleanup_date">Ultima pulizia: %d giorni fa</string>
      <string name="hints_latest_garbage_cleanup_never">Pulizia mai eseguita</string>
      <string name="hints_latest_garbage_cleanup_today">Ultima pulizia: Oggi</string>
@@ -244,7 +244,7 @@
      <string name="hints_scanfinish">Nessun file da rimuovere, prova con la Pulizia approfondita</string>
      <string name="hints_storage_clean_size">Liberati %s dalla memoria interna</string>
      <string name="hints_storage_free">Libero</string>
-     <string name="hints_storage_free_size">Total %1$s, %2$s availablei</string>
+     <string name="hints_storage_free_size">Totale %1$s, %2$s disponibile</string>
      <string name="hints_storage_news">Informazioni sulla sicurezza</string>
      <string name="hints_title_garbage">Spazzatura</string>
      <string name="hints_video_camera">Video registrati</string>
@@ -336,7 +336,7 @@
      <string name="login_immediately">Accedi</string>
      <string name="long_click_dialog_summary">Tieni premuto per aggiungere eccezioni.</string>
      <string name="long_click_dialog_title">Avviso</string>
-     <string name="low_memory_clean_dialog_msg">Clear at least 100MB files firs</string>
+     <string name="low_memory_clean_dialog_msg">Prima pulisci almeno 100MB di file</string>
      <string name="low_memory_clean_dialog_ok_button">OK</string>
      <string name="low_memory_clean_dialog_title">Spazio insufficiente in memoria</string>
      <string name="low_memory_warning_dialog_cancel_button">Annulla</string>
