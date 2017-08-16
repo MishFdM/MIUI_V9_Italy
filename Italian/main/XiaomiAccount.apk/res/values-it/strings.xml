@@ -31,8 +31,8 @@
      <string name="account_secure_info_pref_title">Info account</string>
      <string name="account_security">Sicurezza account</string>
      <string name="account_security_info_pref_title">Info sicurezza</string>
-     <string name="account_token_expired_msg">"Il codice di verifica è scaduto, ricomincia o disconnetti
- il tuo account ID: %s"</string>
+     <string name="account_token_expired_msg">Il codice di verifica è scaduto, ricomincia o disconnetti
+ il tuo account ID: %s</string>
      <string name="account_token_expired_title">Autenticazione fallita</string>
      <string name="account_user_avatar">Immagine profilo</string>
      <string name="account_user_avatar_from_album">Scegli immagine</string>
