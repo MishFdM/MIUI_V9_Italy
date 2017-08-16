@@ -51,7 +51,7 @@
      <string name="currency_character">RMB</string>
      <string name="custom_mark_category">Personalizza</string>
      <string name="data_error">Spiacenti, questi servizi non sono disponibili, riprovare più tardi</string>
-     <string name="data_error_show">Si è verificato un errore</string>
+     <string name="data_error_w">An error occurred</string>
      <string name="delete">Elimina</string>
      <string name="do_not_remind_me">Non ricordarmelo più</string>
      <string name="dont_enable">Non attivare</string>

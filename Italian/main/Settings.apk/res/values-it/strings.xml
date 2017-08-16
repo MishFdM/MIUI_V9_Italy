@@ -2237,6 +2237,7 @@ You can set a new screen lock for both your device and your work profile, but an
      <string name="lockscreen_glogin_checking_password">Verifica\u2026</string>
      <string name="lockscreen_glogin_password_hint">Password</string>
      <string name="lockscreen_glogin_submit_button">Accedi</string>
+     <string name="lockscreen_magazine">Wallpaper Carousel</string>
      <string name="lockscreen_magazine_title">Wallpaper Carousel</string>
      <string name="lockscreen_remote_input">If device is locked, prevent typing replies or other text in notifications</string>
      <string name="login_account_dialog_message">Sign in with your Mi Account and turn on sync with Mi Cloud.</string>
@@ -2256,6 +2257,7 @@ You can set a new screen lock for both your device and your work profile, but an
      <string name="man_add_application">Aggiungi applicazioni in avvio automatico</string>
      <string name="manage_device_admin">Amministratori dispositivo</string>
      <string name="manage_device_admin_summary">Visualizza o disattiva amministratori dispositivo</string>
+     <string name="manage_fakecell_settings">Protection from fake base stations</string>
      <string name="manage_fingerprint_text">Gestisci impronte</string>
      <string name="manage_mobile_plan_title">Piano dati cellulare</string>
      <string name="manage_notification_access_summary_zero">Le app non possono leggere le notifiche</string>
@@ -2959,6 +2961,7 @@ ed esegui il software."</string>
      <string name="privacy_factory_reset_dlg_title">Esegui un Backup dei tuoi dati</string>
      <string name="privacy_file">File</string>
      <string name="privacy_gallery">Foto</string>
+     <string name="privacy_header_text_less_than_half">Too little space for this app. Drag the separator further.</string>
      <string name="privacy_mms">Messaggi</string>
      <string name="privacy_mode_dialog_message">"Chiamate, note, immagini, messaggi e impostazioni del launcher saranno nascoste all'utente"</string>
      <string name="privacy_mode_dialog_title">Modalità ospite</string>
@@ -3944,6 +3947,8 @@ Questo è reso possibile da credenziali attendibili installate sul tuo dispositi
      <string name="status_bar_settings_style">Stile barra di stato</string>
      <string name="status_bar_settings_toggle_collapse_after_clicked">Chiudi dopo il tocco</string>
      <string name="status_bar_settings_toggle_position">Posizione comandi</string>
+     <string name="status_bar_settings_user_fold">Notifications folder</string>
+     <string name="status_bar_settings_user_fold_summary">All unimportant notifications will appear in a separate folder</string>
      <string name="status_bar_style_list">Singola pagina</string>
      <string name="status_bar_style_page">Doppia pagina</string>
      <string name="status_bt_address">Indirizzo Bluetooth</string>
@@ -4315,6 +4320,13 @@ L'approccio di Google alla sincronizzazione di dati per consentirti l'accesso ai
      <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg_delete">Dopo aver disattivato la password della Schermata di blocco, le impronte digitali registrate verranno eliminate. Non sarai in grado di sbloccare il dispositivo con la tua impronta digitale.</string>
      <string name="turn_off_security_lock">Disabilita il blocco</string>
      <string name="turn_on_keyguard_password">Attiva la password per la Schermata di blocco</string>
+     <string name="turn_on_keyguard_password_alert">"Remember your password. If you forget it, you won't be able to restore it."</string>
+     <string name="turn_on_keyguard_password_alert_choose">"Remember your password. If you forget it, you'll have to erase all data on your device to set a new one."</string>
+     <string name="turn_on_keyguard_password_alert_foget_cacel">Not now</string>
+     <string name="turn_on_keyguard_password_alert_foget_ok">Got it</string>
+     <string name="turn_on_keyguard_password_alert_foget_ok_time">Got it(%dsecond)</string>
+     <string name="turn_on_keyguard_password_alert_forget_content">"Remember your Lock screen password. If you forget it, you'll have to erase all data on your device, including photos and contacts, and then set a new one."</string>
+     <string name="turn_on_keyguard_password_alert_forget_title">"If you forget it, you won't be able to restore it."</string>
      <string name="turn_on_security_lock">Aggiungi password di sicurezza</string>
      <string name="turn_on_wifi_dialog_text">WLAN is turned off when Mobile HotSpot is active. To turn on WLAN, please turn off Mobile HotSpot.</string>
      <string name="turn_on_wifi_dialog_title">Turn on wifi</string>

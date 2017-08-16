@@ -230,6 +230,7 @@
      <string name="document_ocr_result_title">Fotodocumento</string>
      <string name="document_ocr_tip_msg">Lettura…</string>
      <string name="document_recognize_fail_tip">Impossibile leggere il documento</string>
+     <string name="document_recognize_null_tip">Document result is empty</string>
      <string name="document_rectify">Correggi</string>
      <string name="document_rectify_tip_msg">Correzione…</string>
      <string name="document_save_succeed_tip">Documento salvato su %1$s</string>

@@ -127,6 +127,7 @@ I dati non verranno cancellati."</string>
      <string name="my_worst_update">Peggior aggiornamento</string>
      <string name="new_version">Nuova versione trovata!</string>
      <string name="next">Avanti</string>
+     <string name="no_info">No info available.</string>
      <string name="no_log">Riepilogo non disponibile</string>
      <string name="no_network">Nessun accesso alla rete.</string>
      <string name="no_update">"Hai già installato l'ultimo aggiornamento!"</string>
@@ -163,6 +164,7 @@ Nessun aggiornamento sarà disponibile per te!"</string>
      <string name="notification_update_new_version">Aggiornamento disponibile</string>
      <string name="notification_update_now">Aggiorna adesso</string>
      <string name="notification_updating">Aggiornamento…</string>
+     <string name="notifications_switch">Show notifications</string>
      <string name="on_checking">Sto cercando…</string>
      <string name="open_now">Sì</string>
      <string name="particular_build">Speciale</string>

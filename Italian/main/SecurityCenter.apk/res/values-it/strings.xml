@@ -712,6 +712,7 @@ se se dimenticata"</string>
      <string name="give_lucky_money">红包大派送</string>
      <string name="go_to">Procedi</string>
      <string name="go_to_setting_fingerprint">Vai nelle impostazioni</string>
+     <string name="google_base_app_install_choice">\"%s\" requires Google Service Framework apps to work normally, download and install them?</string>
      <string name="group_have_hongbao">来自“%1$s”%2$d个红包</string>
      <string name="gs_anto_clean_memory_whitelist">Exceptions</string>
      <string name="gs_app_back_self_start">Battery saver</string>
@@ -1096,8 +1097,6 @@ dall'operatore"</string>
      <string name="notification_mask_title">Nascondi contenuto</string>
      <string name="notification_subtitle">Tocca per attivare</string>
      <string name="notification_summary_cmcc_app_check">Tocca per vedere i dettagli.</string>
-     <string name="notification_sysapp_cracked_text">The current version of MIUI has been modified</string>
-     <string name="notification_sysapp_cracked_title">Security risk is detected</string>
      <string name="notify_daily_data_usage_body">"Per limitare l'uso dei dati automaticamente imposta il tuo piano dati mensile."</string>
      <string name="notify_daily_limit_body">Tocca per impostare il limite dati.</string>
      <string name="notify_daily_limit_title">Usati %s oggi</string>
@@ -1591,6 +1590,8 @@ Questa attività riduce la durata della batteria."</string>
      <string name="sp_empty_title_sign_exception">"Tieni premuta un'app sulla pagina dei risultati per aggiungerla alle eccezioni"</string>
      <string name="sp_monitored_apps_count_zero">"Nessuna applicazione per il pagamento è protetta"</string>
      <string name="sp_monitored_apps_list_title">Impostazioni di monitoraggio</string>
+     <string name="sp_network_privacy_dialog_message">"Security app can't work properly because you've restricted the internet connection. Allow Security to connect to the internet?"</string>
+     <string name="sp_network_privacy_dialog_title">"Can't use security scan"</string>
      <string name="sp_scan_item_monitor">Monitoraggio pagamenti</string>
      <string name="sp_scan_item_url_antispam">Protezione da URL sospetti</string>
      <string name="sp_settings_check_item_summary_sign_exception">Gestisci le eccezioni alle firme</string>
@@ -1608,6 +1609,7 @@ Questa attività riduce la durata della batteria."</string>
      <string name="sp_toast_removed_from_sign_white_list">Rimossa dalle eccezioni. La prossima volta verrà scansionata.</string>
      <string name="special_number_group">Blocco numeri speciali</string>
      <string name="sponsored_sec_fb">Sponsorizzato</string>
+     <string name="ss_activity_main_support_text">Powered by %s</string>
      <string name="st_antispam_black_adress_add">Seleziona area</string>
      <string name="st_antispam_bw_adress_add">Seleziona località</string>
      <string name="st_antispam_bw_choose_modes">Seleziona modalità</string>
@@ -1717,6 +1719,7 @@ Questa attività riduce la durata della batteria."</string>
      <string name="start_downloading_app">Avvio download: %1$s</string>
      <string name="start_game">Start</string>
      <string name="start_tc_button">Calibra</string>
+     <string name="still_retain_btn">Keep</string>
      <string name="suggest_app_tolock">Suggerimenti</string>
      <string name="suggest_scan_again">Si consigli a di completare la sansione per una sicurezza totale.</string>
      <string name="summary_app_lock_disable">Blocca le applicazioni per proteggere la tua privacy</string>
@@ -1757,14 +1760,6 @@ Questa attività riduce la durata della batteria."</string>
      <string name="summary_xiaomi_roaming">0.01 yuan per MB per il traffico su rete internazionale.</string>
      <string name="support_game_booster_tips">Boost speed &amp; improve gaming experience</string>
      <string name="sys_app_prot_cracked_confirm">Ho capito</string>
-     <string name="sys_app_prot_cracked_login">Sign in with Mi Account</string>
-     <string name="sys_app_prot_cracked_text_login">"The current version of MIUI has been modified which puts your device's security at risk.
-
-Make sure you know where this device comes from, and contact authorized Xiaomi service center in your area to get help."</string>
-     <string name="sys_app_prot_cracked_text_unlogin">"The current version of MIUI has been modified which puts your device's security at risk. Sign in with your Mi Account to turn this warning off.
-
-If you haven't modified MIUI in any way, make sure you know where this device comes from and contact authorized Xiaomi service center in your area."</string>
-     <string name="sys_app_prot_cracked_title">Security risk</string>
      <string name="sys_cpu_title">CPU usage</string>
      <string name="sys_freememory_title">Available</string>
      <string name="sys_title_gamebooster_unit_gb">G</string>
@@ -2001,6 +1996,10 @@ I dati rimanenti includono dati che sono stati erogati il mese precedente."</str
      <string name="uninstall_app_dialog_msg">"Disinstallando verranno rimossi tutti i dati dell'applicazione."</string>
      <string name="uninstall_app_dialog_title">Disinstallare adesso?</string>
      <string name="uninstall_app_done">Disinstallazione ultimata</string>
+     <string name="uninstall_danagerous_btn">Uninstall</string>
+     <string name="uninstall_danagerous_desc">\"%s\" may damage your device</string>
+     <string name="uninstall_danagerous_msg">\"%s\" may damage your device, lower its performance, or cause reboots.</string>
+     <string name="uninstall_danagerous_title">Uninstall malicious app</string>
      <string name="unlike">No grazie</string>
      <string name="unlock_pattern">&lt;u&gt;Pattern&lt;/u&gt;</string>
      <string name="unlock_pattern_to_bind_fingerprint">Enter password to activate fingerprint</string>

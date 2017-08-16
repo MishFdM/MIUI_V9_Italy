@@ -31,8 +31,8 @@
      <string name="account_secure_info_pref_title">Info account</string>
      <string name="account_security">Sicurezza account</string>
      <string name="account_security_info_pref_title">Info sicurezza</string>
-     <string name="account_token_expired_msg">Il codice di verifica è scaduto, ricomincia o disconnetti
- il tuo account ID: %s</string>
+     <string name="account_token_expired_msg">"Il codice di verifica è scaduto, ricomincia o disconnetti
+ il tuo account ID: %s"</string>
      <string name="account_token_expired_title">Autenticazione fallita</string>
      <string name="account_user_avatar">Immagine profilo</string>
      <string name="account_user_avatar_from_album">Scegli immagine</string>
@@ -123,9 +123,12 @@
      <string name="find_device_io_error">Impossibile collegarsi alla rete</string>
      <string name="find_device_locked_account_email" formatted="false">%s,email associata:%s</string>
      <string name="find_device_locked_account_phone" formatted="false">%s,telefono associato:%s</string>
+     <string name="find_device_message">The current device is locked, message: %1$s, contact phone: %2$s.</string>
      <string name="find_device_null_credential_error">Impossibile recuperare le informazioni sul dispositivo, contatta il servizio clienti Xiaomi</string>
      <string name="find_device_operation_failed_error">Si è verificato un errore</string>
      <string name="find_device_operation_failed_error_unknown">Si è verificato un errore, riprova più tardi</string>
+     <string name="find_device_owner_phone">The current device is locked, contact phone: %1$s.</string>
+     <string name="find_device_prompt_message">The current device is locked, message: %1$s.</string>
      <string name="find_device_remote_exception">Errore RPC</string>
      <string name="find_device_request_error">Impossibile richiedere informazioni sullo stato, riprova più tardi</string>
      <string name="find_device_request_prepare_error">Impossibile recuperare lo stato, riprova più tardi</string>

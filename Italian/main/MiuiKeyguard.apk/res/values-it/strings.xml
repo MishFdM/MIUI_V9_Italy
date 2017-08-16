@@ -89,13 +89,14 @@
      <string name="open_camera_hint_text">Scorri a sinistra per aprire la Fotocamera</string>
      <string name="open_remote_center_hint_text">Scorri a destra per aprire il Telefono</string>
      <string name="phone_locked_foget_password">Password dimenticata?</string>
-     <string name="phone_locked_foget_password_content">"Puoi loggarti su i.mi.com usando il Mi Account a cui è associato questo dispositivo, e cancellare tutti i dati. Questo eliminerà tutti i dati personali salvati su questo dispositivo. Dopo questo, potrai riavviare il dispositivo e ripristinare i contatti, messaggi, foto, ed altri elementi da Mi Cloud. 
-
-Non sarai in grado di fare ciò fino a che non sarai loggato sul tuo Mi Account in questo dispositivo. Altrimenti, dovrai nuovamente flashare questo dispositivo."</string>
-     <string name="phone_locked_foget_password_footer">"Passaggi:
-Loggati su i.mi.com, vai su “Trova dispositivo”, selezionalo e premi su Pulisci dispositivo."</string>
-     <string name="phone_locked_foget_password_header">Cosa devo fare se dimentico la mia password?</string>
+     <string name="phone_locked_foget_password_mehod_back">Back</string>
+     <string name="phone_locked_foget_password_method">Forgot password?</string>
+     <string name="phone_locked_foget_password_method_content">&lt;Data&gt;You have to &amp;lt;font color=#a5220e&amp;gt;erase all data &amp;lt;/font&amp;gt; on your device, including photos and contacts, and then set a new Lock screen password.&lt;/Data&gt;</string>
+     <string name="phone_locked_foget_password_method_next">Next</string>
      <string name="phone_locked_foget_password_ok">Ho capito</string>
+     <string name="phone_locked_forget_password_suggesstion_one_content">&lt;Data&gt;Power off your device, press and hold the &amp;lt;font color=#a5220e&amp;gt;Power button &amp;lt;/font&amp;gt; and the &amp;lt;font color=#a5220e&amp;gt;Volume up button &amp;lt;/font&amp;gt;simultaneously until you see ml.&lt;/Data&gt;</string>
+     <string name="phone_locked_forget_password_suggesstion_two_content">&lt;Data&gt;Select &amp;lt;font color=#a5220e&amp;gt;\"Wipe &amp;amp;amp; Reset\"&amp;lt;/font&amp;gt; and wait until the device reboots.&lt;/Data&gt;</string>
+     <string name="phone_locked_forget_password_suggesstions_title">How to erase data?</string>
      <string name="phone_locked_string">Il telefono è bloccato</string>
      <string name="phone_locked_timeout_minutes_string">Riprova nuovamente fra %d minuti</string>
      <string name="phone_locked_timeout_seconds_string">Riprova nuovamente fra %d secondi</string>

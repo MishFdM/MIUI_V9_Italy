@@ -109,9 +109,6 @@
      <string name="cancel_running_download">Annulla</string>
      <string name="change_download_quality">Modifica qualità download</string>
      <string name="channel_list_fragment_title">Radio</string>
-     <string name="chinese_female">Artisti femminili (China)</string>
-     <string name="chinese_group">Band (China)</string>
-     <string name="chinese_male">Artisti maschili (China)</string>
      <string name="choose_download_quality">Seleziona la qualità dei download</string>
      <string name="choose_stream_quality">Seleziona la qualità dello streaming</string>
      <string name="click_modify">Tocca per modificare i testi</string>
@@ -124,8 +121,6 @@
      <string name="cloud_loading_message">Ricerca brani...</string>
      <string name="cloud_music">Musica cloud</string>
      <string name="cloud_settings">Impostazioni di sincronizzazione</string>
-     <string name="cloud_space_full">Spazio di archiviazione insufficiente</string>
-     <string name="cloud_space_full_message">Spazio insufficiente sul tuo Mi Cloud per aggiungere altri brani. Per aumentare spazio, aggiorna il tuo Mi Account.</string>
      <string name="cloud_state_cloud_space_full">Spazio Mi Cloud in esaurimento, backup in pausa</string>
      <string name="cloud_state_low_power">Metti incarica per riprendere il backup</string>
      <string name="cloud_state_network_data">Impossibile trovare rete Wi-Fi, backup in pausa</string>
@@ -208,7 +203,6 @@
      <string name="disable_auto_payment_success_message">"Rinnovo automatico disattivato. Dopo la scadenza, dovrai rinnovare l'abbonamento per poter scaricare i brani."</string>
      <string name="disallow_add_to_fm">Impossibile aggiungere brani alla radio FM</string>
      <string name="disallow_add_to_personal_radio">La radio personale funziona solo in lettura</string>
-     <string name="do_not_remind_again">Non mostrare più</string>
      <string name="doc_filter">Doc</string>
      <string name="done">Fatto</string>
      <string name="download">Download</string>
@@ -305,9 +299,6 @@
      <string name="enable_auto_payment_success">Rinnova automaticamente</string>
      <string name="enable_auto_payment_success_message">Rinnovo automatico attivato. Il prossimo pagamento scadrà il %s.</string>
      <string name="enabled">Attivato</string>
-     <string name="english_female">Artisti femminili (US/Europa)</string>
-     <string name="english_group">Bande (US/Europa)</string>
-     <string name="english_male">Artisti maschili (US/Europa)</string>
      <string name="enter_garbage_clean">Pulisci memoria interna.</string>
      <string name="eq_auto">Personalizza</string>
      <string name="eq_blues">Blues</string>
@@ -344,7 +335,6 @@
      <string name="favorites">Preferiti</string>
      <string name="favourite_music_left_half">Per aggiungere brani a questa playlist, tocca</string>
      <string name="favourite_music_right_half">"l'icona Preferito alla destra del titolo del brano"</string>
-     <string name="female_artist">Artisti femminili</string>
      <string name="file_not_found">File inesistente</string>
      <string name="filter_by_duration">Per durata</string>
      <string name="filter_by_duration_format">%2$dm %5$2ds</string>
@@ -403,7 +393,6 @@
      <string name="global_search_title_movie">lista canzoni da film</string>
      <string name="global_search_title_prenatal">Musica prenatale</string>
      <string name="global_search_title_radar">Riconoscimento musica</string>
-     <string name="group_artist">Band</string>
      <string name="handle_later">Non adesso</string>
      <string name="higher_quality_music">Audio di alta qualità</string>
      <string name="higher_quality_music_summary">Esegui download e streaming alla massima qualità</string>
@@ -430,9 +419,6 @@
      <string name="is_scanning">Scansione, attendere…</string>
      <string name="is_scanning_support_online">"Scansione, 
 attendere o selezionare Musica Online."</string>
-     <string name="japan_korea_female">Artisti femminili (Giappone/Corea)</string>
-     <string name="japan_korea_group">Bande (Giappone/Corea)</string>
-     <string name="japan_korea_male">Artisti maschili (Giappone/Corea)</string>
      <string name="keep_queued_download">Mantieni</string>
      <string name="ktv_playlist">Il mio KTV</string>
      <string name="latest_song">Riproduci cronologia (%d).</string>
@@ -464,7 +450,6 @@ attendere o selezionare Musica Online."</string>
      <string name="lyric_is_empty">Testo vuoto o non disponibile.</string>
      <string name="lyric_open_other_connect">Scarica testi utilizzando la connessione dati cellulare</string>
      <string name="lyric_setting">Impostazioni testi</string>
-     <string name="male_artist">Artisti maschili</string>
      <string name="manager_cloud_space">Gestisci spazio Mi Cloud</string>
      <string name="max_sleep_time">%d</string>
      <string name="media_filter">Media</string>
@@ -572,7 +557,6 @@ attendere o selezionare Musica Online."</string>
      <string name="no_song_downloaded">Impossibile connettersi al server</string>
      <string name="normal_quality">Normale</string>
      <string name="not_login">Accesso non effettuato</string>
-     <string name="not_now">Non adesso</string>
      <string name="not_selected">Scegli un brano</string>
      <string name="notif_text_engine_off">"L'Acceleratore Download Xunlei non è attivo"</string>
      <string name="notif_text_engine_on">Accelerazione…</string>
@@ -893,7 +877,6 @@ attendere o selezionare Musica Online."</string>
      <string name="upgrade">Aggiorna:</string>
      <string name="upgrade_force">"Abbiamo interrotto il nostro servizio di streaming a causa di problemi con i diritti d'autore. Aggiorna all'ultima versione per ascoltare musica di alta qualità."</string>
      <string name="upgrade_immediate">Aggiorna adesso</string>
-     <string name="upgrade_membership">Ottieni più spazio</string>
      <string name="upgrade_music">Aggiorna Musica</string>
      <string name="upgrade_music_message">Pacchetto pronto. Riavvia per aggiornare.</string>
      <string name="upgrade_nobeta">"Abbiamo interrotto il nostro servizio di streaming durante la risoluzione di problemi con i diritti d'autore. Ci scusiamo per l'inconveniente."</string>

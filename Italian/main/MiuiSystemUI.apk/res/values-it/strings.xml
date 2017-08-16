@@ -252,6 +252,7 @@ Se riattivi i dati, l'operatore potrebbe addebitarti un costo."</string>
      <string name="dlg_error_title">Operazione USB fallita</string>
      <string name="dlg_ok">OK</string>
      <string name="dock_forced_resizable">Questa applicazione potrebbe non funzionare in modalità schermo diviso.</string>
+     <string name="dock_keyguard_locked_failed_to_dock_text">KeyGuard not support multi window, exit multi window mode.</string>
      <string name="dock_non_resizeble_failed_to_dock_text">Questa applicazione non supporta la modalità schermo diviso.</string>
      <string name="drive_mode_tip">Modalità Auto - Guida con prudenza</string>
      <string name="enable_adb">Debug USB</string>

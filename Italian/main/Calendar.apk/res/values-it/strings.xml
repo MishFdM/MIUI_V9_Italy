@@ -47,8 +47,6 @@
      <string name="birthday_event_description_a_week_later">Tra una settimana</string>
      <string name="birthday_event_description_day_after_tomorrow">Dopodomani</string>
      <string name="birthday_event_description_day_before_yesterday">"L'altro ieri"</string>
-     <string name="birthday_event_description_days_ago">%1$d giorni da</string>
-     <string name="birthday_event_description_days_later">%1$d giorni a</string>
      <string name="birthday_event_description_default">%1$s %2$s %3$s %4$s</string>
      <string name="birthday_event_description_special">"%1$s %2$s %3$s %4$s %5$s"</string>
      <string name="birthday_event_description_today">Oggi</string>
@@ -151,7 +149,6 @@
      <string name="downloading_wallpaper">原图下载中</string>
      <string name="edit_date_calculate_days_backward_error_hint">Impossibile calcolare avanti</string>
      <string name="edit_date_calculate_days_empty_hint">Inserisci il numero dei giorni</string>
-     <string name="edit_date_calculate_days_error_hint">Inserisci giorni entro %1$d</string>
      <string name="edit_date_calculate_days_forward_error_hint">Impossibile calcolare indietro</string>
      <string name="edit_event_all_day_label">Tutto il giorno</string>
      <string name="edit_event_anniversary_name_empty_hint">Inserisci nome evento</string>
@@ -234,6 +231,8 @@
      <string name="gas_bill_event_title">燃气缴费：</string>
      <string name="global_action_text_card_manager">Un caledario più interessante</string>
      <string name="global_cricket_no_match">"Nessuna gara prevista per oggi, puoi vedere la sintesi delle gare passate o provare con un altra partita. Fantastico evento, valeva l'attesa!"</string>
+     <string name="global_football_final">FINAL</string>
+     <string name="global_football_no_match">No football matches are scheduled for today.</string>
      <string name="global_onthisday_com">OnThisDay.com</string>
      <string name="guide_card_hint_text">Tocca per aprire Mi Cloud</string>
      <string name="hint_attendees">Indirizzi email</string>

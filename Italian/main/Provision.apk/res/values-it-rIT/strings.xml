@@ -3,6 +3,7 @@
      <string name="agree">OK</string>
      <string name="agree_terms">Ho letto e accetto i Termini e le Condizioni</string>
      <string name="app_name">Introduzione</string>
+     <string name="application_permissions">Application Permissions</string>
      <string name="back">Indietro</string>
      <string name="cm_terms_content">Per migliorare i servizi forniti, il tuo gestore potrebbe caricare i tuoi dati personali e informazioni su questo dispositivo sui suoi server tramite rete Wi-Fi o connessione dati mobile. Queste informazioni verranno usati solo per scopi statistici al fine di migliorare la qualità dei servizi e fornire altri contenuti personalizzati. Queste informazioni non verranno utilizzate per identificarti e non verranno divulgate a terze parti"</string>
      <string name="cm_terms_title">Regolamento Operatore Rete Mobile</string>

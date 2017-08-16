@@ -88,6 +88,7 @@
      <string name="call_radio">Chiama radiotelefono</string>
      <string name="call_record_setting_miui">Impostazioni registrazione</string>
      <string name="call_settings">Impostazioni</string>
+     <string name="call_settings_primary_user_only">Call settings can only be changed by the primary user.</string>
      <string name="call_sim1_description">SIM 1</string>
      <string name="call_sim1_menu_title">Chiama con SIM 1</string>
      <string name="call_sim2_description">SIM 2</string>
@@ -1164,6 +1165,10 @@ Tocca l'icona Unisci in basso per iniziare."</string>
      <string name="strequentList">Preferiti</string>
      <string name="success_message_import_from_account">Contato importato</string>
      <string name="summary_kind_title">Sommario</string>
+     <string name="t9_search_empty_create_contact">New contact</string>
+     <string name="t9_search_empty_edit_contact">Add to contact</string>
+     <string name="t9_search_empty_send_sms">Send message</string>
+     <string name="t9_search_empty_video_call">Video call</string>
      <string name="t9_search_guide_pinyin_title1">Trova rapidamente i contatti inserendo alcune lettere</string>
      <string name="t9_search_guide_pinyin_title2">Inserisci 9 e 4 per cercare Xiaomi Hugo</string>
      <string name="t9_search_guide_zhuyin_title1">Trova rapidamente i contatti inserendo alcune lettere</string>
@@ -1195,6 +1200,7 @@ Tocca l'icona Unisci in basso per iniziare."</string>
      <string name="type_outgoing">Chiamata effettuata</string>
      <string name="type_voicemail">Segreteria</string>
      <string name="unable_get_device_id">Impossibile recuperare IMEI</string>
+     <string name="unfold_all">unfold all</string>
      <string name="unknow_phone_number_call_failed">Impossibile chiamare il numero sconosciuto</string>
      <string name="unknow_phone_number_mms_failed">Impossibile inviare il messaggio ad un numero sconosciuto</string>
      <string name="unknown">Sconosciuto</string>
