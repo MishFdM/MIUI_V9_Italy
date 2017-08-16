@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="Parse_error_dlg_text">"Errore durante l'analisi del pacchetto."</string>
-     <string name="abc_action_bar_home_description">Vai alla home page</string>
+     <string name="abc_action_bar_home_description">Vai alla home</string>
      <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
      <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
      <string name="abc_action_bar_up_description">Vai in alto</string>
@@ -119,7 +119,7 @@
      <string name="config_helpIntentNameKey" />
      <string name="config_helpPackageNameKey" />
      <string name="confirm_enable_oem_unlock_text">AVVISO. Le funzioni di protezione del dispositivo non funzionano su questo dispositivo se questa impostazione è attiva.</string>
-     <string name="confirm_enable_oem_unlock_title">Cosentire lo sblocco OEM?</string>
+     <string name="confirm_enable_oem_unlock_title">Consentire lo sblocco OEM?</string>
      <string name="connected_via_passpoint">Connesso tramite %1$s</string>
      <string name="connected_via_wfa">Collegato tramite assistente Wi-Fi</string>
      <string name="content_description_menu_button">Menu</string>
@@ -305,7 +305,7 @@ Tutti i dati utente precedenti verranno salvati."</string>
      <string name="out_of_space_dlg_text">Impossibile installare %1$s. Libera dello spazio e riprova.</string>
      <string name="out_of_space_dlg_title">Spazio esaurito</string>
      <string name="overlay_display_devices_title">Simula display secondari</string>
-     <string name="permdesc_togglePermissions">Allows the holder to launch the UI for toggling app permissions. Should never be needed for normal apps.</string>
+     <string name="permdesc_togglePermissions">Consente di lanciare la UI per gestire i permessi delle app. Non dovrebbe mai essere necessario per le app normali.</string>
      <string name="permission_request_title">Richiesta di autorizzazione</string>
      <string name="permission_review_title_template_install">"Scegli i dati a cui l'app %1$s può accedere"</string>
      <string name="permission_review_title_template_update">"L'app %1$s è stata aggiornata. Scegli a quali dati può accedere."</string>
@@ -313,7 +313,7 @@ Tutti i dati utente precedenti verranno salvati."</string>
      <string name="permission_summary_enforced_by_policy">Applicata in base alle norme</string>
      <string name="permission_title">Autorizzazioni %1$s</string>
      <string name="permission_warning_template">Consentire a %1$s di %2$s?</string>
-     <string name="permlab_togglePermissions">toggle permissions</string>
+     <string name="permlab_togglePermissions">Comandi permessi</string>
      <string name="picture_color_mode">Modalità colori immagini</string>
      <string name="picture_color_mode_desc">Use sRGB</string>
      <string name="pointer_location">Posizione puntatore</string>
@@ -460,7 +460,7 @@ Tutti i dati utente precedenti verranno salvati."</string>
      <string name="wifi_display_certification_summary">Mostra opzioni per la certificazione display wireless</string>
      <string name="wifi_fail_to_scan">Impossibile cercare reti</string>
      <string name="wifi_no_internet">Nessun accesso ad internet rilevato, non verrà riconnesso automaticamente.</string>
-     <string name="wifi_no_internet_no_reconnect">"No Internet Access Detected, won't automatically reconnect."</string>
+     <string name="wifi_no_internet_no_reconnect">"Nessuna accesso alla rete, non si verrà riconnesso automaticamente."</string>
      <string name="wifi_not_in_range">Fuori campo</string>
      <string name="wifi_remembered">Salvato</string>
      <string name="wifi_security_eap">802.1x EAP</string>

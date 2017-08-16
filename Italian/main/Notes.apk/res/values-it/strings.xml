@@ -18,9 +18,9 @@
     <string name="dlg_title_set_password">Imposta password</string>
     <string name="dlg_message_set_password">La password di protezione privacy funziona con le app, foto, e cartelle nascoste</string>
     <string name="dlg_title_use_privacy_password">Usa la password di protezione privacy</string>
-    <string name="dlg_message_use_privacy_password">Usa la passwod di protezione privacy. La password di protezione privacy funziona con le app, foto, e cartelle nascoste</string>
+    <string name="dlg_message_use_privacy_password">Usa la password di protezione privacy. La password di protezione privacy funziona con le app, foto, e cartelle nascoste</string>
     <string name="dlg_title_password_reset">Aggiorna la password</string>
-    <string name="dlg_message_password_reset">"La password per le note nascoste verrà sostituita dalla passowrd di protezione privacy, la quale funziona con le app, foto, e cartelle nascoste"</string>
+    <string name="dlg_message_password_reset">"La password per le note nascoste verrà sostituita dalla password di protezione privacy, la quale funziona con le app, foto, e cartelle nascoste"</string>
     <string name="dlg_btn_set_password">Imposta password</string>
     <string name="rename_folder_dialog_tile">Rinomina cartella</string>
     <string name="delete_folder_dialog_tile">Elimina cartella</string>
@@ -58,7 +58,7 @@
     <string name="pref_title_skip_confirm_for_quick_delete">Elimina rapidamente</string>
     <string name="pref_desc_skip_confirm_for_quick_delete">Non chiedere conferme quando si eliminano note con una gesture</string>
     <string name="pref_title_show_root_folder_in_homepage">Mostra le note veloci nella home</string>
-    <string name="alert_title_hidden_note">Ricevuto propmemoria per nota nascosta</string>
+    <string name="alert_title_hidden_note">Ricevuto promemoria per nota nascosta</string>
     <string name="hint_cannot_view_hidden_note_content">Impossibile vedere il contenuto delle note nascoste</string>
     <string name="alert_title_restore">Ripristina nota</string>
     <string name="alert_message_restore">Impossibile aprire questa nota. Ripristina per modificarne il contenuto.</string>
@@ -181,7 +181,7 @@
     <string name="toolbar_more_description">Altro</string>
     <string name="toolbar_undo_description">Annulla</string>
     <string name="toolbar_redo_description">Ripeti</string>
-    <string name="toolbar_gallery_description">Aggiungi immaginr</string>
+    <string name="toolbar_gallery_description">Aggiungi immagine</string>
     <string name="toolbar_check_description">Aggiungi checkbox</string>
     <string name="edit_header_home_description">Indietro</string>
     <string name="theme_white_description">Bianco</string>

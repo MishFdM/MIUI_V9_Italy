@@ -88,7 +88,7 @@
      <string name="call_radio">Chiama radiotelefono</string>
      <string name="call_record_setting_miui">Impostazioni registrazione</string>
      <string name="call_settings">Impostazioni</string>
-     <string name="call_settings_primary_user_only">Call settings can only be changed by the primary user.</string>
+     <string name="call_settings_primary_user_only">"Le impostazioni di chiamata possono essere modificate solo dall'utente primario."</string>
      <string name="call_sim1_description">SIM 1</string>
      <string name="call_sim1_menu_title">Chiama con SIM 1</string>
      <string name="call_sim2_description">SIM 2</string>
@@ -891,8 +891,8 @@ Per aggiungere un contatto alla lista dei Preferiti:
      <string name="photoPickerNotFoundText">Nessuna foto disponibile sul tablet.</string>
      <string name="photo_fragment">Foto</string>
      <string name="photo_load_failed">Impossibile caricare la foto</string>
-     <string name="pick_new_photo">Choose new photo from %s</string>
-     <string name="pick_photo">Choose photo from %s</string>
+     <string name="pick_new_photo">Scegli una nuova foto da %s</string>
+     <string name="pick_photo">Scegli una foto da %s</string>
      <string name="pickerNewContactHeader">Crea nuovo contatto</string>
      <string name="pickerNewContactText">Crea nuovo contatto</string>
      <string name="picker_all_list_empty">Nessun contatto</string>
@@ -928,7 +928,7 @@ Per aggiungere un contatto alla lista dei Preferiti:
      <string name="pref_title_account_import">Importa da account</string>
      <string name="pref_title_import_from_account">Importa da un Mi Account</string>
      <string name="preference_auto_ip_summary_disable">Disabilitato</string>
-     <string name="preference_auto_ip_summary_on">"Pref. intern. della tua nazione: %s"</string>
+     <string name="preference_auto_ip_summary_on">"Pref. internaz. della tua nazione: %s"</string>
      <string name="preference_auto_ip_title">Prefisso internaz. automatico</string>
      <string name="preference_contacts">Contatti</string>
      <string name="preference_contacts_display">Preferenze visualizzazione</string>
@@ -952,7 +952,7 @@ Per aggiungere un contatto alla lista dei Preferiti:
      <string name="preference_phone_more_title">Chiamate</string>
      <string name="preference_remove_duplicate">Unisci contatti duplicati</string>
      <string name="preference_show_yellowpage_tab_description">Se chiudi la scheda delle Pagine Gialle, la funzione Pagine Gialle non funzionerà correttamente</string>
-     <string name="preference_show_yellowpage_tab_title">Mostra lascheda delle PagineGialle</string>
+     <string name="preference_show_yellowpage_tab_title">Mostra la scheda delle PagineGialle</string>
      <string name="preference_simple_mode_description">"Mostra l'immagine e gli altri dati del contatto nell'elenco dei contatti"</string>
      <string name="preference_simple_mode_title">Vista dettagliata</string>
      <string name="preference_smart_group_company_summary">Raggruppa per azienda</string>
@@ -1171,7 +1171,7 @@ Tocca l'icona Unisci in basso per iniziare."</string>
      <string name="t9_search_guide_zhuyin_title2">Inserisci 5 e 6 per cercare Jeff Max</string>
      <string name="take_new_photo">Scatta nuova foto</string>
      <string name="take_photo">Scatta foto</string>
-     <string name="telecom_fraud_insurance">Telecom fraud insurance</string>
+     <string name="telecom_fraud_insurance">Assicurazione frodi telecomunicazioni</string>
      <string name="telecom_fraud_insurance_description">10,000 CNY insurance | Exclusive Xiaomi offer | 9.9 CNY per year</string>
      <string name="titleJoinContactDataWith">Unisci contatti</string>
      <string name="title_other_devices">Altri dispositivi disponibili</string>
@@ -1196,12 +1196,12 @@ Tocca l'icona Unisci in basso per iniziare."</string>
      <string name="type_outgoing">Chiamata effettuata</string>
      <string name="type_voicemail">Segreteria</string>
      <string name="unable_get_device_id">Impossibile recuperare IMEI</string>
-     <string name="unfold_all">unfold all</string>
+     <string name="unfold_all">apri tutto</string>
      <string name="unknow_phone_number_call_failed">Impossibile chiamare il numero sconosciuto</string>
      <string name="unknow_phone_number_mms_failed">Impossibile inviare il messaggio ad un numero sconosciuto</string>
      <string name="unknown">Sconosciuto</string>
      <string name="unknown_contact_name">Contatto sconosciuto</string>
-     <string name="unknown_details_new_contact">New contact</string>
+     <string name="unknown_details_new_contact">Nuovo contatto</string>
      <string name="update_sim_contact_photo_toast">Non è possibile impostare la foto per i contatti SIM</string>
      <string name="upgrade_in_progress">Elenco contatti in fase di aggiornamento.</string>
      <string name="upgrade_out_of_memory">"Contatti in fase di aggiornamento. 

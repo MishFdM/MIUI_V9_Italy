@@ -109,9 +109,9 @@
      <string name="cancel_running_download">Annulla</string>
      <string name="change_download_quality">Modifica qualità download</string>
      <string name="channel_list_fragment_title">Radio</string>
-     <string name="chinese_female">Female artists (China)</string>
-     <string name="chinese_group">Bands (China)</string>
-     <string name="chinese_male">Male artists (China)</string>
+     <string name="chinese_female">Artisti femminili (China)</string>
+     <string name="chinese_group">Band (China)</string>
+     <string name="chinese_male">Artisti maschili (China)</string>
      <string name="choose_download_quality">Seleziona la qualità dei download</string>
      <string name="choose_stream_quality">Seleziona la qualità dello streaming</string>
      <string name="click_modify">Tocca per modificare i testi</string>
@@ -175,7 +175,7 @@
      <string name="dialog_button_login">Accedi e sincronizza la tua musica</string>
      <string name="dialog_button_scan_tracks">Cerca musica su questo dispositivo</string>
      <string name="dialog_cannot_resume">Download interrotto. Non può essere ripreso.</string>
-     <string name="dialog_confirm_delete_checkbox_message">Delete local files as well</string>
+     <string name="dialog_confirm_delete_checkbox_message">Elimina anche i file locali</string>
      <string name="dialog_failed_body">Vuoi provare a scaricare il file più tardi o vuoi rimuoverlo dalla coda?</string>
      <string name="dialog_file_already_exists">Impossibile scaricare. Il file di destinazione esiste già.</string>
      <string name="dialog_file_missing_body">Il file scaricato non è stato trovato.</string>
@@ -344,7 +344,7 @@
      <string name="favorites">Preferiti</string>
      <string name="favourite_music_left_half">Per aggiungere brani a questa playlist, tocca</string>
      <string name="favourite_music_right_half">"l'icona Preferito alla destra del titolo del brano"</string>
-     <string name="female_artist">Female artists</string>
+     <string name="female_artist">Artisti femminili</string>
      <string name="file_not_found">File inesistente</string>
      <string name="filter_by_duration">Per durata</string>
      <string name="filter_by_duration_format">%2$dm %5$2ds</string>
@@ -403,7 +403,7 @@
      <string name="global_search_title_movie">lista canzoni da film</string>
      <string name="global_search_title_prenatal">Musica prenatale</string>
      <string name="global_search_title_radar">Riconoscimento musica</string>
-     <string name="group_artist">Bands</string>
+     <string name="group_artist">Band</string>
      <string name="handle_later">Non adesso</string>
      <string name="higher_quality_music">Audio di alta qualità</string>
      <string name="higher_quality_music_summary">Esegui download e streaming alla massima qualità</string>
@@ -464,7 +464,7 @@ attendere o selezionare Musica Online."</string>
      <string name="lyric_is_empty">Testo vuoto o non disponibile.</string>
      <string name="lyric_open_other_connect">Scarica testi utilizzando la connessione dati cellulare</string>
      <string name="lyric_setting">Impostazioni testi</string>
-     <string name="male_artist">Male artists</string>
+     <string name="male_artist">Artisti maschili</string>
      <string name="manager_cloud_space">Gestisci spazio Mi Cloud</string>
      <string name="max_sleep_time">%d</string>
      <string name="media_filter">Media</string>
@@ -475,7 +475,7 @@ attendere o selezionare Musica Online."</string>
      <string name="menu_title_pause_all">Tutto in pausa</string>
      <string name="menu_title_resume_all">Riprendi tutti</string>
      <string name="menu_title_settings">Impostazioni</string>
-     <string name="message_delete_playlist">Delete playlist %s?</string>
+     <string name="message_delete_playlist">Eliminare la playlist %s?</string>
      <string name="metered_alert">Avviso utilizzo dati</string>
      <string name="metered_alert_msg">Lo streaming tramite rete dati cellulare può aumentare il traffico dati.</string>
      <string name="metered_alert_msg_with_data">Rimangono %s di dati. Vuoi usare comunque i dati su rete mobile per ascoltare i brani?</string>
@@ -483,11 +483,11 @@ attendere o selezionare Musica Online."</string>
      <string name="metered_beyond_alert">Utilizzo dati superato</string>
      <string name="metered_disallow">Non adesso</string>
      <string name="metered_play_toast">Streaming tramite connessione dati cellulare</string>
-     <string name="metered_play_toast_with_beyond_data">Utilizzo dei dati mobili per lariproduzione i brani. Limite superato di %s</string>
+     <string name="metered_play_toast_with_beyond_data">Utilizzo dei dati mobili per la riproduzione i brani. Limite superato di %s</string>
      <string name="metered_play_toast_with_data">Utilizzo dei dati mobili per la riproduzione dei brani, %s rimanenti</string>
      <string name="metered_serious_alert">Dati rete mobile insufficienti</string>
      <string name="metered_serious_alert_msg_with_beyond_data">Hai già superato la soglia dei dati di rete mobile di %s. Utilizzare i dati di rete mobile per riprodurre i brani?</string>
-     <string name="metered_serious_alert_msg_with_data">Ti rimangono %s di dati su retemobile. Utilizzare i dati di rete mobile per riprodurre i brani?</string>
+     <string name="metered_serious_alert_msg_with_data">Ti rimangono %s di dati su rete mobile. Utilizzare i dati di rete mobile per riprodurre i brani?</string>
      <string name="metered_serious_allow">Riproduci comunque</string>
      <string name="milink_unavaliable_please_update">Mi Link non disponibile. È necessario aggiornare MIUI.</string>
      <string name="min_sleep_time">%d</string>
@@ -912,8 +912,8 @@ attendere o selezionare Musica Online."</string>
      <string name="vip_renew_title">Abbonamento scaduto</string>
      <string name="vip_required">Spiacenti, è richiesto lo status VIP</string>
      <string name="vip_required_with_song">"Effettua l'iscrizione a Premium per ascoltare “%s”."</string>
-     <string name="vip_tomorrow_auto_renew_message">Your Music subscription will be renewed automatically tomorrow evening. Make sure you have enough Mi Credits in your account to complete this payment.</string>
-     <string name="vip_tomorrow_renew_message">"You won't be able to stream high quality audio, but some songs will be available in regular quality."</string>
+     <string name="vip_tomorrow_auto_renew_message">Il tuo abbonamento a Musica verrà rinnovato automaticamente domani sera. Assicurati di avere sufficienti Mi Credit sul tuo account per completare il procedimento.</string>
+     <string name="vip_tomorrow_renew_message">Non potrai usufruire dello streaming audio in alta qualità, alcuni brani saranno disponibili in qualità normale.</string>
      <string name="warning_tip_cancel">Download</string>
      <string name="warning_tip_content">Non sei più connesso alla rete Wi-Fi. Utilizzando la rete dati cellulare per completare questo download potresti andare incontro a costi aggiuntivi se superi la soglia prevista dal tuo piano dati.</string>
      <string name="warning_tip_ok">Pausa</string>

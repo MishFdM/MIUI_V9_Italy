@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="mibi_app_name">Mi Credit</string>
-     <string name="mibi_applock_dialog_cancel">Not now</string>
+     <string name="mibi_applock_dialog_cancel">Non adesso</string>
      <string name="mibi_applock_dialog_content">Due to system upgrade, your current pattern lock has been expired. Please set a new pattern lock.</string>
      <string name="mibi_applock_dialog_ok">Set up</string>
      <string name="mibi_applock_dialog_title">Set a new Patten lock</string>
