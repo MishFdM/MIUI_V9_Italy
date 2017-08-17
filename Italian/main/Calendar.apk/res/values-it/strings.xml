@@ -61,7 +61,7 @@
      <string name="card_detail_dialog_negative">Iscriviti più tardi</string>
      <string name="card_detail_dialog_positive">Iscriviti adesso</string>
      <string name="card_detail_dialog_title">Sottoscrivere adesso?</string>
-     <string name="card_detail_hint">"Il contenuto verrà mostrato nella home ed aggioranto giornalmente dopo l'iscrizione"</string>
+     <string name="card_detail_hint">"Il contenuto verrà mostrato nella home ed aggiornato giornalmente dopo l'iscrizione"</string>
      <string name="card_detail_title">Dettagli</string>
      <string name="card_manager">Gestisci sottoscrizioni</string>
      <string name="card_manager_no_data">Ancora nessuna sottoscrizione</string>
@@ -181,10 +181,10 @@
      <string name="from_google_group_calendar">Calendario Google</string>
      <string name="gadget_no_events">Nessun evento</string>
      <string name="gadget_title">Calendario</string>
-     <string name="global_action_text_card_manager">Un caledario più interessante</string>
+     <string name="global_action_text_card_manager">Un calendario più interessante</string>
      <string name="global_cricket_no_match">"Nessuna gara prevista per oggi, puoi vedere la sintesi delle gare passate o provare con un altra partita. Fantastico evento, valeva l'attesa!"</string>
      <string name="global_football_final">FINAL</string>
-     <string name="global_football_no_match">No football matches are scheduled for today.</string>
+     <string name="global_football_no_match">Nessuna partita in programma per oggi.</string>
      <string name="global_onthisday_com">OnThisDay.com</string>
      <string name="guide_card_hint_text">Tocca per aprire Mi Cloud</string>
      <string name="hint_attendees">Indirizzi email</string>
@@ -444,7 +444,7 @@ Puoi anche aggiungere dei promemoria per non perdere niente di importante."</str
      <string name="xingxiu" />
      <string name="yearly">Annuale (%s)</string>
      <string name="yearly_plain">Annuale</string>
-	 <string name="jump_date_full">Jump to date</string>
-     <string name="setting_title_about">About</string>
-     <string name="setting_title_holiday_display">Show holidays</string>
+	 <string name="jump_date_full">Vai alla data</string>
+     <string name="setting_title_about">Informazioni</string>
+     <string name="setting_title_holiday_display">Mostra festività</string>
 </resources>

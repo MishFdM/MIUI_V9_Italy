@@ -88,7 +88,7 @@
      <string name="call_radio">Chiama radiotelefono</string>
      <string name="call_record_setting_miui">Impostazioni registrazione</string>
      <string name="call_settings">Impostazioni</string>
-     <string name="call_settings_primary_user_only">Call settings can only be changed by the primary user.</string>
+     <string name="call_settings_primary_user_only">"Le impostazioni di chiamata possono essere modificate solo dall'utente principale."</string>
      <string name="call_sim1_description">SIM 1</string>
      <string name="call_sim1_menu_title">Chiama con SIM 1</string>
      <string name="call_sim2_description">SIM 2</string>
@@ -400,7 +400,7 @@ Le schede contatti sono disattivate"</string>
      <string name="dialog_voicemail_airplane_mode_message">Per chiamare la segreteria, disattiva prima la modalità Aereo.</string>
      <string name="dialog_voicemail_not_ready_message">Per configurare la segreteria, vai in Menu > Impostazioni.</string>
      <string name="directory_search_label">Cartella</string>
-     <string name="disclaimer_text">"Le pagine gialle recuperano infomrazioni sul tuo saldo tramite invio di un SMS. Il tuo operatore potrebbe , so the numbers you get might not be accurate. If you see a mistake, you can report the inquiry SMS to help us improve this service. 
+     <string name="disclaimer_text">"Le pagine gialle recuperano informazioni sul tuo saldo tramite invio di un SMS. Il tuo operatore potrebbe , so the numbers you get might not be accurate. If you see a mistake, you can report the inquiry SMS to help us improve this service. 
 
 Per evitare richieste frequenti, noi aggiorneremo le informazioni del saldo una volta al giorno."</string>
      <string name="disclaimer_title">Avviso</string>
@@ -1165,9 +1165,9 @@ Tocca l'icona Unisci in basso per iniziare."</string>
      <string name="strequentList">Preferiti</string>
      <string name="success_message_import_from_account">Contato importato</string>
      <string name="summary_kind_title">Sommario</string>
-     <string name="t9_search_empty_create_contact">New contact</string>
-     <string name="t9_search_empty_edit_contact">Add to contact</string>
-     <string name="t9_search_empty_send_sms">Send message</string>
+     <string name="t9_search_empty_create_contact">Nuovo contatto</string>
+     <string name="t9_search_empty_edit_contact">Aggiungi ad un contatto</string>
+     <string name="t9_search_empty_send_sms">Invia messaggio</string>
      <string name="t9_search_empty_video_call">Video call</string>
      <string name="t9_search_guide_pinyin_title1">Trova rapidamente i contatti inserendo alcune lettere</string>
      <string name="t9_search_guide_pinyin_title2">Inserisci 9 e 4 per cercare Xiaomi Hugo</string>
@@ -1176,7 +1176,7 @@ Tocca l'icona Unisci in basso per iniziare."</string>
      <string name="take_new_photo">Scatta nuova foto</string>
      <string name="take_photo">Scatta foto</string>
      <string name="telecom_fraud_insurance">Assicurazione frodi telecomunicazioni</string>
-     <string name="telecom_fraud_insurance_description">10,000 CNY insurance | Exclusive Xiaomi offer | 9.9 CNY per year</string>
+     <string name="telecom_fraud_insurance_description">"Assicurazione 10,000 CNY | Esclusiva offerta Xiaomi | 9.9 CNY l'anno"</string>
      <string name="titleJoinContactDataWith">Unisci contatti</string>
      <string name="title_other_devices">Altri dispositivi disponibili</string>
      <string name="title_paired_devices">Dispositivi abbinati</string>
@@ -1200,7 +1200,7 @@ Tocca l'icona Unisci in basso per iniziare."</string>
      <string name="type_outgoing">Chiamata effettuata</string>
      <string name="type_voicemail">Segreteria</string>
      <string name="unable_get_device_id">Impossibile recuperare IMEI</string>
-     <string name="unfold_all">unfold all</string>
+     <string name="unfold_all">apri tutto</string>
      <string name="unknow_phone_number_call_failed">Impossibile chiamare il numero sconosciuto</string>
      <string name="unknow_phone_number_mms_failed">Impossibile inviare il messaggio ad un numero sconosciuto</string>
      <string name="unknown">Sconosciuto</string>
