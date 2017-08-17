@@ -444,4 +444,7 @@ Puoi anche aggiungere dei promemoria per non perdere niente di importante."</str
      <string name="xingxiu" />
      <string name="yearly">Annuale (%s)</string>
      <string name="yearly_plain">Annuale</string>
+	 <string name="jump_date_full">Jump to date</string>
+     <string name="setting_title_about">About</string>
+     <string name="setting_title_holiday_display">Show holidays</string>
 </resources>
