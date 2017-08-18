@@ -5,18 +5,18 @@
         <item>Bambina</item>
      </string-array>
      <string-array name="collage_month">
-        <item>Jan</item>
+        <item>Gen</item>
         <item>Feb</item>
         <item>Mar</item>
         <item>Apr</item>
-        <item>May</item>
-        <item>Jun</item>
-        <item>Jul</item>
-        <item>Aug</item>
-        <item>Sep</item>
-        <item>Oct</item>
+        <item>Mag</item>
+        <item>Giu</item>
+        <item>Lug</item>
+        <item>Ago</item>
+        <item>Set</item>
+        <item>Ott</item>
         <item>Nov</item>
-        <item>Dec</item>
+        <item>Dic</item>
      </string-array>
      <string-array name="owner_relation">
         <item>Padre</item>

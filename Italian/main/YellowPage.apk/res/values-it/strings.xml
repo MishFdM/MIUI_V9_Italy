@@ -150,7 +150,6 @@ Si prega di verificare il numero di spedizione."</string>
      <string name="express_no_address">Vuoto</string>
      <string name="express_no_order">Nessun ordine</string>
      <string name="express_no_order_info">"Nessuna informazione sull'ordine"</string>
-     <string name="express_open_locker">一键开柜</string>
      <string name="express_order_confirmation">Conferma ordine</string>
      <string name="express_order_failed">Fallito</string>
      <string name="express_order_ongoing">Ordine in corso…</string>
@@ -173,10 +172,8 @@ Si prega di verificare il numero di spedizione."</string>
      <string name="express_order_succeeded">Ordine riuscito</string>
      <string name="express_order_success_hint">Il vostro pacchetto sarà trasportato da %s.Il Servizio personalizzato vi contatterà in un secondo momento</string>
      <string name="express_phone">Telefono</string>
-     <string name="express_pickup_code">取件码: %s</string>
      <string name="express_preview_order">Anteprima</string>
      <string name="express_region_pick_title">Scegli regione</string>
-     <string name="express_schedule_delivery">预约取件</string>
      <string name="express_select_address">Indirizzo</string>
      <string name="express_select_addressee">A</string>
      <string name="express_select_city">Seleziona città</string>
@@ -193,7 +190,6 @@ Si prega di verificare il numero di spedizione."</string>
      <string name="express_setting_authorized_number_delete">Elimina</string>
      <string name="express_setting_authorized_number_description">"Informativa sulla privacy: Il tuo numero di telefono verrà utilizzato solo per controllare lo stato della consegna dell'ordine ed i relativi dettagli."</string>
      <string name="express_setting_authorized_number_empty">Non hai ancora verificato il tuo numero di telefono.</string>
-     <string name="express_setting_cainiaoguoguo">菜鸟裹裹</string>
      <string name="express_setting_code_invalid">Assicurati di aver immesso correttamente il codice.</string>
      <string name="express_setting_count_down_time">Riprova in %ds</string>
      <string name="express_setting_dialog_authority_description">Phone number verification is provided by Yellow pages. Yellow pages needs to connect to the network to work normally. Agree?</string>
@@ -222,7 +218,6 @@ Si prega di verificare il numero di spedizione."</string>
      <string name="express_shortcut_name">Ricerca o spedizione espressa</string>
      <string name="express_show_all_inquiry_history">Mostra la cronologia</string>
      <string name="express_submit_order">Accetta</string>
-     <string name="express_tail_number">尾号</string>
      <string name="express_track_order">Traccia</string>
      <string name="express_tracking_number">Numero spedizione</string>
      <string name="express_update_cainiao_description">Aggiornamento di Cainiao disponibile. Aggiornare ora?</string>

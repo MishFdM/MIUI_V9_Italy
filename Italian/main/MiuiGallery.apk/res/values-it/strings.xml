@@ -28,7 +28,7 @@
      <string name="add_to_secret_fail">"Inserimento nell'album nascosto fallito"</string>
      <string name="add_to_secret_failed_with_reason">"Impossibile aggiungere all'album nascosto. %1$s."</string>
      <string name="add_to_secret_failed_with_reason_and_count">"%2$s elementi non possono essere aggiunti all'album nascosto. %1$s."</string>
-     <string name="add_to_secret_successful">Added to hidden album</string>
+     <string name="add_to_secret_successful">"Aggiunto all'album nascosto"</string>
      <string name="add_to_share_album_not_delete">"Impossibile eliminare foto dall'album condiviso"</string>
      <string name="adding">Inserimento</string>
      <string name="adding_recipients">Aggiungo destinatari…</string>
@@ -81,7 +81,7 @@
      <string name="alert_secret_album_message">"Puoi sfogliare l'album Mi Cloud nell'album privato."</string>
      <string name="alert_secret_album_message_lower_case">" scorri in basso nell'Album per vedere gli album nascosti."</string>
      <string name="alert_secret_album_title">Album Privato</string>
-     <string name="all_faces">Tuute le foto con persone</string>
+     <string name="all_faces">Tutte le foto con persone</string>
      <string name="all_items_synced">"E' stato eseguito il backup di tutti gli album su Mi Cloud"</string>
      <string name="all_video_album_display_name">Tutti i video</string>
      <string name="already_create_baby_album">Album bambino già presente su Mi Cloud.</string>
@@ -132,7 +132,7 @@
      <string name="backup_cloud_space_low_title">Spazio Mi Cloud insufficiente</string>
      <string name="backup_cta_not_allow_btn_text">Consenti</string>
      <string name="backup_cta_not_allow_desc">Acconsento ai backup automatici</string>
-     <string name="backup_cta_not_allow_title">"Can't access network"</string>
+     <string name="backup_cta_not_allow_title">Impossibile accedere alla rete</string>
      <string name="backup_detail_page_empty">Nessuna foto o video in attesa di backup</string>
      <string name="backup_detail_page_title">Backup Mi Cloud</string>
      <string name="backup_device_space_low_btn_text">Cancella</string>
