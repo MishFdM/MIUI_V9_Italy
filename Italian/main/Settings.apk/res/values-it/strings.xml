@@ -1,16 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-     <string name="APN_NAME_CMMMS">CMMMS</string>
-     <string name="APN_NAME_CMNET">CMNET</string>
-     <string name="APN_NAME_CMWAP">CMWAP</string>
-     <string name="APN_NAME_CTLTE">ctlte</string>
-     <string name="APN_NAME_CTMMS">CTWAP</string>
-     <string name="APN_NAME_CTNET">CTNET</string>
-     <string name="APN_NAME_CTWAP">CTWAP</string>
-     <string name="APN_NAME_CUMMS">China Unicom MMS</string>
-     <string name="APN_NAME_CUNET">China Unicom NET</string>
-     <string name="APN_NAME_CUSUPL">China Unicom AGPS</string>
-     <string name="APN_NAME_CUWAP">China Unicom WAP</string>
      <string name="Accounts_settings_title">Account</string>
      <string name="abc_action_bar_home_description">Navigate home</string>
      <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
@@ -1773,39 +1762,6 @@ Quando attivi il backup automatico, il dispositivo e i dati delle applicazioni v
      <string name="heavy_weight_stop_description">Non è possibile interrompere in modo sicuro questa applicazione. Se la interrompi, potresti perdere parte del tuo lavoro attuale.</string>
      <string name="help_feedback_label">Aiuto e feedback</string>
      <string name="help_label">Guida</string>
-     <string name="help_uri_about" />
-     <string name="help_uri_accessibility" />
-     <string name="help_uri_apps" />
-     <string name="help_uri_beam" />
-     <string name="help_uri_dashboard" />
-     <string name="help_uri_default" />
-     <string name="help_uri_display" />
-     <string name="help_uri_interruptions" />
-     <string name="help_uri_notifications" />
-     <string name="help_uri_other_sounds" />
-     <string name="help_uri_printing" />
-     <string name="help_uri_storage" />
-     <string name="help_uri_wallpaper" />
-     <string name="help_url_accounts" />
-     <string name="help_url_backup_reset" />
-     <string name="help_url_battery" />
-     <string name="help_url_bluetooth" />
-     <string name="help_url_choose_lockscreen" />
-     <string name="help_url_data_saver" />
-     <string name="help_url_data_usage" />
-     <string name="help_url_dreams" />
-     <string name="help_url_fingerprint" />
-     <string name="help_url_location_access" />
-     <string name="help_url_more_networks" />
-     <string name="help_url_nfc_payment" />
-     <string name="help_url_remote_display" />
-     <string name="help_url_security" />
-     <string name="help_url_sound" />
-     <string name="help_url_tether" />
-     <string name="help_url_unrestricted_data_access" />
-     <string name="help_url_users" />
-     <string name="help_url_vpn" />
-     <string name="help_url_wifi" />
      <string name="hidden_ssid_label">SSID nascosto:</string>
      <string name="hide">Hide</string>
      <string name="hide_screen_button">Hide screen buttons</string>
@@ -2036,8 +1992,6 @@ Quando attivi il backup automatico, il dispositivo e i dati delle applicazioni v
      <string name="location_agps_def_location_mode">MSB</string>
      <string name="location_agps_def_network_mode">HOME</string>
      <string name="location_agps_def_reset_type">HOT</string>
-     <string name="location_agps_def_supl_host">221.176.0.55</string>
-     <string name="location_agps_def_supl_port">7275</string>
      <string name="location_agps_params_settings_title">Impostazioni A-GPS</string>
      <string name="location_agps_pref_apn_title">APN preferito</string>
      <string name="location_agps_pref_network_title">Rete preferita</string>
@@ -2828,7 +2782,6 @@ ed esegui il software."</string>
      <string name="phone_call_noise_suppression">Riduci il rumore durante le chiamate</string>
      <string name="phone_info_label">Info dispositivo</string>
      <string name="phone_language">Lingua</string>
-     <string name="phone_language_summary" />
      <string name="physical_device_title">%1$s - %2$s</string>
      <string name="physical_keyboard_title">Tastiera fisica</string>
      <string name="picture_color_mode">Modalità colore immagine</string>
@@ -3056,13 +3009,10 @@ ed esegui il software."</string>
      <string name="proxy_error_invalid_port">La porta specificata non è valida.</string>
      <string name="proxy_exclusionlist_hint">example.com,mycomp.test.com,localhost</string>
      <string name="proxy_exclusionlist_label">Ignora proxy per</string>
-     <string name="proxy_hostname_hint">proxy.example.com</string>
      <string name="proxy_hostname_label">Hostname proxy</string>
-     <string name="proxy_port_hint">8080</string>
      <string name="proxy_port_label">Porta proxy</string>
      <string name="proxy_settings_label">Impostazioni proxy</string>
      <string name="proxy_settings_title">Proxy</string>
-     <string name="proxy_url_hint">https://www.example.com/proxy.pac</string>
      <string name="proxy_url_title">"PAC URL: "</string>
      <string name="proxy_warning_limited_support">Il proxy HTTP viene utilizzato dal browser ma potrebbe non essere utilizzato da altre applicazioni.</string>
      <string name="query_hint_text">Impostazioni di ricerca</string>
@@ -3143,7 +3093,7 @@ ed esegui il software."</string>
      <string name="recommend_item_1">Custodie</string>
      <string name="recommend_item_2">Mi Band</string>
      <string name="recommend_item_3">Power bank</string>
-     <string name="recommend_item_4">CUffie</string>
+     <string name="recommend_item_4">Cuffie</string>
      <string name="recommend_item_title">Suggerimenti</string>
      <string name="recompute_size">Ricalcolo dimensioni…</string>
      <string name="regulatory_info_text" />
@@ -3681,11 +3631,8 @@ Come usare Mantieni su schermo:
      <string name="selinux_status_enforcing">Applicazione</string>
      <string name="selinux_status_permissive">Permissivo</string>
      <string name="service_background_processes">%1$s liberi</string>
-     <string name="service_client_name">%1$s</string>
      <string name="service_foreground_processes">%1$s usati</string>
      <string name="service_manage">Impostazioni</string>
-     <string name="service_manage_description">%1$s: attualmente in uso. Tocca Impostazioni per controllare.</string>
-     <string name="service_process_name">%1$s</string>
      <string name="service_restarting">In fase di riavvio</string>
      <string name="service_started_by_app">"Avviato dall'applicazione."</string>
      <string name="service_stop">Interrompi</string>
@@ -4051,7 +3998,6 @@ Questo ^1 è stato formattato per funzionare solo su questo dispositivo. Non fun
      <string name="storage_settings">Memoria</string>
      <string name="storage_settings_summary">"Smonta l'archivio USB, visualizza lo spazio di archiviazione disponibile"</string>
      <string name="storage_settings_title">Impostazioni di archiviazione</string>
-     <string name="storage_size_large">^1<small><small> ^2</small></small></string>
      <string name="storage_summary">%1$s of %2$s used</string>
      <string name="storage_summary_format">%1$s usati in %2$s</string>
      <string name="storage_title_usb">Connessione computer USB</string>
@@ -4130,7 +4076,6 @@ Considera l'utilizzo di un ^1 più veloce per prestazioni migliori."</string>
      <string name="suggestions_title">Suggestions (%1$d)</string>
      <string name="sum_carrier_select">Scegli un operatore di rete</string>
      <string name="summary_divider_text">", "</string>
-     <string name="summary_font_size">%1$s</string>
      <string name="summary_range_symbol_combination">%1$s - %2$s</string>
      <string name="summary_range_verbal_combination">%1$s di %2$s</string>
      <string name="supl_not_set">Non impostato</string>
@@ -4403,7 +4348,6 @@ Your saved fingerprints will also be removed from this profile and you won't be 
      <string name="unlock_set_unlock_mode_pin">PIN</string>
      <string name="unlock_set_unlock_none_summary">Nessuna protezione</string>
      <string name="unlock_set_unlock_none_title">Fai scorrere</string>
-     <string name="unlock_set_unlock_off_summary" />
      <string name="unlock_set_unlock_off_title">Nessuno</string>
      <string name="unlock_set_unlock_password_summary">Protezione alta</string>
      <string name="unlock_set_unlock_password_title">Password</string>
@@ -4555,7 +4499,6 @@ Qualsiasi utente può accettare le autorizzazioni delle applicazioni aggiornate 
      <string name="user_dict_settings_empty_text">"Non sono presenti parole nel dizionario utente.
 Aggiungi una parola toccando il tasto +."</string>
      <string name="user_dict_settings_more_languages">Altre lingue…</string>
-     <string name="user_dict_settings_summary" />
      <string name="user_dict_settings_title">Dizionario personale</string>
      <string name="user_enable_calling">Consenti chiamate</string>
      <string name="user_enable_calling_and_sms_confirm_message">La cronologia per chiamate ed SMS verrà condivisa con questo utente.</string>
@@ -4731,7 +4674,6 @@ Aggiungi una parola toccando il tasto +."</string>
      <string name="vpn_replace_always_on_vpn_message">"You're already connected to a VPN. If you connect to a different one, your existing VPN will be replaced."</string>
      <string name="vpn_replace_always_on_vpn_title">Replace existing VPN?</string>
      <string name="vpn_routes">Indirizzi di inoltro</string>
-     <string name="vpn_routes_hint">e.g. 10.0.0.0/8</string>
      <string name="vpn_safe">Sicurezza</string>
      <string name="vpn_save">Salva</string>
      <string name="vpn_save_login">Salva informazioni account</string>

@@ -15,8 +15,8 @@
      <string name="ac_firstUseApplock_title">Richiedi una password per accedere alle app.</string>
      <string name="ac_summaryOff">Disattivato, non serve una password per aprire le applicazioni</string>
      <string name="ac_summaryOn">Attivato, è necessaria una password per aprire le applicazioni</string>
-     <string name="access_control_failed_need_to_unlock_nofingerprint">Password is required to open apps</string>
-     <string name="access_control_fingerprint_not_identified_msg">"Couldn't read fingerprint."</string>
+     <string name="access_control_failed_need_to_unlock_nofingerprint">"E' richiesta la password per aprire l'app"</string>
+     <string name="access_control_fingerprint_not_identified_msg">Impossibile trovare impronta.</string>
      <string name="access_control_need_password">"%s blocco aggiunta con successo
 "</string>
      <string name="access_control_need_to_unlock_nofingerprint">Inserisci password di sblocco</string>
@@ -54,13 +54,13 @@
      <string name="adb_install_reject_notiy">"Non è stato permessa l'installazione di %s tramite USB"</string>
      <string name="adb_install_reject_notiy_desc">"Puoi consentire l'installazione tramite USB nelle Opzioni Sviluppatore"</string>
      <string name="adb_login_xiaomi_account">Accedi prima al tuo Mi Account</string>
-     <string name="add_done">Added successfully</string>
-     <string name="add_game">Add game</string>
-     <string name="add_game_notification_summary">Tocca peravviare e incrementare la velocità</string>
+     <string name="add_done">Aggiunto correttamente</string>
+     <string name="add_game">Gioco aggiunto</string>
+     <string name="add_game_notification_summary">Tocca per avviare e incrementare la velocità</string>
      <string name="add_miservice_dialog_content">"%s richiede l'aggiunta di \"MIUI services framework\" alla lista delle eccezioni. Potresti ricevere notifiche dalle app MIUI di sistema e da quelle di terze parti."</string>
      <string name="add_miservice_dialog_title">MIUI service framework</string>
      <string name="add_to_whitelist_button">Eccezioni dati roaming</string>
-     <string name="add_whitelist">Add to exceptions</string>
+     <string name="add_whitelist">Aggiungi alle eccezioni</string>
      <string name="address">Indirizzo</string>
      <string name="address_choose_hint">%1$s、%2$s e %3$d elementi</string>
      <string name="adjust_traffic_carrier_summary_more_onemonth_before">Aggiornato più di un mese fa</string>
@@ -71,15 +71,11 @@
      <string name="adjust_traffic_carrier_summary_yesterday">Aggiornato ieri alle %s</string>
      <string name="adjust_traffic_data">Imposta utilizzo dati</string>
      <string name="after_the_lock_screen">"L'app è bloccata con lo schermo, puoi modificare l'impostazione nelle impostazioni"</string>
-     <string name="alarm_headsup_bottom">小米手机抢红包就是快</string>
-     <string name="alarm_lock_screen_summary">一大波红包雨在路上...</string>
-     <string name="alarm_lockscreen_btn">开始抢红包</string>
-     <string name="alarm_setting_title">红包闹钟设置</string>
      <string name="all_address_choose_hint">Tutte le posizioni</string>
-     <string name="anim_gamebooster_text">Just a sec…</string>
-     <string name="anti_disturb_msg_detail">Turn off all notifications except for incoming calls</string>
+     <string name="anim_gamebooster_text">Solo un secondo…</string>
+     <string name="anti_disturb_msg_detail">Disattiva tutte le notifiche tranne quelle per le chiamate in entrata</string>
      <string name="anti_disturb_msg_title">DND</string>
-     <string name="antispam_mode_details">details of interception mode</string>
+     <string name="antispam_mode_details">Dettagli sulla modalità di filtro</string>
      <string name="antispam_notificaiton_type_show_all">Tutte le chiamate</string>
      <string name="antispam_notificaiton_type_show_except_blacklist">Solo chiamate non in blacklist</string>
      <string name="antispam_notificaiton_type_show_none">Mai</string>
@@ -88,7 +84,7 @@
      <string name="antivirus_choose_engine">Utilizza le definizioni da %s</string>
      <string name="antivirus_choose_engine_dialog_title">Scegli le definizioni</string>
      <string name="antivirus_choose_engine_settings">Impostazioni definizioni virus</string>
-     <string name="antivirus_choose_engine_title">Definitions</string>
+     <string name="antivirus_choose_engine_title">Definizioni</string>
      <string name="antivirus_longtime_no_update">Sembra che le definizioni dei virus siano vecchie. Aggiornamenti regolari aiutano ad ottenere scansioni migliori. Consentire a Sicurezza di collegarsi ad internet per aggiornare le definizioni dei virus?</string>
      <string name="antivirus_longtime_no_update1">Sembra che le definizioni dei virus siano vecchie. Aggiornamenti regolari aiutano ad ottenere scansioni migliori. Aggiorna le definizioni e prova di nuovo.</string>
      <string name="antivirus_monitor_btn_text_clean_risk">Elimina le app pericolose</string>
@@ -117,16 +113,16 @@
      <string name="apn_exception_title">Controlla impostazioni APN</string>
      <string name="app_check_no_issue">Non ci sono problemi sulla batteria. Bene!</string>
      <string name="app_detail">Dettagli</string>
-     <string name="app_error_tip_for_launcher">"Your device's hardware components or Android system version may cause compatibility issues and make some apps misbehave, freeze, or be force stopped. If you encounter such issues, share your feedback with the app developers."</string>
-     <string name="app_error_tip_for_store">"Your device's hardware components or Android system version may cause compatibility issues which may result in failing to install some apps. If you encounter such issues or some apps misbehave, freeze, or are being force stopped, ​wait until the app developers fix bugs and try installing the app again."</string>
+     <string name="app_error_tip_for_launcher">I componenti hardware del tuo dispositivo o la versione del sistema Android utilizzato potrebbero causare problemi di incompatibilità e causare il malfunzionamento, blocco o chiusura forzata di alcune app. Se riscontri problemi del genere, condividi il tuo feedback con gli sviluppatori.</string>
+     <string name="app_error_tip_for_store">"I componenti hardware del tuo dispositivo o la versione del sistema Android utilizzato potrebbero causare problemi di incompatibilità e causare il malfunzionamento, blocco o chiusura forzata di alcune app. Se riscontri problemi del genere, ​attendi la risoluzione da parte degli sviluppatori e poi installa di nuovo l'app"."</string>
      <string name="app_install_intercept">"Blocca l'installazione"</string>
      <string name="app_install_tips_go_to">Apri</string>
      <string name="app_install_tips_install_success">%1$s installazioni completate</string>
      <string name="app_maanger_app_uninstalled_toast">Questa app è stata disinstallata</string>
-     <string name="app_manager_app_ifno_version">App version</string>
-     <string name="app_manager_app_info_label">App info</string>
-     <string name="app_manager_app_info_name">App name</string>
-     <string name="app_manager_app_info_pkg">APK name</string>
+     <string name="app_manager_app_ifno_version">Versione app</string>
+     <string name="app_manager_app_info_label">Info app</string>
+     <string name="app_manager_app_info_name">Nome app</string>
+     <string name="app_manager_app_info_pkg">Nome APK</string>
      <string name="app_manager_app_lock">App lock</string>
      <string name="app_manager_app_power">"Utilizzo batteria: "</string>
      <string name="app_manager_app_storage">"Archiviazione: "</string>
@@ -139,8 +135,8 @@
      <string name="app_manager_clear_data_dlg_message">Tutti i dati app verranno eliminati definitivamente. Questo include tutti i file, le impostazioni, account, databases, etc.</string>
      <string name="app_manager_clear_data_dlg_title">Eliminare i dati app?</string>
      <string name="app_manager_clear_failed_dlg_message">Impossibile cancellare i dati app.</string>
-     <string name="app_manager_clear_failed_dlg_title">Cancelal dati</string>
-     <string name="app_manager_copy_pkg_to_clip">Copied to clipboard</string>
+     <string name="app_manager_clear_failed_dlg_title">Cancella dati</string>
+     <string name="app_manager_copy_pkg_to_clip">Copiato negli appunti</string>
      <string name="app_manager_default_close_summary">Nessuna impostazione predefinita.</string>
      <string name="app_manager_default_open">Aperto predefinito</string>
      <string name="app_manager_default_open_summary">Hai deciso di lanciare questa app in modo predefinito per attività specifiche.</string>
@@ -157,7 +153,7 @@
      <string name="app_manager_force_stop_dlg_text">"Se forzi la chiusura di un'app, potrebbe non funzionare."</string>
      <string name="app_manager_force_stop_dlg_title">Forzare la chiusura?</string>
      <string name="app_manager_have_not_consume">No</string>
-     <string name="app_manager_hide_system_server">Hide system services</string>
+     <string name="app_manager_hide_system_server">Nascondi i servizi di sistema</string>
      <string name="app_manager_instruction">Istruzione</string>
      <string name="app_manager_loading_data">Caricamento dati…</string>
      <string name="app_manager_manage_space">Gestisci spazio</string>
@@ -181,12 +177,12 @@
      <string name="app_manager_powerkeeper_no_bg">Limita le attività in background</string>
      <string name="app_manager_powerkeeper_no_restrict">Nessuna limitazione</string>
      <string name="app_manager_powerkeeper_restrict_bg">Limita le app in background</string>
-     <string name="app_manager_pref_ads">Recommendations</string>
+     <string name="app_manager_pref_ads">Suggerimenti</string>
      <string name="app_manager_rebide_wakepath">Limita</string>
      <string name="app_manager_reduce_wakepath_dialog">Minimizza avvio a catena</string>
      <string name="app_manager_reduce_wakepath_summary">"La limitazione dell'avvio automatico minimizzerrà l'avvio a catena. Limitare l'avvio automatico per %s?"</string>
      <string name="app_manager_reject_count_over">Bloccato 100000+ volte</string>
-     <string name="app_manager_show_all_apps">Show all apps</string>
+     <string name="app_manager_show_all_apps">Mostra tutte le app</string>
      <string name="app_manager_show_detail_infos">Mostra tutto</string>
      <string name="app_manager_sort">Ordinato per</string>
      <string name="app_manager_start_by">Avviato da %s</string>
@@ -214,21 +210,18 @@
      <string name="app_name_na">Data usage</string>
      <string name="app_name_securitycenter">Sicurezza</string>
      <string name="app_not_installed_toast">"L'applicazione non è installata sul tuo dispositivo."</string>
-     <string name="app_right">小米公司官方出品</string>
-     <string name="app_summary">"微信/QQ/米聊抢红包神器
-支持个人红包与群红包
-春节红包活动，不错过每一个红包"</string>
+     <string name="app_right">Produzione ufficiale Xiaomi</string>
      <string name="app_usage_never">Non utilizzati di recente</string>
      <string name="app_usage_recently">Utilizzati di recente</string>
      <string name="app_version">Versione</string>
      <string name="app_wifi">Wi-Fi</string>
-     <string name="application_item_already_permission">Allowed</string>
-     <string name="application_item_disable">Restricted</string>
+     <string name="application_item_already_permission">Autorizzata</string>
+     <string name="application_item_disable">Bloccata</string>
      <string name="applock_add_account">Aggiungi</string>
      <string name="applock_add_account_info">"Aggiungi Mi Account per poter ripristinare la tua password
 se se dimenticata"</string>
      <string name="applock_add_account_setting">Account e privacy</string>
-     <string name="applock_bind_account_title">Resetting your password</string>
+     <string name="applock_bind_account_title">Ripristino della password</string>
      <string name="applock_close_dialog_summary">Le app non saranno piùprotette e la tua password verrà elimintata dopo la disattivazione di App lock.</string>
      <string name="applock_close_dialog_title">Disattivare App lock?</string>
      <string name="applock_exit_account_info">"L'account verrà rimosso automaticamente quando esegui il logout"</string>
@@ -255,7 +248,7 @@ se se dimenticata"</string>
      <string name="auto_atsk_condition_battery_level_text_down">Quando la batteria raggiunge il %s</string>
      <string name="auto_atsk_condition_battery_level_text_up">Quando al batteria è carica al %s</string>
      <string name="auto_handle_title">Generale</string>
-     <string name="auto_import_games">Put all your games in one place</string>
+     <string name="auto_import_games">Metti tutti i giochi in un unico posto</string>
      <string name="auto_task_condition_choose_battery_level_down">Quando la batteria raggiunge un certo livello</string>
      <string name="auto_task_condition_choose_end_time">Orario di fine</string>
      <string name="auto_task_condition_choose_ontime">Orario</string>
@@ -355,10 +348,6 @@ se se dimenticata"</string>
      <string name="battery_status_unknown">Errore sconosciuto</string>
      <string name="battery_temperature_title">Temperatura</string>
      <string name="begin_date">Data di azzeramento utilizzo</string>
-     <string name="best_warning_dialog_button">我知道了</string>
-     <string name="best_warning_dialog_message">"温馨提示：使用小米红包助手后，会提升您抢红包的速度。但如果您手太快，姿势太迅猛，每次都率先抢到红包，&lt;font color='#e56255'&gt;有一定几率会被微信误认为使用了自动抢红包插件&lt;/font&gt;，影响您后面使用红包功能。所以，有时候，高抬贵手略控制节奏，抢红包风味更佳。红包虽好，可不要贪多哟～"</string>
-     <string name="best_warning_dialog_message1">"使用小米红包助手后，会提升您抢红包的速度。但如果您手太快，姿势太迅猛，每次都率先抢到红包，&lt;font color='#e56255'&gt;有一定几率会被微信误认为使用了自动抢红包插件&lt;/font&gt;，影响您后面使用红包功能。所以，有时候，高抬贵手略控制节奏，抢红包风味更佳。红包虽好，可不要贪多哟～～"</string>
-     <string name="best_warning_dialog_title">温馨提示</string>
      <string name="bind_xiaomi_account_cancel">Annulla</string>
      <string name="bind_xiaomi_account_confirm">Aggiungi</string>
      <string name="bind_xiaomi_account_dialog_summery">"Stai aggiungendo il Mi Account %s. Se dimentichi la password, potrai usare questo account per ripristinarla. L'account verrà rimosso automaticamente se uscirai."</string>
@@ -372,11 +361,11 @@ se se dimenticata"</string>
      <string name="blacklist_prefix_add_hint">Aggiungi alla blacklist tutti i numeri con prefisso</string>
      <string name="block_message_number">SMS: %d</string>
      <string name="block_phone_number">Chiamate: %d</string>
-     <string name="boost_done">Boosted successfully</string>
+     <string name="boost_done">Migliorato correttamente</string>
      <string name="booster_immediately">Velocizza</string>
-     <string name="booster_suc">Boosted successfully</string>
-     <string name="boostering">Boosting speed…</string>
-     <string name="boosting">Boosting speed…</string>
+     <string name="booster_suc">Migliorato correttamente</string>
+     <string name="boostering">Miglioramento velocità…</string>
+     <string name="boosting">Miglioramento velocità…</string>
      <string name="boot_reminder">Accendi il dispositivo ad orari programmati</string>
      <string name="boot_time">Accensione alle %1$s</string>
      <string name="boot_time_day">Accensione tra %1$d giorni, alle %2$s</string>
@@ -399,8 +388,6 @@ se se dimenticata"</string>
      <string name="btn_text_quick_save_power">Risolvi</string>
      <string name="btn_text_quick_scan">Scansiona</string>
      <string name="btn_text_stop">Ferma</string>
-     <string name="business_have_hongbao">来自%1$s的一个红包</string>
-     <string name="business_lucky_warning">企业红包</string>
      <string name="button_text_accept">Accetta</string>
      <string name="button_text_accept_timer">Accetta (%d)</string>
      <string name="button_text_delete">Elimina</string>
@@ -426,11 +413,11 @@ se se dimenticata"</string>
      <string name="call_contact_block">Blocca contatti</string>
      <string name="call_delete_hint">Eliminare tutte le chiamate bloccate ricevute dai numeri selezionati?</string>
      <string name="call_delete_title">Rimuovi chiamata</string>
-     <string name="call_prefix">Blacklist Prefissi</string>
+     <string name="call_prefix">Prefissi in blacklist</string>
      <string name="call_private">Chiamate private</string>
      <string name="call_stranger_block">Blocca sconosciuti</string>
      <string name="call_transfer_block">Inoltro di chiamata</string>
-     <string name="call_transfer_info">Block calls forwarded from unknown numbers</string>
+     <string name="call_transfer_info">Blocca le chiamate inoltrate da numeri sconosciuti</string>
      <string name="cancal_to_setting_fingerprint">Annulla</string>
      <string name="cancel">Annulla</string>
      <string name="cancel_button">Annulla</string>
@@ -463,11 +450,11 @@ se se dimenticata"</string>
      <string name="card_sms_report">Rapporto SMS</string>
      <string name="card_tc_failed">Impossibile calibrare</string>
      <string name="card_tc_failed_content">"Ragioni possibili:
- 1. Carriers respond slower at the beginning and at the end of a month. Try again in a couple of days.
- 2. A network request template is required when you calibrate for the first time. Connect to the network and try again.
- 3. Your carrier may not support sending text messages with the remaining data and phone balance. Contact your carrier to learn more.
- 4. There may be an error in the carrier data. Try carrier diagnostics to solve this.
- 5. Nothing seems to help? Tap \"Report via SMS\" to send your feedback to Xiaomi in a text message."</string>
+ 1. Gli operatori rispondono lentamente all'inizio e alla fine del mese. Prova di nuovo tra un apio di giorni.
+ 2. E' necessario un modello di richiesta di rete quando esegui la calibrazione per laprima volta. Connetti alal rete e prova di nuovo.
+ 3. Il tuo operatore potrebbe non supportare l'invio di messaggi di testo con i dati e il saldo rimanenti. Contatta il tuo operatore per maggiori informazioni.
+ 4. Potrebbe essersi verificato un errore nei dati dell'operatore. Prova ad eseguire una diagnostica per risolvere il problema.
+ 5. Niente ti è stato di aiuto? Tocca \"Segnala tramite SMS\" per inviare il tuo feedback a Xiaomi con un messaggio di testo."</string>
      <string name="celcius_symbol">°C</string>
      <string name="charging_text_battery_full_time">Ultima carica\u0020</string>
      <string name="charging_text_battery_nearly_full">Quasi carico</string>
@@ -480,14 +467,10 @@ se se dimenticata"</string>
      <string name="clear_immediately">Pulisci adesso</string>
      <string name="close">Chiudi</string>
      <string name="close_callwait">Disattiva</string>
-     <string name="close_lucky_money_dialog_ok">确认关闭</string>
-     <string name="close_lucky_money_dialog_summary">确定关闭红包助手？关闭后，将无法收到微信、QQ红包提醒，可能导致您错失红包哟。如您想关闭悬浮窗，可在下方进行设置。</string>
-     <string name="close_lucky_money_dialog_title">关闭红包助手</string>
      <string name="cmcc_app_check_dialog_message">"Riavvia il dispositivo per completare l'operazione."</string>
      <string name="cmcc_app_check_dialog_negative">Più tardi</string>
      <string name="cmcc_app_check_dialog_positive">Riavvia adesso</string>
      <string name="cmcc_app_check_dialog_title">Sistema riparato</string>
-     <string name="cmd_lucky_float">摇一摇</string>
      <string name="confirmSecondSpacePassword">Conferma password Spazio Secondario</string>
      <string name="confirm_bind_xiaomi_account_dialog_title">Aggiungendo Mi Account</string>
      <string name="confirm_fingerprint_msg">Posiziona il dito sul lettore di impronta</string>
@@ -502,24 +485,24 @@ se se dimenticata"</string>
      <string name="convenient_summary">"Non richiedere la password dopo che un'app è stata sbloccata"</string>
      <string name="correction_attention_dialog_message">Regolazione delle impostazioni. Attendi che il processo termini e riprova.</string>
      <string name="cpu_usage_android_system">Sistema Android</string>
-     <string name="cpu_usage_app_bg_restrict_default">Auto (recommended)</string>
+     <string name="cpu_usage_app_bg_restrict_default">Auto (consigliato)</string>
      <string name="cpu_usage_app_bg_restrict_default_short">Auto</string>
-     <string name="cpu_usage_app_bg_restrict_full">Restrict background activity</string>
-     <string name="cpu_usage_app_bg_restrict_no_limit">"Don't restrict"</string>
-     <string name="cpu_usage_app_bg_restrict_partly">After %s</string>
-     <string name="cpu_usage_app_bg_restrict_partly_short">After %s</string>
-     <string name="cpu_usage_app_bg_restrict_title">Background settings</string>
-     <string name="cpu_usage_app_tip_can_not_restrict_system_app">"Can't restrict system services"</string>
-     <string name="cpu_usage_app_uninstalled_toast">This app is uninstalled</string>
+     <string name="cpu_usage_app_bg_restrict_full">RLImita attività in background</string>
+     <string name="cpu_usage_app_bg_restrict_no_limit">Non limitare</string>
+     <string name="cpu_usage_app_bg_restrict_partly">Dopo %s</string>
+     <string name="cpu_usage_app_bg_restrict_partly_short">Dopo %s</string>
+     <string name="cpu_usage_app_bg_restrict_title">Impostazioni sfondo</string>
+     <string name="cpu_usage_app_tip_can_not_restrict_system_app">Impossibili limitare i servizi di sistema</string>
+     <string name="cpu_usage_app_uninstalled_toast">Questa app è stata disinstallata</string>
      <string name="cpu_usage_process_run_time_little_time">Meno di 1 minuto</string>
      <string name="cpu_usage_view_action_btn_text">Tocca per vedere</string>
-     <string name="create_shortcut">Create a Home screen shortcut for Game speed booster</string>
+     <string name="create_shortcut">Crea un collegamento in Home per Game Speed Booster</string>
      <string name="cta_dialog_msg">"Utilizzerai il centro di sicurezza MIUI. Per garantire il corretto funzionamento del database virus ed il suo aggiornamento sarà necessario l'utilizzo della rete dati. Continuare?"</string>
      <string name="cta_dialog_title">Termini e Condizioni</string>
-     <string name="cta_settings">Allow internet connection</string>
+     <string name="cta_settings">Consenti connessione internet</string>
      <string name="current_network_state_not_need_diagnose">La connessione internet è regolare.</string>
      <string name="customize_limit_pkg">%s (personalizzato)</string>
-     <string name="customizer_mode_user_define_name">My rules</string>
+     <string name="customizer_mode_user_define_name">Le mie regole</string>
      <string name="daily_limit_and_lock_screen">Limite dati e notifiche</string>
      <string name="daily_limit_network_available_body">Tocca per visualizzare le statistiche di utilizzo dei dati.</string>
      <string name="daily_limit_over_message">Hai superato il limite dati giornaliero</string>
@@ -557,32 +540,29 @@ se se dimenticata"</string>
      <string name="dialog_app_roaming_title">Roaming estero non è attivo per %1$s</string>
      <string name="dialog_msg_auto_start_declare">Alcune app di sicurezza potrebbero indicare erroneamente che MIUI sta impedendo alle app di avviarsi. Per verificare i permessi concessi alle singole app, vai in Impostazioni > Applicazioni</string>
      <string name="dialog_msg_stop_virus_scan">Interrompe la scansione antivirus prima che sia terminata</string>
-     <string name="dialog_remobe_luckymoney_cancle">使用单发版</string>
-     <string name="dialog_remobe_luckymoney_ok">前往开启</string>
-     <string name="dialog_remove_luckymoney">当前MIUI版本已支持系统级红包助手，是否卸载单发版，并前往安全中心开启更快更稳定的小米红包助手？</string>
      <string name="dialog_roaming_message">"Consenti a questa applicazione di utilizzare i dati roaming all'estero?"</string>
      <string name="dialog_roaming_title">Roaming estero</string>
-     <string name="dialog_text">Create a Home screen shortcut for Game speed booster</string>
-     <string name="dialog_title_attention">Attention</string>
+     <string name="dialog_text">Crea un collegamento in Home per Game Speed Booster</string>
+     <string name="dialog_title_attention">Attenzione</string>
      <string name="dialog_title_auto_start_declare">"Info sull'avvio automatico"</string>
      <string name="dialog_title_stop_virus_scan">Ferma scansione antivirus</string>
      <string name="disable_air_mode">Disabilita prima la modalità aereo</string>
      <string name="dlg_add_blacklist">Aggiungere numero alla blacklist?</string>
      <string name="dlg_add_blacklist_title">Aggiungi alla blacklist</string>
      <string name="dlg_add_keyword">Aggiungi parole chiave</string>
-     <string name="dlg_antispam_mode_delete_message">"You can't recover rules after they've been deleted."</string>
-     <string name="dlg_antispam_mode_delete_title">Delete rules?</string>
-     <string name="dlg_antispam_using_mode_delete_message">"Delete the rules you're currently using and switch back to blocklist's default rules?"</string>
-     <string name="dlg_antispam_using_mode_international_delete_message">"Delete the rules you're currently using and switch back to blocklist's default rules?"</string>
+     <string name="dlg_antispam_mode_delete_message">Non puoi ripristinare una regola che hai eliminato.</string>
+     <string name="dlg_antispam_mode_delete_title">Eliminare regole?</string>
+     <string name="dlg_antispam_using_mode_delete_message">Eliminare le regole che stai utilizzando e passare alle regole predefinite della lista blocchi?</string>
+     <string name="dlg_antispam_using_mode_international_delete_message">Eliminare le regole che stai utilizzando e passare alle regole predefinite della lista blocchi?</string>
      <string name="dlg_black_address_antispam_message">Aggiungere questo elemento alla blacklist?</string>
      <string name="dlg_black_antispam_hint">Blacklist</string>
      <string name="dlg_black_antispam_message">Aggiungere questo messaggio alla blacklist?</string>
-     <string name="dlg_clear_all_call">Clear blocked calls?</string>
-     <string name="dlg_clear_all_ok">Clear all</string>
-     <string name="dlg_clear_all_sms">Delete blocked messages?</string>
-     <string name="dlg_clear_current_call">Clear all blocked calls from this number?</string>
+     <string name="dlg_clear_all_call">Cancellare le chiamate bloccate?</string>
+     <string name="dlg_clear_all_ok">Cancella tutto</string>
+     <string name="dlg_clear_all_sms">Eliminar ei messaggi bloccati?</string>
+     <string name="dlg_clear_current_call">Cancellare le chiamate bloccate da questo numero?</string>
      <string name="dlg_clear_current_ok">Rimuovi</string>
-     <string name="dlg_clear_current_sms">Delete all blocked messages sent from this number?</string>
+     <string name="dlg_clear_current_sms">ELiminare tuttii messaggi bloccati da questo numero?</string>
      <string name="dlg_delete_keyword">Rimuovere parole chiave selezionate?</string>
      <string name="dlg_edit_keyword">Modifica parola chiave</string>
      <string name="dlg_import_blacklist">Importazione nella blacklist</string>
@@ -604,14 +584,14 @@ se se dimenticata"</string>
      <string name="dlg_white_address_antispam_message">Aggiungere questo elemento alle eccezioni?</string>
      <string name="dlg_white_antispam_hint">Eccezioni</string>
      <string name="dlg_white_antispam_message">Aggiungere questo messaggio alle eccezioni?</string>
-     <string name="dnd_mode_type">勿扰方式</string>
-     <string name="dnd_no_everything">不进行提醒</string>
-     <string name="dnd_no_sound">仅屏蔽声音</string>
+     <string name="dnd_mode_type">Modalità Anti Disturbo</string>
+     <string name="dnd_no_everything">Nessuna notifica</string>
+     <string name="dnd_no_sound">Silenzia soltanto</string>
      <string name="dns_exception_summary">"Controlla le impostazioni DNS del router"</string>
      <string name="dns_exception_title">Controlla impostazioni DNS</string>
      <string name="domestic_roaming_setting">Roaming nazionale</string>
-     <string name="dont_bore">"Don't let buttons and notifications distract you"</string>
-     <string name="dont_bore_text">Silence notifications and turn off buttons to remove distractions</string>
+     <string name="dont_bore">Non permettere chetasti e notifiche di distraggano</string>
+     <string name="dont_bore_text">Silenzia le notifiche e disattiva i tasti per evitare distrazioni</string>
      <string name="dont_bore_title">DND mode</string>
      <string name="download">Scaricate</string>
      <string name="downloading">Scaricamento</string>
@@ -627,7 +607,7 @@ se se dimenticata"</string>
      <string name="empty_title_permission_apps_list">Vuoto</string>
      <string name="empty_title_root_apps">Nessuna app con accesso root</string>
      <string name="enable_network">Abilita prima la rete</string>
-     <string name="enter">进入</string>
+     <string name="enter">OK</string>
      <string name="every_day">Tutti i giorni</string>
      <string name="examination_score_100">Sembra tutto a posto!</string>
      <string name="examination_score_60_0">Dovresti davvero ottimizzare il tuo dispositivo</string>
@@ -667,32 +647,29 @@ se se dimenticata"</string>
      <string name="firewall_restrict_android_dialog_content">Per essere sicuro che il dispositivo funzioni correttamente, alcune applicazioni di sistema Android rimarranno connesse ad internet. Queste app utilizzeranno la connessione dati.</string>
      <string name="firewall_restrict_android_dialog_title">Attenzione</string>
      <string name="firewall_restrict_data">Limita utilizzo dati rete mobile</string>
-     <string name="firewall_restrict_notify_title">"%s can't use network"</string>
+     <string name="firewall_restrict_notify_title">"%s non può utilizzare la rete"</string>
      <string name="firewall_restrict_wlan">Limita utilizzando la connessione Wi-Fi</string>
      <string name="firewall_rule_group_title_mobile">Mobili</string>
      <string name="firewall_rule_group_title_roaming">Roaming estero</string>
      <string name="firewall_rule_group_title_wifi">Wi-Fi</string>
      <string name="firewall_wifi_dialog_message">"L'app installata non potrà collegarsi a internet utilizzando la rete Wi-Fi quanto questa funzione è disattivata.​"</string>
      <string name="five_percent_total_pkg">%s (5%% di dati mensili)</string>
-     <string name="float_window">桌面悬浮窗</string>
-     <string name="float_window_summary">支持快速跳转至摇一摇与咻一咻页面</string>
-     <string name="float_window_tips">小米手机就是快！</string>
      <string name="foreground_traffic">Primo piano %s</string>
      <string name="forget_password_button_text"><u>Password dimenticata</u></string>
-     <string name="forget_password_button_text_normal">Forgot password</string>
+     <string name="forget_password_button_text_normal">Password dimenticata</string>
      <string name="forget_pattern"><u>Sequenza dimenticata?</u></string>
      <string name="free_time_traffic">Limite dati fuori soglia</string>
      <string name="free_time_traffic_hint">Inserisci limite dati fuori soglia</string>
      <string name="free_time_traffic_settings">Limite dati fuori soglia</string>
      <string name="free_time_traffic_title">Inserisci limite dati fuori soglia</string>
      <string name="free_traffic_settings">Impostazioni utilizzo dati fuori soglia</string>
-     <string name="function_close">Off</string>
+     <string name="function_close">Disattivato</string>
      <string name="fw_blocked">Blacklist</string>
      <string name="fw_blocked_count">"Bloccati "</string>
      <string name="fw_blocked_join">" e "</string>
-     <string name="game_booster">Game speed booster</string>
-     <string name="game_booster_intro">About Game speed booster</string>
-     <string name="game_booster_title">Boost</string>
+     <string name="game_booster">Game Speed Booster</string>
+     <string name="game_booster_intro">Informazioni su Game Speed Booster</string>
+     <string name="game_booster_title">Accelera</string>
      <string name="game_improve_text1">Clear background cache to free up memory for gaming</string>
      <string name="game_improve_text2">Clear background cache to free up memory for gaming and improve CPU performance</string>
      <string name="game_improve_title">Optimize performance</string>
@@ -706,8 +683,8 @@ se se dimenticata"</string>
      <string name="gateway_exception_summary">Controlla il tuo router e riprova.</string>
      <string name="gateway_exception_summary2">"Impossibile connettersi al server"</string>
      <string name="gateway_exception_title">Test router</string>
-     <string name="ge">个</string>
-     <string name="get_sys_info">Getting info…</string>
+     <string name="ge">Uno</string>
+     <string name="get_sys_info">Recupero informazioni…</string>
      <string name="gigabyteShort">GB</string>
      <string name="give_lucky_money">红包大派送</string>
      <string name="go_to">Procedi</string>
@@ -868,25 +845,6 @@ L'operatore potrebbe addebitarti costi aggiuntivi se continui ad utilizzare la c
      <string name="low_memory_warning_dialog_msg">Libera spazio sul tuo dispositivo per continuare</string>
      <string name="low_memory_warning_dialog_ok_button">Cancella</string>
      <string name="low_memory_warning_dialog_title">Spazio libero insufficiente</string>
-     <string name="lucky_activity">红包活动</string>
-     <string name="lucky_alarm">红包闹钟</string>
-     <string name="lucky_alarm_app">红包活动倒计时</string>
-     <string name="lucky_alarm_app_after">红包活动已经结束</string>
-     <string name="lucky_alarm_app_tail">倒计时</string>
-     <string name="lucky_alarm_count_down">0:00:00</string>
-     <string name="lucky_alarm_count_down_default">0:00:00</string>
-     <string name="lucky_alarm_item_date">27</string>
-     <string name="lucky_alarm_item_month">11月</string>
-     <string name="lucky_alarm_open_summary">开启后，在红包活动开始前1分钟将弹窗提醒，并可通过悬浮窗查看所有红包活动时间。</string>
-     <string name="lucky_alarm_open_title">红包闹钟</string>
-     <string name="lucky_alarm_sound_title">活动声音提醒</string>
-     <string name="lucky_assistant_description">"小米官方出品
-微信/QQ/米聊抢红包神器
-不支持提醒被屏蔽的群，以及开启电脑登录免打扰功能的软件"</string>
-     <string name="lucky_max_chat_title">发来红包最多的群是</string>
-     <string name="lucky_money_group_summary">个人发送的红包不需抢，建议您仅提醒群红包，以免提醒次数过多。</string>
-     <string name="lucky_sound_warn">红包声音提醒</string>
-     <string name="lucky_warning_count_title">发来红包最多的人是</string>
      <string name="main_activity_content_summary_root">Accesso root</string>
      <string name="main_activity_content_summary_update">Aggiornamento del sistema</string>
      <string name="main_alert_message_no_imsi">Nessuna SIM rilevata</string>
