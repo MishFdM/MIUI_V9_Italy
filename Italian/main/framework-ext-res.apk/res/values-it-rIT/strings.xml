@@ -128,7 +128,7 @@ Per attivare questa funzione, vai in Impostazioni > Sistema > Tasti"</string>
      <string name="softap_notifif_title">Hotspot \"%s\" attivo</string>
      <string name="standard">Selenzioso</string>
      <string name="standard_description">[Silent] Suonerie silenziose per chiamate e notifiche in arrivo</string>
-     <string name="standard_title">Silenzioso..</string>
+     <string name="standard_title">Silenzioso</string>
      <string name="start_security_permission_verify_text">Verifica i permessi Mi Account</string>
      <string name="status_bar_toggle_auto_brightness">Luminosità</string>
      <string name="status_bar_toggle_battery_saver">Risparmio</string>

@@ -1115,7 +1115,7 @@ Questa attività riduce la durata della batteria."</string>
      <string name="om_settings_lock_app">Blocca app</string>
      <string name="om_settings_lock_app_manage">Blocca app</string>
      <string name="om_settings_memocy_occupy_too_large_summary">Notifica quando la dimensione della cache è troppo grande</string>
-     <string name="om_settings_memory_clean_lock_screen">Csncella la cache quando lo schermo è disattivato</string>
+     <string name="om_settings_memory_clean_lock_screen">Cancella la cache quando lo schermo è disattivato</string>
      <string name="om_settings_memory_occupy_notify">Chace di grandi dimensioni</string>
      <string name="om_settings_memory_occupy_notify_never">Mai</string>
      <string name="om_settings_notify_manage">Notifiche</string>
