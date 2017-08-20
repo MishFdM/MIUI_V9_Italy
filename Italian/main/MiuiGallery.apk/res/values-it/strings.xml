@@ -1180,8 +1180,8 @@ Scatta più foto ai tuoi amici!"</string>
      <string name="share">Condividi</string>
      <string name="share_album">Condividi album</string>
      <string name="share_album_needs_auto_upload_tip">"L'album condiviso non può disattivare il backup automatico"</string>
-     <string name="share_app_is_launching">{0,selezione,0#Avvio applicazione…|1#%s in esecuzione…}</string>
-     <string name="share_by_email_start">Tentativo di condivisione in background per %1$s </string>
+     <string name="share_app_is_launching">{0,choice,0#Avvio applicazione…|1#%s in esecuzione…}</string>
+<string name="share_by_email_start">Tentativo di condivisione in background per %1$s </string>
      <string name="share_by_email_successfully">Condivisione %1$s tramite email completata</string>
      <string name="share_public_url_text">"Ho condiviso l'album %1$s. Esplora %2$s"</string>
      <string name="share_with_family">Condividi con la famiglia</string>
