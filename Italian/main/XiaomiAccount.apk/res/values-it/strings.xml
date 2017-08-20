@@ -31,8 +31,8 @@
      <string name="account_secure_info_pref_title">Info account</string>
      <string name="account_security">Sicurezza account</string>
      <string name="account_security_info_pref_title">Info sicurezza</string>
-     <string name="account_token_expired_msg">Il codice di verifica è scaduto, ricomincia o disconnetti
- il tuo account ID: %s</string>
+     <string name="account_token_expired_msg">"Il codice di verifica è scaduto, ricomincia o disconnetti
+ il tuo account ID: %s"</string>
      <string name="account_token_expired_title">Autenticazione fallita</string>
      <string name="account_user_avatar">Immagine profilo</string>
      <string name="account_user_avatar_from_album">Scegli immagine</string>
@@ -229,12 +229,15 @@ Per attivare il tuo account, segui il
      <string name="passport_error_invalid_phone_num">Numero di telefono non valido</string>
      <string name="passport_error_login">Impossibile accedere</string>
      <string name="passport_error_network">Impossibile connettersi alla rete</string>
+     <string name="passport_error_no_password_user">"You haven't set the password yet. Sign in with SMS."</string>
      <string name="passport_error_phone_error">Numero non valido</string>
      <string name="passport_error_server">Errore del server</string>
      <string name="passport_error_sim_not_ready">Impossibile trovare SIM</string>
      <string name="passport_error_ssl_hand_shake">"Errore nella connessione con il server. Controlla che l'orario di sistema sia corretto."</string>
      <string name="passport_error_unknown">Impossibile accedere</string>
      <string name="passport_error_user_name">Nome utente non valido</string>
+     <string name="passport_error_verify_activator_phone_message">Make sure your SIM card service is activated and the device is connected to the network.</string>
+     <string name="passport_error_verify_activator_phone_title">"Couldn't verify phone number"</string>
      <string name="passport_failed_to_send_activate_email">"Impossibile inviare l'email di attivazione"</string>
      <string name="passport_find_password_on_web_msg">Visita <b>account.mi.com</b> per reimpostare la password.</string>
      <string name="passport_forget_password"><u>Password dimenticata</u></string>

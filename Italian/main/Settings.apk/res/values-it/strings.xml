@@ -3633,6 +3633,7 @@ Come usare Mantieni su schermo:
      <string name="service_background_processes">%1$s liberi</string>
      <string name="service_foreground_processes">%1$s usati</string>
      <string name="service_manage">Impostazioni</string>
+     <string name="service_manage_description">%1$s: currently in use. Tap Settings to control it.</string>
      <string name="service_restarting">In fase di riavvio</string>
      <string name="service_started_by_app">"Avviato dall'applicazione."</string>
      <string name="service_stop">Interrompi</string>
