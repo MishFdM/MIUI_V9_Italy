@@ -30,7 +30,7 @@
      <string name="best_update">Il migliore aggiornamento finora</string>
      <string name="boot_recovery">Riavvia in Recovery</string>
      <string name="btn_changelog">Changelog</string>
-     <string name="btn_download">Download</string>
+     <string name="btn_download">Download (%1$s)</string>
      <string name="btn_install">Installa</string>
      <string name="btn_no">Annulla</string>
      <string name="btn_ok">OK</string>
