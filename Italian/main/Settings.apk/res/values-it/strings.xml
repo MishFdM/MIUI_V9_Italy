@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="Accounts_settings_title">Account</string>
-     <string name="abc_action_bar_home_description">Navigate home</string>
+     <string name="abc_action_bar_home_description">Naviga la home</string>
      <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
      <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
      <string name="abc_action_bar_up_description">Navigate up</string>
-     <string name="abc_action_menu_overflow_description">More options</string>
-     <string name="abc_action_mode_done">Done</string>
-     <string name="abc_activity_chooser_view_see_all">See all</string>
-     <string name="abc_activitychooserview_choose_application">Choose an app</string>
+     <string name="abc_action_menu_overflow_description">Altre opzioni</string>
+     <string name="abc_action_mode_done">Fatto</string>
+     <string name="abc_activity_chooser_view_see_all">Mostra tutto</string>
+     <string name="abc_activitychooserview_choose_application">"Scegli un'app"</string>
      <string name="abc_capital_off">OFF</string>
      <string name="abc_capital_on">ON</string>
-     <string name="abc_search_hint">Search…</string>
-     <string name="abc_searchview_description_clear">Clear query</string>
-     <string name="abc_searchview_description_query">Search query</string>
-     <string name="abc_searchview_description_search">Search</string>
-     <string name="abc_searchview_description_submit">Submit query</string>
-     <string name="abc_searchview_description_voice">Voice search</string>
-     <string name="abc_shareactionprovider_share_with">Share with</string>
-     <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
-     <string name="abc_toolbar_collapse_description">Collapse</string>
+     <string name="abc_search_hint">Cerca…</string>
+     <string name="abc_searchview_description_clear">Cancella termine</string>
+     <string name="abc_searchview_description_query">Cerca termine</string>
+     <string name="abc_searchview_description_search">Cerca</string>
+     <string name="abc_searchview_description_submit">Invia termine</string>
+     <string name="abc_searchview_description_voice">Ricerca vocaleh</string>
+     <string name="abc_shareactionprovider_share_with">Consividi con</string>
+     <string name="abc_shareactionprovider_share_with_application">Condividi con %s</string>
+     <string name="abc_toolbar_collapse_description">Chiudi</string>
      <string name="about_ad_service_instructions">Informazioni sui servizi di pubblicità e la privacy​</string>
      <string name="about_phone_enter_xiaomi_net">Altre informazioni</string>
      <string name="about_settings">Informazioni sul dispositivo</string>
@@ -43,8 +43,8 @@
      <string name="access_control_recording_intro_header">Disegna una sequenza di sblocco:</string>
      <string name="access_control_reset_by_account">Accedi col tuo Mi Account per reimpostare la password</string>
      <string name="access_point_names">Nome punto accesso</string>
-     <string name="accessibility_autoclick_delay_preference_title">Delay before click</string>
-     <string name="accessibility_autoclick_preference_title">Click after pointer stops moving</string>
+     <string name="accessibility_autoclick_delay_preference_title">Ritarda prima di eseguire</string>
+     <string name="accessibility_autoclick_preference_title">Tocca dopo che il puntatore ha smesso di muoversi</string>
      <string name="accessibility_captioning_title">Sottotitoli</string>
      <string name="accessibility_category_personal">Impostazioni profilo personale</string>
      <string name="accessibility_category_work">Account profili di lavoro - %s</string>
@@ -74,7 +74,7 @@ Se sul dispositivo sono configurati più utenti e utilizzi questa scorciatoia ne
      <string name="accessibility_personal_account_title">Account personale - %s</string>
      <string name="accessibility_power_button_ends_call_prerefence_title">Chiudi chiamata da ON/OFF</string>
      <string name="accessibility_screen_magnification_enable">"Gesti d'ingrandimento"</string>
-     <string name="accessibility_screen_magnification_short_summary">Tap 3 times to zoom</string>
+     <string name="accessibility_screen_magnification_short_summary">Tocca 3 volte per lo zoom</string>
      <string name="accessibility_screen_magnification_summary">"Quando questa funzione è attiva puoi aumentare e diminuire lo zoom toccando tre volte lo schermo.
 
 Dopo avere aumentato lo zoom puoi:
@@ -95,9 +95,9 @@ Nota: il tocco triplo per ingrandire funziona ovunque tranne che per la tastiera
      <string name="accessibility_sync_in_progress">Sincronizza ora</string>
      <string name="accessibility_system_title">Sistema</string>
      <string name="accessibility_toggle_high_text_contrast_preference_title">Testo ad alto contrasto</string>
-     <string name="accessibility_toggle_large_pointer_icon_title">Large mouse pointer</string>
-     <string name="accessibility_toggle_master_mono_summary">Combine channels when playing audio</string>
-     <string name="accessibility_toggle_master_mono_title">Mono audio</string>
+     <string name="accessibility_toggle_large_pointer_icon_title">Puntatore mouse largo</string>
+     <string name="accessibility_toggle_master_mono_summary">Unisci i canali durante la riproduzione audio</string>
+     <string name="accessibility_toggle_master_mono_title">Audio mono</string>
      <string name="accessibility_toggle_screen_magnification_auto_update_preference_summary">Aggiorna ingrandimento schermo per transizioni app</string>
      <string name="accessibility_toggle_screen_magnification_auto_update_preference_title">Aggiorn. autom. ingrandim. schermo</string>
      <string name="accessibility_toggle_speak_password_preference_title">Pronuncia le password</string>
@@ -117,11 +117,11 @@ Nota: il tocco triplo per ingrandire funziona ovunque tranne che per la tastiera
      <string name="account_settings_menu_auto_sync_work">Auto-sync dati lavoro</string>
      <string name="account_settings_title">Account</string>
      <string name="account_sync_settings_title">Sincronizzazione</string>
-     <string name="action_drag_label_move_bottom">Move to bottom</string>
+     <string name="action_drag_label_move_bottom">Sposta in basso</string>
      <string name="action_drag_label_move_down">Sposta in basso</string>
-     <string name="action_drag_label_move_top">Move to top</string>
+     <string name="action_drag_label_move_top">Sposta in alto</string>
      <string name="action_drag_label_move_up">Sposta in alto</string>
-     <string name="action_drag_label_remove">Remove language</string>
+     <string name="action_drag_label_remove">Rimuovi lingua</string>
      <string name="activating">Attivazione in corso\u2026</string>
      <string name="active_device_admin_msg">Amministratore dispositivo</string>
      <string name="active_input_method_subtypes">Metodi di immissione attivi</string>
@@ -152,7 +152,7 @@ Nota: il tocco triplo per ingrandire funziona ovunque tranne che per la tastiera
      <string name="add_fingerprint_toast_text">Appoggia il dito sul sensore adesso</string>
      <string name="add_new">add</string>
      <string name="add_rule">add rules</string>
-     <string name="add_virtual_keyboard">Manage keyboards</string>
+     <string name="add_virtual_keyboard">GEstione tastiere</string>
      <string name="adding_profile_owner_warning">"Proseguendo, l'utente sarà gestito dall'amministratore che può essere in grado di memorizzare i dati associati, oltre ai vostri dati personali.
 
 L'amministratore ha la capacità di monitorare e gestire le impostazioni, l'accesso, applicazioni e dati associati a questo utente, tra cui attività di rete e le informazioni sulla posizione del dispositivo "."</string>
@@ -5134,9 +5134,9 @@ La configurazione del dispositivo può richiedere notevole attività di rete."</
      <string name="wizard_back">Indietro</string>
      <string name="wizard_finish">Fine</string>
      <string name="wizard_next">Avanti</string>
-     <string name="wlan_to_cellular_hint_title">WLAN->Cellular hint</string>
-     <string name="work_mode_label">Work mode</string>
-     <string name="work_mode_summary">Allow work profile to function, including apps, background sync, and related features</string>
+     <string name="wlan_to_cellular_hint_title">Wi-Fi->Rete mobile suggerita</string>
+     <string name="work_mode_label">Modalità operativa</string>
+     <string name="work_mode_summary">"Consenti l'attività al profilo di lavoro, incluse le app, sincronizzazione in background e relative funzioni "</string>
      <string name="work_profile_confirm_remove_message">Tutte le app e i dati di questo profilo saranno eliminati.</string>
      <string name="work_profile_confirm_remove_title">Rimuovere profilo lavoro?</string>
      <string name="work_profile_usage_access_warning">"Disattivare l'accesso ai dati di utilizzo di quest'app non impedisce al tuo amministratore di tracciare i dati di utilizzo di questa applicazione nel tuo profilo lavorativo."</string>
@@ -5169,10 +5169,10 @@ La configurazione del dispositivo può richiedere notevole attività di rete."</
      <string name="xiaomi_router_notif_title">Notifica router Xiaomi</string>
      <string name="xspace">Clona applicazioni</string>
      <string name="yes">Sì</string>
-     <string name="zen_access_disabled_package_warning">Must stay turned on because notification access is on</string>
+     <string name="zen_access_disabled_package_warning">"Deve essere attivato per consentire l'accesso alle notifiche"</string>
      <string name="zen_access_empty_text">"Nessuna delle app installate ha richiesto l'accesso Non disturbare"</string>
-     <string name="zen_access_revoke_warning_dialog_summary">All Do Not Disturb rules created by this app will be removed.</string>
-     <string name="zen_access_revoke_warning_dialog_title">Revoke access to Do Not Disturb for %1$s?</string>
+     <string name="zen_access_revoke_warning_dialog_summary">Tutte le regole Anti Disturbo create per questa app verranno eliminate.</string>
+     <string name="zen_access_revoke_warning_dialog_title">"Revocare l'accesso all'Anti Disturbo per %1$s?"</string>
      <string name="zen_access_warning_dialog_summary">"L'app sarà in grado di attivare e disattivare la modalità Non disturbare e modificare le relative impostazioni."</string>
      <string name="zen_access_warning_dialog_title">"Vuoi consentire l'accesso alla modalità Non disturbare a %1$s?"</string>
      <string name="zen_event_rule_enabled_toast">Regola automatica impostata per attivare lo stato Non disturbare per determinati eventi</string>
@@ -5180,14 +5180,14 @@ La configurazione del dispositivo può richiedere notevole attività di rete."</
      <string name="zen_mode_add_rule">Aggiungi regola</string>
      <string name="zen_mode_alarm_use">Suoni</string>
      <string name="zen_mode_alarms">Sveglie</string>
-     <string name="zen_mode_all_callers">All callers</string>
-     <string name="zen_mode_all_messages">All messages</string>
-     <string name="zen_mode_all_visual_interruptions">Off</string>
+     <string name="zen_mode_all_callers">Tutti i chiamanti</string>
+     <string name="zen_mode_all_messages">Tutti i messaggi</string>
+     <string name="zen_mode_all_visual_interruptions">Disattiva</string>
      <string name="zen_mode_automation_settings_title">Regole automatiche</string>
-     <string name="zen_mode_automation_suggestion_summary">Silence your device at certain times</string>
-     <string name="zen_mode_automation_suggestion_title">Set Do Not Disturb schedule</string>
+     <string name="zen_mode_automation_suggestion_summary">Silenzia il telefono ad orari specifici</string>
+     <string name="zen_mode_automation_suggestion_title">Imposta il programma Anti Disturbo</string>
      <string name="zen_mode_calls">Chiamate</string>
-     <string name="zen_mode_choose_rule_type">Choose rule type</string>
+     <string name="zen_mode_choose_rule_type">Scegli il tipo di regola</string>
      <string name="zen_mode_configure_rule">Configura regola</string>
      <string name="zen_mode_delete_rule">Elimina regola</string>
      <string name="zen_mode_delete_rule_button">Elimina</string>
@@ -5213,7 +5213,7 @@ La configurazione del dispositivo può richiedere notevole attività di rete."</
      <string name="zen_mode_important_category">Priorità</string>
      <string name="zen_mode_messages">Messaggi</string>
      <string name="zen_mode_miui_silent_category">Consenti</string>
-     <string name="zen_mode_no_visual_interruptions">When screen is on or off</string>
+     <string name="zen_mode_no_visual_interruptions">Quando lo schermo è attivato o disattivato</string>
      <string name="zen_mode_option_alarms">Solo sveglie</string>
      <string name="zen_mode_option_important_interruptions">Solo con priorità</string>
      <string name="zen_mode_option_miui_silent">Modalità silenziosa</string>
@@ -5244,7 +5244,7 @@ La configurazione del dispositivo può richiedere notevole attività di rete."</
      <string name="zen_mode_screen_off_visual_interruptions">When screen is off</string>
      <string name="zen_mode_screen_on">Block when screen is on</string>
      <string name="zen_mode_screen_on_summary">Prevent notifications silenced by Do Not Disturb from peeking or popping on screen</string>
-     <string name="zen_mode_screen_on_visual_interruptions">When screen is on</string>
+     <string name="zen_mode_screen_on_visual_interruptions">Quando lo schermo è attivo</string>
      <string name="zen_mode_selected_callers">Seleziona chiamanti</string>
      <string name="zen_mode_selected_messages">Messaggi selezionati</string>
      <string name="zen_mode_settings_title">Non disturbare</string>
@@ -5253,7 +5253,7 @@ La configurazione del dispositivo può richiedere notevole attività di rete."</
      <string name="zen_mode_summary_alarms_only_indefinite">Modifica sveglie solo a tempo indeterminato</string>
      <string name="zen_mode_summary_always">Cambia per sempre o interrompi</string>
      <string name="zen_mode_summary_combination">%1$s: %2$s</string>
-     <string name="zen_mode_visual_interruptions_settings_title">Block visual disturbances</string>
+     <string name="zen_mode_visual_interruptions_settings_title">Blocca disturbo visivo</string>
      <string name="zen_mode_when">Attivazione automatica</string>
      <string name="zen_mode_when_every_night">Ogni notte</string>
      <string name="zen_mode_when_never">Mai</string>

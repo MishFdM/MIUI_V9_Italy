@@ -801,9 +801,9 @@ perr icevere promemoria sui pagamenti dei tuoi viaggi"</string>
      <string name="qq_login_open_imap">Premi su \"Help\" per abilitare IMAP/SMTP</string>
      <string name="qq_login_origin_setting">Immetti nome utente e password per loggarti ></string>
      <string name="qq_login_send_message">Premi su \"Invia SMS\" per ottenere un codice di verifica</string>
-     <string name="qq_login_webview">Loggti sulla webmail QQ Mail. Immetti la password.</string>
+     <string name="qq_login_webview">Accedi alla webmail QQ Mail. Immetti la password.</string>
      <string name="qq_next_generation_auth_toast">Abilita la protezione con password sul tuo browser</string>
-     <string name="qq_uthentication_failed">Impossibile verificare, loggati di nuovo</string>
+     <string name="qq_uthentication_failed">Impossibile verificare, accedi di nuovo</string>
      <string name="qq_webview_loading">Solo un attimo…</string>
      <string name="questionnair_body_invisibility">Messaggi non visualizzati</string>
      <string name="questionnair_confirm_delete">Rimuovi</string>

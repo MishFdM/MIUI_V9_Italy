@@ -43,7 +43,7 @@ Immetti il numero di telefono associato alla tua nuova SIM card per riattivare %
      <string name="activate_popup_desc_all_gateway_failed_send_sms">"Impossibile inviare messaggio di attivazione. Assicurati che la tua SIM card sia attiva.
 Immetti il numero di telefono associato alla tua nuova SIM card per riattivare %s"</string>
      <string name="activate_popup_desc_error_device_id">"Componi *#06# per verificare l'IMEI"</string>
-     <string name="activate_popup_desc_failed_phone_error">Il numero di telefono onserito non è valido.</string>
+     <string name="activate_popup_desc_failed_phone_error">Il numero di telefono inserito non è valido.</string>
      <string name="activate_popup_desc_failed_query_info">"Impossibile trovare il numero di telefono. Assicurati che la tua SIM card sia attiva."</string>
      <string name="activate_popup_desc_failed_receive_sms">Assicurati che il numero di telefono immesso sia corretto e che la tua SIM card sia attiva.</string>
      <string name="activate_popup_desc_failed_send_sms">Impossibile inviare il messaggio di attivazione. Assicurati che la tua SIM sia stata attivata.</string>

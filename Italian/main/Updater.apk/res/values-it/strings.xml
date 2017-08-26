@@ -44,7 +44,7 @@
      <string name="cancel_download">Interrompere il download di questo aggiornamento?</string>
      <string name="check_local_package_update_btn">Riavvia e aggiorna</string>
      <string name="check_local_package_update_msg">"Stai per aggiornare MIUI alla versione %s. Il dispositivo si riavvierà automaticamente durante l'aggiornamento."</string>
-     <string name="check_local_package_update_title">Aggiona</string>
+     <string name="check_local_package_update_title">Aggiorna</string>
      <string name="check_local_package_validate_error_button">OK</string>
      <string name="check_local_package_validate_error_msg">Impossibile verificare il pacchetto di aggiornamento</string>
      <string name="check_local_package_wipe_btn">Elimina e aggiorna</string>
@@ -127,7 +127,7 @@ I dati non verranno cancellati."</string>
      <string name="my_worst_update">Peggior aggiornamento</string>
      <string name="new_version">Nuova versione trovata!</string>
      <string name="next">Avanti</string>
-     <string name="no_info">No info available.</string>
+     <string name="no_info">Nessuna informazione disponibile.</string>
      <string name="no_log">Riepilogo non disponibile</string>
      <string name="no_network">Nessun accesso alla rete.</string>
      <string name="no_update">"Hai già installato l'ultimo aggiornamento!"</string>
