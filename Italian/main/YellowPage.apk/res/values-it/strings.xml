@@ -192,7 +192,7 @@ Si prega di verificare il numero di spedizione."</string>
      <string name="express_setting_authorized_number_empty">Non hai ancora verificato il tuo numero di telefono.</string>
      <string name="express_setting_code_invalid">Assicurati di aver immesso correttamente il codice.</string>
      <string name="express_setting_count_down_time">Riprova in %ds</string>
-     <string name="express_setting_dialog_authority_description">La verifica tramite numero dei telefono è fornita da Pagine Gialle. Pagine Gialle deve connettersi alla rete per funzionare correttamente. D'accor?</string>
+     <string name="express_setting_dialog_authority_description">"La verifica tramite numero dei telefono è fornita da Pagine Gialle. Pagine Gialle deve connettersi alla rete per funzionare correttamente. D'accordo?"</string>
      <string name="express_setting_dialog_delete_cancel">Annulla</string>
      <string name="express_setting_dialog_delete_description">Le pagine gialle non saranno più in grado di rintracciare le informazioni di consegna automaticamente dopo la rimozione del tuo numero di telefono. Continuare comunque?</string>
      <string name="express_setting_dialog_delete_failed">Impossibile eliminare il numero di telefono</string>
