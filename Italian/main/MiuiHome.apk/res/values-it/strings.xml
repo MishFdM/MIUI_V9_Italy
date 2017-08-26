@@ -82,7 +82,6 @@
      <string name="failed_to_delete_temporary">Eliminazione fallita, riprova.</string>
      <string name="failed_to_drop">Spostamento fallito.</string>
      <string name="failed_to_drop_widget_invalid">Inserimento non valido.</string>
-     <string name="failed_to_drop_widget_nospace">Spostamento fallito, spazio non sufficiente!</string>
      <string name="failed_to_load_image">"Impossibile caricare l'immagine"</string>
      <string name="folder_name">Cartella</string>
      <string name="frame_load_failed">Impossibile caricare il widget Cornice.</string>
@@ -177,6 +176,7 @@
      <string name="mtzgadget_missing_text">Non più supportato, aggiungere di nuovo.</string>
      <string name="multi_selecting_tips">"Tocca un'icona per iniziare"</string>
      <string name="no_detail_page">Nessuna pagina per i dettagli</string>
+     <string name="no_space_toast">No space</string>
      <string name="normal_wallpaper">Sfondo</string>
      <string name="notification_installed">Installato correttamente</string>
      <string name="notification_open_button">Apri</string>

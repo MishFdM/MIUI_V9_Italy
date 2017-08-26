@@ -4,6 +4,7 @@
      <string name="app_label">HTML Viewer</string>
      <string name="app_name_which_call">Applicazione: %s</string>
      <string name="app_version_which_call">Versione applicazione: %s</string>
+     <string name="autoconnect">AutoConnect</string>
      <string name="ime_privacy_policy">Scegli Tastiera</string>
      <string name="license_host_unreachable">"Impossibile connettersi alla rete. Per leggere queste informazioni adesso, 
 visita %s"</string>

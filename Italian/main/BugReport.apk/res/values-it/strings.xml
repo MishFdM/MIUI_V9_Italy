@@ -55,6 +55,7 @@
      <string name="feedback_choose_module">Seleziona elemento</string>
      <string name="feedback_choose_module_hint">Necessari</string>
      <string name="feedback_collect_log_failed">Impossibile recuperare log</string>
+     <string name="feedback_contact_info_hint">Phone number/Email</string>
      <string name="feedback_continue">Continua con il feedback</string>
      <string name="feedback_description">Descrizione</string>
      <string name="feedback_description_bugreport_hint">In alcuni casi () il telefono da problemi ().</string>
@@ -74,6 +75,7 @@
      <string name="feedback_report_remind_login_desc2">"Puoi vedere il progresso del tuo report in \"I miei report\"."</string>
      <string name="feedback_retest_label">Passi da riprodurre</string>
      <string name="feedback_select_images">Aggiungi immagini</string>
+     <string name="feedback_select_modem_log">Add modem logs</string>
      <string name="feedback_select_problem">Problemi</string>
      <string name="feedback_select_suggestion">Suggerimenti</string>
      <string name="feedback_select_upload_log">Aggiungi log</string>
@@ -193,6 +195,7 @@
      <string name="module_data">Archivio e App Clonate</string>
      <string name="module_desktop">Home e impostazioni</string>
      <string name="module_finance">Finanza e Mi Wallet</string>
+     <string name="module_google_apps">Google apps</string>
      <string name="module_item_less">Nascondi</string>
      <string name="module_item_more">Altro</string>
      <string name="module_medias">Media</string>

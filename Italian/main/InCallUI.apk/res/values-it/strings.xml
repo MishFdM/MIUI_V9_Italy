@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="accept_modify_call_request_prompt">Accettare la richiesta di modifica della chiamata?</string>
-     <string name="add_vm_number_str">Aggiungi numero</string>
      <string name="antispam_local_marked">Segnalato localmente</string>
      <string name="antispam_marked_count">Segnalato da %1$d utenti MIUI</string>
      <string name="antispam_marked_title">%1$s</string>
@@ -183,8 +182,6 @@
      <string name="no_balance_title">Credito insufficiente</string>
      <string name="no_call_back_message">La connessione sta impiegando troppo tempo. Passando ad una chiamata normale in base ai costi previsti dal tuo operatore.</string>
      <string name="no_call_back_title">Attenzione</string>
-     <string name="no_vm_number">Numero voicemail mancante</string>
-     <string name="no_vm_number_msg">Nessun numero voicemail salvato sulla scheda SIM.</string>
      <string name="non_ivr_menu_collapse_menu">Chiudi menu</string>
      <string name="non_ivr_menu_view_menu">Mostra menu</string>
      <string name="not_activate_sim_card_content">Verifica il tuo numero di telefono per iniziare ad utilizzare il pacchetto di ricarica. Puoi ancora fare una chiamata normale in base ai costi previsti dal tuo operatore.</string>

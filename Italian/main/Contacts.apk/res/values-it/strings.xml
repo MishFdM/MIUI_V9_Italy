@@ -478,7 +478,6 @@ Motivo: \"%s\"</string>
      <string name="force_touch_miprofile">Scheda contatto</string>
      <string name="force_touch_new_contact">Nuovo contatto</string>
      <string name="foundTooManyContacts">Più di %d trovati.</string>
-     <string name="fraud_more_indemnity">More</string>
      <string name="frequentList">Frequenti</string>
      <string name="from_account_format">%1$s</string>
      <string name="full_name">Nome</string>
@@ -1063,7 +1062,8 @@ Tocca l'icona Unisci in basso per iniziare."</string>
      <string name="search_wipe_data">Organizza;Contatti</string>
      <string name="searching_vcard_message">"Ricerca dati vCard nell'archivio…"</string>
      <string name="select_all">Seleziona tutto</string>
-     <string name="select_done">"Nient'altro da selezionare"</string>
+     <string name="select_all_exceed">"Select no more than %1$d, can't select all"</string>
+     <string name="select_exceed">Select no more than %1$d</string>
      <string name="select_groups">Seleziona gruppi</string>
      <string name="select_none">Nessuna selezione</string>
      <string name="select_show_contacts">Lista contatti</string>
@@ -1096,8 +1096,6 @@ Tocca l'icona Unisci in basso per iniziare."</string>
      <string name="sim_capacity_content" formatted="false">Capacità totale %d | %d usata</string>
      <string name="sim_card_no_free_space_message">Spazio insufficiente: la tua SIM è piena</string>
      <string name="sim_card_no_free_space_title">SIM piena</string>
-     <string name="sim_contact_dropdown_menu_deselect_all_miui">Deseleziona tutto</string>
-     <string name="sim_contact_dropdown_menu_select_all_miui">Seleziona tutto</string>
      <string name="sim_contact_existing">Il contatto esiste già</string>
      <string name="sim_contact_invalid">Contatto SIM non valido</string>
      <string name="sim_contact_search_error">Si è verificato un errore</string>
@@ -1175,8 +1173,6 @@ Tocca l'icona Unisci in basso per iniziare."</string>
      <string name="t9_search_guide_zhuyin_title2">Inserisci 5 e 6 per cercare Jeff Max</string>
      <string name="take_new_photo">Scatta nuova foto</string>
      <string name="take_photo">Scatta foto</string>
-     <string name="telecom_fraud_insurance">Assicurazione frodi telecomunicazioni</string>
-     <string name="telecom_fraud_insurance_description">"Assicurazione 10,000 CNY | Esclusiva offerta Xiaomi | 9.9 CNY l'anno"</string>
      <string name="titleJoinContactDataWith">Unisci contatti</string>
      <string name="title_other_devices">Altri dispositivi disponibili</string>
      <string name="title_paired_devices">Dispositivi abbinati</string>

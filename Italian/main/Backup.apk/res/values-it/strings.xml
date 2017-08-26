@@ -41,8 +41,11 @@
      <string name="backup_new">Nuovo:</string>
      <string name="backup_progress">Creazione backup in corso…</string>
      <string name="backup_report">Rapporto Backup</string>
+     <string name="backup_security_tips_message">Some apps may not be able to be backed up or restored.</string>
+     <string name="backup_security_tips_title">Backups may not work</string>
      <string name="backup_update">Aggiorna</string>
      <string name="batch_delete_backup_confirm">Eliminare i backup selezionati?</string>
+     <string name="btn_got_it">Got it</string>
      <string name="button_backup">Backup</string>
      <string name="button_cancel">Annulla</string>
      <string name="button_continue">Continua</string>
@@ -301,6 +304,8 @@ Non disattivare l'Hotspot. Mantieni i dispositivi vicini."</string>
      <string name="trans_retry">Riprova</string>
      <string name="trans_scan_invalid_qrcode">Codice QR non valido</string>
      <string name="trans_scan_qr_code_tips">Scansiona Codice QR utilizzando il nuovo dispositivo</string>
+     <string name="trans_security_tips_message">"Some apps don't support Mi Mover."</string>
+     <string name="trans_security_tips_title">Mi Mover compatibility</string>
      <string name="trans_select_data">Scegli i file</string>
      <string name="trans_select_data_no_space">"%s disponibili sul nuovo dispositivo
 Seleziona di nuovo i file per liberare spazio"</string>

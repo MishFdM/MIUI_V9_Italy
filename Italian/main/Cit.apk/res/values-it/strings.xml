@@ -253,6 +253,8 @@ Tocca lo schermo per attivare il GPS"</string>
      <string name="cit_hall_near">near</string>
      <string name="cit_hall_test_summary">When a magnet cloase to the green area,the text should turn to near,otherwise the text should be far.</string>
      <string name="cit_hall_test_title">Hall</string>
+     <string name="cit_hardware_info_summary">Please wait... Rendering hardware information of this device</string>
+     <string name="cit_hardware_info_title">Hardware Info</string>
      <string name="cit_headset_button_check_summary">Quando le cuffie sono collegate, premi i pulsanti sulle cuffie (posizionati solitamente sul cavo). Sullo schermo il testo corrispondente dovrebbe diventare verde.</string>
      <string name="cit_headset_button_check_title">Test Cuffie</string>
      <string name="cit_headset_button_click">Premi i pulsanti sulle cuffie</string>

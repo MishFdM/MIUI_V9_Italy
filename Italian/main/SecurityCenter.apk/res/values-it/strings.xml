@@ -247,6 +247,7 @@ se se dimenticata"</string>
      <string name="apps_list_header_title_sms_access">Limita accesso ai codici di verifica</string>
      <string name="auto_atsk_condition_battery_level_text_down">Quando la batteria raggiunge il %s</string>
      <string name="auto_atsk_condition_battery_level_text_up">Quando al batteria è carica al %s</string>
+     <string name="auto_clean_close">Automatic cleanups are off</string>
      <string name="auto_handle_title">Generale</string>
      <string name="auto_import_games">Metti tutti i giochi in un unico posto</string>
      <string name="auto_task_condition_choose_battery_level_down">Quando la batteria raggiunge un certo livello</string>
@@ -348,6 +349,7 @@ se se dimenticata"</string>
      <string name="battery_status_unknown">Errore sconosciuto</string>
      <string name="battery_temperature_title">Temperatura</string>
      <string name="begin_date">Data di azzeramento utilizzo</string>
+     <string name="best_booster_status">Gaming speed is the best available now.</string>
      <string name="bind_xiaomi_account_cancel">Annulla</string>
      <string name="bind_xiaomi_account_confirm">Aggiungi</string>
      <string name="bind_xiaomi_account_dialog_summery">"Stai aggiungendo il Mi Account %s. Se dimentichi la password, potrai usare questo account per ripristinarla. L'account verrà rimosso automaticamente se uscirai."</string>
@@ -425,11 +427,13 @@ se se dimenticata"</string>
      <string name="card_main_applock_summary">Proteggi la tua privacy con Blocco Applicazioni</string>
      <string name="card_main_applock_title">Blocco applicazioni</string>
      <string name="card_main_deepclean_action">Pulisci</string>
+     <string name="card_main_deepclean_qq_title">QQ cleaner</string>
      <string name="card_main_deepclean_summary">Elimina i file non necessari</string>
      <string name="card_main_deepclean_title">Pulizia</string>
      <string name="card_main_deepclean_wechat_action">Cancella</string>
      <string name="card_main_deepclean_wechat_summary">Cancella cache WeChat per liberare spazio di archiviazione</string>
      <string name="card_main_deepclean_wechat_title">Cache WeChat</string>
+     <string name="card_main_gamebooster_title">Gaming speed boost</string>
      <string name="card_main_hbassistant_summary">Utilizza questo strumento per ottimizzare la velocità dei giochi</string>
      <string name="card_main_hbassistant_title">Game Booster</string>
      <string name="card_main_monthreport_action">Visualizza</string>
@@ -589,6 +593,7 @@ se se dimenticata"</string>
      <string name="dnd_no_sound">Silenzia soltanto</string>
      <string name="dns_exception_summary">"Controlla le impostazioni DNS del router"</string>
      <string name="dns_exception_title">Controlla impostazioni DNS</string>
+     <string name="do_clean">Clearing…</string>
      <string name="domestic_roaming_setting">Roaming nazionale</string>
      <string name="dont_bore">Non permettere chetasti e notifiche di distraggano</string>
      <string name="dont_bore_text">Silenzia le notifiche e disattiva i tasti per evitare distrazioni</string>
@@ -658,6 +663,8 @@ se se dimenticata"</string>
      <string name="forget_password_button_text"><u>Password dimenticata</u></string>
      <string name="forget_password_button_text_normal">Password dimenticata</string>
      <string name="forget_pattern"><u>Sequenza dimenticata?</u></string>
+     <string name="free_send_net_booster">Free Network speed boost</string>
+     <string name="free_send_net_booster_tip">Enjoy smooth gaming with the free Network speed boost.</string>
      <string name="free_time_traffic">Limite dati fuori soglia</string>
      <string name="free_time_traffic_hint">Inserisci limite dati fuori soglia</string>
      <string name="free_time_traffic_settings">Limite dati fuori soglia</string>
@@ -761,6 +768,7 @@ se se dimenticata"</string>
      <string name="item_dev_mode">Opzioni sviluppatore</string>
      <string name="item_install_monitor">Gestore installazioni</string>
      <string name="item_mms">Filtra messaggi indesiderati</string>
+     <string name="item_system_auto_download">Download updates automatically</string>
      <string name="item_usb_debug">Debug USB</string>
      <string name="item_virus_lib">Aggiorna definizioni virus automaticamente</string>
      <string name="keywords_antispam">Blacklist;Blocco;Blocco intelligente;Truffa;Vendite;Agenti</string>
@@ -920,6 +928,7 @@ dall'operatore"</string>
      <string name="memory_clean_running_process_title">App monitorate (%d)</string>
      <string name="memory_cleaned_memory_info">Memoria disponibile</string>
      <string name="memory_cleaned_memory_up">Aumenta velocità</string>
+     <string name="memory_clear_unused">Clear cache (%s)</string>
      <string name="menu_add">Aggiungi</string>
      <string name="menu_bl_call_log">Controlla il registro delle chiamate bloccate</string>
      <string name="menu_bl_remove">Rimuovi dalla blacklist</string>
@@ -962,6 +971,7 @@ dall'operatore"</string>
      <string name="menu_text_networkassistants_unit_gb">GB</string>
      <string name="menu_text_networkassistants_unit_kb">KB</string>
      <string name="menu_text_networkassistants_unit_mb">MB</string>
+     <string name="menu_text_optimize_manage">Boost speed</string>
      <string name="menu_text_power_manager">Gestione alimentazione</string>
      <string name="menu_text_power_percent">%s</string>
      <string name="menu_text_power_percent_title">Batteria %s</string>
@@ -977,7 +987,16 @@ dall'operatore"</string>
      <string name="monitor_requests_from_pc">"Gestisci l'installazione delle app tramite USB"</string>
      <string name="more_game">More games</string>
      <string name="name">Nome</string>
+     <string name="net_booster">Network speed boost</string>
+     <string name="net_booster_expire_notification">Network speed boost session is about to end</string>
+     <string name="net_booster_expire_notification_tip">%d d remaining before Network speed boost session ends. Renew the session to avoid network speed problems.</string>
+     <string name="net_booster_overdue_notification">Network speed boost session is about to end</string>
+     <string name="net_booster_overdue_notification_tip">Network speed boost session will end soon. Renew the session?</string>
+     <string name="net_booster_tip">Turn on Network speed boost to make WLAN connection more stable and reduce network delay.</string>
+     <string name="net_booster_title">Network speed boost</string>
+     <string name="net_boosting">Boosting speed…</string>
      <string name="net_delay_title">Delay</string>
+     <string name="net_overdue">Session ended</string>
      <string name="network_blocked_connected_open_wifi">Connesso ad una rete pubblica</string>
      <string name="network_blocked_notification_summary">Testa la rete</string>
      <string name="network_blocked_switch_wifi">Scegli le reti</string>
@@ -1383,6 +1402,7 @@ Questa attività riduce la durata della batteria."</string>
      <string name="reach_daily_limit_value_body">"Riduci l'utilizzo dati giornaliero."</string>
      <string name="reach_daily_limit_value_title">Limite giornaliero raggiunto</string>
      <string name="read_all_sms">Segna come già letto</string>
+     <string name="receive_now">Receive</string>
      <string name="recently_reject_message">%1$s richieste di installazione ed altre %2$d rifiutate</string>
      <string name="recently_reject_message_one">%1$s richieste di installazione rifiutate</string>
      <string name="recommend_news">Fonti raccomandate</string>
@@ -1390,8 +1410,10 @@ Questa attività riduce la durata della batteria."</string>
      <string name="reject_all">Nega a tutte</string>
      <string name="reject_countdown">Nega (%d)</string>
      <string name="reject_usb_install">"Negata l'installazione tramite USB della seguente app"</string>
+     <string name="release_meminfo">Free up %dMB</string>
      <string name="release_memory">Clear cache</string>
      <string name="renew_ip">Riprova</string>
+     <string name="renew_now">Renew</string>
      <string name="repair">Ripara</string>
      <string name="repair_loading_text">Solo un attimo…</string>
      <string name="repeated_marked_number_summary">Non bloccare la seconda chiamata dallo stesso numero entro 3 minuti.</string>
@@ -1707,6 +1729,8 @@ Questa attività riduce la durata della batteria."</string>
      <string name="tab_blacklist">Blacklist</string>
      <string name="tab_block_log_unKnowNumber">Numero sconosciuto</string>
      <string name="tab_call">Chiamate</string>
+     <string name="tab_gift">Gifts</string>
+     <string name="tab_guide">Guide</string>
      <string name="tab_sms">Messaggi</string>
      <string name="tab_title">Blacklist</string>
      <string name="tc_diagnostic_all_error_notification_summary">Tocca per inviare una segnalazione</string>
@@ -1798,6 +1822,7 @@ Questa attività riduce la durata della batteria."</string>
      <string name="title_app_lock_disable">Blocca app</string>
      <string name="title_app_update">Aggiornamento disponibile</string>
      <string name="title_auto_update">Aggiorna automaticamente</string>
+     <string name="title_chain_start">Restrict chain start</string>
      <string name="title_cleaner_cloudscan">Utilizza motore di pulizia online</string>
      <string name="title_cloud_account">Mi Account</string>
      <string name="title_cloud_service">Mi Cloud</string>
@@ -1806,8 +1831,11 @@ Questa attività riduce la durata della batteria."</string>
      <string name="title_cmcc_app_check">Verifica non completa</string>
      <string name="title_consume_power_rank">Utilizzo batteria</string>
      <string name="title_data_flow">"Imposta avviso utilizzo dati"</string>
+     <string name="title_data_flow_monitor">Data usage monitor is on</string>
+     <string name="title_dev_model_off">"Developer's options are off"</string>
      <string name="title_dev_no">Opzioni sviluppatore attivate</string>
      <string name="title_dev_yes">Opzioni sviluppatore disattivate</string>
+     <string name="title_device_not_root">"Root access wasn't granted"</string>
      <string name="title_find_device">Attiva Trova dispositivo</string>
      <string name="title_flow_notification">Rapporto utilizzo dati</string>
      <string name="title_flow_purchase">"È il momento di ricaricare"</string>
@@ -1815,18 +1843,21 @@ Questa attività riduce la durata della batteria."</string>
      <string name="title_flow_verify">Confronto</string>
      <string name="title_flow_verify_failed">Impossibile regolare per 5 giorni consecutivi</string>
      <string name="title_garbage_clean">La dimensione della cache delle app è di %s</string>
+     <string name="title_garbage_less">App cache is small</string>
      <string name="title_garbage_lib">Aggiornamenti automatici</string>
      <string name="title_install_virus_no">Gestore installazioni disattivato</string>
      <string name="title_install_virus_yes">Gestore installazioni attivato</string>
      <string name="title_limit_traffic_per_day">Limite dati giornaliero</string>
      <string name="title_mifi_insurance">Garanzia estesa</string>
      <string name="title_miui_update">Aggiornamento disponibile</string>
+     <string name="title_miui_update_latest">MIUI is up to date</string>
      <string name="title_mms_no">Filtro messaggi disattivato</string>
      <string name="title_mms_yes">Filtro messaggi attivato</string>
      <string name="title_more_setting">Altre impostazioni</string>
      <string name="title_network_switch">Consenti connessione internet</string>
      <string name="title_of_app_manage">App</string>
      <string name="title_of_auto_launch_manage">Avvio automatico</string>
+     <string name="title_payment_protection">Payments are secured</string>
      <string name="title_payment_risk">Rilevato un rischio per il pagamento</string>
      <string name="title_permission_no">Gestore permessi disattivato</string>
      <string name="title_permission_root">Avviso accesso root</string>
@@ -1834,6 +1865,7 @@ Questa attività riduce la durata della batteria."</string>
      <string name="title_power_optimizer">Risparmio batteria</string>
      <string name="title_realname_verify">Verifica ID</string>
      <string name="title_show_notification">Controlli pannello di notifica</string>
+     <string name="title_system_auto_download">Updates will be downloaded automatically</string>
      <string name="title_telecom_operator">Utilizza il conteggio del gestore</string>
      <string name="title_usb_no">Debug USB attivato</string>
      <string name="title_usb_yes">Debug USB disattivato</string>
@@ -1972,8 +2004,13 @@ I dati rimanenti includono dati che sono stati erogati il mese precedente."</str
      <string name="wifi_item_title_encryption">Crittografia Wi-Fi</string>
      <string name="wifi_item_title_fake">Individuazione Wi-Fi fasulle</string>
      <string name="wifi_network_blocked_notification_title">Nessuna connessione internet</string>
+     <string name="wifi_optizition_loading">Turning on Xunyou Network speed boost…</string>
+     <string name="wifi_optizition_tip">Turn on WLAN speed boost to make WLAN connection more stable. A small amount of mobile data will be used.</string>
+     <string name="wifi_optizition_title">WLAN speed boost</string>
      <string name="wl_no_whitelist">Nessun numero consentito</string>
+     <string name="wlan_booster">WLAN speed boost</string>
      <string name="wlan_change_protection_detail">Non passare automaticamente alla rete Wi-Fi quando collegato alla rete dati mobile</string>
      <string name="wlan_change_protection_title">Impedisci cambiamenti di rete</string>
+     <string name="xunyou_pay_webview">Xunyou services</string>
      <string name="zhifubao_not_found">Applicazione non installata o versione troppo vecchia</string>
 </resources>
