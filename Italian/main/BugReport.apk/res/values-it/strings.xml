@@ -55,7 +55,7 @@
      <string name="feedback_choose_module">Seleziona elemento</string>
      <string name="feedback_choose_module_hint">Necessari</string>
      <string name="feedback_collect_log_failed">Impossibile recuperare log</string>
-     <string name="feedback_contact_info_hint">Phone number/Email</string>
+     <string name="feedback_contact_info_hint">Telefono / Email</string>
      <string name="feedback_continue">Continua con il feedback</string>
      <string name="feedback_description">Descrizione</string>
      <string name="feedback_description_bugreport_hint">In alcuni casi () il telefono da problemi ().</string>
@@ -120,7 +120,7 @@
      <string name="message_label">Messaggio</string>
      <string name="michat_app_name">Supporto online</string>
      <string name="michat_artificial_customer_phone_dial_error">Se non riesci a chiamare il numero 400, componi %1$s utilizzando un telefono diverso</string>
-     <string name="michat_artificial_customer_text">Support personnel</string>
+     <string name="michat_artificial_customer_text">Supporto personale</string>
      <string name="michat_attach_image">Immagini</string>
      <string name="michat_attach_smiley">Emoticon</string>
      <string name="michat_attach_take_photo">Fotocamera</string>
@@ -237,7 +237,7 @@
      <string name="pull_to_refresh_refreshing_label">Aggiornamento</string>
      <string name="pull_to_refresh_release_label">Rilascia per aggiornare</string>
      <string name="refresh">Aggiorna</string>
-     <string name="related_question_answer_details">Problema colleg</string>
+     <string name="related_question_answer_details">Problema collegamento</string>
      <string name="reply">Ripeti</string>
      <string name="reply_failed">Ripetizione fallita</string>
      <string name="reply_successful">Risposta inviata</string>
@@ -278,7 +278,7 @@
      <string name="toast_feedback_submitting">Invio in corso…</string>
      <string name="toast_feedbackservice_in_submit">Invio feedback precedente…</string>
      <string name="toast_fill_brackets">Si prega di compilare i campi</string>
-     <string name="toast_log_not_exists">Il log richiesto è statoeliminato onon esiste</string>
+     <string name="toast_log_not_exists">Il log richiesto è stato eliminato o non esiste</string>
      <string name="toast_module_required">Seleziona elemento</string>
      <string name="toast_network_unavailable">Impossibile inviare. Impossibile connettersi alla rete.</string>
      <string name="toast_pending_log_collection">Registrazione log, si prega di attendere</string>

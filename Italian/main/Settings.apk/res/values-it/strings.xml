@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="Accounts_settings_title">Account</string>
-     <string name="abc_action_bar_home_description">Naviga la home</string>
+     <string name="abc_action_bar_home_description">Naviga nella home</string>
      <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
      <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
      <string name="abc_action_bar_up_description">Navigate up</string>
@@ -16,8 +16,8 @@
      <string name="abc_searchview_description_query">Cerca termine</string>
      <string name="abc_searchview_description_search">Cerca</string>
      <string name="abc_searchview_description_submit">Invia termine</string>
-     <string name="abc_searchview_description_voice">Ricerca vocaleh</string>
-     <string name="abc_shareactionprovider_share_with">Consividi con</string>
+     <string name="abc_searchview_description_voice">Ricerca vocale</string>
+     <string name="abc_shareactionprovider_share_with">Condividi con</string>
      <string name="abc_shareactionprovider_share_with_application">Condividi con %s</string>
      <string name="abc_toolbar_collapse_description">Chiudi</string>
      <string name="about_ad_service_instructions">Informazioni sui servizi di pubblicità e la privacy​</string>

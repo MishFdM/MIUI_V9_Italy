@@ -1062,8 +1062,8 @@ Tocca l'icona Unisci in basso per iniziare."</string>
      <string name="search_wipe_data">Organizza;Contatti</string>
      <string name="searching_vcard_message">"Ricerca dati vCard nell'archivio…"</string>
      <string name="select_all">Seleziona tutto</string>
-     <string name="select_all_exceed">"Select no more than %1$d, can't select all"</string>
-     <string name="select_exceed">Select no more than %1$d</string>
+     <string name="select_all_exceed">Non selezionare più di %1$d, impossibile selezionare tutto"</string>
+     <string name="select_exceed">Non selezionare più di %1$d</string>
      <string name="select_groups">Seleziona gruppi</string>
      <string name="select_none">Nessuna selezione</string>
      <string name="select_show_contacts">Lista contatti</string>

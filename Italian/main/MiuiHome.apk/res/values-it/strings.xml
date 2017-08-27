@@ -265,7 +265,7 @@
      <string name="wallpaper_auto_change_title">Schermata di blocco</string>
      <string name="wallpaper_failed_message">Impossibile applicare lo sfondo</string>
      <string name="wallpaper_scaling_message">Ridimensionamento alla dimensione applicata</string>
-     <string name="wallpaper_scroll_type_tips">Wallpaper scroll</string>
+     <string name="wallpaper_scroll_type_tips">Scorrimento sfondo</string>
      <string name="wallpaper_settings">Impostazioni sfondo</string>
      <string name="wallpaper_success_message">Sfondo applicato con successo</string>
      <string name="widget_favorite_contacts_edit">Modifica</string>

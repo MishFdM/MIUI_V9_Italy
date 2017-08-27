@@ -567,8 +567,8 @@
      <string name="sp_category_title_prefix">%s</string>
      <string name="sp_conversation_title">Messaggi di notifica</string>
      <string name="sp_mark_as_read_menu_title">Già letti</string>
-     <string name="sqlite_disk_full">Database or Disk is full</string>
-     <string name="sqlite_low_memory">Low Memory</string>
+     <string name="sqlite_disk_full">Database o disco pieno</string>
+     <string name="sqlite_low_memory">Memoria insufficiente</string>
      <string name="status_failed">Fallito</string>
      <string name="status_label">"Stato: "</string>
      <string name="status_pending">In Sospeso</string>

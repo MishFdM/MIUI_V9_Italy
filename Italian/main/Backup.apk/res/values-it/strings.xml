@@ -41,11 +41,11 @@
      <string name="backup_new">Nuovo:</string>
      <string name="backup_progress">Creazione backup in corso…</string>
      <string name="backup_report">Rapporto Backup</string>
-     <string name="backup_security_tips_message">Some apps may not be able to be backed up or restored.</string>
-     <string name="backup_security_tips_title">Backups may not work</string>
+     <string name="backup_security_tips_message">Il backup o il ripristino di alcune app potrebbe non andare a buon fine.</string>
+     <string name="backup_security_tips_title">I backup potrebbero non funzionare</string>
      <string name="backup_update">Aggiorna</string>
      <string name="batch_delete_backup_confirm">Eliminare i backup selezionati?</string>
-     <string name="btn_got_it">Got it</string>
+     <string name="btn_got_it">OK</string>
      <string name="button_backup">Backup</string>
      <string name="button_cancel">Annulla</string>
      <string name="button_continue">Continua</string>
@@ -143,7 +143,7 @@
      <string name="mms_title">Messaggi Multimediali</string>
      <string name="multi_select_title">Selezionati %1$s elemento(i)</string>
      <string name="multi_user_mode_backup_message">Impossibile utilizzare il Backup in modalità Multi-utente. Disattiva la modalità Multi-utente per continuare.</string>
-     <string name="multi_user_mode_dialog_message">Non puoi utilizzare Mi Mover in modalità Multi-utente. Disattiva la modalità Multi-utente per contnuare.</string>
+     <string name="multi_user_mode_dialog_message">Non puoi utilizzare Mi Mover in modalità Multi-utente. Disattiva la modalità Multi-utente per continuare.</string>
      <string name="multi_user_mode_dialog_title">Sei in modalità Multi-utente</string>
      <string name="never">Mai</string>
      <string name="new_backup">Backup</string>
@@ -165,7 +165,7 @@
      <string name="progress_backup_hint">Backup in corso…</string>
      <string name="progress_restore_hint">Ripristino in corso…</string>
      <string name="prompt_reading">Lettura in corso…</string>
-     <string name="prompt_sending">Upload in corso…</string>
+     <string name="prompt_sending">Caricamento in corso…</string>
      <string name="prompt_writing">Scrittura in corso…</string>
      <string name="read_encrypt_fail">Lettura crittografia fallita</string>
      <string name="refresh">Aggiorna</string>
@@ -304,8 +304,8 @@ Non disattivare l'Hotspot. Mantieni i dispositivi vicini."</string>
      <string name="trans_retry">Riprova</string>
      <string name="trans_scan_invalid_qrcode">Codice QR non valido</string>
      <string name="trans_scan_qr_code_tips">Scansiona Codice QR utilizzando il nuovo dispositivo</string>
-     <string name="trans_security_tips_message">"Some apps don't support Mi Mover."</string>
-     <string name="trans_security_tips_title">Mi Mover compatibility</string>
+     <string name="trans_security_tips_message">"Alcune app non supportano Mi Mover."</string>
+     <string name="trans_security_tips_title">Compatibilità Mi Mover</string>
      <string name="trans_select_data">Scegli i file</string>
      <string name="trans_select_data_no_space">"%s disponibili sul nuovo dispositivo
 Seleziona di nuovo i file per liberare spazio"</string>

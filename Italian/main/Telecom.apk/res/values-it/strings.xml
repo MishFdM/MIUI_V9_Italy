@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="accessibility_call_muted">Chiamata silenziata.</string>
-     <string name="accessibility_display_daltonizer_preference_subtitle">This feature is experimental and may affect performance.</string>
-     <string name="accessibility_display_daltonizer_preference_title">Color correction</string>
-     <string name="accessibility_no_wifi">Wifi disconnected.</string>
+     <string name="accessibility_display_daltonizer_preference_subtitle">Questa funzione è sperimentale e potrebbe influenzare il normale funzionamento.</string>
+     <string name="accessibility_display_daltonizer_preference_title">Correzione colore</string>
+     <string name="accessibility_no_wifi">Wi-Fi disconnessa.</string>
      <string name="accessibility_speakerphone_enabled">Vivavoce attivato.</string>
-     <string name="accessibility_wifi_off">Wifi off.</string>
-     <string name="accessibility_wifi_one_bar">Wifi one bar.</string>
-     <string name="accessibility_wifi_signal_full">Wifi signal full.</string>
+     <string name="accessibility_wifi_off">Wi-Fi disattivato.</string>
+     <string name="accessibility_wifi_one_bar">Una barra Wi-Fi.</string>
+     <string name="accessibility_wifi_signal_full">Segnale Wi-Fi pieno.</string>
      <string name="accessibility_wifi_three_bars">Wifi three bars.</string>
      <string name="accessibility_wifi_two_bars">Wifi two bars.</string>
      <string name="adb_keys_warning_message">Revoke access to USB debugging from all computers you’ve previously authorized?</string>
@@ -44,11 +44,11 @@
      <string name="blocked_numbers_number_already_blocked_message">%1$s is already blocked.</string>
      <string name="blocked_numbers_number_blocked_message">%1$s blocked</string>
      <string name="blocked_numbers_number_unblocked_message">%1$s unblocked</string>
-     <string name="bluetooth_a2dp_profile_summary_connected">Connected to media audio</string>
+     <string name="bluetooth_a2dp_profile_summary_connected">Connesso ad audio media</string>
      <string name="bluetooth_a2dp_profile_summary_use_for">Use for media audio</string>
-     <string name="bluetooth_connected">Connected</string>
-     <string name="bluetooth_connected_no_a2dp">Connected (no media)</string>
-     <string name="bluetooth_connected_no_headset">Connected (no phone)</string>
+     <string name="bluetooth_connected">Connesso</string>
+     <string name="bluetooth_connected_no_a2dp">Connesso (no media)</string>
+     <string name="bluetooth_connected_no_headset">Connesso (no phone)</string>
      <string name="bluetooth_connected_no_headset_no_a2dp">Connected (no phone or media)</string>
      <string name="bluetooth_connected_no_map">Connected (no message access)</string>
      <string name="bluetooth_connecting">Connecting…</string>
@@ -385,7 +385,7 @@
      <string name="wifi_no_internet">No Internet Access.</string>
      <string name="wifi_no_internet_no_reconnect">"No Internet Access Detected, won't automatically reconnect."</string>
      <string name="wifi_not_in_range">Not in range</string>
-     <string name="wifi_remembered">Saved</string>
+     <string name="wifi_remembered">Salvato</string>
      <string name="wifi_security_eap">802.1x EAP</string>
      <string name="wifi_security_none">None</string>
      <string name="wifi_security_passpoint">Passpoint</string>

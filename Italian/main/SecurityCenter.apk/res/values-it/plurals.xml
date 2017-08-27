@@ -74,12 +74,12 @@ Se attivi di nuovo i dati su rete mobile, il tuo operatore potrebbe addebitarti 
         <item quantity="one">%d permesso</item>
      </plurals>
      <plurals name="hints_auto_start_disable_title">
-        <item quantity="other">%d app non possono autoavviarsi</item>
-        <item quantity="one">%d app non può autoavviarsi</item>
+        <item quantity="other">%d app non possono avviarsi automaticamente</item>
+        <item quantity="one">%d app non può avviarsi automaticamente</item>
      </plurals>
      <plurals name="hints_auto_start_enable_title">
-        <item quantity="other">%d app possono autoavviarsi</item>
-        <item quantity="one">%d app può autoavviarsi</item>
+        <item quantity="other">%d app possono avviarsi automaticamente</item>
+        <item quantity="one">%d app può avviarsi automaticamente</item>
      </plurals>
      <plurals name="hints_get_root_disable_title">
         <item quantity="other">%d app non hanno i permessi di ROOT</item>
@@ -123,7 +123,7 @@ Se attivi di nuovo i dati su rete mobile, il tuo operatore potrebbe addebitarti 
      </plurals>
      <plurals name="install_game_count_title">
         <item quantity="other">%d giochi aggiunti</item>
-        <item quantity="one">Added %d gioco</item>
+        <item quantity="one">%d gioco aggiunto</item>
      </plurals>
      <plurals name="lockpattern_too_many_failed_confirmation_attempts_footer">
         <item quantity="other">"Attendi %d secondi e prova di nuovo. "</item>
@@ -241,15 +241,15 @@ Se attivi di nuovo i dati su rete mobile, il tuo operatore potrebbe addebitarti 
      </plurals>
      <plurals name="summary_flow_verify">
         <item quantity="other">"Non hai sincronizzato le statistiche sull'utilizzo dei dati con il tuo operatore da %d giorni"</item>
-        <item quantity="one">"Non hai sinccronizzato le statistiche sull'utilizzo dei dati con il tuo operatore da %d giorno"</item>
+        <item quantity="one">"Non hai sincronizzato le statistiche sull'utilizzo dei dati con il tuo operatore da %d giorno"</item>
      </plurals>
      <plurals name="system_check_content">
         <item quantity="other">%1$d elementi sicuri</item>
         <item quantity="one">%1$d elemento sicuro</item>
      </plurals>
      <plurals name="title_virus_clean">
-        <item quantity="other">Cleared %d viruses</item>
-        <item quantity="one">Cleared %d virus</item>
+        <item quantity="other">%d virus eliminati</item>
+        <item quantity="one">%d virus eliminato</item>
      </plurals>
      <plurals name="traffic_setting_app_count">
         <item quantity="other">%d app</item>
