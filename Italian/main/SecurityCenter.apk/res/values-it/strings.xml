@@ -1831,7 +1831,7 @@ Questa attività riduce la durata della batteria."</string>
      <string name="title_cmcc_app_check">Verifica non completa</string>
      <string name="title_consume_power_rank">Utilizzo batteria</string>
      <string name="title_data_flow">"Imposta avviso utilizzo dati"</string>
-     <string name="title_data_flow_monitor">Il controllo dell'utilizzo dei dati è attivo</string>
+     <string name="title_data_flow_monitor">"Il controllo dell'utilizzo dei dati è attivo"</string>
      <string name="title_dev_model_off">Opzioni sviluapptore disattivate</string>
      <string name="title_dev_no">Opzioni sviluppatore attivate</string>
      <string name="title_dev_yes">Opzioni sviluppatore disattivate</string>
@@ -2005,7 +2005,7 @@ I dati rimanenti includono dati che sono stati erogati il mese precedente."</str
      <string name="wifi_item_title_fake">Individuazione Wi-Fi fasulle</string>
      <string name="wifi_network_blocked_notification_title">Nessuna connessione internet</string>
      <string name="wifi_optizition_loading">Attivazione acceleratore di rete Xunyou…</string>
-     <string name="wifi_optizition_tip">L'attivazione acceleratore velocità Wi-Fi per rendere la rete più veloce. Verrà utilizzato un piccolo quantitativo di dati.</string>
+     <string name="wifi_optizition_tip">"L'attivazione acceleratore velocità Wi-Fi per rendere la rete più veloce. Verrà utilizzato un piccolo quantitativo di dati."</string>
      <string name="wifi_optizition_title">Acceleratore Wi-Fi</string>
      <string name="wl_no_whitelist">Nessun numero consentito</string>
      <string name="wlan_booster">Acceleratore Wi-Fi</string>
