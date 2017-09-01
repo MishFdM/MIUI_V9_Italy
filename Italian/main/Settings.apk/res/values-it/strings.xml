@@ -2552,11 +2552,7 @@ ed esegui il software."</string>
      <string name="no_default_home">No default Home</string>
      <string name="no_device_admins">Nessun amministratore disponibile</string>
      <string name="no_internet_access_remember">Non chiedere più per questa rete</string>
-     <!-- MNPS mismatch found! Translated: 1 Original: 0
-	%s: 1 Original: 0
-	%d: 0 Original: 0 -->
-     <!-- Original string: This network has no Internet access. Stay connected? -->
-     <string name="no_internet_access_text">WLAN network %1$s has no access to the internet. Stay connected?</string>
+     <string name="no_internet_access_text">This network has no Internet access. Stay connected?</string>
      <string name="no_media_button_receiver">No</string>
      <string name="no_memory_use_summary">Nessun utilizzo della memoria nelle ultime 3 ore</string>
      <string name="no_nearby_wifi">Nessuna rete rilevata</string>
