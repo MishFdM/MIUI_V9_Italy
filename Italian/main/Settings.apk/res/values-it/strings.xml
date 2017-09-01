@@ -1476,11 +1476,7 @@ avviso"</string>
      <string name="enable_service_password_reason">Poiché attivare %1$s influenza la crittografia dei dati, devi confermare la password.</string>
      <string name="enable_service_pattern_reason">Poiché attivare %1$s influenza la crittografia dei dati, devi confermare la sequenza di sblocco.</string>
      <string name="enable_service_pin_reason">Poiché attivare %1$s influenza la crittografia dei dati, devi confermare il PIN.</string>
-     <!-- MNPS mismatch found! Translated: 0 Original: 1
-	%s: 0 Original: 1
-	%d: 0 Original: 0 -->
-     <!-- Original string: Use %1$s? -->
-     <string name="enable_service_title">Il servizio effettuerà queste operazioni:</string>
+     <string name="enable_service_title">Utilizzare %1$s?</string>
      <string name="enable_snapshot_screenlock">Tieni premuto Indietro per scattare una foto</string>
      <string name="enable_terminal_summary">"Abilita l'app Terminale che offre l'accesso alla shell locale"</string>
      <string name="enable_terminal_title">Terminale locale</string>

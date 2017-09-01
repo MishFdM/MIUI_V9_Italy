@@ -24,23 +24,11 @@
      <string name="activate_history_success_overview">SIM attivata correttamente. Attivazione eseguita da \"%1$s\".</string>
      <string name="activate_history_title">Attivazione SIM</string>
      <string name="activate_phone_cancel_notif_title">Attivazione SIM annullata</string>
-     <!-- MNPS mismatch found! Translated: 1 Original: 1
-	%s: 1 Original: 0
-	%d: 0 Original: 1 -->
-     <!-- Original string: SIM card %d activation cancelled -->
-     <string name="activate_phone_cancel_notif_title_msim">Attivazione SIM %s annullata</string>
+     <string name="activate_phone_cancel_notif_title_msim">Attivazione SIM %d annullata</string>
      <string name="activate_phone_failed_notif_title">Impossibile attivare SIM</string>
-     <!-- MNPS mismatch found! Translated: 1 Original: 1
-	%s: 1 Original: 0
-	%d: 0 Original: 1 -->
-     <!-- Original string: "Can't activate SIM card %d" -->
-     <string name="activate_phone_failed_notif_title_msim">Impossibile attivare SIM %s</string>
+     <string name="activate_phone_failed_notif_title_msim">Impossibile attivare SIM %d</string>
      <string name="activate_phone_success_notif_title">SIM attivata</string>
-     <!-- MNPS mismatch found! Translated: 1 Original: 1
-	%s: 1 Original: 0
-	%d: 0 Original: 1 -->
-     <!-- Original string: SIM card %d activated -->
-     <string name="activate_phone_success_notif_title_msim">SIM %s attivata</string>
+     <string name="activate_phone_success_notif_title_msim">SIM %d attivata</string>
      <string name="activate_popup_confirm_all_gateway_failed_query_info">Riprova</string>
      <string name="activate_popup_confirm_all_gateway_failed_send_sms">Riprova</string>
      <string name="activate_popup_confirm_error_device_id">Riprova</string>
@@ -116,11 +104,7 @@ Immetti il numero di telefono associato alla tua nuova SIM card per riattivare %
      <string name="activate_status_desc_wait_for_sms_fail">"Impossibile ricevere l'SMS di attivazione"</string>
      <string name="activate_status_desc_wait_for_sms_success">SMS di attivazione ricevuto correttamente</string>
      <string name="activate_status_title_activating">Attivazione SIM…</string>
-     <!-- MNPS mismatch found! Translated: 1 Original: 1
-	%s: 1 Original: 0
-	%d: 0 Original: 1 -->
-     <!-- Original string: Activating SIM card %d… -->
-     <string name="activate_status_title_activating_msim">Attivazione SIM %s…</string>
+     <string name="activate_status_title_activating_msim">Attivazione SIM %d…</string>
      <string name="agree">Agree</string>
      <string name="app_name">Servizio attivazione SIM Xiaomi</string>
      <string name="explain_send_sms_permission_button">Verifica</string>
