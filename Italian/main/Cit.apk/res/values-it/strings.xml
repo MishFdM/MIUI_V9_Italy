@@ -591,6 +591,9 @@ Dopo aver copiato \"music.mp3\" sulla scheda SD, tocca lo schermo per riprodurre
      <string name="fpc_pn_calibration">Capture and store PN image</string>
      <string name="frr">FRR(False Reject Rate):</string>
      <string name="frr_count">FRC(False Reject Count):</string>
+     <string name="frr_total_count">FRTC(False Reject Total Count):</string>
+     <string name="get_base_finger">Extract Image:get base finger</string>
+     <string name="get_finger_data">Extract Image:sampling finger data</string>
      <string name="get_sample_finger">Extract Image:get sample finger</string>
      <string name="get_sensor_info">GET SENSOR INFO</string>
      <string name="get_template_finger">Extract Image:get template finger</string>
@@ -611,7 +614,7 @@ Dopo aver copiato \"music.mp3\" sulla scheda SD, tocca lo schermo per riprodurre
      <string name="no_data">--</string>
      <string name="noise">noise:</string>
      <string name="none">N/A</string>
-      <string name="remove_headset_and_starttest">Please remove headset and press start to test</string>
+     <string name="remove_headset_and_starttest">Please remove headset and press start to test</string>
      <string name="resetpixel_test">RESET PIXEL TEST</string>
      <string name="run">Run</string>
      <string name="sample_data">sample data</string>
@@ -656,6 +659,7 @@ Dopo aver copiato \"music.mp3\" sulla scheda SD, tocca lo schermo per riprodurre
      <string name="title_far">FAR:</string>
      <string name="title_farr">FAR and FRR Test</string>
      <string name="title_frr">FRR:</string>
+     <string name="title_open_short_pixel">open short pixel</string>
      <string name="title_spi">spi</string>
      <string name="touch_auto">Touch panel self test ongoing, please wait....</string>
      <string name="tp_color">TP Color:</string>
