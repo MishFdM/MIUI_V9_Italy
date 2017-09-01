@@ -44,6 +44,9 @@
      <string name="account_settings_notify_summary">"Notifica sulla barra di sistema l'arrivo di una email"</string>
      <string name="account_settings_param">Impostazioni account</string>
      <string name="account_settings_policies">Condizioni di sicurezza</string>
+     <string name="account_settings_preference_add_account">Add a mailbox account</string>
+     <string name="account_settings_preference_head_icon">Head portrait switch</string>
+     <string name="account_settings_preference_notify">Notice</string>
      <string name="account_settings_retry_label">Tentativo di sincronizzazione</string>
      <string name="account_settings_retry_summary">"Tocca qui per sincronizzare l'account"</string>
      <string name="account_settings_ringtone">Scegli suoneria</string>
@@ -57,6 +60,7 @@
      <string name="account_settings_sync_email_summary">Sincronizza le email per questo account</string>
      <string name="account_settings_unsupported_label">Condizioni non supportate</string>
      <string name="account_settings_unsupported_summary">Nessuno</string>
+     <string name="account_settings_user_usage">Account settings</string>
      <string name="account_settings_using_ringtone">Suoneria</string>
      <string name="account_settings_vibrate_when_label">Vibrazione</string>
      <string name="account_setup_account_type_instructions">Di quale tipo di account si tratta?</string>
@@ -117,6 +121,7 @@
      <string name="account_setup_incoming_username_label">Nome utente</string>
      <string name="account_setup_incoming_username_label_default_hint">Includi un dominio</string>
      <string name="account_setup_need_password_verification">Il tuo account è stato aperto tramite autenticazione password, autenticazione richiesta</string>
+     <string name="account_setup_options_actionbar_title">Common settings</string>
      <string name="account_setup_options_mail_check_frequency_10min">Ogni 10 minuti</string>
      <string name="account_setup_options_mail_check_frequency_12hour">Ogni 12 ore</string>
      <string name="account_setup_options_mail_check_frequency_1hour">Ogni ora</string>
@@ -144,6 +149,8 @@
      <string name="account_setup_server_acc_manager_title">Gestione account</string>
      <string name="account_setup_username_password_toast">Digita un indirizzo email e una password validi.</string>
      <string name="account_sync_off">Sincronizzazione disattivata.</string>
+     <string name="account_sync_settings_settings">Synchronize account contacts and calendars</string>
+     <string name="account_sync_settingstip_description">Synchronize settings</string>
      <string name="account_waiting_for_folders_msg">Caricamento elenco cartelle…</string>
      <string name="actionbar_large_unread_count">%1$d+ non letto</string>
      <string name="activity_folder_selection">Seleziona una cartella</string>
@@ -317,10 +324,14 @@
      <string name="contextmenu_send_mail">Invia email</string>
      <string name="contextmenu_sharelink">Condividi link</string>
      <string name="contextmenu_sms_dot">SMS…</string>
+     <string name="conversation_detail_hide">Hide</string>
+     <string name="conversation_detail_show">Details</string>
      <string name="conversation_folder_moved">Spostata in %1$s</string>
      <string name="conversation_item_mark_read">Letta</string>
      <string name="conversation_item_mark_unread">Non letta</string>
+     <string name="conversation_msg_header_collapsed_sent_to">"Sent to "</string>
      <string name="conversation_photo_welcome_text">"Tocca l'immagine di un mittente per selezionare la conversazione."</string>
+     <string name="conversation_pull_ad_content">Efficient mail Manager</string>
      <string name="conversation_quick_button_approve">Approvo</string>
      <string name="conversation_quick_button_disapprove">Non approvo</string>
      <string name="conversation_quick_button_received">Ricevuto</string>
@@ -393,6 +404,7 @@
      <string name="due">Scadenza</string>
      <string name="due_date_text">Pagamento finale</string>
      <string name="edit_quick_response_dialog">Risposta veloce</string>
+     <string name="edit_signature">Edit Signature</string>
      <string name="elided_padding_token"> </string>
      <string name="email_address">Indirizzo email</string>
      <string name="email_feedback_uri" />
@@ -542,6 +554,7 @@
      <string name="login139">Accedi con China Mobile</string>
      <string name="login_failed_ticker">Accesso a %s non riuscito.</string>
      <string name="login_failed_title">Accesso non riuscito</string>
+     <string name="login_support_tip_text">Support all common mailbox account login</string>
      <string name="long_press_to_select_tip">Tieni premuto per selezionare una conversazione, quindi tocca per sceglierne altre.</string>
      <string name="long_string">looooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooong</string>
      <string name="mail">Email</string>
@@ -551,6 +564,7 @@
      <string name="mail_header_network_not_available">Non hai una connessione di rete.</string>
      <string name="mailbox_list_account_selector_combined_view">Visualizzazione combinata</string>
      <string name="mailbox_name_display_ad">Pubblicità e notifiche</string>
+     <string name="mailbox_name_display_add_account">Add a mailbox account</string>
      <string name="mailbox_name_display_circular">Notifiche</string>
      <string name="mailbox_name_display_drafts">Bozze</string>
      <string name="mailbox_name_display_inbox">In arrivo</string>
@@ -643,6 +657,7 @@
      <string name="network_unavailable">Rete non disponibile</string>
      <string name="new_incoming_messages_one">Nuovo messaggio da %s. Leggi.</string>
      <string name="new_messages">%1$d nuovi messaggi</string>
+     <string name="new_signature_has_saved">New signature has saved</string>
      <string name="next_action">Avanti</string>
      <string name="no">No</string>
      <string name="no_application_found">Nessuna applicazione può aprire questo allegato per la visualizzazione.</string>
@@ -900,9 +915,11 @@ perr icevere promemoria sui pagamenti dei tuoi viaggi"</string>
      <string name="save_draft_failed">Salvataggio bozza fallito</string>
      <string name="save_power_summary">"Risparmio batteria nell'orario preimpostato"</string>
      <string name="save_power_title">Risparmio batteria</string>
+     <string name="save_this_new_signature">Save this new signature?</string>
      <string name="saved">Salvato, %s</string>
      <string name="saving">Salvataggio…</string>
      <string name="sdcard_cannot_use">Scheda di memoria non utilizzabile</string>
+     <string name="search_bar_text">Search for mail, sender</string>
      <string name="search_hint">Cerca email</string>
      <string name="search_result">"Risultati "</string>
      <string name="search_tabs_name_all">Tutti</string>
@@ -1006,6 +1023,7 @@ perr icevere promemoria sui pagamenti dei tuoi viaggi"</string>
      <string name="too_large_to_attach_multiple">Uno o più file non allegati. Limite di %1$s.</string>
      <string name="too_large_to_attach_single">Impossibile allegare un file superiore a %1$s.</string>
      <string name="topic_merge">Unisci temi</string>
+     <string name="topic_merge_summary">Mode Organized by thread</string>
      <string name="translation_loading">Caricamento…</string>
      <string name="translation_no_result">Nessun risultato</string>
      <string name="translation_pronunciation_am">ArE</string>
@@ -1030,6 +1048,7 @@ Interrompere adesso?"</string>
      <string name="unsent_messages_in_outbox">%1$s non inviati in %2$s</string>
      <string name="unzip_file_failed">Impossibile decomprimere il file</string>
      <string name="update_date_format_templete">HH:mm aa, dd MMMM</string>
+     <string name="update_to_wps_mail">More advanced features, upgrade to WPS-mail</string>
      <string name="updated_at">Ultimo aggiornamento %1$s</string>
      <string name="upload_log">Carica log</string>
      <string name="upload_log_failed">Caricamento log fallito</string>

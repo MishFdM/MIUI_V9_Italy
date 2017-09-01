@@ -222,6 +222,7 @@
      <string name="onscreen_note_calls_text">Note</string>
      <string name="onscreen_swap_calls_text">Cambia</string>
      <string name="onscreen_switch_camera">Cambia fotocamera</string>
+     <string name="package_not_available">\"%s\" is not available</string>
      <string name="pause_prompt_no">No</string>
      <string name="pause_prompt_yes">Sì</string>
      <string name="payphone">Telefono a monete</string>

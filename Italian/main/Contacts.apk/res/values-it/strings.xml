@@ -23,6 +23,7 @@
      <string name="add_contact_dlg_message_fmt">Aggiungi \"%s\" ai contatti?</string>
      <string name="add_display_photo_entry">Aggiungi foto profilo</string>
      <string name="add_field">Aggiungi un altro campo</string>
+     <string name="add_field_toast">No more fields to add.</string>
      <string name="add_incall_show_entry">Aggiungi video</string>
      <string name="add_new_account">Aggiungi nuovo account</string>
      <string name="add_new_entry_for_section">Aggiungi nuovo</string>
@@ -733,7 +734,6 @@ Motivo: \"%s\"</string>
      <string name="multi_number_menu_message">Messaggio</string>
      <string name="multi_number_title">Audioconferenza</string>
      <string name="multipleContactDeleteConfirmation">"L'eliminazione di questo contatto causerà l'eliminazione di informazioni da più account."</string>
-     <string name="multipleContactDeleteConfirmationDetail">Eliminando \"%s\" verranno rimosse le info da diversi account.</string>
      <string name="my_phone_not_provider_bluetooth">Il mio dispositivo non ha il Bluetooh</string>
      <string name="my_phone_provider_bluetooth">Il mio dispositivo ha il Bluetooh</string>
      <string name="nameLabelsGroup">Nome</string>
@@ -987,7 +987,6 @@ Per aggiungere un contatto alla lista dei Preferiti:
      <string name="quit_dialog_confirm_message">Non hai unito nessun contatto</string>
      <string name="quit_dialog_confirm_title">Nessun contatto unito</string>
      <string name="readOnlyContactDeleteConfirmation">Il contatto contiene informazioni da più account. Le informazioni provenienti da account di sola lettura verranno nascoste nei tuoi elenchi di contatti, non eliminate.</string>
-     <string name="readOnlyContactDeleteConfirmationDetail">\"%s\" contiene info da diversi account. Le info di account in sola lettura saranno nascoste nella tua lista contatti.</string>
      <string name="readOnlyContactWarning">"Non puoi eliminare i contatti da un account di sola lettura, ma puoi nasconderli dall'elenco contatti."</string>
      <string name="readingSimContacts">Lettura SIM…</string>
      <string name="reading_vcard_canceled_title">Lettura dati vCard annullata</string>
