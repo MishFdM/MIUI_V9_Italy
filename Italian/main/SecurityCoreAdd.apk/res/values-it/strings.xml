@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
 <resources>
      <string name="Active">Attivo</string>
      <string name="PassWordGuard">Password Spazio Secondario</string>
@@ -68,6 +69,7 @@ per essere in grado di vederli sempre"</string>
      <string name="delete_src_photo">Elimina foto</string>
      <string name="dir_switch_out_all_photos">Galleria Spazio Secondario</string>
      <string name="disable">Disattiva</string>
+     <string name="do_not_ask">"Don't ask again"</string>
      <string name="dont_import">Non adesso</string>
      <string name="downloading_space">Download in corso...</string>
      <string name="enable">Attiva</string>
@@ -89,8 +91,13 @@ per essere in grado di vederli sempre"</string>
      <string name="finger_print_of_use">Utilizza impronta digitale</string>
      <string name="fingerprint_removal_failed">"Impossibile eliminare l'impronta"</string>
      <string name="function_not_support">Non supportato in questo spazio</string>
+     <string name="gms_message">Creating dual apps requires working with Google services. Create a dual app for Google services?</string>
+     <string name="gms_open_button">Turn on</string>
+     <string name="gms_title">Turn on Google services</string>
      <string name="goToSecondSpacce">Vai allo Spazio Secondario</string>
      <string name="go_on_import">Continua importazione</string>
+     <string name="gpg_message">Creating dual apps for games requires working with Google Play Games. Create a dual app for Google Play Games?</string>
+     <string name="gpg_title">Dual app for Google Play Games</string>
      <string name="guide_contact_sub_title_desc">"I contatti aggiunti allo spazio Secondario saranno privati.
 I messaggi saranno visibili solo nello spazio Secondario."</string>
      <string name="guide_contact_suc_sub_title_desc">Solo i contatti e i messaggi privati verranno mostrati nello spazio Secondario</string>

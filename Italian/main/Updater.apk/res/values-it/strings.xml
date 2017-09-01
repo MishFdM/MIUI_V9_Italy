@@ -61,6 +61,10 @@
      <string name="continue_update_positive_btn">Interrompi</string>
      <string name="daily_build">Giornaliera</string>
      <string name="delay_update_text">Aggiorna dopo</string>
+     <string name="dialog_3g_desc">Be aware that using Mobile Data to download ROMs might take significant quota of your packet.</string>
+     <string name="dialog_3g_title">Warning!</string>
+     <string name="dialog_btn_3g">Continue Anyway</string>
+     <string name="dialog_btn_wifi">Switch to Wi-Fi</string>
      <string name="dialog_delay_update_cancel">Annulla</string>
      <string name="dialog_delay_update_msg">"Il dispositivo si riavvierà per installare l'aggiornamento quando sarà acceso e con almeno il 30% di carica"</string>
      <string name="dialog_delay_update_title">Aggiornamento disponibile</string>

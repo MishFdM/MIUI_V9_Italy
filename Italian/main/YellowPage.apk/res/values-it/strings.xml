@@ -438,12 +438,14 @@ Totale: RMB%3$s"</string>
      <string name="turn_off_hint_title">Non identificare i numeri sconosciuti?</string>
      <string name="turn_off_phone_event_hint">Non potrai vedere le informazioni sui numeri sconosciuti.</string>
      <string name="turn_off_smart_antispam_hint">Disattivare la protezione per le chiamate da numeri sconosciuti?</string>
+     <string name="turn_on_online_antispam_enable">Turn on</string>
+     <string name="turn_on_online_antispam_summary">Turn on Caller ID to recognize unknown numbers.</string>
+     <string name="turn_on_online_antispam_title">Turn on Caller ID</string>
      <string name="turn_on_phone_event_dialog_title">Aggiorna il database di identificazione dei numeri</string>
      <string name="turn_on_phone_event_summary">Stato del caricamento del telefono per i numeri di servizio</string>
      <string name="turn_on_phone_event_title">Recupero informazioni di servizio</string>
      <string name="turn_on_smart_antispam_hint">Dopo averlo attivato, i numero verranno identificati. Se non verranno identificati, puoi segnalarli per aiutare a identificare le chiamate indesiderate.</string>
-     <string name="turn_on_smart_antispam_summary_off">Cerca solo tra i numeri locali</string>
-     <string name="turn_on_smart_antispam_summary_on">Identifica e carica i numeri spam</string>
+     <string name="turn_on_smart_antispam_summary">Upload and identify unknown phone numbers from call history and text messages</string>
      <string name="turn_on_smart_antispam_title">Identifica numeri sconosciuti</string>
      <string name="turn_on_yellowpage_service_title">Utilizza il servizio di directory</string>
      <string name="uploads_disabled">Il caricamento dei file è disattivato</string>

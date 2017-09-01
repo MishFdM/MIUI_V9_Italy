@@ -10,6 +10,7 @@
      <string name="enable_touch_assistant">Attiva Assistente Touch</string>
      <string name="enabled_for_pad_hint">Lavora quando \"Blocca i tasti navigazione in landscape\" è attivato</string>
      <string name="function_settings">Impostazioni funzione</string>
+     <string name="handy_mode_default_to_close_whether_open">One-handed mode is off by default. Turn on One-handed mode?</string>
      <string name="hide_touch_assistant">"Nascondi automaticamente l'Assistente Touch"</string>
      <string name="hide_touch_assistant_intro">"Nascondi l'Assistente Touch in alcune app"</string>
      <string name="hide_when_fullscreen">Nascondi a tutto schermo</string>
@@ -38,6 +39,7 @@
      <string name="nfc_all_mipay_card_not_in_use">Mi Pay non è attivo</string>
      <string name="nfc_trans_card_not_in_use">La carta di trasporto non è attiva</string>
      <string name="not_working">%s (non funzionante)</string>
+     <string name="open">Turn on</string>
      <string name="open_panel">"Apri l'Assistente touch"</string>
      <string name="pay_entry_dialog_title_select">"Seleziona l'app da aprire"</string>
      <string name="pay_entry_dialog_title_setting">"Imposta l'app selezionata da aprire"</string>
@@ -50,4 +52,5 @@
      <string name="restore_intro">Ripristina le impostazioni predefinite, che includono funzioni e ordini. Questo non eliminerà i dati sul tuo telefono.</string>
      <string name="show_on_keyguard">Mostra su Blocco schermo</string>
      <string name="theme_manager_not_supported">Gestore temi non supportato.</string>
+     <string name="three_seconds_auto_hide">Stick to the edge after 3 seconds of inactivity</string>
 </resources>

@@ -136,6 +136,7 @@ Nota: il tocco triplo per ingrandire funziona ovunque tranne che per la tastiera
      <string name="add_auto_startup_application">Aggiungi applicazioni in avvio automatico</string>
      <string name="add_device_admin">Attiva</string>
      <string name="add_device_admin_msg">Attivare amministratore dispositivo?</string>
+     <string name="add_facerecoginition_text">Add face data</string>
      <string name="add_fingerprint_done_msg">Adesso puoi sbloccare il dispositivo con le impronte digitali.</string>
      <string name="add_fingerprint_done_title">Finito.</string>
      <string name="add_fingerprint_failed_retry_text">"Impossibile aggiungere l'impronta. Riprova."</string>
@@ -377,7 +378,6 @@ Vuoi abilitare le finestre flottanti?"</string>
      <string name="auto_rule">schedule rule</string>
      <string name="auto_silent">Timing Muted</string>
      <string name="auto_startup_application_manage">Avvio automatico</string>
-     <string name="auto_startup_count">%d applicazioni in avvio automatico</string>
      <string name="automatic_brightness">Luminosità automatica</string>
      <string name="available_size">%s disponibile</string>
      <string name="available_via_passpoint">Disponibile via %1$s</string>
@@ -582,6 +582,7 @@ La trasmissione utilizza segnali Bluetooth a bassa potenza."</string>
      <string name="bluetooth_device_context_pair_connect">Abbina e connetti</string>
      <string name="bluetooth_device_context_unpair">Dissocia</string>
      <string name="bluetooth_device_details">Impostazioni dispositivo</string>
+     <string name="bluetooth_device_misc_title">Rarely used bluetooth devices</string>
      <string name="bluetooth_device_name">Nome dispositivo</string>
      <string name="bluetooth_device_searchable">Visibile</string>
      <string name="bluetooth_devices">Dispositivi Bluetooth</string>
@@ -615,8 +616,6 @@ La trasmissione utilizza segnali Bluetooth a bassa potenza."</string>
      <string name="bluetooth_enter_passkey_other_device">"Potrebbe essere necessario digitare questa passkey anche sull'altro dispositivo."</string>
      <string name="bluetooth_enter_pin_other_device">"Potrebbe essere necessario digitare questo PIN anche sull'altro dispositivo."</string>
      <string name="bluetooth_error_title" />
-     <string name="bluetooth_filter_device_display">Display All</string>
-     <string name="bluetooth_filter_device_filter">Typical Only</string>
      <string name="bluetooth_headset_profile_summary_connected">Collegato ad audio dispositivo</string>
      <string name="bluetooth_headset_profile_summary_use_for">Usa per audio dispositivo</string>
      <string name="bluetooth_hid_profile_summary_connected">Connesso a dispositivo di input</string>
@@ -788,6 +787,7 @@ La trasmissione utilizza segnali Bluetooth a bassa potenza."</string>
      <string name="bssid_label">BSSID:</string>
      <string name="bt_hci_snoop_log">Attiva log di esame HCI Bluetooth</string>
      <string name="bt_hci_snoop_log_summary">Acquisisci tutti i pacchetti HCI Bluetooth in un file</string>
+     <string name="bt_rarely_used_device_title">Rerely used devices (%d)</string>
      <string name="bt_trace_log">Abilita trace log del Bluetooth</string>
      <string name="bt_trace_log_summary">Abilita trace log del Bluetooth</string>
      <string name="bugreport_in_power">Segnalazioni di bug nel menu di accensione</string>
@@ -912,6 +912,7 @@ La trasmissione utilizza segnali Bluetooth a bassa potenza."</string>
      <string name="clear_failed_dlg_title">Elimina dati</string>
      <string name="clear_uri_btn_text">Clear access</string>
      <string name="clear_user_data_text">Elimina dati</string>
+     <string name="close_gesture">Close using gesture</string>
      <string name="close_miui_optimization_title">Disattiva ottimizzazione MIUI</string>
      <string name="close_miui_optimization_warning_message">Il dispositivo verrà riavviato per applicare questa modifica.</string>
      <string name="close_sdcard_optimization_title">close emulated sdcard optimization</string>
@@ -1475,6 +1476,10 @@ avviso"</string>
      <string name="enable_service_password_reason">Poiché attivare %1$s influenza la crittografia dei dati, devi confermare la password.</string>
      <string name="enable_service_pattern_reason">Poiché attivare %1$s influenza la crittografia dei dati, devi confermare la sequenza di sblocco.</string>
      <string name="enable_service_pin_reason">Poiché attivare %1$s influenza la crittografia dei dati, devi confermare il PIN.</string>
+     <!-- MNPS mismatch found! Translated: 0 Original: 1
+	%s: 0 Original: 1
+	%d: 0 Original: 0 -->
+     <!-- Original string: Use %1$s? -->
      <string name="enable_service_title">Il servizio effettuerà queste operazioni:</string>
      <string name="enable_snapshot_screenlock">Tieni premuto Indietro per scattare una foto</string>
      <string name="enable_terminal_summary">"Abilita l'app Terminale che offre l'accesso alla shell locale"</string>
@@ -1549,6 +1554,8 @@ Questa funzione aiuta a proteggere i propri dati su dispositivi persi o rubati."
      <string name="external_data_size_label">Dati in archivio USB</string>
      <string name="extreme_threats_summary">Ricevi avvisi di minacce estreme alla vita e proprietà</string>
      <string name="extreme_threats_title">Minacce estreme</string>
+     <string name="face_unlock_disable">Face unlock is off</string>
+     <string name="face_unlock_enable">Face unlock is on</string>
      <string name="factory_reset_summary">Elimina tutti i dati dalla memoria interna del tuo dispositivo</string>
      <string name="failed_to_check_find_device_status_content">Impossibile verificare lo stato di Trova dispositivo, riprova più tardi.</string>
      <string name="failed_to_check_find_device_status_title">Impossibile verificare lo stato di Trova dispositivo</string>
@@ -1585,6 +1592,7 @@ Questa funzione aiuta a proteggere i propri dati su dispositivi persi o rubati."
      <string name="fingerprint_enable_keyguard_toggle_title">blocco schermo</string>
      <string name="fingerprint_enroll_button_add">Aggiungi</string>
      <string name="fingerprint_enroll_button_next">Avanti</string>
+     <string name="fingerprint_first_open_screen_password_face_tittle">Biometrics（set Lock screen password before using it）</string>
      <string name="fingerprint_first_open_screen_password_tittle">Impronta (imposta una password per la Schermata di blocco prima di utilizzarla)</string>
      <string name="fingerprint_for_keyguard_disabled">Il lettore impronte è stato disabilitato nelle impostazioni di sicurezza.</string>
      <string name="fingerprint_identify_input_password_msg">Inserisci password</string>
@@ -1599,6 +1607,7 @@ Questa funzione aiuta a proteggere i propri dati su dispositivi persi o rubati."
      <string name="fingerprint_lock_second">Sblocca Spazio Secondario</string>
      <string name="fingerprint_manage">Gestisci impronte</string>
      <string name="fingerprint_manage_category_title">Gestisci impronta digitale</string>
+     <string name="fingerprint_manage_tittle">Fingerprint</string>
      <string name="fingerprint_not_identified_msg">Impossibile leggere impronta. Inserisci la tua password</string>
      <string name="fingerprint_not_recognized">Non riconosciuta</string>
      <string name="fingerprint_removal_failed">"Impossibile rimuovere l'impronta. Riprova più tardi."</string>
@@ -1642,6 +1651,10 @@ Se il testo sul tuo dispositivo è troppo piccolo prova ad utilizzare "</string>
      <string name="force_allow_on_external_summary">Rendi tutte le app idonee per la scrittura su memoria esterna, senza considerare i valori del manifest.</string>
      <string name="force_hw_ui">Forza render GPU</string>
      <string name="force_hw_ui_summary">"Forza l'uso della GPU per i disegni 2D"</string>
+     <string name="force_immersive_compatibility_dont_hide">"Don't hide"</string>
+     <string name="force_immersive_compatibility_hide">Hide</string>
+     <string name="force_immersive_compatibility_hint_message">Some apps might not work properly if you choose to hide soft buttons.</string>
+     <string name="force_immersive_compatibility_hint_title">Compatibility issues</string>
      <string name="force_msaa">Forza MSAA 4x</string>
      <string name="force_msaa_summary">Attiva MSAA 4x in applicazioni OpenGL ES 2.0</string>
      <string name="force_resizable_activities">Forza le attività per renderle ridimensionabili</string>
@@ -1675,7 +1688,6 @@ Se il testo sul tuo dispositivo è troppo piccolo prova ad utilizzare "</string>
      <string name="free_wifi_connect_summary">Questa connessione Wi-Fi libera è in parte offerta da %1$s. Tocca per connetterti.</string>
      <string name="free_wifi_connect_title">Wi-Fi disponibile</string>
      <string name="free_wifi_connected">Connesso ad un Wi-Fi libero</string>
-     <string name="free_wifi_connected_count">%1$d people connected</string>
      <string name="free_wifi_connected_time">Durata: %1$s</string>
      <string name="free_wifi_connecting">Connessione in corso\u2026</string>
      <string name="free_wifi_login_again">Accedi nuovamente</string>
@@ -1724,6 +1736,7 @@ Quando attivi il backup automatico, il dispositivo e i dati delle applicazioni v
      <string name="google_backup_enable">Attiva backup</string>
      <string name="google_backup_section_title">Backup e ripristino di Google</string>
      <string name="google_title">Google</string>
+     <string name="got_it">Got it</string>
      <string name="gsm_to_wifi_connect_type_title">Da rete cellulare a Wi-Fi</string>
      <string name="handy_mode">Uso con una mano</string>
      <string name="handy_mode_enable">One-handed mode</string>
@@ -1761,6 +1774,8 @@ Quando attivi il backup automatico, il dispositivo e i dati delle applicazioni v
      <string name="help_feedback_label">Aiuto e feedback</string>
      <string name="help_label">Guida</string>
      <string name="hidden_ssid_label">SSID nascosto:</string>
+     <string name="hide">Hide</string>
+     <string name="hide_screen_button">Hide screen buttons</string>
      <string name="high_performance_notif_summary">La modalità Performance è attiva.</string>
      <string name="high_performance_notif_title">"Avviso sull'utilizzo della batteria"</string>
      <string name="high_performance_title">Sembra tu stia eseguendo un test di benchmark. Imposta la modalità \"Performance\" per avere risultati migliori.</string>
@@ -1994,7 +2009,6 @@ Quando attivi il backup automatico, il dispositivo e i dati delle applicazioni v
      <string name="location_agps_pref_reset_type_title">Tipologia reset preferita</string>
      <string name="location_agps_pref_si_title">Modalità preferita</string>
      <string name="location_agps_register_network_type">Tipo di accesso di rete</string>
-     <string name="location_agps_register_network_type_dialog_summary">Scegli una rete</string>
      <string name="location_agps_register_network_type_dialog_title">Seleziona rete</string>
      <string name="location_agps_register_network_type_summary">"Seleziona le rete per l'utilizzo di A-GPS"</string>
      <string name="location_agps_reset_type">Tipi di reset</string>
@@ -2134,7 +2148,6 @@ You can set a new screen lock for both your device and your work profile, but an
      <string name="lockpassword_password_too_short">La password deve essere lunga almeno %d caratteri</string>
      <string name="lockpassword_pattern_set_toast">Sequenza impostata</string>
      <string name="lockpassword_pin_contains_non_digits">Il PIN deve contenere solo cifre da 0 a 9.</string>
-     <string name="lockpassword_pin_fixed_length">Il PIN deve essere di %d cifre</string>
      <string name="lockpassword_pin_no_sequential_digits">Non è possibile usare una sequenza di numeri ascendente, discendente o ripetuta</string>
      <string name="lockpassword_pin_recently_used">"L'amministratore del dispositivo non consente l'utilizzo di un PIN recente."</string>
      <string name="lockpassword_pin_set_toast">PIN impostato</string>
@@ -2206,6 +2219,7 @@ You can set a new screen lock for both your device and your work profile, but an
      <string name="man_add_application">Aggiungi applicazioni in avvio automatico</string>
      <string name="manage_device_admin">Amministratori dispositivo</string>
      <string name="manage_device_admin_summary">Visualizza o disattiva amministratori dispositivo</string>
+     <string name="manage_facerecoginition_text">Manage face data</string>
      <string name="manage_fakecell_settings">Protection from fake base stations</string>
      <string name="manage_fingerprint_text">Gestisci impronte</string>
      <string name="manage_mobile_plan_title">Piano dati cellulare</string>
@@ -2542,6 +2556,10 @@ ed esegui il software."</string>
      <string name="no_default_home">No default Home</string>
      <string name="no_device_admins">Nessun amministratore disponibile</string>
      <string name="no_internet_access_remember">Non chiedere più per questa rete</string>
+     <!-- MNPS mismatch found! Translated: 1 Original: 0
+	%s: 1 Original: 0
+	%d: 0 Original: 0 -->
+     <!-- Original string: This network has no Internet access. Stay connected? -->
      <string name="no_internet_access_text">WLAN network %1$s has no access to the internet. Stay connected?</string>
      <string name="no_media_button_receiver">No</string>
      <string name="no_memory_use_summary">Nessun utilizzo della memoria nelle ultime 3 ore</string>
@@ -2895,7 +2913,6 @@ ed esegui il software."</string>
      <string name="print_searching_for_printers">Ricerca di stampanti</string>
      <string name="print_service_disabled">Servizio disabilitato</string>
      <string name="print_settings">Stampa</string>
-     <string name="print_settings_title">Servizi di stampa</string>
      <string name="printer_info_desc">More information about this printer</string>
      <string name="priority_storage_app_settings">Archiviazione dati %1$s</string>
      <string name="priority_storage_settings_summary">Se la scheda SD non viene rilevata, i dati verranno salvati automaticamente nella memoria interna del dispositivo</string>
@@ -3206,6 +3223,8 @@ Questa impostazione influisce su tutti gli utenti di questo dispositivo."</strin
      <string name="saved_wifi_delete">Elimina</string>
      <string name="scan_list_label">Risultati scansione:</string>
      <string name="screen">Schermo</string>
+     <string name="screen_button">Screen buttons</string>
+     <string name="screen_button_tips">Swipe down to hide screen buttons</string>
      <string name="screen_cells_config_title">Configurazione spazio schermo</string>
      <string name="screen_color_and_optimize">Colori e contrasto</string>
      <string name="screen_color_and_optimize_disabled">Impossibile regolare la temperatura del colore in modalità Lettura</string>
@@ -4260,7 +4279,7 @@ L'approccio di Google alla sincronizzazione di dati per consentirti l'accesso ai
      <string name="turn_off_keyguard_password_confirm_msg">Disattivare la password Schermata di blocco?</string>
      <string name="turn_off_keyguard_password_wait_dialog">Password di chiusura</string>
      <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg">Non sarai in grado di sbloccare il dispositivo con la tua impronta dopo aver disattivato la password per la Schermata di blocco</string>
-     <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg_delete">Dopo aver disattivato la password della Schermata di blocco, le impronte digitali registrate verranno eliminate. Non sarai in grado di sbloccare il dispositivo con la tua impronta digitale.</string>
+     <string name="turn_off_keyguard_password_with_fingerprint_face_confirm_msg">"After you turn off your Lock screen password, recorded fingerprints will be deleted. You won't be able to unlock the device using your fingerprint."</string>
      <string name="turn_off_security_lock">Disabilita il blocco</string>
      <string name="turn_on_keyguard_password">Attiva la password per la Schermata di blocco</string>
      <string name="turn_on_keyguard_password_alert">"Remember your password. If you forget it, you won't be able to restore it."</string>
@@ -4568,7 +4587,6 @@ Aggiungi una parola toccando il tasto +."</string>
      <string name="virtual_sim_title">Rete dati roaming</string>
      <string name="virus_scan">Antivirus</string>
      <string name="virus_scan_app_continue">Continua scansione</string>
-     <string name="virus_scan_app_find_risk">%d rischi rilevati</string>
      <string name="virus_scan_app_finish">Scansione completata</string>
      <string name="virus_scan_app_force_stop">Scansione in pausa</string>
      <string name="virus_scan_app_is_stop_scan">Vuoi interrompere la scansione?</string>
@@ -5011,7 +5029,6 @@ Tocca "<b>Indietro</b>" per connetterti a un'altra rete Wi-Fi."</string>
      <string name="wifi_share_connect">Connetti</string>
      <string name="wifi_share_connected_summary">Sei connesso ad una rete Wi-Fi pubblica che è stata condivisa da un altro utente</string>
      <string name="wifi_share_connected_title">Wi-Fi condiviso MIUI</string>
-     <string name="wifi_share_count">Hai condiviso %d reti</string>
      <string name="wifi_share_current_network">Rete attuale</string>
      <string name="wifi_share_know">OK</string>
      <string name="wifi_share_list_empty">Nessuna rete condivisa trovata.</string>

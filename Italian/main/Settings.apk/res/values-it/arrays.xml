@@ -1220,6 +1220,11 @@
         <item>Consenti</item>
         <item>Nega</item>
      </string-array>
+     <string-array name="status_bar_show_carrier_entries">
+        <item>Only show in lock screen and notification panel</item>
+        <item>Always show carrier name</item>
+        <item>Never show carrier name</item>
+     </string-array>
      <string-array name="status_bar_style_entries">
         <item>Combinato</item>
         <item>Separato</item>

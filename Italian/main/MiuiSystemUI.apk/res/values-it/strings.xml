@@ -164,6 +164,7 @@
      <string name="bugreport_in_power_summary">Mostra il pulsante per generare una segnalazione bug nel power menù</string>
      <string name="button_convert_fbe">Pulisci e converti…</string>
      <string name="call_status_dialing">Composizione</string>
+     <string name="call_status_holding">Holding</string>
      <string name="call_status_ringing">Chiamata in corso</string>
      <string name="camera_key_action_app_title">Apri applicazione</string>
      <string name="camera_key_action_category_title">"Utilizza se l'applicazione Fotocamera non è aperta"</string>
