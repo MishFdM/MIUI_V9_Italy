@@ -97,7 +97,7 @@
      <string name="back_button_label">Indietro</string>
      <string name="back_description">Indietro</string>
      <string name="block">Blocca</string>
-     <string name="block_ads_choice_block">Blcca</string>
+     <string name="block_ads_choice_block">Blocca</string>
      <string name="block_ads_choice_continue">Continua</string>
      <string name="block_ads_message">Vuoi bloccare i messaggi da questo sito?</string>
      <string name="block_ads_title">Il contenuto potrebbe includere pubblicità</string>
@@ -563,10 +563,10 @@ Sei sicuro di voler abbandonare questa pagina?"</string>
      <string name="pref_accessibility_url_shortcut_enter_title">Immissione rapida URL</string>
      <string name="pref_adblock_counts">%d bloccati</string>
      <string name="pref_adblock_title">Ad blocker</string>
-     <string name="pref_advert_null">Unmarked advertising,You can press the label on the page</string>
+     <string name="pref_advert_null">"Pubblicità non segnalata, puoi toccare l'etichetta sulla pagina"</string>
      <string name="pref_auto_update_under_wifi">Aggiorna automaticamente con Wi-Fi</string>
      <string name="pref_automatic_matching_searchengines_title">Passaggio al motore di ricerca più utilizzato</string>
-     <string name="pref_cancel_screen">Cancel screen</string>
+     <string name="pref_cancel_screen">Annulla schermata</string>
      <string name="pref_category_hint">Categoria</string>
      <string name="pref_check_security_url_summary">Invia ai server Xiaomi per verificarne la sicurezza</string>
      <string name="pref_check_security_url_summary_international">Per fornire un servizio migliore, consenti al browser di accedere ai tuoi URL</string>
@@ -610,7 +610,7 @@ Sei sicuro di voler abbandonare questa pagina?"</string>
      <string name="pref_force_userscalable_summary">Ignora richieste dei siti di controllare lo zoom</string>
      <string name="pref_general_title">Generali</string>
      <string name="pref_key_gesture_title">Tasti e gesti</string>
-     <string name="pref_label_advert_manager">Manager labelled ads</string>
+     <string name="pref_label_advert_manager">Gestione pubblicità segnalata</string>
      <string name="pref_nav_mode_summary_pad">Tablet</string>
      <string name="pref_nav_mode_summary_phone">Telefono</string>
      <string name="pref_nav_mode_title">Modalità browser</string>
@@ -920,7 +920,7 @@ Sei sicuro di voler abbandonare questa pagina?"</string>
      <string name="view_certificate">Visualizza certificato</string>
      <string name="view_document_downloaded_files">Accedi ai file scaricati del Gestore download</string>
      <string name="voice_check_network">Controlla la rete e prova di nuovo</string>
-     <string name="voice_close_description">Close</string>
+     <string name="voice_close_description">Chiudi</string>
      <string name="voice_connect_network">Impossibile connettersi alla rete</string>
      <string name="voice_description">RIcerca vocale</string>
      <string name="voice_network_connection">"L'utilizzo della ricerca vocale richiede la connessione di rete, devi autorizzare la connessione"</string>

@@ -81,8 +81,8 @@ Prima di calibrare il dispositivo, posizionalo su una superficie piana."</string
      <string name="cit_audio_cali_t0">T0:</string>
      <string name="cit_audio_cali_title">Test calibrazione Altoparlante</string>
      <string name="cit_audio_calibrating">Calibrazione in corso…</string>
-     <string name="cit_audio_check_summary">The Audio Info.</string>
-     <string name="cit_audio_check_title">Audio Info</string>
+     <string name="cit_audio_check_summary">Info audio</string>
+     <string name="cit_audio_check_title">Info audio</string>
      <string name="cit_audio_get_temp_fail">Get temp data Failed!</string>
      <string name="cit_audio_hdset_plug">"Audio headset plug times: "</string>
      <string name="cit_audio_lb_backmic_to_speaker_title">Test da Microfono post. ad Altoparlante</string>

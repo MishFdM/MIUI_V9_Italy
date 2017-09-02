@@ -17,7 +17,7 @@
         <item quantity="one">Questa conversazione contiene elementi uniti, sicuro di volerla eliminare?</item>
      </plurals>
      <plurals name="confirm_delete_draft">
-        <item quantity="other">Delete %1$d draft？</item>
+        <item quantity="other">Eliminare %1$d bozze?</item>
      </plurals>
      <plurals name="contact_num_selected">
         <item quantity="other">%d selezionati</item>
@@ -36,8 +36,8 @@
         <item quantity="one">Cartella modificata.</item>
      </plurals>
      <plurals name="conversation_msg_header_count">
-        <item quantity="other">… %1$d persons</item>
-        <item quantity="one">… %1$d person</item>
+        <item quantity="other">… %1$d persone</item>
+        <item quantity="one">… %1$d persona</item>
      </plurals>
      <plurals name="conversation_muted">
         <item quantity="other">%1$d silenziose.</item>
@@ -68,8 +68,8 @@
         <item quantity="one">In %d giorno</item>
      </plurals>
      <plurals name="day_before">
-        <item quantity="other">%d giorni fà</item>
-        <item quantity="one">%d giorno fà</item>
+        <item quantity="other">%d giorni fa</item>
+        <item quantity="one">%d giorno fa</item>
      </plurals>
      <plurals name="draft">
         <item quantity="other">Bozze</item>

@@ -15,7 +15,7 @@
      <string name="ac_firstUseApplock_title">Richiedi una password per accedere alle app.</string>
      <string name="ac_summaryOff">Disattivato, non serve una password per aprire le applicazioni</string>
      <string name="ac_summaryOn">Attivato, è necessaria una password per aprire le applicazioni</string>
-     <string name="access_control_app_is_launching">App is starting</string>
+     <string name="access_control_app_is_launching">App in avvio</string>
      <string name="access_control_failed_need_to_unlock_nofingerprint">"E' richiesta la password per aprire l'app"</string>
      <string name="access_control_fingerprint_not_identified_msg">Impossibile trovare impronta.</string>
      <string name="access_control_need_password">"%s blocco aggiunta con successo
@@ -224,7 +224,7 @@
 se se dimenticata"</string>
      <string name="applock_add_account_setting">Account e privacy</string>
      <string name="applock_bind_account_title">Ripristino della password</string>
-     <string name="applock_close_dialog_summary">Le app non saranno più protette e la tua password verrà elimintata dopo la disattivazione di App lock.</string>
+     <string name="applock_close_dialog_summary">Le app non saranno più protette e la tua password verrà eliminata dopo la disattivazione di App lock.</string>
      <string name="applock_close_dialog_title">Disattivare App lock?</string>
      <string name="applock_exit_account_info">"L'account verrà rimosso automaticamente quando esegui il logout"</string>
      <string name="applock_header_text_less_than_half">Spazio insufficiente per questa app. Sposta il separatore.</string>
@@ -962,7 +962,7 @@ dall'operatore"</string>
      <string name="menu_item_virus_install_monitor_title">Gestore installazioni</string>
      <string name="menu_item_virus_lib_auto_update_summary">Ultimo aggiornamento: %s</string>
      <string name="menu_remove">Rimuovi</string>
-     <string name="menu_report">Report error</string>
+     <string name="menu_report">Segnala errore</string>
      <string name="menu_sms">Invia messaggio</string>
      <string name="menu_text_antispam">Blacklist</string>
      <string name="menu_text_antivirus">Antivirus</string>
@@ -1384,7 +1384,7 @@ Questa attività riduce la durata della batteria."</string>
      <string name="preferred_app_entries_messaging">Messaggi</string>
      <string name="preferred_app_entries_music">Musica</string>
      <string name="privacy_declare_dialog_title">Termini del Servizio</string>
-     <string name="privacy_dialog_message">"When you connect to the internet, this message along with the carrier info will be encrypted and uploaded to Mi's servers to help us improve data usage monitoring."</string>
+     <string name="privacy_dialog_message">"Quando ti colleghi ad internet, questo messaggio insieme alle informazioni dell'operatore, verrà crittografato e caricato sui server Mi per aiutarci a migliorare il monitoraggio del consumo dei dati."</string>
      <string name="privacy_mode_dialog_title">Modalità ospite</string>
      <string name="privacy_prompt_tc_sms_report_message">Il tuo numero di telefono e le informazioni sul tuo operatore verranno crittografate e caricate sui server Xiaomi per aggiornare le informazioni sul tuo utilizzo del traffico dati.</string>
      <string name="privacy_prompt_traffic_adjust_message">"Questa funzione deve crittografare ed inviare il tuo IMEI, numero di telefono ed informazioni sul tuo operatore ai server Xiaomi per poter recuperare le statistiche del consumo dati dal tuo operatore.</string>
@@ -1402,7 +1402,7 @@ Questa attività riduce la durata della batteria."</string>
      <string name="quick_optimize_no_issue">Nessun problema batteria rilevato</string>
      <string name="quick_optimize_no_issue_subtitle">Tutto sembra in buono stato</string>
      <string name="quick_optimize_no_issue_title">Nessun problema batteria rilevato</string>
-     <string name="quick_optimize_sub_summary_text">Aggiunti %sdi durata alla batteria</string>
+     <string name="quick_optimize_sub_summary_text">Aggiunti %s di durata alla batteria</string>
      <string name="quick_optimize_suggest_battery_consume_too_fast">La batteria si sta scaricando rapidamente, prendi provvedimenti</string>
      <string name="quick_optimize_suggest_battery_over_heat">Il telefono si sta surriscaldando, prendi provvedimenti</string>
      <string name="random_expression">Espressione casuale</string>

@@ -291,7 +291,7 @@ Se riattivi i dati, l'operatore potrebbe addebitarti un costo."</string>
      <string name="force_hw_ui_summary">Force uso GPU per disegno 2D</string>
      <string name="force_msaa">Forza 4x MSAA</string>
      <string name="force_msaa_summary">Abilita 4x MSAA su app OpenGL ES 2.0</string>
-     <string name="force_resizable_activities">Forza attività di ridimensione</string>
+     <string name="force_resizable_activities">Forza attività di ridimensionamento</string>
      <string name="force_resizable_activities_summary">Rendi tutte le attività multi finestra ridimensionabili, indipendentemente dai loro valori di manifest.</string>
      <string name="force_rtl_layout_all_locales">Forza direzione layout RTL</string>
      <string name="force_rtl_layout_all_locales_summary">Forza direzione layout ad RTL per tutte le località</string>

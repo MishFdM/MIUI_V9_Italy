@@ -69,7 +69,7 @@ per essere in grado di vederli sempre"</string>
      <string name="delete_src_photo">Elimina foto</string>
      <string name="dir_switch_out_all_photos">Galleria Spazio Secondario</string>
      <string name="disable">Disattiva</string>
-     <string name="do_not_ask">"Don't ask again"</string>
+     <string name="do_not_ask">Non chiedere più</string>
      <string name="dont_import">Non adesso</string>
      <string name="downloading_space">Download in corso...</string>
      <string name="enable">Attiva</string>
@@ -91,13 +91,13 @@ per essere in grado di vederli sempre"</string>
      <string name="finger_print_of_use">Utilizza impronta digitale</string>
      <string name="fingerprint_removal_failed">"Impossibile eliminare l'impronta"</string>
      <string name="function_not_support">Non supportato in questo spazio</string>
-     <string name="gms_message">Creating dual apps requires working with Google services. Create a dual app for Google services?</string>
-     <string name="gms_open_button">Turn on</string>
-     <string name="gms_title">Turn on Google services</string>
+     <string name="gms_message">"La creazione di app clonate richiede i servizi Google. Creare un'app clonata per i servizi Google?"</string>
+     <string name="gms_open_button">Attiva</string>
+     <string name="gms_title">Attiva i servizi Google</string>
      <string name="goToSecondSpacce">Vai allo Spazio Secondario</string>
      <string name="go_on_import">Continua importazione</string>
-     <string name="gpg_message">Creating dual apps for games requires working with Google Play Games. Create a dual app for Google Play Games?</string>
-     <string name="gpg_title">Dual app for Google Play Games</string>
+     <string name="gpg_message">"La crezione di app clonate per i giochi richiede Google Play Games. Creare un'app clonata per Google Play Games?"</string>
+     <string name="gpg_title">App clonata per Google Play Games</string>
      <string name="guide_contact_sub_title_desc">"I contatti aggiunti allo spazio Secondario saranno privati.
 I messaggi saranno visibili solo nello spazio Secondario."</string>
      <string name="guide_contact_suc_sub_title_desc">Solo i contatti e i messaggi privati verranno mostrati nello spazio Secondario</string>
@@ -186,7 +186,7 @@ per accedervi dalla schermata di blocco"</string>
      <string name="scanner_fingerprint_tips_desc">"Seleziona l'impronta esistente per entrare nello spazio Secondario. Non sarai in grado di utilizzarla per lo spazio Primario."</string>
      <string name="scanner_fingerprint_tips_title">"Accedi allo spazio Secondario utilizzando l'impronta esistente"</string>
      <string name="scanner_second_space_fingerprint">Scansiona impronta per lo spazio Secondario</string>
-     <string name="sdcardfs_dialog_message">进入分身前需要在开发者选项中关闭”模拟SD卡优化“</string>
+     <string name="sdcardfs_dialog_message">"Prima di inserire l'avatar, devi disattivare l'Otimizzazione Simulazione SD nelle opzioni sviluppatore"</string>
      <string name="search_input_txt_na">"&lt;font color='#ff0000'&gt;%s&lt;/font&gt;"</string>
      <string name="search_result_text">Non è stato possibile trovare alcuna app</string>
      <string name="secondSpace">Spazio Secondario</string>
@@ -278,7 +278,7 @@ per accedere dalla schermata di blocco"</string>
      <string name="xspace_creating">Clonazione app…</string>
      <string name="xspace_description">Crea app clonate da utilizzare separatamente. Le app clonate avranno una propria icona sulla Home.</string>
      <string name="xspace_guide_des">Utilizza 2 account senza cambiare</string>
-     <string name="xspace_guide_title">Crea appclonata per %s</string>
+     <string name="xspace_guide_title">Crea app clonata per %s</string>
      <string name="xspace_header">Clona applicazioni</string>
      <string name="xspace_install_completed">Icona aggiunta alla Home</string>
      <string name="xspace_install_failed">Impossibile clonare</string>

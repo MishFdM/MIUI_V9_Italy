@@ -3,7 +3,7 @@
      <string name="activity_package_delete_confirm_title">Avviso importante</string>
      <string name="add_frequent_phrases">Aggiungi frase</string>
      <string name="all_call_livetalk_enable">Pacchetti di ricarica per effettuare le chiamate nazionali e internazionali </string>
-     <string name="all_call_livetalk_remain_mins">Minuti rimaennti: %1$s nazionale or %2$s internazionale</string>
+     <string name="all_call_livetalk_remain_mins">Minuti rimanenti: %1$s nazionale or %2$s internazionale</string>
      <string name="always">Sempre</string>
      <string name="alwaysUsePrompt">Ricorda questa scelta</string>
      <string name="apply_password_action">Imposta password</string>
@@ -99,7 +99,7 @@ Per attivare questa funzione, vai in Impostazioni > Sistema > Tasti"</string>
      <string name="reboot_info_auto_boot">Il dispositivo è programmato per avviarsi alle %s</string>
      <string name="reboot_info_shutdown_alarm">"La sveglia suonerà alle %s"</string>
      <string name="reboot_progress">Riavvio in corso…</string>
-     <string name="remain">Remaining:%s</string>
+     <string name="remain">Rimanente:%s</string>
      <string name="replace">Sostituisci</string>
      <string name="resource_select">Seleziona</string>
      <string name="screen_button_notification_text">Per attivarli premi contemporaneamente i tasti Home e Power.</string>
@@ -159,11 +159,11 @@ Per attivare questa funzione, vai in Impostazioni > Sistema > Tasti"</string>
      <string name="status_bar_toggle_wifi">Wi-Fi</string>
      <string name="status_bar_toggle_wifi_ap">Hotspot</string>
      <string name="subinfo_default_name">SIM %d</string>
-     <string name="switch_brand_desc_tv">Security services provided by Graphite</string>
-     <string name="switch_desc_tv">Two spaces. One device.</string>
-     <string name="switching_tv">Switching…</string>
+     <string name="switch_brand_desc_tv">Servizi di sicurezza forniti da Graphite</string>
+     <string name="switch_desc_tv">Due spazi. Un dispositivo.</string>
+     <string name="switching_tv">Cambio in corso…</string>
      <string name="total">DND</string>
-     <string name="total_description">[DND] Silenzia i suoni e disattiva la vibrazione epr tutti gli elementi ad esclusione della sveglia</string>
+     <string name="total_description">[DND] Silenzia i suoni e disattiva la vibrazione per tutti gli elementi ad esclusione della sveglia</string>
      <string name="total_title">DND..</string>
      <string name="translation_more">Altro</string>
      <string name="translation_query_error">Impossibile trovare risultati</string>

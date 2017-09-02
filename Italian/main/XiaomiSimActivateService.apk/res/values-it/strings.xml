@@ -110,11 +110,11 @@ Immetti il numero di telefono associato alla tua nuova SIM card per riattivare %
      <string name="explain_send_sms_permission_button">Verifica</string>
      <string name="explain_send_sms_permission_msg">"Per attivare %s, Xiaomi Service Framework invierà un SMS per verificare il tuo numero di telefono. Il costo dell'SMS sarà quello previsto dal tuo piano tariffario."</string>
      <string name="explain_send_sms_permission_title">Verifica il tuo numero di telefono</string>
-     <string name="phone_get_processing">getting…</string>
-     <string name="phone_get_text">Do you agree %1$s to get your phone number：%2$s</string>
-     <string name="phone_get_title">Agree %1$s to get your phone number</string>
-     <string name="phone_verify_processing">verifying…</string>
-     <string name="phone_verify_text">%1$s will not get your phone number，just verify your phone number is match。</string>
-     <string name="phone_verify_title">Agree %1$s to verify your phone number</string>
+     <string name="phone_get_processing">ricezione…</string>
+     <string name="phone_get_text">Acconsenti affinché %1$s di acceda al tuo numero telefonico：%2$s</string>
+     <string name="phone_get_title">Acconsenti affinché %1$s acceda al tuo numero telefonico</string>
+     <string name="phone_verify_processing">verifica in corso…</string>
+     <string name="phone_verify_text">%1$s non accederà al tuo numero telefonico,ne verificherà soltanto la corrispondenza.</string>
+     <string name="phone_verify_title">Acconsenti che %1$s verifichi il tuo numero telefonico</string>
      <string name="sim_unactivated_title">La tua SIM non è stata attivata</string>
 </resources>

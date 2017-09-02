@@ -176,7 +176,7 @@
      <string name="toast_notes_unhidden">Visualizzate correttamente</string>
      <string name="toast_notes_unhidden_count">%1$s visualizzate correttamente</string>
      <string name="toast_reach_text_limit_attachment">Il contenuto della nota è troppo lungo per aggiungere un altro allegato.</string>
-     <string name="toast_reach_text_limit_checkbox">"Can't add checkbox because note is too long"</string>
+     <string name="toast_reach_text_limit_checkbox">Impossibile aggiungere checkbox di spunta perché la nota è troppo lunga</string>
      <string name="toast_reach_text_limit_truncate">Il contenuto della nota è stato tagliato perché troppo lungo.</string>
      <string name="toolbar_check_description">Aggiungi checkbox</string>
      <string name="toolbar_delete_description">Elimina questa nota</string>

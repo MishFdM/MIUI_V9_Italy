@@ -253,9 +253,9 @@
         <item>Maiuscoletto</item>
      </string-array>
      <string-array name="cellcular2wifi_entries">
-        <item>Automatically connect</item>
-        <item>Manually connect</item>
-        <item>Always ask</item>
+        <item>Connetti automaticamente</item>
+        <item>Connetti manualmente</item>
+        <item>Chiedi sempre</item>
      </string-array>
      <string-array name="change_security_lock_picker">
         <item>Sblocca col sorriso</item>
@@ -846,14 +846,14 @@
         <item>America/Panama</item>
      </string-array>
      <string-array name="color_mode_descriptions">
-        <item>Enhanced colors</item>
-        <item>Natural colors as seen by the eye</item>
-        <item>Colors optimized for digital content</item>
+        <item>Migliora i colori</item>
+        <item>"Colori naturali come visti dall'occhio"</item>
+        <item>Colori ottimizzati per contenuti digitali</item>
      </string-array>
      <string-array name="color_mode_names">
-        <item>Vibrant (default)</item>
-        <item>Natural</item>
-        <item>Standard</item>
+        <item>Vibrante (default)</item>
+        <item>Naturale</item>
+        <item>Normale</item>
      </string-array>
      <string-array name="color_picker">
         <item>Teal</item>
@@ -891,10 +891,10 @@
         <item>30 minuti</item>
      </string-array>
      <string-array name="edge_touch_volume_action">
-        <item>Click adjust - Double click trigger</item>
-        <item>Slip adjust - Slip trigger</item>
-        <item>Click adjust - Click trigger</item>
-        <item>Click adjust - Long Click trigger</item>
+        <item>Regolazione tocco - Attiva con doppio tocco</item>
+        <item>Regolazione scorrimento - Attiva con scorrimento</item>
+        <item>Regolazione tocco - Attiva con il tocco</item>
+        <item>Regolazione tocco - Attiva tenendo premuto</item>
      </string-array>
      <string-array name="enable_opengl_traces_entries">
         <item>Nessuno</item>
@@ -1124,13 +1124,13 @@
         <item>Freddi</item>
      </string-array>
      <string-array name="screen_key_long_press_action">
-        <item>None</item>
-        <item>Show recent apps</item>
-        <item>Launch Assistant</item>
-        <item>Launch Google Now</item>
-        <item>Close current app</item>
-        <item>Launch quick search</item>
-        <item>Show menu</item>
+        <item>Nessuno</item>
+        <item>Mostra app recenti</item>
+        <item>Avvia Assistente</item>
+        <item>Avvia Google Now</item>
+        <item>Chiudi app attive</item>
+        <item>Avvia ricerca veloce</item>
+        <item>Mostra menu</item>
      </string-array>
      <string-array name="screen_key_long_press_timeout">
         <item>0.5 secondi</item>
@@ -1175,13 +1175,13 @@
         <item>Consenti sempre</item>
      </string-array>
      <string-array name="select_logd_size_lowram_titles">
-        <item>Off</item>
+        <item>Disattivato</item>
         <item>64K</item>
         <item>256K</item>
         <item>1M</item>
      </string-array>
      <string-array name="select_logd_size_summaries">
-        <item>Off</item>
+        <item>Disattivato</item>
         <item>64K per log buffer</item>
         <item>256K per log buffer</item>
         <item>1M per log buffer</item>
@@ -1189,7 +1189,7 @@
         <item>16M per log buffer</item>
      </string-array>
      <string-array name="select_logd_size_titles">
-        <item>Off</item>
+        <item>Disattivato</item>
         <item>64K</item>
         <item>256K</item>
         <item>1M</item>
@@ -1221,9 +1221,9 @@
         <item>Nega</item>
      </string-array>
      <string-array name="status_bar_show_carrier_entries">
-        <item>Only show in lock screen and notification panel</item>
-        <item>Always show carrier name</item>
-        <item>Never show carrier name</item>
+        <item>Mostra solo nella schermata di blocco e nel pannello delle notifiche</item>
+        <item>Mostra sempre il nome dell'operatore</item>
+        <item>Non mostrare mai il nome dell'operatore</item>
      </string-array>
      <string-array name="status_bar_style_entries">
         <item>Combinato</item>
@@ -1289,11 +1289,11 @@
         <item>Nome applicazione</item>
      </string-array>
      <string-array name="usb_configuration_titles">
-        <item>Charging</item>
+        <item>In caricamento</item>
         <item>MTP (Media Transfer Protocol)</item>
         <item>PTP (Picture Transfer Protocol)</item>
         <item>RNDIS (USB Ethernet)</item>
-        <item>Audio Source</item>
+        <item>FOnte Audio</item>
         <item>MIDI</item>
      </string-array>
      <string-array name="usb_connection_mode_entries">
@@ -1344,8 +1344,8 @@
         <item>Solo Wi-Fi</item>
      </string-array>
      <string-array name="wifi_calling_mode_choices_without_wifi_only">
-        <item>WLAN preferred</item>
-        <item>Cellular preferred</item>
+        <item>Wi-Fi preferita</item>
+        <item>Rete mobile preferita</item>
      </string-array>
      <string-array name="wifi_connect_type_entries">
         <item>Connetti automaticamente</item>

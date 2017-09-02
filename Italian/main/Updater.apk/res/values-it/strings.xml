@@ -6,7 +6,7 @@
      <string name="VideoView_error_title">Problema video</string>
      <string name="active_xiaomi_account">Attiva</string>
      <string name="active_xiaomi_account_title">Attiva Mi Account</string>
-     <string name="alpha_cancel">Esci dal programma di beta testing</string>
+     <string name="alpha_cancel">Esci dal programma di beta test</string>
      <string name="alpha_cancel_cancel">Annulla</string>
      <string name="alpha_cancel_ok">OK</string>
      <string name="alpha_no_network">Collegati alla rete per accedere</string>
@@ -61,10 +61,10 @@
      <string name="continue_update_positive_btn">Interrompi</string>
      <string name="daily_build">Giornaliera</string>
      <string name="delay_update_text">Aggiorna dopo</string>
-     <string name="dialog_3g_desc">Be aware that using Mobile Data to download ROMs might take significant quota of your packet.</string>
-     <string name="dialog_3g_title">Warning!</string>
-     <string name="dialog_btn_3g">Continue Anyway</string>
-     <string name="dialog_btn_wifi">Switch to Wi-Fi</string>
+     <string name="dialog_3g_desc">"Ricorda ce l'utilizzo della rete dati mobile per il download delle ROM potrebbe consumare un grande quantitativo del tuo traffico dati disponibile."</string>
+     <string name="dialog_3g_title">Attenzione!</string>
+     <string name="dialog_btn_3g">Continua comunque</string>
+     <string name="dialog_btn_wifi">Passa a Wi-Fi</string>
      <string name="dialog_delay_update_cancel">Annulla</string>
      <string name="dialog_delay_update_msg">"Il dispositivo si riavvierà per installare l'aggiornamento quando sarà acceso e con almeno il 30% di carica"</string>
      <string name="dialog_delay_update_title">Aggiornamento disponibile</string>
@@ -112,7 +112,7 @@ I dati non verranno cancellati."</string>
      <string name="log_status_locked_info">Spiacente，Non hai i permessi per accedere al log di aggiornamento</string>
      <string name="log_status_locked_summary">Prova a loggarti nel sistema con uno Xiaomi ID autorizzato</string>
      <string name="menu_more_button">Menu</string>
-     <string name="menu_title_apply_for_alpha">Accedi al programma di beta testing</string>
+     <string name="menu_title_apply_for_alpha">Accedi al programma di beta test</string>
      <string name="menu_title_current_version_log">Riepilogo aggiornamento</string>
      <string name="menu_title_download_current_rom">Scarica pacchetto di aggiornamento</string>
      <string name="menu_title_pick_rom_file">Seleziona pacchetto di aggiornamento</string>
@@ -173,7 +173,7 @@ Nessun aggiornamento sarà disponibile per te!"</string>
      <string name="open_now">Sì</string>
      <string name="particular_build">Speciale</string>
      <string name="pause">Pausa</string>
-     <string name="permdesc_cache_filesystem">"Consenti allapp di creare file nella directory /cache."</string>
+     <string name="permdesc_cache_filesystem">"Consenti all'app di creare file nella directory /cache."</string>
      <string name="permdesc_reboot">"Consenti all'app di riavviare il dispositivo."</string>
      <string name="permlab_cache_filesystem">Accesso alla cache</string>
      <string name="permlab_reboot">Accesso al riavvio</string>

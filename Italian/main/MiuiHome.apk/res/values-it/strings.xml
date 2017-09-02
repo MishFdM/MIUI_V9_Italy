@@ -61,7 +61,7 @@
      <string name="default_folder_title_security">Sistema</string>
      <string name="default_folder_title_telcel">Telcel</string>
      <string name="default_folder_title_tools">Strumenti</string>
-     <string name="default_screen_preview_title">Default screen Setting</string>
+     <string name="default_screen_preview_title">Impostazioni schermo predefinite</string>
      <string name="default_shortcut_title_10086">10086.cn</string>
      <string name="delete">Elimina</string>
      <string name="delete_screen">Elimina tasto schermo</string>
@@ -159,7 +159,7 @@
      <string name="menu_back_desktop">Torna alla Home</string>
      <string name="menu_cell_setting">Impostazioni schermo</string>
      <string name="menu_customize">Personalizza impostazioni</string>
-     <string name="menu_default_screen_preview">Default screen Setting</string>
+     <string name="menu_default_screen_preview">Impostazioni schermo predefinite</string>
      <string name="menu_edit">Modifica</string>
      <string name="menu_exit_scene">Esci da Free Desktop</string>
      <string name="menu_item_add_item">Inserire nella schermata Home</string>

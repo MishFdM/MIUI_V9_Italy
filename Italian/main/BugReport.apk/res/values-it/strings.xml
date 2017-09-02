@@ -57,7 +57,7 @@
      <string name="feedback_collect_log_failed">Impossibile recuperare log</string>
      <string name="feedback_contact_info_hint">Telefono / Email</string>
      <string name="feedback_continue">Continua con il feedback</string>
-     <string name="feedback_delete_images">Delete images</string>
+     <string name="feedback_delete_images">Elimina immagini</string>
      <string name="feedback_description">Descrizione</string>
      <string name="feedback_description_bugreport_hint">In alcuni casi () il telefono da problemi ().</string>
      <string name="feedback_description_label">Descrizione</string>
@@ -100,7 +100,7 @@
      <string name="feedback_submit_hint">Segnalaci un errore appena lo rilevi, così ci aiuterai a risolverlo più rapidamente.</string>
      <string name="feedback_submit_hint1">Ti notificheremo sui progressi del tuo report</string>
      <string name="feedback_submit_hint2">Vai in \"Le mie segnalazioni\" per vedere i dettagli</string>
-     <string name="feedback_submit_hint_gone">Closed message</string>
+     <string name="feedback_submit_hint_gone">Messaggio chiuso</string>
      <string name="feedback_submit_succ">Inviato correttamente</string>
      <string name="feedback_submit_succ_button">Fatto</string>
      <string name="feedback_submitting">Invio in corso…</string>
@@ -290,7 +290,7 @@
      <string name="toast_report_copied_to_clipboard">Rapporto copiato negli appunti</string>
      <string name="toast_report_sent_failed">Invio rapporto fallito</string>
      <string name="toast_report_sent_succeed">Il rapporto è stato inviato con successo</string>
-     <string name="toast_screenshot_too_large">"Can't upload files bigger than 10MB."</string>
+     <string name="toast_screenshot_too_large">Impossibile caricare file pi grandi di 10 MB.</string>
      <string name="toast_third_packagename_required">Inserisci nome app</string>
      <string name="toast_title_required">Descrivi il tuo problema</string>
      <string name="try_again">Prova di nuovo</string>

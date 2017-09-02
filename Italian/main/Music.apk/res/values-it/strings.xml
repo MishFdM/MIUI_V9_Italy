@@ -380,7 +380,7 @@
      <string name="global_search_key_internet">lista canzoni di rete</string>
      <string name="global_search_key_movie">lista canzoni da film</string>
      <string name="global_search_key_prenatal">musica prenatale</string>
-     <string name="global_search_key_radar">riconoscimusica</string>
+     <string name="global_search_key_radar">riconosci musica</string>
      <string name="global_search_title_absolute">Musica pura</string>
      <string name="global_search_title_buddha">Musica buddhista</string>
      <string name="global_search_title_cantonese">Lista canzoni cantonesi</string>
@@ -847,8 +847,8 @@ attendere o selezionare Musica Online."</string>
      <string name="toast_download_error_by_not_login">Accedi al Mi Account e prova di nuovo.</string>
      <string name="toast_download_error_by_vip_required">"Effettua l'iscrizione a Premium per scaricare questo brano."</string>
      <string name="toast_download_in_process">Download in corso</string>
-     <string name="toast_new_playlist_name_no_enter">"key 'Enter' has been deleted'"</string>
-     <string name="toast_new_playlist_name_too_long">Playlist name is too long</string>
+     <string name="toast_new_playlist_name_no_enter">"il tasto 'Avvia' è stato eliminato'"</string>
+     <string name="toast_new_playlist_name_too_long">Nome playlist troppo lungo</string>
      <string name="toast_normal_songs_for_download">Qualità download impostata su Normale</string>
      <string name="toast_normal_songs_for_stream">Qualità streaming impostata su Normale</string>
      <string name="toast_stream_normal">Riproduzione in Qualità Normale. Ottieni il Pacchetto Musica Premium per goderti lo streaming ad alta qualità.</string>

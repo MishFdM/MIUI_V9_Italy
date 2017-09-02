@@ -23,7 +23,7 @@
      <string name="add_contact_dlg_message_fmt">Aggiungi \"%s\" ai contatti?</string>
      <string name="add_display_photo_entry">Aggiungi foto profilo</string>
      <string name="add_field">Aggiungi un altro campo</string>
-     <string name="add_field_toast">No more fields to add.</string>
+     <string name="add_field_toast">Nessun altro campo da aggiungere.</string>
      <string name="add_incall_show_entry">Aggiungi video</string>
      <string name="add_new_account">Aggiungi nuovo account</string>
      <string name="add_new_entry_for_section">Aggiungi nuovo</string>
