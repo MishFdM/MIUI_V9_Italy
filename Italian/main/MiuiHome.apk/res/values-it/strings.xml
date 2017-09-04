@@ -164,8 +164,8 @@
      <string name="menu_exit_scene">Esci da Free Desktop</string>
      <string name="menu_item_add_item">Inserire nella schermata Home</string>
      <string name="menu_launcher_setting">Launcher</string>
-     <string name="menu_lock">Lock Screen</string>
-     <string name="menu_more">More</string>
+     <string name="menu_lock">Schermata di blocco</string>
+     <string name="menu_more">Altro</string>
      <string name="menu_picktheme">Seleziona tema</string>
      <string name="menu_reset_scene">Torna a scena predefinita</string>
      <string name="menu_search">Cerca</string>
