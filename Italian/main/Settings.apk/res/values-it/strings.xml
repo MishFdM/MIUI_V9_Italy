@@ -3904,8 +3904,8 @@ Questo è reso possibile da credenziali attendibili installate sul tuo dispositi
      <string name="status_bar_settings_style">Stile barra di stato</string>
      <string name="status_bar_settings_toggle_collapse_after_clicked">Chiudi dopo il tocco</string>
      <string name="status_bar_settings_toggle_position">Posizione comandi</string>
-     <string name="status_bar_settings_user_fold">Notifications folder</string>
-     <string name="status_bar_settings_user_fold_summary">All unimportant notifications will appear in a separate folder</string>
+     <string name="status_bar_settings_user_fold">Notifiche cartelle</string>
+     <string name="status_bar_settings_user_fold_summary">Tutte le notifiche non importanti verranno visualizzate in una cartella separata</string>
      <string name="status_bar_style_list">Singola pagina</string>
      <string name="status_bar_style_page">Doppia pagina</string>
      <string name="status_bt_address">Indirizzo Bluetooth</string>
