@@ -1222,8 +1222,8 @@
      </string-array>
      <string-array name="status_bar_show_carrier_entries">
         <item>Mostra solo nella schermata di blocco e nel pannello delle notifiche</item>
-        <item>Mostra sempre il nome dell'operatore</item>
-        <item>Non mostrare mai il nome dell'operatore</item>
+        <item>Mostra sempre il nome dell\'operatore</item>
+        <item>Non mostrare mai il nome dell\'operatore</item>
      </string-array>
      <string-array name="status_bar_style_entries">
         <item>Combinato</item>
