@@ -21,6 +21,8 @@
      <string name="accessibility_video_pause_button">Pulsante pausa</string>
      <string name="accessibility_zoom_button">Zoom mode</string>
      <string name="audio_focus_exit_button_text">Disattiva Audio Focus</string>
+     <string name="beauty_fragment_tab_name_beauty">Beauty</string>
+     <string name="beauty_fragment_tab_name_makeup">Advanced</string>
      <string name="burst_shoot_exit_button_text">Chiudi Scatto continuo</string>
      <string name="button_fisheye_camera_title">Fish-eye</string>
      <string name="button_front_camera_title">Selfie</string>
@@ -37,6 +39,28 @@
      <string name="cannot_connect_camera_twice">Impossibile avviare la fotocamera, riavvia il dispositivo</string>
      <string name="cannot_connect_camera_volte_call">La video chiamata è in corso, prova più tardi.</string>
      <string name="cannot_move_warning_message">Mantieni il dispositivo fermo</string>
+     <string name="color_effect_entry_berry">Berries</string>
+     <string name="color_effect_entry_blackwhite">B&amp;W</string>
+     <string name="color_effect_entry_cookie">Cookie</string>
+     <string name="color_effect_entry_delicacy">Gourmet</string>
+     <string name="color_effect_entry_fade">Fade</string>
+     <string name="color_effect_entry_film">Film</string>
+     <string name="color_effect_entry_glimmer">Glow</string>
+     <string name="color_effect_entry_koizora">Amour</string>
+     <string name="color_effect_entry_latte">Latte</string>
+     <string name="color_effect_entry_quiet">Calm</string>
+     <string name="color_effect_entry_soda">Soda</string>
+     <string name="color_effect_entry_vivid">Vivid</string>
+     <string name="color_effect_entry_warm">Sun</string>
+     <string name="config_name_group">Group selfie</string>
+     <string name="config_name_hht">HHT</string>
+     <string name="config_name_magic">Magic</string>
+     <string name="config_name_scene">Scene</string>
+     <string name="config_name_setting">Settings</string>
+     <string name="config_name_sound">Audio</string>
+     <string name="config_name_straighten">Straighten</string>
+     <string name="config_name_tilt">Tilt-shift</string>
+     <string name="config_name_timer">Timer</string>
      <string name="confirm_install_scanner_message">Lo scansionatore ti permette di scansionare codici QR, a barre, ed altri. E non dovrai connetterti ad internet per installarlo.</string>
      <string name="confirm_install_scanner_title">Installa scansionatore</string>
      <string name="confirm_location_alert">Memorizza posizione GPS quando scatti una foto</string>
@@ -48,13 +72,20 @@
      <string name="confirm_restore_message">Ripristinare le impostazioni predefinite della fotocamera?</string>
      <string name="confirm_restore_title">Ripristina le impostazioni predefinite</string>
      <string name="dialog_ok">OK</string>
+     <string name="do_not_remind_me">"Don't show again"</string>
      <string name="dual_camera_lens_covered_toast">"L'obiettivo è coperto"."</string>
      <string name="dual_camera_lowlight_toast">"Sembra che l'ambiente sia troppo buio."</string>
      <string name="dual_camera_too_close_toast">La fotocamera è troppo vicina al soggetto.</string>
      <string name="dual_camera_use_hint">"La modalità Dual Camera permette di esaltare il soggetto in primo piano.
 Il soggetto non deve essere più lontano di 2 metri."</string>
+     <string name="edit_eye_large">Big eyes</string>
+     <string name="edit_face_ruddy">Ruddy</string>
+     <string name="edit_face_slender">Slender</string>
+     <string name="edit_skin_smooth">Smooth</string>
+     <string name="edit_skin_white">Tone</string>
      <string name="empty">" "</string>
      <string name="error_fail_to_start_audio_capture">"Impossibile registrare l'audio: il microfono potrebbe essere in uso da un'altra app."</string>
+     <string name="face_age_info">Age: %d</string>
      <string name="face_analyze_info">%1$s, %2$s anni</string>
      <string name="face_analyze_info_female">Donna</string>
      <string name="face_analyze_info_male">Uomo</string>
@@ -83,12 +114,28 @@ Il soggetto non deve essere più lontano di 2 metri."</string>
      <string name="face_beauty_intelligent_level_2">Medio</string>
      <string name="face_beauty_intelligent_level_3">Alto</string>
      <string name="face_beauty_smart">Intelligente</string>
-     <string name="groupshot_mode_use_hint">La fotocamera scatterà foto multiple
-e creerà una foto dove ognuno apparirà nella sua miglior forma.</string>
+     <string name="face_score_info">Score: %.1f</string>
+     <string name="groupshot_mode_use_hint">"La fotocamera scatterà foto multiple
+e creerà una foto dove ognuno apparirà nella sua miglior forma."</string>
      <string name="hibernate_hint">Tocca lo schermo per avviare la fotocamera</string>
+     <string name="hine_hht">"In low light, camera will take multiple photos
+and then create a shot with a minimal amount of noise."</string>
+     <string name="hint_fast_motion">The video you shoot will be played faster.</string>
+     <string name="hint_groupshot">"Camera will take multiple photos
+and then create a shot where everyone looks best."</string>
+     <string name="hint_slow_motion">The video you shoot will be played slower.</string>
+     <string name="hunt_dual_water_mark">Dual camera watermark will be added automatically.</string>
      <string name="image_file_name_format">"'IMG'_yyyyMMdd_HHmmss"</string>
      <string name="install_confirmed">Install</string>
      <string name="message_snap_double_confirm">La funzione attuale associata alla pressione prolungata del tasto volume è la modalità NFC, confermare la sostituzione?</string>
+     <string name="module_name_beauty">Beauty</string>
+     <string name="module_name_capture">Photo</string>
+     <string name="module_name_fun">Short video</string>
+     <string name="module_name_manual">Manual</string>
+     <string name="module_name_panorama">Panorama</string>
+     <string name="module_name_portrait">Portrait</string>
+     <string name="module_name_square">Square</string>
+     <string name="module_name_video">Video</string>
      <string name="no_storage">"Monta l'archivio USB prima di utilizzare la fotocamera."</string>
      <string name="not_enough_space">Scheda SD piena.</string>
      <string name="object_track_enable_toast">"Scorri sulla schermata di anteprima per attivare il tracciamento dell'oggetto."</string>
@@ -96,8 +143,20 @@ e creerà una foto dove ognuno apparirà nella sua miglior forma.</string>
      <string name="pano_how_to_use_prompt_align_reference_line">Allinea la freccia con la linea di riferimento</string>
      <string name="pano_how_to_use_prompt_go_on_moving">Continua a ruotare…</string>
      <string name="pano_how_to_use_prompt_slow_down">Si prega di rallentare</string>
+     <string name="pano_how_to_use_prompt_start">Tap the arrow to switch direction and begin panning slowly.</string>
      <string name="pano_how_to_use_prompt_to_move">Inizia a ruotare lentamente</string>
      <string name="path_settings">Applicazioni di sistema/Fotocamera/Impostazioni</string>
+     <string name="photos_portrait_type_description">Portrait shots have a depth effect that keeps your subject in focus and blurs out rest of the background.</string>
+     <string name="photos_portrait_type_name">Portrait</string>
+     <string name="portait_effect_entry_blackwhite">B&amp;W</string>
+     <string name="portait_effect_entry_cool">Mint</string>
+     <string name="portait_effect_entry_fairytale">Childhood</string>
+     <string name="portait_effect_entry_japanese">Sky blue</string>
+     <string name="portait_effect_entry_maze">Maze</string>
+     <string name="portait_effect_entry_mood">Emotions</string>
+     <string name="portait_effect_entry_nature">Nature</string>
+     <string name="portait_effect_entry_pink">Blush</string>
+     <string name="portait_effect_entry_romance">Romantic</string>
      <string name="portrait_mode_depth_effect_success_hint">Effetto profondità</string>
      <string name="portrait_mode_lowlight_hint">Adesso è troppo scuro</string>
      <string name="portrait_mode_too_close_hint">"Allontanati dall'oggetto"</string>
@@ -184,6 +243,7 @@ per rendere il tuo corpo ancor più chiaro e meraviglioso"</string>
      <string name="pref_camera_flashmode_entry_on">On</string>
      <string name="pref_camera_flashmode_entry_torch">Torcia</string>
      <string name="pref_camera_flashmode_title">Flash</string>
+     <string name="pref_camera_focus_shoot_title">Focus &amp; shoot</string>
      <string name="pref_camera_focusmode_entry_auto">Auto</string>
      <string name="pref_camera_focusmode_entry_infinity">Infinito</string>
      <string name="pref_camera_focusmode_entry_macro">Macro</string>
@@ -289,6 +349,7 @@ per rendere il tuo corpo ancor più chiaro e meraviglioso"</string>
      <string name="pref_camera_settings_category">Fotocamera</string>
      <string name="pref_camera_settings_title">Impostazioni</string>
      <string name="pref_camera_sharpness_title">Definizione</string>
+     <string name="pref_camera_show_gender_age_config_title">Age &amp; gender</string>
      <string name="pref_camera_show_gender_age_entry_alias">Mostra fascia di età</string>
      <string name="pref_camera_show_gender_age_entry_off">Disattivato</string>
      <string name="pref_camera_show_gender_age_entry_on">Mostra età e genere</string>
@@ -339,6 +400,7 @@ per rendere il tuo corpo ancor più chiaro e meraviglioso"</string>
      <string name="pref_capture_settings">Impostazioni fotocamera</string>
      <string name="pref_dualcamera_watermark_title">Logo dual camera</string>
      <string name="pref_face_beauty_title">Bellezza</string>
+     <string name="pref_fingerprint_capture_title">Fingerprint shutter</string>
      <string name="pref_front_mirror_entry_auto">Quando il viso viene rilevato</string>
      <string name="pref_front_mirror_entry_off">Disattivato</string>
      <string name="pref_front_mirror_entry_on">Attivato</string>
@@ -348,6 +410,9 @@ per rendere il tuo corpo ancor più chiaro e meraviglioso"</string>
      <string name="pref_manual_exposure_title">Esp. manuale</string>
      <string name="pref_priority_storage_title">Salva su scheda SD</string>
      <string name="pref_qc_focus_position_title">Messa a fuoco</string>
+     <string name="pref_retain_camera_mode_summary">Switch camera to the previously used mode when you open the app.</string>
+     <string name="pref_retain_camera_mode_title">Save previous mode</string>
+     <string name="pref_scan_qrcode_summary">Only the rear camera can scan QR codes</string>
      <string name="pref_scan_qrcode_title">Riconoscimento codice QR</string>
      <string name="pref_setting_title">Impostazioni</string>
      <string name="pref_simple_hdr_entry_off">OFF</string>
@@ -420,6 +485,8 @@ per rendere il tuo corpo ancor più chiaro e meraviglioso"</string>
      <string name="spaceIsLow_content_external_storage_priority">La scheda SD è quasi esaurita</string>
      <string name="spaceIsLow_content_primary_storage_priority">La memoria interna è quasi esaurita</string>
      <string name="start_capture">OK</string>
+     <string name="sticker_tab1">Cute</string>
+     <string name="sticker_tab2">Funny</string>
      <string name="tap_to_exposure">"Tocca per passare all'esposizione manuale."</string>
      <string name="tap_to_focus">Tocca per mettere a fuoco</string>
      <string name="time_lapse_error">Dimensione video non valida per il Time-lapse.</string>
@@ -431,7 +498,17 @@ per rendere il tuo corpo ancor più chiaro e meraviglioso"</string>
      <string name="toast_start_audio_capture">Riproduci un suono al momento dello scatto</string>
      <string name="ubi_focus_capture_fail">Impossibile scattare la foto</string>
      <string name="ubifocus_capture_warning_message">"Per apprezzare al meglio UFocus l'inquadratura deve contenere soggetti vicini e lontani"</string>
+     <string name="user_agree">Agree</string>
+     <string name="user_agreement2">Terms of Service</string>
+     <string name="user_agreement4">Privacy Policy</string>
+     <string name="user_notice_identify_summary_format">"By using this service, you agree to Xiaomi's %1$s and %2$s."</string>
+     <string name="user_notice_title">Terms and Conditions</string>
      <string name="video_camera_label">Videocamera</string>
+     <string name="video_effect_entry_blackwhite">B&amp;W</string>
+     <string name="video_effect_entry_film">Film</string>
+     <string name="video_effect_entry_forest">Grove</string>
+     <string name="video_effect_entry_holiday">Reflections</string>
+     <string name="video_effect_entry_polaroid">Polaroid</string>
      <string name="video_reach_size_limit">Limite dimensioni raggiunto.</string>
      <string name="wait">Attendere…</string>
 </resources>

@@ -395,11 +395,13 @@ se se dimenticata"</string>
      <string name="btn_text_stop">Ferma</string>
      <string name="button_text_accept">Accetta</string>
      <string name="button_text_accept_timer">Accetta (%d)</string>
+     <string name="button_text_clear">Clear</string>
      <string name="button_text_delete">Elimina</string>
      <string name="button_text_delete_from_virus_white_list">Rimuovi</string>
      <string name="button_text_deny">Nega</string>
      <string name="button_text_disconnect_now">Disconnetti</string>
      <string name="button_text_fix_now">Fissa</string>
+     <string name="button_text_forbid_now">Forbid</string>
      <string name="button_text_ignore">Ignora</string>
      <string name="button_text_ignore_alert_title">Ignorare questo avviso?</string>
      <string name="button_text_known">OK</string>
@@ -732,6 +734,8 @@ se se dimenticata"</string>
      <string name="hints_handle_item_text_virus">Pericolo</string>
      <string name="hints_input_roaming_daily_limit">Inserisci limite utilizzo dati</string>
      <string name="hints_loading_text">Caricamento…</string>
+     <string name="hints_risk_descx_title">Description:</string>
+     <string name="hints_risk_name_title">Risk:</string>
      <string name="hints_scan_danger_result">rischi rilevati, correggere adesso</string>
      <string name="hints_scan_result_no_finish">La scansione non è completa. Tocca per riprendere.</string>
      <string name="hints_scan_result_phone_safe">Sembra tutto OK</string>
@@ -739,7 +743,9 @@ se se dimenticata"</string>
      <string name="hints_scanning">Scansione…</string>
      <string name="hints_scanning_text">Scansione…</string>
      <string name="hints_virus_apk_list_item_summary">Virus (apk)</string>
+     <string name="hints_virus_apk_summary">%s (apk)</string>
      <string name="hints_virus_app_list_item_summary">Virus (app)</string>
+     <string name="hints_virus_app_summary">%s (app)</string>
      <string name="hints_virus_lib_update_default_summary">Ultimo aggiornamento: sconosciuto</string>
      <string name="hot">Popolari</string>
      <string name="hot_today">Popolari oggi</string>
@@ -995,7 +1001,6 @@ dall'operatore"</string>
      <string name="name">Nome</string>
      <string name="net_booster">Accelera velocità di rete</string>
      <string name="net_booster_expire_notification">La sessione di accelerazione velocità di rete sta per terminare</string>
-     <string name="net_booster_expire_notification_tip">%d d rimanente prima che la sessione di accelerazione di velocità di rete termini. Rinnova la sessione per evitare problemi con la velocità di rete.</string>
      <string name="net_booster_overdue_notification">La sessione di accelerazione di velocità di rete sta per terminare</string>
      <string name="net_booster_overdue_notification_tip">La sessione di accelerazione di velocità di rete terminerà presto. Rinnovare la sessione?</string>
      <string name="net_booster_tip">"Attiva l'accelerazione di velocità di rete per rendere la connessione Wi-Fi più stabile e ridurre il ritardo di rete."</string>

@@ -1108,6 +1108,7 @@ Tocca l'icona Unisci in basso per iniziare."</string>
      <string name="sim_error_password_error">La password inserita non è valida</string>
      <string name="sim_error_storage_full">Memoria piena</string>
      <string name="sim_error_text_too_long">Nome troppo lungo</string>
+     <string name="sim_export_error">SIM not ready, try again later</string>
      <string name="sim_export_loading">Lettura SIM…</string>
      <string name="sim_indexed_contact_not_exist">La posizione %1$d sulla SIM non è valida: deve essere compresa tra %2$d e %3$d.</string>
      <string name="sim_no_contact">Nessun contatto sulla SIM</string>
@@ -1185,6 +1186,7 @@ Tocca l'icona Unisci in basso per iniziare."</string>
      <string name="toast_for_saving_nickname">Soprannome salvato</string>
      <string name="toast_join_with_empty_contact">Inserisci il nome del contatto prima di unirlo a un altro contatto.</string>
      <string name="toast_making_personal_copy">Creazione di una copia personale…</string>
+     <string name="toast_start_intent_failed">No app was found to handle</string>
      <string name="toast_text_copied">Testo copiato</string>
      <string name="today">Oggi</string>
      <string name="tomorrow">Domani</string>

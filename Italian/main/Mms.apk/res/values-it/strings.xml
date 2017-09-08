@@ -7,6 +7,7 @@
      <string name="addBlackList">Blacklist</string>
      <string name="add_attachment">Allega</string>
      <string name="add_contact">vCard</string>
+     <string name="add_miui_contact">Mi Card</string>
      <string name="add_music">Aggiungi musica</string>
      <string name="add_number_to_sender">Aggiungi numero a %s</string>
      <string name="add_picture">Aggiungi immagine</string>
@@ -336,8 +337,8 @@
      <string name="mx_type_guide">Mi Message ti consente di inviare messaggi ad altri utenti MIUI senza costi aggiuntivi</string>
      <string name="need_download">Sincronizzazione…</string>
      <string name="networking_allow_continue">OK</string>
-     <string name="networking_allow_desc">I messaggi smart ti consentono di inviare gratuitamente SMS e messaggi vocali, riconoscere numeri sconosciuti, filtrare lo spam, etc. Utilizzando questo dispositivo accetti %1$s e %2$s di Xiaomi. Devi passare alle Pagine Gialle e collegarti ad internet per utilizzare questo servizio.</string>
-     <string name="networking_allow_desc_without_mx">I messaggi smart ti permettono di riconoscere numeri sconosciuti, filtrare lo spam, etc. Utilizzando questo servizio accetti %1$s e %2$s di Xiaomi. Devi attivare le Pagine Gialle e collegarti ad internet per utilizzare questo servizio.</string>
+     <string name="networking_allow_desc">Mi Message needs to connect to the internet to work normally. In order to provide free text and voice services, recognize unknown numbers, filter spam, and enable other features, Mi Message needs to use Yellow pages. Allow Yellow pages to connect to the internet, get your location info, and read your contacts?</string>
+     <string name="networking_allow_desc_without_mx">Mi Message needs to connect to the internet to work normally. In order to recognize unknown numbers, filter spam, and enable other features, Mi Message needs to use Yellow pages. Allow Yellow pages to connect to the internet, get your location info, and read your contacts?</string>
      <string name="networking_allow_title">Attenzione</string>
      <string name="new_message">Nuovo messaggio</string>
      <string name="new_message_arrived">Nuovo messaggio ricevuto</string>
@@ -388,8 +389,10 @@
      <string name="pref_show_sms_template_in_summary">Rileva automaticamente OTP negli SMS</string>
      <string name="pref_show_sms_template_summary">Copia ed inserisci automaticamente i codici di verifica</string>
      <string name="pref_smart_messages_settings">Messaggi smart</string>
+     <string name="pref_sms_storage_title">Storage</string>
      <string name="pref_sms_theme_title">Impostazioni tema</string>
      <string name="pref_summary_allow_si_sl_push">Consenti ricezione e notifica messaggi push WAP (SI/SL)</string>
+     <string name="pref_summary_auto_delete">Delete old messages as limits are reached</string>
      <string name="pref_summary_delete_limit">%1$s messaggi per conversazione</string>
      <string name="pref_summary_delivery_reports">Ricezione del rapporto di consegna SMS</string>
      <string name="pref_summary_delivery_ringtone">Ricevi una notifica sonora per i messaggi inviati.</string>
@@ -407,6 +410,7 @@
      <string name="pref_system_title">Sistema</string>
      <string name="pref_title_about_smart_sms">Informazioni sul partner peri messaggi Smart</string>
      <string name="pref_title_allow_si_sl_push">Consenti push WAP</string>
+     <string name="pref_title_auto_delete">Delete old messages</string>
      <string name="pref_title_card_format">Formato condivisione scheda</string>
      <string name="pref_title_delivery_reports">Rapporti consegna</string>
      <string name="pref_title_fwd_sender_info">Inoltra informazioni mittente</string>
@@ -415,6 +419,8 @@
      <string name="pref_title_mms_auto_retrieval">Recupero automatico</string>
      <string name="pref_title_mms_delete">Limiti MMS</string>
      <string name="pref_title_mms_read_reports">Conferme di lettura</string>
+     <string name="pref_title_mms_retrieval_during_international_roaming">Download MMS content when international roaming</string>
+     <string name="pref_title_mms_retrieval_during_national_roaming">Download MMS content when national roaming</string>
      <string name="pref_title_mms_retrieval_during_roaming">Reinvio automatico in roaming</string>
      <string name="pref_title_mms_validity_period">Periodo di validità MMS</string>
      <string name="pref_title_notification_body_enabled">Mostra anteprima</string>

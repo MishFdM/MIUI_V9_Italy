@@ -65,6 +65,7 @@
      <string name="authorize_title">Autorizzazione</string>
      <string name="bind_facebook">Collega con il tuo account Facebook</string>
      <string name="bind_qq">Collega con il tuo account QQ</string>
+     <string name="bind_safe_phone_msg">Add safe phone for next sign in</string>
      <string name="bind_settings">Account</string>
      <string name="bind_sina_weibo">Autorizza Sina Weibo</string>
      <string name="bind_sns_description">Completa il tuo profilo utilizzando le informazioni personali su %s.</string>
@@ -255,6 +256,7 @@ Per attivare il tuo account, segui il
      <string name="passport_input_password_hint">Inserisci la password</string>
      <string name="passport_input_phone_hint">Inserisci il numero di telefono</string>
      <string name="passport_input_vcode_hint">Inserisci il codice di verifica</string>
+     <string name="passport_instant_login">Sign in</string>
      <string name="passport_license_host_unreachable">"Impossibile connettersi alla rete. Puoi vedere questa pagina a %s."</string>
      <string name="passport_loading">Caricamento…</string>
      <string name="passport_login">Accedi con un account esistente</string>
@@ -348,6 +350,8 @@ Per attivare il tuo account, segui il
      <string name="passport_user_agreement_p2">Accordo Utente</string>
      <string name="passport_user_agreement_p3"> e </string>
      <string name="passport_user_agreement_p4">Informativa sulla Privacy</string>
+     <string name="passport_user_reg_region">Country/Region</string>
+     <string name="passport_user_reg_region_warning">"You Won't be able to change your country/region once the account is created"</string>
      <string name="passport_vcode_notification_title">La tua verifica di accesso è incompleta</string>
      <string name="passport_vcode_prompt_long">Inserisci il codice di sicurezza generato da Mi Security</string>
      <string name="passport_vcode_sms_send_prompt">Invia codice di verifica a %s</string>
@@ -419,6 +423,5 @@ Per attivare il tuo account, segui il
      <string name="verify_phone_prompt">Seleziona il numero di telefono da verificare</string>
      <string name="verify_phone_title">Verifica numero di telefono</string>
      <string name="vip_account_settings">Impostazioni VIP</string>
-     <string name="vip_more_info">Altre informazioni VIP</string>
      <string name="xiao_mi_vip">Mi VIP</string>
 </resources>

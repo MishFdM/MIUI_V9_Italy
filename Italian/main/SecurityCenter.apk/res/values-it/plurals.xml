@@ -137,6 +137,10 @@ Se attivi di nuovo i dati su rete mobile, il tuo operatore potrebbe addebitarti 
         <item quantity="other">%d altri utenti lo hanno segnalato</item>
         <item quantity="one">%d un altro utente lo ha segnalato</item>
      </plurals>
+     <plurals name="net_booster_expire_notification_tip">
+        <item quantity="other">%d d remaining before Network speed boost session ends. Renew the session to avoid network speed problems.</item>
+        <item quantity="one">%d d remaining before Network speed boost session ends. Renew the session to avoid network speed problems.</item>
+     </plurals>
      <plurals name="notification_title_cmcc_app_check">
         <item quantity="other">"%d giorni dall'ultimo controllo"</item>
         <item quantity="one">"%d giorno dall'ultimo controllo"</item>
