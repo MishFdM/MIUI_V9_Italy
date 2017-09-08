@@ -210,7 +210,7 @@ L'amministratore ha la capacità di monitorare e gestire le impostazioni, l'acce
      <string name="android_beam_tips">Assicurati che i due dispositivi si tocchino, quindi scegli il contenuto che vuoi inviare.</string>
      <string name="android_beam_witch_label">Attiva Android Beam</string>
      <string name="animator_duration_scale_title">Scala durata animatore</string>
-     <string name="another_migration_already_in_progress">"E' già in corso un'altra migrazione".</string>
+     <string name="another_migration_already_in_progress">""E' già in corso un'altra migrazione"."</string>
      <string name="anti_spam">Antispam</string>
      <string name="aod_mode_summary">Mostra ora, data e messaggi a schermo spento.</string>
      <string name="aod_mode_title">Modalità Always on</string>
@@ -790,6 +790,7 @@ La trasmissione utilizza segnali Bluetooth a bassa potenza."</string>
      <string name="bt_rarely_used_device_title">Rerely used devices (%d)</string>
      <string name="bt_trace_log">Abilita trace log del Bluetooth</string>
      <string name="bt_trace_log_summary">Abilita trace log del Bluetooth</string>
+     <string name="bug_report_settings">Feedback</string>
      <string name="bugreport_in_power">Segnalazioni di bug nel menu di accensione</string>
      <string name="bugreport_in_power_summary">Includi opzione per aprire una segnalazione bug nel menu di accensione</string>
      <string name="build_number">Numero build</string>
@@ -889,6 +890,7 @@ La trasmissione utilizza segnali Bluetooth a bassa potenza."</string>
      <string name="charge_length_format">%1$s ago</string>
      <string name="charging_sounds_title">Suono di ricarica</string>
      <string name="check_find_device_status_failure_confirm">OK</string>
+     <string name="check_importance">Check importance</string>
      <string name="check_update">Verifica aggiornamenti</string>
      <string name="checkbox_notification_same_as_incoming_call">Usa volume chiamate in entrata per le notifiche</string>
      <string name="checking_decryption">Verifica…</string>
@@ -912,6 +914,7 @@ La trasmissione utilizza segnali Bluetooth a bassa potenza."</string>
      <string name="clear_failed_dlg_title">Elimina dati</string>
      <string name="clear_uri_btn_text">Clear access</string>
      <string name="clear_user_data_text">Elimina dati</string>
+     <string name="close_app">Close current app</string>
      <string name="close_gesture">Close using gesture</string>
      <string name="close_miui_optimization_title">Disattiva ottimizzazione MIUI</string>
      <string name="close_miui_optimization_warning_message">Il dispositivo verrà riavviato per applicare questa modifica.</string>
@@ -1420,6 +1423,7 @@ avviso"</string>
      <string name="domain_urls_title">Link alle app</string>
      <string name="done">Fatto</string>
      <string name="done_button">Fine</string>
+     <string name="double_click_power_key">Double Click Power Key</string>
      <string name="download_current_rom">"Scarica l'ultima versione di MIUI"</string>
      <string name="downloading_description">Download in corso\u2026</string>
      <string name="doze_summary">Accende lo schermo quando sollevi il dispositivo o arrivano notifiche</string>
@@ -1729,6 +1733,7 @@ Quando attivi il backup automatico, il dispositivo e i dati delle applicazioni v
      <string name="global_change_warning">Questa impostazione influisce su tutti gli utenti di questo dispositivo.</string>
      <string name="global_locale_change_title">Cambia lingua</string>
      <string name="go_back_button_label">Go back</string>
+     <string name="go_to_sleep">Go to sleep</string>
      <string name="google_backup_enable">Attiva backup</string>
      <string name="google_backup_section_title">Backup e ripristino di Google</string>
      <string name="google_title">Google</string>
@@ -1858,9 +1863,19 @@ Quando attivi il backup automatico, il dispositivo e i dati delle applicazioni v
      <string name="keep_screen_on">Rimani attivo</string>
      <string name="keep_screen_on_summary">Lo schermo non va mai in sospensione se il dispositivo è in carica</string>
      <string name="kernel_version">Versione kernel</string>
-     <string name="key_position_cat">Posizione tasti</string>
+     <string name="key_combination_power_back">Power key + Back key</string>
+     <string name="key_combination_power_home">Power key + Home key</string>
+     <string name="key_combination_power_menu">Power key + Menu key</string>
+     <string name="key_gesture_function_dialog_message">%1$s has been set to %2$s shortcuts ,whether replaced with %3$s</string>
+     <string name="key_gesture_function_dialog_negative">Cancel</string>
+     <string name="key_gesture_function_dialog_positive">Replace</string>
+     <string name="key_gesture_function_optional">Optional gestures and key</string>
+     <string name="key_gesture_function_preview">Gestures and key preview</string>
+     <string name="key_gesture_function_shortcut">Function shortcut</string>
+     <string name="key_none">none</string>
      <string name="key_settings">Tasti</string>
      <string name="key_settings_title">Tasti</string>
+     <string name="key_system_control">System control</string>
      <string name="keyboard_and_input_methods_category">Tastiera e metodi di inserimento</string>
      <string name="keyboard_assistance_category">Keyboard assistance</string>
      <string name="keyboard_layout_default_label">Predefinita</string>
@@ -1940,8 +1955,11 @@ Quando attivi il backup automatico, il dispositivo e i dati delle applicazioni v
      <string name="later">LATER</string>
      <string name="lattice_smartcover_title">Cover frontale in lattice</string>
      <string name="launch_by_default">Apri predefinita</string>
+     <string name="launch_camera">Launch camera</string>
      <string name="launch_defaults_none">Nessun valore predefinito impostato</string>
      <string name="launch_defaults_some">Alcuni valori predefiniti impostati</string>
+     <string name="launch_google_search">Launch Google Search</string>
+     <string name="launch_voice_assistant">Launch Voice assistant</string>
      <string name="launcher_auto_fill_empty_title">Riempi automaticamente gli spazi vuoti</string>
      <string name="launcher_title">Launcher</string>
      <string name="launching_cit">Avvio Rilevamento Hardware, attendere\u2026</string>
@@ -2201,6 +2219,11 @@ You can set a new screen lock for both your device and your work profile, but an
      <string name="login_account_dialog_message">Sign in with your Mi Account and turn on sync with Mi Cloud.</string>
      <string name="login_account_dialog_title">Sign in with Mi Account</string>
      <string name="login_action">Sign in</string>
+     <string name="long_press_back_key">Long Press Back Key</string>
+     <string name="long_press_buttom_key">Long Press Buttom Key When Lock</string>
+     <string name="long_press_home_key">Long Press Home Key</string>
+     <string name="long_press_menu_key">Long Press Menu Key</string>
+     <string name="long_press_menu_key_when_lock">Long Press Menu Key When Lock</string>
      <string name="long_press_volume_down">Tieni premuto il tasto volume basso</string>
      <string name="lte_4g_settings_4gdisable_summary">4G Disabled</string>
      <string name="lte_4g_settings_4genable_summary">4G Enabled</string>
@@ -2651,15 +2674,6 @@ ed esegui il software."</string>
      <string name="oem_unlock_enable_summary">Consenti al dispositivo lo sblocco OEM</string>
      <string name="ok_rules">finish</string>
      <string name="okay">OK</string>
-     <string name="oldman_mode_confirm_title">Riavviare in modalità Semplificata?</string>
-     <string name="oldman_mode_confirm_will_normal_mode_text">Vuoi uscire dalla modalità Semplificata?</string>
-     <string name="oldman_mode_confirm_will_oldman_mode_text">Il dispositivo verrà riavviato per entrare in modalità Semplificata.</string>
-     <string name="oldman_mode_enabled_name">Modalità Semplificata</string>
-     <string name="oldman_mode_entry_name">Modalità Semplificata</string>
-     <string name="oldman_mode_entry_title">Modalità Semplificata</string>
-     <string name="oldman_mode_settings_caption">Impostazioni modalità Semplificata</string>
-     <string name="oldman_mode_summary">Usa schermata Home e Menu semplificati</string>
-     <string name="oldman_mode_summary_cta">La modalità Semplificata deve collegarsi ad internet ed accedere ai tuoi contatti, messaggi e posizione per funzionare correttamente.</string>
      <string name="one_cacrt">one CA certificate</string>
      <string name="one_usercrt">one user certificate</string>
      <string name="one_userkey">one user key</string>
@@ -3228,7 +3242,6 @@ Questa impostazione influisce su tutti gli utenti di questo dispositivo."</strin
      <string name="screen_key_long_press">Pressione prolungata tasti</string>
      <string name="screen_key_long_press_action">Esegui funzionalità</string>
      <string name="screen_key_long_press_timeout">Durata pressione prolungata</string>
-     <string name="screen_key_position">Tasti di navigazione</string>
      <string name="screen_key_press">Pressione semplice tasti</string>
      <string name="screen_key_press_action">Attivazione</string>
      <string name="screen_locking_sounds_title">Suoni blocco schermo</string>
@@ -3294,6 +3307,7 @@ Come usare Mantieni su schermo:
      <string name="screen_resolution_title">Risoluzione dello schermo</string>
      <string name="screen_resolution_ultrahigh_format">Ultrahigh (%1$s)</string>
      <string name="screen_saturation">Saturazione colori</string>
+     <string name="screen_shot">Take Screenshot</string>
      <string name="screen_timeout">Sospensione</string>
      <string name="screen_timeout_summary">Dopo %1$s di inattività</string>
      <string name="screen_timeout_title">Disattivazione schermo</string>
@@ -3430,6 +3444,7 @@ Come usare Mantieni su schermo:
      <string name="search_handy_mode">Modalità mano singola;</string>
      <string name="search_hint">Cerca impostazioni</string>
      <string name="search_home_key">Home</string>
+     <string name="search_input_hint">Search settings</string>
      <string name="search_key_settings_title">Tasti;Pulsanti</string>
      <string name="search_lab_functions_title">Funzioni beta;Funzioni lab</string>
      <string name="search_label">Impostazioni</string>
@@ -3706,6 +3721,7 @@ Come usare Mantieni su schermo:
      <string name="show_ime_summary">Keep it on screen while physical keyboard is active</string>
      <string name="show_magnifier_when_input">"Lente d'ingrandimento testo"</string>
      <string name="show_mem_info_title">Mostra info memoria</string>
+     <string name="show_menu">Show menu</string>
      <string name="show_non_rect_clip">Debug operazioni ritaglio non rettangolare</string>
      <string name="show_owner_info_on_lockscreen_label">Mostra info proprietario sulla Schermata di blocco</string>
      <string name="show_password">Password visibili</string>
@@ -3842,6 +3858,7 @@ Il PIN potrebbe essere errato."</string>
      <string name="spellchecker_language">Lingua</string>
      <string name="spellchecker_quick_settings">Impostazioni</string>
      <string name="spellchecker_security_warning">"Questa funzione di controllo ortografico potrebbe riuscire a raccogliere tutto il testo digitato, compresi i dati personali come password e numeri di carte di credito. Deriva dall'applicazione %1$s. Utilizzare questa funzione di controllo ortografico?"</string>
+     <string name="spellchecker_switch_title">Turn on Spell checker</string>
      <string name="spellcheckers_settings_title">Controllo ortografico</string>
      <string name="ssid_label">SSID:</string>
      <string name="ssl_ca_cert_warning">La rete potrebbe essere monitorata</string>
@@ -3939,6 +3956,7 @@ Questo è reso possibile da credenziali attendibili installate sul tuo dispositi
      <string name="status_wifi_mac_address">Indirizzo MAC Wi-Fi</string>
      <string name="status_wimax_mac_address">Indirizzo MAC 4G</string>
      <string name="status_write_success">Con successo!</string>
+     <string name="statusbar_permission_desc">Permissions are only avaiable for important Notifications</string>
      <string name="storage_detail_apps">App</string>
      <string name="storage_detail_audio">Audio</string>
      <string name="storage_detail_cached">Dati cache</string>
@@ -4184,6 +4202,7 @@ L'approccio di Google alla sincronizzazione di dati per consentirti l'accesso ai
      <string name="tethering_settings_not_available">Le impostazioni Tethering non sono disponibili per questo utente</string>
      <string name="tethering_settings_summary">"Share your device's mobile data connection via USB or a Mobile HotSpot"</string>
      <string name="theme_settings_title">Temi</string>
+     <string name="three_gesture_down">Three Gesture Down</string>
      <string name="time_picker_title">Ora</string>
      <string name="time_zone_auto_stub">Seleziona fuso orario</string>
      <string name="timed_titlei">schedule rule %d</string>
@@ -4282,11 +4301,13 @@ L'approccio di Google alla sincronizzazione di dati per consentirti l'accesso ai
      <string name="turn_on_keyguard_password_alert_forget_content">"Remember your Lock screen password. If you forget it, you'll have to erase all data on your device, including photos and contacts, and then set a new one."</string>
      <string name="turn_on_keyguard_password_alert_forget_title">"If you forget it, you won't be able to restore it."</string>
      <string name="turn_on_security_lock">Aggiungi password di sicurezza</string>
+     <string name="turn_on_torch">Turn on torch</string>
      <string name="turn_on_wifi_dialog_text">WLAN is turned off when Mobile HotSpot is active. To turn on WLAN, please turn off Mobile HotSpot.</string>
      <string name="turn_on_wifi_dialog_title">Turn on wifi</string>
      <string name="turn_update_keyguard_password_wait_dialog">Modifica password</string>
      <string name="twohours">1 hours</string>
      <string name="under_keyguard">Schermata di blocco</string>
+     <string name="unimportant">UnImportant</string>
      <string name="uninstall_all_users_text">Disinstalla per tutti gli utenti</string>
      <string name="uninstall_device_admin">Uninstall app</string>
      <string name="uninstall_dlg_msg">Disinstallando verranno rimossi anche i dati.</string>
@@ -4830,7 +4851,6 @@ Aggiungi una parola toccando il tasto +."</string>
      <string name="wifi_eap_ca_cert">Certificato CA</string>
      <string name="wifi_eap_domain">Domain</string>
      <string name="wifi_eap_identity">Identità</string>
-     <string name="wifi_eap_info_reconnect">Authentication failed, please try again!</string>
      <string name="wifi_eap_method">Metodo EAP</string>
      <string name="wifi_eap_sim_simcard">Scegli la SIM</string>
      <string name="wifi_eap_user_cert">Certificato utente</string>

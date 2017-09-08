@@ -263,6 +263,16 @@
         <item>PIN</item>
         <item>Password</item>
      </string-array>
+     <string-array name="check_importance_entries">
+        <item>Recommend</item>
+        <item>Important</item>
+        <item>UnImportant</item>
+     </string-array>
+     <string-array name="check_importance_summary">
+        <item>Intelligent judge, unimportant notifications will appear in a separate folder</item>
+        <item>Notifications will appear directly on the Notification shade</item>
+        <item>All notifications will appear in a separate folder</item>
+     </string-array>
      <string-array name="city_name">
         <item>Abidjan</item>
         <item>Accra</item>
@@ -1123,24 +1133,11 @@
         <item>Naturali</item>
         <item>Freddi</item>
      </string-array>
-     <string-array name="screen_key_long_press_action">
-        <item>Nessuno</item>
-        <item>Mostra app recenti</item>
-        <item>Avvia Assistente</item>
-        <item>Avvia Google Now</item>
-        <item>Chiudi app attive</item>
-        <item>Avvia ricerca veloce</item>
-        <item>Mostra menu</item>
-     </string-array>
      <string-array name="screen_key_long_press_timeout">
         <item>0.5 secondi</item>
         <item>1 secondo</item>
         <item>1.5 secondi</item>
         <item>2 secondi</item>
-     </string-array>
-     <string-array name="screen_key_position_action">
-        <item>Tasto Menu a sinistra, tasto Indietro a destra</item>
-        <item>Tasto Indietro a sinistra, tasto Menu a destra</item>
      </string-array>
      <string-array name="screen_key_press_action">
         <item>Mostra applicazioni recenti</item>
@@ -1222,8 +1219,8 @@
      </string-array>
      <string-array name="status_bar_show_carrier_entries">
         <item>Mostra solo nella schermata di blocco e nel pannello delle notifiche</item>
-        <item>Mostra sempre il nome dell\'operatore</item>
-        <item>Non mostrare mai il nome dell\'operatore</item>
+        <item>"Mostra sempre il nome dell\'operatore"</item>
+        <item>"Non mostrare mai il nome dell\'operatore"</item>
      </string-array>
      <string-array name="status_bar_style_entries">
         <item>Combinato</item>
