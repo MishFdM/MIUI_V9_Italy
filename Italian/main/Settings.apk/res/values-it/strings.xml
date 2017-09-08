@@ -210,7 +210,7 @@ L'amministratore ha la capacità di monitorare e gestire le impostazioni, l'acce
      <string name="android_beam_tips">Assicurati che i due dispositivi si tocchino, quindi scegli il contenuto che vuoi inviare.</string>
      <string name="android_beam_witch_label">Attiva Android Beam</string>
      <string name="animator_duration_scale_title">Scala durata animatore</string>
-     <string name="another_migration_already_in_progress">""E' già in corso un'altra migrazione"."</string>
+     <string name="another_migration_already_in_progress">"E' già in corso un'altra migrazione."</string>
      <string name="anti_spam">Antispam</string>
      <string name="aod_mode_summary">Mostra ora, data e messaggi a schermo spento.</string>
      <string name="aod_mode_title">Modalità Always on</string>
