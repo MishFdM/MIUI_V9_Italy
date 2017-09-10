@@ -86,24 +86,24 @@
         <item quantity="one">Il PIN deve essere di %d carattere</item>
      </plurals>
      <plurals name="lockpassword_pin_too_long">
-        <item quantity="other">PIN can contain up to %d digits</item>
-        <item quantity="one">PIN can contain up to %d digit</item>
+        <item quantity="other">Il PIN può contenere fino a %d numeri</item>
+        <item quantity="one">IL PIN può contenere fino a %d numero</item>
      </plurals>
      <plurals name="lockpassword_pin_too_short">
-        <item quantity="other">PIN must be %d digits long</item>
-        <item quantity="one">PIN must be %d digit long</item>
+        <item quantity="other">Il PIN deve essere d %d numeri</item>
+        <item quantity="one">Il PIN deve essere di %d numeri</item>
      </plurals>
      <plurals name="lockpattern_recording_incorrect_too_short">
-        <item quantity="other">Connect at least %d dots. Try again.</item>
-        <item quantity="one">Connect at least %d dot. Try again.</item>
+        <item quantity="other">Collega almeno %d punti. Prova di nuovo.</item>
+        <item quantity="one">Collega almeno %d punto. Prova di nuovo.</item>
      </plurals>
      <plurals name="lockpattern_too_many_failed_confirmation_attempts">
-        <item quantity="other">Too many incorrect attempts. Try again in %d seconds.</item>
-        <item quantity="one">Too many incorrect attempt. Try again in %d second.</item>
+        <item quantity="other">Troppi tentativi sbagliati. Riprova tra %d secondi.</item>
+        <item quantity="one">Troppi tentativi sbagliati. Riprova tra %d secondo.</item>
      </plurals>
      <plurals name="lockpattern_too_many_failed_confirmation_attempts_footer">
-        <item quantity="other">Wait for %d seconds and try again.</item>
-        <item quantity="one">Wait for %d second and try again.</item>
+        <item quantity="other">Aspetta %d secondi ep prova di nuovo.</item>
+        <item quantity="one">Aspetta %d secondi e prova di nuovo.</item>
      </plurals>
      <plurals name="manage_notification_access_summary_nonzero">
         <item quantity="other">%d app possono leggere le notifiche</item>

@@ -447,7 +447,7 @@ Puoi anche aggiungere dei promemoria per non perdere niente di importante."</str
 	 <string name="jump_date_full">Vai alla data</string>
      <string name="setting_title_about">Informazioni</string>
      <string name="setting_title_holiday_display">Mostra festività</string>
-     <string name="action_bar_more_menu_view_description">more</string>
-     <string name="app_name">common</string>
-     <string name="new_event_description">new</string>
+     <string name="action_bar_more_menu_view_description">Altro</string>
+     <string name="app_name">Comune</string>
+     <string name="new_event_description">Nuovo</string>
 </resources>

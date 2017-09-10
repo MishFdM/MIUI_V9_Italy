@@ -264,14 +264,14 @@
         <item>Password</item>
      </string-array>
      <string-array name="check_importance_entries">
-        <item>Recommend</item>
-        <item>Important</item>
-        <item>UnImportant</item>
+        <item>Consigliato</item>
+        <item>Importante</item>
+        <item>Non importante</item>
      </string-array>
      <string-array name="check_importance_summary">
-        <item>Intelligent judge, unimportant notifications will appear in a separate folder</item>
-        <item>Notifications will appear directly on the Notification shade</item>
-        <item>All notifications will appear in a separate folder</item>
+        <item>Filtro intelligente, le notifiche non importanti appariranno in una cartella separata</item>
+        <item>Le notifiche compariranno direttamente nel pannello delle notifiche</item>
+        <item>Tutte le notifiche compariranno in una cartella separata</item>
      </string-array>
      <string-array name="city_name">
         <item>Abidjan</item>

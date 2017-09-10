@@ -313,7 +313,7 @@ se se dimenticata"</string>
      <string name="auto_task_operation_sync">Sincronizzazione</string>
      <string name="auto_task_operation_vibration">Vibrazione</string>
      <string name="auto_task_operation_wifi">Wi-Fi</string>
-     <string name="background_restrict_app_dialog_message">Restricting background network access for this app might make it impossible for the app to work normally, receive messages, download content, etc. Restrict anyway?</string>
+     <string name="background_restrict_app_dialog_message">"La limitazione dell'accesso di rete per questa app potrebbe impedirle di funzionare correttamente, ricevere messaggi, scaricare contenuti, etc. Vuoi limitarla comunque?</string>
      <string name="background_traffic">Sfondo %s</string>
      <string name="backsound_set_hint">Impostare %s come sottofondo?</string>
      <string name="battery_capacity_title">Capacità</string>
@@ -401,7 +401,7 @@ se se dimenticata"</string>
      <string name="button_text_deny">Nega</string>
      <string name="button_text_disconnect_now">Disconnetti</string>
      <string name="button_text_fix_now">Fissa</string>
-     <string name="button_text_forbid_now">Forbid</string>
+     <string name="button_text_forbid_now">Nega</string>
      <string name="button_text_ignore">Ignora</string>
      <string name="button_text_ignore_alert_title">Ignorare questo avviso?</string>
      <string name="button_text_known">OK</string>
@@ -1543,8 +1543,8 @@ Questa attività riduce la durata della batteria."</string>
      <string name="sms_contact_block">Filtro contatti</string>
      <string name="sms_delete_hint">Eliminare tutti i messaggi bloccati inviati dai numeri selezionati?</string>
      <string name="sms_delete_title">Rimuovi Messaggio</string>
-     <string name="sms_detail_fragment_title_bill">Phone balance</string>
-     <string name="sms_detail_fragment_title_traffic">Remaining data</string>
+     <string name="sms_detail_fragment_title_bill">Saldo telefono</string>
+     <string name="sms_detail_fragment_title_traffic">Dati rimanenti</string>
      <string name="sms_filter">Blacklist Parole</string>
      <string name="sms_keywords">Blacklist Località</string>
      <string name="sms_malicious_url">URL pericolosi</string>
@@ -1743,7 +1743,7 @@ Questa attività riduce la durata della batteria."</string>
      <string name="tab_blacklist">Blacklist</string>
      <string name="tab_block_log_unKnowNumber">Numero sconosciuto</string>
      <string name="tab_call">Chiamate</string>
-     <string name="tab_gift">Gifts</string>
+     <string name="tab_gift">Regali</string>
      <string name="tab_guide">Guide</string>
      <string name="tab_sms">Messaggi</string>
      <string name="tab_title">Blacklist</string>

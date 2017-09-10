@@ -65,7 +65,7 @@
      <string name="authorize_title">Autorizzazione</string>
      <string name="bind_facebook">Collega con il tuo account Facebook</string>
      <string name="bind_qq">Collega con il tuo account QQ</string>
-     <string name="bind_safe_phone_msg">Add safe phone for next sign in</string>
+     <string name="bind_safe_phone_msg">Aggiungi un numero sicuro per il prossimo accesso</string>
      <string name="bind_settings">Account</string>
      <string name="bind_sina_weibo">Autorizza Sina Weibo</string>
      <string name="bind_sns_description">Completa il tuo profilo utilizzando le informazioni personali su %s.</string>
@@ -350,8 +350,8 @@ Per attivare il tuo account, segui il
      <string name="passport_user_agreement_p2">Accordo Utente</string>
      <string name="passport_user_agreement_p3"> e </string>
      <string name="passport_user_agreement_p4">Informativa sulla Privacy</string>
-     <string name="passport_user_reg_region">Country/Region</string>
-     <string name="passport_user_reg_region_warning">"You Won't be able to change your country/region once the account is created"</string>
+     <string name="passport_user_reg_region">Nazione/Regione</string>
+     <string name="passport_user_reg_region_warning">"Non sarai in grado di modificare la Nazione/Regione una volta che avrai creato l'account"</string>
      <string name="passport_vcode_notification_title">La tua verifica di accesso è incompleta</string>
      <string name="passport_vcode_prompt_long">Inserisci il codice di sicurezza generato da Mi Security</string>
      <string name="passport_vcode_sms_send_prompt">Invia codice di verifica a %s</string>

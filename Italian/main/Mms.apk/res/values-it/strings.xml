@@ -389,10 +389,10 @@
      <string name="pref_show_sms_template_in_summary">Rileva automaticamente OTP negli SMS</string>
      <string name="pref_show_sms_template_summary">Copia ed inserisci automaticamente i codici di verifica</string>
      <string name="pref_smart_messages_settings">Messaggi smart</string>
-     <string name="pref_sms_storage_title">Storage</string>
+     <string name="pref_sms_storage_title">Archiviazione</string>
      <string name="pref_sms_theme_title">Impostazioni tema</string>
      <string name="pref_summary_allow_si_sl_push">Consenti ricezione e notifica messaggi push WAP (SI/SL)</string>
-     <string name="pref_summary_auto_delete">Delete old messages as limits are reached</string>
+     <string name="pref_summary_auto_delete">Elimina i vecchi messaggi quando viene raggiunto il limite</string>
      <string name="pref_summary_delete_limit">%1$s messaggi per conversazione</string>
      <string name="pref_summary_delivery_reports">Ricezione del rapporto di consegna SMS</string>
      <string name="pref_summary_delivery_ringtone">Ricevi una notifica sonora per i messaggi inviati.</string>
@@ -410,7 +410,7 @@
      <string name="pref_system_title">Sistema</string>
      <string name="pref_title_about_smart_sms">Informazioni sul partner peri messaggi Smart</string>
      <string name="pref_title_allow_si_sl_push">Consenti push WAP</string>
-     <string name="pref_title_auto_delete">Delete old messages</string>
+     <string name="pref_title_auto_delete">Elimina i vecchi messaggi</string>
      <string name="pref_title_card_format">Formato condivisione scheda</string>
      <string name="pref_title_delivery_reports">Rapporti consegna</string>
      <string name="pref_title_fwd_sender_info">Inoltra informazioni mittente</string>
@@ -419,8 +419,8 @@
      <string name="pref_title_mms_auto_retrieval">Recupero automatico</string>
      <string name="pref_title_mms_delete">Limiti MMS</string>
      <string name="pref_title_mms_read_reports">Conferme di lettura</string>
-     <string name="pref_title_mms_retrieval_during_international_roaming">Download MMS content when international roaming</string>
-     <string name="pref_title_mms_retrieval_during_national_roaming">Download MMS content when national roaming</string>
+     <string name="pref_title_mms_retrieval_during_international_roaming">Scarica il contenuto degli MMS in roaming internazionale</string>
+     <string name="pref_title_mms_retrieval_during_national_roaming">Scarica il contenuto degli MMS in roaming nazionale</string>
      <string name="pref_title_mms_retrieval_during_roaming">Reinvio automatico in roaming</string>
      <string name="pref_title_mms_validity_period">Periodo di validità MMS</string>
      <string name="pref_title_notification_body_enabled">Mostra anteprima</string>
