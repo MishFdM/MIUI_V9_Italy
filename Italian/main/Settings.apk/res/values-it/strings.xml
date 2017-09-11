@@ -210,7 +210,7 @@ L'amministratore ha la capacità di monitorare e gestire le impostazioni, l'acce
      <string name="android_beam_tips">Assicurati che i due dispositivi si tocchino, quindi scegli il contenuto che vuoi inviare.</string>
      <string name="android_beam_witch_label">Attiva Android Beam</string>
      <string name="animator_duration_scale_title">Scala durata animatore</string>
-     <string name="another_migration_already_in_progress">"E' già in corso un'altra migrazione."</string>
+     <string name="another_migration_already_in_progress">E\' già in corso un\'altra migrazione.</string>
      <string name="anti_spam">Antispam</string>
      <string name="aod_mode_summary">Mostra ora, data e messaggi a schermo spento.</string>
      <string name="aod_mode_title">Modalità Sempre attivo</string>
@@ -4878,7 +4878,7 @@ Aggiungi una parola toccando il tasto +."</string>
      <string name="wifi_hotspot_message">"%1$s richiede l'accesso prima di collegarsi alla rete."</string>
      <string name="wifi_hotspot_title">Accedere per connetterti?</string>
      <string name="wifi_in_airplane_mode">In modalità aereo</string>
-     <string name="wifi_info_reconnect">Error password, please try again!</string>
+     <string name="wifi_info_reconnect">Errore password, si prega di riprovare!</string>
      <string name="wifi_install_credentials">Installa certificati</string>
      <string name="wifi_ip_address">Indirizzo IP</string>
      <string name="wifi_ip_settings">Impostazioni IP</string>

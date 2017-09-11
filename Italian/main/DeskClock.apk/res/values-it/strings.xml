@@ -31,7 +31,7 @@
      <string name="cancel">Stop</string>
      <string name="close_alarm">Disattiva</string>
      <string name="common_settings">Impostazioni</string>
-     <string name="confirm_abort">OK</string>
+     <string name="confirm_abort">Annullare</string>
      <string name="control_set_alarm">Imposta sveglia</string>
      <string name="control_set_alarm_with_existing">Sveglia impostata: %s</string>
      <string name="day">1 giorno</string>
