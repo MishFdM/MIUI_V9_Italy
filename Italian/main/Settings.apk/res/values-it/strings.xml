@@ -134,11 +134,14 @@ Nota: il tocco triplo per ingrandire funziona ovunque tranne che per la tastiera
      <string name="add_a_language">Aggiungi una lingua</string>
      <string name="add_account_label">Aggiungi account</string>
      <string name="add_auto_startup_application">Aggiungi applicazioni in avvio automatico</string>
+     <string name="add_back_fingerprint_instruction_msg">Place your finger on the sensor</string>
      <string name="add_device_admin">Attiva</string>
      <string name="add_device_admin_msg">Attivare amministratore dispositivo?</string>
      <string name="add_facerecoginition_text">Add face data</string>
      <string name="add_fingerprint_done_msg">Adesso puoi sbloccare il dispositivo con le impronte digitali.</string>
      <string name="add_fingerprint_done_title">Finito.</string>
+     <string name="add_fingerprint_edge_instruction_msg">Move your finger so the sensor could record the edges of your fingerprint.</string>
+     <string name="add_fingerprint_edge_instruction_title">Move your finger slightly</string>
      <string name="add_fingerprint_failed_retry_text">"Impossibile aggiungere l'impronta. Riprova."</string>
      <string name="add_fingerprint_finished_button_text">Fatto</string>
      <string name="add_fingerprint_instruction_msg">"Sblocca il dispositivo o verifica il pagamento con l'impronta digitale"</string>
@@ -151,6 +154,7 @@ Nota: il tocco triplo per ingrandire funziona ovunque tranne che per la tastiera
      <string name="add_fingerprint_success_msg">Aggiunta correttamente</string>
      <string name="add_fingerprint_text">Aggiungi impronta digitale</string>
      <string name="add_fingerprint_toast_text">Appoggia il dito sul sensore adesso</string>
+     <string name="add_front_fingerprint_instruction_msg">Fingerprint sensor is on the back of your device.</string>
      <string name="add_new">add</string>
      <string name="add_rule">add rules</string>
      <string name="add_virtual_keyboard">GEstione tastiere</string>
@@ -210,7 +214,7 @@ L'amministratore ha la capacità di monitorare e gestire le impostazioni, l'acce
      <string name="android_beam_tips">Assicurati che i due dispositivi si tocchino, quindi scegli il contenuto che vuoi inviare.</string>
      <string name="android_beam_witch_label">Attiva Android Beam</string>
      <string name="animator_duration_scale_title">Scala durata animatore</string>
-     <string name="another_migration_already_in_progress">E\' già in corso un\'altra migrazione.</string>
+     <string name="another_migration_already_in_progress">"E' già in corso un'altra migrazione."</string>
      <string name="anti_spam">Antispam</string>
      <string name="aod_mode_summary">Mostra ora, data e messaggi a schermo spento.</string>
      <string name="aod_mode_title">Modalità Sempre attivo</string>
@@ -1873,6 +1877,7 @@ Quando attivi il backup automatico, il dispositivo e i dati delle applicazioni v
      <string name="key_gesture_function_preview">Anteprima gesture e tasti</string>
      <string name="key_gesture_function_shortcut">Collegamento funzione</string>
      <string name="key_none">Nessuna</string>
+     <string name="key_position_cat">Button positions</string>
      <string name="key_settings">Tasti</string>
      <string name="key_settings_title">Tasti</string>
      <string name="key_system_control">Controllo sistema</string>
@@ -3128,6 +3133,7 @@ ed esegui il software."</string>
      <string name="remove_managed_profile_label">Rimuovi profilo di lavoro</string>
      <string name="repeat">Ripeti</string>
      <string name="repeat_call">Repeated caller reminder</string>
+     <string name="repeat_call_info">Allow sound for the calls repeated within 15 minutes in Silent mode</string>
      <string name="repeat_title">Ripeti</string>
      <string name="reset_aaid">"Resetta identificatore AD"</string>
      <string name="reset_app_preferences">Reimposta preferenze app</string>
@@ -3242,6 +3248,7 @@ Questa impostazione influisce su tutti gli utenti di questo dispositivo."</strin
      <string name="screen_key_long_press">Pressione prolungata tasti</string>
      <string name="screen_key_long_press_action">Esegui funzionalità</string>
      <string name="screen_key_long_press_timeout">Durata pressione prolungata</string>
+     <string name="screen_key_position">Navigation buttons</string>
      <string name="screen_key_press">Pressione semplice tasti</string>
      <string name="screen_key_press_action">Attivazione</string>
      <string name="screen_locking_sounds_title">Suoni blocco schermo</string>
@@ -3444,7 +3451,7 @@ Come usare Mantieni su schermo:
      <string name="search_handy_mode">Modalità mano singola;</string>
      <string name="search_hint">Cerca impostazioni</string>
      <string name="search_home_key">Home</string>
-     <string name="search_input_hint">Search settings</string>
+     <string name="search_input_hint">Cerca nelle impostazioni</string>
      <string name="search_key_settings_title">Tasti;Pulsanti</string>
      <string name="search_lab_functions_title">Funzioni beta;Funzioni lab</string>
      <string name="search_label">Impostazioni</string>
@@ -3685,6 +3692,19 @@ Come usare Mantieni su schermo:
      <string name="settings_safetylegal_title">Informazioni sulla sicurezza</string>
      <string name="settings_shortcut">Scorciatoia Impostazioni</string>
      <string name="settings_toggle_position_divider_list">I comandi sopra la barra sono attivi</string>
+     <string name="setup_add_fingerprint_failed_retry_text">"Couldn't add fingerprint"</string>
+     <string name="setup_choose_unlock_fingerprint_msg">Set screen lock before adding your fingerprint.</string>
+     <string name="setup_choose_unlock_mixed_password_color_normal">&lt;Data&gt;&amp;lt;font color=#000000&amp;gt;Password&amp;lt;/font&amp;gt;&lt;/Data&gt;</string>
+     <string name="setup_choose_unlock_mixed_password_color_pressed">&lt;Data&gt;&amp;lt;font color=#009dff&amp;gt;Password&amp;lt;/font&amp;gt;&lt;/Data&gt;</string>
+     <string name="setup_choose_unlock_mixpassword_title">Set password</string>
+     <string name="setup_choose_unlock_password_color_normal">&lt;Data&gt;&amp;lt;font color=#000000&amp;gt;PIN&amp;lt;/font&amp;gt;&lt;/Data&gt;</string>
+     <string name="setup_choose_unlock_password_color_pressed">&lt;Data&gt;&amp;lt;font color=#009dff&amp;gt;PIN&amp;lt;/font&amp;gt;&lt;/Data&gt;</string>
+     <string name="setup_choose_unlock_password_msg">Enter 4 numbers</string>
+     <string name="setup_choose_unlock_password_title">Set PIN</string>
+     <string name="setup_choose_unlock_pattern_color_normal">&lt;Data&gt;&amp;lt;font color=#000000&amp;gt;Pattern&amp;lt;/font&amp;gt;&lt;/Data&gt;</string>
+     <string name="setup_choose_unlock_pattern_color_pressed">&lt;Data&gt;&amp;lt;font color=#009dff&amp;gt;Pattern&amp;lt;/font&amp;gt;&lt;/Data&gt;</string>
+     <string name="setup_choose_unlock_pattern_title">Draw unlock pattern</string>
+     <string name="setup_choose_unlock_type_title">Set password</string>
      <string name="setup_fingerprint_enroll_enrolling_skip_message">You’ve chosen to use your fingerprint as one way to unlock your phone. If you skip now, you’ll need to set this up later. Setup takes only a minute or so.</string>
      <string name="setup_fingerprint_enroll_enrolling_skip_title">Skip fingerprint setup?</string>
      <string name="setup_fingerprint_enroll_finish_message">Toccando il sensore di impronte digitali sbloccherai il tuo dispositivo.</string>
@@ -3693,6 +3713,8 @@ Come usare Mantieni su schermo:
      <string name="setup_lock_settings_picker_fingerprint_message">Your fingerprint may be less secure than a strong pattern, PIN, or password. For added security, set up a backup screen lock.</string>
      <string name="setup_lock_settings_picker_message">Prevent others from using this phone without your permission by activating device protection features. Choose the screen lock you want to use.</string>
      <string name="setup_lock_settings_picker_title">Protect your phone</string>
+     <string name="setup_password_back">Back</string>
+     <string name="setup_password_confirm">OK</string>
      <string name="setup_wifi_nfc_tag">Imposta un Tag NFC</string>
      <string name="severe_threats_summary">Ricevi avvisi di minacce severe alla vita e proprietà</string>
      <string name="severe_threats_title">Minacce gravi</string>
@@ -3869,7 +3891,6 @@ Questo è reso possibile da credenziali attendibili installate sul tuo dispositi
      <string name="standard">Selenzioso</string>
      <string name="standard_info">Le chiamate e le notifiche sono saranno silenziate, mentre gli allarmi e la musica continuerà a suonare</string>
      <string name="start_silent_mode">Attiva modalità silenziosa</string>
-     <string name="start_vip_mode">enable VIP mode</string>
      <string name="starting_android">Avvio di Android</string>
      <string name="status_awaiting_tap">Tocca un tag da scrivere…</string>
      <string name="status_awake_time">Tempo di attività</string>
@@ -4590,7 +4611,6 @@ Aggiungi una parola toccando il tasto +."</string>
      <string name="vibrate_on_touch_title">Vibra al tocco</string>
      <string name="vibrate_when_ringing_title">Vibra quando squilla</string>
      <string name="vip_list">VIP list</string>
-     <string name="vip_mode_info">In the standard mute, VIP list of contacts in the call or SMS will still ring Ling reminders</string>
      <string name="virtual_keyboard_category">Tastiera virtuale</string>
      <string name="virtual_sim_category_title">SIM virtuale</string>
      <string name="virtual_sim_description">Servizio di roaming internazionale affidabile</string>

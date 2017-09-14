@@ -1139,6 +1139,10 @@
         <item>1.5 secondi</item>
         <item>2 secondi</item>
      </string-array>
+     <string-array name="screen_key_position_action">
+        <item>Menu button on the left, Back button on the right</item>
+        <item>Back button on the left, Menu button on the right</item>
+     </string-array>
      <string-array name="screen_key_press_action">
         <item>Mostra applicazioni recenti</item>
         <item>Mostra menu</item>
@@ -1304,6 +1308,12 @@
         <item>Neanderthal</item>
         <item>Scimpanzè</item>
         <item>Scimmia</item>
+     </string-array>
+     <string-array name="vip_mode_text">
+        <item>From anyone</item>
+        <item>From contacts only</item>
+        <item>From starred contacts only</item>
+        <item>None</item>
      </string-array>
      <string-array name="vpn_states">
         <item>Disconnessa</item>

@@ -69,6 +69,7 @@
      <string name="account_setup_autodiscover_dlg_authfail_message">Confermare che nome utente, password e impostazioni account sono corretti.</string>
      <string name="account_setup_autodiscover_dlg_authfail_title">Problema configurazione account</string>
      <string name="account_setup_basics_email_label">Indirizzo email</string>
+     <string name="account_setup_basics_login_gmail_without_proxy">Use the current network connection</string>
      <string name="account_setup_basics_manual_setup_action">Config. manuale</string>
      <string name="account_setup_basics_password_label">Password</string>
      <string name="account_setup_basics_title">Impostazione account</string>
@@ -353,6 +354,7 @@
      <string name="default_pop3">POP3</string>
      <string name="default_setup">IMPOSTAZIONI PREDEFINITE\u0020</string>
      <string name="default_signature">Inviato tramite dispositivo Xiaomi</string>
+     <string name="default_signature_2">Sent from my %s</string>
      <string name="del_account_questionnair_hint">Puoi comunicarci il motivo per cui elimini questo account?</string>
      <string name="delete">Elimina</string>
      <string name="delete_message_flow">Elimina flusso messaggio</string>
@@ -690,8 +692,13 @@ Prova con una diverso account."</string>
      <string name="oauth_gmail_login_notify">Secondo le procedure richieste da Google, dovresti inserire la tua password nella pagina di autorizzazione Google</string>
      <string name="oauth_login_continue">Continua</string>
      <string name="oauth_login_continue_qq">Ricevi il codice ed accedi</string>
+     <string name="oauth_login_usr_proxy">Proxy login</string>
      <string name="ok">OK</string>
      <string name="okay_action">OK</string>
+     <string name="open_calendar_and_contacts_permission">Please activate calendar and contacts permission in System Settings</string>
+     <string name="open_external_storage_and_calendar_permission">Please activate external storage and calendar permission in System Settings</string>
+     <string name="open_external_storage_and_contacts_and_calendar_permission">Please activate external storage,calendar,contacts permission in System Settings</string>
+     <string name="open_external_storage_and_contacts_permission">Please activate external storage and contacts permission in System Settings</string>
      <string name="outbox_alert_button_no_resend">Non inviare</string>
      <string name="outbox_alert_button_resend">Invia di nuovo</string>
      <string name="outbox_alert_certificate_error">Eccezione certificato E-mail, si prega di aggiornare</string>
@@ -994,6 +1001,10 @@ perr icevere promemoria sui pagamenti dei tuoi viaggi"</string>
      <string name="str_select_none">Deseleziona tutto</string>
      <string name="subject_and_snippet" formatted="false">%s — %s</string>
      <string name="subject_hint">Oggetto</string>
+     <string name="sync_contacts_fail_per_content">Apply for contact permissions, please click to apply</string>
+     <string name="sync_contacts_fail_per_title">Synchronous contact failed</string>
+     <string name="sync_contacts_fail_permission">Synchronous contact failed, access to mobile phone contacts is not enabled, please open in the phone settings - rights management</string>
+     <string name="sync_contacts_req_per_ignored">Phone contact is not open and can not sync contacts</string>
      <string name="sync_error">Impossibile sincronizzare</string>
      <string name="sync_error_message">Spazio insufficiente per la sincronizzazione</string>
      <string name="syncing_wait_restart">Tocca Riprova</string>

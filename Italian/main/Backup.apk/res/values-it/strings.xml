@@ -161,6 +161,7 @@
      <string name="notif_trans_receiving_failed">Ricezione dati fallita</string>
      <string name="notif_trans_sending_completed">Dati inviati correttamente</string>
      <string name="notif_trans_sending_failed">Invio dati fallito</string>
+     <string name="notif_trans_wait_for_reconnecting">Remote device is disconnected. Please connect again.</string>
      <string name="page_loading">Solo un attimo…</string>
      <string name="progress_backup_hint">Backup in corso…</string>
      <string name="progress_restore_hint">Ripristino in corso…</string>
@@ -168,6 +169,7 @@
      <string name="prompt_sending">Caricamento in corso…</string>
      <string name="prompt_writing">Scrittura in corso…</string>
      <string name="read_encrypt_fail">Lettura crittografia fallita</string>
+     <string name="reconnect">Reconnect</string>
      <string name="refresh">Aggiorna</string>
      <string name="remote_receive">Ricevi</string>
      <string name="restore">Ripristino</string>
@@ -259,6 +261,7 @@
      <string name="trans_calculating_base_size">Calcolo dimensione base app</string>
      <string name="trans_cancel_confirm">Trasferimento in corso, annullare adesso?</string>
      <string name="trans_cancelling">Annullamento</string>
+     <string name="trans_connect_failed_device_incompatible">device incompatible. Please cancel the transfering progress and try again.</string>
      <string name="trans_connect_failed_message">"Connessione fallita, riprova o riavvia. Sull'altro dispositivo, vai in Impostazioni > Impostazioni aggiuntive > Mi Mover, tocca [I'm a sender] o lancia di nuovo Mi Mover dopo il riavvio"</string>
      <string name="trans_connect_failed_title">Connessione fallita</string>
      <string name="trans_connect_failed_toast">Impossibile connettersi</string>
@@ -269,6 +272,7 @@
      <string name="trans_detail_category_sysdata">Dati di sistema</string>
      <string name="trans_detail_category_userdata">App</string>
      <string name="trans_device_disconnected">Dispositivo disconnesso</string>
+     <string name="trans_device_wait_for_reconnecting">Device disconnected. Please reconnect.</string>
      <string name="trans_generate_qr_code_failed">Impossibile creare QR code</string>
      <string name="trans_main_tutor">Trasferisci contatti, registro chiamate, messaggi, layout home, app, impostazioni e altro su un nuovo dispositivo</string>
      <string name="trans_my_device">Il mio dispositivo</string>
@@ -283,6 +287,10 @@ Tocca [I'm a recipient] per creare un Codice QR"</string>
 2. Apri l'app e seleziona [Sono il mittente]
 3. Scansiona il Codice QR con il vecchio dispositivo"</string>
      <string name="trans_operate_old_phone_tips2">"Vai in Impostazioni > Impostazioni aggiuntive > Trasferimento e tocca [Sono il mittente]"</string>
+     <string name="trans_operate_reconnect_new_tips">"Wait until new phone shows \"Device disconnected\".
+Then click [Reconnect] to create a QR code."</string>
+     <string name="trans_operate_reconnect_old_tips">"Wait until old phone shows \"Device disconnected\".
+Then click [Reconnect] to scan the QR code."</string>
      <string name="trans_please_waiting">Attendi…</string>
      <string name="trans_progress_subdescript_br_receiver">Ripristino %1$s, %2$s completato</string>
      <string name="trans_progress_subdescript_br_sender">Backup %1$s, %2$s completato</string>

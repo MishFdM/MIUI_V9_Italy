@@ -503,6 +503,7 @@ Questa funziona cripta ed invia l'ID del tuo dispositivo ai server Xiaomi."</str
      <string name="sync_dspt_entrance_provision_confirm_content">"Le applicazioni integrate in MIUI necessitano di Mi Cloud per il backup di foto, contatti, note ed altro. Mi Cloud è gratuito e pronto all'uso."</string>
      <string name="sync_dspt_entrance_provision_confirm_open">Utilizza</string>
      <string name="sync_dspt_entrance_provision_confirm_title">Non vuoi utilizzare Mi Cloud?</string>
+     <string name="sync_dspt_entrance_provision_network">This app needs to connect to the internet to work normally.Sync data may be connected to the data network and open WLAN.</string>
      <string name="sync_dspt_entrance_provision_skip"><u>Salta questo passaggio</u></string>
      <string name="sync_dspt_provision">"Sincronizza le foto, i contatti, le note e molto altro su tutti i tuoi dispositivi o accedi da "</string>
      <string name="sync_dspt_provision2">i.mi.com</string>

@@ -69,6 +69,8 @@
      <string name="dialog_delay_update_msg">"Il dispositivo si riavvierà per installare l'aggiornamento quando sarà acceso e con almeno il 30% di carica"</string>
      <string name="dialog_delay_update_title">Aggiornamento disponibile</string>
      <string name="dialog_delay_update_tonight">Aggiorna stanotte</string>
+     <string name="dialog_stop_desc">Are you sure to stop a running download? All progress will be lost, you cannot resume. The next attempt to download will start from the beginning.</string>
+     <string name="dialog_stop_title">Stop Download?</string>
      <string name="download_again">Scarica di nuovo</string>
      <string name="download_cancel">Annulla</string>
      <string name="download_current_rom">"Scarica l'ultima ROM completa"</string>

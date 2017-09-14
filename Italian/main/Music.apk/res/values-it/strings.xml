@@ -555,6 +555,7 @@ attendere o selezionare Musica Online."</string>
      <string name="no_scanned_songs">Vuoto</string>
      <string name="no_song">Nessun brano</string>
      <string name="no_song_downloaded">Impossibile connettersi al server</string>
+     <string name="no_system_cropper_find">"System doesn't have cropper for image"</string>
      <string name="normal_quality">Normale</string>
      <string name="not_login">Accesso non effettuato</string>
      <string name="not_selected">Scegli un brano</string>

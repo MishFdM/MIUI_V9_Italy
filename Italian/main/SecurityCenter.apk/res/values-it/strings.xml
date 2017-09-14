@@ -313,7 +313,7 @@ se se dimenticata"</string>
      <string name="auto_task_operation_sync">Sincronizzazione</string>
      <string name="auto_task_operation_vibration">Vibrazione</string>
      <string name="auto_task_operation_wifi">Wi-Fi</string>
-     <string name="background_restrict_app_dialog_message">"La limitazione dell'accesso di rete per questa app potrebbe impedirle di funzionare correttamente, ricevere messaggi, scaricare contenuti, etc. Vuoi limitarla comunque?</string>
+     <string name="background_restrict_app_dialog_message">"La limitazione dell'accesso di rete per questa app potrebbe impedirle di funzionare correttamente, ricevere messaggi, scaricare contenuti, etc. Vuoi limitarla comunque?"</string>
      <string name="background_traffic">Sfondo %s</string>
      <string name="backsound_set_hint">Impostare %s come sottofondo?</string>
      <string name="battery_capacity_title">Capacità</string>
@@ -1053,6 +1053,7 @@ dall'operatore"</string>
      <string name="network_speed_for_apps_others">Altre</string>
      <string name="network_speed_for_apps_title">Connessione</string>
      <string name="network_speed_for_apps_total">Velocità di connessione</string>
+     <string name="network_test_speed">Test WLAN speed</string>
      <string name="networkchanged_exception_summary">La connessione è cambiata. Riprova.</string>
      <string name="networkchanged_exception_title">Connessione cambiata</string>
      <string name="never">Solo una volta</string>
@@ -1692,7 +1693,6 @@ Questa attività riduce la durata della batteria."</string>
      <string name="start_diagnostic_botton">Comincia</string>
      <string name="start_downloading_app">Avvio download: %1$s</string>
      <string name="start_game">Start</string>
-     <string name="start_tc_button">Calibra</string>
      <string name="still_retain_btn">Mantieni</string>
      <string name="suggest_app_tolock">Suggerimenti</string>
      <string name="suggest_scan_again">Si consigli a di completare la scansione per una sicurezza totale.</string>
@@ -1944,13 +1944,16 @@ I dati rimanenti includono dati che sono stati erogati il mese precedente."</str
      <string name="traffic_over_purchase_link">"Hai raggiunto il limite del tuo piano dati<br/>Se superi il limite del tuo piano dati, il tuo operatore potrebbe addebitarti costi aggiuntivi.<br/><br/><font color="#ccffffff"><u>Tocca per ricaricare.</u></font>"</string>
      <string name="traffic_purchase_body">Tocca per ricaricare.</string>
      <string name="traffic_setting_fragment_area">Locale</string>
-     <string name="traffic_setting_fragment_area_dual">%s Locale</string>
      <string name="traffic_setting_fragment_brand">Marca</string>
      <string name="traffic_setting_fragment_button1_text">Annulla</string>
      <string name="traffic_setting_fragment_button2_text">Salva</string>
+     <string name="traffic_setting_fragment_city">City</string>
+     <string name="traffic_setting_fragment_default">Select</string>
      <string name="traffic_setting_fragment_find_brand">Non conosci il brand?</string>
      <string name="traffic_setting_fragment_loacation_alert_nomore">Non mostrare più</string>
      <string name="traffic_setting_fragment_operator">Operatore</string>
+     <string name="traffic_setting_fragment_operator_setting">Carrier settings</string>
+     <string name="traffic_setting_fragment_province">Province</string>
      <string name="traffic_setting_fragment_send_num">Numero di telefono operatore</string>
      <string name="traffic_setting_fragment_send_num_tips">Inserisci numero di telefono</string>
      <string name="traffic_setting_fragment_sms_content">Contenuto del messaggio</string>

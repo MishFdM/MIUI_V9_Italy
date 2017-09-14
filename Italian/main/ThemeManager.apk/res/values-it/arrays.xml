@@ -1,10 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+     <string-array name="wallpaper_settings_precust_brazil_cover_name">
+        <item>Scenery</item>
+        <item>Animal</item>
+        <item>Creative</item>
+        <item>Plant</item>
+        <item>Lifestyle</item>
+     </string-array>
      <string-array name="wallpaper_settings_precust_cover_name">
         <item>Entertainment</item>
         <item>Landscape</item>
         <item>Starry sky</item>
         <item>Botany</item>
         <item>Animal</item>
+     </string-array>
+     <string-array name="wallpaper_settings_precust_global_cover_name">
+        <item>Scenery</item>
+        <item>Animal</item>
+        <item>Plant</item>
+        <item>Creative</item>
+        <item>Lifestyle</item>
+     </string-array>
+     <string-array name="wallpaper_settings_precust_hong_kong_cover_name">
+        <item>Scenery</item>
+        <item>Animal</item>
+        <item>Creative</item>
+        <item>Plant</item>
+        <item>Lifestyle</item>
+     </string-array>
+     <string-array name="wallpaper_settings_precust_india_cover_name">
+        <item>Animal</item>
+        <item>Building</item>
+        <item>Creative</item>
+        <item>Cartoon</item>
+        <item>Scenery</item>
      </string-array>
 </resources>

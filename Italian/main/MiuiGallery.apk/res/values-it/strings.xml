@@ -701,7 +701,7 @@
      <string name="error_build_thumbnail_msg">"Impossibile scaricare l'anteprima. Prova a scaricar e il file originale."</string>
      <string name="error_build_thumbnail_tip">"Impossibile scaricare l'anteprima."</string>
      <string name="error_change_storage_action">cambia archiviazione</string>
-     <string name="error_change_storage_msg">Vai in Impostazioni &gt; Archivio, modifica l\'archiviazione e prova di nuovo.</string>
+     <string name="error_change_storage_msg">"Vai in Impostazioni &gt; Archivio, modifica l\'archiviazione e prova di nuovo."</string>
      <string name="error_cloud_not_active">Album Mi Cloud non attivo</string>
      <string name="error_connect_timeout_action">Seleziona la rete</string>
      <string name="error_connect_timeout_msg">Connettiti ad una rete diversa e prova di nuovo.</string>
@@ -709,7 +709,7 @@
      <string name="error_decode_tip">Formato file non supportato o dati corrotti.</string>
      <string name="error_download_tip">Impossibile scaricare</string>
      <string name="error_external_sdcard_write_action">Cambia archiviazione</string>
-     <string name="error_external_sdcard_write_msg">Vai in Impostazioni &gt; Archivio, modifica l\'archiviazione e prova di nuovo.</string>
+     <string name="error_external_sdcard_write_msg">"Vai in Impostazioni &gt; Archivio, modifica l\'archiviazione e prova di nuovo."</string>
      <string name="error_external_sdcard_write_tip">Impossibile salvare file sulla SD.</string>
      <string name="error_forbidden">Si sono verificati dei problemi con il tuo account: sincronizzazione disattivata.</string>
      <string name="error_internal_sdcard_write_tip">Si è verificato un errore. Riavvia il tuo dispositivo e prova di nuovo.</string>
@@ -1335,7 +1335,6 @@ Scatta più foto ai tuoi amici!"</string>
      <string name="video_editor_text_edit_input_open_hint">Inserisci il titolo</string>
      <string name="video_editor_text_edit_start">Titolo</string>
      <string name="video_editor_text_input_empty_tips">Sembra che tu non abbia ancora inserito alcun testo</string>
-     <string name="video_editor_text_none">Nessuno</string>
      <string name="video_editor_text_preview_text">Testo</string>
      <string name="video_editor_trim">Ritaglia</string>
      <string name="video_editor_unsupport_audio_file">File audio non supportato</string>
