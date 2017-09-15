@@ -766,7 +766,7 @@ se se dimenticata"</string>
      <string name="input_used_hint">Inserisci utilizzo dati</string>
      <string name="input_used_max_hint">Inserisci utilizzo dati (meno di %s)</string>
      <string name="install">Installa</string>
-     <string name="install_sucess">%s installato correttamente successfully</string>
+     <string name="install_sucess">%s installato correttamente</string>
      <string name="install_title">Installa tramite USB</string>
      <string name="installing">Installazione</string>
      <string name="international_roaming_setting">Roaming dati</string>
@@ -1846,7 +1846,7 @@ Questa attività riduce la durata della batteria."</string>
      <string name="title_consume_power_rank">Utilizzo batteria</string>
      <string name="title_data_flow">"Imposta avviso utilizzo dati"</string>
      <string name="title_data_flow_monitor">"Il controllo dell'utilizzo dei dati è attivo"</string>
-     <string name="title_dev_model_off">Opzioni sviluapptore disattivate</string>
+     <string name="title_dev_model_off">Opzioni sviluppatore disattivate</string>
      <string name="title_dev_no">Opzioni sviluppatore attivate</string>
      <string name="title_dev_yes">Opzioni sviluppatore disattivate</string>
      <string name="title_device_not_root">I permessi di root non sono stati concessi</string>
@@ -1948,11 +1948,11 @@ I dati rimanenti includono dati che sono stati erogati il mese precedente."</str
      <string name="traffic_setting_fragment_button1_text">Annulla</string>
      <string name="traffic_setting_fragment_button2_text">Salva</string>
      <string name="traffic_setting_fragment_city">City</string>
-     <string name="traffic_setting_fragment_default">Select</string>
+     <string name="traffic_setting_fragment_default">Seleziona</string>
      <string name="traffic_setting_fragment_find_brand">Non conosci il brand?</string>
      <string name="traffic_setting_fragment_loacation_alert_nomore">Non mostrare più</string>
      <string name="traffic_setting_fragment_operator">Operatore</string>
-     <string name="traffic_setting_fragment_operator_setting">Carrier settings</string>
+     <string name="traffic_setting_fragment_operator_setting">Impostazioni operatore</string>
      <string name="traffic_setting_fragment_province">Province</string>
      <string name="traffic_setting_fragment_send_num">Numero di telefono operatore</string>
      <string name="traffic_setting_fragment_send_num_tips">Inserisci numero di telefono</string>

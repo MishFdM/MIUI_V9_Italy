@@ -16,7 +16,7 @@
      <string name="accessibility_bluetooth_connected">Bluetooth collegato.</string>
      <string name="accessibility_bluetooth_disconnected">Bluetooth scollegato.</string>
      <string name="accessibility_bluetooth_tether">Tethering Bluetooth.</string>
-     <string name="accessibility_brightness_slider">Brightness slider</string>
+     <string name="accessibility_brightness_slider">Regolazione luminosità</string>
      <string name="accessibility_camera_button">Fotocamera</string>
      <string name="accessibility_clear_all">Rimuovi tutte le notifiche.</string>
      <string name="accessibility_data_connection_3.5g">3.5G</string>
@@ -480,7 +480,7 @@ Utilizza solo l'alimentatore in dotazione."</string>
      <string name="screenshot_dlg_delete_button">Elimina</string>
      <string name="screenshot_edit">Modifica</string>
      <string name="screenshot_failed_text">"Impossibile salvare lo screenshot. L'archivio esterno potrebbe essere in uso."</string>
-     <string name="screenshot_insert_failed">"Caricamento schermata fallito, prego riacquisiscine una nuova o visualizza le immagini nell'album"</string>
+     <string name="screenshot_insert_failed">"Caricamento schermata fallito, prego prova di nuovo o visualizza le immagini nell'album"</string>
      <string name="screenshot_long_screenshot">Screenshot lungo</string>
      <string name="screenshot_saved_text">Premi per visualizzare la tua schermata.</string>
      <string name="screenshot_saved_title">Schermata acquisita</string>

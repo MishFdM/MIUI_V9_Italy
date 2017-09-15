@@ -69,8 +69,8 @@
      <string name="dialog_delay_update_msg">"Il dispositivo si riavvierà per installare l'aggiornamento quando sarà acceso e con almeno il 30% di carica"</string>
      <string name="dialog_delay_update_title">Aggiornamento disponibile</string>
      <string name="dialog_delay_update_tonight">Aggiorna stanotte</string>
-     <string name="dialog_stop_desc">Are you sure to stop a running download? All progress will be lost, you cannot resume. The next attempt to download will start from the beginning.</string>
-     <string name="dialog_stop_title">Stop Download?</string>
+     <string name="dialog_stop_desc">"Sei sicuro di voler interrompere un download in corso? Tutti i progressi verranno persi e non potrai ripristinarli. Il prossimo tentativo di download partirà dall'inizio."</string>
+     <string name="dialog_stop_title">Interrompere il download?</string>
      <string name="download_again">Scarica di nuovo</string>
      <string name="download_cancel">Annulla</string>
      <string name="download_current_rom">"Scarica l'ultima ROM completa"</string>
@@ -170,7 +170,7 @@ Nessun aggiornamento sarà disponibile per te!"</string>
      <string name="notification_update_new_version">Aggiornamento disponibile</string>
      <string name="notification_update_now">Aggiorna adesso</string>
      <string name="notification_updating">Aggiornamento…</string>
-     <string name="notifications_switch">Show notifications</string>
+     <string name="notifications_switch">Mostra notifiche</string>
      <string name="on_checking">Sto cercando…</string>
      <string name="open_now">Sì</string>
      <string name="particular_build">Speciale</string>

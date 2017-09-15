@@ -263,7 +263,7 @@
      <string name="download_title_sorted_by_date">Download - Ordina per data</string>
      <string name="download_title_sorted_by_size">Download - Ordina per dimensione</string>
      <string name="download_toast">Utilizza la rete mobile per scaricare i brani</string>
-     <string name="download_toast_with_beyond_data">Rete dati mobile in uso per il download dei brani. Limite suerato di %s</string>
+     <string name="download_toast_with_beyond_data">Rete dati mobile in uso per il download dei brani. Limite superato di %s</string>
      <string name="download_toast_with_data">Utilizzo in corso della rete dati mobile per il download dei brani, %s rimanenti</string>
      <string name="download_traffic_dialog_buy_package">Acquista un piano dati per la musica</string>
      <string name="download_traffic_dialog_msg">Hai %s s di dati mobili. Utilizzare i dati mobili per scaricare canzoni?</string>
@@ -555,7 +555,7 @@ attendere o selezionare Musica Online."</string>
      <string name="no_scanned_songs">Vuoto</string>
      <string name="no_song">Nessun brano</string>
      <string name="no_song_downloaded">Impossibile connettersi al server</string>
-     <string name="no_system_cropper_find">"System doesn't have cropper for image"</string>
+     <string name="no_system_cropper_find">Il sistema non supporta il ritaglio delle immagini</string>
      <string name="normal_quality">Normale</string>
      <string name="not_login">Accesso non effettuato</string>
      <string name="not_selected">Scegli un brano</string>

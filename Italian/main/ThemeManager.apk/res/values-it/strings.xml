@@ -433,7 +433,7 @@
      <string name="uid_change_dialog_message">Hai eliminato gli aggiornamenti. Riavvia il dispositivo per poter utilizzare i temi.</string>
      <string name="uid_change_dialog_ok">Ho capito</string>
      <string name="uid_change_dialog_title">Riavvia dispositivo</string>
-     <string name="wallpaper_apply">Apply</string>
+     <string name="wallpaper_apply">Applica</string>
      <string name="wallpaper_crop">Taglia</string>
      <string name="wallpaper_decoded_error">Decodifica fallita</string>
      <string name="wallpaper_scroll_type_tips">Scorrimento sfondo</string>

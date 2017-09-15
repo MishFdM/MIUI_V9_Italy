@@ -88,7 +88,7 @@
         <item>Ottieni statistiche uso</item>
         <item>Muto/non muto microfono</item>
         <item>Finestra toast</item>
-        <item>Media project</item>
+        <item>Progetto media</item>
         <item>Attiva VPN</item>
         <item>Cambia wlan</item>
         <item>Cambia bluetooth</item>
@@ -888,7 +888,7 @@
      <string-array name="debug_hw_overdraw_entries">
         <item>Disattivato</item>
         <item>Visualizza le zone di conflitto</item>
-        <item>Mostra aree adattate per Deuteranomalia</item>
+        <item>Mostra aree adattate per deuteranomalia</item>
      </string-array>
      <string-array name="dream_timeout_entries">
         <item>Mai</item>
@@ -1140,8 +1140,8 @@
         <item>2 secondi</item>
      </string-array>
      <string-array name="screen_key_position_action">
-        <item>Menu button on the left, Back button on the right</item>
-        <item>Back button on the left, Menu button on the right</item>
+        <item>Tasto Menu a sinistra, tasto Indietro a destra</item>
+        <item>Tasto Indietro a sinistra, tasto Menu a destra</item>
      </string-array>
      <string-array name="screen_key_press_action">
         <item>Mostra applicazioni recenti</item>
@@ -1310,10 +1310,10 @@
         <item>Scimmia</item>
      </string-array>
      <string-array name="vip_mode_text">
-        <item>From anyone</item>
-        <item>From contacts only</item>
-        <item>From starred contacts only</item>
-        <item>None</item>
+        <item>Da chiunque</item>
+        <item>Solo dai contatti</item>
+        <item>Solo dai contatti speciali</item>
+        <item>Nessuno</item>
      </string-array>
      <string-array name="vpn_states">
         <item>Disconnessa</item>

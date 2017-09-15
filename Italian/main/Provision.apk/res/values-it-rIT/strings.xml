@@ -26,10 +26,10 @@
      <string name="input_method_category">"Scegli la tastiera predefinita per la scrittura di messaggi, email, note, ecc. Successivamente potrai installare tastiere di terze parti."</string>
      <string name="input_method_setting">Seleziona tastiera</string>
      <string name="install_preinstall_app">Caricamento applicazioni…</string>
-     <string name="item_fingerprint">Fingerprint</string>
-     <string name="item_lock_screen_password">Only screen lock</string>
+     <string name="item_fingerprint">Impronta digitale</string>
+     <string name="item_lock_screen_password">Solo schermata di blocco</string>
      <string name="language_picker_other_languages_title">Altre lingue</string>
-     <string name="language_settings">Select language</string>
+     <string name="language_settings">Seleziona lingua</string>
      <string name="locale_picker_title">Scegli il paese</string>
      <string name="miui_privacy_policy_no_network">"Nessuna connessione di rete. Leggi l'informativa sulla privacy su %s"</string>
      <string name="miui_terms_no_network">Nessuna connessione di rete. Leggi i termini del servizio su %s</string>

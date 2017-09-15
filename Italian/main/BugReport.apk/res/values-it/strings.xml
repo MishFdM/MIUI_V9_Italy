@@ -13,8 +13,8 @@
      <string name="bugreport_dump_complete_notification_title">Segnalazione bug creata</string>
      <string name="bugreport_dump_start_notification_summary">Richiede circa un minuto.</string>
      <string name="bugreport_dump_start_notification_title">Creazione segnalazione bug</string>
-     <string name="bugreport_tool_log_dumping_desc">Takes about a minute</string>
-     <string name="bugreport_tool_log_dumping_title">Creating bug report</string>
+     <string name="bugreport_tool_log_dumping_desc">Ci vorrà circa un minuto</string>
+     <string name="bugreport_tool_log_dumping_title">Creazione bug report</string>
      <string name="close_feedback_main">Nascondi</string>
      <string name="cta_cancel">Annulla</string>
      <string name="cta_confirm">OK</string>
@@ -75,7 +75,7 @@
      <string name="feedback_report_remind_login_desc2">"Puoi vedere il progresso del tuo report in \"I miei report\"."</string>
      <string name="feedback_retest_label">Passi da riprodurre</string>
      <string name="feedback_select_images">Aggiungi immagini</string>
-     <string name="feedback_select_modem_log">Add modem logs</string>
+     <string name="feedback_select_modem_log">Aggiungi log modem</string>
      <string name="feedback_select_problem">Problemi</string>
      <string name="feedback_select_suggestion">Suggerimenti</string>
      <string name="feedback_select_upload_log">Aggiungi log</string>
@@ -187,10 +187,10 @@
      <string name="mobile_data_note_dialog_content">Utilizzare i dati mobili per inviare i log può comportare degli addebiti.</string>
      <string name="mobile_data_note_dialog_content_with_file_size">"L'invio dei log tramite dati mobili richiede l'uso di %sMB di traffico Internet."</string>
      <string name="mobile_data_note_dialog_title">Avviso uso dati</string>
-     <string name="modem_tool_log_dumping_desc">Click icon to stop</string>
-     <string name="modem_tool_log_dumping_title">Capturing modem logs</string>
-     <string name="modem_tool_log_finish_desc">Log is saved as %s</string>
-     <string name="modem_tool_log_finish_title">Modem log captured</string>
+     <string name="modem_tool_log_dumping_desc">"Tocca l'icona per interrompere"</string>
+     <string name="modem_tool_log_dumping_title">Recupero log modem</string>
+     <string name="modem_tool_log_finish_desc">Log salvato come %s</string>
+     <string name="modem_tool_log_finish_title">Log modem raccolto</string>
      <string name="module_communication">Comunicazione</string>
      <string name="module_data">Archivio e App Clonate</string>
      <string name="module_desktop">Home e impostazioni</string>
@@ -292,7 +292,7 @@
      <string name="toast_third_packagename_required">Inserisci nome app</string>
      <string name="toast_title_required">Descrivi il tuo problema</string>
      <string name="try_again">Prova di nuovo</string>
-     <string name="upload_log_failed">Impossibile inviare logs</string>
+     <string name="upload_log_failed">Impossibile inviare log</string>
      <string name="warning_field_empty">Inserisci %1$s</string>
      <string name="warning_field_invalid">Seleziona un valido %1$s</string>
 </resources>
