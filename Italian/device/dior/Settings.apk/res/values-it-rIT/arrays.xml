@@ -52,23 +52,6 @@
         <item>Mantieni attivo</item>
         <item>Posizione</item>
         <item>Geolocalizzazione</item>
-        <item>Ottieni statistiche uso</item>
-        <item>Muto/non muto microfono</item>
-        <item>Finestra toast</item>
-        <item>Media project</item>
-        <item>Attiva VPN</item>
-        <item>Cambia wlan</item>
-        <item>Cambia bluetooth</item>
-        <item>Invia MMS</item>
-        <item>Leggi MMS</item>
-        <item>Scrivi MMS</item>
-        <item>Auto avvio</item>
-        <item>Cambia Nfce</item>
-        <item>Elimina SMS</item>
-        <item>Elimina MMS</item>
-        <item>Elimina contatti</item>
-        <item>Elimina registro chiamate</item>
-        <item>Cambia dati</item>
      </string-array>
      <string-array name="app_ops_summaries">
         <item>posizione approssimativa</item>
@@ -114,28 +97,43 @@
         <item>mantieni attivo</item>
         <item>monitora posizione</item>
         <item>monitora localizzazione a consumo elevato</item>
-        <item>ottieni statistiche uso</item>
-        <item>muto/non muto microfono</item>
-        <item>finestra toast</item>
-        <item>media project</item>
-        <item>attiva VPN</item>
-        <item>cambia wi-fi</item>
-        <item>cambia bluetooth</item>
-        <item>invia MMS</item>
-        <item>leggi MMS</item>
-        <item>scrivi MMS</item>
-        <item>auto avvio</item>
-        <item>cambia Nfce</item>
-        <item>elimina SMS</item>
-        <item>elimina MMS</item>
-        <item>elimina contatti</item>
-        <item>elimina registro chiamate</item>
-        <item>cambia dati</item>
      </string-array>
      <string-array name="bearer_entries">
         <item>LTE</item>
         <item>eHRPD</item>
         <item>Non specificato</item>
+     </string-array>
+    <string-array name="captioning_edge_type_selector_titles">
+        <item>Nessuno</item>
+        <item>Contorno</item>
+        <item>Ombreggiatura</item>
+     </string-array>
+     <string-array name="captioning_preset_selector_titles">
+        <item>Bianco su nero</item>
+        <item>Nero su bianco</item>
+        <item>Giallo su nero</item>
+        <item>Giallo su blu</item>
+        <item>Personalizzato</item>
+     </string-array>
+     <string-array name="captioning_typeface_selector_titles">
+        <item>Predefinito</item>
+        <item>Sans-serif</item>
+        <item>Sans-serif condensed</item>
+        <item>Serif</item>
+        <item>Maiuscoletto</item>
+     </string-array>
+     <string-array name="common_password_business_names">
+        <item>Schermata di blocco</item>
+        <item>Modalità Genitore</item>
+        <item>File Explorer</item>
+        <item>Blocco applicazioni</item>
+        <item>Spazio Secondario</item>
+     </string-array>
+     <string-array name="debug_hw_overdraw_entries">
+        <item>Disattivato</item>
+        <item>Visualizza le zone di conflitto</item>
+        <item>Mostra aree adattate per deuteranomalia</item>
+        <item>Mostra contatore di sovraesposizione</item>
      </string-array>
      <string-array name="entries_font_size">
         <item>Piccolo</item>
@@ -160,23 +158,14 @@
         <item>basso</item>
         <item>critico</item>
      </string-array>
-     <string-array name="select_logd_size_lowram_titles">
-        <item>64K</item>
-        <item>256K</item>
-        <item>1M</item>
+     <string-array name="track_frame_time_entries">
+	    <item>Disattivato</item>
+        <item>Su schermo sotto forma di barre</item>
+		<item>Su schermo sotto forma di linee</item>
+        <item>In adb shell dumpsys gfxinfo</item>
      </string-array>
-     <string-array name="select_logd_size_summaries">
-        <item>64K per log buffer</item>
-        <item>256K per log buffer</item>
-        <item>1M per log buffer</item>
-        <item>4M per log buffer</item>
-        <item>16M per log buffer</item>
-     </string-array>
-     <string-array name="select_logd_size_titles">
-        <item>64K</item>
-        <item>256K</item>
-        <item>1M</item>
-        <item>4M</item>
-        <item>16M</item>
+     <string-array name="wifi_proxy_settings">
+        <item>Nessuno</item>
+        <item>Manuale</item>
      </string-array>
 </resources>
