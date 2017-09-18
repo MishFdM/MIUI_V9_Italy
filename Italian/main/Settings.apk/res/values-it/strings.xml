@@ -3695,7 +3695,7 @@ Come usare Mantieni su schermo:
      <string name="settings_toggle_position_divider_list">I comandi sopra la barra sono attivi</string>
      <string name="setup_add_fingerprint_failed_retry_text">"Impossibile aggiungere l'impronta"</string>
      <string name="setup_choose_unlock_fingerprint_msg">"Imposta la schermata di blocco prima di impostare l'impronta digitale."</string>
-     <string name="setup_choose_unlock_password_color_normal"><Data>&lt;font color=#000000>PIN&lt;/font></Data></string>
+     <string name="setup_choose_unlock_mixed_password_color_normal"><Data>&lt;font color=#000000>Password&lt;/font></Data></string>
      <string name="setup_choose_unlock_mixed_password_color_pressed"><Data>&lt;font color=#009dff>Password&lt;/font></Data></string>
      <string name="setup_choose_unlock_mixpassword_title">Imposta password</string>
      <string name="setup_choose_unlock_password_color_normal"><Data>&lt;font color=#000000>PIN&lt;/font></Data></string>
