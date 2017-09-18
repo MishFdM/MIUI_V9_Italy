@@ -3685,7 +3685,7 @@ Come usare Mantieni su schermo:
      <string name="settings_license_activity_loading">Caricamento…</string>
      <string name="settings_license_activity_title">Licenze open source</string>
      <string name="settings_license_activity_unavailable">Errore durante il caricamento delle licenze.</string>
-     <string name="settings_manual_activity_title">Manual</string>
+     <string name="settings_manual_activity_title">Manuale</string>
      <string name="settings_manual_activity_unavailable">There is a problem loading the manual.</string>
      <string name="settings_safetylegal_activity_loading">Caricamento…</string>
      <string name="settings_safetylegal_activity_title">Informazioni sulla sicurezza</string>
@@ -3693,19 +3693,19 @@ Come usare Mantieni su schermo:
      <string name="settings_safetylegal_title">Informazioni sulla sicurezza</string>
      <string name="settings_shortcut">Scorciatoia Impostazioni</string>
      <string name="settings_toggle_position_divider_list">I comandi sopra la barra sono attivi</string>
-     <string name="setup_add_fingerprint_failed_retry_text">"Couldn't add fingerprint"</string>
-     <string name="setup_choose_unlock_fingerprint_msg">Set screen lock before adding your fingerprint.</string>
-     <string name="setup_choose_unlock_mixed_password_color_normal">&lt;Data&gt;&amp;lt;font color=#000000&amp;gt;Password&amp;lt;/font&amp;gt;&lt;/Data&gt;</string>
-     <string name="setup_choose_unlock_mixed_password_color_pressed">&lt;Data&gt;&amp;lt;font color=#009dff&amp;gt;Password&amp;lt;/font&amp;gt;&lt;/Data&gt;</string>
-     <string name="setup_choose_unlock_mixpassword_title">Set password</string>
-     <string name="setup_choose_unlock_password_color_normal">&lt;Data&gt;&amp;lt;font color=#000000&amp;gt;PIN&amp;lt;/font&amp;gt;&lt;/Data&gt;</string>
-     <string name="setup_choose_unlock_password_color_pressed">&lt;Data&gt;&amp;lt;font color=#009dff&amp;gt;PIN&amp;lt;/font&amp;gt;&lt;/Data&gt;</string>
-     <string name="setup_choose_unlock_password_msg">Enter 4 numbers</string>
-     <string name="setup_choose_unlock_password_title">Set PIN</string>
-     <string name="setup_choose_unlock_pattern_color_normal">&lt;Data&gt;&amp;lt;font color=#000000&amp;gt;Pattern&amp;lt;/font&amp;gt;&lt;/Data&gt;</string>
-     <string name="setup_choose_unlock_pattern_color_pressed">&lt;Data&gt;&amp;lt;font color=#009dff&amp;gt;Pattern&amp;lt;/font&amp;gt;&lt;/Data&gt;</string>
-     <string name="setup_choose_unlock_pattern_title">Draw unlock pattern</string>
-     <string name="setup_choose_unlock_type_title">Set password</string>
+     <string name="setup_add_fingerprint_failed_retry_text">"Impossibile aggiungere l'impronta"</string>
+     <string name="setup_choose_unlock_fingerprint_msg">"Imposta la schermata di blocco prima di impostare l'impronta digitale."</string>
+     <string name="setup_choose_unlock_password_color_normal"><Data>&lt;font color=#000000>PIN&lt;/font></Data></string>
+     <string name="setup_choose_unlock_mixed_password_color_pressed"><Data>&lt;font color=#009dff>Password&lt;/font></Data></string>
+     <string name="setup_choose_unlock_mixpassword_title">Imposta password</string>
+     <string name="setup_choose_unlock_password_color_normal"><Data>&lt;font color=#000000>PIN&lt;/font></Data></string>
+     <string name="setup_choose_unlock_password_color_pressed"><Data>&lt;font color=#009dff>PIN&lt;/font></Data></string>
+     <string name="setup_choose_unlock_password_msg">Inserisci 4 numeri</string>
+     <string name="setup_choose_unlock_password_title">Imposta PIN</string>
+     <string name="setup_choose_unlock_pattern_color_normal"><Data>&lt;font color=#000000>Sequenza&lt;/font></Data></string>
+     <string name="setup_choose_unlock_pattern_color_pressed"><Data>&lt;font color=#009dff>Sequenza&lt;/font></Data></string>
+     <string name="setup_choose_unlock_pattern_title">Disegna una sequenza</string>
+     <string name="setup_choose_unlock_type_title">Imposta password</string>
      <string name="setup_fingerprint_enroll_enrolling_skip_message">You’ve chosen to use your fingerprint as one way to unlock your phone. If you skip now, you’ll need to set this up later. Setup takes only a minute or so.</string>
      <string name="setup_fingerprint_enroll_enrolling_skip_title">Skip fingerprint setup?</string>
      <string name="setup_fingerprint_enroll_finish_message">Toccando il sensore di impronte digitali sbloccherai il tuo dispositivo.</string>
@@ -3889,7 +3889,7 @@ Il PIN potrebbe essere errato."</string>
 
 Questo è reso possibile da credenziali attendibili installate sul tuo dispositivo."</string>
      <string name="stable_build">" | Stabile"</string>
-     <string name="standard">Selenzioso</string>
+     <string name="standard">Silenzioso</string>
      <string name="standard_info">Le chiamate e le notifiche sono saranno silenziate, mentre gli allarmi e la musica continuerà a suonare</string>
      <string name="start_silent_mode">Attiva modalità silenziosa</string>
      <string name="starting_android">Avvio di Android</string>
@@ -4245,7 +4245,7 @@ L'approccio di Google alla sincronizzazione di dati per consentirti l'accesso ai
      <string name="toast_lockscreen_glogin_empty_password">Inserisci la password</string>
      <string name="toast_need_login">Accedi al tuo Mi Account</string>
      <string name="total">DND</string>
-     <string name="total_info">Silence sounds and turn off vibration for all items except the Alarm clock</string>
+     <string name="total_info">I suoni e la vibrazione sarà disattivata tranne la sveglia</string>
      <string name="total_memory">Memoria totale</string>
      <string name="total_size">%s totale</string>
      <string name="total_size_label">Totale</string>
@@ -4312,16 +4312,16 @@ L'approccio di Google alla sincronizzazione di dati per consentirti l'accesso ai
      <string name="turn_off_keyguard_password_confirm_msg">Disattivare la password Schermata di blocco?</string>
      <string name="turn_off_keyguard_password_wait_dialog">Password di chiusura</string>
      <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg">Non sarai in grado di sbloccare il dispositivo con la tua impronta dopo aver disattivato la password per la Schermata di blocco</string>
-     <string name="turn_off_keyguard_password_with_fingerprint_face_confirm_msg">"After you turn off your Lock screen password, recorded fingerprints will be deleted. You won't be able to unlock the device using your fingerprint."</string>
+     <string name="turn_off_keyguard_password_with_fingerprint_face_confirm_msg">"Dopo aver disattivato la password della schermata di blocco, le impronte digitali registrate verranno eliminate. Non sarai in grado di sbloccare il dispositivo con l'impronta digitale."</string>
      <string name="turn_off_security_lock">Disabilita il blocco</string>
      <string name="turn_on_keyguard_password">Attiva la password per la Schermata di blocco</string>
-     <string name="turn_on_keyguard_password_alert">"Remember your password. If you forget it, you won't be able to restore it."</string>
-     <string name="turn_on_keyguard_password_alert_choose">"Remember your password. If you forget it, you'll have to erase all data on your device to set a new one."</string>
-     <string name="turn_on_keyguard_password_alert_foget_cacel">Not now</string>
-     <string name="turn_on_keyguard_password_alert_foget_ok">Got it</string>
-     <string name="turn_on_keyguard_password_alert_foget_ok_time">Got it(%dsecond)</string>
-     <string name="turn_on_keyguard_password_alert_forget_content">"Remember your Lock screen password. If you forget it, you'll have to erase all data on your device, including photos and contacts, and then set a new one."</string>
-     <string name="turn_on_keyguard_password_alert_forget_title">"If you forget it, you won't be able to restore it."</string>
+     <string name="turn_on_keyguard_password_alert">Ricorda la tua password. Se la dimentichi, non sarai in grado di ripristinarlo.</string>
+     <string name="turn_on_keyguard_password_alert_choose">Ricorda la tua password. Se la dimentichi, dovrai cancellare tutti i dati sul tuo dispositivo per impostarla nuovamente.</string>
+     <string name="turn_on_keyguard_password_alert_foget_cacel">Non adesso</string>
+     <string name="turn_on_keyguard_password_alert_foget_ok">Fatto</string>
+     <string name="turn_on_keyguard_password_alert_foget_ok_time">Fatto(%d secondo)</string>
+     <string name="turn_on_keyguard_password_alert_forget_content">Ricorda la password della schermata di blocco. Se la dimentichi, dovrai cancellare tutti i dati presenti sul tuo dispositivo, incluse foto e contatti per impostarne una nuova.</string>
+     <string name="turn_on_keyguard_password_alert_forget_title">Se la dimentichi, non sarai in grado di ripristinarlo.</string>
      <string name="turn_on_security_lock">Aggiungi password di sicurezza</string>
      <string name="turn_on_torch">Turn on torch</string>
      <string name="turn_on_wifi_dialog_text">WLAN is turned off when Mobile HotSpot is active. To turn on WLAN, please turn off Mobile HotSpot.</string>
