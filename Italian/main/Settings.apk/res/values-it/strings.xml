@@ -4319,7 +4319,7 @@ L'approccio di Google alla sincronizzazione di dati per consentirti l'accesso ai
      <string name="turn_on_keyguard_password_alert_choose">Ricorda la tua password. Se la dimentichi, dovrai cancellare tutti i dati sul tuo dispositivo per impostarla nuovamente.</string>
      <string name="turn_on_keyguard_password_alert_foget_cacel">Non adesso</string>
      <string name="turn_on_keyguard_password_alert_foget_ok">Fatto</string>
-     <string name="turn_on_keyguard_password_alert_foget_ok_time">Fatto(%d secondo)</string>
+     <string name="turn_on_keyguard_password_alert_foget_ok_time">Fatto (%d secondo)</string>
      <string name="turn_on_keyguard_password_alert_forget_content">Ricorda la password della schermata di blocco. Se la dimentichi, dovrai cancellare tutti i dati presenti sul tuo dispositivo, incluse foto e contatti per impostarne una nuova.</string>
      <string name="turn_on_keyguard_password_alert_forget_title">Se la dimentichi, non sarai in grado di ripristinarlo.</string>
      <string name="turn_on_security_lock">Aggiungi password di sicurezza</string>
