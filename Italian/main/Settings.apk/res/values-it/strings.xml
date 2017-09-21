@@ -2389,7 +2389,6 @@ Ci sono altri utenti presenti su questo dispositivo.
      <string name="mi_shopping_mall">Mi Store</string>
      <string name="misc_files">File vari</string>
      <string name="misc_files_selected_count">selezionati %1$d di %2$d</string>
-     <string name="misc_files_selected_count_bytes">%1$s su %2$s</string>
      <string name="miui_allow_alarm">Sveglia</string>
      <string name="miui_allow_light">LED di notifica</string>
      <string name="miui_allow_music">Musica</string>
