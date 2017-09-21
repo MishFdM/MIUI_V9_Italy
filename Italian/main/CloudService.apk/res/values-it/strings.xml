@@ -57,6 +57,8 @@ Ultimo backup: %2$s"</string>
      <string name="cloud_storage_is_full">Pieno</string>
      <string name="cloudservice_new_sync">Sincronizza %s con Mi Cloud</string>
      <string name="cmcc_micloud_dspt">Usa Mi Cloud per sincronizzare dati, rintracciare il tuo dispositivo</string>
+     <string name="confirm_delete">Delete</string>
+     <string name="confirm_save">Keep</string>
      <string name="connect_network">Collegato al Wi-Fi o inserisci una SIM</string>
      <string name="connect_wlan">Collegato al Wi-Fi</string>
      <string name="contact">Contatti</string>
@@ -468,6 +470,7 @@ Questa funziona cripta ed invia l'ID del tuo dispositivo ai server Xiaomi."</str
      <string name="search_finddevice_pref_desc">Attiva/disattiva Trova Telefono</string>
      <string name="search_finddevice_pref_key_words">trova telefono, trova telefono</string>
      <string name="search_finddevice_pref_path">Mi Account/Mi Cloud/TROVA TELEFONO</string>
+     <string name="secret_photo">Hidden photos</string>
      <string name="setting">Impostazioni</string>
      <string name="settings_backup_title">Backup impostazioni di sistema</string>
      <string name="share_cancel">Condivisione annullata</string>
@@ -554,6 +557,7 @@ Questa funziona cripta ed invia l'ID del tuo dispositivo ai server Xiaomi."</str
      <string name="wipe_data_dialog_msg_and_on">, ed altri elementi</string>
      <string name="wipe_data_dialog_msg_separator">, </string>
      <string name="wipe_data_dialog_title">Alcuni dati non sono stati sincronizzati</string>
+     <string name="wipe_secret_photo_dialog_title">"Hidden photos aren't synced"</string>
      <string name="xiaomi_cloud_service">Mi Cloud</string>
      <string name="xmpp_server_addr" />
 </resources>

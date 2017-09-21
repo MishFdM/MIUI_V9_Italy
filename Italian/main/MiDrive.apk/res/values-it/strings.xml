@@ -22,9 +22,6 @@
      <string name="delete_failed">Impossibile eliminare</string>
      <string name="delete_failed_retry">Impossibile eliminare, aspetta %1$s e prova di nuovo</string>
      <string name="delete_file">Eliminare questo file?</string>
-     <string name="delete_files">Eliminare i %1$d file?</string>
-     <string name="delete_folder">Eliminare questa cartella?</string>
-     <string name="delete_folders">Eliminare le %1$d cartelle?</string>
      <string name="delete_success">File eliminato</string>
      <string name="download_current_progress">%1$d%%</string>
      <string name="download_failed">Impossibile scaricare</string>

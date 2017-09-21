@@ -95,6 +95,8 @@
      <string name="keywords_search_shopping">Shopping;Scanner;Scansiona prodotti;Scansiona prodotto;Controlla prezzo;Prodotti;Taobao;Tmall;Prezzi;Shopping online</string>
      <string name="keywords_search_study">Scanner;Problemi;Risolvi problemi;Compiti;Scuola;Fisica;Chimica;Matematica;Algebra;Inglese;Storia;Cinese</string>
      <string name="keywords_search_translation">Scanner;Traduci;Dizionario;Inglese;Lingua straniera;Lingua;Lingue;Inglese a Cinese;Italiano;Tedesco;Giapponese;Coreano;Spagbolo;Francese;Traduzione Baidu;Dizionario Youdao;Dizionario Baidu;Dizionario Google</string>
+     <string name="label_choose_picture">Choose picture</string>
+     <string name="label_flash_light">Flash light</string>
      <string name="language_entry_chinese_cn">Cinese Semplificato</string>
      <string name="language_entry_chinese_tw">Cinese Tradizionale</string>
      <string name="language_entry_danish">Danese</string>
