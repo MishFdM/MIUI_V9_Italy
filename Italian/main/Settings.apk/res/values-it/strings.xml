@@ -2359,7 +2359,6 @@ Ci sono altri utenti presenti su questo dispositivo.
      <string name="memory_title">Disponibile: %1$s\u0009\u0009Totale: %2$s</string>
      <string name="memory_usage">Memoria occupata</string>
      <string name="memory_usage_apps">Memoria usata dalle app</string>
-     <string name="memory_use_running_format">%1$s / %2$s</string>
      <string name="memory_use_summary">%1$s di memoria usati in media nelle ultime 3 ore</string>
      <string name="menu_cancel">Ignora</string>
      <string name="menu_check">Esperienza</string>
@@ -2554,7 +2553,6 @@ ed esegui il software."</string>
      <string name="nfc_how_it_works_got_it">Ho capito</string>
      <string name="nfc_how_it_works_title">Pagamento al terminale</string>
      <string name="nfc_more_title">Altro…</string>
-     <string name="nfc_payment_app_and_desc">%1$s - %2$s</string>
      <string name="nfc_payment_default">Pagamento predefinito</string>
      <string name="nfc_payment_default_not_set">Non impostato</string>
      <string name="nfc_payment_favor_default">Sempre</string>
@@ -2713,7 +2711,6 @@ ed esegui il software."</string>
      <string name="overlay_display_devices_title">Simula display secondari</string>
      <string name="overlay_settings">Disegno sopra ad altre app</string>
      <string name="owner_info_settings_edit_text_hint">Testo da visualizzare sulla Schermata di blocco</string>
-     <string name="owner_info_settings_status">%1$d / %2$d</string>
      <string name="owner_info_settings_summary" />
      <string name="owner_info_settings_title">Info proprietario</string>
      <string name="owner_space">Spazio primario</string>
@@ -2992,7 +2989,6 @@ ed esegui il software."</string>
      <string name="private_sms_recording_intro_header">Disegna una sequenza di sblocco:</string>
      <string name="private_sms_reset_by_account">Per reimpostare la tua password, accedi al tuo Mi Account</string>
      <string name="process_dex2oat_label">Ottimizzazione app</string>
-     <string name="process_format">%1$s (%2$d)</string>
      <string name="process_kernel_label">Sistema operativo Android</string>
      <string name="process_mediaserver_label">Server media</string>
      <string name="process_provider_in_use_description">Il provider %1$s è in uso.</string>
@@ -3827,7 +3823,6 @@ Il PIN potrebbe essere errato."</string>
      <string name="sim_reenter_new">Ridigita nuovo PIN</string>
      <string name="sim_select_card">Seleziona una SIM</string>
      <string name="sim_selection_required_pref">Selezione richiesta</string>
-     <string name="sim_settings_summary">%1$s - %2$s</string>
      <string name="sim_settings_title">SIM</string>
      <string name="sim_setup_wizard_title">SIM</string>
      <string name="sim_signal_strength">%1$d dBm %2$d asu</string>
@@ -4153,7 +4148,6 @@ Considera l'utilizzo di un ^1 più veloce per prestazioni migliori."</string>
      <string name="sync_gmail">Gmail</string>
      <string name="sync_in_progress">Sincronizzazione in corso…</string>
      <string name="sync_is_failing">La sincronizzazione presenta dei problemi. Riprenderà a breve.</string>
-     <string name="sync_item_title">%s</string>
      <string name="sync_menu_sync_cancel">Annulla sincronizzazione</string>
      <string name="sync_menu_sync_now">Sincronizza ora</string>
      <string name="sync_now">Sincronizza</string>
