@@ -2,8 +2,8 @@
 <resources>
      <string name="app_name">MusicFX</string>
      <string name="bass_boost_strength">Bassi più intensi</string>
-     <string name="ci_extreme">FX booster</string>
-     <string name="classical">Classical</string>
+     <string name="ci_extreme">Boost FX</string>
+     <string name="classical">Classica</string>
      <string name="combo_device">Effetti supportati solo per la riproduzione da auricolari.</string>
      <string name="dance">Dance</string>
      <string name="eq_custom">Per personalizzare, selezionare Personalizzato</string>
@@ -24,7 +24,7 @@
      <string name="none">None</string>
      <string name="normal">Normal</string>
      <string name="picker_title">Pann. controllo effetti music.</string>
-     <string name="plate">Plate</string>
+     <string name="plate">Piatto</string>
      <string name="pop">Pop</string>
      <string name="power_on_prompt">Premere il pulsante di accensione in alto a destra.</string>
      <string name="pr_dialog_title">Preimpostazione riverbero</string>

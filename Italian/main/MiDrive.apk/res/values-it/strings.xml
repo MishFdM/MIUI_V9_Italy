@@ -2,7 +2,7 @@
 <resources>
      <string name="account_logout">"Esci dall'account “%1$s”"</string>
      <string name="action_mode_deselect_all">Deseleziona tutto</string>
-     <string name="action_mode_select_all">Selezionatutto</string>
+     <string name="action_mode_select_all">Seleziona tutto</string>
      <string name="adding_download_tasks">Aggiunta dei processi di download#8230;</string>
      <string name="adding_upload_tasks">Aggiunta dei processi di upload#8230;</string>
      <string name="agree">Consenti</string>
@@ -12,7 +12,7 @@
      <string name="cancel">Annulla</string>
      <string name="category_midrive">Mi Drive</string>
      <string name="category_transport">Mostra trasferimenti</string>
-     <string name="change_mobile_network_message">"Sei passato alla rete deati mobile. L'utilizzo della rete dati mobile per il trasferimento dei file potrebbe comportare costi aggiuntivi. Trasferire comunque?"</string>
+     <string name="change_mobile_network_message">"Sei passato alla rete dati mobile. L'utilizzo della rete dati mobile per il trasferimento dei file potrebbe comportare costi aggiuntivi. Trasferire comunque?"</string>
      <string name="confirm">OK</string>
      <string name="consumption_alert">Connessione internet</string>
      <string name="consumption_message">Mi Drive deve collegarsi ad internet per funzionare correttamente.</string>
@@ -55,7 +55,7 @@
      <string name="login_reg_title">Utilizza Mi Drive in qualunque posto.</string>
      <string name="megabyteShort">MB</string>
      <string name="month_day_format">dd MMM</string>
-     <string name="move_failed">Imposibile tagliare</string>
+     <string name="move_failed">Impossibile tagliare</string>
      <string name="move_failed_retry">Impossibile tagliare, aspetta %1$s e prova di nuovo</string>
      <string name="need_get_accounts_permission">"Mi Drive richiede i permessi per accedere all'account per funzionare correttamente."</string>
      <string name="never_notify">Non mostrare più</string>
@@ -73,7 +73,7 @@
      <string name="operation_copying">Copia…</string>
      <string name="operation_copying_detail">Copia (%1$d/%2$d)</string>
      <string name="operation_create_folder">Crea nuova cartella</string>
-     <string name="operation_create_folder_message">Nome cartela</string>
+     <string name="operation_create_folder_message">Nome cartella</string>
      <string name="operation_creating_folder">Creazione cartella…</string>
      <string name="operation_delete">Elimina</string>
      <string name="operation_delete_message_folder">"Tutto il contenuto della cartella verrà eliminata."</string>
@@ -105,7 +105,7 @@
      <string name="quota_info">Mi Drive: %1$s disponibile, %2$s totale</string>
      <string name="rename_alert">"Se cambi l'estensione del file potresti non essere più in grado di aprirlo."</string>
      <string name="rename_failed">Esiste già un file con questo nome.</string>
-     <string name="sd_full">La ua scheda SD è piena.</string>
+     <string name="sd_full">La scheda SD è piena.</string>
      <string name="sd_invalid">La scheda SD è corrotta.</string>
      <string name="send_to_midrive_failed">Questo tipo di file non è supportato.</string>
      <string name="slashes">/</string>

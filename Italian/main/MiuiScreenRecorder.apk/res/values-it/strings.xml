@@ -47,8 +47,8 @@
      <string name="operation_delete">Elimina</string>
      <string name="operation_send">Invia</string>
      <string name="quit_recording">Uscito da Registrazione schermo</string>
-     <string name="recording_failure">Last record failed, please restart a screen record</string>
-     <string name="recording_max_size">The record has been stopped and auto saved due to maximum video size. You can start another record is you want to continue recording.</string>
+     <string name="recording_failure">Ultima registrazione fallita, avvia di nuovo una registrazione dello schermo</string>
+     <string name="recording_max_size">La registrazione è stata interrotta e salvata automaticamente a causa delle dimensioni massime raggiunte. Puoi avviare una nuova registrazione per continuare.</string>
      <string name="resolution">Risoluzione</string>
      <string name="resolution_summary">Più alta la risoluzione migliori saranno le immagini</string>
      <string name="screen_orientation">Orientamento</string>
@@ -63,9 +63,9 @@
      <string name="sound_source">Suoni</string>
      <string name="sound_source_summary">Suoni di sistema o microfono</string>
      <string name="start">Inizia</string>
-     <string name="start_recording">Start recording</string>
+     <string name="start_recording">Avvia registrazione</string>
      <string name="stop_by_second_space">"Cambiando l'utente si fermerà la registrazione schermo"</string>
      <string name="stop_record_while_locking">Terminare quando bloccato</string>
      <string name="stop_record_while_locking_summary">Termina e salva la registrazione quando il dispositivo è bloccato</string>
-     <string name="stop_recording">Stop recording</string>
+     <string name="stop_recording">Interrompi registrazione</string>
 </resources>

@@ -156,7 +156,7 @@
      <string name="error_state">Errore di incoerenza</string>
      <string name="error_state_text">Lo stato delle conversazioni e dei destinatari è incoerente. Raccogli un rapporto ed invialo a http://go/droidanizer</string>
      <string name="error_timed_msg">Impossibile programmare un orario antecedente</string>
-     <string name="ex_type_guide">Information</string>
+     <string name="ex_type_guide">Informazione</string>
      <string name="ex_type_mx">Messaggio cloud</string>
      <string name="ex_type_sms">SMS/MMS</string>
      <string name="exceed_message_size_limitation">Limite di dimensione del messaggio raggiunto.</string>
@@ -339,8 +339,8 @@
      <string name="mx_type_guide">Mi Message ti consente di inviare messaggi ad altri utenti MIUI senza costi aggiuntivi</string>
      <string name="need_download">Sincronizzazione…</string>
      <string name="networking_allow_continue">OK</string>
-     <string name="networking_allow_desc">Mi Message needs to connect to the internet to work normally. In order to provide free text and voice services, recognize unknown numbers, filter spam, and enable other features, Mi Message needs to use Yellow pages. Allow Yellow pages to connect to the internet, get your location info, and read your contacts?</string>
-     <string name="networking_allow_desc_without_mx">Mi Message needs to connect to the internet to work normally. In order to recognize unknown numbers, filter spam, and enable other features, Mi Message needs to use Yellow pages. Allow Yellow pages to connect to the internet, get your location info, and read your contacts?</string>
+     <string name="networking_allow_desc">Mi Message deve collegarsi ad internet per funzionare correttamente. Per poter fornire testo libero e servizi vocali, riconoscere numeri sconosciuti, filtrare spam ed attivare altre funzioni, Mi Message deve utilizzare le Pagine Gialle. Consentire alle Pagine Gialle, ricevi le informazioni di posizione e leggere i tuoi contatti?</string>
+     <string name="networking_allow_desc_without_mx">Mi Message deve collegarsi ad internet per funzionare correttamente. Per poter identificare numeri anonimi, filtrare spam ed attivare altre funzioni, per poter fornire testo libero e servizi vocali, riconoscere numeri sconosciuti, filtrare spam ed attivare altre funzioni, Mi Message deve utilizzare le Pagine Gialle. Consentire alle Pagine Gialle, ricevi le informazioni di posizione e leggere i tuoi contatti?</string>
      <string name="networking_allow_title">Attenzione</string>
      <string name="new_message">Nuovo messaggio</string>
      <string name="new_message_arrived">Nuovo messaggio ricevuto</string>
@@ -360,7 +360,7 @@
      <string name="notification_multiple_title">Nuovi messaggi</string>
      <string name="number_add_hint">Inserisci numero da aggiungere al Contatto Privato</string>
      <string name="open_audio_record_panel">Apri pannello registrazione</string>
-     <string name="open_edit_sms_panel">Open edit sms panel</string>
+     <string name="open_edit_sms_panel">Apri il pannello di modifica SMS</string>
      <string name="open_url_with_web">Aprire questo link nel browser?</string>
      <string name="over_max_mms_size">MMS troppo grande.</string>
      <string name="overwrite_edited_content">Il contenuto modificato verrà sovrascritto, continuare?</string>

@@ -41,8 +41,8 @@
         <item quantity="one">%d registrazione</item>
      </plurals>
      <plurals name="dirty_secretphoto_count">
-        <item quantity="other">"%d hidden photos aren't synced. Sign out after all items are synced to keep them; otherwise, items will be deleted."</item>
-        <item quantity="one">"%d hidden photo isn't synced. Sign out after all items are synced to keep them; otherwise, items will be deleted."</item>
+        <item quantity="other">%d le foto nascoste non vengono sincronizzate. Esci dopo che tutti gli elementi sono stti sincronizzati per mantenerli; altrimenti verranno eliminati.</item>
+        <item quantity="one">%d la foto nascosta non viene sincronizzata. Esci dopo che tutti gli elementi sono stti sincronizzati per mantenerli; altrimenti verranno eliminati.</item>
      </plurals>
      <plurals name="dirty_wlan_count">
         <item quantity="other">%d reti Wi-Fi</item>
@@ -62,7 +62,7 @@
      </plurals>
      <plurals name="micloud_main_resume_sync_min">
         <item quantity="other">Riprendi la sincronizzazione dopo %d minuti</item>
-        <item quantity="one">Riprendi la asincronizzazione dopo %d minuto</item>
+        <item quantity="one">Riprendi la sincronizzazione dopo %d minuto</item>
      </plurals>
      <plurals name="sync_items_close">
         <item quantity="other">%d disattivati</item>
