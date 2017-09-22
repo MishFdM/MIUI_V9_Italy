@@ -39,7 +39,7 @@
      <string name="delete_filename_confirmation_message">Eliminare \"%1$s\"?</string>
      <string name="delete_foldername_confirmation_message">Eliminare la cartella \"%1$s\" ed il suo contenuto?</string>
      <string name="delete_notification_title">Eliminazione file</string>
-     <string name="delete_preparing">PPreparazione per l'eliminazione…</string>
+     <string name="delete_preparing">PPreparazione per l\'eliminazione…</string>
      <string name="deny">Nega</string>
      <string name="downloads_label">Download</string>
      <string name="drawer_close">Nascondi root</string>
