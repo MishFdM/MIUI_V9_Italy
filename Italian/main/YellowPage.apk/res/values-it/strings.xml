@@ -154,7 +154,6 @@ Si prega di verificare il numero di spedizione."</string>
      <string name="express_order_failed">Fallito</string>
      <string name="express_order_ongoing">Ordine in corso…</string>
      <string name="express_order_result">Risultato</string>
-     <string name="express_order_state">%1$s / %2$s</string>
      <string name="express_order_state_accepted">Accettato</string>
      <string name="express_order_state_allograph">Firmato</string>
      <string name="express_order_state_cancelled">Annullato</string>
@@ -327,7 +326,6 @@ Si prega di verificare il numero di spedizione."</string>
      <string name="nearby_average_price">Media %d RMB</string>
      <string name="nearby_no_yellow_page">Nessun risultato vicino</string>
      <string name="nearby_yellow_page_title">Vicino</string>
-     <string name="nearby_yellow_page_title_format">%1$s-%2$s</string>
      <string name="network_access_denied">Accesso di rete negato</string>
      <string name="network_unavaliable">Rete non disponibile, verifica impostazioni di rete</string>
      <string name="no_brief">Nessuna introduzione</string>
@@ -343,7 +341,6 @@ Si prega di verificare il numero di spedizione."</string>
      <string name="order_id_label">ID ordine:%s</string>
      <string name="order_info">Informazioni ordine</string>
      <string name="order_merchant_title">I miei ordini</string>
-     <string name="order_merchant_title_format">%1$s-%2$s</string>
      <string name="order_not_found">Nessun ordine relativo</string>
      <string name="order_price_label">Prezzo ordine:%s</string>
      <string name="order_product_name_label">Nome prodotto: %1$s</string>
@@ -392,7 +389,6 @@ Si prega di verificare il numero di spedizione."</string>
      <string name="recharge_payment_result_ok_title">Aggiunti RMB%s.</string>
      <string name="recharge_payment_result_progress_summary">Controllo risultato pagamento…</string>
      <string name="recharge_phone">Numero top:</string>
-     <string name="recharge_phone_format">%1$s / %2$s</string>
      <string name="recharge_phone_number_empty">Il numero di telefono non può essere vuoto</string>
      <string name="recharge_phone_number_error">Numero di telefono non valido.</string>
      <string name="recharge_select_money_title">Selezionare totale ricarica</string>
@@ -420,7 +416,6 @@ Totale: RMB%3$s"</string>
      <string name="sending_shortcut">Invio in corso…</string>
      <string name="service_unavailiable">La rete in uso non è buona, riprovare più tardi</string>
      <string name="share">Condividi</string>
-     <string name="shop_recommendation_format">%1$s: %2$s</string>
      <string name="sim1">Sim 1</string>
      <string name="sim2">Sim 2</string>
      <string name="sina_share_fail">Impossibile inviare</string>

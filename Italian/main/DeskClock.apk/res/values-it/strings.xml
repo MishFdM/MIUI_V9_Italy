@@ -115,7 +115,6 @@
      <string name="shutdown_alarm_enable_summary">Spegnimento abilitato</string>
      <string name="shutdown_alarm_title">Spegnimento sveglia</string>
      <string name="silent_alarm_summary">Silenziosa</string>
-     <string name="skip_alarm_date_format">%1$s (%2$s)</string>
      <string name="skip_alarm_once_hint">Disattiva una volta il %s</string>
      <string name="slider_text">Scorri per silenziare</string>
      <string name="snooze_confirm_cancel">Annulla sospensione</string>

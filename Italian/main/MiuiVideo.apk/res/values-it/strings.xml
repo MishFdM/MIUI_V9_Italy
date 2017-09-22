@@ -35,7 +35,6 @@
      <string name="back_quit_lock">Premi indietro di nuovo per uscire</string>
      <string name="brightness">Luminosità</string>
      <string name="cancel">Annulla</string>
-     <string name="character_counter_pattern">%1$d / %2$d</string>
      <string name="common_google_play_services_unknown_issue">%1$s sta avendo problemi con i servizi di Google Play. Se il problema persiste, contattare lo sviluppatore per assistenza.</string>
      <string name="default_text">Predefinito</string>
      <string name="delete">Elimina</string>

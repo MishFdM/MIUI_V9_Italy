@@ -95,7 +95,6 @@
      <string name="daily_forcast_wind_connect">%1$s %2$s</string>
      <string name="daily_forecast_detail">Dettaglio previsione</string>
      <string name="daily_forecast_detail_date">d/M</string>
-     <string name="daily_forecast_detail_date_format">%1$s - %2$s</string>
      <string name="daily_forecast_no_data">"Impossibile recuperare i dati
 trascina verso il basso per aggiornare o verifica le impostazioni di rete"</string>
      <string name="data_provided_by">Fornito da</string>
@@ -117,8 +116,6 @@ trascina verso il basso per aggiornare o verifica le impostazioni di rete"</stri
      <string name="gps_hint">Località attuale</string>
      <string name="hour_minute_time_format">HH:mm</string>
      <string name="hourly_forcast_now">Adesso</string>
-     <string name="hourly_forecast_bottom_aqi_chinese">%1$s %2$s</string>
-     <string name="hourly_forecast_bottom_aqi_else">%1$s</string>
      <string name="hourly_forecast_date">d/M</string>
      <string name="hourly_forecast_title">Previsioni orarie</string>
      <string name="index_item_experience_now">Installa adesso</string>
@@ -131,7 +128,6 @@ trascina verso il basso per aggiornare o verifica le impostazioni di rete"</stri
      <string name="indices_desc_feel">Percepita %1$s°C</string>
      <string name="indices_desc_feel_without_pic">%1$s°C</string>
      <string name="indices_desc_humidity">Umidità %1$s%%</string>
-     <string name="indices_desc_humidity_without_pic">%1$s%%</string>
      <string name="indices_desc_pressure">%1$s hPa</string>
      <string name="indices_desc_visibility">%1$s km</string>
      <string name="indices_no_restriction">Nessuna</string>
@@ -151,7 +147,6 @@ trascina verso il basso per aggiornare o verifica le impostazioni di rete"</stri
      <string name="information_manager_wlan">Aggiorna quando connesso a Wi-Fi</string>
      <string name="information_menu_title" />
      <string name="information_set">Informazioni</string>
-     <string name="information_time_source">%1$s | %2$s</string>
      <string name="information_views" />
      <string name="install">Installa</string>
      <string name="install_progress">%1$s%%</string>
@@ -160,7 +155,6 @@ trascina verso il basso per aggiornare o verifica le impostazioni di rete"</stri
      <string name="international_details_real_feel_title">REAL FEEL®</string>
      <string name="international_details_title">Dettagli</string>
      <string name="international_details_uv_index_title">INDICE UV</string>
-     <string name="international_details_wind_connect">%1$s %2$s</string>
      <string name="international_details_wind_title">VENTO</string>
      <string name="it_is_going_to_rain">Sta iniziando a piovere</string>
      <string name="locate_fail_detail_err">"Impossibile localizzare il dispositivo
@@ -230,7 +224,6 @@ Tocca lo schermo per aggiungere manualmente o riprovare"</string>
      <string name="share_subject">Condividi</string>
      <string name="share_title">Condividi il meteo</string>
      <string name="share_weather_desc">\#MIUI Meteo#Oggi %1$s %2$s</string>
-     <string name="share_weather_desc_alert">%1$s%2$s</string>
      <string name="share_weather_desc_split">,</string>
      <string name="share_weather_save_pic_fail">Impossibile salvare lo screenshot</string>
      <string name="some_where_on_earth">In qualche luogo nel mondo</string>

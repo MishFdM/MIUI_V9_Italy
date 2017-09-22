@@ -426,7 +426,6 @@ attendere o selezionare Musica Online."</string>
      <string name="list_detail_title">Dettagli</string>
      <string name="list_item_play_FM_radio">Tocca per riprodurre la radio FM</string>
      <string name="list_item_play_all_tracks">Riproduci tutti i brani</string>
-     <string name="listview_index_of_total">%1$d/%2$d</string>
      <string name="load_shuffle">Caricamento</string>
      <string name="loadercontainer_loading">Solo un secondo…</string>
      <string name="loading_hint">Caricamento in corso…</string>

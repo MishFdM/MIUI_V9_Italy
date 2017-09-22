@@ -385,7 +385,6 @@ utilizzando %s"</string>
      <string name="factorytest_reboot">Riavvia</string>
      <string name="fcComplete">Codice funzione completo.</string>
      <string name="fcError">Problema di connessione o codice funzione non valido.</string>
-     <string name="fileSizeSuffix">%1$s %2$s</string>
      <string name="find">Trova</string>
      <string name="find_next">Trova successivo</string>
      <string name="find_on_page">Trova nella pagina</string>
@@ -807,7 +806,6 @@ Riprova tra %d secondi."</string>
      <string name="needPuk2">Digita il PUK2 per sbloccare la SIM.</string>
      <string name="negative_duration">−%1$s</string>
      <string name="network_available_sign_in">Accedi alla rete</string>
-     <string name="network_available_sign_in_detailed">%1$s</string>
      <string name="network_switch_metered">Passato a %1$s</string>
      <string name="network_switch_metered_detail">Il dispositivo utilizza %1$s mentre %2$s non ha accesso ad Internet. Una ricarica potrebbe essere necessaria.</string>
      <string name="network_switch_metered_toast">Passato da %1$s a %2$s</string>
@@ -829,7 +827,6 @@ Riprova tra %d secondi."</string>
      <string name="notification_hidden_text">Contenuto nascosto</string>
      <string name="notification_inbox_ellipsis">…</string>
      <string name="notification_listener_binding_label">Listener di notifica</string>
-     <string name="notification_messaging_title_template">%1$s: %2$s</string>
      <string name="notification_ranker_binding_label">Servizio di notifiche classificate</string>
      <string name="notification_title">Errore di accesso per %1$s</string>
      <string name="notification_work_profile_content_description">Profilo di lavoro</string>
@@ -1517,6 +1514,5 @@ Vuoi chiuderla?"</string>
      <string name="zen_mode_feature_name">Non disturbare</string>
      <string name="zen_mode_forever">Fino alla disattivazione</string>
      <string name="zen_mode_forever_dnd">Fino alla disattivazione di Non disturbare</string>
-     <string name="zen_mode_rule_name_combination">%1$s / %2$s</string>
      <string name="zen_mode_until">Fino alle ore %1$s</string>
 </resources>

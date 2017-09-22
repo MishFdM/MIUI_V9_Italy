@@ -26,7 +26,6 @@
      <string name="button_move">Sposta</string>
      <string name="button_retry">Prova di nuovo</string>
      <string name="button_select">Seleziona</string>
-     <string name="character_counter_pattern">%1$d / %2$d</string>
      <string name="clipboard_files_cannot_paste">Impossibile incollare i file selezionati in questa posizione.</string>
      <string name="close">Chiudi</string>
      <string name="copy_converted_warning_content">"Questi file sono stati convertiti in un altro formato: %1$s"</string>

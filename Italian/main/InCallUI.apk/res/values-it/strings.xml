@@ -3,7 +3,6 @@
      <string name="accept_modify_call_request_prompt">Accettare la richiesta di modifica della chiamata?</string>
      <string name="antispam_local_marked">Segnalato localmente</string>
      <string name="antispam_marked_count">Segnalato da %1$d utenti MIUI</string>
-     <string name="antispam_marked_title">%1$s</string>
      <string name="antispam_notification_title">Numero sconosciuto</string>
      <string name="antispam_provider">Identificato da %s</string>
      <string name="areacode_set_default">Imposta come predefinito</string>

@@ -428,11 +428,8 @@
      <string name="unit_year_format">Anno %s</string>
      <string name="unit_yuan">CNY</string>
      <string name="wf_word_figure">Caratteristiche finanziarie</string>
-     <string name="xiaomi_bytes_unit">%1$sB</string>
      <string name="xiaomi_connect_download_manager_fail">Connessione a Download Manager fallita, controlla lo stato del Download Manager in Gestione Applicazioni.</string>
      <string name="xiaomi_external_storage_unavailable">Archivio non disponibile, verifica la scheda SD.</string>
-     <string name="xiaomi_kilobytes_unit">%1$sKB</string>
-     <string name="xiaomi_megabytes_unit">%1$sMB</string>
      <string name="xiaomi_update_dialog_message">"Presentazione versione %1$s
 Dimensione: %2$s"</string>
      <string name="xiaomi_update_dialog_message_diff">"Presentazione versione %1$s

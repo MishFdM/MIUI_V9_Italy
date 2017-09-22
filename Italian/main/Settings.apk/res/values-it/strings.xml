@@ -821,7 +821,6 @@ La trasmissione utilizza segnali Bluetooth a bassa potenza."</string>
      <string name="calendar_sound_title">Suono calendario</string>
      <string name="call_manager_enable_summary">Consenti questo servizio per gestire come sono state fatte le vostre chiamate.</string>
      <string name="call_manager_enable_title">Attiva il Manager chiamate</string>
-     <string name="call_manager_summary">%1$s</string>
      <string name="call_manager_title">Manager chiamate</string>
      <string name="call_settings_primary_user_only">Modifica le impostazioni di chiamata nello spazio Primario</string>
      <string name="call_settings_summary">Imposta segreteria, deviazione chiamate, avviso di chiamata, ID chiamante</string>
@@ -1369,7 +1368,6 @@ avviso"</string>
      <string name="dndm_auto_button_title">Programmato</string>
      <string name="dndm_auto_setting_group">Programmazione</string>
      <string name="dndm_auto_time_setting">Fascia oraria</string>
-     <string name="dndm_auto_time_setting_summary">Dalle %1$s alle %2$s</string>
      <string name="dndm_auto_time_turn_off">Alle</string>
      <string name="dndm_auto_time_turn_off_title">Disattiva Non disturbare automaticamente</string>
      <string name="dndm_auto_time_turn_on">Dalle</string>
@@ -1720,7 +1718,6 @@ Quando attivi il backup automatico, il dispositivo e i dati delle applicazioni v
      <string name="gadget_picker_title">Scegli gadget</string>
      <string name="gadget_state_off">Disattivato</string>
      <string name="gadget_state_on">Attivato</string>
-     <string name="gadget_state_template">%1$s %2$s</string>
      <string name="gadget_state_turning_off">Disattivazione</string>
      <string name="gadget_state_turning_on">Attivazione</string>
      <string name="gadget_sync">Sincronizzazione</string>
@@ -1996,7 +1993,6 @@ Quando attivi il backup automatico, il dispositivo e i dati delle applicazioni v
      <string name="lift_to_wake_title">Risveglia al sollevamento</string>
      <string name="line_breaking_summary">Ottimizza testo a capo nei paragrafi</string>
      <string name="line_breaking_title">Ottimizza testo</string>
-     <string name="link_speed">%1$d Mbps</string>
      <string name="link_speed_label">Velocità connessione:</string>
      <string name="loading_notification_apps">Caricamento app…</string>
      <string name="local_auto_backup_off">Disattivato</string>
@@ -2804,7 +2800,6 @@ ed esegui il software."</string>
      <string name="phone_call_noise_suppression">Riduci il rumore durante le chiamate</string>
      <string name="phone_info_label">Info dispositivo</string>
      <string name="phone_language">Lingua</string>
-     <string name="physical_device_title">%1$s - %2$s</string>
      <string name="physical_keyboard_title">Tastiera fisica</string>
      <string name="picture_color_mode">Modalità colore immagine</string>
      <string name="picture_color_mode_desc">Utilizza sRGB</string>
@@ -3835,7 +3830,6 @@ Il PIN potrebbe essere errato."</string>
      <string name="size_kilo_byte">KB</string>
      <string name="size_mega_byte">MB</string>
      <string name="size_peta_byte">PB</string>
-     <string name="size_suffix">%1$s%2$s</string>
      <string name="size_tera_byte">TB</string>
      <string name="skip_anyway_button_label">Skip anyway</string>
      <string name="skip_label">Ignora</string>
@@ -4121,7 +4115,6 @@ Considera l'utilizzo di un ^1 più veloce per prestazioni migliori."</string>
      <string name="suggestions_title">Suggestions (%1$d)</string>
      <string name="sum_carrier_select">Scegli un operatore di rete</string>
      <string name="summary_divider_text">", "</string>
-     <string name="summary_range_symbol_combination">%1$s - %2$s</string>
      <string name="summary_range_verbal_combination">%1$s di %2$s</string>
      <string name="supl_not_set">Non impostato</string>
      <string name="supplicant_state_label">Stato supplicant:</string>
@@ -5293,7 +5286,6 @@ La configurazione del dispositivo può richiedere notevole attività di rete."</
      <string name="zen_mode_summary_alarms_only_by_time">Modifica sveglie solo fino a %1$s</string>
      <string name="zen_mode_summary_alarms_only_indefinite">Modifica sveglie solo a tempo indeterminato</string>
      <string name="zen_mode_summary_always">Cambia per sempre o interrompi</string>
-     <string name="zen_mode_summary_combination">%1$s: %2$s</string>
      <string name="zen_mode_visual_interruptions_settings_title">Blocca disturbo visivo</string>
      <string name="zen_mode_when">Attivazione automatica</string>
      <string name="zen_mode_when_every_night">Ogni notte</string>

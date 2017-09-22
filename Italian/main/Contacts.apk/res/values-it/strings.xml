@@ -97,7 +97,6 @@
      <string name="call_sim_menu_title_suffix">(Primaria)</string>
      <string name="call_telex">Chiama telex</string>
      <string name="call_tty_tdd">Chiama TTY/TDD</string>
-     <string name="call_type_and_date">%1$s %2$s</string>
      <string name="call_unit">USD</string>
      <string name="call_work">Chiama n. lavoro</string>
      <string name="call_work_mobile">Chiama n. cellulare lavoro</string>
@@ -480,7 +479,6 @@ Motivo: \"%s\"</string>
      <string name="force_touch_new_contact">Nuovo contatto</string>
      <string name="foundTooManyContacts">Più di %d trovati.</string>
      <string name="frequentList">Frequenti</string>
-     <string name="from_account_format">%1$s</string>
      <string name="full_name">Nome</string>
      <string name="gallery">Galleria</string>
      <string name="generic_no_account_prompt">Tieni al sicuro i tuoi contatti anche se perdi il telefono: sincronizzali con un servizio online.</string>
@@ -1115,7 +1113,6 @@ Tocca l'icona Unisci in basso per iniziare."</string>
      <string name="sim_unloaded">SIM non installata</string>
      <string name="sina_weibo">Sina Weibo</string>
      <string name="single_group_list_empty">Nessun membro nel gruppo</string>
-     <string name="smart_group_action_bar_title">%1$s-%2$s, %3$s</string>
      <string name="smart_group_company_label">Per azienda</string>
      <string name="smart_group_company_unavailable">Senza azienda</string>
      <string name="smart_group_frequency_1">"Nell'ultimo mese"</string>
@@ -1247,7 +1244,6 @@ Scegli una delle seguenti opzioni:"</string>
      <string name="voip_audio_description">Tocca per effettuare una chiamata VoIP</string>
      <string name="voip_video_description">Tocca per effettuate una videochiamata VoIP</string>
      <string name="websiteLabelsGroup">Sito web</string>
-     <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
      <string name="wipe_data">Cancella dati</string>
      <string name="yellowPageNavigationIconLabel">Directory</string>
      <string name="yellowPageNavigationLabel">Directory</string>

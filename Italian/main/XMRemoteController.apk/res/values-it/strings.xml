@@ -91,8 +91,6 @@
      <string name="bind_stb">"Continua l'accoppiamento del set top box"</string>
      <string name="bind_stb_dlg">Accoppia il set-top box per cambiare canale</string>
      <string name="bind_stb_dlg_agree">Accoppia</string>
-     <string name="bottom_sheet_behavior">android.support.design.widget.BottomSheetBehavior</string>
-     <string name="brand_device">%1$s %2$s</string>
      <string name="brand_search_box_hint">Inserisci la marca</string>
      <string name="brand_title_all">Tutte</string>
      <string name="brand_title_hot">Comuni</string>
@@ -141,7 +139,6 @@ Try the following to fix the issue:
      <string name="channel">Canale</string>
      <string name="channel_catogory_name">Canali</string>
      <string name="channel_num">—</string>
-     <string name="character_counter_pattern">%1$d / %2$d</string>
      <string name="check_upgrade">Verifica aggiornamenti</string>
      <string name="choose_ac">Scegli telecomando</string>
      <string name="choose_address_title">Scegli località</string>
@@ -313,7 +310,6 @@ Try the following to fix the issue:
      <string name="hot_videos">Più visti</string>
      <string name="hour">ore</string>
      <string name="humidity">Umidità:</string>
-     <string name="humidity_frame">%1$d%%</string>
      <string name="increase">Alza</string>
      <string name="input_complete">OK</string>
      <string name="input_source">Sorgente</string>
@@ -393,7 +389,6 @@ Try the following to fix the issue:
      <string name="match_count_tip_frame">Pulsanti di test ( %1$d / %2$d)</string>
      <string name="match_data">Dati ottenuti</string>
      <string name="match_data_error_tips">Impossibile ottenere info. Torna indietro indietro per continuare</string>
-     <string name="match_dataset_frame">%1$d/%2$d</string>
      <string name="match_direction_default">I tasti di direzione funzionano?</string>
      <string name="match_dvd_intro_pause">Rilascia quando il DVD va in pausa di riproduzione</string>
      <string name="match_dvd_intro_play">Rilascia quando il DVD inizia la riproduzione</string>
@@ -748,8 +743,6 @@ direttamente dalla Schermata di blocco"</string>
      <string name="scaning">Scansione…</string>
      <string name="scanning_milink">Ricerca dispositivi ...</string>
      <string name="scene_default">Predefinito</string>
-     <string name="scene_name_frame">%1$s %2$s%3$s</string>
-     <string name="scene_name_frame_short">%1$s%2$s</string>
      <string name="screenshot">Screenshot</string>
      <string name="screenshot_failed">Impossibile catturare lo schermo</string>
      <string name="screenshot_failed_and_check_connection">Impossibile catturare lo schermo, controllare i dispositivi collegati</string>
@@ -849,7 +842,6 @@ direttamente dalla Schermata di blocco"</string>
      <string name="start_match">Accoppia</string>
      <string name="status_bar_notification_info_overflow">999+</string>
      <string name="stb">Ricevitore via cavo/satellite</string>
-     <string name="stb_detail_title_frame">%1$s - %2$d</string>
      <string name="stb_power">Set-top box on/off</string>
      <string name="steps">Tentativo #%d</string>
      <string name="stop_diagnosis">Stop</string>
@@ -871,7 +863,6 @@ direttamente dalla Schermata di blocco"</string>
      <string name="temperature">Temp</string>
      <string name="temprature_frame">%1$d ℃</string>
      <string name="time_error">"Sembra che l'ora sia sbagliata"</string>
-     <string name="time_interval_in_sec">%1$d</string>
      <string name="timer">Timer</string>
      <string name="timer_turn_off">Pianifica orario spegnimento</string>
      <string name="timer_turn_on">Pianifica orario attivazione</string>
@@ -957,7 +948,6 @@ direttamente dalla Schermata di blocco"</string>
      <string name="wind_sweep">Ventilatore</string>
      <string name="wx_not_installed">Prima installa WeChat</string>
      <string name="xiaomi_vip">Mi VIP</string>
-     <string name="year_format">%1$d年</string>
      <string name="year_month_day_format">dd MMM, yyyy</string>
      <string name="yes">Sì</string>
      <string name="yesterday">Ieri</string>

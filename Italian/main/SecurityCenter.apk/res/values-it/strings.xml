@@ -977,7 +977,6 @@ dall'operatore"</string>
      <string name="menu_text_license_manager">Permessi</string>
      <string name="menu_text_networkassistants">Utilizzo dati</string>
      <string name="menu_text_networkassistants_danger">%s oltre soglia</string>
-     <string name="menu_text_networkassistants_data">%1$s%2$s</string>
      <string name="menu_text_networkassistants_remain">%s rimasti</string>
      <string name="menu_text_networkassistants_unit_b">B</string>
      <string name="menu_text_networkassistants_unit_gb">GB</string>
@@ -1121,7 +1120,6 @@ Questa attività riduce la durata della batteria."</string>
      <string name="om_media_scan_timeout_proc_detail">Media server lavora in background. Puoi limitare la sua attività.</string>
      <string name="om_media_scan_timeout_proc_name">Media server</string>
      <string name="om_memory_clean_cleaning_text">Aumento della velocità...</string>
-     <string name="om_memory_clean_memory_info_text">%1$s / %2$s</string>
      <string name="om_notify_cpu_load_too_high_summary">Limita le attività in background per aumentare la velocità</string>
      <string name="om_notify_cpu_load_too_high_title">"L'utilizzo della CPU di %s è troppo elevato"</string>
      <string name="om_notify_need_clean_memory_summary">Cancella cache per aumentare la velocità</string>
@@ -1360,7 +1358,6 @@ Questa attività riduce la durata della batteria."</string>
      <string name="pref_normal_traffic_limit">Utilizzo dati giornalieri</string>
      <string name="pref_open_adjust_traffic">Aggiorna utilizzo dati ogni giorno utilizzando le statistiche del tuo operatore</string>
      <string name="pref_operator_not_set">Operatore non impostato</string>
-     <string name="pref_operator_setting">%1$s%2$s</string>
      <string name="pref_over_traffic_limit">Quando superi il limite del tuo piano dati</string>
      <string name="pref_package_traffic_settings">Limite dati mobili</string>
      <string name="pref_pkg_begin_date">Data azzeramento dati</string>

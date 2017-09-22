@@ -362,7 +362,6 @@ Utilizza solo l'alimentatore in dotazione."</string>
      <string name="nav_guide_message">Puoi utilizzare le gesture per nascondere/mostrare i tasti virtuali dopo le impostazioni.</string>
      <string name="nav_guide_ok">Impostazioni</string>
      <string name="nav_guide_title">Nascondi tasti virtuali</string>
-     <string name="network_speed_suffix">%1$s %2$s</string>
      <string name="no_application">Niente</string>
      <string name="no_multi_window_app">Nessuna app funzionante con la modalità a schermo diviso.</string>
      <string name="no_notification_tips">Nessuna notifica</string>
