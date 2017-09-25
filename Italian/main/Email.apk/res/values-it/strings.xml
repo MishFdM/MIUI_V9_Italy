@@ -4,7 +4,7 @@
      <string name="SMTP_password_text">Password</string>
      <string name="SMTP_username_text">Nome utente</string>
      <string name="accessibility_guide_first">Nella prossima schermata, seleziona il tab \"Servizi\" per attivare il 139 Email Configurazione Automatica</string>
-     <string name="accessibility_guide_second">"Poi tocca il comando nell'angolo in alto a destra, tocca \"Confirm\" per continuare."</string>
+     <string name="accessibility_guide_second">"Poi tocca il comando nell'angolo in alto a destra, tocca \"Conferma\" per continuare."</string>
      <string name="account_duplicate_dlg_message_fmt">"Utilizzi già questo nome utente per l'account \"%s\"."</string>
      <string name="account_duplicate_dlg_title">Account duplicato</string>
      <string name="account_failure">Errore account</string>
