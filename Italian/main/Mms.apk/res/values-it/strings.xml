@@ -356,7 +356,7 @@
      <string name="nosend_message">Non inviato</string>
      <string name="notification_failed_multiple">%s messaggi potrebbe non essere inviati.</string>
      <string name="notification_failed_multiple_title">Messaggi non inviati</string>
-     <string name="notification_multiple">%s messaggi non letti.</string>
+     <string name="notification_multiple">[%s]</string>
      <string name="notification_multiple_title">Nuovi messaggi</string>
      <string name="number_add_hint">Inserisci numero da aggiungere al Contatto Privato</string>
      <string name="open_audio_record_panel">Apri pannello registrazione</string>
