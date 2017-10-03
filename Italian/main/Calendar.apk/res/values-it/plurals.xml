@@ -29,8 +29,8 @@
         <item quantity="one">%d minuto</item>
      </plurals>
      <plurals name="Nweeks">
-        <item quantity="other">%d settimane fa</item>
-        <item quantity="one">%d settimana fa</item>
+        <item quantity="other">%d settimane prima</item>
+        <item quantity="one">%d settimana prima</item>
      </plurals>
      <plurals name="anniversary_day">
         <item quantity="other">%1$s giorni</item>
