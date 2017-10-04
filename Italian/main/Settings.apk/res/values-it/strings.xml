@@ -2551,7 +2551,7 @@ ed esegui il software."</string>
      <string name="nfc_payment_default">Pagamento predefinito</string>
      <string name="nfc_payment_default_not_set">Non impostato</string>
      <string name="nfc_payment_favor_default">Sempre</string>
-     <string name="nfc_payment_favor_open">"Ad esclusione di quando un'altra app per i pagamenti è aperta"</string>
+     <string name="nfc_payment_favor_open">"Ad esclusione di quando un'altra è aperta"</string>
      <string name="nfc_payment_how_it_works">Come funziona</string>
      <string name="nfc_payment_no_apps">Paga con un tocco</string>
      <string name="nfc_payment_pay_with">Ai terminali Touch e Pay, utilizza:</string>
@@ -2559,7 +2559,7 @@ ed esegui il software."</string>
      <string name="nfc_payment_set_default_instead_of">Utilizzare sempre %1$s anziché %2$s per Touch e Pay?</string>
      <string name="nfc_payment_set_default_label">Impostare come preferenza?</string>
      <string name="nfc_payment_settings_title">Tocca e paga</string>
-     <string name="nfc_payment_use_default">Utilizza i predefinito</string>
+     <string name="nfc_payment_use_default">Utilizza il predefinito</string>
      <string name="nfc_quick_toggle_summary">Consenti lo scambio di dati quando il dispositivo tocca un altro dispositivo</string>
      <string name="nfc_quick_toggle_title">NFC</string>
      <string name="nfc_se_route_title">Posizione elemento di sicurezza</string>
@@ -4162,7 +4162,7 @@ L'approccio di Google alla sincronizzazione di dati per consentirti l'accesso ai
      <string name="system_app_settings">Applicazioni di sistema</string>
      <string name="system_apps_updater">Aggiornamento app di sistema</string>
      <string name="system_backup_section_title">Backup</string>
-     <string name="system_default_app">(System default)</string>
+     <string name="system_default_app">(Predefinito di sistema)</string>
      <string name="system_package">Impossibile installare aggiornamenti di sistema su supporti esterni.</string>
      <string name="system_storage">Memoria interna</string>
      <string name="system_ui_settings">Mostra SystemUI Tuner</string>
@@ -4284,8 +4284,8 @@ L'approccio di Google alla sincronizzazione di dati per consentirti l'accesso ai
      <string name="tts_play_example_title">Ascolta un esempio</string>
      <string name="tts_reset_speech_pitch_summary">Ripristina il tono della voce di lettura al valore predefinito.</string>
      <string name="tts_reset_speech_pitch_title">Ripristina tono vocale</string>
-     <string name="tts_reset_speech_rate_summary">Reset the speed at which the text is spoken to normal.</string>
-     <string name="tts_reset_speech_rate_title">Reset speech rate</string>
+     <string name="tts_reset_speech_rate_summary">Ripristina la velocità alla quale il testo viene pronunciato in modo normale.</string>
+     <string name="tts_reset_speech_rate_title">Ripristina velocità testo</string>
      <string name="tts_settings">Impostazioni di sintesi vocale</string>
      <string name="tts_settings_title">Output sintesi vocale</string>
      <string name="tts_status_checking">Controllo in corso…</string>
@@ -4309,11 +4309,11 @@ L'approccio di Google alla sincronizzazione di dati per consentirti l'accesso ai
      <string name="turn_on_keyguard_password_alert_forget_content">Ricorda la password della schermata di blocco. Se la dimentichi, dovrai cancellare tutti i dati presenti sul tuo dispositivo, incluse foto e contatti per impostarne una nuova.</string>
      <string name="turn_on_keyguard_password_alert_forget_title">Se la dimentichi, non sarai in grado di ripristinarlo.</string>
      <string name="turn_on_security_lock">Aggiungi password di sicurezza</string>
-     <string name="turn_on_torch">Turn on torch</string>
-     <string name="turn_on_wifi_dialog_text">WLAN is turned off when Mobile HotSpot is active. To turn on WLAN, please turn off Mobile HotSpot.</string>
-     <string name="turn_on_wifi_dialog_title">Turn on wifi</string>
+     <string name="turn_on_torch">Attiva la Torcia</string>
+     <string name="turn_on_wifi_dialog_text">"Il Wi-Fi si disattiva quando l'Hotpost mobili è attivo. Per attivare il Wi-Fi, si prega di disattivare l'Hotspot mobili."</string>
+     <string name="turn_on_wifi_dialog_title">Attiva il Wi-Fi</string>
      <string name="turn_update_keyguard_password_wait_dialog">Modifica password</string>
-     <string name="twohours">1 hours</string>
+     <string name="twohours">1 ora</string>
      <string name="under_keyguard">Schermata di blocco</string>
      <string name="unimportant">UnImportant</string>
      <string name="uninstall_all_users_text">Disinstalla per tutti gli utenti</string>
@@ -4335,37 +4335,37 @@ L'approccio di Google alla sincronizzazione di dati per consentirti l'accesso ai
      <string name="unlock_disable_frp_warning_content_password_fingerprint">"Le funzionalità di protezione del dispositivo non funzionano senza aver inserito la tua password.
 
 Le impronte digitali salvate saranno rimosse e non sarai in grado di sbloccare il dispositivo, autorizzare gli acquisti o accedere alle app."</string>
-     <string name="unlock_disable_frp_warning_content_password_fingerprint_profile">"Profile protection features will not work without your password.
-
-Your saved fingerprints will also be removed from this profile and you won't be able to unlock your profile, authorize purchases, or sign in to apps with them."</string>
-     <string name="unlock_disable_frp_warning_content_password_profile">Profile protection features will not work without your password.</string>
+     <string name="unlock_disable_frp_warning_content_password_fingerprint_profile">"Le funzionalità del profilo di protezione non funzionano senza aver inserito la tua password.
+	 
+Le impronte digitali salvate saranno rimosse da questo profilo e non sarai in grado di sbloccare il dispositivo, autorizzare gli acquisti o accedere alle tue app."</string>
+     <string name="unlock_disable_frp_warning_content_password_profile">Le funzionalità del tuo profilo di protezione non funzioneranno senza la tua password.</string>
      <string name="unlock_disable_frp_warning_content_pattern">Le funzionalità di protezione del dispositivo non funzionano senza aver inserito la sequenza di sblocco.</string>
      <string name="unlock_disable_frp_warning_content_pattern_fingerprint">"Le funzionalità di protezione del dispositivo non funzionano senza aver inserito la sequenza di sblocco.
 
 Le impronte digitali salvate saranno rimosse e non sarai in grado di sbloccare il dispositivo, autorizzare gli acquisti o accedere alle app."</string>
-     <string name="unlock_disable_frp_warning_content_pattern_fingerprint_profile">"Profile protection features will not work without your pattern.
-
-Your saved fingerprints will also be removed from this profile and you won't be able to unlock your profile, authorize purchases, or sign in to apps with them."</string>
-     <string name="unlock_disable_frp_warning_content_pattern_profile">Profile protection features will not work without your pattern.</string>
+     <string name="unlock_disable_frp_warning_content_pattern_fingerprint_profile">"Le funzionalità del profilo di protezione non funzionano senza aver inserito la tua sequenza di sblocco.
+	 
+Le impronte digitali salvate saranno rimosse da questo profilo e non sarai in grado di sbloccare il dispositivo, autorizzare gli acquisti o accedere alle tue app."</string>
+     <string name="unlock_disable_frp_warning_content_pattern_profile">Le funzionalità del tuo profilo di protezione non funzioneranno senza la sequenza di sblocco.</string>
      <string name="unlock_disable_frp_warning_content_pin">Le funzionalità di protezione del dispositivo non funzionano senza aver inserito il tuo PIN.</string>
      <string name="unlock_disable_frp_warning_content_pin_fingerprint">"Le funzionalità di protezione del dispositivo non funzionano senza aver inserito il tuo PIN.
 
 Le impronte digitali salvate saranno rimosse e non sarai in grado di sbloccare il dispositivo, autorizzare gli acquisti o accedere alle app."</string>
-     <string name="unlock_disable_frp_warning_content_pin_fingerprint_profile">"Profile protection features will not work without your PIN.
-
-Your saved fingerprints will also be removed from this profile and you won't be able to unlock your profile, authorize purchases, or sign in to apps with them."</string>
-     <string name="unlock_disable_frp_warning_content_pin_profile">Profile protection features will not work without your PIN.</string>
+     <string name="unlock_disable_frp_warning_content_pin_fingerprint_profile">"Le funzionalità del profilo di protezione non funzionano senza aver inserito il tuo PIN.
+	 
+Le impronte digitali salvate saranno rimosse da questo profilo e non sarai in grado di sbloccare il dispositivo, autorizzare gli acquisti o accedere alle tue app."</string>
+     <string name="unlock_disable_frp_warning_content_pin_profile">Le funzionalità del tuo profilo di protezione non funzioneranno senza il tuo PIN.</string>
      <string name="unlock_disable_frp_warning_content_unknown">Le funzionalità di protezione del dispositivo non funzionano senza aver inserito il blocco schermo.</string>
      <string name="unlock_disable_frp_warning_content_unknown_fingerprint">"Le funzionalità di protezione del dispositivo non funzionano senza aver inserito il blocco schermo.
 
 Le impronte digitali salvate saranno rimosse e non sarai in grado di sbloccare il dispositivo, autorizzare gli acquisti o accedere alle app."</string>
-     <string name="unlock_disable_frp_warning_content_unknown_fingerprint_profile">"Profile protection features will not work without your screen lock.
-
-Your saved fingerprints will also be removed from this profile and you won't be able to unlock your profile, authorize purchases, or sign in to apps with them."</string>
-     <string name="unlock_disable_frp_warning_content_unknown_profile">Profile protection features will not work without your screen lock.</string>
+     <string name="unlock_disable_frp_warning_content_unknown_fingerprint_profile">"Le funzionalità del profilo di protezione non funzionano senza aver inserito il blocco schermo.
+	 
+Le impronte digitali salvate saranno rimosse da questo profilo e non sarai in grado di sbloccare il dispositivo, autorizzare gli acquisti o accedere alle tue app."</string>
+     <string name="unlock_disable_frp_warning_content_unknown_profile">Le funzionalità del tuo profilo di protezione non funzioneranno senza il blocco schermo.</string>
      <string name="unlock_disable_frp_warning_ok">Sì, rimuovi</string>
      <string name="unlock_disable_frp_warning_title">Rimuovere la protezione dispositivo?</string>
-     <string name="unlock_disable_frp_warning_title_profile">Remove profile protection?</string>
+     <string name="unlock_disable_frp_warning_title_profile">Rimuovi il profilo di protezione?</string>
      <string name="unlock_disable_lock_pin_summary">Rimuovi PIN di sblocco</string>
      <string name="unlock_disable_lock_title">Disattiva blocco schermo</string>
      <string name="unlock_set_do_later_title">Not now</string>
@@ -4378,7 +4378,7 @@ Your saved fingerprints will also be removed from this profile and you won't be 
      <string name="unlock_set_unlock_launch_picker_change_title">Cambia blocco schermo</string>
      <string name="unlock_set_unlock_launch_picker_enable_summary">Scegli un metodo per bloccare lo schermo</string>
      <string name="unlock_set_unlock_launch_picker_title">Blocco schermo</string>
-     <string name="unlock_set_unlock_launch_picker_title_profile">Work profile lock</string>
+     <string name="unlock_set_unlock_launch_picker_title_profile">Profilo di lavoro bloccato</string>
      <string name="unlock_set_unlock_mode_none">Scorrimento</string>
      <string name="unlock_set_unlock_mode_off">Nessuno</string>
      <string name="unlock_set_unlock_mode_password">Password</string>
@@ -4396,13 +4396,13 @@ Your saved fingerprints will also be removed from this profile and you won't be 
      <string name="unlock_set_unlock_summary">Imposta un blocco schermo</string>
      <string name="unlock_setup_wizard_fingerprint_details">Una volta impostato il blocco dello schermo, è possibile impostare anche la propria impronta digitale in Impostazioni > Schermata di blocco e password.</string>
      <string name="unmount_inform_text">"L'archivio USB verrà disattivato."</string>
-     <string name="unrestrict_max_aspect_ratio_title">Support max aspect radio</string>
-     <string name="unrestricted_app_summary">Allow unrestricted data access when Data Saver is on</string>
-     <string name="unrestricted_app_title">Unrestricted data usage</string>
-     <string name="unrestricted_data_saver">Unrestricted data access</string>
+     <string name="unrestrict_max_aspect_ratio_title">Supporta il rapporto di larghezza massima</string>
+     <string name="unrestricted_app_summary">"Consenti l'accesso illimitato ai dati mobili quando il Risparmio dati è attivo"</string>
+     <string name="unrestricted_app_title">Accesso illimitato dei dati mobili</string>
+     <string name="unrestricted_data_saver">Accesso illimitato dei dati mobili</string>
      <string name="untitled_apn">Senza titolo</string>
      <string name="update_new_version">Update is available</string>
-     <string name="update_progress_for_updates">Aggiornamento（%s）</string>
+     <string name="update_progress_for_updates">Aggiornamento （%s）</string>
      <string name="upload_debug_log_summary">"I dati diagnostici possono contenere informazioni sul tuo utilizzo di hardware, sistema operativo e app. I dati verranno utilizzati per localizzare ed analizzare i problemi nel sistema e non verranno utilizzati per identificare l'utente."</string>
      <string name="upload_debug_log_title">Invia automaticamente dati diagnostici</string>
      <string name="usage">Usage</string>
@@ -4463,7 +4463,7 @@ Your saved fingerprints will also be removed from this profile and you won't be 
      <string name="usb_tethering_active_subtext">Tethering attivo</string>
      <string name="usb_tethering_available_subtext">USB collegata, seleziona per avviare tethering</string>
      <string name="usb_tethering_button_text">Tethering USB</string>
-     <string name="usb_tethering_desc">Use device for USB tethering</string>
+     <string name="usb_tethering_desc">Utilizza questo dispositivo per il Tethering USB</string>
      <string name="usb_tethering_errored_subtext">Errore tethering USB</string>
      <string name="usb_tethering_storage_active_subtext">"Tethering non disponibile quando è in uso l'archivio USB"</string>
      <string name="usb_tethering_title">USB tethering</string>
@@ -4474,13 +4474,13 @@ Your saved fingerprints will also be removed from this profile and you won't be 
      <string name="usb_use_MIDI">MIDI</string>
      <string name="usb_use_MIDI_desc">Use this device as MIDI</string>
      <string name="usb_use_charging_only">Solo ricarica</string>
-     <string name="usb_use_charging_only_desc">Just charge this device</string>
+     <string name="usb_use_charging_only_desc">Basta caricare questo dispositivo</string>
      <string name="usb_use_file_transfers">Trasferimento file (MTP)</string>
      <string name="usb_use_file_transfers_desc">Transfer files to another device</string>
      <string name="usb_use_photo_transfers">Trasferimento foto (PTP)</string>
-     <string name="usb_use_photo_transfers_desc">Transfer photos or files if MTP is not supported (PTP)</string>
-     <string name="usb_use_power_only">Supply power</string>
-     <string name="usb_use_power_only_desc">Supply power to the other connected device</string>
+     <string name="usb_use_photo_transfers_desc">Trasferisci foto o file se MTP non è supportato (PTP)</string>
+     <string name="usb_use_power_only">Fornire energia</string>
+     <string name="usb_use_power_only_desc">"Alimenta l'alimentazione di un altro dispositivo collegato"</string>
      <string name="use_location_summary">Consenti a Google di usare la tua posizione per migliorare i risultati di ricerca e altri servizi</string>
      <string name="use_location_title">Posizione e ricerca Google</string>
      <string name="use_personalized_ad_service">Pubblicità personalizzate</string>
@@ -4490,7 +4490,7 @@ Your saved fingerprints will also be removed from this profile and you won't be 
      <string name="user_account_title">Account per i contenuti</string>
      <string name="user_add_max_count">Puoi aggiungere fino a %1$d utenti</string>
      <string name="user_add_on_lockscreen_menu">Aggiungi gli utenti quando il dispositivo è bloccato</string>
-     <string name="user_add_on_lockscreen_menu_summary">when device is locked</string>
+     <string name="user_add_on_lockscreen_menu_summary">quando il dispositivo è bloccato</string>
      <string name="user_add_profile_item_summary">"Puoi limitare l'accesso alle applicazioni e ai contenuti dal tuo account"</string>
      <string name="user_add_profile_item_title">Profilo con limitazioni</string>
      <string name="user_add_user_item_summary">Gli utenti hanno applicazioni e contenuti personali</string>
@@ -4515,9 +4515,9 @@ Qualsiasi utente può accettare le autorizzazioni delle applicazioni aggiornate 
      <string name="user_confirm_remove_self_message">"Perderai il tuo spazio e i tuoi dati sul dispositivo. Quest'azione è irreversibile."</string>
      <string name="user_confirm_remove_self_title">Eliminare te stesso?</string>
      <string name="user_confirm_remove_title">"Rimuovere l'utente?"</string>
-     <string name="user_credential_title">Credential Details</string>
-     <string name="user_credentials">User credentials</string>
-     <string name="user_credentials_summary">View and modify stored credentials</string>
+     <string name="user_credential_title">Dettagli credenziali</string>
+     <string name="user_credentials">Credenziali utente</string>
+     <string name="user_credentials_summary">Visualizza e modifica le credenziali salvate</string>
      <string name="user_delete_button">Elimina</string>
      <string name="user_delete_user_description">Elimina utente</string>
      <string name="user_dict_settings_add_dialog_confirm">OK</string>
@@ -4579,7 +4579,7 @@ Aggiungi una parola toccando il tasto +."</string>
      <string name="user_setup_dialog_message">Assicurati che la persona possa utilizzare il dispositivo e configurare il suo spazio.</string>
      <string name="user_setup_dialog_title">"Configurare l'utente ora?"</string>
      <string name="user_setup_profile_dialog_message">Configurare il profilo ora?</string>
-     <string name="user_summary">Signed in as %1$s</string>
+     <string name="user_summary">Accedi con %1$s</string>
      <string name="user_summary_managed_profile_not_set_up">Non impostato - Profilo lavoro</string>
      <string name="user_summary_not_set_up">Non configurato</string>
      <string name="user_summary_restricted_not_set_up">Non impostato - Profilo con limitazioni</string>
@@ -4597,7 +4597,7 @@ Aggiungi una parola toccando il tasto +."</string>
      <string name="vibrate_input_devices_summary">Reindirizza la vibrazione al controller di gioco quando sei collegato.</string>
      <string name="vibrate_on_touch_title">Vibra al tocco</string>
      <string name="vibrate_when_ringing_title">Vibra quando squilla</string>
-     <string name="vip_list">VIP list</string>
+     <string name="vip_list">Lista VIP</string>
      <string name="virtual_keyboard_category">Tastiera virtuale</string>
      <string name="virtual_sim_category_title">SIM virtuale</string>
      <string name="virtual_sim_description">Servizio di roaming internazionale affidabile</string>
@@ -4702,22 +4702,22 @@ Aggiungi una parola toccando il tasto +."</string>
      <string name="vpn_no_network">Nessuna connessione di rete disponibile. Riprova più tardi.</string>
      <string name="vpn_no_selected">Seleziona VPN</string>
      <string name="vpn_no_server_cert">(ricevuto dal server)</string>
-     <string name="vpn_no_vpns_added">No VPNs added.</string>
+     <string name="vpn_no_vpns_added">Nessuna VPN aggiunta.</string>
      <string name="vpn_not_used">(non utilizzato)</string>
      <string name="vpn_off">OFF</string>
      <string name="vpn_on">ON</string>
      <string name="vpn_password">Password</string>
-     <string name="vpn_replace">Replace</string>
-     <string name="vpn_replace_always_on_vpn_message">"You're already connected to a VPN. If you connect to a different one, your existing VPN will be replaced."</string>
-     <string name="vpn_replace_always_on_vpn_title">Replace existing VPN?</string>
+     <string name="vpn_replace">Sostituisci</string>
+     <string name="vpn_replace_always_on_vpn_message">Sei già connesso a una VPN. Se ti connetti a VPN diversa, la tua esistente sarà sostituita.</string>
+     <string name="vpn_replace_always_on_vpn_title">Sostituire la VPN esistente?</string>
      <string name="vpn_routes">Indirizzi di inoltro</string>
      <string name="vpn_safe">Sicurezza</string>
      <string name="vpn_save">Salva</string>
      <string name="vpn_save_login">Salva informazioni account</string>
      <string name="vpn_search_domains">Domini di ricerca DNS</string>
      <string name="vpn_server">Indirizzo server</string>
-     <string name="vpn_set_screen_lock_content">Imposta una password per la Lock screen così da salvare le impostazioni  VPN</string>
-     <string name="vpn_set_screen_lock_title">Imposta password Lock screen</string>
+     <string name="vpn_set_screen_lock_content">Imposta una password la Schermata di blocco così da salvare le impostazioni VPN</string>
+     <string name="vpn_set_screen_lock_title">Imposta password Schermata di blocco</string>
      <string name="vpn_settings_not_available">Le impostazioni VPN non sono disponibili per questo utente</string>
      <string name="vpn_settings_password">Password VPN</string>
      <string name="vpn_settings_summary">Proteggi le impostazioni VPN con la password della Schermata di blocco</string>
@@ -4727,9 +4727,9 @@ Aggiungi una parola toccando il tasto +."</string>
      <string name="vpn_type">Tipo</string>
      <string name="vpn_username">Nome utente</string>
      <string name="vpn_version">Versione %s</string>
-     <string name="vr_listener_security_warning_summary">%1$s will be able to run when you are using applications in virtual reality mode.</string>
-     <string name="vr_listener_security_warning_title">Allow VR service access for %1$s?</string>
-     <string name="vr_listeners_title">VR helper services</string>
+     <string name="vr_listener_security_warning_summary">%1$s si avvierà quando si utilizzeranno applicazioni in modalità virtuale virtuale.</string>
+     <string name="vr_listener_security_warning_title">"Consenti l'accesso al servizio VR per %1$s?</string>
+     <string name="vr_listeners_title">Servizi di aiuto VR</string>
      <string name="wait_for_debugger">Attendi debugger</string>
      <string name="wait_for_debugger_summary">"L'applicazione in debug attende il debugger prima dell'esecuzione"</string>
      <string name="wakeup_for_keyguard_notification_title">Attiva lo schermo al ricevimento di notifiche</string>
@@ -4781,8 +4781,8 @@ Aggiungi una parola toccando il tasto +."</string>
      <string name="wifi_api_test">API Wi-Fi</string>
      <string name="wifi_assistant_title">Assistente Wi-Fi</string>
      <string name="wifi_auto_connect">Connessione automatica</string>
-     <string name="wifi_auto_connect_type_summary">Specify network connection type</string>
-     <string name="wifi_auto_connect_type_title">Auto connect type</string>
+     <string name="wifi_auto_connect_type_summary">Specifica il tipo di connessione automatica</string>
+     <string name="wifi_auto_connect_type_title">Tipo di connessione automatica</string>
      <string name="wifi_automatically_connect_summary">Consenti ad un assistente Wi-Fi di collegarsi automaticamente a reti aperte ad alta velocità</string>
      <string name="wifi_automatically_connect_title">Connetti automaticamente a reti Wi-Fi aperte</string>
      <string name="wifi_available_title">Connettiti al Wi-Fi</string>
@@ -4850,9 +4850,9 @@ Aggiungi una parola toccando il tasto +."</string>
      <string name="wifi_display_wps_config">Configurazione WPS</string>
      <string name="wifi_dns1">DNS 1</string>
      <string name="wifi_dns2">DNS 2</string>
-     <string name="wifi_do_not_provide_eap_user_cert">Do not provide</string>
-     <string name="wifi_do_not_validate_eap_server">Do not validate</string>
-     <string name="wifi_do_not_validate_eap_server_warning">No certificate specified. Your connection will not be private.</string>
+     <string name="wifi_do_not_provide_eap_user_cert">Non fornire</string>
+     <string name="wifi_do_not_validate_eap_server">Non convalidare</string>
+     <string name="wifi_do_not_validate_eap_server_warning">Nessun certificato specificato. La tua connessione non sarà privata.</string>
      <string name="wifi_dont_skip">Non saltare</string>
      <string name="wifi_eap_anonymous">Identità anonima</string>
      <string name="wifi_eap_ca_cert">Certificato CA</string>
@@ -4992,8 +4992,8 @@ Consentirlo a tutte le app che vogliono eseguire la ricerca?"</string>
      <string name="wifi_security_wpa_wpa2">WPA/WPA2 PSK</string>
      <string name="wifi_select_assistant_dialog_title">Scegli assistente</string>
      <string name="wifi_select_network">Seleziona Wi-Fi</string>
-     <string name="wifi_set_priority_settings_summary">Click to set priority of each access point</string>
-     <string name="wifi_set_priority_settings_title">AP priority settings</string>
+     <string name="wifi_set_priority_settings_summary">Tocca per impostare la priorità di ciascun punto di accesso</string>
+     <string name="wifi_set_priority_settings_title">Impostazioni priorità AP</string>
      <string name="wifi_setting_category">Per attivare il tuo dispositivo, connettiti ad internet</string>
      <string name="wifi_setting_connect_type_error">There was a problem setting the connect type.</string>
      <string name="wifi_setting_frequency_band_error">"Si è verificato un problema nell'impostazione della banda di frequenza."</string>
@@ -5102,7 +5102,7 @@ La configurazione del dispositivo può richiedere notevole attività di rete."</
      <string name="wifi_tether_configure_subtext">Hotspot Wi-Fi %1$s %2$s</string>
      <string name="wifi_tether_enabled_subtext">Hotspot %1$s attivo</string>
      <string name="wifi_tether_failed_subtext">Errore hotspot Wi-Fi portatile</string>
-     <string name="wifi_tether_first_use_message">Set up Mobile HotSpot at the First Use</string>
+     <string name="wifi_tether_first_use_message">Imposta Hotspot Wi-Fi al primo utilizzo</string>
      <string name="wifi_tether_setting_title">Impostazioni base</string>
      <string name="wifi_tether_settings_title">Hotspot personale</string>
      <string name="wifi_tether_starting">Attivazione hotspot…</string>
@@ -5113,7 +5113,7 @@ La configurazione del dispositivo può richiedere notevole attività di rete."</
      <string name="wifi_unchanged">(invariati)</string>
      <string name="wifi_unspecified">(non specificati)</string>
      <string name="wifi_update">Aggiorna statistiche</string>
-     <string name="wifi_use_system_certs">Use system certificates</string>
+     <string name="wifi_use_system_certs">Utilizza i certificati di sistema</string>
      <string name="wifi_verbose_logging">Abilita Logging verbose Wi-Fi</string>
      <string name="wifi_verbose_logging_summary">Aumenta il livello di accesso Wi-Fi, mostra per SSID RSSI nella selezione Wi-Fi</string>
      <string name="wifi_wapi_as_cert">Certificato AS</string>
@@ -5152,14 +5152,14 @@ La configurazione del dispositivo può richiedere notevole attività di rete."</
      <string name="wifi_wps_overlap_error">"È stata rilevata un'altra sessione Wi-Fi. Riprova più tardi."</string>
      <string name="wifi_wps_setup_msg">Avvio WPS…</string>
      <string name="wifi_wps_setup_title">Imposta protezione Wi-Fi</string>
-     <string name="wifiap_configure_ap_text">Set up WLAN wifiap</string>
-     <string name="wifiap_configure_subtext">%1$s%2$s portable WLAN wifiap</string>
-     <string name="wifiap_settings_desc">WLAN wifiap can share this phone’s data Internet connection with other PC/mobile devices via WLAN.</string>
-     <string name="wifiap_settings_indication">After the WLAN wifiap is turned on, other PC/mobile devices can connect to it and start using the internet by following steps:</string>
-     <string name="wifiap_settings_indication_step1">1. Turn on WLAN on PC/Mobile device.</string>
-     <string name="wifiap_settings_indication_step2">2. Find “%s” in the list of WLAN networks.</string>
-     <string name="wifiap_title">WLAN hotspot</string>
-     <string name="wifiap_turn_on_hint">To use WLAN wifiap, turn it on.</string>
+     <string name="wifiap_configure_ap_text">Imposta Wi-Fi wifiap</string>
+     <string name="wifiap_configure_subtext">%1$s%2$s Wi-Fi portatile wifiap</string>
+     <string name="wifiap_settings_desc">Wi-Fi wifiap puoi condividere la connessione internet di questo dispositivo con altri PC/Dispositivi Wi-Fi mobili.</string>
+     <string name="wifiap_settings_indication">Dopo il Wi-Fi wifiap è attivo, altri PC/Dispositivi mobili possono connettersi e iniziare a utilizzare internet seguendo questi passaggi:</string>
+     <string name="wifiap_settings_indication_step1">1. Attiva la Wi-Fi sul tuo PC/Dispositivo mobile.</string>
+     <string name="wifiap_settings_indication_step2">2. Trova “%s” nella lista delle reti Wi-Fi.</string>
+     <string name="wifiap_title">Hotspot Wi-Fi</string>
+     <string name="wifiap_turn_on_hint">Utilizza il Wi-Fi wifiap, attivalo.</string>
      <string name="wimax_settings">4G</string>
      <string name="window_animation_scale_title">Scala animazione finestra</string>
      <string name="wireless_networks_settings_title">Wireless e reti</string>
@@ -5262,7 +5262,7 @@ La configurazione del dispositivo può richiedere notevole attività di rete."</
      <string name="zen_mode_rule_name_hint">Inserisci il nome della regola</string>
      <string name="zen_mode_rule_name_warning">Nome regola già in uso</string>
      <string name="zen_mode_rule_not_found_text">Regola non trovata.</string>
-     <string name="zen_mode_rule_summary_enabled_combination">On / %1$s</string>
+     <string name="zen_mode_rule_summary_enabled_combination">Su / %1$s</string>
      <string name="zen_mode_rule_summary_provider_combination">"%1$s
 %2$s"</string>
      <string name="zen_mode_rule_type">Tipo di regola</string>

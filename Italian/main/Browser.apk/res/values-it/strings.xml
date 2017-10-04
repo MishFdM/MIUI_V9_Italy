@@ -179,7 +179,7 @@
      <string name="contextmenu_dial_dot">Componi…</string>
      <string name="contextmenu_download_image">Salva immagine</string>
      <string name="contextmenu_download_image_as">Salva immagine</string>
-     <string name="contextmenu_manually_block_ad">Mark as ad</string>
+     <string name="contextmenu_manually_block_ad">Segna come pubblicità</string>
      <string name="contextmenu_map">Mappa</string>
      <string name="contextmenu_openlink">Apri</string>
      <string name="contextmenu_openlink_newwindow">Apri in una nuova scheda</string>
