@@ -109,6 +109,7 @@
      <string name="battery_low_title">"Collega l'alimentatore"</string>
      <string name="battery_profiles">Profili utilizzo batteria</string>
      <string name="block_notification_content_text">"%1$s notifiche non verranno più mostrate. Puoi modificare nelle Impostazioni."</string>
+     <string name="block_notification_desc">"The app's notifications won't be shown again. You can change this in the Settings."</string>
      <string name="block_notification_text">Nascondi</string>
      <string name="block_record_notification_text">%1$s. Tocca per vedere</string>
      <string name="block_record_notification_title">Blocca elemento</string>
@@ -487,6 +488,7 @@ Utilizza solo l'alimentatore in dotazione."</string>
      <string name="screenshot_saving_ticker">Salvataggio schermata…</string>
      <string name="screenshot_saving_title">Salvataggio schermata…</string>
      <string name="screenshot_send">Invia</string>
+     <string name="search_hint">Search for websites, apps, contacts, videos...</string>
      <string name="select_application">Seleziona applicazioni</string>
      <string name="select_logd_size_dialog_title">Seleziona dimensione logger per log buffer</string>
      <string name="select_logd_size_title">Dimensione buffer logger</string>

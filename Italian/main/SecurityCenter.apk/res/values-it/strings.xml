@@ -88,6 +88,7 @@
      <string name="antivirus_choose_engine_title">Definizioni</string>
      <string name="antivirus_longtime_no_update">Sembra che le definizioni dei virus siano vecchie. Aggiornamenti regolari aiutano ad ottenere scansioni migliori. Consentire a Sicurezza di collegarsi ad internet per aggiornare le definizioni dei virus?</string>
      <string name="antivirus_longtime_no_update1">Sembra che le definizioni dei virus siano vecchie. Aggiornamenti regolari aiutano ad ottenere scansioni migliori. Aggiorna le definizioni e prova di nuovo.</string>
+     <string name="antivirus_main_activity_back">Back from security scan</string>
      <string name="antivirus_monitor_btn_text_clean_risk">Elimina le app pericolose</string>
      <string name="antivirus_monitor_btn_text_clean_virus">Elimina virus</string>
      <string name="antivirus_monitor_clean_tips">%s elementi eliminati</string>
@@ -134,6 +135,7 @@
      <string name="app_manager_back">Back</string>
      <string name="app_manager_bipartition">App clonate</string>
      <string name="app_manager_card_permission_title">Permessi</string>
+     <string name="app_manager_clear_cache">Clear cache</string>
      <string name="app_manager_clear_data_dlg_message">Tutti i dati app verranno eliminati definitivamente. Questo include tutti i file, le impostazioni, account, databases, etc.</string>
      <string name="app_manager_clear_data_dlg_title">Eliminare i dati app?</string>
      <string name="app_manager_clear_failed_dlg_message">Impossibile cancellare i dati app.</string>
@@ -143,17 +145,27 @@
      <string name="app_manager_default_open">Aperto predefinito</string>
      <string name="app_manager_default_open_summary">Hai deciso di lanciare questa app in modo predefinito per attività specifiche.</string>
      <string name="app_manager_default_open_title">Cancella predefinite</string>
+     <string name="app_manager_defaults_setting">Defaults</string>
      <string name="app_manager_details_electric_title">Batteria</string>
      <string name="app_manager_details_storage_title">Archivio</string>
      <string name="app_manager_details_traffic_title">Utilizzo dati rete mobile</string>
      <string name="app_manager_disable">Non consentire</string>
+     <string name="app_manager_disable_dlg_text">If you disable this app, other apps may no longer function as intended.</string>
+     <string name="app_manager_disable_dlg_title">Disable built-in app?</string>
+     <string name="app_manager_disable_text">Disable</string>
+     <string name="app_manager_disabled">Disabled</string>
      <string name="app_manager_dlg_cancel">Annulla</string>
      <string name="app_manager_dlg_ok">OK</string>
+     <string name="app_manager_enable_text">Enable</string>
+     <string name="app_manager_enabled">Enabled</string>
      <string name="app_manager_factory_reset">Disinstalla aggiornamenti</string>
      <string name="app_manager_factory_reset_dlg_msg">Tutti gli aggiornamenti per questo sistema Android verranno disinstallati.</string>
      <string name="app_manager_factory_reset_dlg_title">Disinstallare aggiornamenti?</string>
      <string name="app_manager_force_stop_dlg_text">"Se forzi la chiusura di un'app, potrebbe non funzionare."</string>
      <string name="app_manager_force_stop_dlg_title">Forzare la chiusura?</string>
+     <string name="app_manager_globel_other_perm_title">Other permissions</string>
+     <string name="app_manager_globel_perm_summary">Manage permissions related to location, storage, phone, messages, and contacts.</string>
+     <string name="app_manager_globel_perm_title">App permissions</string>
      <string name="app_manager_have_not_consume">No</string>
      <string name="app_manager_hide_system_server">Nascondi i servizi di sistema</string>
      <string name="app_manager_instruction">Istruzione</string>
@@ -184,6 +196,17 @@
      <string name="app_manager_reduce_wakepath_dialog">Minimizza avvio a catena</string>
      <string name="app_manager_reduce_wakepath_summary">"La limitazione dell'avvio automatico minimizzerrà l'avvio a catena. Limitare l'avvio automatico per %s?"</string>
      <string name="app_manager_reject_count_over">Bloccato 100000+ volte</string>
+     <string name="app_manager_reset_app_preferences">Reset app preferences</string>
+     <string name="app_manager_reset_app_preferences_button">Reset apps</string>
+     <string name="app_manager_reset_app_preferences_desc">"This will reset all preferences for:
+
+ "&lt;li&gt;Disabled apps&lt;/li&gt;"
+ "&lt;li&gt;Disabled app notifications&lt;/li&gt;"
+ "&lt;li&gt;Default applications for actions&lt;/li&gt;"
+ "&lt;li&gt;Background data restrictions for apps&lt;/li&gt;"
+
+ You will not lose any app data."</string>
+     <string name="app_manager_reset_app_preferences_title">Reset app preferences?</string>
      <string name="app_manager_show_all_apps">Mostra tutte le app</string>
      <string name="app_manager_show_detail_infos">Mostra tutto</string>
      <string name="app_manager_sort">Ordinato per</string>
@@ -197,6 +220,8 @@
      <string name="app_manager_stop_wp_dialog_uninstall">Disinstalla</string>
      <string name="app_manager_system_mobile_disable">Disattiva i dati</string>
      <string name="app_manager_title">Gestione app</string>
+     <string name="app_manager_uninstall_protected_dlg_msg">Uninstalling system apps may prevent some MIUI components from working properly. Uninstall anyway?</string>
+     <string name="app_manager_uninstall_protected_dlg_title">Uninstalling system apps</string>
      <string name="app_manager_uninstall_with_xspace_app_dlg_msg">"L'app clonata corrispondente verrà eliminata insieme ai suoi dati."</string>
      <string name="app_manager_uninstall_xspace_app_dlg_msg">"La disisntallazione delle app clonate cancellerà tutti i dati dell'app."</string>
      <string name="app_manager_uninstall_xspace_app_dlg_title">Disisntalalre app clonate?</string>
@@ -313,6 +338,8 @@ se se dimenticata"</string>
      <string name="auto_task_operation_sync">Sincronizzazione</string>
      <string name="auto_task_operation_vibration">Vibrazione</string>
      <string name="auto_task_operation_wifi">Wi-Fi</string>
+     <string name="back_app_name">Go back to App lock</string>
+     <string name="back_modifypassword">Go back to changing password</string>
      <string name="background_restrict_app_dialog_message">"La limitazione dell'accesso di rete per questa app potrebbe impedirle di funzionare correttamente, ricevere messaggi, scaricare contenuti, etc. Vuoi limitarla comunque?"</string>
      <string name="background_traffic">Sfondo %s</string>
      <string name="backsound_set_hint">Impostare %s come sottofondo?</string>
@@ -516,6 +543,8 @@ se se dimenticata"</string>
      <string name="daily_limit_network_available_body">Tocca per visualizzare le statistiche di utilizzo dei dati.</string>
      <string name="daily_limit_over_message">Hai superato il limite dati giornaliero</string>
      <string name="daily_pkg_traffic">limite soglia dati</string>
+     <string name="data_booster_desc">Deactivate other SIM slots to keep the connection stable</string>
+     <string name="data_booster_title">Stabilize data connection</string>
      <string name="data_network_blocked_notification_title">Nessuna connessione internet</string>
      <string name="data_usage_correction_timeout_title">Sincronizzazione utilizzo dati scaduta</string>
      <string name="data_usage_disabled_dialog">"Hai raggiunto il limite previsto dal tuo piano dati. Superato questo limite
@@ -679,6 +708,7 @@ se se dimenticata"</string>
      <string name="fw_blocked">Blacklist</string>
      <string name="fw_blocked_count">"Bloccati "</string>
      <string name="fw_blocked_join">" e "</string>
+     <string name="game_anti_disturb_msg">Game DND</string>
      <string name="game_booster">Game Speed Booster</string>
      <string name="game_booster_intro">Informazioni su Game Speed Booster</string>
      <string name="game_booster_title">Accelera</string>
@@ -690,6 +720,7 @@ se se dimenticata"</string>
      <string name="game_net_text2">"Migliora la velocità di connessione di gioco mentre limita la velocità di download in background per diminuire la latenza</string>
      <string name="game_net_title">Ottimizza velocità di connessione</string>
      <string name="game_setting">Impostazioni di gioco</string>
+     <string name="gamebooster_main_activity_back">Back Game Speed Booster</string>
      <string name="gamebooster_network_dialog_message">"Consentire all'app Sicurezza di collegarsi alla rete per poter utilizzare tutte le funzioni di Game speed booster?"</string>
      <string name="gamebooster_network_dialog_title">Alcune funzioni non sono disponibili</string>
      <string name="gateway_exception_summary">Controlla il tuo router e riprova.</string>
@@ -1493,6 +1524,7 @@ Questa attività riduce la durata della batteria."</string>
      <string name="save_energy_title">Ottimizza batteria</string>
      <string name="sc_allow_network_dialog_message">Questa applicazione deve utilizzare la connessione internet per funzionare correttamente.</string>
      <string name="sc_allow_network_dialog_tiltle">Impossibile utilizzare questa funzione</string>
+     <string name="sc_system_risk_fix_info_xspace">The risk cannot be fixed in xspace, please switch to owner space to fix it.</string>
      <string name="scan_installed_games">Controllo giochi installati…</string>
      <string name="scan_status_risk">Pericolo</string>
      <string name="scan_status_safe">Sicuro</string>
@@ -2026,5 +2058,6 @@ I dati rimanenti includono dati che sono stati erogati il mese precedente."</str
      <string name="wlan_change_protection_detail">Non passare automaticamente alla rete Wi-Fi quando collegato alla rete dati mobile</string>
      <string name="wlan_change_protection_title">Impedisci cambiamenti di rete</string>
      <string name="xunyou_pay_webview">Servizi Xunyou</string>
+     <string name="xunyou_server_expired">The session expired.</string>
      <string name="zhifubao_not_found">Applicazione non installata o versione troppo vecchia</string>
 </resources>
