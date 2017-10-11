@@ -49,13 +49,6 @@
         <item>Gemelli</item>
         <item>5/21 - 6/21</item>
      </string-array>
-     <string-array name="global_criket_match">
-        <item>IPL</item>
-        <item>Internazionale</item>
-        <item>Domestico</item>
-        <item>Lega T20</item>
-     </string-array>
-
      <string-array name="leo_info">
         <item>leone</item>
         <item>Leone</item>

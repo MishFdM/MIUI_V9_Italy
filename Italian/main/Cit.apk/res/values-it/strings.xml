@@ -611,6 +611,7 @@ Dopo aver copiato \"music.mp3\" sulla scheda SD, tocca lo schermo per riprodurre
      <string name="navigation_drawer_close">Close navigation drawer</string>
      <string name="navigation_drawer_open">Open navigation drawer</string>
      <string name="next">Next</string>
+     <string name="nfc_disable_tip">Please turn on the NFC function</string>
      <string name="no_data">--</string>
      <string name="noise">noise:</string>
      <string name="none">N/A</string>

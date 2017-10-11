@@ -1961,6 +1961,7 @@ Quando attivi il backup automatico, il dispositivo e i dati delle applicazioni v
      <string name="launch_defaults_none">Nessun valore predefinito impostato</string>
      <string name="launch_defaults_some">Alcuni valori predefiniti impostati</string>
      <string name="launch_google_search">Lancia Google Search</string>
+     <string name="launch_recents">Launch Recents</string>
      <string name="launch_voice_assistant">Lancia Assistente Vocale</string>
      <string name="launcher_auto_fill_empty_title">Riempi automaticamente gli spazi vuoti</string>
      <string name="launcher_title">Launcher</string>
@@ -2080,8 +2081,8 @@ Quando attivi il backup automatico, il dispositivo e i dati delle applicazioni v
      <string name="lock_profile_wipe_warning_title">Ultimo tentativo</string>
      <string name="lock_screen_cells_title">Blocca spazi vuoti icone</string>
      <string name="lock_screen_intro_skip_dialog_text">Le funzioni di protezione del dispositivo non verranno attivate. Non potrai impedire che gli altri utilizzino questo telefono in caso di smarrimento o furto.</string>
-     <string name="lock_screen_intro_skip_dialog_text_frp">Le funzioni di protezione del dispositivo non verranno attivate. Non potrai impedire che gli altri utilizzino questo telefono in caso di smarrimento, furto o cancellazione
-	 .</string>
+     <string name="lock_screen_intro_skip_dialog_text_frp">"Le funzioni di protezione del dispositivo non verranno attivate. Non potrai impedire che gli altri utilizzino questo telefono in caso di smarrimento, furto o cancellazione
+	 ."</string>
      <string name="lock_screen_notifications_interstitial_message">Quando il dispositivo è bloccato, come desideri mostrare le notifiche?</string>
      <string name="lock_screen_notifications_interstitial_message_profile">Come vuoi che vengano visualizzate le notifiche del profilo quando il dispositivo è bloccato?</string>
      <string name="lock_screen_notifications_interstitial_title">Notifiche</string>
@@ -2390,6 +2391,7 @@ Ci sono altri utenti presenti su questo dispositivo.
      <string name="miui_allow_music">Musica</string>
      <string name="miui_allow_vibrate">Vibrazione</string>
      <string name="miui_data_usage_menu_metered">Hotspot dati cellulare</string>
+     <string name="miui_enable_service_title">The service will perform these actions:</string>
      <string name="miui_experience_optimization">Attiva ottimizzazione MIUI</string>
      <string name="miui_lab_feature_applied">Applicato</string>
      <string name="miui_lab_feature_off">Disattivato</string>
@@ -2574,6 +2576,10 @@ ed esegui il software."</string>
      <string name="no_default_home">No default Home</string>
      <string name="no_device_admins">Nessun amministratore disponibile</string>
      <string name="no_internet_access_remember">Non chiedere più per questa rete</string>
+     <!-- MNPS mismatch found! Translated: 0 Original: 1
+	%s: 0 Original: 1
+	%d: 0 Original: 0 -->
+     <!-- Original string: WLAN network %1$s has no access to the internet. Stay connected? -->
      <string name="no_internet_access_text">Questa rete non ha accesso ad Internet. Rimanere connesso?</string>
      <string name="no_media_button_receiver">No</string>
      <string name="no_memory_use_summary">Nessun utilizzo della memoria nelle ultime 3 ore</string>
@@ -3685,15 +3691,12 @@ Come usare Mantieni su schermo:
      <string name="settings_toggle_position_divider_list">I comandi sopra la barra sono attivi</string>
      <string name="setup_add_fingerprint_failed_retry_text">"Impossibile aggiungere l'impronta"</string>
      <string name="setup_choose_unlock_fingerprint_msg">"Imposta la schermata di blocco prima di impostare l'impronta digitale."</string>
-     <string name="setup_choose_unlock_mixed_password_color_normal"><Data>&lt;font color=#000000>Password&lt;/font></Data></string>
-     <string name="setup_choose_unlock_mixed_password_color_pressed"><Data>&lt;font color=#009dff>Password&lt;/font></Data></string>
+     <string name="setup_choose_unlock_mixed_password">Password</string>
      <string name="setup_choose_unlock_mixpassword_title">Imposta password</string>
-     <string name="setup_choose_unlock_password_color_normal"><Data>&lt;font color=#000000>PIN&lt;/font></Data></string>
-     <string name="setup_choose_unlock_password_color_pressed"><Data>&lt;font color=#009dff>PIN&lt;/font></Data></string>
+     <string name="setup_choose_unlock_password">PIN</string>
      <string name="setup_choose_unlock_password_msg">Inserisci 4 numeri</string>
      <string name="setup_choose_unlock_password_title">Imposta PIN</string>
-     <string name="setup_choose_unlock_pattern_color_normal"><Data>&lt;font color=#000000>Sequenza&lt;/font></Data></string>
-     <string name="setup_choose_unlock_pattern_color_pressed"><Data>&lt;font color=#009dff>Sequenza&lt;/font></Data></string>
+     <string name="setup_choose_unlock_pattern">Pattern</string>
      <string name="setup_choose_unlock_pattern_title">Disegna una sequenza</string>
      <string name="setup_choose_unlock_type_title">Imposta password</string>
      <string name="setup_fingerprint_enroll_enrolling_skip_message">You’ve chosen to use your fingerprint as one way to unlock your phone. If you skip now, you’ll need to set this up later. Setup takes only a minute or so.</string>
@@ -4210,6 +4213,7 @@ L'approccio di Google alla sincronizzazione di dati per consentirti l'accesso ai
      <string name="tethering_settings_not_available">Le impostazioni Tethering non sono disponibili per questo utente</string>
      <string name="tethering_settings_summary">"Share your device's mobile data connection via USB or a Mobile HotSpot"</string>
      <string name="theme_settings_title">Temi</string>
+     <string name="thememanager_not_found">"Couldn't open Themes. Make sure the app is installed."</string>
      <string name="three_gesture_down">Three Gesture Down</string>
      <string name="time_picker_title">Ora</string>
      <string name="time_zone_auto_stub">Seleziona fuso orario</string>
@@ -4728,7 +4732,7 @@ Aggiungi una parola toccando il tasto +."</string>
      <string name="vpn_username">Nome utente</string>
      <string name="vpn_version">Versione %s</string>
      <string name="vr_listener_security_warning_summary">%1$s si avvierà quando si utilizzeranno applicazioni in modalità virtuale virtuale.</string>
-     <string name="vr_listener_security_warning_title">"Consenti l'accesso al servizio VR per %1$s?</string>
+     <string name="vr_listener_security_warning_title">""Consenti l'accesso al servizio VR per %1$s?"</string>
      <string name="vr_listeners_title">Servizi di aiuto VR</string>
      <string name="wait_for_debugger">Attendi debugger</string>
      <string name="wait_for_debugger_summary">"L'applicazione in debug attende il debugger prima dell'esecuzione"</string>

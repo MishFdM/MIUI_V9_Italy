@@ -284,6 +284,7 @@
      <string name="confirm_before_delete_keywords">conferma prima di eliminare;conferma eliminazione</string>
      <string name="confirm_before_send">Conferma prima di inviare</string>
      <string name="confirm_before_send_keywords">conferma prima di inviare;invia conferma</string>
+     <string name="confirm_delete_attachment">Delete attachment?</string>
      <string name="confirm_delete_conversation_title">Elimina</string>
      <string name="confirm_discard_text">Eliminare questo messaggio?</string>
      <string name="confirm_response">Invio risposta…</string>
@@ -695,7 +696,7 @@ Prova con una diverso account."</string>
      <string name="ok">OK</string>
      <string name="okay_action">OK</string>
      <string name="open_calendar_and_contacts_permission">Attiva i permessi per calendario e contatti nelle Impostazioni di Sistema</string>
-     <string name="open_external_storage_and_calendar_permission">"Attiva i permessi per l'archivio esterno ed il Calendario nelle Impostazioni di Sistema</string>
+     <string name="open_external_storage_and_calendar_permission">""Attiva i permessi per l'archivio esterno ed il Calendario nelle Impostazioni di Sistema"</string>
      <string name="open_external_storage_and_contacts_and_calendar_permission">Attiva i permessi per archivio esterno,calendario,contatti nelle Impostazioni di sistema</string>
      <string name="open_external_storage_and_contacts_permission">"Attiva i permessi per l'archivio esterno ed i Contatti nelle Impostazioni di Sistema"</string>
      <string name="outbox_alert_button_no_resend">Non inviare</string>
@@ -1016,6 +1017,7 @@ perr icevere promemoria sui pagamenti dei tuoi viaggi"</string>
      <string name="system_folders_trash_dlg">Seleziona la cartella per il cestino</string>
      <string name="system_folders_trash_summary">Seleziona la cartella per il cestino</string>
      <string name="system_folders_trash_title">Cartella cestino</string>
+     <string name="system_security_open_error">Unable to tune up the security center. Please open your permissions in the phone settings</string>
      <string name="system_setup_open_error">"Impossibile richiamare la sincronizzazione, attiva il sistema 'imposta' nella sincronizzazione account email"</string>
      <string name="tablet">tablet</string>
      <string name="tap_to_configure">Tocca per configurare</string>
@@ -1027,6 +1029,12 @@ perr icevere promemoria sui pagamenti dei tuoi viaggi"</string>
      <string name="toast_bar_invalid_account">Devi accedere di nuovo</string>
      <string name="toast_bar_no_connection_network">Nessuna connessione Internet disponibile</string>
      <string name="toast_bar_open_gmail_synchronization">Tocca per utilizzare un server proxy per Gmail</string>
+     <string name="toastbar_calendar_and_contacts_permission_switch_close">Calendar and contact permissions are close. Calendar and contacts cannot be synchronized</string>
+     <string name="toastbar_calendar_permission_switch_close">Calendar permission is close. Calendar cannot synchronized</string>
+     <string name="toastbar_contacts_permission_switch_close">The contact permission is close. The contacts cannot synchronized</string>
+     <string name="toastbar_local_calendar_and_contacts_sync_switch_close">Calendar and contacts synchronization switch is close. Calendar and contacts cannot be synchronized</string>
+     <string name="toastbar_local_calendar_sync_switch_close">The calendar sync switch is close. The calendar cannot be synchronized</string>
+     <string name="toastbar_local_contacts_sync_swtich_close">The contact sync switch is close. The contacts cannot be synchronized</string>
      <string name="today_text">Oggi</string>
      <string name="too_large_to_attach_additional">File non allegato. Limite di %1$s raggiunto.</string>
      <string name="too_large_to_attach_multiple">Uno o più file non allegati. Limite di %1$s.</string>

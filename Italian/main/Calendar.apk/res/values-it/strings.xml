@@ -145,6 +145,7 @@
      <string name="edit_event_tab_event">Evento</string>
      <string name="edit_event_to_label">A</string>
      <string name="email_guests_label">Email ospiti</string>
+     <string name="email_install_hint">Email has been uninstalled. By reinstalling it, you can restore calendar account data or add new account.</string>
      <string name="email_picker_label">Email con</string>
      <string name="email_subject_prefix">"Re: "</string>
      <string name="empty_event">Evento vuoto non creato</string>
@@ -203,6 +204,9 @@
      <string name="insert_event_dialog_title">Attenzione</string>
      <string name="insert_event_toast_add_failed">Non aggiunto</string>
      <string name="insert_event_toast_add_success">Evento creato</string>
+     <string name="install_email_app">Install email</string>
+     <string name="install_email_finished">Email Installed</string>
+     <string name="installing_email">Installing...</string>
      <string name="jump_date_full">Vai alla data</string>
      <string name="load_more_hint">Aggiorna gli eventi di %1$d</string>
      <string name="loading">Caricamento…</string>
@@ -396,7 +400,6 @@ Puoi anche aggiungere dei promemoria per non perdere niente di importante."</str
      <string name="travel_event_title_flight">Volo: %1$s-%2$s %3$s</string>
      <string name="travel_event_title_train">Treno: %1$s-%2$s %3$s</string>
      <string name="travel_event_title_train_only_dep">Treno: %1$s %2$s</string>
-     <string name="travel_item_hotel">Hotel</string>
      <string name="travel_item_reminder">Avviso</string>
      <string name="travel_item_reminder_overdue">Attenzione</string>
      <string name="travel_item_trafic">Traffico</string>

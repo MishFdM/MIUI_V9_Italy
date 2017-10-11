@@ -39,6 +39,7 @@
      <string name="component_title_wallpaper">Sfondi</string>
      <string name="current_using_desktop_wallpaper_text">Home</string>
      <string name="current_using_lockscreen_wallpaper_text">Schermata di blocco</string>
+     <string name="current_version_incompatible">Incompatibility version</string>
      <string name="deleting">Eliminazione…</string>
      <string name="description_author">Autore:</string>
      <string name="description_designer">Designer:</string>
@@ -90,6 +91,8 @@
      <string name="gift_use_confirmation_dlg_title">Inviare questo regalo?</string>
      <string name="gift_use_fail_dlg_title">Si è verificato un errore</string>
      <string name="gift_used">Inviato</string>
+     <string name="hide_free">"Hide free "</string>
+     <string name="hide_incompatible">"Hide incompatible "</string>
      <string name="home_apply_failured">Impossibile applicare lo sfondo Home</string>
      <string name="home_apply_success">Sfondo Home applicato</string>
      <string name="in_the_end">No more</string>
@@ -129,8 +132,17 @@
      <string name="my_gifts_received">Ricevuti</string>
      <string name="no_data">Impossibile collegare alla rete</string>
      <string name="online_no_network">Impossibile connettere alla rete</string>
+     <string name="online_precust_animal">Animal</string>
      <string name="online_precust_asphalt">Asphalt</string>
+     <string name="online_precust_building">Building</string>
+     <string name="online_precust_cartoon">Cartoon</string>
+     <string name="online_precust_creative">Creative</string>
+     <string name="online_precust_entertainment">Entertainment</string>
+     <string name="online_precust_lifestyle">Lifestyle</string>
      <string name="online_precust_peach_blossom">Peach blossom</string>
+     <string name="online_precust_plant">Plant</string>
+     <string name="online_precust_scenery">Scenery</string>
+     <string name="online_precust_starry_sky">Starry sky</string>
      <string name="online_search_hint">Cerca risorse online</string>
      <string name="present_local_themes">Scaricati</string>
      <string name="present_online_themes">Online</string>
@@ -142,6 +154,7 @@
      <string name="purchased_list_current">MIUI 9</string>
      <string name="purchased_list_legacy">Vecchie versioni</string>
      <string name="recently_used">Usati di recente</string>
+     <string name="region_not_support">Sorry,Themes is not supported in your area.</string>
      <string name="reload">Riprova</string>
      <string name="resource_account_abnormal_state">Errore account, riprovare più tardi.</string>
      <string name="resource_account_fail_to_add">Impossibile aggiungere account!</string>

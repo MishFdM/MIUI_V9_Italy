@@ -17,7 +17,8 @@
         <item quantity="one">Questa conversazione contiene elementi uniti, sicuro di volerla eliminare?</item>
      </plurals>
      <plurals name="confirm_delete_draft">
-        <item quantity="other">Eliminare %1$d bozze?</item>
+	    <item quantity="other">Eliminare %1$d bozze?</item>
+        <item quantity="one">Eliminare %1$d bozza?</item>
      </plurals>
      <plurals name="contact_num_selected">
         <item quantity="other">%d selezionati</item>

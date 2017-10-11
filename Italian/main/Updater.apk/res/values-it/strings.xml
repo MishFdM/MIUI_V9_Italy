@@ -31,10 +31,13 @@
      <string name="boot_recovery">Riavvia in Recovery</string>
      <string name="btn_changelog">Changelog</string>
      <string name="btn_download">Download (%1$s)</string>
+     <string name="btn_error">Error occurred, try again?</string>
      <string name="btn_install">Installa</string>
      <string name="btn_no">Annulla</string>
      <string name="btn_ok">OK</string>
+     <string name="btn_pause">Pause</string>
      <string name="btn_share">Condividi</string>
+     <string name="btn_stop">Stop</string>
      <string name="btn_yes">Si</string>
      <string name="button_delay_update_reboot">Riavvia e aggiorna</string>
      <string name="button_text_check">Cerca</string>
@@ -119,6 +122,9 @@ I dati non verranno cancellati."</string>
      <string name="menu_title_download_current_rom">Scarica pacchetto di aggiornamento</string>
      <string name="menu_title_pick_rom_file">Seleziona pacchetto di aggiornamento</string>
      <string name="menu_title_recovery">Riavvia in Recovery</string>
+     <string name="message">%1$s</string>
+     <string name="message_checkbox">Hide future messages from Xioami.eu team</string>
+     <string name="message_title">NOTE!</string>
      <string name="miui_BBS">" "<a href="http://www.miui.it/forum">Vai sul forum di MIUI Italia</a>" "</string>
      <string name="miui_summary_has_new_version">" È disponibile un aggiornamento  "</string>
      <string name="miui_summary_no_new_version">Nessun aggiornamento disponibile</string>
