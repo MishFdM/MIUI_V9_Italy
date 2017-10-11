@@ -3733,7 +3733,7 @@ Come usare Mantieni su schermo:
      <string name="show_ime_summary">Keep it on screen while physical keyboard is active</string>
      <string name="show_magnifier_when_input">"Lente d'ingrandimento testo"</string>
      <string name="show_mem_info_title">Mostra info memoria</string>
-     <string name="show_menu">Show menu</string>
+     <string name="show_menu">Mostra menu</string>
      <string name="show_non_rect_clip">Debug operazioni ritaglio non rettangolare</string>
      <string name="show_owner_info_on_lockscreen_label">Mostra info proprietario sulla Schermata di blocco</string>
      <string name="show_password">Password visibili</string>
@@ -4210,7 +4210,7 @@ L'approccio di Google alla sincronizzazione di dati per consentirti l'accesso ai
      <string name="tethering_settings_summary">"Share your device's mobile data connection via USB or a Mobile HotSpot"</string>
      <string name="theme_settings_title">Temi</string>
      <string name="thememanager_not_found">"Couldn't open Themes. Make sure the app is installed."</string>
-     <string name="three_gesture_down">Three Gesture Down</string>
+     <string name="three_gesture_down">Swipe con tre dita</string>
      <string name="time_picker_title">Ora</string>
      <string name="time_zone_auto_stub">Seleziona fuso orario</string>
      <string name="timed_titlei">schedule rule %d</string>
