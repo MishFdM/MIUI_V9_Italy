@@ -4728,7 +4728,7 @@ Aggiungi una parola toccando il tasto +."</string>
      <string name="vpn_username">Nome utente</string>
      <string name="vpn_version">Versione %s</string>
      <string name="vr_listener_security_warning_summary">%1$s si avvierà quando si utilizzeranno applicazioni in modalità virtuale virtuale.</string>
-     <string name="vr_listener_security_warning_title">""Consenti l'accesso al servizio VR per %1$s?"</string>
+     <string name="vr_listener_security_warning_title">"Consenti l'accesso al servizio VR per %1$s?"</string>
      <string name="vr_listeners_title">Servizi di aiuto VR</string>
      <string name="wait_for_debugger">Attendi debugger</string>
      <string name="wait_for_debugger_summary">"L'applicazione in debug attende il debugger prima dell'esecuzione"</string>
