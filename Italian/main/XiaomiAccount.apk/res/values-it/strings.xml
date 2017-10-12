@@ -416,6 +416,7 @@ Per attivare il tuo account, segui il
      <string name="sina_weibo">Sina Weibo</string>
      <string name="sms_send_success">Inviato</string>
      <string name="sns_access_token_expired_warning">La sessione è scaduta. Accedi di nuovo per aggiungere questo account.</string>
+     <string name="talkback_scan_barcode">scan the QR code</string>
      <string name="trusted_browsers">Browser sicuri</string>
      <string name="trusted_browsers_prompt">Il browser non sarà più sicuro se elimini i cookies.</string>
      <string name="turn_off_find_device_failed_title">Impossibile disattivare Trova dispositivo</string>
