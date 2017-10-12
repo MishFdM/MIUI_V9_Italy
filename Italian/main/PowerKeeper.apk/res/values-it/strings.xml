@@ -45,7 +45,7 @@
      <string name="enable_hide_mode">Attiva Risparmio Batteria MIUI</string>
      <string name="error_filename_too_long">Il nome del file è troppo lungo.</string>
      <string name="extreme_power_config_mode_category">Risparmio Batteria Estremo</string>
-     <string name="extreme_power_config_mode_desc">""L'attivazione di questa funzione disattiverà sincronizzazione, bluetooth, GPS, NFC, doppio tocco, tasti luminosi, attivazione schermo su notifica, luce di notifica pulsante etc, ed il risparmio batteria verrà impostato su ultimate"</string>
+     <string name="extreme_power_config_mode_desc">"L'attivazione di questa funzione disattiverà sincronizzazione, bluetooth, GPS, NFC, doppio tocco, tasti luminosi, attivazione schermo su notifica, luce di notifica pulsante etc, ed il risparmio batteria verrà impostato su ultimate"</string>
      <string name="extreme_power_config_mode_title">Modalità Risparmio Batteria Estremo</string>
      <string name="failure">fallito</string>
      <string name="foreground_change">App in esecuzione in primo piano</string>
