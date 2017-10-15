@@ -23,14 +23,14 @@
      <string name="action_menu_account_not_login_hint">Utilizza le impostazioni cloud quando accedi</string>
      <string name="action_menu_bookshelf">Libreria</string>
      <string name="action_menu_current_version">Versione attuale</string>
-     <string name="action_menu_request_desktop_site">Request desktop site</string>
-     <string name="action_menu_request_desktop_site_off">Request desktop site/off</string>
-     <string name="action_menu_request_desktop_site_on">Request desktop site/on</string>
+     <string name="action_menu_request_desktop_site">Richiedi versione desktop</string>
+     <string name="action_menu_request_desktop_site_off">Richiedi versione desktop/disattivato</string>
+     <string name="action_menu_request_desktop_site_on">Richiedi versione desktop/attivato</string>
      <string name="action_menu_text_add_bookmark">Aggiungi segnalibro</string>
      <string name="action_menu_text_bandwidth">Banda</string>
      <string name="action_menu_text_bandwidth_off">Risparmio dati</string>
      <string name="action_menu_text_bandwidth_on">Risparmio dati</string>
-     <string name="action_menu_text_bookmark_add_off">No web page can be added.</string>
+     <string name="action_menu_text_bookmark_add_off">Non può essere aggiunta nessuna pagina.</string>
      <string name="action_menu_text_bookmark_added">Segnalibro aggiunto</string>
      <string name="action_menu_text_copy_url">Copia URL</string>
      <string name="action_menu_text_create_qr_code">Codice QR</string>
@@ -62,10 +62,10 @@
      <string name="adblock_websites_settings_title">Regole personalizzate</string>
      <string name="add_bookmark_group">Aggiungi gruppo</string>
      <string name="add_bookshelf_popup_text">Aggiunto alla libreria</string>
-     <string name="add_favorites_to">Aggungi ai preferiti a</string>
+     <string name="add_favorites_to">Aggiungi ai preferiti a</string>
      <string name="add_new_bookmark">Aggiungi segnalibro</string>
      <string name="add_new_quicklink">Aggiungi link rapido</string>
-     <string name="add_pwa_to_homescreen">Add this web to home screen?</string>
+     <string name="add_pwa_to_homescreen">Aggiungere alla Home?</string>
      <string name="add_ql_bm_title">Salva</string>
      <string name="add_quicklink_to_popular">Aggiungi alla pagina iniziale</string>
      <string name="add_quicklinks">Aggiungi</string>
@@ -73,13 +73,13 @@
      <string name="add_shortcut_success">Collegamento aggiunto</string>
      <string name="add_to_bookmark">Aggiungi ai segnalibri</string>
      <string name="add_to_desk">Aggiungi alla Home</string>
-     <string name="add_to_desk_lite_mode_toast">Impossibile aggiungere all Home in modalità semplificata</string>
+     <string name="add_to_desk_lite_mode_toast">Impossibile aggiungere alla Home in modalità semplificata</string>
      <string name="add_to_desk_success">Aggiungi alla Home</string>
      <string name="add_to_quicklink">Aggiungi alla pagina iniziale</string>
      <string name="added_to_bookmarks">Aggiunto ai segnalibri.</string>
      <string name="adjust_text_zoom_toast">Cambiare lo zoom del testo può provocare problemi alla visualizzazione di alcuni siti</string>
      <string name="agree">OK</string>
-     <string name="agree_permissions_request">Agree</string>
+     <string name="agree_permissions_request">OK</string>
      <string name="alert_tips">Questo sito potrebbe essere un rischio per la sicurezza</string>
      <string name="allow">Consenti</string>
      <string name="app_new_version">"Hai già l'ultima versione"</string>
@@ -138,7 +138,7 @@
      <string name="browserFrameFormResubmitMessage">La pagina che stai tentando di visualizzare contiene dati già inviati (\"POSTDATA\"). Se invii di nuovo i dati, ogni azione effettuata dal modulo nella pagina (come una ricerca o un acquisto online) verrà ripetuta.</string>
      <string name="browserFrameNetworkErrorLabel">Problema di connessione</string>
      <string name="cancel">Annulla</string>
-     <string name="cancle_sync_cloud_tabs">Cancel sync</string>
+     <string name="cancle_sync_cloud_tabs">Annulla sincronizzazione</string>
      <string name="cannot_download">È possibile scaricare soltanto URL \"http\" o \"https\".</string>
      <string name="choosertitle_sharevia">Condividi tramite</string>
      <string name="clear_history">Cancella cronologia</string>
@@ -293,9 +293,9 @@ finestra riservata​"</string>
      <string name="edit_quicklink">Modifica</string>
      <string name="empty_app_name">Altra app</string>
      <string name="empty_bookmark">Nessuno</string>
-     <string name="empty_cloud_tab_login_hint">No cloud tabs</string>
-     <string name="empty_cloud_tab_logout_hint">"Login mi account
- tabs opened in other devices will show here"</string>
+     <string name="empty_cloud_tab_login_hint">Nessuna scheda cloud</string>
+     <string name="empty_cloud_tab_logout_hint">"Accedi al Mi Account
+per vedere qui le schede cloud aperte su altri dispositivi"</string>
      <string name="empty_history_hint">Vuoto</string>
      <string name="empty_snapshot_hint">Vuoto</string>
      <string name="enable_geolocation_confirm_message">La disattivazione di questa funzione potrebbe influire sulla visualizzazione dei siti web.</string>
@@ -323,7 +323,7 @@ finestra riservata​"</string>
      <string name="find_on_page_next">Avanti</string>
      <string name="find_on_page_prev">Indietro</string>
      <string name="find_previous">Trova il precedente</string>
-     <string name="finish_sync_cloud_tabs">Sync finished</string>
+     <string name="finish_sync_cloud_tabs">Sincronizzazione completata</string>
      <string name="firstUsingSearchEngineTips">Cambiare motore di ricerca?</string>
      <string name="fling_on_border_gesture_hint">"Puoi selezionare l'azione per questa gesture nelle Impostazioni"</string>
      <string name="force_quick_search_title">Cerca</string>
@@ -356,8 +356,8 @@ finestra riservata​"</string>
      <string name="homepage_more_cards">Altre schede</string>
      <string name="homepage_more_sites">Altri siti</string>
      <string name="homepage_search_hint">Cerca</string>
-     <string name="homepage_top_card_menu">Top</string>
-     <string name="ignore_add_pwa_dialog_today">Not show today</string>
+     <string name="homepage_top_card_menu">In cima</string>
+     <string name="ignore_add_pwa_dialog_today">Non mostrare oggi</string>
      <string name="in_incognito">"Ora sei in incognito! Le pagine web che visualizzi in questa scheda non appariranno nella cronologia del browser."</string>
      <string name="in_secureaccess">Browser passato in modalità provvisoria</string>
      <string name="isReplacePage">File già esistente, sostituire?</string>
@@ -567,12 +567,12 @@ Sei sicuro di voler abbandonare questa pagina?"</string>
      <string name="pay_failed_toast">Pagamento fallito</string>
      <string name="pay_success_toast">Pagamento eseguito</string>
      <string name="permission_alert_window">"Per utilizzare questa funzione, attiva la visualizzazione delle finestre pop-up."</string>
-     <string name="permission_notification">send you notifications</string>
+     <string name="permission_notification">Invia notifiche</string>
      <string name="permission_unknown">Opzione sconosciuta</string>
-     <string name="permissions_prompt_message">"%s wants to "</string>
+     <string name="permissions_prompt_message">"%s vuole "</string>
      <string name="popup_window_attempt">Consentire al sito di aprire una finestra popup?</string>
      <string name="positive_confirm_message">Disattiva comunque</string>
-     <string name="pref_accept_quicklink_push">Start page push</string>
+     <string name="pref_accept_quicklink_push">Avvia push pagina</string>
      <string name="pref_accessibility">Accessibilità</string>
      <string name="pref_accessibility_title">Accessibilità</string>
      <string name="pref_accessibility_url_shortcut_enter_summary">Combinazioni comuni di lettere possono essere inserite in un colpo solo nella barra degli indirizzi</string>
@@ -690,7 +690,7 @@ Sei sicuro di voler abbandonare questa pagina?"</string>
      <string name="quicklink_cannot_save_url">Questo URL non può essere aggiunto.</string>
      <string name="quicklink_folder_text">App Top</string>
      <string name="quicklink_not_saved">Impossibile aggiungerlo alla pagina iniziale</string>
-     <string name="quicklink_push_confirm_message">Turning this feature off will affect start page push.</string>
+     <string name="quicklink_push_confirm_message">La disattivazione di questa funzione influenzerà il push della pagina iniziale.</string>
      <string name="quicklink_saved">Aggiunto alla pagina iniziale</string>
      <string name="quicklink_saved_before">Sito aggiunto alla pagina iniziale</string>
      <string name="quicklink_user_define_webpage_title">Nome</string>
@@ -713,7 +713,7 @@ Sei sicuro di voler abbandonare questa pagina?"</string>
      <string name="readmode_recommend_message">Hai letto tutti i capitoli di questo libro. Passa alla lettura di un altro.</string>
      <string name="readmode_refresh">Aggiorna</string>
      <string name="readmodelist_bookmarks_to_show">Lista di lettura</string>
-     <string name="refuse_permissions_request">Refuse</string>
+     <string name="refuse_permissions_request">Rifiuta</string>
      <string name="remember_passwords_confirm_message">"La disattivazione di questa funzione potrebbe influire sull'utilizzo."."</string>
      <string name="remove_bookmark">Elimina segnalibro</string>
      <string name="remove_bookmark_group">Cancella gruppo</string>
@@ -803,7 +803,7 @@ Sei sicuro di voler abbandonare questa pagina?"</string>
      <string name="ssl_certificate">Certificato di sicurezza</string>
      <string name="ssl_certificate_is_valid">Questo certificato è valido.</string>
      <string name="ssl_continue">Continua</string>
-     <string name="ssl_date_error_warnings_header">"The certificate of this site has expired or isn't valid yet. You are advised to leave this page."</string>
+     <string name="ssl_date_error_warnings_header">Il certificato di questo sito è scaduto o non è ancora valido. Ti consigliamo di abbandonare questa pagina.</string>
      <string name="ssl_date_invalid">Questo certificato presenta una data non valida.</string>
      <string name="ssl_expired">Il certificato è scaduto.</string>
      <string name="ssl_go_back">Indietro</string>

@@ -39,7 +39,7 @@
      <string name="component_title_wallpaper">Sfondi</string>
      <string name="current_using_desktop_wallpaper_text">Home</string>
      <string name="current_using_lockscreen_wallpaper_text">Schermata di blocco</string>
-     <string name="current_version_incompatible">Incompatibility version</string>
+     <string name="current_version_incompatible">Incompatibilità di versione</string>
      <string name="deleting">Eliminazione…</string>
      <string name="description_author">Autore:</string>
      <string name="description_designer">Designer:</string>
@@ -132,7 +132,7 @@
      <string name="my_gifts_received">Ricevuti</string>
      <string name="no_data">Impossibile collegare alla rete</string>
      <string name="online_no_network">Impossibile connettere alla rete</string>
-     <string name="online_precust_animal">Animal</string>
+     <string name="online_precust_animal">Animali</string>
      <string name="online_precust_asphalt">Asphalt</string>
      <string name="online_precust_building">Building</string>
      <string name="online_precust_cartoon">Cartoon</string>
@@ -154,7 +154,7 @@
      <string name="purchased_list_current">MIUI 9</string>
      <string name="purchased_list_legacy">Vecchie versioni</string>
      <string name="recently_used">Usati di recente</string>
-     <string name="region_not_support">Sorry,Themes is not supported in your area.</string>
+     <string name="region_not_support">Spiacenti, temi non supportati nel tuo Paese.</string>
      <string name="reload">Riprova</string>
      <string name="resource_account_abnormal_state">Errore account, riprovare più tardi.</string>
      <string name="resource_account_fail_to_add">Impossibile aggiungere account!</string>

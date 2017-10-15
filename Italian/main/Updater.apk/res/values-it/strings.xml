@@ -31,7 +31,7 @@
      <string name="boot_recovery">Riavvia in Recovery</string>
      <string name="btn_changelog">Changelog</string>
      <string name="btn_download">Download (%1$s)</string>
-     <string name="btn_error">Error occurred, try again?</string>
+     <string name="btn_error">Si è verificato un errore, provare di nuovo?</string>
      <string name="btn_install">Installa</string>
      <string name="btn_no">Annulla</string>
      <string name="btn_ok">OK</string>
@@ -115,7 +115,7 @@ I dati non verranno cancellati."</string>
      <string name="loading">Caricamento</string>
      <string name="log_share">Condividi</string>
      <string name="log_status_locked_info">Spiacente，Non hai i permessi per accedere al log di aggiornamento</string>
-     <string name="log_status_locked_summary">Prova a loggarti nel sistema con uno Xiaomi ID autorizzato</string>
+     <string name="log_status_locked_summary">Prova ad accedere al sistema con uno Xiaomi ID autorizzato</string>
      <string name="menu_more_button">Menu</string>
      <string name="menu_title_apply_for_alpha">Accedi al programma di beta test</string>
      <string name="menu_title_current_version_log">Riepilogo aggiornamento</string>
@@ -123,8 +123,8 @@ I dati non verranno cancellati."</string>
      <string name="menu_title_pick_rom_file">Seleziona pacchetto di aggiornamento</string>
      <string name="menu_title_recovery">Riavvia in Recovery</string>
      <string name="message">%1$s</string>
-     <string name="message_checkbox">Hide future messages from Xioami.eu team</string>
-     <string name="message_title">NOTE!</string>
+     <string name="message_checkbox">Nascondi messaggi futuri dal team di Miui.it</string>
+     <string name="message_title">NOTA!</string>
      <string name="miui_BBS">" "<a href="http://www.miui.it/forum">Vai sul forum di MIUI Italia</a>" "</string>
      <string name="miui_summary_has_new_version">" È disponibile un aggiornamento  "</string>
      <string name="miui_summary_no_new_version">Nessun aggiornamento disponibile</string>
@@ -145,7 +145,7 @@ I dati non verranno cancellati."</string>
      <string name="no_update">"Hai già installato l'ultimo aggiornamento!"</string>
      <string name="no_wifi_msg">"Non sei più collegato alla rete Wi-Fi. Continuando con l'aggiornamento su rete dati, consumerai il traffico incluso nel tuo piano dati."</string>
      <string name="no_wifi_title">Avviso utilizzo dati</string>
-     <string name="no_xioamieu">"Non stai utilizzando una rom MIUI creata dal team Xiaomi.eu!
+     <string name="no_xioamieu">"Non stai utilizzando una rom MIUI creata dal team Miui.it!
 Nessun aggiornamento sarà disponibile per te!"</string>
      <string name="not_open">Non adesso</string>
      <string name="notif_cancel">Annulla</string>
@@ -295,7 +295,7 @@ Nessun aggiornamento sarà disponibile per te!"</string>
      <string name="user_intertup_download_title">Download aggiornamento in pausa</string>
      <string name="userdata_alert_content">Utilizzare il tuo piano dati per visualizzare video aumenterà il consumo di traffico. Se andrai oltre il limite, il tuo operatore potrebbe addebitartene il costo.</string>
      <string name="userdata_alert_ok">Avvia</string>
-     <string name="userdata_alert_title">Avciso uso dati</string>
+     <string name="userdata_alert_title">Avviso utilizzo dati</string>
      <string name="validate_pkg_failed_msg">"L'aggiornamento che hai scaricato non corrisponde con i nostri dati. Prova a scaricarlo di nuovo."</string>
      <string name="validate_pkg_failed_title">"Impossibile verificare l'aggiornamento"</string>
      <string name="version">Attualmente installato:</string>

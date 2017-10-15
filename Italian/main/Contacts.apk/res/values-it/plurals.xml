@@ -39,8 +39,8 @@
         <item quantity="one">ha squillato %1$d volta</item>
      </plurals>
      <plurals name="cloud_state_unsynced_count">
-        <item quantity="other">%1$dcontatti non sono stati sincronizzati</item>
-        <item quantity="one">%1$dcontatto non è stato sincronizzato</item>
+        <item quantity="other">%1$d contatti non sono stati sincronizzati</item>
+        <item quantity="one">%1$d contatto non è stato sincronizzato</item>
      </plurals>
      <plurals name="confirm_delete_sim_entry_miui">
         <item quantity="other">Eliminare %1$d contatti dalla SIM?</item>
@@ -63,8 +63,8 @@
         <item quantity="one">Sbloccare questo %1$d numero?</item>
      </plurals>
      <plurals name="export_sim_contacts_dialog_message">
-        <item quantity="other">La SIM può ospitare %1$d contatti.</item>
-        <item quantity="one">La SIM può opsitare %1$d contatti.</item>
+        <item quantity="other">La SIM può contenere %1$d contatti.</item>
+        <item quantity="one">La SIM può contenere %1$d contatti.</item>
      </plurals>
      <plurals name="group_add_success_toast">
         <item quantity="other">" %1$d contatti aggiunti"</item>
@@ -88,7 +88,7 @@
      </plurals>
      <plurals name="hint_search_emails">
         <item quantity="other">%1$d email di contatto</item>
-        <item quantity="one">%1$demail di contatto</item>
+        <item quantity="one">%1$d email di contatto</item>
      </plurals>
      <plurals name="hint_search_phone_numbers">
         <item quantity="other">%1$d numeri</item>
@@ -149,7 +149,7 @@
      </plurals>
      <plurals name="pick_recent_list_title">
         <item quantity="other">%1$d contatti recenti</item>
-        <item quantity="one">%1$dcontatto recente</item>
+        <item quantity="one">%1$d contatto recente</item>
      </plurals>
      <plurals name="searchFoundContacts">
         <item quantity="other">%d trovati</item>

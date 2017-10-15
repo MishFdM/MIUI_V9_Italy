@@ -299,7 +299,7 @@ Vuoi abilitare le finestre flottanti?"</string>
      <string name="app_notifications_switch_label">Mostra notifiche</string>
      <string name="app_notifications_title">Notifiche app</string>
      <string name="app_ops_never_used">(Mai utilizzata)</string>
-     <string name="app_ops_permiss_name">App network access</string>
+     <string name="app_ops_permiss_name">Accesso di rete app</string>
      <string name="app_ops_running">In corso</string>
      <string name="app_ops_settings">Op. app</string>
      <string name="app_overlay_permission_preference">Permessi di disegnare su altre app </string>
@@ -1957,11 +1957,11 @@ Quando attivi il backup automatico, il dispositivo e i dati delle applicazioni v
      <string name="later">LATER</string>
      <string name="lattice_smartcover_title">Cover frontale in lattice</string>
      <string name="launch_by_default">Apri predefinita</string>
-     <string name="launch_camera">Launch camera</string>
+     <string name="launch_camera">Apri fotocamera</string>
      <string name="launch_defaults_none">Nessun valore predefinito impostato</string>
      <string name="launch_defaults_some">Alcuni valori predefiniti impostati</string>
-     <string name="launch_google_search">Lancia Google Search</string>
-     <string name="launch_recents">Launch Recents</string>
+     <string name="launch_google_search">Apri Google Search</string>
+     <string name="launch_recents">Apri Recenti</string>
      <string name="launch_voice_assistant">Lancia Assistente Vocale</string>
      <string name="launcher_auto_fill_empty_title">Riempi automaticamente gli spazi vuoti</string>
      <string name="launcher_title">Launcher</string>
@@ -2352,7 +2352,7 @@ Ci sono altri utenti presenti su questo dispositivo.
      <string name="memory_rightvalue">Disponibile: %s</string>
      <string name="memory_settings_title">Memoria</string>
      <string name="memory_size">Spazio totale</string>
-     <string name="memory_summary">Avg %1$s of %2$s memory used</string>
+     <string name="memory_summary">%1$s di %2$s utilizzati</string>
      <string name="memory_title">Disponibile: %1$s\u0009\u0009Totale: %2$s</string>
      <string name="memory_usage">Memoria occupata</string>
      <string name="memory_usage_apps">Memoria usata dalle app</string>
@@ -2391,7 +2391,7 @@ Ci sono altri utenti presenti su questo dispositivo.
      <string name="miui_allow_music">Musica</string>
      <string name="miui_allow_vibrate">Vibrazione</string>
      <string name="miui_data_usage_menu_metered">Hotspot dati cellulare</string>
-     <string name="miui_enable_service_title">The service will perform these actions:</string>
+     <string name="miui_enable_service_title">Il servizio eseguirà le seguenti azioni:</string>
      <string name="miui_experience_optimization">Attiva ottimizzazione MIUI</string>
      <string name="miui_lab_feature_applied">Applicato</string>
      <string name="miui_lab_feature_off">Disattivato</string>
@@ -2588,12 +2588,12 @@ ed esegui il software."</string>
      <string name="no_updates_found">"Stai già usando l'ultima versione di MIUI."</string>
      <string name="no_updates_warning">Nessun aggiornamento disponibile.</string>
      <string name="no_updates_warning2">"Tranquillo, ti avviseremo se c'è un aggiornamento."</string>
-     <string name="no_vr_listeners">No installed apps have requested to be run as VR helper services.</string>
+     <string name="no_vr_listeners">"Nessuna delle app installate ha richiesto l'esecuzione come servizio di aiuto VR."</string>
      <string name="noise_suppression">Soppressione del rumore ambientale</string>
      <string name="normal">Normale</string>
      <string name="normal_info">Tutto il volume è normalizzato</string>
      <string name="normal_smartcover_title">Cover frontale opaca</string>
-     <string name="not_battery_optimizing">Not using battery optimization</string>
+     <string name="not_battery_optimizing">Ottimizzazione batteria non utilizzata</string>
      <string name="not_installed">Non installata</string>
      <string name="notes_privacy_password_role_instruction">Le tue note private verranno archiviate qui.</string>
      <string name="notification_app_settings_button">Impostazioni di notifica</string>
@@ -2643,8 +2643,8 @@ ed esegui il software."</string>
      <string name="notification_log_no_title">(nessuno)</string>
      <string name="notification_log_title">Log di notifica</string>
      <string name="notification_pulse_title">LED di notifica</string>
-     <string name="notification_reboot_btn">Reboot</string>
-     <string name="notification_reboot_summary_hm">Tap to reboot your device.</string>
+     <string name="notification_reboot_btn">Riavvia</string>
+     <string name="notification_reboot_summary_hm">Tocca per riavviare il tuo dispositivo.</string>
      <string name="notification_reboot_title">Reboot to apply update</string>
      <string name="notification_reboot_title_hm">Reboot to apply update</string>
      <string name="notification_ringtone_title">Suoneria notifiche predefinita</string>

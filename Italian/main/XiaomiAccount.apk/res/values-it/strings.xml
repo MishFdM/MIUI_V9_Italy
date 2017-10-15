@@ -267,8 +267,8 @@ Per attivare il tuo account, segui il
      <string name="passport_login_instead_reg_with_email">Utilizza questa email</string>
      <string name="passport_login_other_account">Accedi con un altro account</string>
      <string name="passport_login_prompt">Un Mi Account. Tutti i servizi Mi.</string>
-     <string name="passport_login_recycle_account_no">Nope</string>
-     <string name="passport_login_recycle_account_yes">Yes</string>
+     <string name="passport_login_recycle_account_no">No</string>
+     <string name="passport_login_recycle_account_yes">Sì</string>
      <string name="passport_login_title">Accedi al tuo Mi Account</string>
      <string name="passport_login_using_other_ways"><u>Altre modalità di accesso</u></string>
      <string name="passport_message_dialog_title">SMS con codici di verifica</string>

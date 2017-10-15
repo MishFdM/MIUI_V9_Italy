@@ -82,8 +82,8 @@
      <string name="new_group_name">Modalità ospite</string>
      <string name="no_applications">Vuoto</string>
      <string name="none">Nessun processo</string>
-     <string name="nonui_mode_config_description">"Don't light up screen for notifications, turn off notification light, fingerprint, and touch controls when your device is in a pocket."</string>
-     <string name="nonui_mode_config_title">Noninteractive mode</string>
+     <string name="nonui_mode_config_description">"Non attivare lo schermo al ricevimento delle notifiche, disattiva la luce per le notifiche, impronte e tasti touch quando il dispositivo è in tasca."</string>
+     <string name="nonui_mode_config_title">Modalità non interattiva</string>
      <string name="normal">Modalità predefinita</string>
      <string name="operation_create_group">Nome</string>
      <string name="operation_create_group_message">Inserisci il nome del nuovo gruppo</string>
@@ -95,7 +95,7 @@
      <string name="power_checker_mobile_radio_title">%1$s accesso alla rete di frequente</string>
      <string name="power_checker_multi_apps_title">%2$s app consumano eccessivamente batteria</string>
      <string name="power_checker_notify_summary">Termina le app che consumano in modo eccessivo</string>
-     <string name="power_checker_partial_wakelock_multi_apps_title">%1$s evita la sospesione di sitema</string>
+     <string name="power_checker_partial_wakelock_multi_apps_title">%1$s evita la sospensione di sistema</string>
      <string name="power_checker_partial_wakelock_title">%1$s evita sospensione di sistema</string>
      <string name="power_checker_recent_btn_title">Impostazioni batteria</string>
      <string name="power_checker_recent_group_title">Recenti</string>

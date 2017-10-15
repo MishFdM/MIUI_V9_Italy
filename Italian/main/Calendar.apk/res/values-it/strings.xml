@@ -145,9 +145,9 @@
      <string name="edit_event_tab_event">Evento</string>
      <string name="edit_event_to_label">A</string>
      <string name="email_guests_label">Email ospiti</string>
-     <string name="email_install_hint">Email has been uninstalled. By reinstalling it, you can restore calendar account data or add new account.</string>
+     <string name="email_install_hint">"Email disinstallata. Reinstallandola, puoi ripristinare i dati dell'account Calendario o aggiungere un nuovo account."</string>
      <string name="email_picker_label">Email con</string>
-     <string name="email_subject_prefix">"Re: "</string>
+     <string name="email_subject_prefix">"R: "</string>
      <string name="empty_event">Evento vuoto non creato</string>
      <string name="event_account">Account calendario</string>
      <string name="event_action_delete">Elimina</string>
@@ -204,9 +204,9 @@
      <string name="insert_event_dialog_title">Attenzione</string>
      <string name="insert_event_toast_add_failed">Non aggiunto</string>
      <string name="insert_event_toast_add_success">Evento creato</string>
-     <string name="install_email_app">Install email</string>
-     <string name="install_email_finished">Email Installed</string>
-     <string name="installing_email">Installing...</string>
+     <string name="install_email_app">Installa email</string>
+     <string name="install_email_finished">Email installata</string>
+     <string name="installing_email">Installazione...</string>
      <string name="jump_date_full">Vai alla data</string>
      <string name="load_more_hint">Aggiorna gli eventi di %1$d</string>
      <string name="loading">Caricamento…</string>

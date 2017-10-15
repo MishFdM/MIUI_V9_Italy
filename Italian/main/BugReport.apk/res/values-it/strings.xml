@@ -21,9 +21,9 @@
      <string name="cta_dialog_content">Questa applicazione deve connettersi ad Internet regolarmente.</string>
      <string name="cta_dialog_title">Connessione Internet</string>
      <string name="cta_not_show_again">Non chiedere più</string>
-     <string name="customer_service_apply">Request customer service</string>
-     <string name="customer_service_complain">Report customer service</string>
-     <string name="customer_service_station">Service locations</string>
+     <string name="customer_service_apply">Richiesta servizio clienti</string>
+     <string name="customer_service_complain">Segnala servizio clienti</string>
+     <string name="customer_service_station">Posizioni servizio</string>
      <string name="default_text_view">TextView</string>
      <string name="description">Descrizione problema</string>
      <string name="dialog_ask_delete">Elimina</string>
