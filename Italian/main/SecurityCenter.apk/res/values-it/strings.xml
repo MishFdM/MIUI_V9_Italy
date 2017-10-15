@@ -349,7 +349,7 @@ se se dimenticata"</string>
      <string name="battery_charging_prompt">In carica</string>
      <string name="battery_desc_apps">Batteria utilizzata dalle app</string>
      <string name="battery_desc_bluetooth">Batteria utilizzata da Bluetooth</string>
-     <string name="battery_desc_display">Batteria utilizzata da Display</string>
+     <string name="battery_desc_display">Batteria utilizzata dallo Schermo</string>
      <string name="battery_desc_other_apps">Batteria utilizzata da altre app</string>
      <string name="battery_desc_radio">Batteria utilizzata da Segnale cellulare</string>
      <string name="battery_desc_standby">Batteria utilizzata in Standby</string>
@@ -1338,7 +1338,7 @@ Questa attività riduce la durata della batteria."</string>
      <string name="power_save_on_time_start_time_summary_na">Da</string>
      <string name="power_save_summary_text">Attivando il risparmio batteria verranno ridotte le attività in background delle app, le sincronizzazioni e le animazioni di sistema.</string>
      <string name="power_save_title_text">Risparmio batteria</string>
-     <string name="power_screen">Display</string>
+     <string name="power_screen">Schermo</string>
      <string name="power_settings_category_title">Indicatore batteria</string>
      <string name="power_settings_number">Percentuale</string>
      <string name="power_settings_saver_title">Risparmio energetico</string>
