@@ -280,7 +280,7 @@
      <string name="trans_intro_desc_5">Esistono molte ragioni per cui potrebbe accadere: problemi di compatibilità di sistema o versione app, problemi di rete, specifici problemi di compatibilità con alcuni dispositivi, etc.</string>
      <string name="trans_intro_desc_6">"I profili di alcune app (e-banking, finanza, etc.) sono associate con specifici dettagli per ragioni di sicurezza. Prova cancellando i dati dell'app o reinstallando l'app su di un nuovo dispositivo."</string>
      <string name="trans_intro_desc_7">"I dati e la cronologia delle chat di WeChat potrebbero non venire trasferite completamente tramite Mi Mover. Vai nelle impostazioni di WeChat ed esci dal tuo account per avere più possibilità di un corretto trasferimento."</string>
-     <string name="trans_intro_desc_account">Devi eseguire di nuovo l'accesso ai tuoi account (e.g., Mi Account, Exchange, Google, etc.) su di un nuovo dispositivo per ragioni di sicurezza.</string>
+     <string name="trans_intro_desc_account">"Devi eseguire di nuovo l'accesso ai tuoi account (e.g., Mi Account, Exchange, Google, etc.) su di un nuovo dispositivo per ragioni di sicurezza."</string>
      <string name="trans_intro_desc_multiapp">"Mi Mover non trasferisce i dati delle app clonate per evitare conflitti tra i file"</string>
      <string name="trans_intro_desc_multiuser">"Mi Mover non ha accesso agli elementi presenti nello spazio Secondario. Sposta gli elementi nello spazio Primario e lancia Mi Mover."</string>
      <string name="trans_intro_desc_new">"Tap \"Sono il ricevente\". Verrà generato un codice QR."</string>
