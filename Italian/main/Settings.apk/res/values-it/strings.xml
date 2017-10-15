@@ -52,7 +52,7 @@
      <string name="accessibility_display_daltonizer_preference_title">Correzione colore</string>
      <string name="accessibility_display_inversion_preference_subtitle">(Sperimentale) Potrebbe influire sulle prestazioni</string>
      <string name="accessibility_display_inversion_preference_title">Inversione colore</string>
-     <string name="accessibility_display_title">Display</string>
+     <string name="accessibility_display_title">Schermo</string>
      <string name="accessibility_enable">Accessibilità</string>
      <string name="accessibility_feature_state_off">Disattivato</string>
      <string name="accessibility_feature_state_on">Attivato</string>
@@ -427,7 +427,7 @@ Vuoi abilitare le finestre flottanti?"</string>
      <string name="battery_desc_apps">"Batteria utilizzata dall'applicazione"</string>
      <string name="battery_desc_bluetooth">Batteria utilizzata da Bluetooth</string>
      <string name="battery_desc_camera">Batteria utilizzata dalla fotocamera</string>
-     <string name="battery_desc_display">Batteria utilizzata da display e retroilluminazione</string>
+     <string name="battery_desc_display">Batteria utilizzata dallo schermo e retroilluminazione</string>
      <string name="battery_desc_flashlight">Batteria utilizzata dalla torcia</string>
      <string name="battery_desc_overcounted">Carica sovracalcolata</string>
      <string name="battery_desc_radio">Batteria utilizzata dal segnale cellulare</string>
@@ -943,7 +943,7 @@ La trasmissione utilizza segnali Bluetooth a bassa potenza."</string>
      <string name="color_purple">Porpora</string>
      <string name="color_red">Rosso</string>
      <string name="color_temperature">Temperatura colore fredda</string>
-     <string name="color_temperature_desc">Usa colori display più freddi</string>
+     <string name="color_temperature_desc">Usa colori più freddi</string>
      <string name="color_temperature_toast">Per applicare la modifica disattiva lo schermo</string>
      <string name="color_title">Colore</string>
      <string name="color_unspecified">Predefinito</string>
@@ -1338,7 +1338,7 @@ avviso"</string>
      <string name="display_label">Schermo</string>
      <string name="display_order_text">Ordina per:</string>
      <string name="display_preview_label">Anteprima:</string>
-     <string name="display_settings">Display</string>
+     <string name="display_settings">Schermo</string>
      <string name="display_settings_title">Schermo</string>
      <string name="display_summary_off">La luminosità adattiva è disattivata</string>
      <string name="display_summary_on">La luminosità adattiva è attivata</string>
@@ -2705,7 +2705,7 @@ ed esegui il software."</string>
      <string name="other_personal_settings">Impostazioni aggiuntive</string>
      <string name="other_relative">Altri permessi</string>
      <string name="other_sound_settings">Altri suoni</string>
-     <string name="overlay_display_devices_title">Simula display secondari</string>
+     <string name="overlay_display_devices_title">Simula schermi secondari</string>
      <string name="overlay_settings">Disegno sopra ad altre app</string>
      <string name="owner_info_settings_edit_text_hint">Testo da visualizzare sulla Schermata di blocco</string>
      <string name="owner_info_settings_summary" />
@@ -3424,7 +3424,7 @@ Come usare Mantieni su schermo:
      <string name="search_development_settings_title">Opzioni sviluppatore;Assistito</string>
      <string name="search_device_name">Nome dispositivo</string>
      <string name="search_device_status">Stato</string>
-     <string name="search_display_settings">Display;Schermo;Luce ambientale;Tasca;Composizione in tasca;Temperatura colore;Colore;Colori;Saturazione;Auto-rotazione;Auto rotazione;Auto rotazione;Ruota schermo;Luminosità;Font;Font;Grandezza font</string>
+     <string name="search_display_settings">Schermo;Schermo;Luce ambientale;Tasca;Composizione in tasca;Temperatura colore;Colore;Colori;Saturazione;Auto-rotazione;Auto rotazione;Auto rotazione;Ruota schermo;Luminosità;Font;Font;Grandezza font</string>
      <string name="search_dndm_alarm_content">Eccezioni</string>
      <string name="search_dndm_auto_button_title">Imposta orario</string>
      <string name="search_dndm_auto_time_setting">Imposta tempo</string>
@@ -4824,11 +4824,11 @@ Aggiungi una parola toccando il tasto +."</string>
      <string name="wifi_disconnected_notification_summary">Non sei connesso alla rete Wi-Fi.</string>
      <string name="wifi_disconnected_notification_title">Wi-Fi disconnesso</string>
      <string name="wifi_display_autonomous_go">Abilita GO autonomo</string>
-     <string name="wifi_display_certification">Certificazione display wireless</string>
+     <string name="wifi_display_certification">Certificazione schermo wireless</string>
      <string name="wifi_display_certification_heading">Certificazione</string>
-     <string name="wifi_display_certification_summary">Mostra opzioni per la certificazione Display wireless</string>
+     <string name="wifi_display_certification_summary">Mostra opzioni per la certificazione schermo wireless</string>
      <string name="wifi_display_details">Impostazioni di visualizzazione</string>
-     <string name="wifi_display_enable_menu_item">Attiva display wireless</string>
+     <string name="wifi_display_enable_menu_item">Attiva schermo wireless</string>
      <string name="wifi_display_listen_channel">"Canale d'ascolto"</string>
      <string name="wifi_display_listen_mode">Abilità modalità ascolto</string>
      <string name="wifi_display_no_devices_found">Nessun dispositivo Bluetooth vicino.</string>
