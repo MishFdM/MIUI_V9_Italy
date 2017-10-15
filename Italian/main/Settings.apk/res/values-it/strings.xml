@@ -3361,11 +3361,11 @@ Come usare Mantieni su schermo:
      <string name="sd_mount_summary" />
      <string name="sdcard_changes_instructions">Le modifiche verranno applicate quando verrà ricollegato il cavo USB.</string>
      <string name="sdcard_format">Formatta scheda SD</string>
-     <string name="sdcard_optimization">emulated sdcard optimization</string>
-     <string name="sdcard_optimization_cancel">Cancel</string>
-     <string name="sdcard_optimization_close">Turn off &amp; reboot</string>
-     <string name="sdcard_optimization_open">Turn on</string>
-     <string name="sdcard_optimization_summary">read and write sdcard more faster</string>
+     <string name="sdcard_optimization">Emula ottimizzazione SD Card</string>
+     <string name="sdcard_optimization_cancel">Annulla</string>
+     <string name="sdcard_optimization_close">Disattiva e riavvia</string>
+     <string name="sdcard_optimization_open">Attiva</string>
+     <string name="sdcard_optimization_summary">La lettura e scrittura della SD Card sono più veloci</string>
      <string name="sdcard_setting">Archivio USB</string>
      <string name="sdcard_settings_available_bytes_label">Byte disponibili:</string>
      <string name="sdcard_settings_bad_removal_status">Archivio USB rimosso quando ancora in uso.</string>

@@ -206,7 +206,7 @@
  "&lt;li&gt;Limitazione dati in background delle app&lt;/li&gt;"
 
  You will not lose any app data."</string>
-     <string name="app_manager_reset_app_preferences_title">Reset app preferences?</string>
+     <string name="app_manager_reset_app_preferences_title">Ripristina le preferenze applicazioni?</string>
      <string name="app_manager_show_all_apps">Mostra tutte le app</string>
      <string name="app_manager_show_detail_infos">Mostra tutto</string>
      <string name="app_manager_sort">Ordinato per</string>
@@ -249,8 +249,8 @@
 se se dimenticata"</string>
      <string name="applock_add_account_setting">Account e privacy</string>
      <string name="applock_bind_account_title">Ripristino della password</string>
-     <string name="applock_close_dialog_summary">Le app non saranno più protette e la tua password verrà eliminata dopo la disattivazione di App lock.</string>
-     <string name="applock_close_dialog_title">Disattivare App lock?</string>
+     <string name="applock_close_dialog_summary">Le app non saranno più protette e la tua password verrà eliminata dopo la disattivazione del Blocco applicazioni.</string>
+     <string name="applock_close_dialog_title">Disattivare Il Blocco applicazioni?</string>
      <string name="applock_exit_account_info">"L'account verrà rimosso automaticamente quando esegui il logout"</string>
      <string name="applock_header_text_less_than_half">Spazio insufficiente per questa app. Sposta il separatore.</string>
      <string name="applock_login_and_add_account">Accedi e aggiungi</string>
