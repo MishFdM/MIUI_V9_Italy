@@ -3889,7 +3889,7 @@ Questo è reso possibile da credenziali attendibili installate sul tuo dispositi
      <string name="status_bar_app_enable_message">Badge</string>
      <string name="status_bar_key_position_custom">Personalizza posizione tasti</string>
      <string name="status_bar_notification_info_overflow">999+</string>
-     <string name="status_bar_screen_button_force_immersive_desc">Scorri da basso verso l'altro dello schermo per mostrare i tasti virtuali</string>
+     <string name="status_bar_screen_button_force_immersive_desc">"Scorri da basso verso l'altro dello schermo per mostrare i tasti virtuali"</string>
      <string name="status_bar_screen_button_key">Tasti virtuali su schermo</string>
      <string name="status_bar_screen_button_key_force_immersive">Nascondi tasti virtuali</string>
      <string name="status_bar_screen_key_back">Tasto indietro</string>
@@ -4180,7 +4180,7 @@ L'approccio di Google alla sincronizzazione di dati per consentirti l'accesso ai
      <string name="tether_devices_management_title">Gestisci dispositivi</string>
      <string name="tether_devices_max_number">Limite di dispositivi collegati</string>
      <string name="tether_settings_disabled">"L'hotspot personale è disattivato"</string>
-     <string name="tether_settings_disabled_on_data_saver">Impossibile utilizzare il tethering o utilizzare l'hotspot portatile mentre il risparmio batteria è attivo</string>
+     <string name="tether_settings_disabled_on_data_saver">"Impossibile utilizzare il tethering o utilizzare l'hotspot portatile mentre il risparmio batteria è attivo"</string>
      <string name="tether_settings_launch_title">Mobile HotSpot</string>
      <string name="tether_settings_title_all">Hotspot personale</string>
      <string name="tether_settings_title_bluetooth">Tethering Bluetooth</string>
@@ -5267,7 +5267,7 @@ La configurazione del dispositivo può richiedere notevole attività di rete."</
      <string name="zen_mode_rule_type">Tipo di regola</string>
      <string name="zen_mode_rule_type_unknown">Sconosciuto</string>
      <string name="zen_mode_schedule_alarm_summary">Interrompi alla fine o alla prossima sveglia, in base a quale dei due si verifica prima</string>
-     <string name="zen_mode_schedule_alarm_title">La sveglia può prevaricare sull'orario di fine</string>
+     <string name="zen_mode_schedule_alarm_title">"La sveglia può prevaricare sull'orario di fine"</string>
      <string name="zen_mode_schedule_rule_days">Giorni</string>
      <string name="zen_mode_schedule_rule_days_all">Ogni giorno</string>
      <string name="zen_mode_schedule_rule_days_none">Nessuna</string>
