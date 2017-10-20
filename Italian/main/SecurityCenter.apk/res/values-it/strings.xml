@@ -349,7 +349,7 @@ se se dimenticata"</string>
      <string name="battery_charging_prompt">In carica</string>
      <string name="battery_desc_apps">Batteria utilizzata dalle app</string>
      <string name="battery_desc_bluetooth">Batteria utilizzata da Bluetooth</string>
-     <string name="battery_desc_display">Batteria utilizzata da Display</string>
+     <string name="battery_desc_display">Batteria utilizzata dallo Schermo</string>
      <string name="battery_desc_other_apps">Batteria utilizzata da altre app</string>
      <string name="battery_desc_radio">Batteria utilizzata da Segnale cellulare</string>
      <string name="battery_desc_standby">Batteria utilizzata in Standby</string>
@@ -693,6 +693,7 @@ se se dimenticata"</string>
      <string name="firewall_rule_group_title_wifi">Wi-Fi</string>
      <string name="firewall_wifi_dialog_message">"L'app installata non potrà collegarsi a internet utilizzando la rete Wi-Fi quanto questa funzione è disattivata.​"</string>
      <string name="five_percent_total_pkg">%s (5%% di dati mensili)</string>
+     <string name="forbid_autobright_title">Fix screen brightness</string>
      <string name="foreground_traffic">Primo piano %s</string>
      <string name="forget_password_button_text"><u>Password dimenticata</u></string>
      <string name="forget_password_button_text_normal">Password dimenticata</string>
@@ -711,7 +712,10 @@ se se dimenticata"</string>
      <string name="game_anti_disturb_msg">Game DND</string>
      <string name="game_booster">Game Speed Booster</string>
      <string name="game_booster_intro">Informazioni su Game Speed Booster</string>
+     <string name="game_booster_jump_webview">Just a sec…</string>
+     <string name="game_booster_tab_top">Top</string>
      <string name="game_booster_title">Accelera</string>
+     <string name="game_bootser_tab_settings">Booster settings</string>
      <string name="game_improve_text1">Cancella la cache in background e libera memoria per il gioco</string>
      <string name="game_improve_text2">Cancella la cache in background e libera memoria per il gioco migliorando le prestazioni della CPU</string>
      <string name="game_improve_title">Ottimizza le prestazioni</string>
@@ -720,6 +724,8 @@ se se dimenticata"</string>
      <string name="game_net_text2">"Migliora la velocità di connessione di gioco mentre limita la velocità di download in background per diminuire la latenza</string>
      <string name="game_net_title">Ottimizza velocità di connessione</string>
      <string name="game_setting">Impostazioni di gioco</string>
+     <string name="gamebooster_lowbattery_notification_summary">Charge your device before it turns off.</string>
+     <string name="gamebooster_lowbattery_notification_title">Battery is lower than 5%%</string>
      <string name="gamebooster_main_activity_back">Back Game Speed Booster</string>
      <string name="gamebooster_network_dialog_message">"Consentire all'app Sicurezza di collegarsi alla rete per poter utilizzare tutte le funzioni di Game speed booster?"</string>
      <string name="gamebooster_network_dialog_title">Alcune funzioni non sono disponibili</string>
@@ -736,8 +742,11 @@ se se dimenticata"</string>
      <string name="gs_app_back_self_start">Risparmio batteria</string>
      <string name="gs_auto_clean_memory">Cancella cache</string>
      <string name="gs_auto_clean_memory_detail">Cancella automaticamente la cache per ottimizzare il gioco</string>
+     <string name="gs_call_handsfree">Answer calls hands free</string>
+     <string name="gs_call_handsfree_mute">Silent mode</string>
      <string name="gs_dialog_confirm_close_msg">La scorciatoia verrà rimossa dalla Home. Vai su Sicurezza > Impostazioni per ripristinare.</string>
      <string name="gs_dialog_confirm_close_title">Disattiva</string>
+     <string name="gs_forbid_autosync">Restrict background sync</string>
      <string name="gs_game_disturb_msg">DND</string>
      <string name="gs_game_duration">Time</string>
      <string name="gs_game_net_priority">Priorità di connessione</string>
@@ -818,6 +827,7 @@ se se dimenticata"</string>
      <string name="keywords_auto_restart">Avvio automatico; Permessi;Avvio automatico;Avvio automatico; Gestione avvio automatico; Avvio automatico MIUI; Avvio automatico app; Avvio automatico app;Avvio catena;Avvio concatenato;Avvio innescato</string>
      <string name="keywords_buy_flow">dati;dati mobili;acquista credito;acquista credito mobile;riempimento dati;piano dati</string>
      <string name="keywords_cleanmaster">Cestino;Pulisci;Velocità;Memoria;Cache</string>
+     <string name="keywords_gamebooster">Game;speed booster;Glory of the king;Performance mode;DND</string>
      <string name="keywords_networkassistant_1">Dati;Traffico</string>
      <string name="keywords_networkassistant_2">Dati;Calibra</string>
      <string name="keywords_networkassistant_4">Connessione;Internet;Test</string>
@@ -1032,6 +1042,7 @@ dall'operatore"</string>
      <string name="name">Nome</string>
      <string name="net_booster">Accelera velocità di rete</string>
      <string name="net_booster_expire_notification">La sessione di accelerazione velocità di rete sta per terminare</string>
+     <string name="net_booster_expire_notification_tip">%d d remaining before Network speed boost session ends. Renew the session to avoid network speed problems.</string>
      <string name="net_booster_overdue_notification">La sessione di accelerazione di velocità di rete sta per terminare</string>
      <string name="net_booster_overdue_notification_tip">La sessione di accelerazione di velocità di rete terminerà presto. Rinnovare la sessione?</string>
      <string name="net_booster_tip">"Attiva l'accelerazione di velocità di rete per rendere la connessione Wi-Fi più stabile e ridurre il ritardo di rete."</string>
@@ -1246,6 +1257,7 @@ Questa attività riduce la durata della batteria."</string>
      <string name="path_auto_restart">App di sistema/Sicurezza/Permessi/Gestione avvio automatico</string>
      <string name="path_buy_flow">Applicazioni di sistema/Sicurezza/Utilizzo dati/Acquista credito mobile</string>
      <string name="path_cleanmaster">Applicazioni di sistema/Sicurezza/Pulizia</string>
+     <string name="path_gamebooster">System apps/Security/Game speed booster</string>
      <string name="path_networkassistant_1">Applicazioni di sicurezza/Sicurezza/Assistente di rete</string>
      <string name="path_networkassistant_2">Applicazioni di sistema/Sicurezza/Assistente di rete</string>
      <string name="path_networkassistant_4">Applicazioni di sistema/Sicurezza/Assistente di rete/Test di rete</string>
@@ -1338,7 +1350,7 @@ Questa attività riduce la durata della batteria."</string>
      <string name="power_save_on_time_start_time_summary_na">Da</string>
      <string name="power_save_summary_text">Attivando il risparmio batteria verranno ridotte le attività in background delle app, le sincronizzazioni e le animazioni di sistema.</string>
      <string name="power_save_title_text">Risparmio batteria</string>
-     <string name="power_screen">Display</string>
+     <string name="power_screen">Schermo</string>
      <string name="power_settings_category_title">Indicatore batteria</string>
      <string name="power_settings_number">Percentuale</string>
      <string name="power_settings_saver_title">Risparmio energetico</string>
@@ -1473,6 +1485,7 @@ Questa attività riduce la durata della batteria."</string>
      <string name="resource_auto_restart">Gestione avvio automatico</string>
      <string name="resource_buy_flow">Acquista credito mobile</string>
      <string name="resource_cleanmaster">Pulizia</string>
+     <string name="resource_gamebooster">Game speed booster</string>
      <string name="resource_networkassistant_1">Utilizzo dati</string>
      <string name="resource_networkassistant_2">Calibra piano dati</string>
      <string name="resource_networkassistant_4">Test di rete</string>
@@ -1853,6 +1866,8 @@ Questa attività riduce la durata della batteria."</string>
      <string name="text_button">OK</string>
      <string name="text_cycle_day">%s</string>
      <string name="text_day" />
+     <string name="thermal_tips_message">Playing games in the Performance mode may lead to overheating issues.</string>
+     <string name="thermal_tips_title">Attention</string>
      <string name="third_application">App di terze parti</string>
      <string name="three_percent_total_pkg">%s (3%% di dati mensili)</string>
      <string name="timeshow_h">%.1f o</string>

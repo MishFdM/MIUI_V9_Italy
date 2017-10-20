@@ -6,7 +6,7 @@
      <string name="action_search">Cerca</string>
      <string name="address">Indirizzo:</string>
      <string name="allow_check_website_security">Mostra pagina web di controllo sicurezza notifiche</string>
-     <string name="app_description_content">"Scanner può scansionare codici QR, carte di attività commerciali, e documenti. Assicurati di poter fare ciò che ti occorre senza quest'app prima di rimuoverla."</string>
+     <string name="app_description_content">"Scanner può scansionare codici QR, biglietti da visita, e documenti. Assicurati di poter fare ciò che ti occorre senza quest'app prima di rimuoverla."</string>
      <string name="app_description_title">Info su Scanner</string>
      <string name="app_details">App:</string>
      <string name="app_name">Scanner</string>
@@ -90,7 +90,7 @@
      <string name="impunity_declaration_title">Termini di servizio</string>
      <string name="keywords_search_code">Scanner;Scansione;codice QR;QR;Riconoscimento;Codice a barre;Codici a barre;Prodotto;Prodotti;Alipay;WeChat;Come scansionare un codice QR;Come scansionare un codice a barre;Come scansionare;MIUI Scanner</string>
      <string name="keywords_search_document">Scanner;Scansiona documento;Scansiona documenti;OCR;Scansiona testo;Scansiona</string>
-     <string name="keywords_search_namecard">Scanner;Carta attività commerciale;Carte attività commerciali;Scansiona;Scansiona carte;Carta;Carte;Contatti;Contatto</string>
+     <string name="keywords_search_namecard">Scanner;Biglietto da visita;Biglietti da visita;Scansiona;Scansiona biglietti;Biglietto;Biglietti;Contatti;Contatto</string>
      <string name="keywords_search_settings">Scanner;Impostazioni di rete Scanner</string>
      <string name="keywords_search_shopping">Shopping;Scanner;Scansiona prodotti;Scansiona prodotto;Controlla prezzo;Prodotti;Taobao;Tmall;Prezzi;Shopping online</string>
      <string name="keywords_search_study">Scanner;Problemi;Risolvi problemi;Compiti;Scuola;Fisica;Chimica;Matematica;Algebra;Inglese;Storia;Cinese</string>
@@ -117,14 +117,14 @@
      <string name="low_version_tip">La versione della MIUI è troppo vecchia. Aggiorna la MIUI per usare Scanner.</string>
      <string name="module_title_code">Codice QR</string>
      <string name="module_title_document">Documento</string>
-     <string name="module_title_namecard">Carta attività commerciale</string>
+     <string name="module_title_namecard">Biglietto da visita</string>
      <string name="module_title_shopping">Shopping</string>
      <string name="module_title_study">Studio</string>
      <string name="module_title_translation">Traduci</string>
      <string name="name">Nome:</string>
-     <string name="namecard_recognize_failed_tip">Impossibile leggere la carta</string>
+     <string name="namecard_recognize_failed_tip">Impossibile leggere il biglietto</string>
      <string name="namecard_recognizing">Lettura…</string>
-     <string name="namecard_title">"Poni la carta all'interno della cornice"</string>
+     <string name="namecard_title">"Poni il biglietto all'interno della cornice"</string>
      <string name="namecard_vendor_info">Powered by CamCard</string>
      <string name="nickname">Nickname:</string>
      <string name="no_network">Impossibile connettersi alla rete</string>
@@ -147,9 +147,9 @@
      <string name="previous">Indietro</string>
      <string name="qr_code_details">Dettagli codice QR:</string>
      <string name="recognition_error_download_cancel">Dopo</string>
-     <string name="recognition_error_download_data_msg">Scarica motore di riconoscimento per scansionare carte. La sua dimensione è di circa 15MB. Utilizzare dati mobili per scaricare?</string>
+     <string name="recognition_error_download_data_msg">Scarica motore di riconoscimento per scansionare biglietti. La sua dimensione è di circa 15MB. Utilizzare dati mobili per scaricare?</string>
      <string name="recognition_error_download_fail">Impossibile scaricare motore di riconoscimento</string>
-     <string name="recognition_error_download_msg">Scarica motore di riconoscimento per scansionare carte. La sua dimensione è di circa 15MB.</string>
+     <string name="recognition_error_download_msg">Scarica motore di riconoscimento per scansionare biglietti. La sua dimensione è di circa 15MB.</string>
      <string name="recognition_error_download_no_network">Impossibile scaricare. Assicurati di essere connesso ad una rete funzionante.</string>
      <string name="recognition_error_download_ok">Download</string>
      <string name="recognition_error_download_success">Download riuscito</string>

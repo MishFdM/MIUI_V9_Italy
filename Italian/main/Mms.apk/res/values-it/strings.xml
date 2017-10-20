@@ -304,9 +304,6 @@
      <string name="mx_activate_status_desc_query_activte_info">Verifica informazioni SIM…</string>
      <string name="mx_activate_status_desc_request_activation_sms_phone_error">Il numero inserito non è valido</string>
      <string name="mx_activate_status_desc_wait_for_sms_fail">Impossibile attivare Mi Message</string>
-     <string name="mx_and_voip_enable">Mi Message e Voce</string>
-     <string name="mx_and_voip_enable_popup_msg">"Invia messaggi e chiama gratuitamente altri utenti MIUI. Servizio VoIP fornito da Weihui. Leggi l'Informativa sulla Privacy di Weihui."</string>
-     <string name="mx_and_voip_enable_popup_msg2">Informativa sulla Privacy</string>
      <string name="mx_auto_resend_mms">Reinvio automatico MMS</string>
      <string name="mx_auto_resend_mms_summary">"Invia un MMS quando i messaggi Mi Cloud non sono disponibili. Verranno applicate le tariffe previste dall'operatore"</string>
      <string name="mx_auto_resend_sms">Invia come SMS</string>
@@ -318,7 +315,6 @@
      <string name="mx_dspt">"Invia messaggi tramite Internet tra MIUI, l'attivazione per invio tramite Operatore è fallita una volta"</string>
      <string name="mx_dspt_listview">Invia messaggi ad altri dispositivi MIUI gratuitamente</string>
      <string name="mx_dspt_provision">Mi Message ti consente di inviare messaggi ad altri utenti MIUI senza costi aggiuntivi. Il tuo operatore potrebbe addebitarti il costo di un SMS, necessario per attivare il servizio.</string>
-     <string name="mx_dspt_provision_ex">"Invia messaggi e chiama altri utenti MIUI senza costi aggiuntivi dal tuo operatore. VoIP supportato da Weihui. Leggi l'Informativa sulla Privacy di Weihui."</string>
      <string name="mx_dspt_provision_ex2">Informativa sulla Privacy</string>
      <string name="mx_enable">Mi Message</string>
      <string name="mx_enable_ex">Mi Message e Voce</string>
@@ -404,7 +400,6 @@
      <string name="pref_summary_mms_read_reports">Richiedi conferma di lettura per ogni messaggio inviato</string>
      <string name="pref_summary_mms_retrieval_during_roaming">Prova automaticamente a reinviare il messaggio in roaming</string>
      <string name="pref_summary_notification_body_enabled">"Mostra un'anteprima nella schermata di blocco e nella barra di stato"</string>
-     <string name="pref_summary_notification_body_enabled_when_secure">"L'anteprima dei messaggi è disabilitata quando l'accesso ha restrizioni"</string>
      <string name="pref_summary_off_system_mms_priority">"Utilizza un'applicazione di terze parti per inviare/ricevere messaggi"</string>
      <string name="pref_summary_on_system_mms_priority">"L'applicazione di sistema Messaggi riceverà messaggi per prima"</string>
      <string name="pref_summary_send_delivery_reports">Invia rapporto di consegna per i messaggi ricevuti</string>
@@ -653,9 +648,6 @@
      <string name="view">Visualizza</string>
      <string name="view_bookmark">Mostra messaggio originale</string>
      <string name="view_message_details">Mostra dettagli</string>
-     <string name="voip_enable">Mi Message e Voce</string>
-     <string name="voip_enable_popup_msg">"Chiama gratuitamente altri utenti MIUI. Servizio VoIP fornito da Weihui. Leggi l'Informativa sulla Privacy di Weihui."</string>
-     <string name="voip_enable_popup_msg2">Informativa sulla Privacy</string>
      <string name="wap_push_title">"[WAP Push] "</string>
      <string name="warning_show">Invio tra %ds</string>
      <string name="wild_msg_processing">Elaborazione…</string>
