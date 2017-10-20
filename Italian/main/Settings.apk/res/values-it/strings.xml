@@ -2567,7 +2567,7 @@ ed esegui il software."</string>
      <string name="nfc_se_route_title">Posizione elemento di sicurezza</string>
      <string name="nfc_se_wallet_title">Wallet Predefinito</string>
      <string name="no">No</string>
-     <string name="no_account_found">No application supports adding accounts</string>
+     <string name="no_account_found">"Nessuna applicazione disponibile per l'aggiunta di account"</string>
      <string name="no_application">Nessuna</string>
      <string name="no_applications">Nessuna applicazione.</string>
      <string name="no_battery_summary">"Nessun utilizzo della batteria dall'ultima ricarica completa"</string>

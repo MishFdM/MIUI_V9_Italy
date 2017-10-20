@@ -397,7 +397,7 @@
      <string name="summary_delete_large_file">Alcuni file di grosse dimensioni possono essere utili quando non si ha una connessione internet a disposizione (es: mappe, agende, etc.). Assicurati di non aver bisogno di questi file.</string>
      <string name="summary_delete_video">Eliminare definitivamente i video selezionati?</string>
      <string name="summary_optimizer">Questa funzione carica i nomi delle cartelle nei database online di Cheeta Mobile</string>
-     <string name="sys_cache_on_sdcard_item_name">缓存</string>
+     <string name="sys_cache_on_sdcard_item_name">Nascosto</string>
      <string name="terabyteShort">TB</string>
      <string name="text_optimizer">Carica i nomi delle cartelle</string>
      <string name="there_is_no">Tutto ok, riprova più tardi</string>
