@@ -1500,7 +1500,7 @@ Questa attività riduce la durata della batteria."</string>
      <string name="result_sms_info_antispam">Usa la blacklist per difenderti da URL sospetti</string>
      <string name="result_sms_info_auth">"Limita l'accesso ad app di terze parti per i codici di verifica"</string>
      <string name="result_sms_title_antispam">Presenti URL sospetti negli SMS</string>
-     <string name="result_sms_title_auth">"Presenti rischi di divulgazione SMS con informazioni finanziarie</string>
+     <string name="result_sms_title_auth">Presenti rischi di divulgazione SMS con informazioni finanziarie</string>
      <string name="result_wifi_header">Rilevati rischi Wi-Fi</string>
      <string name="right_precent">100%</string>
      <string name="risk_count_suffix" />
