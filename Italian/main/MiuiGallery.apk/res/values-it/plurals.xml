@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <plurals name="add_secret_ensure_message">
-        <item quantity="other">Hide these files?</item>
-        <item quantity="one">Hide this file?</item>
+        <item quantity="other">Nascondere questi file?</item>
+        <item quantity="one">Nascondere questo file?</item>
      </plurals>
      <plurals name="add_to_album_cloud_photo_count_tip">
         <item quantity="other">Aggiunte %d foto su cloud, disattiva \"Mostra solo gli album locali\" per vederle.</item>

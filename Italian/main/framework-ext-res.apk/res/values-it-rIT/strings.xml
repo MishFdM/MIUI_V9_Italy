@@ -104,8 +104,7 @@ Per attivare questa funzione, vai in Impostazioni > Sistema > Tasti"</string>
      <string name="resource_select">Seleziona</string>
      <string name="screen_button_notification_text">Per attivarli premi contemporaneamente i tasti Home e Power.</string>
      <string name="screen_button_notification_title">I tasti di navigazione sono disattivati</string>
-     <string name="screen_on_proximity_sensor_hint">To turn this feature off, press the Volume up and Back buttons simultaneously.</string>
-     <string name="screen_on_proximity_sensor_hint_has_navigation_bar">To turn this feature off, press the Volume up button.</string>
+     <string name="screen_on_proximity_sensor_hint">Disattiva questa funzione, premi il tasto del Volume Su.</string>
      <string name="screen_on_proximity_sensor_summary">Non coprire la parte superiore dello schermo</string>
      <string name="screen_on_proximity_sensor_title">Previeni chiamate dalla tasca</string>
      <string name="screen_paper_mode_enter_toast">Modalità lettura attivata. Puoi attivare/disattivare questa funzione in qualsiasi momento in Impostazioni aggiuntive > Modalità lettura.</string>
