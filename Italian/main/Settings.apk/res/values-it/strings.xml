@@ -4041,7 +4041,7 @@ Questo ^1 è stato formattato per funzionare solo su questo dispositivo. Non fun
      <string name="storage_type_external">Memoria esterna</string>
      <string name="storage_type_internal">Memoria interna</string>
      <string name="storage_unmount_failure">Impossibile rimuovere %1$s in sicurezza</string>
-     <string name="storage_unmount_success">%1$s è stato rimosso insicurezza</string>
+     <string name="storage_unmount_success">%1$s è stato rimosso in sicurezza</string>
      <string name="storage_usb">Memoria USB</string>
      <string name="storage_usb_settings">Memoria e USB</string>
      <string name="storage_used">Memoria usata</string>
