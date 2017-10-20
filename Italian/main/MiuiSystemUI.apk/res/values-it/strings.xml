@@ -234,6 +234,8 @@ Se riattivi i dati, l'operatore potrebbe addebitarti un costo."</string>
      <string name="demo_mode">Modalità demo</string>
      <string name="description_direction_left">Scorri a sinistra per %s.</string>
      <string name="description_direction_up">Scorri in alto per %s.</string>
+     <string name="description_image_button_answer">Answer</string>
+     <string name="description_image_button_reject">Decline</string>
      <string name="description_target_search">Cerca</string>
      <string name="dev_settings_warning_message">Queste impostazioni sono destinate al solo scopo di sviluppo. Esse possono causare malfunzionamenti al dispositivo o alle applicazioni.</string>
      <string name="dev_settings_warning_title">Abilitare opzioni sviluppatore?</string>

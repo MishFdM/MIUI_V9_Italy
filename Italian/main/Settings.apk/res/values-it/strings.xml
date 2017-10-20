@@ -2567,6 +2567,7 @@ ed esegui il software."</string>
      <string name="nfc_se_route_title">Posizione elemento di sicurezza</string>
      <string name="nfc_se_wallet_title">Wallet Predefinito</string>
      <string name="no">No</string>
+     <string name="no_account_found">No application supports adding accounts</string>
      <string name="no_application">Nessuna</string>
      <string name="no_applications">Nessuna applicazione.</string>
      <string name="no_battery_summary">"Nessun utilizzo della batteria dall'ultima ricarica completa"</string>
@@ -3700,7 +3701,7 @@ Come usare Mantieni su schermo:
      <string name="setup_fingerprint_enroll_finish_message_secondary">"Quando vedi questa icona, puoi usare l'impronta digitale."</string>
      <string name="setup_fingerprint_enroll_finish_secondary_message">Per modificare le impostazioni vai in Impostazioni > Sicurezza > Impronta.</string>
      <string name="setup_lock_settings_picker_fingerprint_message">"L'impronta digitale potrebbe essere meno sicura di una sequenza di sblocco, PIN o password. Per maggiore sicurezza imposta un metodo di blocco aggiuntivo."</string>
-     <string name="setup_lock_settings_picker_message">"Impedisce l'utilizzo del tuo telefono da parte di estranei attivando le funzioni di protezione del dispositivo. Scegli il metodo di blocco che preferisci.</string>
+     <string name="setup_lock_settings_picker_message">"Impedisce l'utilizzo del tuo telefono da parte di estranei attivando le funzioni di protezione del dispositivo. Scegli il metodo di blocco che preferisci."</string>
      <string name="setup_lock_settings_picker_title">Proteggi il tuo telefono</string>
      <string name="setup_password_back">Indietro</string>
      <string name="setup_password_confirm">OK</string>

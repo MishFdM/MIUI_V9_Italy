@@ -349,6 +349,7 @@
      <string name="filter_by_size_min">%dKB</string>
      <string name="filter_by_size_prefix">"Dimensione minima: "</string>
      <string name="filter_by_size_summary">Non mostrare file audio piccoli</string>
+     <string name="filter_size_unit">%dKB</string>
      <string name="find_music">Copertine brani</string>
      <string name="follow">Segui</string>
      <string name="followed">Stai seguendo</string>
@@ -576,6 +577,9 @@ attendere o selezionare Musica Online."</string>
      <string name="notification_recommend_title">Notifiche importanti</string>
      <string name="notification_setting">Impostazioni di notifica</string>
      <string name="notification_title_no_song">Guarda cosa ascoltano gli altri!</string>
+     <string name="nowplaying_circle_style">Nowplaying Circle Style</string>
+     <string name="nowplaying_circle_style_rainbow">Rainbow</string>
+     <string name="nowplaying_circle_style_wave">Wave</string>
      <string name="nowplaying_dialog_title_delete_tracks">Rimuovere dalla playlist?</string>
      <string name="nowplaying_menu_item_delete">Elimina</string>
      <string name="ok">OK</string>
