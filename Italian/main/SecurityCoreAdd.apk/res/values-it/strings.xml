@@ -123,8 +123,8 @@ Puoi anche scaricarli separatamente"</string>
      <string name="import_photo">Importa foto</string>
      <string name="import_photo_desc">Mostra gli elementi condivisi con lo spazio Secondario</string>
      <string name="import_photo_suc">Foto importate</string>
-     <string name="input_space_finger">Set now</string>
-     <string name="input_space_password">Set now</string>
+     <string name="input_space_finger">Imposta</string>
+     <string name="input_space_password">Imposta</string>
      <string name="invalid_qr_code">Codice QR non valido</string>
      <string name="list_empty_text">Vuoto</string>
      <string name="loading">Solo un attimo...</string>
@@ -210,7 +210,7 @@ per accedervi dalla schermata di blocco"</string>
      <string name="setSuccess">Password sono state impostate correttamente</string>
      <string name="set_space_finger">Imposta impronta</string>
      <string name="set_space_finger_sub_text_suc">Impronta impostata correttamente</string>
-     <string name="set_space_password">Set password</string>
+     <string name="set_space_password">Imposta password</string>
      <string name="set_space_pwd_detail">Puoi accedere allo spazio Secondario utilizzando la password</string>
      <string name="set_space_pwd_suc">Aggiunta password per lo spazio Secondario</string>
      <string name="setting_finger_print_sub_title">"Assicurati che l'impronta si diversa da quella usata per lo spazio Primario"</string>
@@ -237,7 +237,7 @@ per accedervi dalla schermata di blocco"</string>
      <string name="show_private_content">Mostra elementi privati</string>
      <string name="show_private_msg">Mostra i messaggi privati</string>
      <string name="show_private_msg_summary">Visualizza i messaggi privati nello spazio Secondario</string>
-     <string name="skip">Skip</string>
+     <string name="skip">Salta</string>
      <string name="spaceSetting">Impostazioni</string>
      <string name="space_deleted">Questo spazio è stato eliminato</string>
      <string name="space_des_default">Spazio separato con dati crittografati</string>
