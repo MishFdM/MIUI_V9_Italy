@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-     <string name="app_label">Download Manager</string>
+     <string name="app_label">Gestore Download</string>
      <string name="auto_restart_under_wifi">Questo file verrà scaricato automaticamente quando connesso al Wi-Fi</string>
      <string name="button_cancel_download">Annulla</string>
      <string name="button_download_now">Scarica adesso</string>
