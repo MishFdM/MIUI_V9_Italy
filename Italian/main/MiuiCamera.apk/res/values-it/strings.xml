@@ -120,6 +120,7 @@ e creerà una foto dove ognuno apparirà nella sua miglior forma."</string>
      <string name="hibernate_hint">Tocca lo schermo per avviare la fotocamera</string>
      <string name="hine_hht">"Con poca luce ambientale, verranno scattate foto multiple
 per la costruzione di uno scatto con il minimo rumore."</string>
+     <string name="hint_device_water_mark">Device watermark will be added automatically.</string>
      <string name="hint_fast_motion">Il video che registri verrà riprodotto più velocemente.</string>
      <string name="hint_groupshot">"La fotocamera scatterà foto multiple
 e creerà una foto in cui tutti appariranno ancora più belli."</string>
@@ -136,6 +137,7 @@ e creerà una foto in cui tutti appariranno ancora più belli."</string>
      <string name="module_name_portrait">Ritratto</string>
      <string name="module_name_square">Quadrato</string>
      <string name="module_name_video">Video</string>
+     <string name="multi_window_mode_not_supported">"Camera doesn't work in Split screen"</string>
      <string name="no_storage">"Monta l'archivio USB prima di utilizzare la fotocamera."</string>
      <string name="not_enough_space">Scheda SD piena.</string>
      <string name="object_track_enable_toast">"Scorri sulla schermata di anteprima per attivare il tracciamento dell'oggetto."</string>
@@ -219,6 +221,7 @@ per rendere il tuo corpo ancor più chiaro e meraviglioso"</string>
      <string name="pref_camera_delay_capture_entry_5s">5 sec</string>
      <string name="pref_camera_delay_capture_entry_audio">Audio</string>
      <string name="pref_camera_delay_capture_title">Autoscatto</string>
+     <string name="pref_camera_device_watermark_title">Device watermark</string>
      <string name="pref_camera_exposuretime_entry_0.5">2s</string>
      <string name="pref_camera_exposuretime_entry_1">1s</string>
      <string name="pref_camera_exposuretime_entry_1000">1/1000s</string>

@@ -89,6 +89,7 @@ per essere in grado di vederli sempre"</string>
      <string name="exit_private_space">Cambia</string>
      <string name="finger_print_num">Impronta %d</string>
      <string name="finger_print_of_use">Utilizza impronta digitale</string>
+     <string name="fingerprint_number_upper_limit">Too many unsuccessful unlock attempts</string>
      <string name="fingerprint_removal_failed">"Impossibile eliminare l'impronta"</string>
      <string name="function_not_support">Non supportato in questo spazio</string>
      <string name="gms_message">"La creazione di app clonate richiede i servizi Google. Creare un'app clonata per i servizi Google?"</string>
@@ -241,7 +242,7 @@ per accedervi dalla schermata di blocco"</string>
      <string name="spaceSetting">Impostazioni</string>
      <string name="space_deleted">Questo spazio è stato eliminato</string>
      <string name="space_des_default">Spazio separato con dati crittografati</string>
-     <string name="space_finger_sub_text">Imposta l\'impronta dello spazio Secondario per eseguire il passaggio più velocemente</string>
+     <string name="space_finger_sub_text">"Imposta l\'impronta dello spazio Secondario per eseguire il passaggio più velocemente"</string>
      <string name="space_name_default">Spazio di lavoro</string>
      <string name="startSet">Imposta</string>
      <string name="startTransfer">Sposta</string>

@@ -901,12 +901,15 @@ L'operatore potrebbe addebitarti costi aggiuntivi se continui ad utilizzare la c
      <string name="main_alert_message_no_imsi">Nessuna SIM rilevata</string>
      <string name="main_alert_message_open_traffic_ctrl">uso di restrizione dei dati</string>
      <string name="main_bill_remained">Saldo telefono</string>
+     <string name="main_button_mi_sim_close">Activate Mi SIM</string>
+     <string name="main_button_mi_sim_open">View details</string>
      <string name="main_button_usage_adjust">Sincronizza utilizzo dati mobile</string>
      <string name="main_button_usage_adjust_manual">Imposta limite utilizzo dati</string>
      <string name="main_button_usage_adjusting">Carica in corso…</string>
      <string name="main_button_usage_adjusting_bill">Modifica in corso…</string>
      <string name="main_button_usage_package_setting">Imposta limite utilizzo dati</string>
      <string name="main_daily_package">Piano tariffario giornaliero</string>
+     <string name="main_indicator_title">Waiting for activation</string>
      <string name="main_leisure_remained">Dati off-peak rimanenti</string>
      <string name="main_month_total_used">Usati questo mese</string>
      <string name="main_month_used">Questo mese</string>
@@ -925,6 +928,7 @@ L'operatore potrebbe addebitarti costi aggiuntivi se continui ad utilizzare la c
 per calibrare"</string>
      <string name="main_tc_wait_result">"In attesa di risposta
 dall'operatore"</string>
+     <string name="main_tobe_added_desc">Mobile data from ¥0.03/MB</string>
      <string name="main_today_used">Oggi</string>
      <string name="main_toolbar_firewall">Limita utilizzo dati</string>
      <string name="main_toolbar_internet_by_mobiledata">Connessione dati</string>
@@ -2054,6 +2058,8 @@ I dati rimanenti includono dati che sono stati erogati il mese precedente."</str
      <string name="virus_update_tips_title">Collegati a Wi-Fi</string>
      <string name="virus_wait_network_dialog_message">Gli aggiornamenti sono di grandi dimensioni. Collegati ad una rete Wi-Fi per scaricarli.</string>
      <string name="voltage_symbol">V</string>
+     <string name="vpn_disabled_by_user">Designated data connection is off</string>
+     <string name="vpn_unbale_get_phonenum">"Can't get phone numbers using designated data plans"</string>
      <string name="wakepath_confirm_start_activity">Consentire a %1$s di aprire %2$s?</string>
      <string name="website">Sito web</string>
      <string name="whitelist_prefix_add_hint">Aggiungi alla lista eccezioni tutti i numeri con prefisso</string>
