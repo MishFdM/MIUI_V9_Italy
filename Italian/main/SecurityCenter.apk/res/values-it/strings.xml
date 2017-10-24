@@ -1025,7 +1025,7 @@ dall'operatore"</string>
      <string name="menu_text_networkassistants_unit_kb">KB</string>
      <string name="menu_text_networkassistants_unit_mb">MB</string>
      <string name="menu_text_optimize_manage">Aumenta velocità</string>
-     <string name="menu_text_power_manager">Gestione alimentazione</string>
+     <string name="menu_text_power_manager">Gestione energetica</string>
      <string name="menu_text_power_percent">%s</string>
      <string name="menu_text_power_percent_title">Batteria %s</string>
      <string name="menu_text_power_percent_title_default">Batteria</string>
