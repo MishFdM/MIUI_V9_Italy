@@ -242,7 +242,7 @@ per accedervi dalla schermata di blocco"</string>
      <string name="spaceSetting">Impostazioni</string>
      <string name="space_deleted">Questo spazio è stato eliminato</string>
      <string name="space_des_default">Spazio separato con dati crittografati</string>
-     <string name="space_finger_sub_text">"Imposta l\'impronta dello spazio Secondario per eseguire il passaggio più velocemente"</string>
+     <string name="space_finger_sub_text">"Imposta l'impronta dello spazio Secondario per eseguire il passaggio più velocemente"</string>
      <string name="space_name_default">Spazio di lavoro</string>
      <string name="startSet">Imposta</string>
      <string name="startTransfer">Sposta</string>
