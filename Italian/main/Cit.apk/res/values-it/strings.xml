@@ -306,6 +306,8 @@ Tocca lo schermo per attivare il GPS"</string>
      <string name="cit_proximity_sensor_check_summary">"Copri il sensore di prossimità (posizionato in cima al dispositivo, vicino al ricevitore) con una mano, quindi sposta la mano. A questo punto, il valore dovrebbe aumentare.
 Durante la calibrazione, assicurati che non ci sia nulla tra il sensore e la tua mano (es. pellicole protettive o guanti)."</string>
      <string name="cit_proximity_sensor_check_title">Test Sensore di prossimità</string>
+     <string name="cit_proximity_us_sensitivity">Sensitivity:</string>
+     <string name="cit_proximity_us_summary">Ultrasound Proximity Sensor Calibration</string>
      <string name="cit_rear_dual_camera_check_title">Rear dual camera</string>
      <string name="cit_rear_sub_camera_check_title">Rear sub camera</string>
      <string name="cit_recovery_signature_failed">recovery signature FAILED</string>

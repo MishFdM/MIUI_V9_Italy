@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+     <string name="accessibility_enabled">Accessibility enabled.</string>
      <string name="agree">OK</string>
      <string name="agree_terms">Ho letto e accetto i Termini e le Condizioni</string>
      <string name="app_name">Introduzione</string>
@@ -12,11 +13,13 @@
      <string name="content_description_complete">Completato</string>
      <string name="content_description_miui_version">MIUI 9</string>
      <string name="content_description_start">Avvia</string>
+     <string name="continue_to_enable_accessibility">Keep holding down two fingers to enable accessibility.</string>
      <string name="desc_extra_fingerprint" />
      <string name="desc_extra_international_fingerprint" />
      <string name="desc_fingerprint">Utilizza le tue impronte digitali per sbloccare il dispositivo, verificare le transazioni Mi Pay o per accedere ad app e servizi.</string>
      <string name="desc_international_fingerprint">Usa la tua impronta digitale per sbloccare il dispositivo o per accedere ad applicazioni e servizi.</string>
      <string name="disagree">Annulla</string>
+     <string name="enable_accessibility_canceled">Accessibility canceled.</string>
      <string name="enable_accessibility_dialog_message">Hai attivato TalkBack toccando lo schermo con due dita per più di 10 secondi. TalkBack fornisce feedback audio per utenti ipovedenti. Se lo hai attivato involontariamente, tocca il tasto Annulla poi tocca due volte lo schermo.</string>
      <string name="enable_accessibility_dialog_negative_btn">Annulla</string>
      <string name="enable_accessibility_dialog_positive_btn">OK</string>

@@ -2404,6 +2404,7 @@ Ci sono altri utenti presenti su questo dispositivo.
      <string name="miui_lab_taplus_desc">Tieni premuto i collegamenti di avvio</string>
      <string name="miui_lab_taplus_title">Avvio app</string>
      <string name="miui_screen_config_title">Configurazione schermo launcher MIUI</string>
+     <string name="miui_updater">Updater</string>
      <string name="mms_breathing_light_color_title">Colore LED messaggi</string>
      <string name="mms_breathing_light_freq_title">Frequenza illuminazione LED messaggi</string>
      <string name="mms_privacy_password_role_instruction">Le conversazioni con i contatti privati verranno archiviate qui.</string>
