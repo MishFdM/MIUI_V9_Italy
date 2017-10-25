@@ -184,7 +184,7 @@ Impugna il dispositivo come se stessi chiamando e parla al microfono principale:
      <string name="cit_exit_test_summary">Uscita dalla diagnostica, tutti i relativi dati saranno rimossi.</string>
      <string name="cit_exit_test_title">Chiudi test</string>
      <string name="cit_fail">Fallito</string>
-     <string name="cit_finger_check_title">Finger Print Test</string>
+     <string name="cit_finger_check_title">Test Lettore Impronte</string>
      <string name="cit_flash_life_check_summary">Vita stimata flash del dispositivo</string>
      <string name="cit_flash_life_check_title">Vita del flash</string>
      <string name="cit_fm_audio_path">Configura path audio</string>
@@ -461,9 +461,9 @@ Dopo aver copiato \"traccia.mp3\" sulla scheda SD, tocca lo schermo per riprodur
      <string name="cit_tool_bluetooth_on">Attiva Bluetooth</string>
      <string name="cit_tool_bluetooth_tx_h">Avvia la modalità di test Bluetooth freq. BR/EDR 2.480GHz</string>
      <string name="cit_tool_bluetooth_tx_l">Avvia la modalità di test Bluetooth freq. BR/EDR 2.402GHz</string>
-     <string name="cit_tool_cal_accelerometer">Utilità calibrazione accelerometro</string>
+     <string name="cit_tool_cal_accelerometer">Strumento calibrazione accelerometro</string>
      <string name="cit_tool_cal_camera">Calibrazione Fotocamera</string>
-     <string name="cit_tool_cal_gyroscope">Utilità calibrazione giroscopio</string>
+     <string name="cit_tool_cal_gyroscope">Strumento calibrazione giroscopio</string>
      <string name="cit_tool_drx_only">DRX</string>
      <string name="cit_tool_enable_3A_log">Abilita interruttore 3A log</string>
      <string name="cit_tool_enable_display_3A_log">Abilita log schermo 3A</string>
@@ -496,7 +496,7 @@ Dopo aver copiato \"traccia.mp3\" sulla scheda SD, tocca lo schermo per riprodur
      <string name="cit_tool_prx_drx_start_test">Inizia Test</string>
      <string name="cit_tool_prx_drx_stop_test">Ferma Test</string>
      <string name="cit_tool_prx_only">PRX</string>
-     <string name="cit_tool_rf_ant">RF/Utilità antenna</string>
+     <string name="cit_tool_rf_ant">RF/Strumento antenna</string>
      <string name="cit_tool_switch_autosms">Abilita/Disabilita AutoSMSReg</string>
      <string name="cit_tool_tpdump">modalità debug tocco</string>
      <string name="cit_tool_wifi">Test Wi-Fi</string>
@@ -516,7 +516,7 @@ Dopo aver copiato \"traccia.mp3\" sulla scheda SD, tocca lo schermo per riprodur
      <string name="cit_tool_wifi_rxn_test">Rx: n</string>
      <string name="cit_tool_wifi_rxn_test_bw">banda:</string>
      <string name="cit_tool_wifi_rxn_test_channel">canale:</string>
-     <string name="cit_tool_wifi_sniffer">WLAN Sniffer tool</string>
+     <string name="cit_tool_wifi_sniffer">Strumento Sniffer Wi-Fi</string>
      <string name="cit_tool_wifi_sniffer_settings">Impostazioni sniffer</string>
      <string name="cit_tool_wifi_tx_ac">Tx: ac</string>
      <string name="cit_tool_wifi_tx_bg">Tx: a/b/g</string>
@@ -588,7 +588,7 @@ Dopo aver copiato \"traccia.mp3\" sulla scheda SD, tocca lo schermo per riprodur
      <string name="far">FAR(False Accept Rate):</string>
      <string name="far_count">FAC(False Accept Count):</string>
      <string name="far_total_count">FATC(False Accept Total Count):</string>
-     <string name="fpc_app_name">Utilità test sensore</string>
+     <string name="fpc_app_name">Strumento test sensore</string>
      <string name="fpc_ok">Ok</string>
      <string name="fpc_pn_calibration">Cattura e immagazzina immagine PN</string>
      <string name="frr">FRR(False Reject Rate):</string>
