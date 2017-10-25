@@ -32,14 +32,14 @@
      <string name="action_farr_enroll">FAR FRR:registrazione</string>
      <string name="action_farr_verify">FAR FRR:verifica</string>
      <string name="action_init_base">FAR FRR:base iniziale</string>
-     <string name="action_nothing">attendere per il test</string>
+     <string name="action_nothing">attendere la fase di test</string>
      <string name="afdcalibration_test">TEST CALIBRAZIONE AFD</string>
      <string name="afdcalibrationrubberstamp_test">TEST CALIBRAZIONE TIMBRO AFD</string>
      <string name="afdrubberstamp_test">TEST TIMBRO AFD</string>
      <string name="audio_spk_cal_wait">Calibrazione, attendere...</string>
-     <string name="audio_spk_def">Calibrazione speaker, attendere</string>
+     <string name="audio_spk_def">Calibrazione speaker, attendere,..</string>
      <string name="baterry_percent">"Totale ricarica batteria: "</string>
-     <string name="baterry_temperature">"Temperature batteria: "</string>
+     <string name="baterry_temperature">"Temperatura batteria: "</string>
      <string name="battery_info">Informazioni correlate ricarica batteria</string>
      <string name="begin_to_save_finger_data">Inizio salvataggio dati dito</string>
      <string name="button_ok">OK</string>
@@ -60,12 +60,12 @@
      <string name="cit_abnormal_reboot_title">Dati stabilità dispositivo</string>
      <string name="cit_ac_charger_in">Ricarica via AC</string>
      <string name="cit_ac_charger_out">Alimentatore AC scollegato</string>
-     <string name="cit_accdata_sensor_check_summary">Valori delle coordinate X, Y, Z, appariranno in basso</string>
+     <string name="cit_accdata_sensor_check_summary">I valori delle coordinate X, Y, Z, appariranno in basso</string>
      <string name="cit_accdata_sensor_check_title">Accelerometro</string>
      <string name="cit_accelermeter_sensor_check_summary">"Muovi il dispositivo velocemente in una direzione. I valori delle coordinate X, Y e Z sono visualizzati di seguito. (quando il dispositivo è in movimento: X rappresenta sinistra/destra, Y rappresenta avanti/indietro, Z rappresenta su/giù).
 Prima di calibrare il dispositivo, posizionalo su una superficie piana."</string>
      <string name="cit_accelermeter_sensor_check_title">Test Accelerometro</string>
-     <string name="cit_apk_signature_failed">firma apk FALLITA</string>
+     <string name="cit_apk_signature_failed">firma apk FALLITO</string>
      <string name="cit_apk_signature_passed">firma apk RIUSCITO</string>
      <string name="cit_aud_current_state">Stato corrente:</string>
      <string name="cit_aud_spk_vendor">Azienda altoparlante:</string>
@@ -83,7 +83,7 @@ Prima di calibrare il dispositivo, posizionalo su una superficie piana."</string
      <string name="cit_audio_calibrating">Calibrazione in corso…</string>
      <string name="cit_audio_check_summary">Info audio</string>
      <string name="cit_audio_check_title">Info audio</string>
-     <string name="cit_audio_get_temp_fail">Ottenimento dati temp data Fallito!</string>
+     <string name="cit_audio_get_temp_fail">Ottenimento dati temp. data Fallito!</string>
      <string name="cit_audio_hdset_plug">"Numero inserimento auricolari: "</string>
      <string name="cit_audio_lb_backmic_to_speaker_title">Test da Microfono post. ad Altoparlante</string>
      <string name="cit_audio_lb_frontmic_to_speaker_title">Test Microfono front. ad Altoparlante</string>
@@ -126,7 +126,7 @@ Impugna il dispositivo come se stessi chiamando e parla al microfono principale:
      <string name="cit_audio_rcv_usetime">"Ricevitore audio tempo utilizzo: "</string>
      <string name="cit_audio_right_caldata">"Dati calibrazione PA destro:
 "</string>
-     <string name="cit_audio_right_calfail">Calibrazione PA desteo Fallito!</string>
+     <string name="cit_audio_right_calfail">Calibrazione PA destro Fallito!</string>
      <string name="cit_audio_spk_type">"Azienda altroparlante audio: "</string>
      <string name="cit_audio_spk_usetime">"Tempo utilizzo altoparlante audio: "</string>
      <string name="cit_aux_camera_action">Zoom</string>
@@ -138,8 +138,8 @@ Impugna il dispositivo come se stessi chiamando e parla al microfono principale:
      <string name="cit_back_pointer_location_title">Sensore tocco posteriore</string>
      <string name="cit_battery_check_summary">Statistiche batteria dispositivo</string>
      <string name="cit_battery_check_title">Informazioni batteria</string>
-     <string name="cit_battery_temp_fail">La temperatura della batteria non è normale (valore: %d)</string>
-     <string name="cit_battery_temp_pass">La temperatura della batteria è normale</string>
+     <string name="cit_battery_temp_fail">La temperatura della batteria non è nella norma (valore: %d)</string>
+     <string name="cit_battery_temp_pass">La temperatura della batteria è nella norma</string>
      <string name="cit_batterylight_blue">Blu</string>
      <string name="cit_batterylight_green">Verde</string>
      <string name="cit_batterylight_red">Rosso</string>
@@ -176,7 +176,7 @@ Impugna il dispositivo come se stessi chiamando e parla al microfono principale:
      <string name="cit_charger_waiting_in">"Collega l'alimentatore"</string>
      <string name="cit_charger_waiting_out">"Scollega l'alimentatore"</string>
      <string name="cit_dial_emergencycall">Componi il 112</string>
-     <string name="cit_display_check_summary">Verifica che il file bmp richiesto sia sulla scheda SD. Verifica che i colori siano omogenei su tutto lo schermo. Assicurarti che non ci siano punti luminosi irregolari e macchie scure.</string>
+     <string name="cit_display_check_summary">Verifica che il file .bmp richiesto sia sulla scheda SD. Verifica che i colori siano omogenei su tutto lo schermo. Assicurarti che non ci siano punti luminosi irregolari e macchie scure.</string>
      <string name="cit_display_check_title">Test Schermo</string>
      <string name="cit_display_continue">Tocca lo schermo per iniziare</string>
      <string name="cit_emergencycall_check_summary">Prego clicca il pulsante Componi il 112 per verificare se il 112 può essere composto.</string>
@@ -233,7 +233,7 @@ Tocca lo schermo per attivare il GPS"</string>
      <string name="cit_hall_near">vicino</string>
      <string name="cit_hall_test_summary">"Quando un magnete é prossimo all'area verde, il testo dovrebbe iniziare ad avvicinarsi, in alternativa rimarrà lontano"</string>
      <string name="cit_hall_test_title">Sala</string>
-     <string name="cit_hardware_info_summary">Prefo attendere...Renderizzazione informazioni hardware di questo dispositivo</string>
+     <string name="cit_hardware_info_summary">Prego attendere...Renderizzazione informazioni hardware di questo dispositivo</string>
      <string name="cit_hardware_info_title">Informazioni hardware</string>
      <string name="cit_headset_button_check_summary">Quando le cuffie sono collegate, premi i pulsanti sulle cuffie (posizionati solitamente sul cavo). Sullo schermo il testo corrispondente dovrebbe diventare verde.</string>
      <string name="cit_headset_button_check_title">Test Cuffie</string>
@@ -244,7 +244,7 @@ Tocca lo schermo per attivare il GPS"</string>
      <string name="cit_headset_button_pass">Riuscito</string>
      <string name="cit_headset_button_play_pause">Play/Pausa</string>
      <string name="cit_headset_button_previous">Precedente</string>
-     <string name="cit_headset_button_reverse">"Prego inverti l'inserimento dell'USB degli auricolari"</string>
+     <string name="cit_headset_button_reverse">"Prego inverti l'inserimento della USB degli auricolari"</string>
      <string name="cit_headset_button_rewind">Ricomincia</string>
      <string name="cit_headset_button_stop">Stop</string>
      <string name="cit_headset_button_unknown">Sconosciuto</string>
@@ -459,8 +459,8 @@ Dopo aver copiato \"traccia.mp3\" sulla scheda SD, tocca lo schermo per riprodur
      <string name="cit_tool_bluetooth_not_on">Bluetooth non abilitato</string>
      <string name="cit_tool_bluetooth_off">Disattiva Bluetooth</string>
      <string name="cit_tool_bluetooth_on">Attiva Bluetooth</string>
-     <string name="cit_tool_bluetooth_tx_h">Avvia la modalità di test Bluetooth Freq. BR/EDR 2.480GHz</string>
-     <string name="cit_tool_bluetooth_tx_l">Avvia la modalità di test Bluetooth Freq. BR/EDR 2.402GHz</string>
+     <string name="cit_tool_bluetooth_tx_h">Avvia la modalità di test Bluetooth freq. BR/EDR 2.480GHz</string>
+     <string name="cit_tool_bluetooth_tx_l">Avvia la modalità di test Bluetooth freq. BR/EDR 2.402GHz</string>
      <string name="cit_tool_cal_accelerometer">Utilità calibrazione accelerometro</string>
      <string name="cit_tool_cal_camera">Calibrazione Fotocamera</string>
      <string name="cit_tool_cal_gyroscope">Utilità calibrazione giroscopio</string>
@@ -574,7 +574,7 @@ Dopo aver copiato \"traccia.mp3\" sulla scheda SD, tocca lo schermo per riprodur
      <string name="cit_wifi_fail_to_scan">Impossibile eseguire la scansione</string>
      <string name="cit_wifi_state_refresh">Aggiorna</string>
      <string name="cit_yellow_torch_on">LED giallo del flash</string>
-     <string name="copyright">Copyright © 2015 Goodix Tuttini Diritti Riservati.</string>
+     <string name="copyright">Copyright © 2015 Goodix Tutti i Diritti Riservati.</string>
      <string name="error">Errore</string>
      <string name="error_app_internal">Errore interno applicazione</string>
      <string name="error_app_unsupported">Formato non supportato</string>
@@ -629,7 +629,7 @@ Dopo aver copiato \"traccia.mp3\" sulla scheda SD, tocca lo schermo per riprodur
      <string name="select_automatic">Selezione automatica</string>
      <string name="select_manual">Selezione manuale</string>
      <string name="select_none">Nessuna selezione</string>
-     <string name="selftest">SELF TEST</string>
+     <string name="selftest">SELF-TEST</string>
      <string name="sensor_information">Informazione sensore</string>
      <string name="show_log">Mostra Log</string>
      <string name="speak_from_mic">Parla nel microfono, l'altoparlante riprodurrà il suono. Assicurati che il suono venga riprodotto.</string>
