@@ -64,26 +64,28 @@
         <item>Saldo telefono</item>
      </string-array>
      <string-array name="sort_title">
-        <item>Sort by status</item>
-        <item>Sort by app name</item>
-        <item>Sort by usage frequency</item>
-        <item>Sort by used storage</item>
-        <item>Sort by data usage</item>
-        <item>Sort by battery usage</item>
+        <item>Ordina per stato</item>
+        <item>Ordina per nome app</item>
+        <item>"Ordina per frequenza d'uso"</item>
+        <item>Ordina per memoria utilizzata</item>
+        <item>Ordina per data di utilizzo</item>
+        <item>Ordina per uso batteria</item>
+		<item>Ordina per tempo installazione</item>
      </string-array>
      <string-array name="sort_type">
-        <item>Status</item>
-        <item>App name</item>
-        <item>Usage frequency</item>
-        <item>Used storage</item>
-        <item>Data usage</item>
-        <item>Battery usage</item>
+        <item>Stato</item>
+        <item>Nome app</item>
+        <item>Frequenza utilizzo</item>
+        <item>Memoria utilizzata</item>
+        <item>Utilizzo dati</item>
+        <item>Utilizzo batteria</item>
+		<item>Tempo installazione</item>
      </string-array>
      <string-array name="title_app_info">
-        <item>Installation source</item>
-        <item>Installation time</item>
-        <item>Last update source</item>
-        <item>Last update time</item>
+        <item>Fonte installazione</item>
+        <item>Orario installazione</item>
+        <item>Ultima fonte aggiornamento</item>
+        <item>Ultimo orario aggiornamento</item>
      </string-array>
      <string-array name="traffic_type">
         <item>"Utilizzo dati "</item>

@@ -7,7 +7,7 @@
      <string name="disconnect">Disconnetti</string>
      <string name="duration">Durata:</string>
      <string name="legacy_title">VPN connessa</string>
-     <string name="prompt">Connection request</string>
+     <string name="prompt">Richiesta connessione</string>
      <string name="session">Sessione:</string>
-     <string name="warning">%s wants to set up a VPN connection that allows it to monitor network traffic. Only accept if you trust the source. &lt;br /&gt; &lt;br /&gt; &lt;img src=vpn_icon /&gt; appears at the top of your screen when VPN is active.</string>
+     <string name="warning">%s vuole impostare una connessione VPN che consentirà di monitorare il traffico. Accetta solo se ti fidi della fonte. &lt;br /&gt; &lt;br /&gt; &lt;img src=vpn_icon /&gt; apparirà in alto sul tuo display quando la VPN risulterà attiva.</string>
 </resources>

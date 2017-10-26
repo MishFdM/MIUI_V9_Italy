@@ -36,17 +36,19 @@
      <string name="backup_hint">Non spegnere il dispositivo</string>
      <string name="backup_hint_onpad">Mantieni il dispositivo acceso</string>
      <string name="backup_is_running">Dispositivo in fase di backup</string>
-     <string name="backup_items_app_tailer">" Dati App "</string>
-     <string name="backup_items_sysdata_tailer">" Dati Sistema, "</string>
      <string name="backup_new">Nuovo:</string>
      <string name="backup_progress">Creazione backup in corso…</string>
      <string name="backup_report">Rapporto Backup</string>
+     <string name="backup_security_tips_message">Il backup o il ripristino di alcune app potrebbe non andare a buon fine.</string>
+     <string name="backup_security_tips_title">I backup potrebbero non funzionare</string>
      <string name="backup_update">Aggiorna</string>
      <string name="batch_delete_backup_confirm">Eliminare i backup selezionati?</string>
+     <string name="btn_got_it">OK</string>
      <string name="button_backup">Backup</string>
      <string name="button_cancel">Annulla</string>
      <string name="button_continue">Continua</string>
      <string name="button_finish">Finito</string>
+     <string name="button_import">Import</string>
      <string name="button_next">Avanti</string>
      <string name="button_ok">OK</string>
      <string name="button_return">Indietro</string>
@@ -55,8 +57,20 @@
      <string name="camera_summary">Impostazioni fotocamera (non comprende le foto)</string>
      <string name="cancel">Annulla</string>
      <string name="cancel_backup">Annulla</string>
+     <string name="cancel_moving_dialog_message">Are you sure to stop importing?</string>
+     <string name="cancel_moving_dialog_title">Stop importing</string>
      <string name="cancel_restore">Annulla</string>
      <string name="click_to_view">Tocca per mostrare</string>
+     <string name="close_twice_auth_btn">Close to two-factor authentication</string>
+     <string name="close_twice_auth_note">"Note:
+After creating a new security question and confirming your date of birth, the dual authentication function will be turned off. If you do not see the option to turn off dual authentication on the Apple ID account page, you can not turn it off."</string>
+     <string name="close_twice_auth_operation">"Computer-side access:
+https://appleid.apple.com/#!&amp;page=signin to close"</string>
+     <string name="close_twice_auth_step_1">1. login Apple ID account page</string>
+     <string name="close_twice_auth_step_2">2. In the Security section, click Edit</string>
+     <string name="close_twice_auth_step_3">3. Click Turn off dual / two-step authorication. Click again to confirm</string>
+     <string name="close_twice_auth_steps">Close two factor authorication, as follow steps:</string>
+     <string name="close_twice_auth_tutor">Close appleID two factor authorication</string>
      <string name="cloud_app_name">Backup Online</string>
      <string name="cloud_backup_hint">Accedi per archiviare in sicurezza i tuoi backup</string>
      <string name="cloud_backup_login">Login</string>
@@ -69,8 +83,11 @@
      <string name="cloud_restore_title">Ripristina dati backup</string>
      <string name="cloud_restore_window_title">Ripristino Cloud</string>
      <string name="cloud_search">Ricerca Online…</string>
+     <string name="comma_seperator">", "</string>
      <string name="compute_backup_info">Recupero info backup</string>
      <string name="compute_delete_contact_info">Ricerca contatti…</string>
+     <string name="connect_wifi">Connect WLAN</string>
+     <string name="connect_wifi_tip">Network is disconnected. Importing data from iCloud needs WLAN.</string>
      <string name="contact_title">Contatti</string>
      <string name="current_account">Accesso come: %s</string>
      <string name="current_pad_location">Tablet</string>
@@ -84,8 +101,10 @@
      <string name="delete_backup_title">Elimina backup</string>
      <string name="delete_failed_backup_confirm">Si è verificato un errore. Impossibile ripristinare da questo backup.</string>
      <string name="deselect_all">Deseleziona tutto</string>
+     <string name="disable_encrypt_description">Not encrypt</string>
      <string name="disable_encrypt_title">Crittografia disabilitata</string>
      <string name="enable_encrypt">Abilita adesso</string>
+     <string name="enable_encrypt_description">Encrypt</string>
      <string name="enable_encrypt_fail">Abilitazione crittografia fallita</string>
      <string name="enable_encrypt_indicator">Backup non crittografato, tocca per abilitarla.</string>
      <string name="enable_encrypt_ok">OK</string>
@@ -116,12 +135,46 @@
      <string name="guarded_mode_dialog_backup_message">I backup non sono consentiti in modalità Ospite</string>
      <string name="guarded_mode_dialog_title">Sei in modalità Ospite</string>
      <string name="guarded_mode_dialog_transfer_message">Impossibile utilizzare Mi Mover in modalità Ospite</string>
+     <string name="hsa_code_null">Verification code cannot be empty</string>
+     <string name="hsa_input_hint">Enter verification code</string>
+     <string name="hsa_input_tip">Your iCloud ID enables two-factor authentication. Please enter verification code.</string>
+     <string name="hsa_send_again">Send again</string>
+     <string name="hsa_send_again_countdown">Send again(%ds)</string>
+     <string name="hsa_send_failed">Failed to send verification code. Please retry later.</string>
+     <string name="hsa_sending">Sending…</string>
+     <string name="hsa_tip_message">"1.A message containing verification code will be sended to the phone bounded to iCloud
+2.Turn off two-factor authentication if failing to verify."</string>
+     <string name="hsa_tip_message_shutdown_hsa">how to turn off two-factor authentication</string>
+     <string name="hsa_tip_message_with_device">"1.A message containing verification code has been sended to the phone %s bounded to iCloud
+2.Turn off two-factor authentication if failing to verify."</string>
+     <string name="hsa_tip_title">Tips:</string>
+     <string name="hsa_title">Two-factor authentication</string>
+     <string name="hsa_verify_failed">Two-factor authentication failed</string>
+     <string name="hsa_verify_failed_message">Two-factor authentication failed. You can retry or turn off two-factor authentication.</string>
+     <string name="hsa_verify_retry">Retry</string>
+     <string name="hsa_verify_shutdown">Turn off</string>
+     <string name="icloud_backup_tip">Login iCloud id of old Apple device</string>
+     <string name="icloud_how_to_backup_tip_steps">"1.Enter Settings in you iOS device, and then choose iCloud.
+2.Turn on Contacts.
+3.Select Photos and turn on iCloud Photo Library."</string>
+     <string name="icloud_how_to_backup_tip_summary">To import data from iOS, you need to upload data in old devices to iCloud.</string>
+     <string name="icloud_how_to_backup_tip_title">Tips:</string>
+     <string name="icloud_login_title">Login iCloud</string>
+     <string name="icloud_need_sync">"To import data from iOS
+you need to upload data in old devices to iCloud"</string>
+     <string name="icloud_need_wifi_message">WLAN is not conneced currently. To import data from iCloud, WLAN is needed to login and download data.</string>
+     <string name="icloud_need_wifi_title">WLAN needed</string>
+     <string name="import_again">Import again</string>
+     <string name="import_data_from_icloud">Import data from iCloud</string>
      <string name="import_from_xiaomi_account_hint1">"1.\u0009Installa Mi Talk ed accedi.
 \u0009http://www.miliao.com
 
 2.\u0009Entra nelle impostazioni di Mi Talk e seleziona \"Backup contatti sul tuo Mi Account\"</string>
      <string name="import_from_xiaomi_account_hint2">Nota: Vai al prossimo punto se il backup è già esistente</string>
      <string name="import_from_xiaomi_account_hint_title">Usa Mi Talk per il backup dei contatti su dispositivi di altre marche</string>
+     <string name="import_tip_summary">Because of compatibility, contacts and photos are supported only. You need to upload data in old devices to iCloud first.</string>
+     <string name="import_tip_title">Tips:</string>
+     <string name="loading_data">Loading data</string>
      <string name="local_app_name">Backup</string>
      <string name="local_backup_window_title">Locale</string>
      <string name="local_home_title">Locale</string>
@@ -135,13 +188,17 @@
      <string name="local_select_sysdata">Sistema</string>
      <string name="local_select_userapp">Applicazioni</string>
      <string name="local_select_video">Video</string>
+     <string name="login">Login</string>
+     <string name="login_failed">Failed to login. Please retry.</string>
+     <string name="logining">logining…</string>
      <string name="miliao_account_guide">Utilizza il tuo Mi Account per accedere a Mi Cloud e agli altri servizi.</string>
      <string name="miliao_account_login">Login Mi Talk</string>
      <string name="mms_title">Messaggi Multimediali</string>
      <string name="multi_select_title">Selezionati %1$s elemento(i)</string>
      <string name="multi_user_mode_backup_message">Impossibile utilizzare il Backup in modalità Multi-utente. Disattiva la modalità Multi-utente per continuare.</string>
-     <string name="multi_user_mode_dialog_message">Non puoi utilizzare Mi Mover in modalità Multi-utente. Disattiva la modalità Multi-utente per contnuare.</string>
+     <string name="multi_user_mode_dialog_message">Non puoi utilizzare Mi Mover in modalità Multi-utente. Disattiva la modalità Multi-utente per continuare.</string>
      <string name="multi_user_mode_dialog_title">Sei in modalità Multi-utente</string>
+     <string name="name_password_not_consistent">User name or password is wrong</string>
      <string name="never">Mai</string>
      <string name="new_backup">Backup</string>
      <string name="no_encrypt_password">Nessuna password crittografata</string>
@@ -151,20 +208,39 @@
      <string name="notif_backup_complete_title">Backup eseguito correttamente</string>
      <string name="notif_backup_content">Backup dei dati utente</string>
      <string name="notif_backup_title">Backup dati</string>
+     <string name="notif_icloud_canceled_summary">Canceled</string>
+     <string name="notif_icloud_canceling_summary">Canceling…</string>
+     <string name="notif_icloud_import_title">Import data from iCloud</string>
+     <string name="notif_icloud_loaded_summary">Waiting to download data</string>
+     <string name="notif_icloud_loading_summary">Loading data…</string>
+     <string name="notif_icloud_logining">Logining iCloud id of old Apple device…</string>
+     <string name="notif_icloud_need_wifi_summary">Wait for WLAN</string>
+     <string name="notif_icloud_saved_summary">Importing finished</string>
+     <string name="notif_icloud_saving_summary">Restoring data…</string>
      <string name="notif_restore_complete_title">Ripristino da backup eseguito correttamente</string>
      <string name="notif_restore_content">Ripristino dei dati utente</string>
      <string name="notif_restore_title">Ripristino dei dati</string>
+     <string name="notif_trans_auto_reconnecting_content">You can cancel current task if needed.</string>
+     <string name="notif_trans_auto_reconnecting_title">Connection was interrupted. Reconnecting automatically…</string>
      <string name="notif_trans_receiving_completed">Dati ricevuti correttamente</string>
      <string name="notif_trans_receiving_failed">Ricezione dati fallita</string>
      <string name="notif_trans_sending_completed">Dati inviati correttamente</string>
      <string name="notif_trans_sending_failed">Invio dati fallito</string>
+     <string name="notif_trans_wait_for_reconnecting">Dispositivo remoto disconnesso. Connettere di nuovo.</string>
      <string name="page_loading">Solo un attimo…</string>
+     <string name="password">password</string>
+     <string name="password_null">Password cannot be empty</string>
+     <string name="pause">Pause</string>
+     <string name="platform_chooser_item_android">Import from Android</string>
+     <string name="platform_chooser_item_ios">Import from Apple device</string>
+     <string name="platform_chooser_title">Choose old device</string>
      <string name="progress_backup_hint">Backup in corso…</string>
      <string name="progress_restore_hint">Ripristino in corso…</string>
      <string name="prompt_reading">Lettura in corso…</string>
-     <string name="prompt_sending">Upload in corso…</string>
+     <string name="prompt_sending">Caricamento in corso…</string>
      <string name="prompt_writing">Scrittura in corso…</string>
      <string name="read_encrypt_fail">Lettura crittografia fallita</string>
+     <string name="reconnect">Riconnetti</string>
      <string name="refresh">Aggiorna</string>
      <string name="remote_receive">Ricevi</string>
      <string name="restore">Ripristino</string>
@@ -184,6 +260,13 @@
      <string name="retry">Riprova</string>
      <string name="reverse_all">Cancella tutto</string>
      <string name="router_backup_hint">Mantieni i dispositivi accesi</string>
+     <string name="save_finish_with_failing_items">"Importing is interrupted. Some data has been imported
+The data left needs to import again"</string>
+     <string name="saving_data">"Importing data from iCloud
+Please don't turn off or switch WLAN"</string>
+     <string name="saving_data_no_time">Restoring data</string>
+     <string name="saving_data_space_low">"No enough space
+Please release at least %s"</string>
      <string name="sc_bad_request">Richiesta non valida</string>
      <string name="sc_internal_server_error">Errore interno del server</string>
      <string name="sc_network_unavailable">Errore connessione di rete</string>
@@ -200,6 +283,12 @@
      <string name="see_backup_files_on_router">Mostra i backup su Mi Router %s</string>
      <string name="select_all">Seleziona tutto</string>
      <string name="select_backup_item">Seleziona elementi backup</string>
+     <string name="select_empty">Select items to import</string>
+     <string name="select_item_contacts">Contacts</string>
+     <string name="select_item_empty_summary">No contents</string>
+     <string name="select_item_photos">Photos</string>
+     <string name="select_item_summary_loading">Loading data…</string>
+     <string name="select_item_summary_wait">Wait to load data</string>
      <string name="select_storage_location">Seleziona destinazione backup</string>
      <string name="service_stoped">Servizio interrotto</string>
      <string name="settings_summary">Backup impostazioni dispositivo e messaggi</string>
@@ -251,11 +340,13 @@
      <string name="total_size">, %s</string>
      <string name="trans_backingup">Backup in corso…</string>
      <string name="trans_backingup_no_items">Sincronizzazione…</string>
+     <string name="trans_button_cancel">Cancel</string>
      <string name="trans_calculating">Calcolo in corso…</string>
      <string name="trans_calculating_app_sd_size">Calcolo dimensione dati da inviare, %s scansionati</string>
      <string name="trans_calculating_base_size">Calcolo dimensione base app</string>
      <string name="trans_cancel_confirm">Trasferimento in corso, annullare adesso?</string>
      <string name="trans_cancelling">Annullamento</string>
+     <string name="trans_connect_failed_device_incompatible">Dispositivo non compatibile. Annulla il processo di trasferimento e prova di nuovo.</string>
      <string name="trans_connect_failed_message">"Connessione fallita, riprova o riavvia. Sull'altro dispositivo, vai in Impostazioni > Impostazioni aggiuntive > Mi Mover, tocca [I'm a sender] o lancia di nuovo Mi Mover dopo il riavvio"</string>
      <string name="trans_connect_failed_title">Connessione fallita</string>
      <string name="trans_connect_failed_toast">Impossibile connettersi</string>
@@ -265,8 +356,41 @@
      <string name="trans_detail_category_files">File</string>
      <string name="trans_detail_category_sysdata">Dati di sistema</string>
      <string name="trans_detail_category_userdata">App</string>
+     <string name="trans_device_auto_reconnecting">Device disconnected. Reconnecting automatically…</string>
      <string name="trans_device_disconnected">Dispositivo disconnesso</string>
+     <string name="trans_device_wait_for_reconnecting">Dispositivo disconnesso. Riconnettere.</string>
+     <string name="trans_disconnected_tips_message">Remote device is disconnected. Please reconnect by hand. You can cancel current task if needed.</string>
+     <string name="trans_disconnected_tips_title">Remote device is disconnected</string>
      <string name="trans_generate_qr_code_failed">Impossibile creare QR code</string>
+     <string name="trans_intro_desc_1">"On Xiaomi device, connect to WLAN. Tap \"I'm a recipient\", and then select \"Apple device\". Login iCloud and import data."</string>
+     <string name="trans_intro_desc_3">"Mi Mover usa la rete Wi-Fi per trasferire i file. Per questo non puoi connetterti ad internet tramite Wi-Fi durante il trasferimento. Puoi usare la rete dati mobile. Alcuni nuovi dispositivi (ad esempio Mi 6) potranno collegarsi comunque alla rete Wi-Fi, anche durante il collegamento."</string>
+     <string name="trans_intro_desc_4">Lo spazio di archiviazione sui vecchi dispositivi viene utilizzato per la creazione dei pacchetti da trasferire. Assicurati di avere almeno 500MB - 1GB di spazio disponibile prima di iniziare il trasferimento.</string>
+     <string name="trans_intro_desc_5">Esistono molte ragioni per cui potrebbe accadere: problemi di compatibilità di sistema o versione app, problemi di rete, specifici problemi di compatibilità con alcuni dispositivi, etc.</string>
+     <string name="trans_intro_desc_6">"I profili di alcune app (e-banking, finanza, etc.) sono associate con specifici dettagli per ragioni di sicurezza. Prova cancellando i dati dell'app o reinstallando l'app su di un nuovo dispositivo."</string>
+     <string name="trans_intro_desc_7">"I dati e la cronologia delle chat di WeChat potrebbero non venire trasferite completamente tramite Mi Mover. Vai nelle impostazioni di WeChat ed esci dal tuo account per avere più possibilità di un corretto trasferimento."</string>
+     <string name="trans_intro_desc_8">"WeChat app data and chat history might not be fully transferred using Mi Mover. Go to WeChat's settings and sign out of your account to get more chances for a successful transfer."</string>
+     <string name="trans_intro_desc_account">"Devi eseguire di nuovo l'accesso ai tuoi account (e.g., Mi Account, Exchange, Google, etc.) su di un nuovo dispositivo per ragioni di sicurezza."</string>
+     <string name="trans_intro_desc_multiapp">"Mi Mover non trasferisce i dati delle app clonate per evitare conflitti tra i file"</string>
+     <string name="trans_intro_desc_multiuser">"Mi Mover non ha accesso agli elementi presenti nello spazio Secondario. Sposta gli elementi nello spazio Primario e lancia Mi Mover."</string>
+     <string name="trans_intro_desc_new">"Tap \"Sono il ricevente\". Verrà generato un codice QR."</string>
+     <string name="trans_intro_desc_old">"Tap \"sono il mittente\". Scansiona il codice QR sul nuovo telefono, aspetta finché Mi Mover rileva i file da trasferire, quindi tocca \"Invia\"."</string>
+     <string name="trans_intro_desc_private">"Mi Mover non può accedere alle foto presenti nell'album nascosto perché sono crittografate. Puoi ripristinare queste foto da Mi Cloud su di un nuovo dispositivo."</string>
+     <string name="trans_intro_question_1">1. Come funziona Mi Mover?</string>
+     <string name="trans_intro_question_2">2. Cosa devo fare se Mi Mover si blocca in uno dei passaggi?</string>
+     <string name="trans_intro_question_3">3. Perché non posso usare la rete Wi-Fi durante il trasferimento? </string>
+     <string name="trans_intro_question_4">4. Perché Mi Mover che non ho spazio sufficiente sul mio vecchio telefono?</string>
+     <string name="trans_intro_question_5">5. Perché alcune app non vengono trasferite correttamente?</string>
+     <string name="trans_intro_question_6">6. Perché alcune app non si avviano sul nuovo dispositivo?</string>
+     <string name="trans_intro_question_7">7. Perché la cronologia di WeChat non è stata trasferita completamente?</string>
+     <string name="trans_intro_question_8">8. Quali elementi non possono essere trasferiti?</string>
+     <string name="trans_intro_question_9">"9. Which items can't be transferred?"</string>
+     <string name="trans_intro_title">FAQ</string>
+     <string name="trans_intro_title_account">Account e password:</string>
+     <string name="trans_intro_title_multiapp">Dati app clonate:</string>
+     <string name="trans_intro_title_multiuser">Dato spazio Secondario:</string>
+     <string name="trans_intro_title_new">Su nuovo dispositivo:</string>
+     <string name="trans_intro_title_old">Su vecchio dispositivo:</string>
+     <string name="trans_intro_title_private">Album nascosto:</string>
      <string name="trans_main_tutor">Trasferisci contatti, registro chiamate, messaggi, layout home, app, impostazioni e altro su un nuovo dispositivo</string>
      <string name="trans_my_device">Il mio dispositivo</string>
      <string name="trans_native_no_space">"Questo dispositivo non ha spazio sufficiente
@@ -280,15 +404,19 @@ Tocca [I'm a recipient] per creare un Codice QR"</string>
 2. Apri l'app e seleziona [Sono il mittente]
 3. Scansiona il Codice QR con il vecchio dispositivo"</string>
      <string name="trans_operate_old_phone_tips2">"Vai in Impostazioni > Impostazioni aggiuntive > Trasferimento e tocca [Sono il mittente]"</string>
+     <string name="trans_operate_reconnect_new_tips">"Attendi finché non compare il nuovo dispositivo \"Dispositivo disconnesso\".
+Quindi premi [Reconnect] per creare un codice QR."</string>
+     <string name="trans_operate_reconnect_old_tips">"Attendi finché non compare il vecchio dispositivo \"Dispositivo disconnesso\".
+Quindi premi [Reconnect] per scansionare il codice QR code."</string>
      <string name="trans_please_waiting">Attendi…</string>
-     <string name="trans_progress_subdescript_br_receiver">Restoring %1$s, %2$s completed</string>
-     <string name="trans_progress_subdescript_br_sender">Backing up %1$s, %2$s completed</string>
+     <string name="trans_progress_subdescript_br_receiver">Ripristino %1$s, %2$s completato</string>
+     <string name="trans_progress_subdescript_br_sender">Backup %1$s, %2$s completato</string>
      <string name="trans_progress_subdescript_br_sender_finish">Backup di %s eseguito, in attesa di invio…</string>
-     <string name="trans_progress_subdescript_transing_receiver">Receiving %1$s, %2$s completed</string>
+     <string name="trans_progress_subdescript_transing_receiver">Recezione %1$s, %2$s completata</string>
      <string name="trans_progress_subdescript_transing_receiver_finish">%s ricevuti, in attesa di ripristino…</string>
-     <string name="trans_progress_subdescript_transing_sender">Sending %1$s, %2$s completed </string>
-     <string name="trans_progress_subdescript_transingsd_receiver">Receiving files, %s completed</string>
-     <string name="trans_progress_subdescript_transingsd_sender">Sending files, %s completed</string>
+     <string name="trans_progress_subdescript_transing_sender">Invio %1$s, %2$s completato</string>
+     <string name="trans_progress_subdescript_transingsd_receiver">Ricezione file, %s completato</string>
+     <string name="trans_progress_subdescript_transingsd_sender">Invio file, %s completato</string>
      <string name="trans_progress_subdescript_transingsddata_receiver">Ricezione dati sdcard di %1$s, %2$s completato</string>
      <string name="trans_progress_subdescript_transingsddata_sender">Invio dati sdcard di %1$s, %2$s completato</string>
      <string name="trans_progress_subdescript_waiting">In attesa di ricevere %s</string>
@@ -301,6 +429,8 @@ Non disattivare l'Hotspot. Mantieni i dispositivi vicini."</string>
      <string name="trans_retry">Riprova</string>
      <string name="trans_scan_invalid_qrcode">Codice QR non valido</string>
      <string name="trans_scan_qr_code_tips">Scansiona Codice QR utilizzando il nuovo dispositivo</string>
+     <string name="trans_security_tips_message">"Alcune app non supportano Mi Mover."</string>
+     <string name="trans_security_tips_title">Compatibilità Mi Mover</string>
      <string name="trans_select_data">Scegli i file</string>
      <string name="trans_select_data_no_space">"%s disponibili sul nuovo dispositivo
 Seleziona di nuovo i file per liberare spazio"</string>
@@ -328,18 +458,18 @@ In attesa del trasferimento…"</string>
      <string name="trans_waiting_ensurance">"Accertati che il vecchio dispositivo sia acceso
  ed il trasferimento sia attivato"</string>
      <string name="trans_waiting_for_sender">in attesa della connessione del vecchio dispositivo…</string>
+     <string name="trans_wlan_tips_message">"Please don't turn off or switch WLAN while transfering data. Otherwise the mover may fail."</string>
+     <string name="trans_wlan_tips_title">"Please don't turn off or switch WLAN"</string>
      <string name="unit_byte">"Byte"</string>
-     <string name="unit_piece">" Elemento(i)"</string>
      <string name="unknown_hint">Sconosciuto</string>
+     <string name="user_name">Apple ID or email</string>
+     <string name="user_name_null">User name cannot be empty</string>
      <string name="user_notice_declaration_ignore">Non mostrare più</string>
      <string name="user_notice_message">Alcune funzioni richiedono una connessione internet per funzionare correttamente.</string>
      <string name="user_notice_title">Notifiche utente</string>
      <string name="wifi_title">Impostazioni Wi-Fi</string>
-     <string name="xiaomi_bytes_unit">%1$s B</string>
      <string name="xiaomi_connect_download_manager_fail">Connessione Download Manager fallita, controlla lo stato del Download Manager nella Gestione Applicazioni.</string>
      <string name="xiaomi_external_storage_unavailable">Memoria non disponibile, verifica la scheda SD.</string>
-     <string name="xiaomi_kilobytes_unit">%1$s KB</string>
-     <string name="xiaomi_megabytes_unit">%1$s MB</string>
      <string name="xiaomi_router">Mi Router</string>
      <string name="xiaomi_router_location">Mi Router %s</string>
      <string name="xiaomi_update_dialog_message">"Presentazione versione %1$s

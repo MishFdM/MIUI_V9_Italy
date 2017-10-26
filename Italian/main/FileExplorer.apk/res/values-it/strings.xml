@@ -55,7 +55,7 @@
      <string name="cancel">Annulla</string>
      <string name="cancel_error">Impossibile rimuovere, riprova</string>
      <string name="cancel_operation">Annulla operazione</string>
-     <string name="cancel_success">Removed successfully, all files moved to %s</string>
+     <string name="cancel_success">Rimozione riuscita, tutti i file sono stati spostati %s</string>
      <string name="cancelled_by_user">Operazione annullata</string>
      <string name="cannot_send">Impossibile inviare file dalla memoria interna</string>
      <string name="category">Categorie</string>
@@ -141,7 +141,7 @@
      <string name="decrypt_error">Impossibile decrittare</string>
      <string name="decrypt_to">Decripta e salva in…</string>
      <string name="decrypting">Decriptazione…</string>
-     <string name="default_prize_text">Questo va dritto con i miei tesori!</string>
+     <string name="default_prize_text">Questo va dritto assieme ai miei tesori!</string>
      <string name="default_user_desc">Questa persona non ha ancora aggiunto una descrizione</string>
      <string name="delete_dialog_button">Elimina</string>
      <string name="delete_error">Non è stato possibile eliminare alcuni file, riprova</string>
@@ -404,7 +404,6 @@
      <string name="operation_share">Condividi</string>
      <string name="operation_show_sys">Mostra file di sistema e cache</string>
      <string name="operation_unfavorite">Rimuovi dai Preferiti</string>
-     <string name="origin_name">%1$s: </string>
      <string name="original_user_desc">Carica regolarmente video originali per conquistare lo status di Creatore</string>
      <string name="original_user_qq_group">Entra nel gruppo QQ del Team Talenti</string>
      <string name="original_user_register"> • &lt;font color=#fc7050&gt;%1$s&lt;/font&gt; joined the community</string>
@@ -483,7 +482,6 @@
      <string name="recommend_popup_title">Suggerimenti</string>
      <string name="recommend_topic">Temi consigliati</string>
      <string name="recommend_user">Profili consigliati</string>
-     <string name="recommend_users">%1$s+</string>
      <string name="remote_video_report_success">Grazie per il tuo feedback! Controlleremo appena possibile.</string>
      <string name="rename_alert">"Modificando l'estensione di questo file potresti non essere più in grado di aprirlo."</string>
      <string name="rename_alert2">Il file verrà nascosto.</string>
@@ -773,7 +771,6 @@
      <string name="video_topic_hint">Cerca argomento</string>
      <string name="video_upload_btn">passo successivo</string>
      <string name="video_upload_btn_hint">Supporta solo video brevi da 3s a 10min in MP4</string>
-     <string name="video_upload_item_title">%1$s (%2$s)</string>
      <string name="video_upload_kuaishou_hint">Carica video KuaiShou per avere più fan.</string>
      <string name="video_upload_retry_confirm">Riprova</string>
      <string name="video_upload_retry_message">Il tuo video non è stato caricato, riprovare?</string>

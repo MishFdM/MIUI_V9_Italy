@@ -1,32 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+     <string name="accessibility_enabled">Accessibility enabled.</string>
      <string name="agree">OK</string>
      <string name="agree_terms">Ho letto e accetto i Termini e le Condizioni</string>
-     <string name="app_name">Provision</string>
+     <string name="app_name">Introduzione</string>
+     <string name="application_permissions">Permessi Applicazioni</string>
      <string name="back">Indietro</string>
      <string name="cm_terms_content">Per migliorare i servizi forniti, il tuo gestore potrebbe caricare i tuoi dati personali e informazioni su questo dispositivo sui suoi server tramite rete Wi-Fi o connessione dati mobile. Queste informazioni verranno usati solo per scopi statistici al fine di migliorare la qualità dei servizi e fornire altri contenuti personalizzati. Queste informazioni non verranno utilizzate per identificarti e non verranno divulgate a terze parti"</string>
      <string name="cm_terms_title">Regolamento Operatore Rete Mobile</string>
      <string name="congratulation_label" />
      <string name="congratulation_title">Tutto impostato</string>
      <string name="content_description_complete">Completato</string>
-     <string name="content_description_language_picker">Seleziona la lingua</string>
      <string name="content_description_miui_version">MIUI 9</string>
      <string name="content_description_start">Avvia</string>
+     <string name="continue_to_enable_accessibility">Keep holding down two fingers to enable accessibility.</string>
      <string name="desc_extra_fingerprint" />
      <string name="desc_extra_international_fingerprint" />
      <string name="desc_fingerprint">Utilizza le tue impronte digitali per sbloccare il dispositivo, verificare le transazioni Mi Pay o per accedere ad app e servizi.</string>
      <string name="desc_international_fingerprint">Usa la tua impronta digitale per sbloccare il dispositivo o per accedere ad applicazioni e servizi.</string>
      <string name="disagree">Annulla</string>
+     <string name="enable_accessibility_canceled">Accessibility canceled.</string>
      <string name="enable_accessibility_dialog_message">Hai attivato TalkBack toccando lo schermo con due dita per più di 10 secondi. TalkBack fornisce feedback audio per utenti ipovedenti. Se lo hai attivato involontariamente, tocca il tasto Annulla poi tocca due volte lo schermo.</string>
      <string name="enable_accessibility_dialog_negative_btn">Annulla</string>
      <string name="enable_accessibility_dialog_positive_btn">OK</string>
-     <string name="fail_to_generate_qr_code">Fail to generate QR code, please reenter this page.</string>
+     <string name="fail_to_generate_qr_code">Generazione codice QR non riuscita, prego inserisci di nuovo il link di questa pagina.</string>
      <string name="ime_privacy_policy">Termini della Privacy per la tastiera selezionata</string>
      <string name="ime_privacy_policy_no_network">Impossibile connettersi ad internet. Leggi i Termini della Privacy per questa tastiera su %s.</string>
      <string name="input_method_category">"Scegli la tastiera predefinita per la scrittura di messaggi, email, note, ecc. Successivamente potrai installare tastiere di terze parti."</string>
      <string name="input_method_setting">Seleziona tastiera</string>
      <string name="install_preinstall_app">Caricamento applicazioni…</string>
+     <string name="item_fingerprint">Impronta digitale</string>
+     <string name="item_lock_screen_password">Solo schermata di blocco</string>
      <string name="language_picker_other_languages_title">Altre lingue</string>
+     <string name="language_settings">Seleziona lingua</string>
      <string name="locale_picker_title">Scegli il paese</string>
      <string name="miui_privacy_policy_no_network">"Nessuna connessione di rete. Leggi l'informativa sulla privacy su %s"</string>
      <string name="miui_terms_no_network">Nessuna connessione di rete. Leggi i termini del servizio su %s</string>
@@ -64,8 +70,8 @@ Leggi questo documento per la tastiera: "</string>
 
 Devi accettare le Condizioni del Servizio e i Termini sulla Privacy prima di utilizzare MIUI."</string>
      <string name="title_fingerprint">Aggiungi la tua impronta digitale</string>
-     <string name="two_dimensional_code_scan">QR code scan</string>
+     <string name="two_dimensional_code_scan">Scansione codice QR</string>
      <string name="user_agreement">Condizioni del Servizio</string>
-     <string name="user_strayed_warning">The page is designed for factory test, Click back button to exit.</string>
+     <string name="user_strayed_warning">La pagina è progettata per il test di fabbrica, premi il pulsante indietro per uscire.</string>
      <string name="welcome">Benvenuto</string>
 </resources>

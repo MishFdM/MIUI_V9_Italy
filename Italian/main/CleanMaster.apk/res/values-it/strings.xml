@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-     <string name="RF_DalvikCacheLeftovers">软件的系统残留 (Dalvik-Cache)</string>
      <string name="activity_title_ad">Pubblicità</string>
      <string name="activity_title_apk">Pacchetti</string>
      <string name="activity_title_brightness_image">Errore di esposizione</string>
@@ -33,7 +32,7 @@
      <string name="apk_status_install">Installata</string>
      <string name="apk_status_installed_old">Vecchia versione</string>
      <string name="apk_status_uninstalled">Non installata</string>
-     <string name="apk_title_alipay_plugin">支付宝插件</string>
+     <string name="apk_title_alipay_plugin">Plugin Alipay</string>
      <string name="app_description_content">"L'app Pulizia trova ed elimina i file inutili per liberare spazio. Assicurati di poter fare a meno di queste funzioni prima di eliminare l'app."</string>
      <string name="app_description_title">Informazioni</string>
      <string name="app_name">Cheetah Mobile CleanMaster SDK</string>
@@ -93,6 +92,15 @@
      <string name="cached_garbage">Cache</string>
      <string name="call_log">Registro chiamate</string>
      <string name="cancel">Annulla</string>
+     <string name="cd_back">back</string>
+     <string name="cd_check_box_checked">checked</string>
+     <string name="cd_check_box_middle">partial selection</string>
+     <string name="cd_check_box_unchecked">not checked</string>
+     <string name="cd_list_item_collapse">collapsed</string>
+     <string name="cd_list_item_expanded">expanded</string>
+     <string name="cd_percent">percent</string>
+     <string name="cd_settings">settings</string>
+     <string name="cd_sort_type">sort type</string>
      <string name="clean_content_all">Tutto</string>
      <string name="clean_content_one">1 file</string>
      <string name="clean_content_three">3 file</string>
@@ -218,8 +226,8 @@
      <string name="hints_installed_app_fewer">Utilizzata raramente</string>
      <string name="hints_installed_app_near">Utilizzata di recente</string>
      <string name="hints_installed_app_never">Mai utilizzata</string>
-     <string name="hints_installed_apps_header_left">Installed apps: %d</string>
-     <string name="hints_large_file_header_left">Big files: %d</string>
+     <string name="hints_installed_apps_header_left">App installate: %d</string>
+     <string name="hints_large_file_header_left">Grandi file: %d</string>
      <string name="hints_latest_garbage_cleanup_date">Ultima pulizia: %d giorni fa</string>
      <string name="hints_latest_garbage_cleanup_never">Pulizia mai eseguita</string>
      <string name="hints_latest_garbage_cleanup_today">Ultima pulizia: Oggi</string>
@@ -244,7 +252,7 @@
      <string name="hints_scanfinish">Nessun file da rimuovere, prova con la Pulizia approfondita</string>
      <string name="hints_storage_clean_size">Liberati %s dalla memoria interna</string>
      <string name="hints_storage_free">Libero</string>
-     <string name="hints_storage_free_size">Total %1$s, %2$s availablei</string>
+     <string name="hints_storage_free_size">Totale %1$s, %2$s disponibile</string>
      <string name="hints_storage_news">Informazioni sulla sicurezza</string>
      <string name="hints_title_garbage">Spazzatura</string>
      <string name="hints_video_camera">Video registrati</string>
@@ -256,76 +264,6 @@
      <string name="installed">Installata</string>
      <string name="installing">Installazione</string>
      <string name="item_title_process_mode">"Scegli un'azione"</string>
-     <string name="junk_syscache_alert_desc">我们不建议清理这个缓存,&lt;font color=#d64438&gt;清理后会影响APP正常运行&lt;/font&gt;</string>
-     <string name="junk_tag_RF_DalvikCacheLeftovers">软件的系统残留 (Dalvik-Cache)</string>
-     <string name="junk_tag_RF_DemoVideo_LG">LG手机演示用视频</string>
-     <string name="junk_tag_RF_DemoVideo_MIUI">小米手机品牌展示视频</string>
-     <string name="junk_tag_RF_DemoVideo_Samsung">三星手机演示用视频</string>
-     <string name="junk_tag_RF_DemoVideo_Sony">索尼手机演示用视频</string>
-     <string name="junk_tag_RF_EmptyFolders">Cartelle vuote</string>
-     <string name="junk_tag_RF_ImageThumbnails">Anteprime Galleria</string>
-     <string name="junk_tag_RF_LibsDirFiles">无用的数据文件</string>
-     <string name="junk_tag_RF_LogFiles">日志文件</string>
-     <string name="junk_tag_RF_LostDirFiles">无用的系统文件</string>
-     <string name="junk_tag_RF_MFCacheDirFiles">无用的缓存文件</string>
-     <string name="junk_tag_RF_TaobaoLogFiles">手机淘宝的日志文件</string>
-     <string name="junk_tag_RF_TempFiles">临时文件</string>
-     <string name="junk_tag_RF_WechatDownload">微信下载表情时的临时文件</string>
-     <string name="junk_tag_big_file_from_name_album">相册</string>
-     <string name="junk_tag_big_file_from_name_baidu">百度地图</string>
-     <string name="junk_tag_big_file_from_name_baofeng">暴风影音</string>
-     <string name="junk_tag_big_file_from_name_bluetoothfiles">蓝牙目录</string>
-     <string name="junk_tag_big_file_from_name_camerafiles">系统相册目录</string>
-     <string name="junk_tag_big_file_from_name_downloads">下载目录</string>
-     <string name="junk_tag_big_file_from_name_fmt">来自%s</string>
-     <string name="junk_tag_big_file_from_name_musicfiles">音乐目录</string>
-     <string name="junk_tag_big_file_from_name_sdcard">存储卡根目录</string>
-     <string name="junk_tag_big_file_from_name_videofiles">视频目录</string>
-     <string name="junk_tag_big_file_mergedfile_desc_aura">它是Sygic GPS下载的地图，&lt;font color=#d64438 &gt;清理后无法恢复&lt;/font&gt;</string>
-     <string name="junk_tag_big_file_mergedfile_desc_baidumap">它是百度地图下载的地图，&lt;font color=#d64438 &gt;清理后需要重新下载才能离线使用&lt;/font&gt;</string>
-     <string name="junk_tag_big_file_mergedfile_desc_baofeng">这是暴风影音下载的视频，&lt;font color=#d64438 &gt;清理后无法恢复&lt;/font&gt;</string>
-     <string name="junk_tag_big_file_mergedfile_desc_downloader">它是使用Downloader下载的文件，&lt;font color=#d64438 &gt;清理后文件会被删除&lt;/font&gt;</string>
-     <string name="junk_tag_big_file_mergedfile_desc_duokan">这是多看阅读中的我的书架书籍，&lt;font color=#d64438 &gt;清理后将无法查看&lt;/font&gt;</string>
-     <string name="junk_tag_big_file_mergedfile_desc_goapk">这是安智市场中下载的安装包，&lt;font color=#d64438 &gt;清理后将无法使用&lt;/font&gt;</string>
-     <string name="junk_tag_big_file_mergedfile_desc_googletransfer">它是翻译下载的离线语言包，&lt;font color=#d64438 &gt;清理后需要联网重新下载才能离线使用&lt;/font&gt;</string>
-     <string name="junk_tag_big_file_mergedfile_desc_navitel">它是Navitel下载的地图，&lt;font color=#d64438 &gt;清理后下载的 地图会被删除，需要联网重新下载&lt;/font&gt;</string>
-     <string name="junk_tag_big_file_mergedfile_desc_sygic">它是Sygic GPS下载的地图，&lt;font color=#d64438 &gt;清理后无法恢复&lt;/font&gt;</string>
-     <string name="junk_tag_big_file_mergedfile_desc_ucbrowser">这是UC Browser的可离线阅读的小说，&lt;font color=#d64438 &gt;清理后可离线阅读的小说会被删除&lt;/font&gt;</string>
-     <string name="junk_tag_big_file_mergedfile_desc_vk">它是使用VK播放音乐的时候缓存的语音文件，&lt;font color=#d64438 &gt;清理后不能离线收听&lt;/font&gt;</string>
-     <string name="junk_tag_big_file_mergedfile_desc_yandex">它是使用Яндекс.Маркет下载的所有地图，&lt;font color=#d64438 &gt;清理后不能离线使用&lt;/font&gt;</string>
-     <string name="junk_tag_big_file_mergedfile_name_aura">下载的地图(Sygic)</string>
-     <string name="junk_tag_big_file_mergedfile_name_downloader">下载的文件(Downloader)</string>
-     <string name="junk_tag_big_file_mergedfile_name_duokan">我的书架书籍(多看)</string>
-     <string name="junk_tag_big_file_mergedfile_name_goapk">下载的安装包(安智市场)</string>
-     <string name="junk_tag_big_file_mergedfile_name_googletransfer">下载的离线语言包(Google 翻译)</string>
-     <string name="junk_tag_big_file_mergedfile_name_navitel">下载的地图(Navitel)</string>
-     <string name="junk_tag_big_file_mergedfile_name_sygic">下载的地图(Sygic)</string>
-     <string name="junk_tag_big_file_mergedfile_name_ucbrowser">可离线阅读的小说(UC浏览器)</string>
-     <string name="junk_tag_big_file_mergedfile_name_vk">保存的语音文件(VK播放)</string>
-     <string name="junk_tag_big_file_mergedfile_name_yandex">下载的地图(Yandex)</string>
-     <string name="junk_tag_big_file_type_apk">%1$s安装包(V%2$s)</string>
-     <string name="junk_tag_big_file_type_font">[字体]%1$s</string>
-     <string name="junk_tag_big_file_type_gamedata_obb">%1$s的数据包</string>
-     <string name="junk_tag_big_file_type_map_baidu">%1$s离线地图</string>
-     <string name="junk_tag_junk_android_data_2nd_card_left_overs">软件卸载后残留文件</string>
-     <string name="junk_tag_junk_big_name_android_data_google_file">翻译数据文件</string>
-     <string name="junk_tag_junk_big_name_c_thumbnails">相册缩略图</string>
-     <string name="junk_tag_junk_big_name_d_100media">录制的视频</string>
-     <string name="junk_tag_junk_big_name_d_thumbnails">相册缩略图</string>
-     <string name="junk_tag_junk_big_name_demovideo">功能演示视频</string>
-     <string name="junk_tag_junk_big_name_downloadmanager">下载的文件</string>
-     <string name="junk_tag_junk_big_name_llogs">系统无用日志文件</string>
-     <string name="junk_tag_junk_big_name_mi_userbook">小米功能新手引导</string>
-     <string name="junk_tag_junk_big_name_miui_gallerydemovideo">小米功能演示视频</string>
-     <string name="junk_tag_junk_big_name_s_dic">三星字典的词库</string>
-     <string name="junk_tag_junk_big_name_s_movie">三星自带视频</string>
-     <string name="junk_tag_junk_big_name_samsung_video">三星自带视频</string>
-     <string name="junk_tag_junk_big_name_smt">语音识别数据文件</string>
-     <string name="junk_tag_junk_big_name_sys_rom">系统包软件</string>
-     <string name="junk_tag_junk_big_name_tencent_qqfile">QQ接收的文件</string>
-     <string name="junk_tag_junk_big_name_thumbnails">手机图片缩略图</string>
-     <string name="junk_tag_junk_big_name_whatsapp_media_video">whatsapp视频文件</string>
-     <string name="junk_tag_system_fixed_cache_item_sd_pushLog_title">GDC推送日志</string>
      <string name="just_now">Poco fa</string>
      <string name="kilobyteShort">KB</string>
      <string name="label_image_list_none">Nessuno</string>
@@ -336,7 +274,7 @@
      <string name="login_immediately">Accedi</string>
      <string name="long_click_dialog_summary">Tieni premuto per aggiungere eccezioni.</string>
      <string name="long_click_dialog_title">Avviso</string>
-     <string name="low_memory_clean_dialog_msg">Clear at least 100MB files firs</string>
+     <string name="low_memory_clean_dialog_msg">Prima pulisci almeno 100MB di file</string>
      <string name="low_memory_clean_dialog_ok_button">OK</string>
      <string name="low_memory_clean_dialog_title">Spazio insufficiente in memoria</string>
      <string name="low_memory_warning_dialog_cancel_button">Annulla</string>
@@ -426,12 +364,25 @@
      <string name="privacy_search_desc">Cronologia di ricerca</string>
      <string name="privacy_search_type">Ricerca Google</string>
      <string name="promotion">Scelte dagli editori</string>
+     <string name="qq_cache_files">Cache QQ</string>
+     <string name="qq_clean">Pulitore QQ</string>
+     <string name="qq_clean_exit_confirm_msg">Bloccare scansione ed uscire ora?</string>
+     <string name="qq_data_type_cache">Cache QQ</string>
+     <string name="qq_data_type_cache_desc">Sarai in grado di ripristinare questi file dopo che ti sarai connesso internet.</string>
+     <string name="qq_data_type_chat">Cronologia chat</string>
+     <string name="qq_data_type_chat_desc">Non sarai in grado di ripristinare la cronologia della chat</string>
+     <string name="qq_data_type_normal">Cestino</string>
+     <string name="qq_data_type_normal_clean_tips">Questi sono file tecnici. La loro eliminazione non influirà sul tuo utilizzo.</string>
+     <string name="qq_data_type_normal_desc">La loro eliminazione non influirà sul tuo utilizzo.</string>
+     <string name="qq_data_type_other">Altro</string>
+     <string name="qq_data_type_other_desc">Fai attenzione, potresti non essere in grado di ripristinare questi file dopo la loro eliminazione.</string>
      <string name="recommend_news">Fonti consigliate</string>
      <string name="recommend_the_following">Esegui le seguenti azioni per ottenere il massimo dal tuo dispositivo</string>
      <string name="recommended">In evidenza</string>
      <string name="remain_item_name_n7p" />
      <string name="remain_item_name_pamp" />
      <string name="resutl_function_deep_clean_summary">" altri %1$s file posso essere eliminati. Libera altro spazio. "</string>
+     <string name="resutl_function_qq_clean_summary">" "&lt;Data&gt;Puoi ripulire &amp;lt;font color=#ff0000 &amp;gt;%1$s&amp;lt;/font&amp;gt; della cache generata da QQ&lt;/Data&gt;" "</string>
      <string name="resutl_function_wechat_clean_summary">" %1$s di cache WeChat. Libera altro spazio. "</string>
      <string name="sc_allow_network_dialog_button">Consenti</string>
      <string name="sc_allow_network_dialog_message">Consentire a questa applicazione di connettersi alla rete per ricevere i dati?</string>
@@ -455,7 +406,7 @@
      <string name="summary_delete_large_file">Alcuni file di grosse dimensioni possono essere utili quando non si ha una connessione internet a disposizione (es: mappe, agende, etc.). Assicurati di non aver bisogno di questi file.</string>
      <string name="summary_delete_video">Eliminare definitivamente i video selezionati?</string>
      <string name="summary_optimizer">Questa funzione carica i nomi delle cartelle nei database online di Cheeta Mobile</string>
-     <string name="sys_cache_on_sdcard_item_name">缓存</string>
+     <string name="sys_cache_on_sdcard_item_name">Nascosto</string>
      <string name="terabyteShort">TB</string>
      <string name="text_optimizer">Carica i nomi delle cartelle</string>
      <string name="there_is_no">Tutto ok, riprova più tardi</string>
@@ -510,7 +461,7 @@
      <string name="total_clean_text">Pulisci</string>
      <string name="update_date_format">dd-MM-yyyy</string>
      <string name="virus_scan">Scansione virus</string>
-     <string name="vungle_ad_name">Vungle广告</string>
+     <string name="vungle_ad_name">Vungle</string>
      <string name="wechat_cache_files">Cache WeChat</string>
      <string name="wechat_chat_clean_done">Sembra tutto OK</string>
      <string name="wechat_chat_data_type_cache">Cache WeChat</string>
@@ -522,10 +473,7 @@
      <string name="wechat_chat_data_type_normal_desc">La loro eliminazione non influirà sul tuo utilizzo.</string>
      <string name="wechat_chat_data_type_other">Altro</string>
      <string name="wechat_chat_data_type_other_desc">Fai attenzione, potresti non essere in grado di ripristinare questi file dopo la loro eliminazione.</string>
-     <string name="wechat_chat_files">Chat history</string>
      <string name="wechat_clean">Pulizia WeChat</string>
-     <string name="wechat_clean_downloads">Received files</string>
-     <string name="wechat_clean_downloads_desc">Files received on WeChat</string>
      <string name="wechat_clean_exit_confirm">Uscire?</string>
      <string name="wechat_clean_exit_confirm_msg">Fermare la scansione ed uscire ora?</string>
      <string name="wechat_clean_stop_confirm">Fermare la scansione?</string>
@@ -540,7 +488,8 @@
      <string name="wechat_copying_video_dialog_title">Esporta sulla Galleria</string>
      <string name="wechat_copying_video_empty">Nessun video da esportare</string>
      <string name="wechat_copying_video_success">Esportazione riuscita</string>
-     <string name="wechat_normal_files">Trash</string>
+     <string name="wechat_qq_chat_files">Cronologia chat</string>
+     <string name="wechat_qq_normal_files">Cestino</string>
      <string name="white_list_ad_header">Pubblicità: %d</string>
      <string name="white_list_apk_header">Pacchetti di installazione: %d</string>
      <string name="white_list_cache_header">File nella cache: %d</string>

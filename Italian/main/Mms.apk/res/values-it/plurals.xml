@@ -10,7 +10,7 @@
         <item quantity="few">%d sec</item>
     </plurals>
     <plurals name="slide_audio_duration">
-        <item quantity="other">%d secs</item>
+        <item quantity="other">%d sec</item>
         <item quantity="one">%d sec</item>
         <item quantity="few">%d sec</item>
     </plurals>

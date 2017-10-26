@@ -24,8 +24,8 @@
      <string name="one_cacrt">un certificato CA</string>
      <string name="one_usercrt">un certificato utente</string>
      <string name="one_userkey">una chiave utente</string>
-     <string name="one_wapi_ascrt">one WAPI AS certificate</string>
-     <string name="one_wapi_usercrt">one WAPI user certificate</string>
+     <string name="one_wapi_ascrt">Un certificato WAPI AS</string>
+     <string name="one_wapi_usercrt">Un certificato utente WAPI</string>
      <string name="only_primary_user_allowed">Solo il proprietario di questo dispositivo può installare certificati.</string>
      <string name="p12_description">Certificati in keystore PKCS12.</string>
      <string name="password_empty_error">Digita la password.</string>
@@ -39,8 +39,8 @@
      <string name="wifi_config_text">"Nome: %1$s
 FQDN: %2$s
 Società Roaming: %3$s
-Realm: %4$s
-Auth method: EAP-%5$s
+Regno: %4$s
+Metodo aut: EAP-%5$s
 "</string>
      <string name="wifi_detail_label">Dettagli</string>
      <string name="wifi_detail_title">Dettagli per %s</string>

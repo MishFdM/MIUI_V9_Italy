@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="add_alarm">Aggiungi</string>
+     <string name="add_timezone_title">Aggiungi fuso orario</string>
      <string name="alarm_alert_alert_silenced">Silenzia sveglia dopo %d minuti</string>
      <string name="alarm_alert_snooze_set">Sospendi per %d minuti.</string>
      <string name="alarm_ascending_mode_summary">"Il volume della sveglia aumenta progressivamente."</string>
@@ -31,7 +32,7 @@
      <string name="cancel">Stop</string>
      <string name="close_alarm">Disattiva</string>
      <string name="common_settings">Impostazioni</string>
-     <string name="confirm_abort">OK</string>
+     <string name="confirm_abort">Annullare</string>
      <string name="control_set_alarm">Imposta sveglia</string>
      <string name="control_set_alarm_with_existing">Sveglia impostata: %s</string>
      <string name="day">1 giorno</string>
@@ -54,6 +55,7 @@
      <string name="force_touch_enter_stopwatch">Cronometro</string>
      <string name="force_touch_enter_timer">Timer</string>
      <string name="full_wday_month_day_no_year">EEEE, d MMMM</string>
+     <string name="go_back">Indietro</string>
      <string name="hour">1 ora</string>
      <string name="hour_unit">O</string>
      <string name="hours">%d ore</string>
@@ -71,8 +73,9 @@
      <string name="legal_workday_invalidate_message">(Data scaduta, aggiorna in Impostazioni)</string>
      <string name="legal_workday_message">(escluse le festività)</string>
      <string name="life_post_setting">Rapporto del mattino</string>
-     <string name="life_post_setting_FBE_remind">Due to system restriction, weather info in morning report may not display correctly after reboot</string>
-     <string name="life_post_setting_open_subtitle">Ricevi informazioni sul meteo quando disattivilesveglietra le 4:00 e le 9:30</string>
+     <string name="life_post_setting_FBE_remind">A causa di una restrizione del sistema, le informazioni meteo potrebbero non essere visualizzate correttamente dopo il riavvio</string>
+     <string name="life_post_setting_close_title">Chiudi rapporti mattina</string>
+     <string name="life_post_setting_open_subtitle">Ricevi informazioni sul meteo alla disattivazione delle sveglie tra le 4:00 e le 9:30</string>
      <string name="life_post_setting_open_title">Ricevi rapporti del mattino</string>
      <string name="life_post_setting_wake_up_list_title">Cronologia risvegli</string>
      <string name="life_post_wake_up_acumu_day_title">Conteggio giorni</string>
@@ -96,12 +99,13 @@
      <string name="menu_item_sort_by_name">Ordina per nome</string>
      <string name="minute">1 minuto</string>
      <string name="minutes">%d minuti</string>
+     <string name="more_setting">Altre impostazioni</string>
      <string name="more_settings">Altre impostazioni</string>
      <string name="never">Mai</string>
      <string name="oneshot_alarm">Elimina dopo che ha suonato</string>
      <string name="pause">Pausa</string>
      <string name="remind_ringtone">Suoneria</string>
-     <string name="reset">Reset</string>
+     <string name="reset">Azzera</string>
      <string name="revert">Ripristina</string>
      <string name="search_alarm_clock_keywords">Sveglia;Sveglia;</string>
      <string name="search_stopwatch_keywords">Cronometro</string>
@@ -115,7 +119,6 @@
      <string name="shutdown_alarm_enable_summary">Spegnimento abilitato</string>
      <string name="shutdown_alarm_title">Spegnimento sveglia</string>
      <string name="silent_alarm_summary">Silenziosa</string>
-     <string name="skip_alarm_date_format">%1$s (%2$s)</string>
      <string name="skip_alarm_once_hint">Disattiva una volta il %s</string>
      <string name="slider_text">Scorri per silenziare</string>
      <string name="snooze_confirm_cancel">Annulla sospensione</string>
@@ -158,7 +161,7 @@
      <string name="turn_off_a_repeat_alarm">Disattiva ripetizione sveglia</string>
      <string name="turn_off_this_repeat_alarm">Disattiva la ripetizione di questa sveglia</string>
      <string name="upcoming_alarm"> Sveglia in arrivo</string>
-     <string name="upcoming_alarm_hint">Puoi disattivare la sveglia in anticipo</string>
+     <string name="upcoming_alarm_hint">Disattiva la sveglia in anticipo</string>
      <string name="vibrate_pref_summary">"Vibra quando suona la sveglia"</string>
      <string name="vibrate_when_ringing">Vibra quando suona</string>
      <string name="volume_button_setting_summary">Imposta il comportamento alla pressione di uno dei due pulsanti</string>

@@ -23,6 +23,7 @@
      <string name="add_contact_dlg_message_fmt">Aggiungi \"%s\" ai contatti?</string>
      <string name="add_display_photo_entry">Aggiungi foto profilo</string>
      <string name="add_field">Aggiungi un altro campo</string>
+     <string name="add_field_toast">Nessun altro campo da aggiungere.</string>
      <string name="add_incall_show_entry">Aggiungi video</string>
      <string name="add_new_account">Aggiungi nuovo account</string>
      <string name="add_new_entry_for_section">Aggiungi nuovo</string>
@@ -88,6 +89,7 @@
      <string name="call_radio">Chiama radiotelefono</string>
      <string name="call_record_setting_miui">Impostazioni registrazione</string>
      <string name="call_settings">Impostazioni</string>
+     <string name="call_settings_primary_user_only">"Le impostazioni di chiamata possono essere modificate solo dall'utente principale."</string>
      <string name="call_sim1_description">SIM 1</string>
      <string name="call_sim1_menu_title">Chiama con SIM 1</string>
      <string name="call_sim2_description">SIM 2</string>
@@ -95,7 +97,6 @@
      <string name="call_sim_menu_title_suffix">(Primaria)</string>
      <string name="call_telex">Chiama telex</string>
      <string name="call_tty_tdd">Chiama TTY/TDD</string>
-     <string name="call_type_and_date">%1$s %2$s</string>
      <string name="call_unit">USD</string>
      <string name="call_work">Chiama n. lavoro</string>
      <string name="call_work_mobile">Chiama n. cellulare lavoro</string>
@@ -399,9 +400,9 @@ Le schede contatti sono disattivate"</string>
      <string name="dialog_voicemail_airplane_mode_message">Per chiamare la segreteria, disattiva prima la modalità Aereo.</string>
      <string name="dialog_voicemail_not_ready_message">Per configurare la segreteria, vai in Menu > Impostazioni.</string>
      <string name="directory_search_label">Cartella</string>
-     <string name="disclaimer_text">"Le pagine gialle recuperano infomrazioni sul tuo saldo tramite invio di un SMS. Il tuo operatore potrebbe , so the numbers you get might not be accurate. If you see a mistake, you can report the inquiry SMS to help us improve this service. 
+     <string name="disclaimer_text">"Le pagine gialle recuperano informazioni sul tuo saldo tramite l'invio di un SMS. Il tuo operatore potrebbe addebitartene il costo. Se noti un errore, puoi segnalare l'SMS di richiesta per migliorare il servizio. 
 
-To avoid frequent queries, we update balance info once a day."</string>
+Per evitare richieste frequenti, noi aggiorneremo le informazioni del saldo una volta al giorno."</string>
      <string name="disclaimer_title">Avviso</string>
      <string name="display_all_contacts">Tutti i contatti</string>
      <string name="display_more_groups">Altri gruppi…</string>
@@ -440,7 +441,7 @@ To avoid frequent queries, we update balance info once a day."</string>
      <string name="expandCloseViewDescription">Chiudi</string>
      <string name="expandOpenViewDescription">Espandi</string>
      <string name="export_sim_contact_finish">Esportazione completata</string>
-     <string name="export_sim_contact_finish_msg">%1$d transferred | %2$d duplicated | %3$d remaining %4$s</string>
+     <string name="export_sim_contact_finish_msg">%1$d trasferiti | %2$d duplicati | %3$d rimasti %4$s</string>
      <string name="export_to_sdcard">Esporta su SD</string>
      <string name="export_to_sim">Esporta sulla SIM</string>
      <string name="export_to_sim1">Esporta su SIM 1</string>
@@ -477,9 +478,7 @@ Motivo: \"%s\"</string>
      <string name="force_touch_miprofile">Scheda contatto</string>
      <string name="force_touch_new_contact">Nuovo contatto</string>
      <string name="foundTooManyContacts">Più di %d trovati.</string>
-     <string name="fraud_more_indemnity">More</string>
      <string name="frequentList">Frequenti</string>
-     <string name="from_account_format">%1$s</string>
      <string name="full_name">Nome</string>
      <string name="gallery">Galleria</string>
      <string name="generic_no_account_prompt">Tieni al sicuro i tuoi contatti anche se perdi il telefono: sincronizzali con un servizio online.</string>
@@ -494,7 +493,8 @@ Motivo: \"%s\"</string>
      <string name="group_delete_success_toast">Gruppo eliminato</string>
      <string name="group_detail_label_placeholder"> </string>
      <string name="group_edit_field_hint_text">Nome del gruppo</string>
-     <string name="group_member_remove_toast">Removed from group</string>
+     <string name="group_member_remove_fail_toast">Not removed from group</string>
+     <string name="group_member_remove_success_toast">Removed from group</string>
      <string name="group_name">I miei gruppi</string>
      <string name="group_name_hint">Nome del gruppo</string>
      <string name="group_read_only">Non modificabile su questo dispositivo.</string>
@@ -517,7 +517,7 @@ Motivo: \"%s\"</string>
      <string name="hybrid_network_unavaliable">"Impossibile collegarsi alla rete"</string>
      <string name="hybrid_service_unavailiable">Servizio non disponibile</string>
      <string name="hybrid_try_again">Riprova</string>
-     <string name="hybrid_webpage_not_available">Webpage not available</string>
+     <string name="hybrid_webpage_not_available">Pagina web non disponibile</string>
      <string name="ic_menu_back">Indietro</string>
      <string name="ic_menu_done">Fatto</string>
      <string name="imLabelsGroup">Chat</string>
@@ -547,15 +547,15 @@ Motivo: \"%s\"</string>
      <string name="import_to_xiaomi_account_title">Vuoi importare i seguenti contatti sul tuo Mi Account?</string>
      <string name="import_vcard_description">Importa contatti dalla tua scheda SD</string>
      <string name="import_vcard_dialog_message">Importare vCard?</string>
-     <string name="import_weibo_dialog_title">Import Weibo contacts</string>
-     <string name="import_weibo_error_no_matched_contacts">No matching contacts</string>
-     <string name="import_weibo_error_no_network">"Can't connect to the network. Check your data connection and try again."</string>
-     <string name="import_weibo_error_no_xiaomi_phone">There are no phone numbers stored in your Mi Account.</string>
-     <string name="import_weibo_error_unknown">Unknown error</string>
-     <string name="import_weibo_error_user_cancel">Import canceled</string>
-     <string name="import_weibo_fetch_followers">Fetching contacts…</string>
-     <string name="import_weibo_notification_title_done">Updated %s contacts</string>
-     <string name="import_weibo_progress_name">Matching \"%1$s\"…</string>
+     <string name="import_weibo_dialog_title">Importa contatti Weibo</string>
+     <string name="import_weibo_error_no_matched_contacts">Nessuna corrispondenza contatti</string>
+     <string name="import_weibo_error_no_network">"Impossibile connettersi alla rete. Controlla la tua connessione dati e riprova."</string>
+     <string name="import_weibo_error_no_xiaomi_phone">Non esiste alcun numero di telefono salvato nel tuo Mi Account.</string>
+     <string name="import_weibo_error_unknown">Errore sconosciuto</string>
+     <string name="import_weibo_error_user_cancel">Importazione annullata</string>
+     <string name="import_weibo_fetch_followers">Ricerca contatti…</string>
+     <string name="import_weibo_notification_title_done">%s contatti aggiornati</string>
+     <string name="import_weibo_progress_name">Corrispondenza \"%1$s\"…</string>
      <string name="importing_sim_contacts_miui">Importazione contatti dalla SIM…</string>
      <string name="importing_sim_contacts_miui_prepare">"Preparazione per l'impostazione…"</string>
      <string name="importing_vcard_canceled_title">Importazione di %s annullata</string>
@@ -586,11 +586,6 @@ Motivo: \"%s\"</string>
      <string name="list_filter_customize">Personalizza</string>
      <string name="list_filter_phones">Tutti i contatti con numeri di telefono</string>
      <string name="list_filter_single">Contatto</string>
-     <string name="live_talk_switch_on_toast">Chiamata live attivata</string>
-     <string name="livetalk_charge">Carica</string>
-     <string name="livetalk_left">Chiamata live rimanente</string>
-     <string name="livetalk_switch_on">Attiva</string>
-     <string name="livetalk_title">Chiamata live</string>
      <string name="loading_accounts">Caricamento informazioni SIM…</string>
      <string name="loading_group_members">Caricamento membri dei gruppi…</string>
      <string name="loading_groups">Caricamento gruppi…</string>
@@ -733,7 +728,6 @@ Motivo: \"%s\"</string>
      <string name="multi_number_menu_message">Messaggio</string>
      <string name="multi_number_title">Audioconferenza</string>
      <string name="multipleContactDeleteConfirmation">"L'eliminazione di questo contatto causerà l'eliminazione di informazioni da più account."</string>
-     <string name="multipleContactDeleteConfirmationDetail">Eliminando \"%s\" verranno rimosse le info da diversi account.</string>
      <string name="my_phone_not_provider_bluetooth">Il mio dispositivo non ha il Bluetooh</string>
      <string name="my_phone_provider_bluetooth">Il mio dispositivo ha il Bluetooh</string>
      <string name="nameLabelsGroup">Nome</string>
@@ -890,8 +884,8 @@ Per aggiungere un contatto alla lista dei Preferiti:
      <string name="photoPickerNotFoundText">Nessuna foto disponibile sul tablet.</string>
      <string name="photo_fragment">Foto</string>
      <string name="photo_load_failed">Impossibile caricare la foto</string>
-     <string name="pick_new_photo">Choose new photo from %s</string>
-     <string name="pick_photo">Choose photo from %s</string>
+     <string name="pick_new_photo">Scegli una nuova foto da %s</string>
+     <string name="pick_photo">Scegli una foto da %s</string>
      <string name="pickerNewContactHeader">Crea nuovo contatto</string>
      <string name="pickerNewContactText">Crea nuovo contatto</string>
      <string name="picker_all_list_empty">Nessun contatto</string>
@@ -927,7 +921,7 @@ Per aggiungere un contatto alla lista dei Preferiti:
      <string name="pref_title_account_import">Importa da account</string>
      <string name="pref_title_import_from_account">Importa da un Mi Account</string>
      <string name="preference_auto_ip_summary_disable">Disabilitato</string>
-     <string name="preference_auto_ip_summary_on">"Pref. intern. della tua nazione: %s"</string>
+     <string name="preference_auto_ip_summary_on">"Pref. internaz. della tua nazione: %s"</string>
      <string name="preference_auto_ip_title">Prefisso internaz. automatico</string>
      <string name="preference_contacts">Contatti</string>
      <string name="preference_contacts_display">Preferenze visualizzazione</string>
@@ -951,7 +945,7 @@ Per aggiungere un contatto alla lista dei Preferiti:
      <string name="preference_phone_more_title">Chiamate</string>
      <string name="preference_remove_duplicate">Unisci contatti duplicati</string>
      <string name="preference_show_yellowpage_tab_description">Se chiudi la scheda delle Pagine Gialle, la funzione Pagine Gialle non funzionerà correttamente</string>
-     <string name="preference_show_yellowpage_tab_title">Mostra lascheda delle PagineGialle</string>
+     <string name="preference_show_yellowpage_tab_title">Mostra la scheda delle PagineGialle</string>
      <string name="preference_simple_mode_description">"Mostra l'immagine e gli altri dati del contatto nell'elenco dei contatti"</string>
      <string name="preference_simple_mode_title">Vista dettagliata</string>
      <string name="preference_smart_group_company_summary">Raggruppa per azienda</string>
@@ -987,7 +981,6 @@ Per aggiungere un contatto alla lista dei Preferiti:
      <string name="quit_dialog_confirm_message">Non hai unito nessun contatto</string>
      <string name="quit_dialog_confirm_title">Nessun contatto unito</string>
      <string name="readOnlyContactDeleteConfirmation">Il contatto contiene informazioni da più account. Le informazioni provenienti da account di sola lettura verranno nascoste nei tuoi elenchi di contatti, non eliminate.</string>
-     <string name="readOnlyContactDeleteConfirmationDetail">\"%s\" contiene info da diversi account. Le info di account in sola lettura saranno nascoste nella tua lista contatti.</string>
      <string name="readOnlyContactWarning">"Non puoi eliminare i contatti da un account di sola lettura, ma puoi nasconderli dall'elenco contatti."</string>
      <string name="readingSimContacts">Lettura SIM…</string>
      <string name="reading_vcard_canceled_title">Lettura dati vCard annullata</string>
@@ -1017,7 +1010,7 @@ Per aggiungere un contatto alla lista dei Preferiti:
      <string name="remove_duplicate">"MIUI ti aiuterà a trovare ed unire i contatti duplicati.
 
 Tocca l'icona Unisci in basso per iniziare."</string>
-     <string name="report_inquiry_mms">Report SMS</string>
+     <string name="report_inquiry_mms">Segnala SMS</string>
      <string name="restore_nickname">Ripristina</string>
      <string name="ret_sign">"
 "</string>
@@ -1062,7 +1055,8 @@ Tocca l'icona Unisci in basso per iniziare."</string>
      <string name="search_wipe_data">Organizza;Contatti</string>
      <string name="searching_vcard_message">"Ricerca dati vCard nell'archivio…"</string>
      <string name="select_all">Seleziona tutto</string>
-     <string name="select_done">"Nient'altro da selezionare"</string>
+     <string name="select_all_exceed">Non selezionare più di %1$d, impossibile selezionare tutto"</string>
+     <string name="select_exceed">Non selezionare più di %1$d</string>
      <string name="select_groups">Seleziona gruppi</string>
      <string name="select_none">Nessuna selezione</string>
      <string name="select_show_contacts">Lista contatti</string>
@@ -1095,8 +1089,6 @@ Tocca l'icona Unisci in basso per iniziare."</string>
      <string name="sim_capacity_content" formatted="false">Capacità totale %d | %d usata</string>
      <string name="sim_card_no_free_space_message">Spazio insufficiente: la tua SIM è piena</string>
      <string name="sim_card_no_free_space_title">SIM piena</string>
-     <string name="sim_contact_dropdown_menu_deselect_all_miui">Deseleziona tutto</string>
-     <string name="sim_contact_dropdown_menu_select_all_miui">Seleziona tutto</string>
      <string name="sim_contact_existing">Il contatto esiste già</string>
      <string name="sim_contact_invalid">Contatto SIM non valido</string>
      <string name="sim_contact_search_error">Si è verificato un errore</string>
@@ -1110,13 +1102,13 @@ Tocca l'icona Unisci in basso per iniziare."</string>
      <string name="sim_error_password_error">La password inserita non è valida</string>
      <string name="sim_error_storage_full">Memoria piena</string>
      <string name="sim_error_text_too_long">Nome troppo lungo</string>
+     <string name="sim_export_error">SIM non pronta, riprova più tardi</string>
      <string name="sim_export_loading">Lettura SIM…</string>
      <string name="sim_indexed_contact_not_exist">La posizione %1$d sulla SIM non è valida: deve essere compresa tra %2$d e %3$d.</string>
      <string name="sim_no_contact">Nessun contatto sulla SIM</string>
      <string name="sim_unloaded">SIM non installata</string>
      <string name="sina_weibo">Sina Weibo</string>
      <string name="single_group_list_empty">Nessun membro nel gruppo</string>
-     <string name="smart_group_action_bar_title">%1$s-%2$s, %3$s</string>
      <string name="smart_group_company_label">Per azienda</string>
      <string name="smart_group_company_unavailable">Senza azienda</string>
      <string name="smart_group_frequency_1">"Nell'ultimo mese"</string>
@@ -1164,14 +1156,16 @@ Tocca l'icona Unisci in basso per iniziare."</string>
      <string name="strequentList">Preferiti</string>
      <string name="success_message_import_from_account">Contato importato</string>
      <string name="summary_kind_title">Sommario</string>
+     <string name="t9_search_empty_create_contact">Nuovo contatto</string>
+     <string name="t9_search_empty_edit_contact">Aggiungi ad un contatto</string>
+     <string name="t9_search_empty_send_sms">Invia messaggio</string>
+     <string name="t9_search_empty_video_call">Video call</string>
      <string name="t9_search_guide_pinyin_title1">Trova rapidamente i contatti inserendo alcune lettere</string>
      <string name="t9_search_guide_pinyin_title2">Inserisci 9 e 4 per cercare Xiaomi Hugo</string>
      <string name="t9_search_guide_zhuyin_title1">Trova rapidamente i contatti inserendo alcune lettere</string>
      <string name="t9_search_guide_zhuyin_title2">Inserisci 5 e 6 per cercare Jeff Max</string>
      <string name="take_new_photo">Scatta nuova foto</string>
      <string name="take_photo">Scatta foto</string>
-     <string name="telecom_fraud_insurance">Telecom fraud insurance</string>
-     <string name="telecom_fraud_insurance_description">10,000 CNY insurance | Exclusive Xiaomi offer | 9.9 CNY per year</string>
      <string name="titleJoinContactDataWith">Unisci contatti</string>
      <string name="title_other_devices">Altri dispositivi disponibili</string>
      <string name="title_paired_devices">Dispositivi abbinati</string>
@@ -1185,6 +1179,7 @@ Tocca l'icona Unisci in basso per iniziare."</string>
      <string name="toast_for_saving_nickname">Soprannome salvato</string>
      <string name="toast_join_with_empty_contact">Inserisci il nome del contatto prima di unirlo a un altro contatto.</string>
      <string name="toast_making_personal_copy">Creazione di una copia personale…</string>
+     <string name="toast_start_intent_failed">"Nessuna app per eseguire l'azione"</string>
      <string name="toast_text_copied">Testo copiato</string>
      <string name="today">Oggi</string>
      <string name="tomorrow">Domani</string>
@@ -1195,10 +1190,13 @@ Tocca l'icona Unisci in basso per iniziare."</string>
      <string name="type_outgoing">Chiamata effettuata</string>
      <string name="type_voicemail">Segreteria</string>
      <string name="unable_get_device_id">Impossibile recuperare IMEI</string>
+     <string name="unfold_all">apri tutto</string>
      <string name="unknow_phone_number_call_failed">Impossibile chiamare il numero sconosciuto</string>
      <string name="unknow_phone_number_mms_failed">Impossibile inviare il messaggio ad un numero sconosciuto</string>
      <string name="unknown">Sconosciuto</string>
      <string name="unknown_contact_name">Contatto sconosciuto</string>
+     <string name="unknown_details_add_to_contact">Esistente</string>
+     <string name="unknown_details_new_contact">Nuovo contatto</string>
      <string name="update_sim_contact_photo_toast">Non è possibile impostare la foto per i contatti SIM</string>
      <string name="upgrade_in_progress">Elenco contatti in fase di aggiornamento.</string>
      <string name="upgrade_out_of_memory">"Contatti in fase di aggiornamento. 
@@ -1214,7 +1212,7 @@ Scegli una delle seguenti opzioni:"</string>
      <string name="user_profile_contacts_list_header">Io</string>
      <string name="vcard_export_request_rejected_message">Richiesta esportazione vCard rifiutata. Riprova più tardi.</string>
      <string name="vcard_export_will_start_message">La vCard %s verrà esportata a breve.</string>
-     <string name="vcard_import_failed">"Couldn't import vCard %s."</string>
+     <string name="vcard_import_failed">"Impossibile importare vCard %s."</string>
      <string name="vcard_import_request_rejected_message">Richiesta importazione vCard rifiutata. Riprova più tardi.</string>
      <string name="vcard_import_will_start_message">La vCard %s verrà importata a breve.</string>
      <string name="vcard_import_will_start_message_with_default_name">Il file sarà importato a breve.</string>
@@ -1243,7 +1241,6 @@ Scegli una delle seguenti opzioni:"</string>
      <string name="voip_audio_description">Tocca per effettuare una chiamata VoIP</string>
      <string name="voip_video_description">Tocca per effettuate una videochiamata VoIP</string>
      <string name="websiteLabelsGroup">Sito web</string>
-     <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
      <string name="wipe_data">Cancella dati</string>
      <string name="yellowPageNavigationIconLabel">Directory</string>
      <string name="yellowPageNavigationLabel">Directory</string>

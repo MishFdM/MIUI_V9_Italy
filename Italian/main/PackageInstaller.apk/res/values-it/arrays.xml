@@ -2,7 +2,7 @@
 <resources>
     <string-array name="wifi_status">
         <item></item>
-        <item>Scansionamento…</item>
+        <item>Scansione…</item>
         <item>Connessione…</item>
         <item>Autenticazione…</item>
         <item>Ottenimento indirizzo IP…</item>
@@ -16,9 +16,9 @@
     </string-array>
     <string-array name="wifi_status_with_ssid">
         <item></item>
-        <item>Scansionamento…</item>
+        <item>Scansione…</item>
         <item>Connessione a %1$s…</item>
-        <item>Autentizazione con %1$s…</item>
+        <item>Autenticazione con %1$s…</item>
         <item>Ottenimento indirizzo IP da %1$s…</item>
         <item>Connesso a %1$s</item>
         <item>Sospeso</item>
@@ -74,30 +74,30 @@
     </string-array>
     <string-array name="window_animation_scale_entries">
         <item>Animazione disattivata</item>
-        <item>Scala animation .5x</item>
-        <item>Scala animation 1x</item>
-        <item>Scala animation 1.5x</item>
-        <item>Scala animation 2x</item>
-        <item>Scala animation 5x</item>
-        <item>Scala animation 10x</item>
+        <item>Scala animazione .5x</item>
+        <item>Scala animazione 1x</item>
+        <item>Scala animazione 1.5x</item>
+        <item>Scala animazione 2x</item>
+        <item>Scala animazione 5x</item>
+        <item>Scala animazione 10x</item>
     </string-array>
     <string-array name="transition_animation_scale_entries">
-        <item>Animatione disattivata</item>
-        <item>Scala animation .5x</item>
-        <item>Scala animation 1x</item>
-        <item>Scala animation 1.5x</item>
-        <item>Scala animation 2x</item>
-        <item>Scala animation 5x</item>
-        <item>Scala animation 10x</item>
+        <item>Animazione disattivata</item>
+        <item>Scala animazione .5x</item>
+        <item>Scala animazione 1x</item>
+        <item>Scala animazione 1.5x</item>
+        <item>Scala animazione 2x</item>
+        <item>Scala animazione 5x</item>
+        <item>Scala animazione 10x</item>
     </string-array>
     <string-array name="animator_duration_scale_entries">
         <item>Animatione disattivata</item>
-        <item>Scala animation .5x</item>
-        <item>Scala animation 1x</item>
-        <item>Scala animation 1.5x</item>
-        <item>Scala animation 2x</item>
-        <item>Scala animation 5x</item>
-        <item>Scala animation 10x</item>
+        <item>Scala animazione .5x</item>
+        <item>Scala animazione 1x</item>
+        <item>Scala animazione 1.5x</item>
+        <item>Scala animazione 2x</item>
+        <item>Scala animazione 5x</item>
+        <item>Scala animazione 10x</item>
     </string-array>
     <string-array name="overlay_display_devices_entries">
         <item>Nessuna</item>

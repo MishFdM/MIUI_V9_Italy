@@ -224,7 +224,7 @@ per eseguire lo scatto"</string>
     <string name="faq_quni_title">Quanto dura il Mi Key?</string>
     <string name="faq_quni_text">Dovrebbe sopportare più di 30 mila pressioni, dipende però da come viene usato</string>
     <string name="faq_stat_title">Perché il numero dei click è a zero?</string>
-    <string name="faq_stat_text">Il ranking viene azzerato ogni notte, per cui ogni risveglio è un nuovo inizio</string>
+    <string name="faq_stat_text">La classifica viene azzerata ogni notte, per cui ogni risveglio è un nuovo inizio</string>
     <string name="faq_vsm_title">Precauzioni</string>
     <string name="faq_vsm_text">Assicurati di togliere il Mi Key prima di rimuovere la cover posteriore!</string>
     <string name="hint_long_press_del">Premi a lungo per eliminare</string>

@@ -4,12 +4,12 @@
      <string name="SMTP_password_text">Password</string>
      <string name="SMTP_username_text">Nome utente</string>
      <string name="accessibility_guide_first">Nella prossima schermata, seleziona il tab \"Servizi\" per attivare il 139 Email Configurazione Automatica</string>
-     <string name="accessibility_guide_second">"Poi tocca il comando nell'angolo in alto a destra, click the \"Confirm\" to continue."</string>
+     <string name="accessibility_guide_second">"Poi tocca il comando nell'angolo in alto a destra, tocca \"Conferma\" per continuare."</string>
      <string name="account_duplicate_dlg_message_fmt">"Utilizzi già questo nome utente per l'account \"%s\"."</string>
      <string name="account_duplicate_dlg_title">Account duplicato</string>
-     <string name="account_failure">Account failure</string>
+     <string name="account_failure">Errore account</string>
      <string name="account_name_toast">Nome già esistente, rinominare</string>
-     <string name="account_options_sync_title">Sync</string>
+     <string name="account_options_sync_title">Sincronizzazione</string>
      <string name="account_password_spaces_error">Questa password inizia o termina con uno o più spazi. Molti server non supportano le password contenenti spazi.</string>
      <string name="account_security_dialog_content_fmt">"%s richiede l'aggiornamento delle impostazioni di sicurezza."</string>
      <string name="account_security_dialog_title">Aggiornamento sicurezza</string>
@@ -44,6 +44,9 @@
      <string name="account_settings_notify_summary">"Notifica sulla barra di sistema l'arrivo di una email"</string>
      <string name="account_settings_param">Impostazioni account</string>
      <string name="account_settings_policies">Condizioni di sicurezza</string>
+     <string name="account_settings_preference_add_account">Aggiungi un account di posta</string>
+     <string name="account_settings_preference_head_icon">Cambio intestazione verticale</string>
+     <string name="account_settings_preference_notify">Nota</string>
      <string name="account_settings_retry_label">Tentativo di sincronizzazione</string>
      <string name="account_settings_retry_summary">"Tocca qui per sincronizzare l'account"</string>
      <string name="account_settings_ringtone">Scegli suoneria</string>
@@ -57,6 +60,7 @@
      <string name="account_settings_sync_email_summary">Sincronizza le email per questo account</string>
      <string name="account_settings_unsupported_label">Condizioni non supportate</string>
      <string name="account_settings_unsupported_summary">Nessuno</string>
+     <string name="account_settings_user_usage">Impostazioni account</string>
      <string name="account_settings_using_ringtone">Suoneria</string>
      <string name="account_settings_vibrate_when_label">Vibrazione</string>
      <string name="account_setup_account_type_instructions">Di quale tipo di account si tratta?</string>
@@ -65,7 +69,9 @@
      <string name="account_setup_autodiscover_dlg_authfail_message">Confermare che nome utente, password e impostazioni account sono corretti.</string>
      <string name="account_setup_autodiscover_dlg_authfail_title">Problema configurazione account</string>
      <string name="account_setup_basics_email_label">Indirizzo email</string>
+     <string name="account_setup_basics_login_gmail_without_proxy">Usa laconnessione di rete attuale</string>
      <string name="account_setup_basics_manual_setup_action">Config. manuale</string>
+     <string name="account_setup_basics_mi_mail_login_help">mi Mail login successfully, check the SMS, activate the link to send and receive mail Oh!</string>
      <string name="account_setup_basics_password_label">Password</string>
      <string name="account_setup_basics_title">Impostazione account</string>
      <string name="account_setup_check_settings_check_incoming_msg">Verifica impostazioni server della posta in arrivo…</string>
@@ -117,6 +123,7 @@
      <string name="account_setup_incoming_username_label">Nome utente</string>
      <string name="account_setup_incoming_username_label_default_hint">Includi un dominio</string>
      <string name="account_setup_need_password_verification">Il tuo account è stato aperto tramite autenticazione password, autenticazione richiesta</string>
+     <string name="account_setup_options_actionbar_title">Impostazioni comuni</string>
      <string name="account_setup_options_mail_check_frequency_10min">Ogni 10 minuti</string>
      <string name="account_setup_options_mail_check_frequency_12hour">Ogni 12 ore</string>
      <string name="account_setup_options_mail_check_frequency_1hour">Ogni ora</string>
@@ -144,6 +151,8 @@
      <string name="account_setup_server_acc_manager_title">Gestione account</string>
      <string name="account_setup_username_password_toast">Digita un indirizzo email e una password validi.</string>
      <string name="account_sync_off">Sincronizzazione disattivata.</string>
+     <string name="account_sync_settings_settings">"Sincronizza i contatti dell'account e i calendari"</string>
+     <string name="account_sync_settingstip_description">Impostazioni di sincronizzazione</string>
      <string name="account_waiting_for_folders_msg">Caricamento elenco cartelle…</string>
      <string name="actionbar_large_unread_count">%1$d+ non letto</string>
      <string name="activity_folder_selection">Seleziona una cartella</string>
@@ -206,14 +215,14 @@
      <string name="auto_mail_go_email">Mailbox</string>
      <string name="auto_mail_name">AutoMail</string>
      <string name="auto_mail_title_note">"Trova l'opzione 139 Email Configurazione Automatica, tocca per iniziare."</string>
-     <string name="auto_mail_window_description">Servizo 139 Email Configurazione Automatica</string>
+     <string name="auto_mail_window_description">Servizio 139 Email Configurazione Automatica</string>
      <string name="auto_mail_window_label">139 Email Configurazione Automatica</string>
      <string name="auto_remind_bind">Aggiungi</string>
      <string name="auto_remind_discribe_text">Attiva per ricevere i promemoria automatici</string>
      <string name="auto_remind_text">Promemoria automatici</string>
      <string name="auto_remind_unbind">Ferma</string>
      <string name="auto_sync_off">Sincron. automatica disattivata.</string>
-     <string name="automatic_remind_text">remind</string>
+     <string name="automatic_remind_text">promemoria</string>
      <string name="bank_card_detail">Dettagli carta di credito</string>
      <string name="bank_card_list_card_num_fmt">****%s</string>
      <string name="battery_saver">Risparmio batteria</string>
@@ -226,7 +235,7 @@
      <string name="bill_list_card_name_fmt" formatted="false">%s | %s</string>
      <string name="bill_list_card_num_fmt">**** **** **** %s</string>
      <string name="bill_remind">Promemoria rinnovo</string>
-     <string name="bill_remind_due">Rinnovo pagamento il %s, tocca pervedere</string>
+     <string name="bill_remind_due">Rinnovo pagamento il %s, tocca per vedere</string>
      <string name="blank_feedback_toast">Il feedback è vuoto, inserisci un feedback.</string>
      <string name="body_forward_email_text">[Inoltra]</string>
      <string name="body_hint">Scrivi email</string>
@@ -276,6 +285,7 @@
      <string name="confirm_before_delete_keywords">conferma prima di eliminare;conferma eliminazione</string>
      <string name="confirm_before_send">Conferma prima di inviare</string>
      <string name="confirm_before_send_keywords">conferma prima di inviare;invia conferma</string>
+     <string name="confirm_delete_attachment">Delete attachment?</string>
      <string name="confirm_delete_conversation_title">Elimina</string>
      <string name="confirm_discard_text">Eliminare questo messaggio?</string>
      <string name="confirm_response">Invio risposta…</string>
@@ -317,10 +327,14 @@
      <string name="contextmenu_send_mail">Invia email</string>
      <string name="contextmenu_sharelink">Condividi link</string>
      <string name="contextmenu_sms_dot">SMS…</string>
+     <string name="conversation_detail_hide">Nascondi</string>
+     <string name="conversation_detail_show">Dettagli</string>
      <string name="conversation_folder_moved">Spostata in %1$s</string>
      <string name="conversation_item_mark_read">Letta</string>
      <string name="conversation_item_mark_unread">Non letta</string>
+     <string name="conversation_msg_header_collapsed_sent_to">"Inviato a "</string>
      <string name="conversation_photo_welcome_text">"Tocca l'immagine di un mittente per selezionare la conversazione."</string>
+     <string name="conversation_pull_ad_content">Gestione ottimizzata email</string>
      <string name="conversation_quick_button_approve">Approvo</string>
      <string name="conversation_quick_button_disapprove">Non approvo</string>
      <string name="conversation_quick_button_received">Ricevuto</string>
@@ -341,7 +355,8 @@
      <string name="default_imap">IMAP</string>
      <string name="default_pop3">POP3</string>
      <string name="default_setup">IMPOSTAZIONI PREDEFINITE\u0020</string>
-     <string name="default_signature">Inviato tramite Xiaomi</string>
+     <string name="default_signature">Inviato tramite dispositivo Xiaomi</string>
+     <string name="default_signature_2">Sent from my %s</string>
      <string name="del_account_questionnair_hint">Puoi comunicarci il motivo per cui elimini questo account?</string>
      <string name="delete">Elimina</string>
      <string name="delete_message_flow">Elimina flusso messaggio</string>
@@ -358,8 +373,8 @@
      <string name="dialog_gmail_proxy_server_is_error">Errore del server proxy Gmail.</string>
      <string name="dialog_insufficient_space_on_external">"Impossibile scaricare allegato. Spazio insufficiente sulla memoria esterna."</string>
      <string name="dialog_insufficient_space_on_internal">Spazio di archiviazione interna non sufficiente</string>
-     <string name="dialog_system_auto_sync_account_no_open">Account sync is not enabled and messages can not be synced automatically</string>
-     <string name="dialog_system_auto_sync_master_no_open">System sync is not enabled and messages can not be synced automatically</string>
+     <string name="dialog_system_auto_sync_account_no_open">La sincronizzazione account non è attivata e i messaggi non possono essere sincronizzati automaticamente</string>
+     <string name="dialog_system_auto_sync_master_no_open">Il sistema di sincronizzazione non è attivato e i messaggi non possono essere sincronizzati automaticamente</string>
      <string name="disable_admin_warning">"AVVISO. La disattivazione dell'autorità dell'applicazione Email per l'amministrazione del dispositivo comporterà l'eliminazione di tutti gli account email che la richiedono, compresi i relativi messaggi email, contatti, eventi di calendario e altri dati."</string>
      <string name="discard">Elimina</string>
      <string name="discard_drafts">Elimina bozze</string>
@@ -393,6 +408,7 @@
      <string name="due">Scadenza</string>
      <string name="due_date_text">Pagamento finale</string>
      <string name="edit_quick_response_dialog">Risposta veloce</string>
+     <string name="edit_signature">Modifica firma</string>
      <string name="elided_padding_token"> </string>
      <string name="email_address">Indirizzo email</string>
      <string name="email_feedback_uri" />
@@ -423,7 +439,7 @@
      <string name="failed_read_write_calendar_permission">"Mancata autorizzazione per l'accesso al calendario"</string>
      <string name="failed_read_write_contacts_permission">"Mancata autorizzazione per l'accesso ai contatti"</string>
      <string name="feedback">Invia feedback</string>
-     <string name="feedback_body">Feedback information</string>
+     <string name="feedback_body">Informazioni feedback</string>
      <string name="feedback_sent">Grazie per il tuo feedback</string>
      <string name="feedback_user_edit_hint">Descrivi qui il problema. Ti invieremo una email dopo aver esaminato il problema.</string>
      <string name="feedback_user_edit_tag">Da MIUI </string>
@@ -475,7 +491,6 @@
      <string name="folder_trash_name_en2">Messaggio eliminato</string>
      <string name="folder_trash_name_en3">[Gmail]/Cestino</string>
      <string name="formatted_email_address">&lt;%1$s&gt;</string>
-     <string name="formatted_subject">%1$s %2$s</string>
      <string name="forward">Inoltra</string>
      <string name="forward_attachment">Avanti</string>
      <string name="forward_attribution">---------- Messaggio inoltrato ----------<br/>Da: %1$s<br/>Data: %2$s<br/>Oggetto: %3$s<br/>A: %4$s<br/></string>
@@ -542,6 +557,7 @@
      <string name="login139">Accedi con China Mobile</string>
      <string name="login_failed_ticker">Accesso a %s non riuscito.</string>
      <string name="login_failed_title">Accesso non riuscito</string>
+     <string name="login_support_tip_text">Supporta il login agli account email più utilizzati</string>
      <string name="long_press_to_select_tip">Tieni premuto per selezionare una conversazione, quindi tocca per sceglierne altre.</string>
      <string name="long_string">looooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooong</string>
      <string name="mail">Email</string>
@@ -551,6 +567,7 @@
      <string name="mail_header_network_not_available">Non hai una connessione di rete.</string>
      <string name="mailbox_list_account_selector_combined_view">Visualizzazione combinata</string>
      <string name="mailbox_name_display_ad">Pubblicità e notifiche</string>
+     <string name="mailbox_name_display_add_account">Aggiungi account di posta</string>
      <string name="mailbox_name_display_circular">Notifiche</string>
      <string name="mailbox_name_display_drafts">Bozze</string>
      <string name="mailbox_name_display_inbox">In arrivo</string>
@@ -586,6 +603,7 @@
      <string name="meeting_canceled">Annullato: %s</string>
      <string name="meeting_declined">Rifiutato: %s</string>
      <string name="meeting_recurring">Quando: %s (ricorrente)</string>
+     <string name="meeting_responded_failed">Response failure</string>
      <string name="meeting_tentative">Tentativo: %s</string>
      <string name="meeting_updated">Aggiornato: %s</string>
      <string name="meeting_when">Quando: %s</string>
@@ -643,6 +661,7 @@
      <string name="network_unavailable">Rete non disponibile</string>
      <string name="new_incoming_messages_one">Nuovo messaggio da %s. Leggi.</string>
      <string name="new_messages">%1$d nuovi messaggi</string>
+     <string name="new_signature_has_saved">Nuova firma salvata</string>
      <string name="next_action">Avanti</string>
      <string name="no">No</string>
      <string name="no_application_found">Nessuna applicazione può aprire questo allegato per la visualizzazione.</string>
@@ -675,8 +694,13 @@ Prova con una diverso account."</string>
      <string name="oauth_gmail_login_notify">Secondo le procedure richieste da Google, dovresti inserire la tua password nella pagina di autorizzazione Google</string>
      <string name="oauth_login_continue">Continua</string>
      <string name="oauth_login_continue_qq">Ricevi il codice ed accedi</string>
+     <string name="oauth_login_usr_proxy">Proxy login</string>
      <string name="ok">OK</string>
      <string name="okay_action">OK</string>
+     <string name="open_calendar_and_contacts_permission">Attiva i permessi per calendario e contatti nelle Impostazioni di Sistema</string>
+     <string name="open_external_storage_and_calendar_permission">"Attiva i permessi per l'archivio esterno ed il Calendario nelle Impostazioni di Sistema"</string>
+     <string name="open_external_storage_and_contacts_and_calendar_permission">Attiva i permessi per archivio esterno,calendario,contatti nelle Impostazioni di sistema</string>
+     <string name="open_external_storage_and_contacts_permission">"Attiva i permessi per l'archivio esterno ed i Contatti nelle Impostazioni di Sistema"</string>
      <string name="outbox_alert_button_no_resend">Non inviare</string>
      <string name="outbox_alert_button_resend">Invia di nuovo</string>
      <string name="outbox_alert_certificate_error">Eccezione certificato E-mail, si prega di aggiornare</string>
@@ -691,8 +715,8 @@ Prova con una diverso account."</string>
      <string name="outbox_alert_description_reject_by_server">Rifiutata da %s</string>
      <string name="outbox_alert_description_sent_failed">"Le dimensioni dell'allegato superano quelle massime del destinatario"</string>
      <string name="outbox_alert_duplicate_click">Non toccare di nuovo, mail in sincronizzazione</string>
-     <string name="outbox_alert_edit_resend">Modifica e reinvia</string>
-     <string name="outbox_alert_failed_edit_resend">Invio fallito, modifica e reinvia</string>
+     <string name="outbox_alert_edit_resend">Modifica e invia di nuovo</string>
+     <string name="outbox_alert_failed_edit_resend">Invio fallito, modifica e invia di nuovo</string>
      <string name="outbox_alert_mailbox_not_found">Indirizzo email non trovato</string>
      <string name="outbox_alert_rw_io_error">Eccezione lettura-scrittura email, si prega di scrivere ed inviare di nuovo</string>
      <string name="outbox_alert_select_operation">Selezionare operazione</string>
@@ -701,7 +725,7 @@ Prova con una diverso account."</string>
      <string name="over_due">Scaduto</string>
      <string name="overlays_fail_tip">Siamo spiacenti mala la tua casella email non è configurata correttamente, apri la finestra a comparsa con richiesta dei permessi e prova di nuovo</string>
      <string name="overlays_ok">Apri permessi</string>
-     <string name="overlays_tip">Apri le finestre dei permessi e goditi subito la casella 139 per configurare automaticaemnte la grande esperienza.</string>
+     <string name="overlays_tip">Apri le finestre dei permessi e goditi subito la casella 139 per configurare automaticamente la grande esperienza.</string>
      <string name="overlays_title">Apri le finestre dei permessi</string>
      <string name="parase_setup_data">Recupero dati di configurazione…</string>
      <string name="parse_bill_discribe">Bollette con carta di credito …</string>
@@ -733,7 +757,7 @@ Prova con una diverso account."</string>
      <string name="permission_access_provider_label">Accesso ai dati del provider di posta</string>
      <string name="permission_read_attachment_desc">"Consente all'applicazione di leggere i tuoi allegati email."</string>
      <string name="permission_read_attachment_label">Lettura allegati email</string>
-     <string name="permission_tip">Configurazione fallita, consenti le chiamate e gli SMS durante la confgurazione dei permessi</string>
+     <string name="permission_tip">Configurazione fallita, consenti le chiamate e gli SMS durante la configurazione dei permessi</string>
      <string name="phone">telefono</string>
      <string name="photo_load_failed">"Non è stato possibile caricare l'immagine"</string>
      <string name="photo_view_count" formatted="false">%d di %d</string>
@@ -796,18 +820,18 @@ perr icevere promemoria sui pagamenti dei tuoi viaggi"</string>
      <string name="push_wps_no_response_app">"Nessuna risposta dall'app"</string>
      <string name="qq_bar_open_imap">Aiuto</string>
      <string name="qq_bar_send_message">Invia SMS</string>
-     <string name="qq_login_basecode">Accedi alla  QQ Mail da web. Enter independent password.</string>
-     <string name="qq_login_get_auth">"Turn on password protection if you can't receive SMS"</string>
-     <string name="qq_login_open_imap">Tap \"Help\" to turn on IMAP/SMTP</string>
-     <string name="qq_login_origin_setting">Enter username and password to sign in ></string>
-     <string name="qq_login_send_message">Tap \"Send SMS\" to get a verification code</string>
-     <string name="qq_login_webview">Signing in to the web QQ Mail. Enter your password.</string>
-     <string name="qq_next_generation_auth_toast">Turn on password protection in your browser</string>
-     <string name="qq_uthentication_failed">"Couldn't verify account, sign in again"</string>
+     <string name="qq_login_basecode">Accedi a QQ Mail da web. Immetti una password indipendente.</string>
+     <string name="qq_login_get_auth">Abilita la protezione con password se non ricevi alcun SMS</string>
+     <string name="qq_login_open_imap">Premi su \"Help\" per abilitare IMAP/SMTP</string>
+     <string name="qq_login_origin_setting">Inserisci nome utente e password per accedere ></string>
+     <string name="qq_login_send_message">Premi su \"Invia SMS\" per ottenere un codice di verifica</string>
+     <string name="qq_login_webview">Accedi alla webmail QQ Mail. Immetti la password.</string>
+     <string name="qq_next_generation_auth_toast">Abilita la protezione con password sul tuo browser</string>
+     <string name="qq_uthentication_failed">Impossibile verificare, accedi di nuovo</string>
      <string name="qq_webview_loading">Solo un attimo…</string>
      <string name="questionnair_body_invisibility">Messaggi non visualizzati</string>
      <string name="questionnair_confirm_delete">Rimuovi</string>
-     <string name="questionnair_instability">Crasha con frequenza</string>
+     <string name="questionnair_instability">Si blocca con frequenza</string>
      <string name="questionnair_not_send">Impossibile inviare email</string>
      <string name="questionnair_not_sync">Impossibile sincronizzare</string>
      <string name="questionnair_other_reasons">Altro</string>
@@ -853,7 +877,7 @@ perr icevere promemoria sui pagamenti dei tuoi viaggi"</string>
      <string name="recognize_hotel_check_in_date">Orario check-in</string>
      <string name="recognize_hotel_hotel_money">Prezzo %1$s</string>
      <string name="recognize_hotel_notification_content">Goditi il soggiorno!</string>
-     <string name="recognize_hotel_notification_title">Hai prenotato una camera a %1$s starting from %2$s/%3$s. Double check your booking before arriving there.</string>
+     <string name="recognize_hotel_notification_title">"Hai prenotato una camera a %1$s dal %2$s/%3$s. Controlla la tua prenotazione prima dell'arrivo"</string>
      <string name="recognize_hotel_order_money">Totale</string>
      <string name="recognize_hotel_other_money">Altre spese %1$s</string>
      <string name="recognize_hotel_reverse_date">Check in entro %1$s:%2$s %3$s</string>
@@ -862,7 +886,7 @@ perr icevere promemoria sui pagamenti dei tuoi viaggi"</string>
      <string name="recognize_hotel_user_names">Ospite</string>
      <string name="recognize_setting_title">Impostazioni di viaggio</string>
      <string name="recognize_ticket_air_notification_content">Goditi il volo!</string>
-     <string name="recognize_ticket_air_notification_title">Volo %3$s (%1$s/%2$s) will take off soon. Double check your flight info.</string>
+     <string name="recognize_ticket_air_notification_title">Il volo %3$s (%1$s/%2$s) partirà presto. Controlla di nuovo le informazioni del tuo volo.</string>
      <string name="recognize_ticket_air_state_stopover">Scalo</string>
      <string name="recognize_ticket_air_state_transfer">Trasferimento</string>
      <string name="recognize_ticket_air_user_name">Passeggero:</string>
@@ -880,7 +904,7 @@ perr icevere promemoria sui pagamenti dei tuoi viaggi"</string>
      <string name="refreshing">Aggiornamento…</string>
      <string name="refreshing_done">Sincronizzazione completata</string>
      <string name="release_to_refresh">Rilascia per aggiornare</string>
-     <string name="remind_attachment_size_limit">La dimensione delle email deve essre inferiore a %sMB</string>
+     <string name="remind_attachment_size_limit">La dimensione delle email deve essere inferiore a %sMB</string>
      <string name="remote_search_result">%s email trovate sul server.</string>
      <string name="remove_account">Rimuovi account</string>
      <string name="remove_folder">Rimuovi da %1$s</string>
@@ -893,16 +917,18 @@ perr icevere promemoria sui pagamenti dei tuoi viaggi"</string>
      <string name="report_phishing">Segnala come phishing</string>
      <string name="report_spam">Segnala come spam</string>
      <string name="request_entity_large">File richiesto troppo grande!</string>
-     <string name="request_permission_activity">Richiesta Permissi</string>
+     <string name="request_permission_activity">Richiesta Permessi</string>
      <string name="respond_inline">Risposta incorporata</string>
      <string name="save_action">Salva</string>
      <string name="save_attachment">Salva</string>
      <string name="save_draft_failed">Salvataggio bozza fallito</string>
      <string name="save_power_summary">"Risparmio batteria nell'orario preimpostato"</string>
      <string name="save_power_title">Risparmio batteria</string>
+     <string name="save_this_new_signature">Salvare questa nuova firma?</string>
      <string name="saved">Salvato, %s</string>
      <string name="saving">Salvataggio…</string>
      <string name="sdcard_cannot_use">Scheda di memoria non utilizzabile</string>
+     <string name="search_bar_text">Cerca email, mittente</string>
      <string name="search_hint">Cerca email</string>
      <string name="search_result">"Risultati "</string>
      <string name="search_tabs_name_all">Tutti</string>
@@ -941,14 +967,14 @@ perr icevere promemoria sui pagamenti dei tuoi viaggi"</string>
      <string name="ser_resp_err_map_nouser">Nessun utente</string>
      <string name="ser_resp_err_map_or"> %1$s o %2$s</string>
      <string name="ser_resp_err_map_pserr">Nome utente o password non corre</string>
-     <string name="ser_resp_err_map_serclosed">%s server closed</string>
+     <string name="ser_resp_err_map_serclosed">%s server chiuso</string>
      <string name="ser_resp_err_map_ssl">"Prova a selezionare 'SSL/TLS (accetta tutti i certificati)' in 'Tipo di sicurezza'"</string>
      <string name="service_protocol_discribe">Ho letto e accetto le Condizioni del Servizio Mail WPS</string>
      <string name="service_protocol_title">Condizioni del Servizio</string>
      <string name="set_network">Imposta rete</string>
      <string name="setting_default_lable" />
      <string name="settings_activity_title">Impostazioni</string>
-     <string name="share_choose">Scegli cosa condivedere</string>
+     <string name="share_choose">Scegli cosa condividere</string>
      <string name="sharing">Condividi</string>
      <string name="shortcut_name_title">Abbreviazione nome cartella</string>
      <string name="show_elided">▶ Mostra testo citato</string>
@@ -961,7 +987,6 @@ perr icevere promemoria sui pagamenti dei tuoi viaggi"</string>
      <string name="silent_ringtone">Silenzioso</string>
      <string name="single_new_message_notification_big_text">"%1$s
 %2$s"</string>
-     <string name="single_new_message_notification_title">%1$s: %2$s</string>
      <string name="sms_tip">Autenticazione fallita, controlla che il tuo antivirus non stia bloccando gli SMS</string>
      <string name="smtp_password_error">La password per il server di posta in uscita non è corretta</string>
      <string name="sort_attachment">Ordina per</string>
@@ -977,6 +1002,10 @@ perr icevere promemoria sui pagamenti dei tuoi viaggi"</string>
      <string name="str_select_none">Deseleziona tutto</string>
      <string name="subject_and_snippet" formatted="false">%s — %s</string>
      <string name="subject_hint">Oggetto</string>
+     <string name="sync_contacts_fail_per_content">Concedi permessi contatti, tocca per concedere</string>
+     <string name="sync_contacts_fail_per_title">Sincronizzazione Contatti fallita</string>
+     <string name="sync_contacts_fail_permission">"Sincronizzazione Contatti fallita, l'accesso ai contatti non è abilitata, vai nelle Impostazioni - gestione permessi"</string>
+     <string name="sync_contacts_req_per_ignored">Il contatto non è aperto e non può sincronizzare i contatti</string>
      <string name="sync_error">Impossibile sincronizzare</string>
      <string name="sync_error_message">Spazio insufficiente per la sincronizzazione</string>
      <string name="syncing_wait_restart">Tocca Riprova</string>
@@ -990,6 +1019,7 @@ perr icevere promemoria sui pagamenti dei tuoi viaggi"</string>
      <string name="system_folders_trash_dlg">Seleziona la cartella per il cestino</string>
      <string name="system_folders_trash_summary">Seleziona la cartella per il cestino</string>
      <string name="system_folders_trash_title">Cartella cestino</string>
+     <string name="system_security_open_error">Unable to tune up the security center. Please open your permissions in the phone settings</string>
      <string name="system_setup_open_error">"Impossibile richiamare la sincronizzazione, attiva il sistema 'imposta' nella sincronizzazione account email"</string>
      <string name="tablet">tablet</string>
      <string name="tap_to_configure">Tocca per configurare</string>
@@ -1001,11 +1031,18 @@ perr icevere promemoria sui pagamenti dei tuoi viaggi"</string>
      <string name="toast_bar_invalid_account">Devi accedere di nuovo</string>
      <string name="toast_bar_no_connection_network">Nessuna connessione Internet disponibile</string>
      <string name="toast_bar_open_gmail_synchronization">Tocca per utilizzare un server proxy per Gmail</string>
+     <string name="toastbar_calendar_and_contacts_permission_switch_close">Calendar and contact permissions are close. Calendar and contacts cannot be synchronized</string>
+     <string name="toastbar_calendar_permission_switch_close">Calendar permission is close. Calendar cannot synchronized</string>
+     <string name="toastbar_contacts_permission_switch_close">The contact permission is close. The contacts cannot synchronized</string>
+     <string name="toastbar_local_calendar_and_contacts_sync_switch_close">Calendar and contacts synchronization switch is close. Calendar and contacts cannot be synchronized</string>
+     <string name="toastbar_local_calendar_sync_switch_close">The calendar sync switch is close. The calendar cannot be synchronized</string>
+     <string name="toastbar_local_contacts_sync_swtich_close">The contact sync switch is close. The contacts cannot be synchronized</string>
      <string name="today_text">Oggi</string>
      <string name="too_large_to_attach_additional">File non allegato. Limite di %1$s raggiunto.</string>
      <string name="too_large_to_attach_multiple">Uno o più file non allegati. Limite di %1$s.</string>
      <string name="too_large_to_attach_single">Impossibile allegare un file superiore a %1$s.</string>
      <string name="topic_merge">Unisci temi</string>
+     <string name="topic_merge_summary">Modalità organizzazione per conversazioni</string>
      <string name="translation_loading">Caricamento…</string>
      <string name="translation_no_result">Nessun risultato</string>
      <string name="translation_pronunciation_am">ArE</string>
@@ -1030,6 +1067,7 @@ Interrompere adesso?"</string>
      <string name="unsent_messages_in_outbox">%1$s non inviati in %2$s</string>
      <string name="unzip_file_failed">Impossibile decomprimere il file</string>
      <string name="update_date_format_templete">HH:mm aa, dd MMMM</string>
+     <string name="update_to_wps_mail">Funzioni avanzate, aggiorna a WPS-mail</string>
      <string name="updated_at">Ultimo aggiornamento %1$s</string>
      <string name="upload_log">Carica log</string>
      <string name="upload_log_failed">Caricamento log fallito</string>
