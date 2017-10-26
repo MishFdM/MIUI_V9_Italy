@@ -29,6 +29,7 @@
      <string name="button_normal_video_title">Video</string>
      <string name="camera_disabled">La fotocamera è stata disabilitata.</string>
      <string name="camera_error_title">Errore fotocamera</string>
+     <string name="camera_facedetection_sub_option_hint">Experimental option is now available</string>
      <string name="camera_label">Fotocamera</string>
      <string name="camera_mode_options">Modalità</string>
      <string name="camera_setting">Impostazioni fotocamera</string>
@@ -86,7 +87,6 @@ Il soggetto non deve essere più lontano di 2 metri."</string>
      <string name="empty">" "</string>
      <string name="error_fail_to_start_audio_capture">"Impossibile registrare l'audio: il microfono potrebbe essere in uso da un'altra app."</string>
      <string name="face_age_info">Age: %d</string>
-     <string name="face_analyze_info">%1$s, %2$s anni</string>
      <string name="face_analyze_info_female">Donna</string>
      <string name="face_analyze_info_male">Uomo</string>
      <string name="face_beauty_advanced">Pro</string>
@@ -115,9 +115,6 @@ Il soggetto non deve essere più lontano di 2 metri."</string>
      <string name="face_beauty_intelligent_level_3">Alto</string>
      <string name="face_beauty_smart">Intelligente</string>
      <string name="face_score_info">Score: %.1f</string>
-     <string name="groupshot_mode_use_hint">"La fotocamera scatterà foto multiple
-e creerà una foto dove ognuno apparirà nella sua miglior forma."</string>
-     <string name="hibernate_hint">Tocca lo schermo per avviare la fotocamera</string>
      <string name="hine_hht">"Con poca luce ambientale, verranno scattate foto multiple
 per la costruzione di uno scatto con il minimo rumore."</string>
      <string name="hint_device_water_mark">Device watermark will be added automatically.</string>
@@ -148,8 +145,6 @@ e creerà una foto in cui tutti appariranno ancora più belli."</string>
      <string name="pano_how_to_use_prompt_start">Tocca la freccia per cambiare direzione ed inizia a ruotare lentamente.</string>
      <string name="pano_how_to_use_prompt_to_move">Inizia a ruotare lentamente</string>
      <string name="path_settings">Applicazioni di sistema/Fotocamera/Impostazioni</string>
-     <string name="photos_portrait_type_description">Gli scatti in modalità ritratto hanno un effetto profondità che mette a fuoco il soggetto e sfoca lo sfondo.</string>
-     <string name="photos_portrait_type_name">Ritratto</string>
      <string name="portait_effect_entry_blackwhite">B&amp;N</string>
      <string name="portait_effect_entry_cool">Mint</string>
      <string name="portait_effect_entry_fairytale">Childhood</string>
@@ -165,7 +160,6 @@ e creerà una foto in cui tutti appariranno ancora più belli."</string>
      <string name="portrait_mode_too_far_hint">"Posiziona l'oggetto entro 2.5"</string>
      <string name="portrait_mode_use_hint">"La modalità portrait ti aiuta a sfocare lo sfondo
 per rendere il tuo corpo ancor più chiaro e meraviglioso"</string>
-     <string name="portrait_with_facebeauty_hint">La funzione Bellezza adesso è disponibile in modalità ritratto</string>
      <string name="pref_advance_settings">Impostazioni aggiuntive</string>
      <string name="pref_audio_focus_entry_front">Frontale</string>
      <string name="pref_audio_focus_entry_general">Normale</string>
@@ -180,7 +174,6 @@ per rendere il tuo corpo ancor più chiaro e meraviglioso"</string>
      <string name="pref_camera_antibanding_entry_3">Auto</string>
      <string name="pref_camera_antibanding_title">Anti banding</string>
      <string name="pref_camera_asd_night_title">Miglioramento foto notturne</string>
-     <string name="pref_camera_asd_popup_title">Avvisa quando è necessario il flash</string>
      <string name="pref_camera_audio_capture_title">Scatto vocale</string>
      <string name="pref_camera_auto_capture_when_stable_summary">"Per selezionare un oggetto, tocca due punti in diagonale lungo il suo bordo. Quando l'oggetto sarà stabile, la fotocamera scatterà automaticamente."</string>
      <string name="pref_camera_auto_capture_when_stable_title">Scatta quando è stabile</string>
@@ -189,6 +182,7 @@ per rendere il tuo corpo ancor più chiaro e meraviglioso"</string>
      <string name="pref_camera_autoexposure_entry_frameaverage">Multi-Zona</string>
      <string name="pref_camera_autoexposure_entry_spotmetering">Misurazione a punto</string>
      <string name="pref_camera_autoexposure_title">Esposizione automatica</string>
+     <string name="pref_camera_beautify_entry_auto">Off</string>
      <string name="pref_camera_beautify_entry_high">Alto</string>
      <string name="pref_camera_beautify_entry_low">Basso</string>
      <string name="pref_camera_beautify_entry_normal">Medio</string>
@@ -222,7 +216,7 @@ per rendere il tuo corpo ancor più chiaro e meraviglioso"</string>
      <string name="pref_camera_delay_capture_entry_audio">Audio</string>
      <string name="pref_camera_delay_capture_title">Autoscatto</string>
      <string name="pref_camera_device_watermark_title">Device watermark</string>
-     <string name="pref_camera_exposuretime_entry_0.5">2s</string>
+     <string name="pref_camera_exposuretime_entry_0_5">2s</string>
      <string name="pref_camera_exposuretime_entry_1">1s</string>
      <string name="pref_camera_exposuretime_entry_1000">1/1000s</string>
      <string name="pref_camera_exposuretime_entry_125">1/125s</string>
@@ -240,6 +234,7 @@ per rendere il tuo corpo ancor più chiaro e meraviglioso"</string>
      <string name="pref_camera_exposuretime_entry_8s">8s</string>
      <string name="pref_camera_exposuretime_entry_auto">Auto</string>
      <string name="pref_camera_face_info_watermark_title">Aggiungi età sulla foto</string>
+     <string name="pref_camera_facedetection_auto_hidden_title">Face detection auto hidden</string>
      <string name="pref_camera_facedetection_title">Rileva volti</string>
      <string name="pref_camera_flashmode_entry_auto">Auto</string>
      <string name="pref_camera_flashmode_entry_off">Off</string>
@@ -379,6 +374,7 @@ per rendere il tuo corpo ancor più chiaro e meraviglioso"</string>
      <string name="pref_camera_zoom_mode_title">Lenti</string>
      <string name="pref_camera_zoom_ratio_tele">200</string>
      <string name="pref_camera_zoom_ratio_wide">100</string>
+     <string name="pref_camera_zoom_value_title">Zoom</string>
      <string name="pref_camera_zsl_entry_off">Disattivato</string>
      <string name="pref_camera_zsl_entry_on">Attivato</string>
      <string name="pref_capture_settings">Impostazioni fotocamera</string>
@@ -406,7 +402,6 @@ per rendere il tuo corpo ancor più chiaro e meraviglioso"</string>
      <string name="pref_skin_beautify_intelligent_title">Intelligente</string>
      <string name="pref_skin_beautify_slim_title">Sottile</string>
      <string name="pref_skin_beautify_smooth_title">Liscio</string>
-     <string name="pref_video_captrue_ability_title">Scatta foto durante la registrazione</string>
      <string name="pref_video_focusmode_entry_auto">Tocca</string>
      <string name="pref_video_focusmode_entry_continuous">CAF</string>
      <string name="pref_video_focusmode_title">Messa a fuoco</string>
@@ -424,7 +419,6 @@ per rendere il tuo corpo ancor più chiaro e meraviglioso"</string>
      <string name="pref_video_speed_entry_slow">Lento</string>
      <string name="pref_video_speed_fast_title">Time-lapse</string>
      <string name="pref_video_speed_slow_title">Slow-motion</string>
-     <string name="pref_video_speed_title">Velocità video</string>
      <string name="pref_video_time_lapse_frame_interval_entry_10">Intervallo di 0.3 secondi (10x)</string>
      <string name="pref_video_time_lapse_frame_interval_entry_120">Intervallo di 4 secondi (120x)</string>
      <string name="pref_video_time_lapse_frame_interval_entry_150">Intervallo di 5 secondi (150x)</string>
