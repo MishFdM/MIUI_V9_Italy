@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
 <resources>
      <string name="account_info">Mi Account</string>
      <string name="account_name_not_login">Accedi</string>
@@ -58,6 +59,7 @@
      <string name="fail_to_add_account">Impossibile aggiungere account</string>
      <string name="favorite_list">Preferiti</string>
      <string name="favorite_list_format">%1$s preferiti</string>
+     <string name="find_more_theme">Find more</string>
      <string name="find_more_wallpapers">Cerca altri</string>
      <string name="gift_anonymous">Anonimo</string>
      <string name="gift_operation_fail_dlg_abandon">Annulla</string>
@@ -132,19 +134,24 @@
      <string name="my_gifts_received">Ricevuti</string>
      <string name="no_data">Impossibile collegare alla rete</string>
      <string name="online_no_network">Impossibile connettere alla rete</string>
+     <string name="online_precust_abstract">Abstract</string>
      <string name="online_precust_animal">Animali</string>
      <string name="online_precust_asphalt">Asphalt</string>
      <string name="online_precust_building">Building</string>
-     <string name="online_precust_cartoon">Cartoon</string>
+     <string name="online_precust_chubby_dreamer">Chubby Dreamer</string>
      <string name="online_precust_creative">Creative</string>
-     <string name="online_precust_entertainment">Entertainment</string>
+     <string name="online_precust_forest_stories">Forest Stories</string>
+     <string name="online_precust_geometry">Geometry</string>
      <string name="online_precust_lifestyle">Lifestyle</string>
+     <string name="online_precust_mi_note2">Mi Note 2</string>
+     <string name="online_precust_paper_world">Paper World</string>
      <string name="online_precust_peach_blossom">Peach blossom</string>
      <string name="online_precust_plant">Plant</string>
      <string name="online_precust_scenery">Scenery</string>
-     <string name="online_precust_starry_sky">Starry sky</string>
+     <string name="online_precust_tiny">Tiny</string>
      <string name="online_search_hint">Cerca risorse online</string>
      <string name="present_local_themes">Scaricati</string>
+     <string name="present_official_themes">Official Selection</string>
      <string name="present_online_themes">Online</string>
      <string name="provision_default_theme_title">Predefinito</string>
      <string name="provision_loading_tips">Solo un attimo…</string>

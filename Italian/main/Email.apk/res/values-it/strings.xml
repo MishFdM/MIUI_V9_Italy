@@ -71,6 +71,7 @@
      <string name="account_setup_basics_email_label">Indirizzo email</string>
      <string name="account_setup_basics_login_gmail_without_proxy">Usa laconnessione di rete attuale</string>
      <string name="account_setup_basics_manual_setup_action">Config. manuale</string>
+     <string name="account_setup_basics_mi_mail_login_help">mi Mail login successfully, check the SMS, activate the link to send and receive mail Oh!</string>
      <string name="account_setup_basics_password_label">Password</string>
      <string name="account_setup_basics_title">Impostazione account</string>
      <string name="account_setup_check_settings_check_incoming_msg">Verifica impostazioni server della posta in arrivo…</string>
@@ -602,6 +603,7 @@
      <string name="meeting_canceled">Annullato: %s</string>
      <string name="meeting_declined">Rifiutato: %s</string>
      <string name="meeting_recurring">Quando: %s (ricorrente)</string>
+     <string name="meeting_responded_failed">Response failure</string>
      <string name="meeting_tentative">Tentativo: %s</string>
      <string name="meeting_updated">Aggiornato: %s</string>
      <string name="meeting_when">Quando: %s</string>
