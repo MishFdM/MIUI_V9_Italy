@@ -487,7 +487,7 @@
      <string name="convert_to_file_encryption_done">Already file encrypted</string>
      <string name="convert_to_file_encryption_enabled">Convert…</string>
      <string name="crescendo_ringer_summary">La suoneria salirà gradualmente fino al livello impostato</string>
-     <string name="crescendo_ringer_title">Volume suoneria crescente</string>
+     <string name="crescendo_ringer_title">Suoneria crescente</string>
      <string name="daltonizer_mode_deuteranomaly">Deuteranomaly (red-green)</string>
      <string name="daltonizer_mode_disabled">Disabled</string>
      <string name="daltonizer_mode_monochromacy">Monochromacy</string>
@@ -699,7 +699,7 @@
      <string name="fdn_summary">Limita le chiamate uscenti a una lista di NSF o ai numeri con certi prefissi</string>
      <string name="fdn_with_label">Numeri a Selezione Fissa (%s)</string>
      <string name="flash_when_ring_summary">Notifica lampeggiante per le chiamate in arrivo</string>
-     <string name="flash_when_ring_title">Lampeggia su chiamata</string>
+     <string name="flash_when_ring_title">Lampeggia in chiamata</string>
      <string name="force_allow_on_external">Force allow apps on external</string>
      <string name="force_allow_on_external_summary">Makes any app eligible to be written to external storage, regardless of manifest values</string>
      <string name="force_hw_ui">Force GPU rendering</string>
@@ -1048,7 +1048,7 @@ Riprova o chiama il servizio clienti per altre opzioni."</string>
      <string name="path_enable_antispam_strange_title">Chiamate/Impostazioni chiamate in arrivo/Silenzia numeri sconosciuti</string>
      <string name="path_enable_proximity_title">Chiamate/Impostazioni chiamate in arrivo/Sensore di prossimità</string>
      <string name="path_fdn">Applicazioni di sistema/Chiamate/Impostazioni avanzate/Numeri a selezione fissa</string>
-     <string name="path_flash_when_ring_title">Chiamate/Impostazioni chiamate in arrivo/Lampeggia su chiamata</string>
+     <string name="path_flash_when_ring_title">Chiamate/Impostazioni chiamate in arrivo/Lampeggia in chiamata</string>
      <string name="path_handon_ringer_title">Chiamate/Impostazioni chiamate in arrivo/Non vibrare</string>
      <string name="path_missed_call_notify_times_title">Applicazioni di sistema/Chiamate/Impostazioni avanzate/Promemoria chiamate perse</string>
      <string name="path_preference_dial_pad_touch_tone_title">Applicazioni di sistema/Chiamate/Impostazioni avanzate/Toni Tastierino</string>
@@ -1577,7 +1577,7 @@ Contatta il tuo operatore se questo problema persiste."</string>
      <string name="wifi_aggressive_handover">Aggressive WLAN to Cellular handover</string>
      <string name="wifi_aggressive_handover_summary">When enabled, WLAN will be more aggressive in handing over the data connection to Cellular, when WLAN signal is low</string>
      <string name="wifi_allow_scan_with_traffic">Consenti sempre Roam Scan Wi-Fi</string>
-     <string name="wifi_allow_scan_with_traffic_summary">Consenti/Non consentire Roam Scan Wi-Fi basati sui dati presenti nell'interfaccia</string>
+     <string name="wifi_allow_scan_with_traffic_summary">"Consenti/Non consentire Roam Scan Wi-Fi basati sui dati presenti nell'interfaccia"</string>
      <string name="wifi_auth_password_wrong">La password potrebbe essere sbagliata</string>
      <string name="wifi_calling">Chiamate Wi-Fi</string>
      <string name="wifi_connected_no_internet">Connesso, internet assente</string>
