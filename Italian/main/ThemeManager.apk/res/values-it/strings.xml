@@ -93,8 +93,8 @@
      <string name="gift_use_confirmation_dlg_title">Inviare questo regalo?</string>
      <string name="gift_use_fail_dlg_title">Si è verificato un errore</string>
      <string name="gift_used">Inviato</string>
-     <string name="hide_free">"Hide free "</string>
-     <string name="hide_incompatible">"Hide incompatible "</string>
+     <string name="hide_free">"Nascondi gratis "</string>
+     <string name="hide_incompatible">"Nascondi incompatibili "</string>
      <string name="home_apply_failured">Impossibile applicare lo sfondo Home</string>
      <string name="home_apply_success">Sfondo Home applicato</string>
      <string name="in_the_end">No more</string>
@@ -151,7 +151,7 @@
      <string name="online_precust_tiny">Tiny</string>
      <string name="online_search_hint">Cerca risorse online</string>
      <string name="present_local_themes">Scaricati</string>
-     <string name="present_official_themes">Official Selection</string>
+     <string name="present_official_themes">Selezione ufficiale</string>
      <string name="present_online_themes">Online</string>
      <string name="provision_default_theme_title">Predefinito</string>
      <string name="provision_loading_tips">Solo un attimo…</string>
