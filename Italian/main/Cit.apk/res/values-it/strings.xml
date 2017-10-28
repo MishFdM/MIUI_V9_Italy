@@ -632,7 +632,7 @@ Dopo aver copiato \"traccia.mp3\" sulla scheda SD, tocca lo schermo per riprodur
      <string name="selftest">SELF-TEST</string>
      <string name="sensor_information">Informazione sensore</string>
      <string name="show_log">Mostra Log</string>
-     <string name="speak_from_mic">Parla nel microfono, l'altoparlante riprodurrà il suono. Assicurati che il suono venga riprodotto.</string>
+     <string name="speak_from_mic">"Parla nel microfono, l'altoparlante riprodurrà il suono. Assicurati che il suono venga riprodotto."</string>
      <string name="start">inizia</string>
      <string name="start_extract_sample">inizia ad estrarre gli esempi</string>
      <string name="start_extract_template">inizia ad estrarre i template</string>

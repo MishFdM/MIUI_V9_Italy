@@ -1576,8 +1576,8 @@ Contatta il tuo operatore se questo problema persiste."</string>
 "</string>
      <string name="wifi_aggressive_handover">Aggressive WLAN to Cellular handover</string>
      <string name="wifi_aggressive_handover_summary">When enabled, WLAN will be more aggressive in handing over the data connection to Cellular, when WLAN signal is low</string>
-     <string name="wifi_allow_scan_with_traffic">Always allow WLAN Roam Scans</string>
-     <string name="wifi_allow_scan_with_traffic_summary">Allow/Disallow WLAN Roam Scans based on the amount of data traffic present at the interface</string>
+     <string name="wifi_allow_scan_with_traffic">Consenti sempre Roam Scan Wi-Fi</string>
+     <string name="wifi_allow_scan_with_traffic_summary">Consenti/Non consentire Roam Scan Wi-Fi basati sui dati presenti nell'interfaccia</string>
      <string name="wifi_auth_password_wrong">La password potrebbe essere sbagliata</string>
      <string name="wifi_calling">Chiamate Wi-Fi</string>
      <string name="wifi_connected_no_internet">Connesso, internet assente</string>
@@ -1585,8 +1585,8 @@ Contatta il tuo operatore se questo problema persiste."</string>
      <string name="wifi_disabled_network_failure">Configurazione IP fallita</string>
      <string name="wifi_disabled_password_failure">Problema di autenticazione</string>
      <string name="wifi_disabled_wifi_failure">Connessione Wi-Fi fallita</string>
-     <string name="wifi_display_certification">Wireless display certification</string>
-     <string name="wifi_display_certification_summary">Show options for wireless display certification</string>
+     <string name="wifi_display_certification">Certificazione schermo wireless</string>
+     <string name="wifi_display_certification_summary">Mostra opzioni per la certificazione dello schermo wireless</string>
      <string name="wifi_fail_to_scan">Impossibile scansionare reti</string>
      <string name="wifi_no_internet">Nessun accesso internet.</string>
      <string name="wifi_no_internet_no_reconnect">Nessun accesso internet rilevato, la riconnessione non avverrà automaticamente.</string>
@@ -1604,9 +1604,9 @@ Contatta il tuo operatore se questo problema persiste."</string>
      <string name="wifi_security_wpa">WPA PSK</string>
      <string name="wifi_security_wpa2">WPA2 PSK</string>
      <string name="wifi_security_wpa_wpa2">WPA/WPA2 PSK</string>
-     <string name="wifi_verbose_logging">Enable WLAN Verbose Logging</string>
-     <string name="wifi_verbose_logging_summary">Increase WLAN logging level, show per SSID RSSI in WLAN Picker</string>
+     <string name="wifi_verbose_logging">Attiva log WI-Fi verboso</string>
+     <string name="wifi_verbose_logging_summary">Incrementa il livello di log Wi-Fi, mostra per SSID RSSI nella selezione Wi-Fi</string>
      <string name="wild_prompt_str">Sostituire carattere con</string>
-     <string name="window_animation_scale_title">Window animation scale</string>
+     <string name="window_animation_scale_title">Scala animazione finestre</string>
      <string name="wrong_password">Password errata</string>
 </resources>
