@@ -381,9 +381,9 @@
      <string name="recommended">In evidenza</string>
      <string name="remain_item_name_n7p" />
      <string name="remain_item_name_pamp" />
-     <string name="resutl_function_deep_clean_summary">" altri %1$s file posso essere eliminati. Libera altro spazio. "</string>
-     <string name="resutl_function_qq_clean_summary">" "&lt;Data&gt;Puoi ripulire &amp;lt;font color=#ff0000 &amp;gt;%1$s&amp;lt;/font&amp;gt; della cache generata da QQ&lt;/Data&gt;" "</string>
-     <string name="resutl_function_wechat_clean_summary">" %1$s di cache WeChat. Libera altro spazio. "</string>
+     <string name="resutl_function_deep_clean_summary">altri %1$s file posso essere eliminati. Libera altro spazio.</string>
+     <string name="resutl_function_qq_clean_summary">Puoi ripulire %1$s della cache generata da QQ</string>
+     <string name="resutl_function_wechat_clean_summary">%1$s di cache WeChat. Libera altro spazio. </string>
      <string name="sc_allow_network_dialog_button">Consenti</string>
      <string name="sc_allow_network_dialog_message">Consentire a questa applicazione di connettersi alla rete per ricevere i dati?</string>
      <string name="scanning">Scansione…</string>
