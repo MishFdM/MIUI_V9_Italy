@@ -69,9 +69,9 @@
      <string name="account_setup_autodiscover_dlg_authfail_message">Confermare che nome utente, password e impostazioni account sono corretti.</string>
      <string name="account_setup_autodiscover_dlg_authfail_title">Problema configurazione account</string>
      <string name="account_setup_basics_email_label">Indirizzo email</string>
-     <string name="account_setup_basics_login_gmail_without_proxy">Usa laconnessione di rete attuale</string>
+     <string name="account_setup_basics_login_gmail_without_proxy">Usa la connessione di rete attuale</string>
      <string name="account_setup_basics_manual_setup_action">Config. manuale</string>
-     <string name="account_setup_basics_mi_mail_login_help">mi Mail login successfully, check the SMS, activate the link to send and receive mail Oh!</string>
+     <string name="account_setup_basics_mi_mail_login_help">Accesso Mi Mail completato, controlla gli SMS, attiva tramite il link per poter invisre e ricevere email!</string>
      <string name="account_setup_basics_password_label">Password</string>
      <string name="account_setup_basics_title">Impostazione account</string>
      <string name="account_setup_check_settings_check_incoming_msg">Verifica impostazioni server della posta in arrivo…</string>
@@ -285,7 +285,7 @@
      <string name="confirm_before_delete_keywords">conferma prima di eliminare;conferma eliminazione</string>
      <string name="confirm_before_send">Conferma prima di inviare</string>
      <string name="confirm_before_send_keywords">conferma prima di inviare;invia conferma</string>
-     <string name="confirm_delete_attachment">Delete attachment?</string>
+     <string name="confirm_delete_attachment">Eliminare allegato?</string>
      <string name="confirm_delete_conversation_title">Elimina</string>
      <string name="confirm_discard_text">Eliminare questo messaggio?</string>
      <string name="confirm_response">Invio risposta…</string>
@@ -356,7 +356,7 @@
      <string name="default_pop3">POP3</string>
      <string name="default_setup">IMPOSTAZIONI PREDEFINITE\u0020</string>
      <string name="default_signature">Inviato tramite dispositivo Xiaomi</string>
-     <string name="default_signature_2">Sent from my %s</string>
+     <string name="default_signature_2">Inviato dal mio %s</string>
      <string name="del_account_questionnair_hint">Puoi comunicarci il motivo per cui elimini questo account?</string>
      <string name="delete">Elimina</string>
      <string name="delete_message_flow">Elimina flusso messaggio</string>
@@ -603,7 +603,7 @@
      <string name="meeting_canceled">Annullato: %s</string>
      <string name="meeting_declined">Rifiutato: %s</string>
      <string name="meeting_recurring">Quando: %s (ricorrente)</string>
-     <string name="meeting_responded_failed">Response failure</string>
+     <string name="meeting_responded_failed">Errore nella risposta</string>
      <string name="meeting_tentative">Tentativo: %s</string>
      <string name="meeting_updated">Aggiornato: %s</string>
      <string name="meeting_when">Quando: %s</string>
@@ -1019,7 +1019,7 @@ perr icevere promemoria sui pagamenti dei tuoi viaggi"</string>
      <string name="system_folders_trash_dlg">Seleziona la cartella per il cestino</string>
      <string name="system_folders_trash_summary">Seleziona la cartella per il cestino</string>
      <string name="system_folders_trash_title">Cartella cestino</string>
-     <string name="system_security_open_error">Unable to tune up the security center. Please open your permissions in the phone settings</string>
+     <string name="system_security_open_error">Impossibile regolare il centro sicurezza. Aprii permessi nelle impostazioni del telefono</string>
      <string name="system_setup_open_error">"Impossibile richiamare la sincronizzazione, attiva il sistema 'imposta' nella sincronizzazione account email"</string>
      <string name="tablet">tablet</string>
      <string name="tap_to_configure">Tocca per configurare</string>
@@ -1031,12 +1031,12 @@ perr icevere promemoria sui pagamenti dei tuoi viaggi"</string>
      <string name="toast_bar_invalid_account">Devi accedere di nuovo</string>
      <string name="toast_bar_no_connection_network">Nessuna connessione Internet disponibile</string>
      <string name="toast_bar_open_gmail_synchronization">Tocca per utilizzare un server proxy per Gmail</string>
-     <string name="toastbar_calendar_and_contacts_permission_switch_close">Calendar and contact permissions are close. Calendar and contacts cannot be synchronized</string>
-     <string name="toastbar_calendar_permission_switch_close">Calendar permission is close. Calendar cannot synchronized</string>
-     <string name="toastbar_contacts_permission_switch_close">The contact permission is close. The contacts cannot synchronized</string>
-     <string name="toastbar_local_calendar_and_contacts_sync_switch_close">Calendar and contacts synchronization switch is close. Calendar and contacts cannot be synchronized</string>
-     <string name="toastbar_local_calendar_sync_switch_close">The calendar sync switch is close. The calendar cannot be synchronized</string>
-     <string name="toastbar_local_contacts_sync_swtich_close">The contact sync switch is close. The contacts cannot be synchronized</string>
+     <string name="toastbar_calendar_and_contacts_permission_switch_close">I permessi per Calendario e Contatti cono disattivati. Calendario e Contatti non possono essere sincronizzati</string>
+     <string name="toastbar_calendar_permission_switch_close">I permessi per il Calendario sono disattivati. Il Calendario non può essere sincronizzato</string>
+     <string name="toastbar_contacts_permission_switch_close">I permessi per i Contatti sono disattivati. I Contatti non possono essere sincronizzati</string>
+     <string name="toastbar_local_calendar_and_contacts_sync_switch_close">La sincronizzazione del Calendario e dei Contatti è disattivata. Calendario e Contatti non possono essere sincronizzati</string>
+     <string name="toastbar_local_calendar_sync_switch_close">La sincronizzazione del Calendario è disattivata. Il Calendario non può essere sincronizzato</string>
+     <string name="toastbar_local_contacts_sync_swtich_close">La sincronizzazione dei COntatti è disattivata. I Contatti non possono essere sincronizzati</string>
      <string name="today_text">Oggi</string>
      <string name="too_large_to_attach_additional">File non allegato. Limite di %1$s raggiunto.</string>
      <string name="too_large_to_attach_multiple">Uno o più file non allegati. Limite di %1$s.</string>

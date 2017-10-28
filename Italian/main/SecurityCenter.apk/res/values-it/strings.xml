@@ -2061,8 +2061,8 @@ I dati rimanenti includono dati che sono stati erogati il mese precedente."</str
      <string name="virus_update_tips_title">Collegati a Wi-Fi</string>
      <string name="virus_wait_network_dialog_message">Gli aggiornamenti sono di grandi dimensioni. Collegati ad una rete Wi-Fi per scaricarli.</string>
      <string name="voltage_symbol">V</string>
-     <string name="vpn_disabled_by_user">Designated data connection is off</string>
-     <string name="vpn_unbale_get_phonenum">"Can't get phone numbers using designated data plans"</string>
+     <string name="vpn_disabled_by_user">Connessione dati definita disattivata</string>
+     <string name="vpn_unbale_get_phonenum">Impossibile  recuperare numeri di telefono tramite il piano dati definito</string>
      <string name="wakepath_confirm_start_activity">Consentire a %1$s di aprire %2$s?</string>
      <string name="website">Sito web</string>
      <string name="whitelist_prefix_add_hint">Aggiungi alla lista eccezioni tutti i numeri con prefisso</string>
