@@ -157,14 +157,14 @@
      <string name="menu_add">Aggiungi</string>
      <string name="menu_auto_fill">Auto-riempimento</string>
      <string name="menu_back_desktop">Torna alla Home</string>
-     <string name="menu_cell_setting">Griglia home</string>
+     <string name="menu_cell_setting">Configurazione spazio schermo</string>
      <string name="menu_customize">Personalizza impostazioni</string>
      <string name="menu_default_screen_preview">Imposta schermata predefinita</string>
      <string name="menu_edit">Modifica</string>
      <string name="menu_exit_scene">Esci da Free Desktop</string>
      <string name="menu_item_add_item">Inserire nella schermata Home</string>
      <string name="menu_launcher_setting">Launcher</string>
-     <string name="menu_lock">Blocca spazi vuoti</string>
+     <string name="menu_lock">Blocca spazi vuoti icone</string>
      <string name="menu_more">Altro</string>
      <string name="menu_picktheme">Seleziona tema</string>
      <string name="menu_reset_scene">Torna a scena predefinita</string>
