@@ -232,7 +232,7 @@ Tocca lo schermo per attivare il GPS"</string>
      <string name="cit_hall_far">lontano</string>
      <string name="cit_hall_near">vicino</string>
      <string name="cit_hall_test_summary">"Quando un magnete é prossimo all'area verde, il testo dovrebbe iniziare ad avvicinarsi, in alternativa rimarrà lontano"</string>
-     <string name="cit_hall_test_title">Sala</string>
+     <string name="cit_hall_test_title">Cover magnetica</string>
      <string name="cit_hardware_info_summary">Prego attendere...Renderizzazione informazioni hardware di questo dispositivo</string>
      <string name="cit_hardware_info_title">Informazioni hardware</string>
      <string name="cit_headset_button_check_summary">Quando le cuffie sono collegate, premi i pulsanti sulle cuffie (posizionati solitamente sul cavo). Sullo schermo il testo corrispondente dovrebbe diventare verde.</string>
