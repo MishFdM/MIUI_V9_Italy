@@ -993,7 +993,7 @@ Scatta più foto ai tuoi amici!"</string>
      <string name="operation_hide">Nascondi</string>
      <string name="operation_in_process">Elaborazione…</string>
      <string name="operation_move_to_other_albums">Sposta in Altri album</string>
-     <string name="operation_not_show_in_photos_tab">Non visualizzato nella scheda foto</string>
+     <string name="operation_not_show_in_photos_tab">Non visualizzare in home</string>
      <string name="operation_projection">Proietta</string>
      <string name="operation_remove_face">Rimuovi</string>
      <string name="operation_remove_from_face_album">Rimuovi copertina</string>
