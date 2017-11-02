@@ -179,8 +179,8 @@
      <string name="app_manager_manage_space">Gestisci spazio</string>
      <string name="app_manager_memory">RAM</string>
      <string name="app_manager_menu_clear_data">Cancella dati</string>
-     <string name="app_manager_net_control_title">Limita utilizzo dati</string>
-     <string name="app_manager_net_mobile">Mobile</string>
+     <string name="app_manager_net_control_title">Utilizzo dati</string>
+     <string name="app_manager_net_mobile">Mobili</string>
      <string name="app_manager_net_wifi">Wi-Fi</string>
      <string name="app_manager_not_record">Nessun elemento</string>
      <string name="app_manager_notify_bar">Badge</string>
