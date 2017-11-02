@@ -2,13 +2,13 @@
 <resources>
      <string name="FpTest">Esegui FpTest</string>
      <string name="FpTest_result">Risultato FpTest:</string>
-     <string name="SDCard">SD Card</string>
-     <string name="SD_INTERNAL_SDCard_mounted">Rileva SDCard interna</string>
-     <string name="SD_INTERNAL_SDCard_unmounted">SDCard interna non disponibile</string>
+     <string name="SDCard">Scheda SD</string>
+     <string name="SD_INTERNAL_SDCard_mounted">Rileva Scheda SD interna</string>
+     <string name="SD_INTERNAL_SDCard_unmounted">Scheda SD interna non disponibile</string>
      <string name="SD_SDCard_available_szie">Dimensione disponibile</string>
-     <string name="SD_SDCard_mounted">Rileva SDCard</string>
+     <string name="SD_SDCard_mounted">Rileva Scheda SD</string>
      <string name="SD_SDCard_total_size">Dimensione totale</string>
-     <string name="SD_SDCard_unmounted">SDCard non disponibile</string>
+     <string name="SD_SDCard_unmounted">Scheda SD non disponibile</string>
      <string name="abc_action_bar_home_description">Naviga nella home</string>
      <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
      <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
