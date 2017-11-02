@@ -29,7 +29,7 @@ questa funzione verrà aggiunta automaticamente allo spazio Secondario."</string
      <string name="closeSecondSpace">Elimina lo Spazio Secondario</string>
      <string name="closeSecondSpaceSummary">Elimina lo Spazio Secondario con tutti i dati associati</string>
      <string name="closeSuccess">Disattivato</string>
-     <string name="close_second_space_success">Eliminazione spazio Secondario</string>
+     <string name="close_second_space_success">Eliminazione spazio Secondario riuscita</string>
      <string name="closed">Disattivata</string>
      <string name="complete_setting">Finito</string>
      <string name="complete_setting_sub_title">Puoi modificare le impostazioni successivamente.</string>
