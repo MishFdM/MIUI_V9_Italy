@@ -928,6 +928,11 @@
         <item>Migliora le prestazioni del sistema</item>
         <item>Potrebbe influire sulle prestazioni del sistema</item>
      </string-array>
+     <string-array name="handy_mode_size_text_entries">
+        <item>4.5 pollici</item>
+        <item>4.0 pollici</item>
+        <item>3.5 pollici</item>
+     </string-array>
      <string-array name="haptic_feedback_level_texts">
         <item>Disattivata</item>
         <item>Leggera</item>
