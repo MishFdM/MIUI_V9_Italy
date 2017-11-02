@@ -75,6 +75,7 @@
      <string name="adjust_traffic_data">Imposta utilizzo dati</string>
      <string name="after_the_lock_screen">"L'app è bloccata con lo schermo, puoi modificare l'impostazione nelle impostazioni"</string>
      <string name="all_address_choose_hint">Tutte le posizioni</string>
+     <string name="already_close_gamebooster">Gaming speed boost is off</string>
      <string name="anim_gamebooster_text">Solo un secondo…</string>
      <string name="anti_disturb_msg_detail">Disattiva tutte le notifiche tranne quelle per le chiamate in entrata</string>
      <string name="anti_disturb_msg_title">DND</string>
@@ -401,6 +402,7 @@ se se dimenticata"</string>
      <string name="block_message_number">SMS: %d</string>
      <string name="block_phone_number">Chiamate: %d</string>
      <string name="boost_done">Migliorato correttamente</string>
+     <string name="boost_stop">Turn off speed boost</string>
      <string name="booster_immediately">Velocizza</string>
      <string name="booster_suc">Migliorato correttamente</string>
      <string name="boostering">Miglioramento velocità…</string>
@@ -567,6 +569,8 @@ se se dimenticata"</string>
      <string name="data_usage_warning_body">Tocca per mostrare i dettagli di utilizzo dati.</string>
      <string name="data_usage_warning_body_notify">Tocca per i dettagli</string>
      <string name="data_usage_warning_title_notify">Hai superato il limite dati</string>
+     <string name="databooster_tips_message">Turn on to restrict all SIM cards except for the data card. Turn this feature off if errors occur in the games of your choice.</string>
+     <string name="databooster_tips_title">Attention</string>
      <string name="declaration_dialog_msg">"Questa funzione può aiutarti a tenere sotto controllo l'utilizzo della tua connessione dati mobile, ma non è garantito che vengano evitati costi aggiuntivi. Per avere risultati migliori, impostare un limite prudente."</string>
      <string name="deep_clean_disconnect_data_title">Disattiva la connessione dati a dispositivo bloccato</string>
      <string name="deep_clean_memory_clean_title">Pulisci la cache a dispositivo bloccato</string>
@@ -700,6 +704,7 @@ se se dimenticata"</string>
      <string name="firewall_rule_group_title_wifi">Wi-Fi</string>
      <string name="firewall_wifi_dialog_message">"L'app installata non potrà collegarsi a internet utilizzando la rete Wi-Fi quanto questa funzione è disattivata.​"</string>
      <string name="five_percent_total_pkg">%s (5%% di dati mensili)</string>
+     <string name="forbid_autobright_summary">"Screen brightness will stay the same when you're playing games"</string>
      <string name="forbid_autobright_title">Correggi luminosità schermo</string>
      <string name="foreground_traffic">Primo piano %s</string>
      <string name="forget_password_button_text"><u>Password dimenticata</u></string>
@@ -721,6 +726,7 @@ se se dimenticata"</string>
      <string name="game_ad_recommendation">Everybody is playing</string>
      <string name="game_anti_disturb_msg">Game DND</string>
      <string name="game_booster">Game Speed Booster</string>
+     <string name="game_booster_close">Game Speed Booster off</string>
      <string name="game_booster_intro">Informazioni su Game Speed Booster</string>
      <string name="game_booster_jump_webview">Solo un secondo…</string>
      <string name="game_booster_tab_top">In cima</string>
@@ -2101,6 +2107,8 @@ I dati rimanenti includono dati che sono stati erogati il mese precedente."</str
      <string name="wlan_booster">Acceleratore Wi-Fi</string>
      <string name="wlan_change_protection_detail">Non passare automaticamente alla rete Wi-Fi quando collegato alla rete dati mobile</string>
      <string name="wlan_change_protection_title">Impedisci cambiamenti di rete</string>
+     <string name="xunyou_net_booster">Network speed boost</string>
+     <string name="xunyou_net_booster_detail">Use Xunyou speed boost services for gaming</string>
      <string name="xunyou_pay_webview">Servizi Xunyou</string>
      <string name="xunyou_server_expired">Sessione scaduta.</string>
      <string name="zhifubao_not_found">Applicazione non installata o versione troppo vecchia</string>
