@@ -191,6 +191,13 @@
      <string name="error_invalid_path">Percorso non corretto</string>
      <string name="error_not_support">Non supportato</string>
      <string name="error_open_file_failed_no_app_found">"Nessuna applicazione trovata per l'apertura del file"</string>
+     <string name="exo_controls_fastforward_description">Fast forward</string>
+     <string name="exo_controls_next_description">Next track</string>
+     <string name="exo_controls_pause_description">Pause</string>
+     <string name="exo_controls_play_description">Play</string>
+     <string name="exo_controls_previous_description">Previous track</string>
+     <string name="exo_controls_rewind_description">Rewind</string>
+     <string name="exo_controls_stop_description">Stop</string>
      <string name="extended_storage_file_can_not_open">Impossibile aprire il file. Copia il file nella memoria interna."</string>
      <string name="extract">Estrai</string>
      <string name="fail_to_create_folder_unknown">Impossibile creare: errore sconosciuto.</string>

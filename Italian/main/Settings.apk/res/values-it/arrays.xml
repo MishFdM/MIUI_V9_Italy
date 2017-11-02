@@ -900,12 +900,6 @@
         <item>10 minuti</item>
         <item>30 minuti</item>
      </string-array>
-     <string-array name="edge_touch_volume_action">
-        <item>Regolazione tocco - Attiva con doppio tocco</item>
-        <item>Regolazione scorrimento - Attiva con scorrimento</item>
-        <item>Regolazione tocco - Attiva con il tocco</item>
-        <item>Regolazione tocco - Attiva tenendo premuto</item>
-     </string-array>
      <string-array name="enable_opengl_traces_entries">
         <item>Nessuno</item>
         <item>Logcat</item>

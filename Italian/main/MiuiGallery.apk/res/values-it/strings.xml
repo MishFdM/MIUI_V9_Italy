@@ -656,9 +656,6 @@
      <string name="delete_album_msg_format">Eliminare album \"%2$s\" %1$s%3$s?</string>
      <string name="delete_album_success">Album eliminato.</string>
      <string name="delete_finish_format">%d eliminati</string>
-     <string name="delete_from_album">"dall'album \"%s\" da tutti i dispositivi"</string>
-     <string name="delete_from_album_no_account">"dall'album \"%s\" "</string>
-     <string name="delete_from_all_devices">da tutti i dispositivi</string>
      <string name="delete_from_all_devices_and_cloud">da tutti i dispositivi e Mi Cloud</string>
      <string name="delete_from_cloud">"Elimina elementi dall'album cloud"</string>
      <string name="delete_from_devices">Tutti i dispositivi che sincronizzano automaticamente</string>
@@ -818,7 +815,6 @@ Scatta più foto ai tuoi amici!"</string>
      <string name="filter_food_softdrink">Soda</string>
      <string name="filter_food_wholemeal">Grani</string>
      <string name="filter_original">Nessuno</string>
-     <string name="filter_people_blackwhite">B&amp;W</string>
      <string name="filter_people_fairytale">Bambini</string>
      <string name="filter_people_heart">Emozioni</string>
      <string name="filter_people_japanese">Fresco</string>
