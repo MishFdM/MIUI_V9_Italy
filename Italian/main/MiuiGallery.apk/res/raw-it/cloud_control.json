@@ -1,5 +1,61 @@
 [
   {
+    "name": "upload-supported-file-types",
+    "strategy": {
+      "image": [
+        {
+          "extension": "JPG",
+          "mime-type": "image/jpeg"
+        },
+        {
+          "extension": "JPEG",
+          "mime-type": "image/jpeg"
+        },
+        {
+          "extension": "GIF",
+          "mime-type": "image/gif"
+        },
+        {
+          "extension": "PNG",
+          "mime-type": "image/png"
+        },
+        {
+          "extension": "BMP",
+          "mime-type": "image/x-ms-bmp"
+        },
+        {
+          "extension": "WEBP",
+          "mime-type": "image/webp"
+        },
+        {
+          "extension": "WBMP",
+          "mime-type": "image/vnd.wap.wbmp"
+        }
+      ],
+      "video": [
+        {
+          "extension": "MP4",
+          "mime-type": "video/mp4"
+        },
+        {
+          "extension": "MOV",
+          "mime-type": "video/quicktime"
+        },
+        {
+          "extension": "3GP",
+          "mime-type": "video/3gpp"
+        }
+      ]
+    }
+  },
+  {
+    "name": "location",
+    "strategy": {
+      "daily_update_limit_dev": 0,
+      "daily_update_limit_stable": 0
+    }
+  },
+  {
     "name": "server-reserved-album-names",
     "strategy": {
       "reserved-names": [
@@ -36,12 +92,16 @@
         "(^|\/)([0-9_-]+)($|\/)",
         "(^\/?)(tencent\/micromsg\/[0-9a-zA-Z]+\/)(avatar|image|image2|video|sfs\/avatar)($|\/)",
         "(^\/?)(tencent\/MobileQQ)($|\/)"
+        "(^\/?)(codoonsports\/skins)($|\/)",
+        "(^\/?)(miui\/debug_log)($|\/)",
+        "(^\/?)(miniplay\/com\\.minitech\\.miniworld\\.[0-9a-zA-Z.]+\/data)($|\/)",
+        "(^\/?)(tencent\/now\/file)($|\/)"
       ],
       "non_hidden_path_prefix": [
         "DCIM/",
         "Pictures/",
         "Download/",
-        "MIUI/Gallery/cloud/owner/"
+        "MIUI/Gallery/cloud/"
       ]
     }
   },
@@ -192,11 +252,6 @@
           "package-name": "com.tencent.mobileqq",
           "class-name": "com.tencent.mobileqq.activity.JumpActivity",
           "order": 3
-        },
-        {
-          "package-name": "com.sina.weibo",
-          "class-name": "com.sina.weibo.composerinde.ComposerDispatchActivity",
-          "order": 4
         }
       ],
       "share-components-international": [
@@ -245,6 +300,23 @@
           "class-name": "com.xiaomi.midrop.sender.ui.TransmissionActivity",
           "order": 8
         }
+      ],
+      "component-priority": [
+        {
+          "package-name": "com.miui.bugreport",
+          "class-name": "com.miui.bugreport.ui.FeedbackActivity",
+          "value": 2
+        },
+        {
+          "package-prefix": "com.miui",
+          "value": 1
+        },
+        {
+          "package-prefix": "com.xiaomi",
+          "value": 1
+        }
+      ],
+      "component-priority-international": [
       ]
     }
   },
@@ -274,8 +346,13 @@
             "in-whitelist": true,
             "show-in-photos-tab": false
           },
-          "names": [],
-          "path": "
+          "names": [
+            {
+              "language-code": "en",
+              "name": "sdcard"
+            }
+          ],
+          "path": ""
         },
         {
           "attributes": {
@@ -3066,6 +3143,454 @@
             }
           ],
           "path": "news_article"
+        },
+        {
+          "attributes": {
+            "auto-upload": true,
+            "hide": false,
+            "in-whitelist": true,
+            "show-in-photos-tab": false
+          },
+          "names": [
+            {
+              "language-code": "zh_CN",
+              "name": "淘宝"
+            },
+            {
+              "language-code": "zh_TW",
+              "name": "淘寶"
+            },
+            {
+              "language-code": "en",
+              "name": "Taobao"
+            }
+          ],
+          "path": "Pictures/taobao"
+        },
+        {
+          "attributes": {
+            "auto-upload": true,
+            "hide": false,
+            "in-whitelist": true,
+            "show-in-photos-tab": false
+          },
+          "names": [],
+          "path": "Pictures"
+        },
+        {
+          "attributes": {
+            "auto-upload": true,
+            "hide": false,
+            "in-whitelist": true,
+            "show-in-photos-tab": false
+          },
+          "names": [],
+          "path": "netease/cloudmusic/网易云音乐相册"
+        },
+        {
+          "attributes": {
+            "auto-upload": true,
+            "hide": false,
+            "in-whitelist": true,
+            "show-in-photos-tab": false
+          },
+          "names": [],
+          "path": "DCIM"
+        },
+        {
+          "attributes": {
+            "auto-upload": true,
+            "hide": false,
+            "in-whitelist": true,
+            "show-in-photos-tab": false
+          },
+          "names": [
+            {
+              "language-code": "zh_CN",
+              "name": "微博HD"
+            },
+            {
+              "language-code": "en",
+              "name": "Weibo HD"
+            }
+          ],
+          "path": "Sina/weibo-pad/img"
+        },
+        {
+          "attributes": {
+            "auto-upload": true,
+            "hide": false,
+            "in-whitelist": true,
+            "show-in-photos-tab": false
+          },
+          "names": [
+            {
+              "language-code": "zh_CN",
+              "name": "夸克浏览器"
+            },
+            {
+              "language-code": "en",
+              "name": "Quark Browser"
+            }
+          ],
+          "path": "Quark/Download"
+        },
+        {
+          "attributes": {
+            "auto-upload": true,
+            "hide": false,
+            "in-whitelist": true,
+            "show-in-photos-tab": false
+          },
+          "names": [
+            {
+              "language-code": "zh_CN",
+              "name": "腾讯新闻"
+            },
+            {
+              "language-code": "en",
+              "name": "Tencent News"
+            }
+          ],
+          "path": "Pictures/TencentNews"
+        },
+        {
+          "attributes": {
+            "auto-upload": true,
+            "hide": false,
+            "in-whitelist": true,
+            "show-in-photos-tab": false
+          },
+          "names": [
+            {
+              "language-code": "zh_CN",
+              "name": "我的创作"
+            },
+            {
+              "language-code": "en",
+              "name": "Creative"
+            }
+          ],
+          "path": "DCIM/Creative"
+        },
+        {
+          "attributes": {
+            "auto-upload": true,
+            "hide": false,
+            "in-whitelist": true,
+            "show-in-photos-tab": false
+          },
+          "names": [],
+          "path": "Pictures/B612咔叽"
+        },
+        {
+          "attributes": {
+            "auto-upload": true,
+            "hide": false,
+            "in-whitelist": true,
+            "show-in-photos-tab": false
+          },
+          "names": [],
+          "path": "Pictures/B612"
+        },
+        {
+          "attributes": {
+            "auto-upload": true,
+            "hide": false,
+            "in-whitelist": true,
+            "show-in-photos-tab": false
+          },
+          "names": [
+            {
+              "language-code": "zh_CN",
+              "name": "天猫"
+            },
+            {
+              "language-code": "en",
+              "name": "Tmall Pics"
+            }
+          ],
+          "path": "DCIM/TmallPic"
+        },
+        {
+          "attributes": {
+            "auto-upload": true,
+            "hide": false,
+            "in-whitelist": true,
+            "show-in-photos-tab": false
+          },
+          "names": [
+            {
+              "language-code": "en",
+              "name": "Tim"
+            }
+          ],
+          "path": "Tencent/Tim_Images"
+        },
+        {
+          "attributes": {
+            "auto-upload": true,
+            "hide": false,
+            "in-whitelist": true,
+            "show-in-photos-tab": false
+          },
+          "names": [
+            {
+              "language-code": "zh_CN",
+              "name": "百度新闻"
+            },
+            {
+              "language-code": "en",
+              "name": "Baidu News"
+            }
+          ],
+          "path": "Pictures/BaiduNews"
+        },
+        {
+          "attributes": {
+            "auto-upload": true,
+            "hide": false,
+            "in-whitelist": true,
+            "show-in-photos-tab": false
+          },
+          "names": [
+            {
+              "language-code": "zh_CN",
+              "name": "搜狐新闻"
+            },
+            {
+              "language-code": "en",
+              "name": "Sohu News"
+            }
+          ],
+          "path": "Android/data/com.sohu.newsclient/files/SohuDownload"
+        },
+        {
+          "attributes": {
+            "auto-upload": true,
+            "hide": false,
+            "in-whitelist": true,
+            "show-in-photos-tab": false
+          },
+          "names": [
+            {
+              "language-code": "zh_CN",
+              "name": "UC浏览器图片"
+            },
+            {
+              "language-code": "en",
+              "name": "UCBrowser Pictures"
+            }
+          ],
+          "path": "UCDownloads/pictures"
+        },
+        {
+          "attributes": {
+            "auto-upload": true,
+            "hide": false,
+            "in-whitelist": true,
+            "show-in-photos-tab": false
+          },
+          "names": [
+            {
+              "language-code": "zh_CN",
+              "name": "小红书"
+            },
+            {
+              "language-code": "en",
+              "name": "XHS"
+            }
+          ],
+          "path": "Pictures/XHS"
+        },
+        {
+          "attributes": {
+            "auto-upload": true,
+            "hide": false,
+            "in-whitelist": true,
+            "show-in-photos-tab": false
+          },
+          "names": [
+            {
+              "language-code": "zh_CN",
+              "name": "内涵段子"
+            },
+            {
+              "language-code": "en",
+              "name": "Joke Essay"
+            }
+          ],
+          "path": "joke_essay"
+        },
+        {
+          "attributes": {
+            "auto-upload": false,
+            "hide": true,
+            "in-whitelist": false,
+            "show-in-photos-tab": false
+          },
+          "names": [],
+          "path": "miui/assistant/launch_icon"
+        },
+        {
+          "attributes": {
+            "auto-upload": false,
+            "hide": true,
+            "in-whitelist": false,
+            "show-in-photos-tab": false
+          },
+          "names": [],
+          "path": "MobileCache"
+        },
+        {
+          "attributes": {
+            "auto-upload": false,
+            "hide": true,
+            "in-whitelist": false,
+            "show-in-photos-tab": false
+          },
+          "names": [],
+          "path": "didiImg"
+        },
+        {
+          "attributes": {
+            "auto-upload": false,
+            "hide": true,
+            "in-whitelist": false,
+            "show-in-photos-tab": false
+          },
+          "names": [],
+          "path": "DidiScreenAd"
+        },
+        {
+          "attributes": {
+            "auto-upload": false,
+            "hide": true,
+            "in-whitelist": false,
+            "show-in-photos-tab": false
+          },
+          "names": [],
+          "path": "Tencent/tassistant/photon"
+        },
+        {
+          "attributes": {
+            "auto-upload": false,
+            "hide": true,
+            "in-whitelist": false,
+            "show-in-photos-tab": false
+          },
+          "names": [],
+          "path": "Android/data/com.tencent.qqlive/files/image"
+        },
+        {
+          "attributes": {
+            "auto-upload": false,
+            "hide": true,
+            "in-whitelist": false,
+            "show-in-photos-tab": false
+          },
+          "names": [],
+          "path": "QQmusic/LandScape"
+        },
+        {
+          "attributes": {
+            "auto-upload": false,
+            "hide": true,
+            "in-whitelist": false,
+            "show-in-photos-tab": false
+          },
+          "names": [],
+          "path": "QQmusic/dts_auto/assets/images"
+        },
+        {
+          "attributes": {
+            "auto-upload": false,
+            "hide": true,
+            "in-whitelist": false,
+            "show-in-photos-tab": false
+          },
+          "names": [],
+          "path": "Android/data/com.tencent.tmgp.sgame/files/Resources/Map/UIPics"
+        },
+        {
+          "attributes": {
+            "auto-upload": false,
+            "hide": true,
+            "in-whitelist": false,
+            "show-in-photos-tab": false
+          },
+          "names": [],
+          "path": "Android/data/com.tencent.mobileqq/qzone/zip_cache"
+        },
+        {
+          "attributes": {
+            "auto-upload": false,
+            "hide": true,
+            "in-whitelist": false,
+            "show-in-photos-tab": false
+          },
+          "names": [],
+          "path": "tmp"
+        },
+        {
+          "attributes": {
+            "auto-upload": false,
+            "hide": true,
+            "in-whitelist": false,
+            "show-in-photos-tab": false
+          },
+          "names": [],
+          "path": "cache"
+        },
+        {
+          "attributes": {
+            "auto-upload": false,
+            "hide": true,
+            "in-whitelist": false,
+            "show-in-photos-tab": false
+          },
+          "names": [],
+          "path": "imagecache"
+        },
+        {
+          "attributes": {
+            "auto-upload": false,
+            "hide": true,
+            "in-whitelist": false,
+            "show-in-photos-tab": false
+          },
+          "names": [],
+          "path": "Xiaomi/WALI_LIVE/levelPic"
+        },
+        {
+          "attributes": {
+            "auto-upload": false,
+            "hide": true,
+            "in-whitelist": false,
+            "show-in-photos-tab": false
+          },
+          "names": [],
+          "path": "Ingkee/newImage/tag"
+        },
+        {
+          "attributes": {
+            "auto-upload": false,
+            "hide": true,
+            "in-whitelist": false,
+            "show-in-photos-tab": false
+          },
+          "names": [],
+          "path": "tencent/MicroMsg/vusericon"
+        },
+        {
+          "attributes": {
+            "auto-upload": true,
+            "hide": false,
+            "in-whitelist": true,
+            "show-in-photos-tab": false
+          },
+          "names": [],
+          "path": "sina/weibo/微博动图"
         }
       ],
       "patterns": [
@@ -3088,13 +3613,6 @@
           }
         }
       ]
-    }
-  },
-  {
-    "name": "location",
-    "strategy": {
-      "daily_update_limit_dev": 0,
-      "daily_update_limit_stable": 0
     }
   },
   {
