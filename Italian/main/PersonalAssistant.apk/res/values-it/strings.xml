@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-     <string name="Clock_main">Alarm</string>
-     <string name="Clock_parent">Clock</string>
-     <string name="MiDrop_main">Send</string>
+     <string name="Clock_main">Sveglia</string>
+     <string name="Clock_parent">Orologio</string>
+     <string name="MiDrop_main">Invia</string>
      <string name="MiDrop_parent">Mi Drop</string>
-     <string name="Paytm_main">Scan</string>
+     <string name="Paytm_main">Scansiona</string>
      <string name="Paytm_parent">Paytm</string>
-     <string name="Whatsapp_main">Photo</string>
+     <string name="Whatsapp_main">Foto</string>
      <string name="Whatsapp_parent">Whatsapp</string>
      <string name="accessibility_title">Tasto diretto Assistente Personale</string>
      <string name="accordingto_position">Definisce la meta in base ai servizi di localizzazione</string>
-     <string name="account_address">Address</string>
-     <string name="add_stock">Add</string>
+     <string name="account_address">Indirizzo</string>
+     <string name="add_stock">Aggiungi</string>
      <string name="address_name_spell">Imposta indirizzo</string>
      <string name="agenda">Promemoria</string>
      <string name="agenda_open">Abilita promemoria agenda</string>
      <string name="agenda_setting_brief">Ottieni promemoria su eventi programmati</string>
-     <string name="agenda_setting_brief_detail">View planned events and birthday reminders.</string>
+     <string name="agenda_setting_brief_detail">Visualizza eventi pianificati e compleanni.</string>
      <string name="agenda_settings_account">Manage calendar accounts</string>
      <string name="agenda_settings_birthday">Show birthday reminders</string>
      <string name="agenda_settings_credit">Show credit card bills</string>
@@ -445,8 +445,8 @@
      <string name="taxi_open">Show taxi card</string>
      <string name="taxi_setting_brief">"È necessario contattare un taxi in base al percorso progettato, chiamalo con un tasto."</string>
      <string name="time_just_now">Just now</string>
-     <string name="time_month">MM/dd</string>
-     <string name="time_year">MM/dd/yyyy</string>
+     <string name="time_month">dd/MM</string>
+     <string name="time_year">dd/MM/yyyy</string>
      <string name="toast_function_add_not_allowed">You can add up to 8 shortcuts</string>
      <string name="toast_function_remove_not_allowed">You should add at least 1 shortcut</string>
      <string name="train_C">C train</string>
