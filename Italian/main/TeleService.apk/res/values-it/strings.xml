@@ -286,7 +286,7 @@
      <string name="callFailed_number_changed">Numero variato</string>
      <string name="callFailed_number_unreachable">Numero irraggiungibile</string>
      <string name="callFailed_only_digital_information_bearer_available">Solo la possibilità di ottenere informazioni digitali riservate del portatore é disponibile</string>
-     <string name="callFailed_operator_determined_barring">L'operatore ha determinato il blocco</string>
+     <string name="callFailed_operator_determined_barring">"L'operatore ha determinato il blocco"</string>
      <string name="callFailed_outOfService">Rete mobile non disponibile</string>
      <string name="callFailed_out_of_network">Chiamata da fuori copertura</string>
      <string name="callFailed_powerOff">Radio spenta</string>
@@ -596,7 +596,7 @@
      <string name="disable_pin_ok">PIN della SIM disattivato.</string>
      <string name="disable_sim_pin">Disattiva PIN della SIM</string>
      <string name="disabled_by_admin">"Disattivato dall'amministratore"</string>
-     <string name="disabled_by_admin_summary_text">Controllato dall'amministratore</string>
+     <string name="disabled_by_admin_summary_text">"Controllato dall'amministratore"</string>
      <string name="display_name_summary">Come il nome utente</string>
      <string name="display_name_title">Nome visualizzato</string>
      <string name="domain_address_title">Server</string>
@@ -1320,7 +1320,7 @@ Le funzionalità relative al PIN2 saranno bloccate se si fallisce un altro tenta
      <string name="show_hw_screen_updates_summary">Flash delle visualizzazioni dentro le finestre, se disegnate con GPU</string>
      <string name="show_non_rect_clip">Debug operazioni ritaglio non rettangolare</string>
      <string name="show_screen_updates">Aggiornamenti superficie</string>
-     <string name="show_screen_updates_summary">Flash delle superfici delle finestre all'aggiornamento</string>
+     <string name="show_screen_updates_summary">"Flash delle superfici delle finestre all'aggiornamento"</string>
      <string name="show_touches">Mostra tocchi</string>
      <string name="show_touches_summary">Mostra feedback visivo per i tocchi</string>
      <string name="simContacts_airplaneMode">Per importare contatti dalla carta SIM, disattivare prima la modalità Aereo.</string>

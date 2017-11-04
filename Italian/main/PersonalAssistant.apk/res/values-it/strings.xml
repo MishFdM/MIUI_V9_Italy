@@ -87,7 +87,7 @@
      <string name="cta_dialog_text2">\"Accordo utente\"</string>
      <string name="cta_dialog_text3">e</string>
      <string name="cta_dialog_text4">\"Privacy Policy\".</string>
-     <string name="cta_dialog_text5">Il servizio richiede anche una connessione internet e l'accesso ai servizi di localizzazione. Acconsenti?</string>
+     <string name="cta_dialog_text5">"Il servizio richiede anche una connessione internet e l'accesso ai servizi di localizzazione. Acconsenti?"</string>
      <string name="cta_dialog_title">Termini e Condizioni</string>
      <string name="daily_greeting">Saluti giornalieri</string>
      <string name="data_error">Si é verificato un errore, attendi un minuto o due e riprova</string>
@@ -128,7 +128,7 @@
      <string name="express_open">Mostra scheda tracciamento consegna</string>
      <string name="express_other_app">Permetti a MIUI di accedere alle informazioni sugli ordini da altre applicazioni.</string>
      <string name="express_setting_brief">Traccia i pacchetti di consegna espressi</string>
-     <string name="express_setting_brief_detail">Tieni traccia di tutti i tuoi pacchetti utilizzando il tuo numero di telefono e le informazioni sull'ordine.</string>
+     <string name="express_setting_brief_detail">"Tieni traccia di tutti i tuoi pacchetti utilizzando il tuo numero di telefono e le informazioni sull'ordine."</string>
      <string name="express_setting_phone">Permetti la richiesta di informazioni utilizzando il numero di telefono</string>
      <string name="express_support_app">App supportate</string>
      <string name="express_taobao">Taobao</string>
@@ -152,7 +152,7 @@
      <string name="favorite_add_home_process">Aggiunta…</string>
      <string name="favorite_all_selec">Seleziona tutto</string>
      <string name="favorite_cancel">Annulla</string>
-     <string name="favorite_clipboard_tip">Aggiungere l'indirizzo dagli appunti ai preferiti?</string>
+     <string name="favorite_clipboard_tip">"Aggiungere l'indirizzo dagli appunti ai preferiti?"</string>
      <string name="favorite_delete">Elimina</string>
      <string name="favorite_important">Importante</string>
      <string name="favorite_label">Preferiti</string>
@@ -327,7 +327,7 @@
      <string name="security">Sicurezza</string>
      <string name="send_action_title">Aggiungi ai preferiti</string>
      <string name="service_unavailiable">Controllare la connessione di rete e riprovare</string>
-     <string name="set_home_failed">Impossibile impostare l'indirizzo di casa, riprova nuovamente</string>
+     <string name="set_home_failed">"Impossibile impostare l'indirizzo di casa, riprova nuovamente"</string>
      <string name="set_office_failed">"Impossibile impostare l'indirizzo dell'ufficio, riprova di nuovo!"</string>
      <string name="setting_address">Imposta la destinazione</string>
      <string name="setting_basketball_brief_detail">Guarda le informazioni, impara i risultati e segui fino a 4 squadre di basket.</string>
@@ -352,7 +352,7 @@
      <string name="setting_disable">Disattiva</string>
      <string name="setting_fav_authorize">"Consenti l'accesso a tutti i preferiti sul dispositivo"</string>
      <string name="setting_fav_notification">Notifica ogni volta che qualcosa viene aggiunto ai preferiti</string>
-     <string name="setting_fav_remove_content">La scheda verrà eliminata dopo aver limitato l'accesso ai preferiti. Limitare comunque?</string>
+     <string name="setting_fav_remove_content">"La scheda verrà eliminata dopo aver limitato l'accesso ai preferiti. Limitare comunque?"</string>
      <string name="setting_fav_remove_neg">Annulla</string>
      <string name="setting_fav_remove_posi">Limitazione</string>
      <string name="setting_fav_remove_title">Limita</string>
@@ -418,7 +418,7 @@
      <string name="steps_auto_misport">Abilita avvio automatico</string>
      <string name="steps_get_misport">Installa Mi Fit</string>
      <string name="steps_misport">Seleziona Mi Fit</string>
-     <string name="steps_misport_dialog_content">Non hai installato Mi Fit. Per poter contare i passi, scarica e installa l'applicazione.</string>
+     <string name="steps_misport_dialog_content">"Non hai installato Mi Fit. Per poter contare i passi, scarica e installa l'applicazione."</string>
      <string name="steps_misport_dialog_title">Non hai ancora installato Mi Fit.</string>
      <string name="steps_misport_download">download</string>
      <string name="steps_misport_go">Permetti</string>
