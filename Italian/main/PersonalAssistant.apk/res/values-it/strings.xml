@@ -1412,8 +1412,8 @@ Check your tracking number."</string>
      <string name="step_cal_unit">千卡</string>
      <string name="step_km">km</string>
      <string name="step_setting_tip">Origine informazioni passi</string>
-     <string name="step_vip_action_bar">Steps</string>
-     <string name="steps">step</string>
+     <string name="step_vip_action_bar">Passi</string>
+     <string name="steps">passo</string>
      <string name="steps_auto_misport">Abilita avvio automatico</string>
      <string name="steps_get_misport">Installa Mi Fit</string>
      <string name="steps_misport">Seleziona Mi Fit</string>
