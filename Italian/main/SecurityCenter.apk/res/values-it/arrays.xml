@@ -68,8 +68,6 @@
         <item>Ordina per nome app</item>
         <item>"Ordina per frequenza d'uso"</item>
         <item>Ordina per memoria utilizzata</item>
-        <item>Ordina per data di utilizzo</item>
-        <item>Ordina per uso batteria</item>
 		<item>Ordina per tempo installazione</item>
      </string-array>
      <string-array name="sort_type">
@@ -77,8 +75,6 @@
         <item>Nome app</item>
         <item>Frequenza utilizzo</item>
         <item>Memoria utilizzata</item>
-        <item>Utilizzo dati</item>
-        <item>Utilizzo batteria</item>
 		<item>Tempo installazione</item>
      </string-array>
      <string-array name="title_app_info">

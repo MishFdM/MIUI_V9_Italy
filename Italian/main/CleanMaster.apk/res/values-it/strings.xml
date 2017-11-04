@@ -92,15 +92,15 @@
      <string name="cached_garbage">Cache</string>
      <string name="call_log">Registro chiamate</string>
      <string name="cancel">Annulla</string>
-     <string name="cd_back">back</string>
-     <string name="cd_check_box_checked">checked</string>
-     <string name="cd_check_box_middle">partial selection</string>
-     <string name="cd_check_box_unchecked">not checked</string>
-     <string name="cd_list_item_collapse">collapsed</string>
-     <string name="cd_list_item_expanded">expanded</string>
-     <string name="cd_percent">percent</string>
-     <string name="cd_settings">settings</string>
-     <string name="cd_sort_type">sort type</string>
+     <string name="cd_back">indietro</string>
+     <string name="cd_check_box_checked">verificato</string>
+     <string name="cd_check_box_middle">selezione parziale</string>
+     <string name="cd_check_box_unchecked">non verificato</string>
+     <string name="cd_list_item_collapse">chiuso</string>
+     <string name="cd_list_item_expanded">aperto</string>
+     <string name="cd_percent">percentuale</string>
+     <string name="cd_settings">impostazioni</string>
+     <string name="cd_sort_type">tipo di ordinamento</string>
      <string name="clean_content_all">Tutto</string>
      <string name="clean_content_one">1 file</string>
      <string name="clean_content_three">3 file</string>
@@ -381,9 +381,9 @@
      <string name="recommended">In evidenza</string>
      <string name="remain_item_name_n7p" />
      <string name="remain_item_name_pamp" />
-     <string name="resutl_function_deep_clean_summary">" altri %1$s file posso essere eliminati. Libera altro spazio. "</string>
-     <string name="resutl_function_qq_clean_summary">" "&lt;Data&gt;Puoi ripulire &amp;lt;font color=#ff0000 &amp;gt;%1$s&amp;lt;/font&amp;gt; della cache generata da QQ&lt;/Data&gt;" "</string>
-     <string name="resutl_function_wechat_clean_summary">" %1$s di cache WeChat. Libera altro spazio. "</string>
+     <string name="resutl_function_deep_clean_summary">" "<Data>&lt;font color=#ff0000 >%1$s&lt;/font> di file possono essere eliminati. Libera altro spazio.</Data>" "</string>
+     <string name="resutl_function_qq_clean_summary">" "<Data>Puoi ripulire &lt;font color=#ff0000 >%1$s&lt;/font> della cache generata da QQ</Data>" "</string>
+     <string name="resutl_function_wechat_clean_summary">" "<Data>&lt;font color=#ff0000 >%1$s&lt;/font> di cache WeChat. Libera altro spazio.</Data>" "</string>
      <string name="sc_allow_network_dialog_button">Consenti</string>
      <string name="sc_allow_network_dialog_message">Consentire a questa applicazione di connettersi alla rete per ricevere i dati?</string>
      <string name="scanning">Scansione…</string>

@@ -900,12 +900,6 @@
         <item>10 minuti</item>
         <item>30 minuti</item>
      </string-array>
-     <string-array name="edge_touch_volume_action">
-        <item>Regolazione tocco - Attiva con doppio tocco</item>
-        <item>Regolazione scorrimento - Attiva con scorrimento</item>
-        <item>Regolazione tocco - Attiva con il tocco</item>
-        <item>Regolazione tocco - Attiva tenendo premuto</item>
-     </string-array>
      <string-array name="enable_opengl_traces_entries">
         <item>Nessuno</item>
         <item>Logcat</item>
@@ -933,6 +927,11 @@
      <string-array name="fluency_mode_summaries">
         <item>Migliora le prestazioni del sistema</item>
         <item>Potrebbe influire sulle prestazioni del sistema</item>
+     </string-array>
+     <string-array name="handy_mode_size_text_entries">
+        <item>4.5 pollici</item>
+        <item>4.0 pollici</item>
+        <item>3.5 pollici</item>
      </string-array>
      <string-array name="haptic_feedback_level_texts">
         <item>Disattivata</item>
