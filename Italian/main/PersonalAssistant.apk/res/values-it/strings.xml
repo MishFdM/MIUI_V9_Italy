@@ -232,7 +232,7 @@
      <string name="mi_function">Collegamenti</string>
      <string name="mi_payment">I miei pagamenti</string>
      <string name="mi_payment_setting_brief">Raccogli informazioni sui tuoi pagamenti qui.</string>
-     <string name="mi_payment_setting_brief_detail">Raccoglieinformazioni sui tuoi pagamenti da Messaggi e da altre applicazioni.</string>
+     <string name="mi_payment_setting_brief_detail">Raccogli le informazioni sui tuoi pagamenti da Messaggi e da altre applicazioni.</string>
      <string name="mi_sport">Spostamenti Xiaomi</string>
      <string name="mi_sport_go_install">Download</string>
      <string name="mi_wallet">Mi Wallet</string>
@@ -366,7 +366,7 @@
      <string name="setting_football_fav_null">Non stai seguendo alcuna squadra</string>
      <string name="setting_football_hupu">Sportskeeda</string>
      <string name="setting_football_loading">Solo un attimo…</string>
-     <string name="setting_football_select_title" formatted="false">Seleziona squadra da seguire（%d/%d）</string>
+     <string name="setting_football_select_title" formatted="false">Seleziona squadra da seguire （%d/%d）</string>
      <string name="setting_football_toast_max">Puoi selezionare fino a 4 squadre</string>
      <string name="setting_home_label">"Imposta l'indirizzo di casa"</string>
      <string name="setting_launch_all_added">Impossibile aggiungere ulteriori elementi</string>
@@ -396,7 +396,7 @@
      <string name="sms_airline">Linea aerea</string>
      <string name="sms_che">Auto</string>
      <string name="sms_cinema">Teatro</string>
-     <string name="sms_dest">Destinatione</string>
+     <string name="sms_dest">Destinazione</string>
      <string name="sms_film">Film</string>
      <string name="sms_film_see">Vedi</string>
      <string name="sms_hao">Sede</string>
@@ -415,7 +415,7 @@
      <string name="sport">Sport</string>
      <string name="sport_open">Mostra scheda Mi Fit</string>
      <string name="step_setting_tip">Origine informazioni passi</string>
-     <string name="steps_auto_misport">Abilita autoavvio</string>
+     <string name="steps_auto_misport">Abilita avvio automatico</string>
      <string name="steps_get_misport">Installa Mi Fit</string>
      <string name="steps_misport">Seleziona Mi Fit</string>
      <string name="steps_misport_dialog_content">Non hai installato Mi Fit. Per poter contare i passi, scarica e installa l'applicazione.</string>
@@ -423,7 +423,7 @@
      <string name="steps_misport_download">download</string>
      <string name="steps_misport_go">Permetti</string>
      <string name="steps_misport_ok">Ottenuto</string>
-     <string name="steps_misport_tip">Loggati su Mi Fit per utilizzare il tuo Mi Account e permettere a Mi Fit di autoavviarsi su Sicurezza - Permessi.</string>
+     <string name="steps_misport_tip">Accedi su Mi Fit per utilizzare il tuo Mi Account e permettere a Mi Fit di avviarsi automaticamente su Sicurezza - Permessi.</string>
      <string name="steps_sport">Mi Fit</string>
      <string name="steps_sport_des">"Ottieni info accurate dall'app Mi Fit."</string>
      <string name="steps_vip">Passi</string>
@@ -471,7 +471,7 @@
      <string name="unusual_weather">Avvisi meteo</string>
      <string name="unusual_weather_open">Abilita avvisi meteo</string>
      <string name="unusual_weather_setting_brief">Ricevi avvisi meteo in caso di condizioni meteorologiche pericolose in arrivo nella tua posizione.</string>
-     <string name="unusual_weather_setting_tip">"Le città utilizate per diramare avvisi possono cambiare nell'app meteo."</string>
+     <string name="unusual_weather_setting_tip">"Le città utilizzate per diramare avvisi possono cambiare nell'app meteo."</string>
      <string name="uploads_disabled">Impossibile inviare il file</string>
      <string name="user_id">ID utente: %s</string>
      <string name="walk">A piedi</string>

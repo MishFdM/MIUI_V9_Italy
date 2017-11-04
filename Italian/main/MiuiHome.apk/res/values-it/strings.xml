@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-     <string name="action_add_to_workspace">Add to workspace</string>
+     <string name="action_add_to_workspace">Aggiungi allo spazio di lavoro</string>
      <string name="activity_not_found">Applicazione non installata sul dispositivo.</string>
      <string name="add_screen">Aggiungi tasto schermo</string>
      <string name="app_already_exist">App già esistente</string>

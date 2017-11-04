@@ -154,16 +154,16 @@ Se attivi di nuovo i dati su rete mobile, il tuo operatore potrebbe addebitarti 
         <item quantity="one">%d app</item>
      </plurals>
      <plurals name="number_masked_text">
-        <item quantity="other">%d notifications were hidden</item>
-        <item quantity="one">%d notification was hidden</item>
+        <item quantity="other">%d notifiche sono state nascoste</item>
+        <item quantity="one">%d notifica è stata nascosta</item>
      </plurals>
      <plurals name="number_to_lock">
         <item quantity="other">%d app non bloccate</item>
         <item quantity="one">%d app non bloccata</item>
      </plurals>
      <plurals name="number_to_mask_text">
-        <item quantity="other">%d notifications are visible</item>
-        <item quantity="one">%d notification is visible</item>
+        <item quantity="other">%d notifiche sono visibili</item>
+        <item quantity="one">%d notifica è visibile</item>
      </plurals>
      <plurals name="om_ill_proc_multi_app_title">
         <item quantity="other">"%d app non funzionano correttamente e consumano eccessivamente batteria"</item>

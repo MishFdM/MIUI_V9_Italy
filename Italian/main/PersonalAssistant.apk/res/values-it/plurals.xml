@@ -33,7 +33,7 @@
         <item quantity="one">%d ora</item>
     </plurals>
     <plurals name="sms_title_minutes">
-        <item quantity="other">%d minutei</item>
+        <item quantity="other">%d minuti</item>
         <item quantity="one">%d minuto</item>
     </plurals>
 </resources>
