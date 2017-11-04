@@ -257,7 +257,7 @@
      <string name="arrive">Landing</string>
      <string name="assistant_day_deadline">Last day</string>
      <string name="assistant_day_suffix">后</string>
-     <string name="assistant_format_MMdd">MM/dd</string>
+     <string name="assistant_format_MMdd">dd/MM</string>
      <string name="assistant_place">Assistente per i luoghi frequentati</string>
      <string name="assistant_summary">Suggerimenti importanti, al momento giusto</string>
      <string name="authorize_button">Allow</string>
@@ -269,13 +269,9 @@
      <string name="ball_basketball_title">Basketball</string>
      <string name="ball_basketball_total_rank">Stats</string>
      <string name="ball_dialog_confirm">Installa</string>
-     <!-- MNPS mismatch found! Translated: 0 Original: 1
-	%s: 0 Original: 1
-	%d: 0 Original: 0 -->
-     <!-- Original string: Install %s to use this feature. Install now? -->
-     <string name="ball_dialog_content">Installa HuPu Sports per utilizzare questa funzionalità. Installare ora?</string>
+     <string name="ball_dialog_content">Installa %s per utilizzare questa funzionalità. Installare ora?</string>
      <string name="ball_dialog_tip">Non mostrare nuovamente</string>
-     <string name="ball_dialog_title">""Installa prima l'app"."</string>
+     <string name="ball_dialog_title">"Installa prima l'app."</string>
      <string name="ball_football_news">News</string>
      <string name="ball_football_rank_flat">D</string>
      <string name="ball_football_rank_lose">L</string>
@@ -355,7 +351,7 @@
      <string name="category_go_dutch">Go Dutch</string>
      <string name="category_life">Life</string>
      <string name="category_medical">Healthcare</string>
-     <string name="category_other">Other</string>
+     <string name="category_other">Altro</string>
      <string name="category_red_packet">Red packages</string>
      <string name="category_remain">Remaining</string>
      <string name="category_remittance">Transferred</string>
@@ -844,7 +840,7 @@ Check your tracking number."</string>
      <string name="keyboard_space">空格</string>
      <string name="launch_app">Consigli app</string>
      <string name="launch_change_order">Cambia ordine</string>
-     <string name="launch_else">Other</string>
+     <string name="launch_else">Altro</string>
      <string name="launch_enable">Mostra accesso schede veloce</string>
      <string name="launch_function">Seleziona funzionalità</string>
      <string name="launch_label">Accesso veloce</string>
@@ -1005,9 +1001,9 @@ Check your tracking number."</string>
      <string name="miuishare_title_share">Condivisione</string>
      <string name="miuishare_wechat_timeline_title">Wechat Timeline</string>
      <string name="miuishare_weibo_title">Weibo</string>
-     <string name="month_day_format">MM/dd</string>
-     <string name="month_day_hour_minute_format_en">MM/dd HH:mm</string>
-     <string name="month_format_en">MM/dd</string>
+     <string name="month_day_format">dd/MM</string>
+     <string name="month_day_hour_minute_format_en">dd/MM HH:mm</string>
+     <string name="month_format_en">dd/MM</string>
      <string name="month_list_activity_label">Statement for account %1$s</string>
      <string name="month_record_list_money">Amount</string>
      <string name="month_record_list_time">Time</string>
@@ -1357,11 +1353,7 @@ Check your tracking number."</string>
      <string name="setting_football_fav_null">Non stai seguendo alcuna squadra</string>
      <string name="setting_football_hupu">Sportskeeda</string>
      <string name="setting_football_loading">Solo un attimo…</string>
-     <!-- MNPS mismatch found! Translated: 2 Original: 0
-	%s: 0 Original: 0
-	%d: 2 Original: 0 -->
-     <!-- Original string: Select teams to follow -->
-     <string name="setting_football_select_title" formatted="false">Seleziona squadra da seguire （%d/%d）</string>
+     <string name="setting_football_select_title" formatted="false">Select teams to follow</string>
      <string name="setting_football_toast_max">Puoi selezionare fino a 4 squadre</string>
      <string name="setting_home_label">"Imposta l'indirizzo di casa"</string>
      <string name="setting_launch_all_added">Impossibile aggiungere ulteriori elementi</string>
