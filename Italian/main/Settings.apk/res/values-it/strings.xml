@@ -2611,7 +2611,7 @@ ed esegui il software."</string>
      <string name="notification_importance_unspecified">App determines importance for each notification</string>
      <string name="notification_listener_disable_warning_cancel">Annulla</string>
      <string name="notification_listener_disable_warning_confirm">Disattiva</string>
-     <string name="notification_listener_disable_warning_summary">If you turn off notification access for %1$s, Do Not Disturb access may also be turned off.</string>
+     <string name="notification_listener_disable_warning_summary">Se disattivi le notifiche per %1$s, potrebbe essere disattivata la funzione non disturbare.</string>
      <string name="notification_listener_security_warning_summary">%1$s sarà in grado di leggere tutte le notifiche pubblicate dal sistema o da qualsiasi app installata, le quali potrebbero includere informazioni personali come i nomi dei contatti e il testo dei messaggi ricevuti. Sarà inoltre in grado di ignorare tali notifiche o di attivare pulsanti di azione al loro interno.</string>
      <string name="notification_listener_security_warning_title">Attivare %1$s?</string>
      <string name="notification_log_details_actions">azioni</string>
