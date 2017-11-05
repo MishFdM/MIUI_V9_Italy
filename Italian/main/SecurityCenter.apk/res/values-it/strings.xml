@@ -13,10 +13,10 @@
      <string name="ac_enter_applock">Apri blocco applicazioni</string>
      <string name="ac_firstUseApplock_subTitle">Utilizza per proteggere la tua privacy</string>
      <string name="ac_firstUseApplock_title">Richiedi una password per accedere alle app.</string>
-     <string name="ac_mask_all_apps">Hide for all apps</string>
+     <string name="ac_mask_all_apps">Nascondi tutte le app</string>
      <string name="ac_summaryOff">Disattivato, non serve una password per aprire le applicazioni</string>
      <string name="ac_summaryOn">Attivato, è necessaria una password per aprire le applicazioni</string>
-     <string name="ac_unmask_all_apps">Unhide for all apps</string>
+     <string name="ac_unmask_all_apps">Visualizza tutte le app</string>
      <string name="access_control_app_is_launching">App in avvio</string>
      <string name="access_control_failed_need_to_unlock_nofingerprint">"E' richiesta la password per aprire l'app"</string>
      <string name="access_control_fingerprint_not_identified_msg">Impossibile trovare impronta.</string>
@@ -135,8 +135,8 @@
      <string name="app_manager_app_update">Aggiornamenti</string>
      <string name="app_manager_app_version_name">Versione:</string>
      <string name="app_manager_appupdate_remind">Notifica aggiornamenti</string>
-     <string name="app_manager_as_dlg_msg">Allowing apps to autostart may require additional RAM and battery resources. Allow anyway?</string>
-     <string name="app_manager_as_dlg_title">Attention</string>
+     <string name="app_manager_as_dlg_msg">Consentire alle app di avviarsi automaticamente può richiedere maggior consumo di RAM e batteria. Attivare comunque?</string>
+     <string name="app_manager_as_dlg_title">Attenzione</string>
      <string name="app_manager_back">Indietro</string>
      <string name="app_manager_bipartition">App clonate</string>
      <string name="app_manager_card_permission_title">Permessi</string>
@@ -1135,8 +1135,8 @@ dall'operatore"</string>
      <string name="notification_item">Proteggi le app selezionate</string>
      <string name="notification_mask_summary">Non mostrare il contenuto delle notifiche sulla schermata di blocco e nel pannello delle notifiche</string>
      <string name="notification_mask_title">Nascondi contenuto</string>
-     <string name="notification_masked_item">Hide notifications</string>
-     <string name="notification_masked_subtitle">Hide notifications from apps protected with App lock</string>
+     <string name="notification_masked_item">Nascondi notifiche</string>
+     <string name="notification_masked_subtitle">Nascondi le notifiche per le app protetta dal Blocco App</string>
      <string name="notification_subtitle">Tocca per attivare</string>
      <string name="notification_summary_cmcc_app_check">Tocca per vedere i dettagli.</string>
      <string name="notify_daily_data_usage_body">"Per limitare l'uso dei dati automaticamente imposta il tuo piano dati mensile."</string>
@@ -1759,17 +1759,17 @@ Questa attività riduce la durata della batteria."</string>
      <string name="start_diagnostic_botton">Comincia</string>
      <string name="start_downloading_app">Avvio download: %1$s</string>
      <string name="start_game">Start</string>
-     <string name="status_bar_network_flow_content">Today: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Remaining: %2$s</string>
-     <string name="status_bar_network_flow_content_not_setting">Today: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;This month: %2$s</string>
-     <string name="status_bar_network_flow_exceed_content">Today: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Plan exceeded: &lt;font color=%2$s&gt;%3$s&lt;/font&gt;</string>
-     <string name="status_bar_network_flow_phone_balance">"   Phone balance:%1$s "</string>
-     <string name="status_bar_network_flow_purchase">"   Purchase &gt;"</string>
-     <string name="status_bar_network_flow_setup_data_plan">"   Setup data plan &gt;"</string>
-     <string name="status_bar_network_flow_today">Today: %1$s</string>
+     <string name="status_bar_network_flow_content">Oggi: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Rimasti: %2$s</string>
+     <string name="status_bar_network_flow_content_not_setting">Oggi: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Questo mese: %2$s</string>
+     <string name="status_bar_network_flow_exceed_content">Oggi: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Superamento piano: &lt;font color=%2$s&gt;%3$s&lt;/font&gt;</string>
+     <string name="status_bar_network_flow_phone_balance">"   Saldo:%1$s "</string>
+     <string name="status_bar_network_flow_purchase">"   Acquista &gt;"</string>
+     <string name="status_bar_network_flow_setup_data_plan">"   Imposta piano dati &gt;"</string>
+     <string name="status_bar_network_flow_today">Oggi: %1$s</string>
      <string name="still_retain_btn">Mantieni</string>
      <string name="suggest_app_tolock">Suggerimenti</string>
-     <string name="suggest_app_tolock_masked">Hidden</string>
-     <string name="suggest_app_tolock_unmasked">Visible notifications</string>
+     <string name="suggest_app_tolock_masked">Nascoste</string>
+     <string name="suggest_app_tolock_unmasked">Notifiche visibili</string>
      <string name="suggest_scan_again">Si consigli a di completare la scansione per una sicurezza totale.</string>
      <string name="summary_app_lock_disable">Blocca le applicazioni per proteggere la tua privacy</string>
      <string name="summary_auto_update">MIUI sceglierà il momento migliore per scaricare ed installare gli aggiornamenti.</string>

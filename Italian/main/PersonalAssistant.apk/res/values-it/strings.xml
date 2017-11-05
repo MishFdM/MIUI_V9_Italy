@@ -7,7 +7,7 @@
      <string name="add_to_desktop">Aggiungi alla Home</string>
      <string name="address_name_spell">Imposta indirizzo</string>
      <string name="agenda">Promemoria</string>
-     <string name="agenda_assistant">Evento Calendario</string>
+     <string name="agenda_assistant">Eventi Calendario</string>
      <string name="agenda_assistant_account_num">Account</string>
      <string name="agenda_assistant_add">Aggiungi evento</string>
      <string name="agenda_assistant_allday">Tutto il giorno</string>
@@ -123,7 +123,7 @@
      <string name="card_title_favorite">Favorites</string>
      <string name="card_title_funclaunch">Collegamenti</string>
      <string name="card_title_noteboard">Note</string>
-     <string name="card_title_sport">Conta passi</string>
+     <string name="card_title_sport">Contapassi</string>
      <string name="card_title_sportassist">Sport assistant</string>
      <string name="card_trip_arrive">Arrivo</string>
      <string name="card_trip_dep">Partenza</string>
@@ -238,7 +238,7 @@
      <string name="empty_health_card_btn_get">Scarica Mi Fit</string>
      <string name="empty_health_card_btn_login">Accedi</string>
      <string name="empty_health_card_login_tip">Accedi a Mi Fit e accoppia la Mi Band.</string>
-     <string name="empty_health_card_login_tip_vip">Accedi a Mi Fit per attivare il conta passi.</string>
+     <string name="empty_health_card_login_tip_vip">Accedi a Mi Fit per attivare il contapassi.</string>
      <string name="empty_health_card_tip">Installa Mi Fit e accoppia la Mi Band.</string>
      <string name="empty_health_card_tip_vip">Install Mi Fit and turn on step counter.</string>
      <string name="empty_recharge_card_btn">Vai alle impostazioni</string>
@@ -876,7 +876,7 @@ Check your tracking number."</string>
      <string name="steps_sport">Mi Fit</string>
      <string name="steps_sport_des">"Ottieni info accurate dall'app Mi Fit."</string>
      <string name="steps_vip">Passi</string>
-     <string name="steps_vip_des">Conta i passi senza installare applicazioni di terze parti..</string>
+     <string name="steps_vip_des">Conta i passi senza installare applicazioni di terze parti.</string>
      <string name="stock_card_add">Add companies</string>
      <string name="stock_card_title">Stocks</string>
      <string name="stock_color_schema">Schema colore</string>
