@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <plurals name="assistant_day">
-        <item quantity="other">In %d days</item>
-        <item quantity="one">In %d day</item>
+        <item quantity="other">In %d giorni</item>
+        <item quantity="one">In %d giorno</item>
      </plurals>
      <plurals name="days_ago">
-        <item quantity="other">%1$dd ago</item>
+        <item quantity="other">%1$d giorni fa</item>
      </plurals>
      <plurals name="hours_ago">
-        <item quantity="other">%1$dhr ago</item>
+        <item quantity="other">%1$d ore fa</item>
      </plurals>
      <plurals name="main_delete_desc">
         <item quantity="other">Rimuovere %s elementi da preferiti?</item>
@@ -23,19 +23,19 @@
         <item quantity="one">%s elemento selezionato</item>
      </plurals>
      <plurals name="mins_ago">
-        <item quantity="other">%1$dmin ago</item>
+        <item quantity="other">%1$d minuti fa</item>
      </plurals>
      <plurals name="payment_record_dialog_delete_message">
-        <item quantity="other">Delete %s items from payment?</item>
-        <item quantity="one">Delete %s item from payment?</item>
+        <item quantity="other">Eliminare %s elementi dai pagamenti?</item>
+        <item quantity="one">Eliminare %s elemento dal pagamento?</item>
      </plurals>
      <plurals name="payment_record_menu_select_num">
-        <item quantity="other">Selected %s items</item>
-        <item quantity="one">Selected %s item</item>
+        <item quantity="other">Selezionati %s elementi</item>
+        <item quantity="one">Selezionato %s elemento</item>
      </plurals>
      <plurals name="sms_day_suffix">
-        <item quantity="other">In %d days</item>
-        <item quantity="one">In %d day</item>
+        <item quantity="other">In %d giorni</item>
+        <item quantity="one">In %d giorno</item>
      </plurals>
      <plurals name="sms_hour_suffix">
         <item quantity="other">In %d ore</item>
@@ -54,9 +54,9 @@
         <item quantity="one">%d minuto</item>
      </plurals>
      <plurals name="steps">
-        <item quantity="other">%d|steps</item>
-        <item quantity="zero">%d|step</item>
-        <item quantity="one">%d|step</item>
+        <item quantity="other">%d|passi</item>
+        <item quantity="zero">%d|passi</item>
+        <item quantity="one">%d|passo</item>
      </plurals>
      <plurals name="time_hour_ago">
         <item quantity="other">%d ore fa</item>
