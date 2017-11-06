@@ -184,7 +184,7 @@
      <string name="error_contains_sharer_path">"Impossibile crittografare i file in /MIUI/Gallery/cloud/sharer, sposta il file in un'altra cartella e prova di nuovo"</string>
      <string name="error_create_dir">Impossibile creare la cartella</string>
      <string name="error_create_file">Impossibile creare il file</string>
-     <string name="error_delete_failed">Impossibile leiminare il file</string>
+     <string name="error_delete_failed">Impossibile eliminare il file</string>
      <string name="error_filename_too_long">Nome troppo lungo</string>
      <string name="error_folder_already_exists">IL file è già esistente</string>
      <string name="error_info_cant_send_folder">La cartella non può essere trasferita</string>
@@ -406,7 +406,7 @@
      <string name="operation_unfavorite">Rimuovi dai Preferiti</string>
      <string name="original_user_desc">Carica regolarmente video originali per conquistare lo status di Creatore</string>
      <string name="original_user_qq_group">Entra nel gruppo QQ del Team Talenti</string>
-     <string name="original_user_register"> • &lt;font color=#fc7050&gt;%1$s&lt;/font&gt; joined the community</string>
+     <string name="original_user_register"> • &lt;font color=#fc7050&gt;%1$s&lt;/font&gt; è entrato nella community</string>
      <string name="original_user_signal">Team Talenti</string>
      <string name="original_user_title">Congratulazioni per essere diventato membro del Team Talenti!</string>
      <string name="original_user_verify">• Grazie per far parte del gruppo!</string>
@@ -416,7 +416,7 @@
      <string name="other_user_no_liked_video_tip">Nessun video piaciuto.</string>
      <string name="overwrite_msg">\"%s\" è già esistente. Tocca per sostituirlo con il nuovo file.</string>
      <string name="pad">Memoria interna</string>
-     <string name="partial_cancel_successful">"Couldn't remove some files. Moved the rest of the files to %s."</string>
+     <string name="partial_cancel_successful">Impossibile rimuovere alcuni file. Gli altri file verranno spostati in %s.</string>
      <string name="partial_delete_failure">Non è stato possibile eliminare alcuni file, riprova</string>
      <string name="partial_encrypt_success">Non è stato possibile nascondere alcuni file, riprova"</string>
      <string name="path_download">Gestisci i tuoi download</string>
@@ -427,7 +427,7 @@
      <string name="permission_denial">Impossibile accedere ai file. Consenti ad Explorer di accedere ai file nelle impostazioni.</string>
      <string name="permission_required">Impossibile accedere ai file. Concedi ad Explorer di accedere ai file nelle impostazioni.</string>
      <string name="petabyteShort">PB</string>
-     <string name="phone">Menoria interna</string>
+     <string name="phone">Memoria interna</string>
      <string name="phone_bind_skip">Rinuncia ai premi, salta ></string>
      <string name="phone_bind_tip">Collegando il telefono puoi entrare nella classifica degli argomenti e vincere fantastici premi ogni settimana!</string>
      <string name="phone_bind_title">Collega telefono</string>

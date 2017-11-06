@@ -232,7 +232,7 @@
      <string name="bt_hci_snoop_log">Attiva log snoop HCI Bluetooth</string>
      <string name="bt_hci_snoop_log_summary">Raccogli tutti i pacchetti HCI bluetooth in un file</string>
      <string name="bugreport_in_power">Collegamento bug report</string>
-     <string name="bugreport_in_power_summary">Mostra un tasto nel menu di alimenetazione per avere un bug report</string>
+     <string name="bugreport_in_power_summary">Mostra un tasto nel menu di alimentazione per avere un bug report</string>
      <string name="button_convert_fbe">Cancella e converti converti…</string>
      <string name="callEnded_pulled">Chiamata trasferita ad un altro dispositivo.</string>
      <string name="callFailed_QOS_unavailable">Qualità del servizio non disponibile</string>
@@ -264,8 +264,8 @@
      <string name="callFailed_incompatible_destination">Destinazione incompatibile</string>
      <string name="callFailed_information_element_non_existent">Elemento informativo non esistente o non implementato</string>
      <string name="callFailed_interworking_unspecified">Interworking, non specificato</string>
-     <string name="callFailed_invalid_credentials">Username o password non corretta</string>
-     <string name="callFailed_invalid_mandatory_information">Informazione oblligatoria non valida</string>
+     <string name="callFailed_invalid_credentials">Nome utente o password non corretta</string>
+     <string name="callFailed_invalid_mandatory_information">Informazione obbligatoria non valida</string>
      <string name="callFailed_invalid_number_format">Formato numero non valido (numero incompleto)</string>
      <string name="callFailed_invalid_transaction_identifier">Valore identificatore transazione non valido</string>
      <string name="callFailed_invalid_transit_NW_selection">Selezione transito rete non valida</string>
@@ -282,15 +282,15 @@
      <string name="callFailed_no_user_responding">Nessuna risposta utente</string>
      <string name="callFailed_non_selected_user_clearing">Cancellazione utente non selezionata</string>
      <string name="callFailed_normal">Cancellazione chiamata normale</string>
-     <string name="callFailed_normal_unspecified">Normale, non sprcificato</string>
+     <string name="callFailed_normal_unspecified">Normale, non specificato</string>
      <string name="callFailed_number_changed">Numero variato</string>
      <string name="callFailed_number_unreachable">Numero irraggiungibile</string>
      <string name="callFailed_only_digital_information_bearer_available">Solo la possibilità di ottenere informazioni digitali riservate del portatore é disponibile</string>
-     <string name="callFailed_operator_determined_barring">L'operatore ha determinato il blocco</string>
+     <string name="callFailed_operator_determined_barring">"L'operatore ha determinato il blocco"</string>
      <string name="callFailed_outOfService">Rete mobile non disponibile</string>
      <string name="callFailed_out_of_network">Chiamata da fuori copertura</string>
      <string name="callFailed_powerOff">Radio spenta</string>
-     <string name="callFailed_preemption">Prelazions</string>
+     <string name="callFailed_preemption">Preset</string>
      <string name="callFailed_protocol_error_unspecified">Errore protocollo, non specificato</string>
      <string name="callFailed_recovery_on_timer_expired">Scadenza timer recupero</string>
      <string name="callFailed_requested_circuit_or_channel_not_available">richiesta circuito/canale non disponibile</string>
@@ -520,7 +520,7 @@
      <string name="delete">Elimina</string>
      <string name="delete_fdn_contact">Elimina numero a selezione fissa</string>
      <string name="deleting_fdn_contact">Eliminazione numero a selezione fissa…</string>
-     <string name="description_delete_button">backspace</string>
+     <string name="description_delete_button">cancella</string>
      <string name="description_dial_button">componi</string>
      <string name="description_dialpad_back">Naviga indietro</string>
      <string name="description_dialpad_overflow">Altre opzioni</string>
@@ -595,8 +595,8 @@
      <string name="disable_overlays_summary">Utilizza sempre GPU per la composizione dello schermo</string>
      <string name="disable_pin_ok">PIN della SIM disattivato.</string>
      <string name="disable_sim_pin">Disattiva PIN della SIM</string>
-     <string name="disabled_by_admin">Disabled by administrator</string>
-     <string name="disabled_by_admin_summary_text">Controlled by admin</string>
+     <string name="disabled_by_admin">"Disattivato dall'amministratore"</string>
+     <string name="disabled_by_admin_summary_text">"Controllato dall'amministratore"</string>
      <string name="display_name_summary">Come il nome utente</string>
      <string name="display_name_title">Nome visualizzato</string>
      <string name="domain_address_title">Server</string>
@@ -753,7 +753,7 @@ Desideri passare comunque al nuovo servizio?"</string>
      <string name="incall_error_out_of_service_wfc">Rete mobile non disponibile. Collegati ad una rete per poter effettuare una chiamata.</string>
      <string name="incall_error_power_off">Per effettuare una chiamata, disattiva prima la modalità Aereo.</string>
      <string name="incall_error_power_off_wfc">Disattiva la modalità aereo o collegati ad una rete Wi-Fi per effettuare una chiamata.</string>
-     <string name="incall_error_promote_wfc">Abilita chiamata Wi-Fi per effettuare una chiamatata.</string>
+     <string name="incall_error_promote_wfc">Abilita chiamata Wi-Fi per effettuare una chiamata.</string>
      <string name="incall_error_supp_service_conference">Impossibile effettuare chiamate in conferenza.</string>
      <string name="incall_error_supp_service_hangup">Impossibile rilasciare la chiamata(e).</string>
      <string name="incall_error_supp_service_hold">Impossibile mantenere la chiamata.</string>
@@ -822,7 +822,7 @@ Desideri passare comunque al nuovo servizio?"</string>
      <string name="launch_defaults_none">Nessuna impostazione predefinita</string>
      <string name="launch_defaults_some">Alcune impostazioni predefinite</string>
      <string name="list_language_dtitle">Lingue</string>
-     <string name="list_language_summary">Seleziona la lingua delle news</string>
+     <string name="list_language_summary">Seleziona la lingua delle notizie</string>
      <string name="list_language_title">Lingua</string>
      <string name="livetalk_setting">Ricarica pacchetto</string>
      <string name="load_networks_progress">Ricerca…</string>
@@ -1022,7 +1022,7 @@ Dovresti trovare una zona dove c'è migliore copertura (vicino una finestra o al
 Riprova o chiama il servizio clienti per altre opzioni."</string>
      <string name="other_settings">Altre impostazioni di chiamata</string>
      <string name="other_settings_category">Altro</string>
-     <string name="overlay_display_devices_title">Simulate secondary displays</string>
+     <string name="overlay_display_devices_title">Simula schermi secondari</string>
      <string name="overseas_roaming_setting">Roaming dati</string>
      <string name="password_changed">Password modificata</string>
      <string name="password_title">Password</string>
@@ -1104,7 +1104,7 @@ Le funzionalità relative al PIN2 saranno bloccate se si fallisce un altro tenta
      <string name="pin_progress_set_fdn_lock">Impostazione stato del blocco NSF…</string>
      <string name="pin_progress_set_icc_lock">Impostazione stato del blocco ICC…</string>
      <string name="pin_progress_unlock_icc">Sblocco carta SIM…</string>
-     <string name="pointer_location">Poiszione indicatore</string>
+     <string name="pointer_location">Posizione indicatore</string>
      <string name="pointer_location_summary">"L'overlay schermo mostra gli attuali dati touch"</string>
      <string name="port_title">Numero porta</string>
      <string name="power_charging">%1$s - %2$s</string>
@@ -1154,7 +1154,7 @@ Le funzionalità relative al PIN2 saranno bloccate se si fallisce un altro tenta
      <string name="preferred_network_mode_gsm_only_summary">Modalità di rete preferita: solo GSM</string>
      <string name="preferred_network_mode_gsm_wcdma_auto_choice">GSM/WCDMA auto</string>
      <string name="preferred_network_mode_gsm_wcdma_lte_choice">GSM/WCDMA/LTE</string>
-     <string name="preferred_network_mode_gsm_wcdma_preferred_choice">GSM/WCDMA preferred</string>
+     <string name="preferred_network_mode_gsm_wcdma_preferred_choice">GSM/WCDMA preferiti</string>
      <string name="preferred_network_mode_gsm_wcdma_summary">Modalità di rete preferita: GSM / WCDMA</string>
      <string name="preferred_network_mode_lte_cdma_evdo_summary">Modalità di rete preferita: CDMA+LTE/EVDO</string>
      <string name="preferred_network_mode_lte_cdma_summary">Modalità di rete preferita: LTE/CDMA</string>
@@ -1162,7 +1162,7 @@ Le funzionalità relative al PIN2 saranno bloccate se si fallisce un altro tenta
      <string name="preferred_network_mode_lte_gsm_umts_summary">Modalità di rete preferita: LTE/GSM/UMTS</string>
      <string name="preferred_network_mode_lte_gsm_wcdma_summary">Modalità di rete preferita: GSM/WCDMA/LTE</string>
      <string name="preferred_network_mode_lte_summary">Modalità di rete preferita: LTE</string>
-     <string name="preferred_network_mode_lte_tdscdma_cdma_evdo_gsm_wcdma_summary">Preferred network mode: LTE/TDSCDMA/CDMA/EvDo/GSM/WCDMA</string>
+     <string name="preferred_network_mode_lte_tdscdma_cdma_evdo_gsm_wcdma_summary">Modalità rete preferita: LTE/TDSCDMA/CDMA/EvDo/GSM/WCDMA</string>
      <string name="preferred_network_mode_lte_tdscdma_gsm_summary">Modalità rete preferita: LTE/GSM/TDSCDMA</string>
      <string name="preferred_network_mode_lte_tdscdma_gsm_wcdma_summary">Modalità rete preferita: LTE/TDSCDMA/GSM/WCDMA</string>
      <string name="preferred_network_mode_lte_tdscdma_summary">Modalità rete preferita: LTE / TDSCDMA</string>
@@ -1177,7 +1177,7 @@ Le funzionalità relative al PIN2 saranno bloccate se si fallisce un altro tenta
      <string name="preferred_network_mode_td_scdma_gsm_wcdma_lte_choice">TD-SCDMA/GSM/WCDMA/LTE</string>
      <string name="preferred_network_mode_td_scdma_lte_choice">TD-SCDMA/LTE</string>
      <string name="preferred_network_mode_td_scdma_lte_gsm_wcdma_cdma_evdo_choice">TD-SCDMA/LTE/GSM/WCDMA/CDMA/EVDO</string>
-     <string name="preferred_network_mode_td_scdma_only_choice">TD-SCDMA only</string>
+     <string name="preferred_network_mode_td_scdma_only_choice">Solo TD-SCDMA</string>
      <string name="preferred_network_mode_td_scdma_wcdma_choice">TD-SCDMA/WCDMA</string>
      <string name="preferred_network_mode_td_scdma_wcdma_lte_choice">TD-SCDMA/WCDMA/LTE</string>
      <string name="preferred_network_mode_tdscdma_cdma_evdo_gsm_wcdma_summary">Modalità rete preferita: TDSCDMA/CDMA/EvDo/GSM/WCDMA</string>
@@ -1320,7 +1320,7 @@ Le funzionalità relative al PIN2 saranno bloccate se si fallisce un altro tenta
      <string name="show_hw_screen_updates_summary">Flash delle visualizzazioni dentro le finestre, se disegnate con GPU</string>
      <string name="show_non_rect_clip">Debug operazioni ritaglio non rettangolare</string>
      <string name="show_screen_updates">Aggiornamenti superficie</string>
-     <string name="show_screen_updates_summary">Flash delle superfici delle finestre all'aggiornamento</string>
+     <string name="show_screen_updates_summary">"Flash delle superfici delle finestre all'aggiornamento"</string>
      <string name="show_touches">Mostra tocchi</string>
      <string name="show_touches_summary">Mostra feedback visivo per i tocchi</string>
      <string name="simContacts_airplaneMode">Per importare contatti dalla carta SIM, disattivare prima la modalità Aereo.</string>
@@ -1465,11 +1465,11 @@ Il prossimo periodo inizia tra %2$d giorni (%3$s)"</string>
      <string name="time_formate_am">AM</string>
      <string name="time_formate_pm">PM</string>
      <string name="time_interval_char">:</string>
-     <string name="time_next_day">" next day "</string>
+     <string name="time_next_day">" giorno successivo "</string>
      <string name="time_start">Da</string>
      <string name="time_start_hour">ora di inizio</string>
      <string name="time_start_minute">minuto di inizio</string>
-     <string name="title_cfu_enabled">Inoltyro di chiamata attivo</string>
+     <string name="title_cfu_enabled">Inoltro di chiamata attivo</string>
      <string name="title_convert_fbe">Conversione a file basato su crittografia</string>
      <string name="to_hint">1111:to;sip:abby@example.com:bcc;sip:bill@example.com:cc;</string>
      <string name="track_frame_time">Profilo rendering GPU</string>
@@ -1488,11 +1488,11 @@ Il prossimo periodo inizia tra %2$d giorni (%3$s)"</string>
      <string name="tts_engine_settings_button">Impostazioni motore</string>
      <string name="tts_engine_settings_title">Impostazioni per %s</string>
      <string name="tts_general_section_title">Generale</string>
-     <string name="tts_install_data_summary">Installa dati voce richiesti oer motore di sintesi</string>
+     <string name="tts_install_data_summary">Installa dati voce richiesti per motore di sintesi</string>
      <string name="tts_install_data_title">Installa dati voce</string>
      <string name="tts_lang_not_selected">Lingua non selezionata</string>
      <string name="tts_lang_use_system">Utilizza lingua di sistema</string>
-     <string name="tts_play_example_summary">Avvia una piccola dimostrazione di sintetizzazione vocale</string>
+     <string name="tts_play_example_summary">Avvia una piccola dimostrazione di sintesi vocale</string>
      <string name="tts_play_example_title">Ascolta un esempio</string>
      <string name="tts_reset_speech_pitch_summary">"Resetta l'intonazione al punto in cui il testo é parlato in maniera predefinita."</string>
      <string name="tts_reset_speech_pitch_title">Resetta intonazione parlato</string>
@@ -1545,8 +1545,8 @@ Contatta il tuo operatore se questo problema persiste."</string>
      <string name="voice_report_incoming_call">Chiamata in corso</string>
      <string name="voice_report_unknown_num">Numero sconosciuto</string>
      <string name="voicemail">Segreteria telefonica</string>
-     <string name="voicemail_abbreviated">Seg:</string>
-     <string name="voicemail_change_pin_dialog_title">Change PIN</string>
+     <string name="voicemail_abbreviated">Segr:</string>
+     <string name="voicemail_change_pin_dialog_title">Cambia PIN</string>
      <string name="voicemail_default">Il mio operatore</string>
      <string name="voicemail_notification_ringtone_title">Suona</string>
      <string name="voicemail_notification_vibarte_when_dialog_title">Vibrazione</string>

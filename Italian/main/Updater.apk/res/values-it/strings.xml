@@ -320,5 +320,5 @@ Nessun aggiornamento sarà disponibile per te!"</string>
      <string name="weekly_build">Settimanale</string>
      <string name="wifi_recommended">Nessuna connessione Wi-Fi per iniziare il download in modo sicuro!</string>
      <string name="worst_update">Il peggiore aggiornamento fino ad ora</string>
-	 <string name="path_updater_settings">Impostazioni/Informazioni dispositivo/Versione MIUI</string>
+	 <string name="path_updater_settings">Impostazioni/Informazioni dispositivo/Aggiornamenti</string>
 </resources>

@@ -67,7 +67,7 @@ per essere in grado di vederli sempre"</string>
      <string name="delete_phone_fingerprint">Elimina impronta dello spazio Secondario</string>
      <string name="delete_src_file">Elimina file</string>
      <string name="delete_src_photo">Elimina foto</string>
-     <string name="dialog_title">Attention</string>
+     <string name="dialog_title">Attenzione</string>
      <string name="dir_switch_out_all_photos">Galleria Spazio Secondario</string>
      <string name="disable">Disattiva</string>
      <string name="do_not_ask">Non chiedere più</string>
@@ -160,7 +160,7 @@ Puoi anche scaricarli separatamente"</string>
      <string name="openPasswordGuard">Imposta la password per lo Spazio Secondario</string>
      <string name="openSuccess">Attivato</string>
      <string name="opened">Attivata</string>
-     <string name="optimize_now">Optimize</string>
+     <string name="optimize_now">Ottimizza</string>
      <string name="other">Altro</string>
      <string name="otherSettings">Altre impostazioni</string>
      <string name="passWordGuardSummary">Inserisci lo spazio secondario dalla schermata di blocco utilizzando una password</string>

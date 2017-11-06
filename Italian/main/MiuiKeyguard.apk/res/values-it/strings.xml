@@ -121,11 +121,11 @@
      <string name="phone_locked_foget_password">Password dimenticata?</string>
      <string name="phone_locked_foget_password_mehod_back">Indietro</string>
      <string name="phone_locked_foget_password_method">Password dimenticata?</string>
-     <string name="phone_locked_foget_password_method_content">&lt;Data&gt;Devi &amp;lt;font color=#a5220e&amp;gt;eliminare tutti i dati &amp;lt;/font&amp;gt; sul tuo dispositivo, comprese foto e contatti, quindi impostare una nuova password per lo schermo.&lt;/Data&gt;</string>
+     <string name="phone_locked_foget_password_method_content">Devi eliminare tutti i dati sul tuo dispositivo, comprese foto e contatti, quindi impostare una nuova password per lo schermo.</string>
      <string name="phone_locked_foget_password_method_next">Avanti</string>
      <string name="phone_locked_foget_password_ok">Ho capito</string>
-     <string name="phone_locked_forget_password_suggesstion_one_content">&lt;Data&gt;Disattiva il tuo dispositivo, tieni premuto il &amp;lt;font color=#a5220e&amp;gt;Tasto accensione &amp;lt;/font&amp;gt; ed il tasto &amp;lt;font color=#a5220e&amp;gt;Volume su &amp;lt;/font&amp;gt;contemporaneamente finché non vedi ml.&lt;/Data&gt;</string>
-     <string name="phone_locked_forget_password_suggesstion_two_content">&lt;Data&gt;Seleziona &amp;lt;font color=#a5220e&amp;gt;\"Cancella &amp;amp;amp; Ripristina\"&amp;lt;/font&amp;gt; e attendi fino al riavvio del dispositivo.&lt;/Data&gt;</string>
+     <string name="phone_locked_forget_password_suggesstion_one_content">Disattiva il tuo dispositivo, tieni premuto il Tasto accensione ed il tasto Volume Su contemporaneamente finché non vedi</string>
+     <string name="phone_locked_forget_password_suggesstion_two_content">Seleziona Cancella e Ripristina e attendi fino al riavvio del dispositivo.</string>
      <string name="phone_locked_forget_password_suggesstions_title">Come cancellare i dati?</string>
      <string name="phone_locked_string">Il telefono è bloccato</string>
      <string name="symbol_colon">:</string>
