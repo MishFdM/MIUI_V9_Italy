@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">MiPlay</string>
-    <string name="noti_projection_status_title">Display Wireless Mi Play</string>
+    <string name="noti_projection_status_title">Schermo Wireless Mi Play</string>
     <string name="noti_projection_status_desc_on">Schermo remoto attivato</string>
-    <string name="prjection_title">Display wireless</string>
+    <string name="prjection_title">Schermo wireless</string>
     <string name="search_for_devices">Aggiorna</string>
     <string name="media_feature_projection">Schermo remoto</string>
     <string name="media_status_error">Errore</string>
@@ -12,14 +12,14 @@
     <string name="media_status_stopping">Interruzione…</string>
     <string name="media_status_stopped">Interrotto</string>
     <string name="wifi_display_settings_title">Trasmetti</string>
-    <string name="wifi_display_enable_menu_item">Attiva display wireless</string>
+    <string name="wifi_display_enable_menu_item">Attiva schermo wireless</string>
     <string name="wifi_display_no_devices_found">Nessun dispositivo vicino rilevato.</string>
     <string name="wifi_display_status_connecting">Connessione</string>
     <string name="wifi_display_status_connected">Connesso</string>
     <string name="wifi_display_status_in_use">In uso</string>
     <string name="wifi_display_status_not_available">Non disponibile</string>
     <string name="wifi_display_details">Impostazioni schermo</string>
-    <string name="wifi_display_options_title">Opzioni display wireless</string>
+    <string name="wifi_display_options_title">Opzioni schermo wireless</string>
     <string name="wifi_display_options_forget">Dimentica</string>
     <string name="wifi_display_options_done">Fatto</string>
     <string name="wifi_display_options_name">Nome</string>

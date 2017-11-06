@@ -456,8 +456,8 @@ Tutti i dati utente precedenti verranno salvati."</string>
      <string name="wifi_disabled_network_failure">Configurazione IP fallita</string>
      <string name="wifi_disabled_password_failure">Problema di autenticazione</string>
      <string name="wifi_disabled_wifi_failure">Connessione Wi-Fi fallita</string>
-     <string name="wifi_display_certification">Certificazione display wireless</string>
-     <string name="wifi_display_certification_summary">Mostra opzioni per la certificazione display wireless</string>
+     <string name="wifi_display_certification">Certificazione schermo wireless</string>
+     <string name="wifi_display_certification_summary">Mostra opzioni per la certificazione schermo wireless</string>
      <string name="wifi_fail_to_scan">Impossibile cercare reti</string>
      <string name="wifi_no_internet">Nessun accesso ad internet rilevato, non verrà riconnesso automaticamente.</string>
      <string name="wifi_no_internet_no_reconnect">"Nessuna accesso alla rete, non si verrà riconnesso automaticamente."</string>

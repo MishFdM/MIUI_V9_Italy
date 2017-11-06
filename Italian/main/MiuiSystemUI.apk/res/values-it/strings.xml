@@ -659,8 +659,8 @@ scorri in basso per bloccare"</string>
      <string name="wifi_disabled_network_failure">Configurazione IP fallita</string>
      <string name="wifi_disabled_password_failure">Problema di autenticazione</string>
      <string name="wifi_disabled_wifi_failure">Errore connessione Wi-Fi</string>
-     <string name="wifi_display_certification">Certificazione display Wireless</string>
-     <string name="wifi_display_certification_summary">Mostra opzioni per certificazione display wireless</string>
+     <string name="wifi_display_certification">Certificazione schermo wireless</string>
+     <string name="wifi_display_certification_summary">Mostra opzioni per certificazione schermo wireless</string>
      <string name="wifi_fail_to_scan">"Impossibile scansionare le reti</string>
      <string name="wifi_no_internet">Nessun accesso ad Internet, non si riconnetterà automaticamente.</string>
      <string name="wifi_not_in_range">Fuori portata</string>
