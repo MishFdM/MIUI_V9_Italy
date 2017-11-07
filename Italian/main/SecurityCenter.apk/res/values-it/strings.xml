@@ -246,8 +246,8 @@
      <string name="app_name_securitycenter">Sicurezza</string>
      <string name="app_not_installed_toast">"L'applicazione non è installata sul tuo dispositivo."</string>
      <string name="app_right">Produzione ufficiale Xiaomi</string>
-     <string name="app_usage_never">Non utilizzati di recente</string>
-     <string name="app_usage_recently">Utilizzati di recente</string>
+     <string name="app_usage_never">Non utilizzata di recente</string>
+     <string name="app_usage_recently">Utilizzata di recente</string>
      <string name="app_version">Versione</string>
      <string name="app_wifi">Wi-Fi</string>
      <string name="application_item_already_permission">Autorizzata</string>
