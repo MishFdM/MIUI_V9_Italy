@@ -1539,7 +1539,7 @@ Questa funzione aiuta a proteggere i propri dati su dispositivi persi o rubati."
      <string name="erase_personal_data">Dati personali</string>
      <string name="erase_personal_data_description">Elimina il tuo Mi Account, i dati delle app e le impostazioni del sistema</string>
      <string name="erase_sd_data">Formatta la scheda SD</string>
-     <string name="erase_sd_data_description">La formattazione eliminerò tutti i file e i dati presenti sulla scheda SD</string>
+     <string name="erase_sd_data_description">La formattazione eliminerà tutti i file ed i dati presenti sulla scheda SD</string>
      <string name="erase_sure">Dati personali</string>
      <string name="error_apn_empty">Il campo APN non può essere vuoto.</string>
      <string name="error_mcc_not3">Il campo MCC deve contenere 3 cifre.</string>
