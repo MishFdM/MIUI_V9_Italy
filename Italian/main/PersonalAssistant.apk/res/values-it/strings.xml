@@ -41,7 +41,7 @@
      <string name="alipay_sdk_payed_success">Pagamento riuscito</string>
      <string name="alipay_sdk_tiemout">Collegamento pagamento (nessuna app richiesta)</string>
 	 <string name="quickstart_accessibility_service">Smart Assistant</string>
-     <string name="quickstart_accessibility_description">Il servizio di Smart Assistant serve per per fornire un supporto alle applicazioni di terzi, disattivandolo il servizio non funzionerà correttamente.</string>
+     <string name="quickstart_accessibility_description">Il servizio di Smart Assistant serve per fornire un supporto alle applicazioni di terzi, disattivandolo il servizio non funzionerà correttamente.</string>
      <string name="already">Completed:</string>
      <string name="app_label">Assistente</string>
      <string name="apps">App consigliate</string>
