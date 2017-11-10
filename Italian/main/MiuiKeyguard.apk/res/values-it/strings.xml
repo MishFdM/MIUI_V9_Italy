@@ -43,7 +43,7 @@
      <string name="face_unlock_offset_top">Alza un di poco il dispositivo</string>
      <string name="face_unlock_open_eye">"Apri un po' di più gli occhi"</string>
      <string name="face_unlock_passwork">Usa password</string>
-     <string name="face_unlock_passwork_and_fingerprint">Use password or face data</string>
+     <string name="face_unlock_passwork_and_fingerprint">Usa password o riconoscimento viso</string>
      <string name="face_unlock_quality">Non è possibile vedere chiaramente il tuo viso</string>
      <string name="face_unlock_reveal_eye">Rendi i tuoi occhi visibili</string>
      <string name="face_unlock_reveal_mouth">Rendi le tue labbra visibili</string>
@@ -137,6 +137,6 @@
      <string name="unlockscreen_low_battery">Collegare il caricabatteria</string>
      <string name="unlockscreen_recharge_completed">Carica completa</string>
      <string name="unlockscreen_recharging_message">In carica, al %d%%</string>
-     <string name="wallpaper_global_des_drop_down_notify_text">Release to view details</string>
+     <string name="wallpaper_global_des_drop_down_notify_text">Rilascia per vedere i dettagli</string>
      <string name="wrong_password">Password non corretta</string>
 </resources>

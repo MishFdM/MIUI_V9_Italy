@@ -75,7 +75,7 @@
      <string name="adjust_traffic_data">Imposta utilizzo dati</string>
      <string name="after_the_lock_screen">"L'app è bloccata con lo schermo, puoi modificare l'impostazione nelle impostazioni"</string>
      <string name="all_address_choose_hint">Tutte le posizioni</string>
-     <string name="already_close_gamebooster">Gaming speed boost is off</string>
+     <string name="already_close_gamebooster">Gaming speed boost è disattivato</string>
      <string name="anim_gamebooster_text">Solo un secondo…</string>
      <string name="anti_disturb_msg_detail">Disattiva tutte le notifiche tranne quelle per le chiamate in entrata</string>
      <string name="anti_disturb_msg_title">DND</string>
@@ -124,7 +124,7 @@
      <string name="app_install_tips_go_to">Apri</string>
      <string name="app_install_tips_install_success">%1$s installazioni completate</string>
      <string name="app_maanger_app_uninstalled_toast">Questa app è stata disinstallata</string>
-     <string name="app_manager_advanced_setting">Advanced settings</string>
+     <string name="app_manager_advanced_setting">Impostazioni avanzate</string>
      <string name="app_manager_allow">Yes</string>
      <string name="app_manager_app_ifno_version">Versione app</string>
      <string name="app_manager_app_info_label">Info app</string>
@@ -148,7 +148,7 @@
      <string name="app_manager_clear_failed_dlg_message">Impossibile cancellare i dati app.</string>
      <string name="app_manager_clear_failed_dlg_title">Cancella dati</string>
      <string name="app_manager_copy_pkg_to_clip">Copiato negli appunti</string>
-     <string name="app_manager_default_cleared">cleared</string>
+     <string name="app_manager_default_cleared">cancellato</string>
      <string name="app_manager_default_close_summary">Nessuna impostazione predefinita.</string>
      <string name="app_manager_default_open_summary">Hai deciso di lanciare questa app in modo predefinito per attività specifiche.</string>
      <string name="app_manager_default_open_title">Cancella predefinite</string>
@@ -161,7 +161,7 @@
      <string name="app_manager_disable_dlg_title">"Disattivare l'app di sistema?"</string>
      <string name="app_manager_disable_text">Disattiva</string>
      <string name="app_manager_disabled">Disattivata</string>
-     <string name="app_manager_disabled_by_admin">Disabled by admin</string>
+     <string name="app_manager_disabled_by_admin">"Disattivato dall'amministratore"</string>
      <string name="app_manager_dlg_cancel">Annulla</string>
      <string name="app_manager_dlg_ok">OK</string>
      <string name="app_manager_enable_text">Attiva</string>
@@ -177,7 +177,7 @@
      <string name="app_manager_has_not_data">No data</string>
      <string name="app_manager_have_not_consume">No</string>
      <string name="app_manager_hide_system_server">Nascondi i servizi di sistema</string>
-     <string name="app_manager_install_other_app">Install apps from unknown sources</string>
+     <string name="app_manager_install_other_app">Installa applicazioni da fonti sconosciute</string>
      <string name="app_manager_instruction">Istruzione</string>
      <string name="app_manager_loading_data">Caricamento dati…</string>
      <string name="app_manager_manage_space">Gestisci spazio</string>
@@ -406,7 +406,7 @@ se se dimenticata"</string>
      <string name="block_message_number">SMS: %d</string>
      <string name="block_phone_number">Chiamate: %d</string>
      <string name="boost_done">Migliorato correttamente</string>
-     <string name="boost_stop">Turn off speed boost</string>
+     <string name="boost_stop">Disattiva speed boost</string>
      <string name="booster_immediately">Velocizza</string>
      <string name="booster_suc">Migliorato correttamente</string>
      <string name="boostering">Miglioramento velocità…</string>
@@ -573,8 +573,8 @@ se se dimenticata"</string>
      <string name="data_usage_warning_body">Tocca per mostrare i dettagli di utilizzo dati.</string>
      <string name="data_usage_warning_body_notify">Tocca per i dettagli</string>
      <string name="data_usage_warning_title_notify">Hai superato il limite dati</string>
-     <string name="databooster_tips_message">Turn on to restrict all SIM cards except for the data card. Turn this feature off if errors occur in the games of your choice.</string>
-     <string name="databooster_tips_title">Attention</string>
+     <string name="databooster_tips_message">Attiva per limitare tutte le SIM ad esclusione di quella utilizzata per la rete dati. Disattiva questa funzione se si verificano errori nei giochi che selezioni.</string>
+     <string name="databooster_tips_title">Attenzione</string>
      <string name="declaration_dialog_msg">"Questa funzione può aiutarti a tenere sotto controllo l'utilizzo della tua connessione dati mobile, ma non è garantito che vengano evitati costi aggiuntivi. Per avere risultati migliori, impostare un limite prudente."</string>
      <string name="deep_clean_disconnect_data_title">Disattiva la connessione dati a dispositivo bloccato</string>
      <string name="deep_clean_memory_clean_title">Pulisci la cache a dispositivo bloccato</string>
@@ -709,15 +709,15 @@ se se dimenticata"</string>
      <string name="firewall_rule_group_title_wifi">Wi-Fi</string>
      <string name="firewall_wifi_dialog_message">"L'app installata non potrà collegarsi a internet utilizzando la rete Wi-Fi quanto questa funzione è disattivata.​"</string>
      <string name="five_percent_total_pkg">%s (5%% di dati mensili)</string>
-     <string name="forbid_autobright_summary">"Screen brightness will stay the same when you're playing games"</string>
+     <string name="forbid_autobright_summary">La luminosità dello schermo rimarrà costante durante il gioco</string>
      <string name="forbid_autobright_title">Correggi luminosità schermo</string>
      <string name="foreground_traffic">Primo piano %s</string>
      <string name="forget_password_button_text"><u>Password dimenticata</u></string>
      <string name="forget_password_button_text_normal">Password dimenticata</string>
      <string name="forget_pattern"><u>Sequenza dimenticata?</u></string>
      <string name="free_send_net_booster">Acceleratore velocità di rete gratuito</string>
-     <string name="free_send_net_booster_busniess">Get a free Xunlei speed boost</string>
-     <string name="free_send_net_booster_busniess_tip">Tap to receive</string>
+     <string name="free_send_net_booster_busniess">Ricevi uno speed boost Xunlei gratuito</string>
+     <string name="free_send_net_booster_busniess_tip">Tocca per ricevere</string>
      <string name="free_send_net_booster_tip">"Goditi una fluida esperienza di gioco con l'acceleratore di velocità di rete gratuito."</string>
      <string name="free_time_traffic">Limite dati fuori soglia</string>
      <string name="free_time_traffic_hint">Inserisci limite dati fuori soglia</string>
@@ -728,7 +728,7 @@ se se dimenticata"</string>
      <string name="fw_blocked">Blacklist</string>
      <string name="fw_blocked_count">"Bloccati "</string>
      <string name="fw_blocked_join">" e "</string>
-     <string name="game_ad_recommendation">Everybody is playing</string>
+     <string name="game_ad_recommendation">Stanno giocando tutti</string>
      <string name="game_anti_disturb_msg">Game DND</string>
      <string name="game_booster">Game Speed Booster</string>
      <string name="game_booster_close">Game Speed Booster off</string>
@@ -922,15 +922,15 @@ L'operatore potrebbe addebitarti costi aggiuntivi se continui ad utilizzare la c
      <string name="main_alert_message_no_imsi">Nessuna SIM rilevata</string>
      <string name="main_alert_message_open_traffic_ctrl">uso di restrizione dei dati</string>
      <string name="main_bill_remained">Saldo telefono</string>
-     <string name="main_button_mi_sim_close">Activate Mi SIM</string>
-     <string name="main_button_mi_sim_open">View details</string>
+     <string name="main_button_mi_sim_close">Attiva Mi SIM</string>
+     <string name="main_button_mi_sim_open">Mostra dettagli</string>
      <string name="main_button_usage_adjust">Sincronizza utilizzo dati mobile</string>
      <string name="main_button_usage_adjust_manual">Imposta limite utilizzo dati</string>
      <string name="main_button_usage_adjusting">Carica in corso…</string>
      <string name="main_button_usage_adjusting_bill">Modifica in corso…</string>
      <string name="main_button_usage_package_setting">Imposta limite utilizzo dati</string>
      <string name="main_daily_package">Piano tariffario giornaliero</string>
-     <string name="main_indicator_title">Waiting for activation</string>
+     <string name="main_indicator_title">In attesa di attivazione</string>
      <string name="main_leisure_remained">Dati off-peak rimanenti</string>
      <string name="main_month_total_used">Usati questo mese</string>
      <string name="main_month_used">Questo mese</string>
@@ -949,7 +949,7 @@ L'operatore potrebbe addebitarti costi aggiuntivi se continui ad utilizzare la c
 per calibrare"</string>
      <string name="main_tc_wait_result">"In attesa di risposta
 dall'operatore"</string>
-     <string name="main_tobe_added_desc">Mobile data from ¥0.03/MB</string>
+     <string name="main_tobe_added_desc">Dati su rete mobile da ¥0.03/MB</string>
      <string name="main_today_used">Oggi</string>
      <string name="main_toolbar_firewall">Limita utilizzo dati</string>
      <string name="main_toolbar_internet_by_mobiledata">Connessione dati</string>
@@ -1010,8 +1010,8 @@ dall'operatore"</string>
      <string name="menu_bl_remove">Rimuovi dalla blacklist</string>
      <string name="menu_bl_sms_log">Controlla il registro dei messaggi bloccati</string>
      <string name="menu_call">Chiama</string>
-     <string name="menu_charge_bill">Top-up balance</string>
-     <string name="menu_charge_traffic">Buy data</string>
+     <string name="menu_charge_bill">Ricarica</string>
+     <string name="menu_charge_traffic">Acquista dati</string>
      <string name="menu_edit">Modifica</string>
      <string name="menu_item_about_content">Versione: %s</string>
      <string name="menu_item_about_summary">Versione: %s</string>
@@ -2115,7 +2115,7 @@ I dati rimanenti includono dati che sono stati erogati il mese precedente."</str
      <string name="wlan_change_protection_detail">Non passare automaticamente alla rete Wi-Fi quando collegato alla rete dati mobile</string>
      <string name="wlan_change_protection_title">Impedisci cambiamenti di rete</string>
      <string name="xunyou_net_booster">Network speed boost</string>
-     <string name="xunyou_net_booster_detail">Use Xunyou speed boost services for gaming</string>
+     <string name="xunyou_net_booster_detail">Usa i servizi di accelerazione Xunyou per i tuoi giochi</string>
      <string name="xunyou_pay_webview">Servizi Xunyou</string>
      <string name="xunyou_server_expired">Sessione scaduta.</string>
      <string name="zhifubao_not_found">Applicazione non installata o versione troppo vecchia</string>

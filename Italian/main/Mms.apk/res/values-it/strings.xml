@@ -128,7 +128,7 @@
      <string name="delete_wild_sims_title">Elimina numeri selezionati</string>
      <string name="delivery_report_activity">Conferma di recapito</string>
      <string name="delivery_toast_body">Messaggio correttamente inviato a %s</string>
-     <string name="dialog_message_sms_report">"Spam messages and sender's info will be uploaded to MIUI when you report them. They will only be used to improve MIUI's spam filters."</string>
+     <string name="dialog_message_sms_report">"I messaggi spam e le informazioni sui loro mittenti verranno segnalati a MIUI con il tuo report. Verranno utilizzati unicamente per migliorare i filtri spam MIUI."</string>
      <string name="disable_notifications_dialog_message">"Interrompere la notifica dei messaggi di testo provenienti dall'applicazione predefinita ?"</string>
      <string name="disabled">Disattivato</string>
      <string name="discard">Ignora</string>
@@ -392,7 +392,7 @@
      <string name="pref_sms_storage_title">Archiviazione</string>
      <string name="pref_sms_theme_title">Impostazioni tema</string>
      <string name="pref_summary_allow_si_sl_push">Consenti ricezione e notifica messaggi push WAP (SI/SL)</string>
-     <string name="pref_summary_allow_upload_message_info">"Spam messages and sender's info will be uploaded to MIUI when you report them."</string>
+     <string name="pref_summary_allow_upload_message_info">I messaggi spam e le informazioni sui loro mittenti verranno segnalati a MIUI con il tuo report.</string>
      <string name="pref_summary_auto_delete">Elimina i vecchi messaggi quando viene raggiunto il limite</string>
      <string name="pref_summary_delete_limit">%1$s messaggi per conversazione</string>
      <string name="pref_summary_delivery_reports">Ricezione del rapporto di consegna SMS</string>
@@ -410,7 +410,7 @@
      <string name="pref_system_title">Sistema</string>
      <string name="pref_title_about_smart_sms">Informazioni sul partner peri messaggi Smart</string>
      <string name="pref_title_allow_si_sl_push">Consenti push WAP</string>
-     <string name="pref_title_allow_upload_message_info">Upload spam messages</string>
+     <string name="pref_title_allow_upload_message_info">Carica messaggi spam</string>
      <string name="pref_title_auto_delete">Elimina i vecchi messaggi</string>
      <string name="pref_title_card_format">Formato condivisione scheda</string>
      <string name="pref_title_delivery_reports">Rapporti consegna</string>
@@ -561,7 +561,7 @@
      <string name="sms_full_title">Memoria SMS piena</string>
      <string name="sms_rejected_body">SMS in entrata rifiutato per cause sconosciute.</string>
      <string name="sms_rejected_title">SMS rifiutato</string>
-     <string name="sms_report">Report spam messages</string>
+     <string name="sms_report">Segnala messaggi spam</string>
      <string name="sms_report_dialog_content">Impossibile inviare il rapporto, prova di nuovo.</string>
      <string name="sms_report_dialog_retry">Prova di nuovo</string>
      <string name="sms_report_dialog_title">Prova di nuovo</string>
