@@ -659,7 +659,6 @@ Check your tracking number."</string>
      <string name="paycode_sdk_parent">Collegamento pagamento (nessuna app richiesta)</string>
      <string name="paycode_sdk_parent_title">Collegamento pagamento</string>
      <string name="payment">I miei pagamenti</string>
-     <string name="payment_amount_empty">0.00</string>
      <string name="payment_app_name">My payments</string>
      <string name="payment_card_title">My payments</string>
      <string name="payment_clear_records_dialog_message">Delete all payment history records?</string>
@@ -958,4 +957,6 @@ Check your tracking number."</string>
      <string name="year_month_day_format">dd/MM/yyyy</string>
      <string name="yellow_page_website">Sito ufficiale</string>
      <string name="yesterday">Ieri</string>
+	 <string name="function_qq_scan">Scanner</string>
+	 <string name="scan_app">Scanner</string>
 </resources>
