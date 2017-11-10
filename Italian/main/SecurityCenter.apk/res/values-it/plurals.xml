@@ -21,16 +21,16 @@
         <item quantity="one">%d volta</item>
      </plurals>
      <plurals name="app_usage_day">
-        <item quantity="other">"Non utilizzato da %d giorni"</item>
-        <item quantity="one">"Non utilizzato da %d giorno"</item>
+        <item quantity="other">"Non utilizzata da %d giorni"</item>
+        <item quantity="one">"Non utilizzata da %d giorno"</item>
      </plurals>
      <plurals name="app_usage_month">
-        <item quantity="other">"Non utilizzato da %d mesi"</item>
-        <item quantity="one">"Non utilizzato da %d mese"</item>
+        <item quantity="other">"Non utilizzata da %d mesi"</item>
+        <item quantity="one">"Non utilizzata da %d mese"</item>
      </plurals>
      <plurals name="app_usage_year">
-        <item quantity="other">"Non utilizzato da %d anni"</item>
-        <item quantity="one">"Non utilizzato da %d anno"</item>
+        <item quantity="other">"Non utilizzata da %d anni"</item>
+        <item quantity="one">"Non utilizzata da %d anno"</item>
      </plurals>
      <plurals name="cache_check_content">
         <item quantity="other">Protezione di %d app</item>
