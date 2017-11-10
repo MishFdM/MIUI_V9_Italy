@@ -3993,7 +3993,7 @@ Per utilizzare questo ^1, devi prima impostarlo."</string>
      <string name="storage_external_title">Memoria portatile</string>
      <string name="storage_format">Formattazione</string>
      <string name="storage_format_failure">Impossibile formattare %1$s</string>
-     <string name="storage_format_success">%1$s in fase di formattazione</string>
+     <string name="storage_format_success">%1$s é in fase di formattazione</string>
      <string name="storage_internal_forget_confirm">Tutte le app, foto o dati contenuti su questo ^1 verranno cancellati definitivamente.</string>
      <string name="storage_internal_forget_confirm_title">Dimenticare ^1?</string>
      <string name="storage_internal_forget_details">"Per utilizzare applicazioni, foto o dati contenuti su questo ^1, si prega di reinserirlo. 
