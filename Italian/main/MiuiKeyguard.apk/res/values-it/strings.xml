@@ -137,5 +137,6 @@
      <string name="unlockscreen_low_battery">Collegare il caricabatteria</string>
      <string name="unlockscreen_recharge_completed">Carica completa</string>
      <string name="unlockscreen_recharging_message">In carica, al %d%%</string>
+     <string name="wallpaper_global_des_drop_down_notify_text">Release to view details</string>
      <string name="wrong_password">Password non corretta</string>
 </resources>

@@ -2093,6 +2093,7 @@ Quando attivi il backup automatico, il dispositivo e i dati delle applicazioni v
      <string name="lock_screen_notifications_summary_show">Mostra tutti i contenuti delle notifiche</string>
      <string name="lock_screen_notifications_summary_show_profile">Mostra tutti i contenuti delle notifiche di lavoro</string>
      <string name="lock_screen_notifications_title">Quando il dispositivo è bloccato</string>
+     <string name="lock_screen_secure_after_timeout_immediately_never">Never require password</string>
      <string name="lock_screen_secure_after_timeout_immediately_summary">Richiedi password subito</string>
      <string name="lock_screen_secure_after_timeout_summary">Richiedi password dopo %1$s</string>
      <string name="lock_screen_secure_after_timeout_title">Richiesta password</string>
@@ -2803,6 +2804,7 @@ ed esegui il software."</string>
      <string name="phone_info_label">Info dispositivo</string>
      <string name="phone_language">Lingua</string>
      <string name="physical_keyboard_title">Tastiera fisica</string>
+     <string name="pick_up_gesture_wakeup_title">Raise device to wake</string>
      <string name="picture_color_mode">Modalità colore immagine</string>
      <string name="picture_color_mode_desc">Utilizza sRGB</string>
      <string name="pin_failed">Operazione con PIN della SIM non riuscita.</string>
@@ -2858,7 +2860,8 @@ ed esegui il software."</string>
      <string name="power_wifi">Wi-Fi</string>
      <string name="pre_installed_application">App pre-installate</string>
      <string name="pref_button_light">Luce tasti</string>
-     <string name="pref_button_light_summary">Retroilluminazione tasti Menu, Home e Indietro</string>
+     <string name="pref_button_light_summary">Retroilluminazione tasti Menu, %1$s e Indietro</string>
+     <string name="pref_button_light_summary_sub">Home,</string>
      <string name="pref_edge_handgrip">Comandi laterali</string>
      <string name="pref_operational_key">Tasti di navigazione</string>
      <string name="pref_title_lang_selection">Preferenze lingua</string>

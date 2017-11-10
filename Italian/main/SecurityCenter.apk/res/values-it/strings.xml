@@ -124,6 +124,8 @@
      <string name="app_install_tips_go_to">Apri</string>
      <string name="app_install_tips_install_success">%1$s installazioni completate</string>
      <string name="app_maanger_app_uninstalled_toast">Questa app è stata disinstallata</string>
+     <string name="app_manager_advanced_setting">Advanced settings</string>
+     <string name="app_manager_allow">Yes</string>
      <string name="app_manager_app_ifno_version">Versione app</string>
      <string name="app_manager_app_info_label">Info app</string>
      <string name="app_manager_app_info_name">Nome app</string>
@@ -148,7 +150,6 @@
      <string name="app_manager_copy_pkg_to_clip">Copiato negli appunti</string>
      <string name="app_manager_default_cleared">cleared</string>
      <string name="app_manager_default_close_summary">Nessuna impostazione predefinita.</string>
-     <string name="app_manager_default_open">Aperto predefinito</string>
      <string name="app_manager_default_open_summary">Hai deciso di lanciare questa app in modo predefinito per attività specifiche.</string>
      <string name="app_manager_default_open_title">Cancella predefinite</string>
      <string name="app_manager_defaults_setting">Predefiniti</string>
@@ -160,6 +161,7 @@
      <string name="app_manager_disable_dlg_title">"Disattivare l'app di sistema?"</string>
      <string name="app_manager_disable_text">Disattiva</string>
      <string name="app_manager_disabled">Disattivata</string>
+     <string name="app_manager_disabled_by_admin">Disabled by admin</string>
      <string name="app_manager_dlg_cancel">Annulla</string>
      <string name="app_manager_dlg_ok">OK</string>
      <string name="app_manager_enable_text">Attiva</string>
@@ -175,6 +177,7 @@
      <string name="app_manager_has_not_data">No data</string>
      <string name="app_manager_have_not_consume">No</string>
      <string name="app_manager_hide_system_server">Nascondi i servizi di sistema</string>
+     <string name="app_manager_install_other_app">Install apps from unknown sources</string>
      <string name="app_manager_instruction">Istruzione</string>
      <string name="app_manager_loading_data">Caricamento dati…</string>
      <string name="app_manager_manage_space">Gestisci spazio</string>
@@ -183,6 +186,7 @@
      <string name="app_manager_net_control_title">Utilizzo dati</string>
      <string name="app_manager_net_mobile">Mobili</string>
      <string name="app_manager_net_wifi">Wi-Fi</string>
+     <string name="app_manager_not_allow">No</string>
      <string name="app_manager_not_record">Nessun elemento</string>
      <string name="app_manager_notify_bar">Badge</string>
      <string name="app_manager_notify_floating">Notifiche flottanti</string>
@@ -589,6 +593,7 @@ se se dimenticata"</string>
      <string name="dialog_app_roaming_title">Roaming estero non è attivo per %1$s</string>
      <string name="dialog_msg_auto_start_declare">Alcune app di sicurezza potrebbero indicare erroneamente che MIUI sta impedendo alle app di avviarsi. Per verificare i permessi concessi alle singole app, vai in Impostazioni > Applicazioni</string>
      <string name="dialog_msg_stop_virus_scan">Interrompe la scansione antivirus prima che sia terminata</string>
+     <string name="dialog_no_longer_alert">"Don't show again"</string>
      <string name="dialog_roaming_message">"Consenti a questa applicazione di utilizzare i dati roaming all'estero?"</string>
      <string name="dialog_roaming_title">Roaming estero</string>
      <string name="dialog_text">Crea un collegamento in Home per Game Speed Booster</string>
@@ -1556,7 +1561,7 @@ Questa attività riduce la durata della batteria."</string>
      <string name="safe_result_item_info_system_scan">Monitoraggio pagamenti attivo</string>
      <string name="safe_result_item_info_system_version">"Sistema aggiornato all'ultima versione"</string>
      <string name="safepay_alert_dialog_button_continue">Procedi</string>
-     <string name="safepay_alert_dialog_button_risk">Ottimizza</string>
+     <string name="safepay_alert_dialog_button_fix">Fix</string>
      <string name="save_energy_text">"Limita l'avvio automatico e sincronizza per le app in background per ottenere il massimo dalla batteria"</string>
      <string name="save_energy_title">Ottimizza batteria</string>
      <string name="sc_allow_network_dialog_message">Questa applicazione deve utilizzare la connessione internet per funzionare correttamente.</string>
@@ -1621,7 +1626,9 @@ Questa attività riduce la durata della batteria."</string>
      <string name="sms_stranger_block">Filtro sconosciuti</string>
      <string name="sorted_dialog_title">Ordina per</string>
      <string name="sp_background_risk_dialog_summary">, verifica e risolvi i problemi di pagamento.</string>
+     <string name="sp_background_risk_dialog_summary_wifi_approve">You are connected to a public WLAN network which may be unsecure. Make sure your payment is protected before you complete it.</string>
      <string name="sp_background_risk_dialog_title">Attenzione</string>
+     <string name="sp_background_risk_dialog_title_wifi_approve">Public WLAN alert</string>
      <string name="sp_background_risk_type_messaging">"L'app Messaggi di sistema è stata sostituita"</string>
      <string name="sp_background_risk_type_root">Il sistema ha i permessi di root</string>
      <string name="sp_background_risk_type_sign">"Un'app non ufficiale è in esecuzione"</string>
