@@ -1251,7 +1251,7 @@ Questa attività riduce la durata della batteria."</string>
      <string name="optimize_result_title_sucurity_risk">Trovati rischi per la sicurezza</string>
      <string name="optimize_result_title_system_default_settings">Le impostazioni predefinite sono state modificate</string>
      <string name="optimize_result_title_uninstall_apps">App</string>
-     <string name="optimize_result_toast_system_default_settings">Ripristina le impostazioni predefinite</string>
+     <string name="optimize_result_toast_system_default_settings">Impostazioni predefinite ripristinate</string>
      <string name="optimize_result_toast_system_no_item_selected">Nessun elemento selezionato</string>
      <string name="optmizingbar_optimize_done">Ottimizzato</string>
      <string name="optmizingbar_ready">Ottimizzazione…</string>
