@@ -47,7 +47,7 @@
      <string name="account_settings_param">Impostazioni account</string>
      <string name="account_settings_policies">Condizioni di sicurezza</string>
      <string name="account_settings_preference_add_account">Aggiungi un account di posta</string>
-     <string name="account_settings_preference_att_save_path">POsizione predefinita per gli allegati</string>
+     <string name="account_settings_preference_att_save_path">Posizione predefinita per gli allegati</string>
      <string name="account_settings_preference_head_icon">Cambio intestazione verticale</string>
      <string name="account_settings_preference_notify">Nota</string>
      <string name="account_settings_retry_label">Tentativo di sincronizzazione</string>

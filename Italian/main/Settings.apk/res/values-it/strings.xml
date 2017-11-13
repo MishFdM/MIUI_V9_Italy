@@ -4060,7 +4060,7 @@ Dopo la formattazione, questo ^1 funzionerà solo su questo dispositivo.
 
 "<b>La formattazione eliminerà tutti i dati attualmente archiviati su ^1.</b>" Per evitare di perdere i dati, esegui un backup. "</string>
      <string name="storage_wizard_format_confirm_public_title">Formatta come archivio portatile</string>
-     <string name="storage_wizard_format_confirm_third_body">Il ^1 è stato formattato</string>
+     <string name="storage_wizard_format_confirm_third_body">La ^1 in fase di formattazione</string>
      <string name="storage_wizard_format_confirm_title">Formatta come memoria interna</string>
      <string name="storage_wizard_format_progress_body">Non rimuovere ^1 durante la formattazione.</string>
      <string name="storage_wizard_format_progress_title">Formattazione di ^1…</string>
