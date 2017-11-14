@@ -190,7 +190,7 @@
      <string name="settings_safetylegal_activity_loading">Solo un attimo…</string>
      <string name="show_system_app">Mostra app di sistema</string>
      <string name="sleep_config_enhance_description">MIUI migliorerà il risparmio batteria notturno</string>
-     <string name="sleep_config_enhance_title">Attivato</string>
+     <string name="sleep_config_enhance_title">Risparmio notturno</string>
      <string name="still">Immagine</string>
      <string name="sucess">successo</string>
      <string name="ui">Predefinito</string>
