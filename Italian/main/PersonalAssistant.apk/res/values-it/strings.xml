@@ -985,6 +985,7 @@ Check your tracking number."</string>
      <string name="function_taobao_title">Taobao</string>
 	 <string name="function_taobao_favorite">Preferiti</string>
 	 <string name="function_taobao_cart">Taobao</string>
+	 <string name="function_mistore_cart">Carrello</string>
 	 <string name="function_mistore_favorite">Preferiti</string>
 	 <string name="function_mistore_title">Mi Store</string>
 </resources>
