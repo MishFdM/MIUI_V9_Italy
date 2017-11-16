@@ -25,8 +25,8 @@
      <string name="access_control_need_to_unlock_nofingerprint">Inserisci password di sblocco</string>
      <string name="accessibility_service_description" />
      <string name="action_button_text_100">Ottimizza</string>
-     <string name="action_button_text_60">Ottimizzato</string>
-     <string name="action_button_text_60_80">Ottimizzato</string>
+     <string name="action_button_text_60">Ottimizza</string>
+     <string name="action_button_text_60_80">Ottimizza</string>
      <string name="action_button_text_80_100">Ottimizza</string>
      <string name="action_source_sms_title">SMS Bloccato</string>
      <string name="activity_title_antispam">Blacklist</string>
