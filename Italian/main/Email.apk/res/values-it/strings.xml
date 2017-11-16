@@ -957,6 +957,7 @@ perr icevere promemoria sui pagamenti dei tuoi viaggi"</string>
      <string name="security_unsupported_ticker_fmt">"L'account \"%s\" non può essere sincronizzato."</string>
      <string name="select_attachment_type">Scegli tipo di allegato</string>
      <string name="select_no_file">Nessun allegato selezionato per la condivisione.</string>
+     <string name="select_path">Seleziona percorso</string>
      <string name="send">Invia</string>
      <string name="send_failed">"Il messaggio non è stato inviato."</string>
      <string name="send_feed_back">Invia feedback</string>
