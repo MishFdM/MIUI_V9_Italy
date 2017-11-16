@@ -20,6 +20,7 @@
      <string name="auto_start_warning_allow">Consenti</string>
      <string name="auto_start_warning_deny">Nega</string>
      <string name="auto_start_warning_title">"Consentire l'avvio automatico di %s in futuro?"</string>
+     <string name="autofill">Riempimento automatico</string>
      <string name="button_text_cancel">Annulla</string>
      <string name="button_text_delete">Elimina</string>
      <string name="button_text_delete_timer">Elimina (%d)</string>
