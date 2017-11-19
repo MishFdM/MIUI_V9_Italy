@@ -251,7 +251,7 @@ Se non verrà eseguito l'aggiornamento, le app clonate potrebbero non funzionare
      <string name="show_private_msg_summary">Visualizza i messaggi privati nello spazio Secondario</string>
      <string name="skip">Salta</string>
      <string name="spaceSetting">Impostazioni</string>
-     <string name="space_created_success">Created Second space successfully</string>
+     <string name="space_created_success">Creazione Spazio secondario riuscita</string>
      <string name="space_deleted">Questo spazio è stato eliminato</string>
      <string name="space_des_default">Spazio separato con dati crittografati</string>
      <string name="space_finger_sub_text">"Imposta l'impronta dello spazio Secondario per eseguire il passaggio più velocemente"</string>
