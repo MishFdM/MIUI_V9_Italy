@@ -1,47 +1,47 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="banner_camera_count">
-        <item quantity="other">%d items</item>
-        <item quantity="one">%d item</item>
+        <item quantity="other">%d elementi</item>
+        <item quantity="one">%d elemento</item>
     </plurals>
     <plurals name="dialog_title_confirm_delete_device">
-        <item quantity="other">Delete %1$s selected devices?</item>
-        <item quantity="one">Delete %1$s selected device?</item>
+        <item quantity="other">Eliminare %1$s dispositivi selezionati?</item>
+        <item quantity="one">Eliminare %1$s dispositivo selezionato?</item>
     </plurals>
     <plurals name="family_share_count">
-        <item quantity="other">%d shared devices</item>
-        <item quantity="one">%d shared device</item>
+        <item quantity="other">Condividere %d dispositivi</item>
+        <item quantity="one">Condividere %d dispositivo</item>
     </plurals>
     <plurals name="ir_device_count">
-        <item quantity="other">%d remotes</item>
-        <item quantity="one">%d remote</item>
+        <item quantity="other">%d telecomandi</item>
+        <item quantity="one">%d telecomando</item>
     </plurals>
     <plurals name="kuailian_sub_main_device_finish">
-        <item quantity="other">Found %d smart devices, tap to finish</item>
-        <item quantity="one">Found %d smart device, tap to finish</item>
+        <item quantity="other">Trovati %d dispositivi intelligenti, tocca per terminare</item>
+        <item quantity="one">Trovato %d dispositivo intelligenti, tocca per terminare</item>
     </plurals>
     <plurals name="my_phone_ir_desc_count">
-        <item quantity="other">Added %1$d devices</item>
-        <item quantity="one">Added %1$d device</item>
+        <item quantity="other">Aggiunti %1$d dispositivi</item>
+        <item quantity="one">Aggiunto %1$d dispositivo</item>
     </plurals>
     <plurals name="score_sign_get_score_fmt">
-        <item quantity="other">Check in to get %1$d points</item>
-        <item quantity="one">Check in to get %1$d point</item>
+        <item quantity="other">Registrati per ottenere %1$d punti</item>
+        <item quantity="one">Registrati per ottenere %1$d punto</item>
     </plurals>
     <plurals name="score_sign_tomorrow_desc_part1">
-        <item quantity="other">Check in to get %1$d points tomorrow</item>
-        <item quantity="one">Check in to get %1$d point tomorrow</item>
+        <item quantity="other">Registrati per ottenere %1$d punti domani</item>
+        <item quantity="one">Registrati per ottenere %1$d punto domani</item>
     </plurals>
     <plurals name="score_sign_tomorrow_desc_part2">
-        <item quantity="other">You got %d points now</item>
-        <item quantity="one">You got %d point now</item>
+        <item quantity="other">Hai ottenuto %d punti fino ad ora</item>
+        <item quantity="one">Hai ottenuto %d punto fino ad ora</item>
     </plurals>
     <plurals name="setting_total_device">
-        <item quantity="other">%1$d devices</item>
-        <item quantity="one">%1$d device</item>
+        <item quantity="other">%1$d dispositivi</item>
+        <item quantity="one">%1$d dispositivo</item>
     </plurals>
     <plurals name="wifi_scan_new_plug">
-        <item quantity="other">%1$d devices found, tap to connect</item>
-        <item quantity="one">%1$d device found, tap to connect</item>
+        <item quantity="other">Trovati %1$d dispositivi, tocca per connettere</item>
+        <item quantity="one">Trovato %1$d dispositivo, tocca per connettere</item>
     </plurals>
 </resources>

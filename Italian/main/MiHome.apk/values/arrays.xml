@@ -1,68 +1,68 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="compression_display_values">
-        <item>Only over WLAN</item>
-        <item>Only over WLAN and 3G</item>
-        <item>Always try</item>
-        <item>Never</item>
+        <item>Solo tramite Wi-Fi</item>
+        <item>Solo tramite Wi-Fi e 3G</item>
+        <item>Prova sempre</item>
+        <item>Mai</item>
     </string-array>
     <string-array name="compression_values">
-        <item>wlan</item>
-        <item>wlanor3g</item>
-        <item>always</item>
-        <item>never</item>
+        <item>wi-fi</item>
+        <item>wi-fi o 3g</item>
+        <item>sempre</item>
+        <item>mai</item>
     </string-array>
     <string-array name="default_room_config">
-        <item>Living room</item>
-        <item>Bedroom</item>
-        <item>Dining room</item>
-        <item>Bathroom</item>
-        <item>Bathroom</item>
-        <item>Kitchen</item>
-        <item>"Kids' room"</item>
-        <item>"Baby's room"</item>
-        <item>Activity room</item>
-        <item>Media room</item>
-        <item>Office</item>
-        <item>Lounge</item>
-        <item>Study</item>
+        <item>Soggiorno</item>
+        <item>Camera da letto</item>
+        <item>Sala da pranzo</item>
+        <item>Bagno</item>
+        <item>Bagno</item>
+        <item>Cucina</item>
+        <item>Camera bambini</item>
+        <item>Camera neonati</item>
+        <item>Camera attività</item>
+        <item>Camera intrattenimento</item>
+        <item>Ufficio</item>
+        <item>Sala</item>
         <item>Studio</item>
-        <item>Cloakroom</item>
-        <item>Backyard</item>
-        <item>Garden</item>
-        <item>Basement</item>
-        <item>Attic</item>
-        <item>Balcony</item>
-        <item>Custom</item>
+        <item>Studio</item>
+        <item>Guardaroba</item>
+        <item>Cortile</item>
+        <item>Giardino</item>
+        <item>Seminterrato</item>
+        <item>Attico</item>
+        <item>Balcone</item>
+        <item>Personalizzato</item>
     </string-array>
     <string-array name="default_room_config_icon">
-        <item>livingroom</item>
-        <item>bedroom</item>
-        <item>dining</item>
-        <item>washroom</item>
-        <item>bathroom</item>
-        <item>kitchen</item>
-        <item>kidsroom</item>
-        <item>babyroom</item>
-        <item>familyroom</item>
-        <item>mediaroom</item>
-        <item>office</item>
-        <item>restroom</item>
-        <item>study</item>
-        <item>workshop</item>
-        <item>cloakroom</item>
-        <item>backyard</item>
+        <item>soggiorno</item>
+        <item>camera da letto</item>
+        <item>cena</item>
+        <item>doccia</item>
+        <item>bagno</item>
+        <item>cucina</item>
+        <item>camera bambini</item>
+        <item>camera neonati</item>
+        <item>camera famiglia</item>
+        <item>camera intrattenimento</item>
+        <item>ufficio</item>
+        <item>toilette</item>
+        <item>studio</item>
+        <item>laboratorio</item>
+        <item>guardaroba</item>
+        <item>cortile</item>
         <item>garden</item>
-        <item>basement</item>
-        <item>attic</item>
-        <item>balcony</item>
-        <item>more</item>
+        <item>seminterrato</item>
+        <item>attico</item>
+        <item>balcone</item>
+        <item>altro</item>
     </string-array>
     <string-array name="eargain_display_values">
-        <item>Low (no echo)</item>
-        <item>Medium</item>
-        <item>High (may cause echo to remote party)</item>
-        <item>Highest</item>
+        <item>Basso (nessun echo)</item>
+        <item>Medio</item>
+        <item>Alto (può causare echo in una festa da remoto)</item>
+        <item>Molto alto</item>
     </string-array>
     <string-array name="eargain_values">
         <item>0.1</item>
@@ -71,13 +71,13 @@
         <item>1.0</item>
     </string-array>
     <string-array name="family_memeber_names">
-        <item>Spouse</item>
-        <item>Dad</item>
-        <item>Mom</item>
-        <item>Son</item>
-        <item>Daughter</item>
-        <item>Roommate</item>
-        <item>Other</item>
+        <item>Sposa</item>
+        <item>Padre</item>
+        <item>Madre</item>
+        <item>Figlio</item>
+        <item>Figlia</item>
+        <item>Coinquilino</item>
+        <item>Altro</item>
     </string-array>
     <string-array name="mikey_bgcolor">
         <item>\@drawable/top_down_gradient_yellow</item>
@@ -85,9 +85,9 @@
         <item>\@drawable/top_down_gradient_purple</item>
     </string-array>
     <string-array name="mikey_menu">
-        <item>Test task</item>
-        <item>Manage tasks</item>
-        <item>Cancel</item>
+        <item>Testa compito</item>
+        <item>Gestisci compito</item>
+        <item>Annulla</item>
     </string-array>
     <string-array name="mikey_title_bgcolor">
         <item>\#d19f60</item>
@@ -95,18 +95,18 @@
         <item>\#ff0067</item>
     </string-array>
     <string-array name="month">
-        <item>Jan</item>
+        <item>Gen</item>
         <item>Feb</item>
         <item>Mar</item>
         <item>Apr</item>
-        <item>May</item>
-        <item>Jun</item>
-        <item>Jul</item>
-        <item>Aug</item>
-        <item>Sep</item>
-        <item>Oct</item>
+        <item>Mag</item>
+        <item>Giu</item>
+        <item>Lug</item>
+        <item>Ago</item>
+        <item>Set</item>
+        <item>Ott</item>
         <item>Nov</item>
-        <item>Dec</item>
+        <item>Dic</item>
     </string-array>
     <string-array name="passport_alphabet_table">
         <item>\#</item>
@@ -182,10 +182,10 @@
         <item>0</item>
     </string-array>
     <string-array name="pref_display_values">
-        <item>Sipdroid only</item>
-        <item>Sipdroid, when available</item>
-        <item>Phone</item>
-        <item>Always ask</item>
+        <item>Solo Sipdroid</item>
+        <item>Sipdroid, quando disponibile</item>
+        <item>Telefono</item>
+        <item>Chiedi sempre</item>
     </string-array>
     <string-array name="pref_values">
         <item>SIPONLY</item>
@@ -194,9 +194,9 @@
         <item>ASK</item>
     </string-array>
     <string-array name="protocol_display_values2">
-        <item>UDP (less standby on 3G)</item>
-        <item>TCP (longer standby on 3G)</item>
-        <item>TLS (encrypted)</item>
+        <item>UDP (meno standby su 3G)</item>
+        <item>TCP (lungo standby on 3G)</item>
+        <item>TLS (crittografato)</item>
     </string-array>
     <string-array name="protocol_values2">
         <item>udp</item>
@@ -207,29 +207,29 @@
         <item>http://gopopon.com/book/cover/1</item>
     </string-array>
     <string-array name="vquality_display_values">
-        <item>High (352x288 @ 360kbit)</item>
-        <item>Low (176x144 @ 192kbit)</item>
+        <item>Alto (352x288 @ 360kbit)</item>
+        <item>Basso (176x144 @ 192kbit)</item>
     </string-array>
     <string-array name="vquality_values">
-        <item>high</item>
-        <item>low</item>
+        <item>alto</item>
+        <item>basso</item>
     </string-array>
     <string-array name="weekday">
-        <item>Sunday</item>
-        <item>Monday</item>
-        <item>Tuesday</item>
-        <item>Wednesday</item>
-        <item>Thursday</item>
-        <item>Friday</item>
-        <item>Saturday</item>
+        <item>Domenica</item>
+        <item>Lunedì</item>
+        <item>Martedì</item>
+        <item>Mercoledì</item>
+        <item>Giovedì</item>
+        <item>Venerdì</item>
+        <item>Sabato</item>
     </string-array>
     <string-array name="weekday_short">
-        <item>Sun</item>
-        <item>Mon</item>
-        <item>Tue</item>
-        <item>Wed</item>
-        <item>Thu</item>
-        <item>Fri</item>
-        <item>Sat</item>
+        <item>Dom</item>
+        <item>Lun</item>
+        <item>Mar</item>
+        <item>Mer</item>
+        <item>Gio</item>
+        <item>Ven</item>
+        <item>Sab</item>
     </string-array>
 </resources>
