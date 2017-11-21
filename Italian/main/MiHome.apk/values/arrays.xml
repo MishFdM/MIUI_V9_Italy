@@ -21,7 +21,7 @@
         <item>Cucina</item>
         <item>Camera bambini</item>
         <item>Camera neonati</item>
-        <item>Camera attività</item>
+        <item>Camera attivitÃ </item>
         <item>Camera intrattenimento</item>
         <item>Ufficio</item>
         <item>Sala</item>
@@ -61,7 +61,7 @@
     <string-array name="eargain_display_values">
         <item>Basso (nessun echo)</item>
         <item>Medio</item>
-        <item>Alto (può causare echo in una festa da remoto)</item>
+        <item>Alto (puÅˆ causare echo in una festa da remoto)</item>
         <item>Molto alto</item>
     </string-array>
     <string-array name="eargain_values">
@@ -216,11 +216,11 @@
     </string-array>
     <string-array name="weekday">
         <item>Domenica</item>
-        <item>Lunedì</item>
-        <item>Martedì</item>
-        <item>Mercoledì</item>
-        <item>Giovedì</item>
-        <item>Venerdì</item>
+        <item>LunedÄ›</item>
+        <item>MartedÄ›</item>
+        <item>MercoledÄ›</item>
+        <item>GiovedÄ›</item>
+        <item>VenerdÄ›</item>
         <item>Sabato</item>
     </string-array>
     <string-array name="weekday_short">
