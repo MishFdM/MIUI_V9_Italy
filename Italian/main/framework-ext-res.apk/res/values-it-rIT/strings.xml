@@ -20,6 +20,7 @@
      <string name="auto_start_warning_allow">Consenti</string>
      <string name="auto_start_warning_deny">Nega</string>
      <string name="auto_start_warning_title">"Consentire l'avvio automatico di %s in futuro?"</string>
+     <string name="autofill">Riempimento automatico</string>
      <string name="button_text_cancel">Annulla</string>
      <string name="button_text_delete">Elimina</string>
      <string name="button_text_delete_timer">Elimina (%d)</string>
@@ -162,9 +163,9 @@ Per attivare questa funzione, vai in Impostazioni > Sistema > Tasti"</string>
      <string name="switch_brand_desc_tv">Servizi di sicurezza forniti da Graphite</string>
      <string name="switch_desc_tv">Due spazi. Un dispositivo.</string>
      <string name="switching_tv">Cambio in corso…</string>
-     <string name="total">DND</string>
+     <string name="total">Non disturbare</string>
      <string name="total_description">[DND] Silenzia i suoni e disattiva la vibrazione per tutti gli elementi ad esclusione della sveglia</string>
-     <string name="total_title">DND..</string>
+     <string name="total_title">Non disturbare</string>
      <string name="translation_more">Altro</string>
      <string name="translation_query_error">Impossibile trovare risultati</string>
      <string name="translation_query_error_network">Impossibile connettersi alla rete. Controlla le impostazioni e riprova.</string>

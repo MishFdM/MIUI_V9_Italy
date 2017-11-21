@@ -1539,7 +1539,7 @@ Questa funzione aiuta a proteggere i propri dati su dispositivi persi o rubati."
      <string name="erase_personal_data">Dati personali</string>
      <string name="erase_personal_data_description">Elimina il tuo Mi Account, i dati delle app e le impostazioni del sistema</string>
      <string name="erase_sd_data">Formatta la scheda SD</string>
-     <string name="erase_sd_data_description">La formattazione eliminerò tutti i file e i dati presenti sulla scheda SD</string>
+     <string name="erase_sd_data_description">La formattazione eliminerà tutti i file ed i dati presenti sulla scheda SD</string>
      <string name="erase_sure">Dati personali</string>
      <string name="error_apn_empty">Il campo APN non può essere vuoto.</string>
      <string name="error_mcc_not3">Il campo MCC deve contenere 3 cifre.</string>
@@ -1909,7 +1909,7 @@ Quando attivi il backup automatico, il dispositivo e i dati delle applicazioni v
      <string name="keywords_display_cast_screen">proiettore</string>
      <string name="keywords_display_font_size">dimensione testo</string>
      <string name="keywords_display_wallpaper">sfondo</string>
-     <string name="keywords_do_not_disturb">DND;Modalità DND;Non disturbare;Sonno;Notte;Occupato</string>
+     <string name="keywords_do_not_disturb">Non disturbare;Modalità non disturbare;Non disturbare;Sonno;Notte;Occupato</string>
      <string name="keywords_emergency_app">App emergency ice predefinita</string>
      <string name="keywords_factory_data_reset">eliminazione pulizia</string>
      <string name="keywords_gps">GPS;Localizzazione;Servizio di localizzazione;Satellite</string>
@@ -2093,6 +2093,7 @@ Quando attivi il backup automatico, il dispositivo e i dati delle applicazioni v
      <string name="lock_screen_notifications_summary_show">Mostra tutti i contenuti delle notifiche</string>
      <string name="lock_screen_notifications_summary_show_profile">Mostra tutti i contenuti delle notifiche di lavoro</string>
      <string name="lock_screen_notifications_title">Quando il dispositivo è bloccato</string>
+     <string name="lock_screen_secure_after_timeout_immediately_never">Non chiedere mai la password</string>
      <string name="lock_screen_secure_after_timeout_immediately_summary">Richiedi password subito</string>
      <string name="lock_screen_secure_after_timeout_summary">Richiedi password dopo %1$s</string>
      <string name="lock_screen_secure_after_timeout_title">Richiesta password</string>
@@ -2803,6 +2804,7 @@ ed esegui il software."</string>
      <string name="phone_info_label">Info dispositivo</string>
      <string name="phone_language">Lingua</string>
      <string name="physical_keyboard_title">Tastiera fisica</string>
+     <string name="pick_up_gesture_wakeup_title">Alza il telefono per attivarlo</string>
      <string name="picture_color_mode">Modalità colore immagine</string>
      <string name="picture_color_mode_desc">Utilizza sRGB</string>
      <string name="pin_failed">Operazione con PIN della SIM non riuscita.</string>
@@ -2858,7 +2860,8 @@ ed esegui il software."</string>
      <string name="power_wifi">Wi-Fi</string>
      <string name="pre_installed_application">App pre-installate</string>
      <string name="pref_button_light">Luce tasti</string>
-     <string name="pref_button_light_summary">Retroilluminazione tasti Menu, Home e Indietro</string>
+     <string name="pref_button_light_summary">Retroilluminazione tasti Menu, %1$s e Indietro</string>
+     <string name="pref_button_light_summary_sub">Home,</string>
      <string name="pref_edge_handgrip">Comandi laterali</string>
      <string name="pref_operational_key">Tasti di navigazione</string>
      <string name="pref_title_lang_selection">Preferenze lingua</string>
@@ -3757,7 +3760,7 @@ Come usare Mantieni su schermo:
      <string name="silent_settings">Modalità silenziosa</string>
      <string name="silent_standard">Silenzioso</string>
      <string name="silent_time">Durata</string>
-     <string name="silent_total">DND</string>
+     <string name="silent_total">Non disturbare</string>
      <string name="sim_bad_pin">PIN errato</string>
      <string name="sim_call_back_title">SIM per le richiamate</string>
      <string name="sim_calls_always_use">Usa sempre questa SIM per le chiamate</string>
@@ -3990,7 +3993,7 @@ Per utilizzare questo ^1, devi prima impostarlo."</string>
      <string name="storage_external_title">Memoria portatile</string>
      <string name="storage_format">Formattazione</string>
      <string name="storage_format_failure">Impossibile formattare %1$s</string>
-     <string name="storage_format_success">%1$s è stato formattato</string>
+     <string name="storage_format_success">%1$s é in fase di formattazione</string>
      <string name="storage_internal_forget_confirm">Tutte le app, foto o dati contenuti su questo ^1 verranno cancellati definitivamente.</string>
      <string name="storage_internal_forget_confirm_title">Dimenticare ^1?</string>
      <string name="storage_internal_forget_details">"Per utilizzare applicazioni, foto o dati contenuti su questo ^1, si prega di reinserirlo. 
@@ -4057,7 +4060,7 @@ Dopo la formattazione, questo ^1 funzionerà solo su questo dispositivo.
 
 "<b>La formattazione eliminerà tutti i dati attualmente archiviati su ^1.</b>" Per evitare di perdere i dati, esegui un backup. "</string>
      <string name="storage_wizard_format_confirm_public_title">Formatta come archivio portatile</string>
-     <string name="storage_wizard_format_confirm_third_body">Il ^1 è stato formattato</string>
+     <string name="storage_wizard_format_confirm_third_body">La ^1 é in fase di formattazione</string>
      <string name="storage_wizard_format_confirm_title">Formatta come memoria interna</string>
      <string name="storage_wizard_format_progress_body">Non rimuovere ^1 durante la formattazione.</string>
      <string name="storage_wizard_format_progress_title">Formattazione di ^1…</string>
@@ -4228,7 +4231,7 @@ L'approccio di Google alla sincronizzazione di dati per consentirti l'accesso ai
      <string name="title_system_resource">Risorse di sistema</string>
      <string name="toast_lockscreen_glogin_empty_password">Inserisci la password</string>
      <string name="toast_need_login">Accedi al tuo Mi Account</string>
-     <string name="total">DND</string>
+     <string name="total">Non disturbare</string>
      <string name="total_info">I suoni e la vibrazione sarà disattivata tranne la sveglia</string>
      <string name="total_memory">Memoria totale</string>
      <string name="total_size">%s totale</string>

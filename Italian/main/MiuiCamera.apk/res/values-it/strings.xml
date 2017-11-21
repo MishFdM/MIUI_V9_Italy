@@ -401,9 +401,6 @@ per rendere il tuo corpo ancor più chiaro e meraviglioso"</string>
      <string name="pref_skin_beautify_intelligent_title">Intelligente</string>
      <string name="pref_skin_beautify_slim_title">Sottile</string>
      <string name="pref_skin_beautify_smooth_title">Liscio</string>
-     <string name="pref_video_focusmode_entry_auto">Tocca</string>
-     <string name="pref_video_focusmode_entry_continuous">CAF</string>
-     <string name="pref_video_focusmode_title">Messa a fuoco</string>
      <string name="pref_video_quality_entry_1080p">Full HD (1080p)</string>
      <string name="pref_video_quality_entry_480p">SD (480p)</string>
      <string name="pref_video_quality_entry_4kuhd">4K (2160p)</string>

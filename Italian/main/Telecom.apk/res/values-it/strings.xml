@@ -136,7 +136,7 @@
      <string name="debug_app">Select debug app</string>
      <string name="debug_app_not_set">No debug application set</string>
      <string name="debug_app_set">Debugging application: %1$s</string>
-     <string name="debug_applications_category">Apps</string>
+     <string name="debug_applications_category">App</string>
      <string name="debug_debugging_category">Debugging</string>
      <string name="debug_drawing_category">Drawing</string>
      <string name="debug_hw_drawing_category">Hardware accelerated rendering</string>

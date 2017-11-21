@@ -177,6 +177,8 @@ Altrimenti potresti non essere in grado di accedere allo spazio Secondario dalla
      <string name="public_app">Entrambi gli spazi</string>
      <string name="removeSuccess">Eliminato con successo</string>
      <string name="remove_second_space_msg">Tutti i dati dello Spazio Secondario verranno persi dopo averlo eliminato. Vuoi eliminarlo ora?</string>
+     <string name="remove_user_click_message">*Se non disponi di elementi importanti in Spazio secondario, %s</string>
+     <string name="remove_user_click_message_action">puoi eliminare lo Spazio secondario e riavviare il tuo dispositivo ora.</string>
      <string name="removingSpace">Eliminazione…</string>
      <string name="repeat_scanner_fingerprint">Aggiungi ancora</string>
      <string name="reset_passwd_success">Password ripristinata correttamente</string>
@@ -198,6 +200,13 @@ per accedervi dalla schermata di blocco"</string>
      <string name="scanner_fingerprint_tips_title">"Accedi allo spazio Secondario utilizzando l'impronta esistente"</string>
      <string name="scanner_second_space_fingerprint">Scansiona impronta per lo spazio Secondario</string>
      <string name="sdcardfs_dialog_message">"Prima di inserire l'avatar, devi disattivare l'Otimizzazione Simulazione SD nelle opzioni sviluppatore"</string>
+     <string name="sdcardfs_dialog_title">Aggiornamento importante</string>
+     <string name="sdcradfs_dialog_in_owner_message">"La MIUI 9 é dotata di un nuovo file system. I vecchi dati potrebbero non essere compatibili con esso. Per aggiornare, muovi gli elementi dallo spazio secondario, riavvia il tuo dispositivo, e crea nuovamente lo Spazio secondario.
+Se non verrà eseguito l'aggiornamento, le app clonate potrebbero non funzionare correttamente."</string>
+     <string name="sdcradfs_dialog_in_owner_title">Spazio secondario</string>
+     <string name="sdcradfs_dialog_in_sec_message">"Per eseguire l'aggiornamento è necessario eliminare lo Spazio secondario e crearlo nuovamente. Sposta i dati dallo Spazio secondario a quello principale e riavvia il dispositivo per completare l'aggiornamento.
+Se non verrà eseguito l'aggiornamento, le app clonate potrebbero non funzionare correttamente."</string>
+     <string name="sdcradfs_dialog_in_sec_title">Aggiornamento importante</string>
      <string name="search_input_txt_na">"&lt;font color='#ff0000'&gt;%s&lt;/font&gt;"</string>
      <string name="search_result_text">Non è stato possibile trovare alcuna app</string>
      <string name="secondSpace">Spazio Secondario</string>
@@ -242,6 +251,7 @@ per accedervi dalla schermata di blocco"</string>
      <string name="show_private_msg_summary">Visualizza i messaggi privati nello spazio Secondario</string>
      <string name="skip">Salta</string>
      <string name="spaceSetting">Impostazioni</string>
+     <string name="space_created_success">Creazione Spazio secondario riuscita</string>
      <string name="space_deleted">Questo spazio è stato eliminato</string>
      <string name="space_des_default">Spazio separato con dati crittografati</string>
      <string name="space_finger_sub_text">"Imposta l'impronta dello spazio Secondario per eseguire il passaggio più velocemente"</string>
