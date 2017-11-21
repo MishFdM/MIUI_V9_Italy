@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="banner_camera_count">
+        <item quantity="other">%d items</item>
+        <item quantity="one">%d item</item>
+    </plurals>
+    <plurals name="dialog_title_confirm_delete_device">
+        <item quantity="other">Delete %1$s selected devices?</item>
+        <item quantity="one">Delete %1$s selected device?</item>
+    </plurals>
+    <plurals name="family_share_count">
+        <item quantity="other">%d shared devices</item>
+        <item quantity="one">%d shared device</item>
+    </plurals>
+    <plurals name="ir_device_count">
+        <item quantity="other">%d remotes</item>
+        <item quantity="one">%d remote</item>
+    </plurals>
+    <plurals name="kuailian_sub_main_device_finish">
+        <item quantity="other">Found %d smart devices, tap to finish</item>
+        <item quantity="one">Found %d smart device, tap to finish</item>
+    </plurals>
+    <plurals name="my_phone_ir_desc_count">
+        <item quantity="other">Added %1$d devices</item>
+        <item quantity="one">Added %1$d device</item>
+    </plurals>
+    <plurals name="score_sign_get_score_fmt">
+        <item quantity="other">Check in to get %1$d points</item>
+        <item quantity="one">Check in to get %1$d point</item>
+    </plurals>
+    <plurals name="score_sign_tomorrow_desc_part1">
+        <item quantity="other">Check in to get %1$d points tomorrow</item>
+        <item quantity="one">Check in to get %1$d point tomorrow</item>
+    </plurals>
+    <plurals name="score_sign_tomorrow_desc_part2">
+        <item quantity="other">You got %d points now</item>
+        <item quantity="one">You got %d point now</item>
+    </plurals>
+    <plurals name="setting_total_device">
+        <item quantity="other">%1$d devices</item>
+        <item quantity="one">%1$d device</item>
+    </plurals>
+    <plurals name="wifi_scan_new_plug">
+        <item quantity="other">%1$d devices found, tap to connect</item>
+        <item quantity="one">%1$d device found, tap to connect</item>
+    </plurals>
+</resources>
