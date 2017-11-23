@@ -846,7 +846,7 @@ Scatta più foto ai tuoi amici!"</string>
 %s
  per funzionare correttamente, tocca Imposta per vedere i permessi."</string>
      <string name="grant_permission_title">Consenti accesso</string>
-     <string name="grant_permission_unlock_and_set">Unlock and set</string>
+     <string name="grant_permission_unlock_and_set">Sblocca e imposta</string>
      <string name="has_invalid_recipient">Destinatari non validi: %1$s</string>
      <string name="have_known">Conosciuto</string>
      <string name="hidden_album_display_name">Album nascosto</string>
@@ -1170,12 +1170,12 @@ Scatta più foto ai tuoi amici!"</string>
      <string name="search_feedback_false_positive_title">Sembra che siano \"%s\"</string>
      <string name="search_feedback_likely_check_title">Verifica</string>
      <string name="search_feedback_likely_title">Sembra che queste foto contengano \"%s\"</string>
-     <string name="search_feedback_task_complete">All missions are completed</string>
+     <string name="search_feedback_task_complete">Tutte le missioni sono state completate</string>
      <string name="search_feedback_task_progress">%1$d/%2$d</string>
      <string name="search_feedback_task_request_award_failed">Impossibile ricevere la ricompensa. Prova di nuovo.</string>
      <string name="search_feedback_task_requesting_award">Ricezione ricompensa​…</string>
-     <string name="search_feedback_user_notice">"I've read and agreed to %s."</string>
-     <string name="search_feedback_user_policy">MIUI Gallery AI Algorithm Program Privacy Policy</string>
+     <string name="search_feedback_user_notice">Ho letto e accetto %s.</string>
+     <string name="search_feedback_user_policy">Informativa Privacy di MIUI Gallery AI Algorithm Program</string>
      <string name="search_hint">Cerca immagini</string>
      <string name="search_image_result_title">Risultati</string>
      <string name="search_login_now">Accedi</string>
@@ -1328,7 +1328,7 @@ Scatta più foto ai tuoi amici!"</string>
      <string name="tip_not_download">Nessun download. Verrà scaricato automaticamente quando in riproduzione.</string>
      <string name="tip_screenshot_package_info">Nome app:</string>
      <string name="title_set_name">Imposta nome</string>
-     <string name="title_tip">Hint</string>
+     <string name="title_tip">Suggerimento</string>
      <string name="title_warn">Attenzione</string>
      <string name="to_count">%d totali</string>
      <string name="to_enable_gallery_sync_dialog_message">Prima attiva la funzione di sincronizzazione galleria</string>
