@@ -87,6 +87,8 @@
      <string name="normal">Modalità predefinita</string>
      <string name="operation_create_group">Nome</string>
      <string name="operation_create_group_message">Inserisci il nome del nuovo gruppo</string>
+     <string name="performance_category">Performance</string>
+     <string name="power_center">Power</string>
      <string name="power_checker_background_cpu_multi_apps_title">%1$s esecuzione anormale</string>
      <string name="power_checker_background_cpu_title">%1$s esecuzione anormale</string>
      <string name="power_checker_background_gps_multi_apps_title">%1$s posizionamento di frequente</string>
@@ -165,6 +167,7 @@
      <string name="power_hide_mode_summary">Risparmia la batteria effettuando delle restrizioni sulle singole app, processi in background, connessioni Wi-Fi e dati cellulare e GPS</string>
      <string name="power_hide_mode_title">Gestisci utilizzo batteria delle app</string>
      <string name="power_keeper">Risparmio batteria</string>
+     <string name="power_mode">Power settings</string>
      <string name="power_mode_cpu_state_high">Prestazioni</string>
      <string name="power_mode_cpu_state_high_desc">"Priorità alle prestazioni rispetto all'autonomia"</string>
      <string name="power_mode_cpu_state_low">Risparmio batteria</string>
@@ -175,6 +178,7 @@
      <string name="power_mode_view_event_title">Eventi</string>
      <string name="power_mode_view_user_define_title">Nuovo evento</string>
      <string name="power_optimize_activity_profile_file_error">Errore nel Risparmio di batteria</string>
+     <string name="power_usage">Power usage</string>
      <string name="ragment_sys_listempty">Nessuna app di sistema</string>
      <string name="reading">Modalità lettura</string>
      <string name="scenario_policies_summary">Risparmio in base agli scenari</string>

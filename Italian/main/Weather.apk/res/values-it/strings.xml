@@ -198,9 +198,13 @@ Tocca lo schermo per aggiungere manualmente o riprovare"</string>
      <string name="precipitation_degree_three">moderata</string>
      <string name="precipitation_degree_two">leggera</string>
      <string name="pressure_connect">%1$s MB</string>
+     <string name="pull_fresh_updated">Updated successfully</string>
+     <string name="pull_fresh_updating">Updating…</string>
      <string name="radar_cloud_image_title">Mappa Radar</string>
      <string name="rainfall_settings_summary">Impostazioni piovosità</string>
      <string name="rainfall_settings_title">Avvisi piovosità</string>
+     <string name="real_time_sunrise">Sunrise %1$s</string>
+     <string name="real_time_sunset">Sunset %1$s</string>
      <string name="realtime_aqi_title">Indice Qualità Aria</string>
      <string name="realtime_humidity_title">Umidità relativa</string>
      <string name="realtime_temperature_no_data">N/A</string>
@@ -228,7 +232,6 @@ Tocca lo schermo per aggiungere manualmente o riprovare"</string>
      <string name="some_where_on_earth">In qualche luogo nel mondo</string>
      <string name="sunrise">Alba</string>
      <string name="sunset">Tramonto</string>
-     <string name="temperature_unit">%1$s°</string>
      <string name="title_share_link">Condividi URL</string>
      <string name="top_pollution_co">CO</string>
      <string name="top_pollution_no2">NO2</string>
@@ -257,6 +260,8 @@ Tocca lo schermo per aggiungere manualmente o riprovare"</string>
      <string name="update_night_setting_summary_text">Nessun aggiornamento automatico dalle 23:00 alle 07:00 dopo la chiusura</string>
      <string name="update_night_setting_title_text">Aggiorna automaticamente di notte</string>
      <string name="update_setting_title_text">Impostazioni di aggiornamento</string>
+     <string name="updated_a_moment_ago">Updated a moment ago</string>
+     <string name="updating">Updating…</string>
      <string name="video_dialog_no_play" />
      <string name="video_dialog_play" />
      <string name="video_dialog_subtitle" />

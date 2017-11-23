@@ -1432,19 +1432,6 @@ avviso"</string>
      <string name="doze_title">Schermo ambientale</string>
      <string name="draw_overlay">Disegno su altre app</string>
      <string name="draw_overlay_title">App che possono disegnare sopra altre app</string>
-     <string name="drive_mode">Modalità auto</string>
-     <string name="drive_mode_auto_reply">Risposta rapida</string>
-     <string name="drive_mode_auto_sms_reply_content">Non posso parlare ora. Ti richiamo più tardi</string>
-     <string name="drive_mode_auto_sms_reply_content_title">Risposta rapida</string>
-     <string name="drive_mode_calling_auto_sms_reply">Risposta alle chiamate</string>
-     <string name="drive_mode_invert_stop_report">Capovolgi il dispositivo per silenziare</string>
-     <string name="drive_mode_only_contact_reply">Rispondi solo ai tuoi contatti</string>
-     <string name="drive_mode_phone_report">Info chiamata in arrivo</string>
-     <string name="drive_mode_settings">Impostazioni Modalità auto</string>
-     <string name="drive_mode_sms_auto_sms_reply">Risposta agli SMS</string>
-     <string name="drive_mode_sms_report">Messaggi</string>
-     <string name="drive_mode_title">Modalità auto</string>
-     <string name="drive_mode_voice_report">Lettura dei testi</string>
      <string name="dtmf_tone_enable_title">Toni tastierino</string>
      <string name="edge_mode_back">Vai indietro</string>
      <string name="edge_mode_back_summary">Tocca due volte il bordo per tornare indietro</string>
@@ -1471,7 +1458,6 @@ avviso"</string>
      <string name="enable_adb">Debug USB</string>
      <string name="enable_adb_summary">Modalità debug quando è connesso USB</string>
      <string name="enable_compatibility">Scala applicazione</string>
-     <string name="enable_drive_mode">Modalità auto</string>
      <string name="enable_freeform_support">Attiva forma libera finestre</string>
      <string name="enable_freeform_support_summary">Attiva il supporto sperimentale per le finestre a forma libera.</string>
      <string name="enable_mobile_data_when_opening_hotspot">Vuoi abilitare la connessione dati?</string>
@@ -1611,6 +1597,7 @@ Questa funzione aiuta a proteggere i propri dati su dispositivi persi o rubati."
      <string name="fingerprint_manage_tittle">Impronta digitale</string>
      <string name="fingerprint_not_identified_msg">Impossibile leggere impronta. Inserisci la tua password</string>
      <string name="fingerprint_not_recognized">Non riconosciuta</string>
+     <string name="fingerprint_payment">Fingerprint payments</string>
      <string name="fingerprint_removal_failed">"Impossibile rimuovere l'impronta. Riprova più tardi."</string>
      <string name="fingerprint_unlock_set_unlock_password">Impronta + Password</string>
      <string name="fingerprint_unlock_set_unlock_pattern">Impronta + Pattern</string>

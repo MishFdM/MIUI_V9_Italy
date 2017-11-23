@@ -23,7 +23,6 @@
      <string name="enable_accessibility_dialog_message">Hai attivato TalkBack toccando lo schermo con due dita per più di 10 secondi. TalkBack fornisce feedback audio per utenti ipovedenti. Se lo hai attivato involontariamente, tocca il tasto Annulla poi tocca due volte lo schermo.</string>
      <string name="enable_accessibility_dialog_negative_btn">Annulla</string>
      <string name="enable_accessibility_dialog_positive_btn">OK</string>
-     <string name="fail_to_generate_qr_code">Generazione codice QR non riuscita, prego inserisci di nuovo il link di questa pagina.</string>
      <string name="ime_privacy_policy">Termini della Privacy per la tastiera selezionata</string>
      <string name="ime_privacy_policy_no_network">Impossibile connettersi ad internet. Leggi i Termini della Privacy per questa tastiera su %s.</string>
      <string name="input_method_category">"Scegli la tastiera predefinita per la scrittura di messaggi, email, note, ecc. Successivamente potrai installare tastiere di terze parti."</string>
@@ -70,8 +69,6 @@ Leggi questo documento per la tastiera: "</string>
 
 Devi accettare le Condizioni del Servizio e i Termini sulla Privacy prima di utilizzare MIUI."</string>
      <string name="title_fingerprint">Aggiungi la tua impronta digitale</string>
-     <string name="two_dimensional_code_scan">Scansione codice QR</string>
      <string name="user_agreement">Condizioni del Servizio</string>
-     <string name="user_strayed_warning">La pagina è progettata per il test di fabbrica, premi il pulsante indietro per uscire.</string>
      <string name="welcome">Benvenuto</string>
 </resources>
