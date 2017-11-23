@@ -29,6 +29,7 @@ questa funzione verrà aggiunta automaticamente allo spazio Secondario."</string
      <string name="closeSecondSpace">Elimina lo Spazio Secondario</string>
      <string name="closeSecondSpaceSummary">Elimina lo Spazio Secondario con tutti i dati associati</string>
      <string name="closeSuccess">Disattivato</string>
+     <string name="close_second_space">Deleted Second space</string>
      <string name="close_second_space_success">Eliminazione spazio Secondario riuscita</string>
      <string name="closed">Disattivata</string>
      <string name="complete_setting">Finito</string>
@@ -129,6 +130,7 @@ Puoi anche scaricarli separatamente"</string>
      <string name="input_space_password">Imposta</string>
      <string name="invalid_qr_code">Codice QR non valido</string>
      <string name="list_empty_text">Vuoto</string>
+     <string name="list_empty_text_xspace">Install WeChat/QQ/Weibo, create dual apps, and try again.</string>
      <string name="loading">Solo un attimo...</string>
      <string name="loading_apps">Caricamento app…</string>
      <string name="loading_space">Solo un secondo</string>
@@ -175,6 +177,7 @@ Altrimenti potresti non essere in grado di accedere allo spazio Secondario dalla
      <string name="private_sms_show_title">I messaggi privati verranno visualizzati nello spazio Secondario</string>
      <string name="private_space_setting">Gestisci</string>
      <string name="public_app">Entrambi gli spazi</string>
+     <string name="qq_send">Send to QQ friends/devices</string>
      <string name="removeSuccess">Eliminato con successo</string>
      <string name="remove_second_space_msg">Tutti i dati dello Spazio Secondario verranno persi dopo averlo eliminato. Vuoi eliminarlo ora?</string>
      <string name="remove_user_click_message">*Se non disponi di elementi importanti in Spazio secondario, %s</string>
@@ -305,10 +308,17 @@ per accedere dalla schermata di blocco"</string>
      <string name="transferMessage">I messaggi dello Spazio Secondario verranno spostati nel Primario</string>
      <string name="tryNow">Prova adesso</string>
      <string name="wating">Solo un secondo</string>
+     <string name="weibo_send">Send to Weibo</string>
+     <string name="weixin_pay">WeChat Pay</string>
+     <string name="weixin_share">Share to Moments</string>
      <string name="xpsace_guide_button">Crea</string>
      <string name="xspace_account">Account doppia apertura</string>
      <string name="xspace_chocie">App supportate</string>
      <string name="xspace_creating">Clonazione app…</string>
+     <string name="xspace_default_app_summary">Set default app for payments, sharing, favorites, and more.</string>
+     <string name="xspace_default_app_title">Default app</string>
+     <string name="xspace_default_setting_dialog_title">Default</string>
+     <string name="xspace_default_setting_label">Default app</string>
      <string name="xspace_description">Crea app clonate da utilizzare separatamente. Le app clonate avranno una propria icona sulla Home.</string>
      <string name="xspace_guide_des">Utilizza 2 account senza cambiare</string>
      <string name="xspace_guide_title">Crea app clonata per %s</string>
@@ -319,9 +329,12 @@ per accedere dalla schermata di blocco"</string>
      <string name="xspace_introduce">Consigliate</string>
      <string name="xspace_label">Clona applicazioni</string>
      <string name="xspace_loading_msg">Caricamento applicazioni…</string>
+     <string name="xspace_qq_title">QQ</string>
      <string name="xspace_setting_label">Doppia apertura impostata</string>
      <string name="xspace_uninstall_completed">App clonata disinstallata correttamente</string>
      <string name="xspace_uninstall_dialog_content">"La disinstallazione dell'app clonata comporta l'eliminazione dei dati associati."</string>
      <string name="xspace_uninstall_dialog_title">Disinstalla app clonata</string>
      <string name="xspace_uninstalling">Disinstallazione</string>
+     <string name="xspace_weibo_title">Weibo</string>
+     <string name="xspace_weixin_title">WeChat</string>
 </resources>

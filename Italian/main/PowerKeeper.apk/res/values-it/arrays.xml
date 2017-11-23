@@ -78,6 +78,10 @@
         <item>Impegno CPU</item>
         <item>Attivazione frequente dispositivo</item>
      </string-array>
+     <string-array name="power_mode_entries">
+        <item>Performance</item>
+        <item>Balanced</item>
+     </string-array>
      <string-array name="thermal_entries">
         <item>Modalità controllo temperatura predefinita</item>
         <item>Modalità prestazioni</item>
