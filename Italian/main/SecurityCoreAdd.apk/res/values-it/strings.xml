@@ -203,13 +203,13 @@ per accedervi dalla schermata di blocco"</string>
      <string name="scanner_fingerprint_tips_title">"Accedi allo spazio Secondario utilizzando l'impronta esistente"</string>
      <string name="scanner_second_space_fingerprint">Scansiona impronta per lo spazio Secondario</string>
      <string name="sdcardfs_dialog_message">"Prima di inserire l'avatar, devi disattivare l'Otimizzazione Simulazione SD nelle opzioni sviluppatore"</string>
-     <string name="sdcardfs_dialog_title">Aggiornamento importante</string>
-     <string name="sdcradfs_dialog_in_owner_message">"La MIUI 9 é dotata di un nuovo file system. I vecchi dati potrebbero non essere compatibili con esso. Per aggiornare, muovi gli elementi dallo spazio secondario, riavvia il tuo dispositivo, e crea nuovamente lo Spazio secondario.
-Se non verrà eseguito l'aggiornamento, le app clonate potrebbero non funzionare correttamente."</string>
-     <string name="sdcradfs_dialog_in_owner_title">Spazio secondario</string>
-     <string name="sdcradfs_dialog_in_sec_message">"Per eseguire l'aggiornamento è necessario eliminare lo Spazio secondario e crearlo nuovamente. Sposta i dati dallo Spazio secondario a quello principale e riavvia il dispositivo per completare l'aggiornamento.
-Se non verrà eseguito l'aggiornamento, le app clonate potrebbero non funzionare correttamente."</string>
-     <string name="sdcradfs_dialog_in_sec_title">Aggiornamento importante</string>
+     <string name="sdcardfs_dialog_title">Important update</string>
+     <string name="sdcradfs_dialog_in_owner_message">"MIUI 9 has a new file system. Old data might be incompatible with it. To update, move items from Second space, reboot your device, and create Second space again.
+If you don't update, dual apps might not work properly as well."</string>
+     <string name="sdcradfs_dialog_in_owner_title">Second space</string>
+     <string name="sdcradfs_dialog_in_sec_message">"To update, you should delete your Second space, and then create it again. Move the data from Second space to First space, and reboot your device to complete the update.
+If you don't update, dual apps might not work properly as well."</string>
+     <string name="sdcradfs_dialog_in_sec_title">Important update</string>
      <string name="search_input_txt_na">"&lt;font color='#ff0000'&gt;%s&lt;/font&gt;"</string>
      <string name="search_result_text">Non è stato possibile trovare alcuna app</string>
      <string name="secondSpace">Spazio Secondario</string>
@@ -254,7 +254,7 @@ Se non verrà eseguito l'aggiornamento, le app clonate potrebbero non funzionare
      <string name="show_private_msg_summary">Visualizza i messaggi privati nello spazio Secondario</string>
      <string name="skip">Salta</string>
      <string name="spaceSetting">Impostazioni</string>
-     <string name="space_created_success">Creazione Spazio secondario riuscita</string>
+     <string name="space_created_success">Created Second space successfully</string>
      <string name="space_deleted">Questo spazio è stato eliminato</string>
      <string name="space_des_default">Spazio separato con dati crittografati</string>
      <string name="space_finger_sub_text">"Imposta l'impronta dello spazio Secondario per eseguire il passaggio più velocemente"</string>
