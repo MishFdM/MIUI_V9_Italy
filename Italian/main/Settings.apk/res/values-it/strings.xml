@@ -1597,7 +1597,7 @@ Questa funzione aiuta a proteggere i propri dati su dispositivi persi o rubati."
      <string name="fingerprint_manage_tittle">Impronta digitale</string>
      <string name="fingerprint_not_identified_msg">Impossibile leggere impronta. Inserisci la tua password</string>
      <string name="fingerprint_not_recognized">Non riconosciuta</string>
-     <string name="fingerprint_payment">Fingerprint payments</string>
+     <string name="fingerprint_payment">Pagamenti con impronta</string>
      <string name="fingerprint_removal_failed">"Impossibile rimuovere l'impronta. Riprova più tardi."</string>
      <string name="fingerprint_unlock_set_unlock_password">Impronta + Password</string>
      <string name="fingerprint_unlock_set_unlock_pattern">Impronta + Pattern</string>

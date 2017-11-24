@@ -35,7 +35,7 @@
      <string name="action_menu_text_copy_url">Copia URL</string>
      <string name="action_menu_text_create_qr_code">Codice QR</string>
      <string name="action_menu_text_download">Download</string>
-     <string name="action_menu_text_drop">Exit menu</string>
+     <string name="action_menu_text_drop">Esci dal menu</string>
      <string name="action_menu_text_exit">Esci</string>
      <string name="action_menu_text_find_in_page">Trova nella pagina</string>
      <string name="action_menu_text_fullscreen">Schermo intero</string>
@@ -115,7 +115,7 @@
      <string name="bookmark_cannot_save_url">"L'URL non può essere aggiunto ai segnalibri."</string>
      <string name="bookmark_folder_needs_title">Inserisci il nome della cartella</string>
      <string name="bookmark_group_lable">Gruppo</string>
-     <string name="bookmark_move_to">Move to</string>
+     <string name="bookmark_move_to">Sposta in</string>
      <string name="bookmark_needs_title">Inserisci un nome per il segnalibro.</string>
      <string name="bookmark_needs_url">Il segnalibro deve avere una posizione.</string>
      <string name="bookmark_not_saved">Impossibile salvare il segnalibro.</string>
@@ -142,8 +142,8 @@
      <string name="cancel">Annulla</string>
      <string name="cancle_sync_cloud_tabs">Annulla sincronizzazione</string>
      <string name="cannot_download">È possibile scaricare soltanto URL \"http\" o \"https\".</string>
-     <string name="check_security_tip_privacy_policy">Privacy Policy</string>
-     <string name="check_security_tip_user_agreement">User Agreement</string>
+     <string name="check_security_tip_privacy_policy">Informativa Privacy</string>
+     <string name="check_security_tip_user_agreement">Accordo Utente</string>
      <string name="choosertitle_sharevia">Condividi tramite</string>
      <string name="clear_history">Cancella cronologia</string>
      <string name="clear_most_visited">Mantieni cronologia</string>
@@ -225,7 +225,7 @@ stia per accadere"</string>
      <string name="date_time_picker_dialog_title">Imposta ora e data</string>
      <string name="delete">Elimina</string>
      <string name="delete_bookmark">Elimina</string>
-     <string name="delete_bookmark_action_warning">Delete bookmarks?</string>
+     <string name="delete_bookmark_action_warning">Eliminare segnalibri?</string>
      <string name="delete_bookmark_group_warning">Cancellare \"%s\"? Verranno cancellati tutti i segnalibri in questo gruppo.</string>
      <string name="delete_bookmark_warning">Eliminare il segnalibro \"%s\"?</string>
      <string name="delete_download">Elimina</string>
@@ -345,7 +345,7 @@ per vedere qui le schede cloud aperte su altri dispositivi"</string>
      <string name="geolocation_settings_page_summary_allowed">Al momento questo sito può accedere alla tua posizione</string>
      <string name="geolocation_settings_page_summary_not_allowed">Al momento questo sito non può accedere alla tua posizione</string>
      <string name="geolocation_settings_page_title">Cancella accesso a posizione</string>
-     <string name="go_back_descirption">Go back</string>
+     <string name="go_back_descirption">Indietro</string>
      <string name="go_supermarket_button">Vai</string>
      <string name="go_supermarket_title">"Altre app, maggiore velocità e riduzione dell'utilizzo dati nell'App Store"</string>
      <string name="gold_medals">"Medaglie d'oro"</string>
@@ -532,14 +532,14 @@ Sei sicuro di voler abbandonare questa pagina?"</string>
      <string name="more_option">Altre opzioni</string>
      <string name="nav_bottom_bar_back">Indietro</string>
      <string name="nav_bottom_bar_close_all">Chiudi tutto</string>
-     <string name="nav_bottom_bar_close_description">Close</string>
+     <string name="nav_bottom_bar_close_description">Chiudi</string>
      <string name="nav_bottom_bar_new_tab">Nuova scheda</string>
      <string name="nav_screen_container_tab_incognito">Scheda incognito</string>
      <string name="nav_screen_container_tab_normal">Scheda normale</string>
-     <string name="nav_screen_incognito_message">"Your browsing and search history won't be saved in Incognito mode.
-Remember that the files you download and the bookmarks you add will still be saved."</string>
-     <string name="nav_screen_incognito_time">After %s seconds will automatically create a new page</string>
-     <string name="nav_screen_incognito_title">Incognito mode</string>
+     <string name="nav_screen_incognito_message">"La cronologia di navigazione e ricerca non verrà salvata in modalità Incognito.
+Ricorda che i file scaricati e i segnalibri che aggiungi verranno salvati comunque."</string>
+     <string name="nav_screen_incognito_time">Dopo %s secondi verrà creata automaticamente una nuova pagina</string>
+     <string name="nav_screen_incognito_title">Modalità incognito</string>
      <string name="navigationbar_rightbutton_actiontext_cancle">Annulla</string>
      <string name="navigationbar_rightbutton_actiontext_go">Vai</string>
      <string name="navigationbar_rightbutton_actiontext_search">Cerca</string>
@@ -794,25 +794,25 @@ Remember that the files you download and the bookmarks you add will still be sav
      <string name="send_comment_title">commenti</string>
      <string name="senddesktop">Home</string>
      <string name="sendstartpage">Pagina iniziale</string>
-     <string name="sequence_bookmark_description">Change the bookmark sequence</string>
+     <string name="sequence_bookmark_description">Modifica la sequenza dei segnalibri</string>
      <string name="share_image_text">Sto guardando una foto bellissima</string>
      <string name="share_page_text">"Mi sto godendo %1$s | %2$s"</string>
-     <string name="show_check_security_url_check_tip_dialog_description">"We will collect and use your personal data if you choose to use our services.
-Here's the data that we'll collect:
-1. Secure URLs: We'll collect the URLs of the websites you visit while using our services.
-2. Location data: We'll access your location info.
-That's how we use the data we collect:
-1. Security: We use your data when we protect your device from fraud and viruses,as well as for storage and backup reasons.
-2. Content: Your data helps us provide relevant localized news content.
-Browser needs to connect to the internet to work normally. You must agree to our %2$s and %1$s to be able to use Browser.​"</string>
+     <string name="show_check_security_url_check_tip_dialog_description">"Raccoglieremo ed utilizzeremo i tuoi dati personali se scegli di utilizzare il nostro servizio.
+Questi sono i dati che raccoglieremo:
+1. URL sicuri: raccoglieremo gli URL dei siti che visiti mentre utilizzi il nostro servizio.
+2. Dati sulla posizione: avremo accesso ai dati sulla tua posizione.
+Utilizzeremo i dati in questo modo:
+1. Sicurezza: utilizziamo i tuoi dati per proteggere il tuo dispositivo da truffe e virus, oltre che per motivi di archiviazione e backup.
+2. Contenuto: i tuoi dati ci aiutano a fornire contenuti delle news personalizzate.
+Per navigare correttamente devi essere collegato ad Internet. Per poter utilizzare il Browser devi accettare %2$s e %1$s.​"</string>
      <string name="show_security_tip_dialog_title">Termini del Servizio</string>
      <string name="sign_in_to" formatted="false">Accedi a %s1 \"%s2\"</string>
      <string name="skip_button_label">Salta</string>
      <string name="skip_current_version">Salta questa versione</string>
-     <string name="snapshot">Local</string>
+     <string name="snapshot">Locale</string>
      <string name="snapshot_failed">Salvataggio per lettura offline non riuscito.</string>
      <string name="snapshot_successed">Salvataggio per lettura offline riuscito.</string>
-     <string name="soft_toast_see_view">View</string>
+     <string name="soft_toast_see_view">Mostra</string>
      <string name="ssl_bad_clock_date_settings">Impostazioni data</string>
      <string name="ssl_bad_clock_warning" formatted="false">On può essere stabilita una connessione privata con %s1 perché data e orario (%s2) del tuo dispositivo non sono corrette.</string>
      <string name="ssl_certificate">Certificato di sicurezza</string>
@@ -849,7 +849,7 @@ Browser needs to connect to the internet to work normally. You must agree to our
      <string name="suggest_access_item_singer_pop">%d brani popolari</string>
      <string name="suggest_access_item_site_mark">SITES</string>
      <string name="suggest_access_item_video_mark">VIDEO</string>
-     <string name="suggest_access_item_yellow_mark">YELLOW PAGES</string>
+     <string name="suggest_access_item_yellow_mark">PAGINE GIALLE</string>
      <string name="suggest_access_music">Mi Music</string>
      <string name="suggest_item_delete_text">Elimina</string>
      <string name="suggest_open_app_failed">Nonè stato possibile aprire questa app</string>
@@ -874,8 +874,8 @@ Browser needs to connect to the internet to work normally. You must agree to our
      <string name="title_bar_loading">Caricamento…</string>
      <string name="too_many_windows_dialog_message">Impossibile aprire una nuova scheda finché non se ne chiude una.</string>
      <string name="too_many_windows_dialog_title">Limite schede raggiunto</string>
-     <string name="transfer_prompt_0">Play video</string>
-     <string name="transfer_restart">Restart</string>
+     <string name="transfer_prompt_0">Avvia video</string>
+     <string name="transfer_restart">Riavvia</string>
      <string name="unSwitchText">NO</string>
      <string name="undo">Annulla</string>
      <string name="unknown_title">Sconosciuto</string>
@@ -920,7 +920,7 @@ Browser needs to connect to the internet to work normally. You must agree to our
      <string name="video_buffering_percent_string">Caricamento</string>
      <string name="video_collect_cancel">Annulla acquisizione</string>
      <string name="video_collect_success">Video aggiunto con successo</string>
-     <string name="video_doenload_complete">Downloaded video successfully</string>
+     <string name="video_doenload_complete">Video scaricato correttamente</string>
      <string name="video_download_complete">Download video completato</string>
      <string name="video_download_empty">Cache video vuota</string>
      <string name="video_download_error">Errore</string>

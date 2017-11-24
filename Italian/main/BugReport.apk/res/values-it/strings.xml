@@ -56,14 +56,14 @@
      <string name="feedback_bug_status_change_notification_desc">%1$s problema \"%2$s\"</string>
      <string name="feedback_choose_module">Seleziona elemento</string>
      <string name="feedback_choose_module_hint">Necessari</string>
-     <string name="feedback_choose_third_app_name">Select app name</string>
+     <string name="feedback_choose_third_app_name">Seleziona nome app</string>
      <string name="feedback_collect_log_failed">Impossibile recuperare log</string>
      <string name="feedback_contact_info_hint">Telefono / Email</string>
      <string name="feedback_continue">Continua con il feedback</string>
      <string name="feedback_delete_images">Elimina immagini</string>
      <string name="feedback_description">Descrizione</string>
      <string name="feedback_description_bugreport_hint">In alcuni casi () il telefono da problemi ().</string>
-     <string name="feedback_description_hint">"Describe the issue you've encountered"</string>
+     <string name="feedback_description_hint">Descrivi il problema che hai incontrato</string>
      <string name="feedback_description_label">Descrizione</string>
      <string name="feedback_description_suggest_hint">Mi piacerebbe che aggiungeste una nuova funzione () perché vorrei ()."</string>
      <string name="feedback_detail_tile">Avanzamento</string>
@@ -96,7 +96,7 @@
      <string name="feedback_status_recorded">Feedback ricevuto</string>
      <string name="feedback_status_replyed">Risposto</string>
      <string name="feedback_status_reresolved">Risolto</string>
-     <string name="feedback_status_submit_attachment">Submitted attachment successfully</string>
+     <string name="feedback_status_submit_attachment">Allegato inviato correttamente</string>
      <string name="feedback_status_supplement">Descrivi i dettagli del tuo problema</string>
      <string name="feedback_status_supplement_more">Aggiungi un commento</string>
      <string name="feedback_submit_failed_notification_desc">Mostra dettagli</string>
@@ -256,7 +256,7 @@
      <string name="section_description">Descrizione</string>
      <string name="section_err_type">Tipologia Feedback</string>
      <string name="section_screenshot">Screenshot</string>
-     <string name="select_system_app_tag">Select tags</string>
+     <string name="select_system_app_tag">Seleziona tag</string>
      <string name="submit_dialog_cancel">Annulla</string>
      <string name="submit_dialog_confirm">Invia</string>
      <string name="submit_dialog_content">Il tuo feedback, insieme al log di errore e alle immagini allegate, verrà inviato ai server Xiaomi.</string>
