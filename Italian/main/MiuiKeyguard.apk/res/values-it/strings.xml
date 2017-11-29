@@ -94,10 +94,10 @@
      <string name="keyguard_charging_info_tip_text4">Non utilizzare intensamente il dispositivo quando in carica per evitare il surriscaldamento.</string>
      <string name="keyguard_charging_info_tip_text5">La carica della batteria è più lunga quando si scaldano più del solito.</string>
      <string name="keyguard_charging_info_tip_text6">Disattiva lo schermo e riponi il dispositivo per raffreddarlo.</string>
-     <string name="keyguard_left_bankcard">Mi Pay</string>
-     <string name="keyguard_left_buscard">Scheda trasporto</string>
-     <string name="keyguard_left_remotecentral">Mi Remote</string>
-     <string name="keyguard_left_smarthome">Mi Home</string>
+     <string name="keyguard_left_bankcard">Calcolatrice</string>
+     <string name="keyguard_left_buscard">Note</string>
+     <string name="keyguard_left_remotecentral">Calendario</string>
+     <string name="keyguard_left_smarthome">Rubrica</string>
      <string name="keyguard_quick_charging_info_click_to_detail">Info carica rapida, tocca per leggere</string>
      <string name="keyguard_quickly_charging_info_charging_text">Carica rapida</string>
      <string name="keyguard_torch_cover_text">Premi a lungo il tasto accensione per tenere accesa la Torcia</string>
