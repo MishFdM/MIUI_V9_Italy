@@ -752,6 +752,7 @@ La trasmissione utilizza segnali Bluetooth a bassa potenza."</string>
      <string name="bluetooth_unlock_turned_on">Attivato</string>
      <string name="bluetooth_untether_blank">Il tethering sarà annullato per %1$s.</string>
      <string name="bluetooth_visibility_timeout">Timeout visibilità</string>
+     <string name="bluetooth_wake">Wake with Bluetooth audio</string>
      <string name="bootloader">Modalità Fastboot</string>
      <string name="bootloader_apply_step_1">Vuoi attivare la modalità Fastboot?</string>
      <string name="bootloader_apply_step_2">Quando il tuo dispositivo è in modalità Fastboot ed è connesso al computer</string>
@@ -1804,6 +1805,9 @@ Quando attivi il backup automatico, il dispositivo e i dati delle applicazioni v
      <string name="incoming_call_breathing_light_color_title">Colore LED chiamate</string>
      <string name="incoming_call_breathing_light_freq_title">Frequenza illuminazione LED chiamate</string>
      <string name="incoming_call_volume_title">Suoneria</string>
+     <string name="infinity_display_settings">Full screen display</string>
+     <string name="infinity_display_slogan">Continued growth in unexplored technology</string>
+     <string name="infinity_display_title">Full screen display</string>
      <string name="information_dialog_button_text">Ho capito</string>
      <string name="input_method">Metodo inserimento</string>
      <string name="input_method_selector">Selettore metodo di immissione</string>
@@ -2406,6 +2410,7 @@ Ci sono altri utenti presenti su questo dispositivo.
      <string name="mock_location_app_set">App posizioni fittizie: %1$s</string>
      <string name="mode_disable">disattivato</string>
      <string name="mode_enable">attivato</string>
+     <string name="model_name">Model name</string>
      <string name="model_number">Modello</string>
      <string name="modify_instruction_password_settings">Imposta la password</string>
      <string name="modify_privacy_password">Modifica la password</string>
@@ -2471,6 +2476,7 @@ ed esegui il software."</string>
      <string name="music_dirac_mode_piston_color">Color Edition</string>
      <string name="music_dirac_mode_piston_standard">Edizione standard</string>
      <string name="music_dirac_mode_piston_youth">Youth Edition</string>
+     <string name="music_dirac_mode_reduction_noise">Reduce Noise TypeC</string>
      <string name="music_dolby_mode_movie">Film</string>
      <string name="music_dolby_mode_music">Musica</string>
      <string name="music_dolby_mode_off">Disattivato</string>
@@ -3669,6 +3675,8 @@ Come usare Mantieni su schermo:
      <string name="settings_license_activity_unavailable">Errore durante il caricamento delle licenze.</string>
      <string name="settings_manual_activity_title">Manuale</string>
      <string name="settings_manual_activity_unavailable">SI è verificato un problema nel caricamento del manuale.</string>
+     <string name="settings_notify_need_backup">Back up your settings to Mi Cloud to access them after you switch phones.</string>
+     <string name="settings_notify_phone_recycled">Your phone number has been recycled. Tap to add a different phone number.</string>
      <string name="settings_safetylegal_activity_loading">Caricamento…</string>
      <string name="settings_safetylegal_activity_title">Informazioni sulla sicurezza</string>
      <string name="settings_safetylegal_activity_unreachable">Nessuna connessione disponibile. Per visualizzare le informazioni, visita il sito %s da qualsiasi computer collegato ad internet.</string>
@@ -3859,6 +3867,7 @@ Il PIN potrebbe essere errato."</string>
      <string name="spellchecker_security_warning">"Questa funzione di controllo ortografico potrebbe riuscire a raccogliere tutto il testo digitato, compresi i dati personali come password e numeri di carte di credito. Deriva dall'applicazione %1$s. Utilizzare questa funzione di controllo ortografico?"</string>
      <string name="spellchecker_switch_title">Attiva COntrollo Ortografico</string>
      <string name="spellcheckers_settings_title">Controllo ortografico</string>
+     <string name="split_screen">Enter split screen</string>
      <string name="ssid_label">SSID:</string>
      <string name="ssl_ca_cert_warning">La rete potrebbe essere monitorata</string>
      <string name="ssl_ca_cert_warning_message">"Una terza parte può monitorare la tua attività di rete, inclusi siti web protetti, email e applicazioni.
@@ -3880,7 +3889,6 @@ Questo è reso possibile da credenziali attendibili installate sul tuo dispositi
      <string name="status_bar_key_position_custom">Personalizza posizione tasti</string>
      <string name="status_bar_notification_info_overflow">999+</string>
      <string name="status_bar_screen_button_force_immersive_desc">"Scorri da basso verso l'altro dello schermo per mostrare i tasti virtuali"</string>
-     <string name="status_bar_screen_button_key">Tasti virtuali su schermo</string>
      <string name="status_bar_screen_button_key_force_immersive">Nascondi tasti virtuali</string>
      <string name="status_bar_screen_key_back">Tasto indietro</string>
      <string name="status_bar_screen_key_home">Tasto Home</string>
@@ -4099,6 +4107,7 @@ Considera l'utilizzo di un ^1 più veloce per prestazioni migliori."</string>
      <string name="suggested_lock_settings_title">Schermata di blocco</string>
      <string name="suggestion_additional_fingerprints">"Aggiungi un'altra impronta"</string>
      <string name="suggestion_additional_fingerprints_summary">"Sblocca con un'impronta diversa"</string>
+     <string name="suggestion_for_phone_recycled">Add a different phone number</string>
      <string name="suggestion_remove">Rimuovi</string>
      <string name="suggestions_title">Suggerimenti (%1$d)</string>
      <string name="sum_carrier_select">Scegli un operatore di rete</string>
@@ -4151,6 +4160,7 @@ L'approccio di Google alla sincronizzazione di dati per consentirti l'accesso ai
      <string name="system_backup_section_title">Backup</string>
      <string name="system_default_app">(Predefinito di sistema)</string>
      <string name="system_package">Impossibile installare aggiornamenti di sistema su supporti esterni.</string>
+     <string name="system_shortcut_wake">Wake with button shortcuts</string>
      <string name="system_storage">Memoria interna</string>
      <string name="system_ui_settings">Mostra SystemUI Tuner</string>
      <string name="system_update_settings_list_item_summary" />
@@ -4628,6 +4638,7 @@ Aggiungi una parola toccando il tasto +."</string>
      <string name="vision_settings_description">Puoi personalizzare questo dispositivo per soddisfare le tue necessità. Queste funzioni di accessibilità possono essere modificate successivamente nelle Impostazioni.</string>
      <string name="vision_settings_title">Impostazioni di visualizzazione</string>
      <string name="voice_category">Voce</string>
+     <string name="voice_helper_title">Voice assistant</string>
      <string name="voice_input_output_settings">Impostazioni vocali</string>
      <string name="voice_input_output_settings_title">Impostazioni input e output vocale</string>
      <string name="voice_input_settings">Impostazioni input vocale</string>

@@ -13,6 +13,7 @@
      <string name="clear_records">Elimina le registrazioni sincronizzate</string>
      <string name="cloud_record_open">Sincronizza le registrazioni</string>
      <string name="cloud_record_tip">Sincronizza le registrazioni con Mi Cloud.</string>
+     <string name="cloud_service_state_open_reminder">Turn on sync with Mi Cloud to sync recording files.</string>
      <string name="cloud_status_full_dialog_cancel">Non adesso</string>
      <string name="cloud_status_full_dialog_msg">La memoria del tuo Mi Cloud è piena, impossibile sincronizzare le registrazioni. Aggiorna il tuo account per avere più spazio a disposizione.</string>
      <string name="cloud_status_full_dialog_ok">Aggiorna</string>
