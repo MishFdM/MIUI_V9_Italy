@@ -1214,9 +1214,6 @@ Le funzionalità relative al PIN2 saranno bloccate se si fallisce un altro tenta
      <string name="proximity_on_summary">Quando risponderai ad una chiamata, lo schermo si disattiverà per risparmiare energia.</string>
      <string name="proxy_address">ProxyAddress</string>
      <string name="proxy_address_title">"Indirizzo proxy verso l'esterno"</string>
-     <string name="proxy_exclusionlist_hint">example.com,mycomp.test.com,localhost</string>
-     <string name="proxy_hostname_hint">proxy.example.com</string>
-     <string name="proxy_url_hint">https://www.example.com/proxy.pac</string>
      <string name="pstn_connection_service_label">SIM implementata</string>
      <string name="pstn_phone">Chiamate via telefono cellulare</string>
      <string name="puk2_blocked">PUK2 è bloccato permanentemente.</string>

@@ -27,7 +27,6 @@ Contatta il tuo venditore per ulteriori informazioni."</string>
      <string name="find_device_error_unknown">Errore sconosciuto (%s).</string>
      <string name="find_device_noise_title">Suono di localizzazione dispositivo</string>
      <string name="find_device_notice_p1">Vai su</string>
-     <string name="find_device_notice_p2">i.mi.com</string>
      <string name="find_device_notice_p3">"per localizzare, bloccare o formattare il tuo dispositivo.
 Se cambi SIM, verrà automaticamente inviato un SMS per riattivare questa funzione."</string>
      <string name="find_device_stop_noise">Tocca OK per silenziare</string>

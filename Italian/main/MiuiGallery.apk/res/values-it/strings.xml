@@ -841,7 +841,6 @@ Scatta più foto ai tuoi amici!"</string>
      <string name="gif_tip">GIF</string>
      <string name="gigabyteShort">GB</string>
      <string name="grant_permission_go_and_set">Imposta</string>
-     <string name="grant_permission_item">\"%s\"</string>
      <string name="grant_permission_text">"La galleria necessita dell'accesso a 
 %s
  per funzionare correttamente, tocca Imposta per vedere i permessi."</string>
@@ -1171,7 +1170,6 @@ Scatta più foto ai tuoi amici!"</string>
      <string name="search_feedback_likely_check_title">Verifica</string>
      <string name="search_feedback_likely_title">Sembra che queste foto contengano \"%s\"</string>
      <string name="search_feedback_task_complete">Tutte le missioni sono state completate</string>
-     <string name="search_feedback_task_progress">%1$d/%2$d</string>
      <string name="search_feedback_task_request_award_failed">Impossibile ricevere la ricompensa. Prova di nuovo.</string>
      <string name="search_feedback_task_requesting_award">Ricezione ricompensa​…</string>
      <string name="search_feedback_user_notice">Ho letto e accetto %s.</string>

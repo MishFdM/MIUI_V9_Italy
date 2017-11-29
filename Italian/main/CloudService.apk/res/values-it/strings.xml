@@ -89,8 +89,6 @@ Ultimo backup: %2$s"</string>
      <string name="find_device_disabling">Disattivazione…</string>
      <string name="find_device_dspt">Blocca o ripristina il dispositivo da remoto.</string>
      <string name="find_device_dspt_provision">Nel caso dovessi smarrire il tuo dispositivo, dirigiti su %s per localizzarlo, bloccarlo, o resettarlo. Puoi abilitare o disabilitare questa funzionalità quando vuoi dalle Impostazioni.</string>
-     <string name="find_device_dspt_provision_2">i.mi.com</string>
-     <string name="find_device_dspt_provision_2_int">www.mi.com/micloud</string>
      <string name="find_device_dspt_provision_3">" . Puoi attivare questa funzione in qualsiasi momento in Impostazioni."</string>
      <string name="find_device_dspt_provision_4">Se cambi SIM verrà inviato automaticamente un SMS per riattivare questa funzione.</string>
      <string name="find_device_enabling">Attivazione…</string>
@@ -99,7 +97,6 @@ Ultimo backup: %2$s"</string>
      <string name="find_device_error_server">Qualcosa non ha funzionato sul nostro server.</string>
      <string name="find_device_error_unknown">Errore sconosciuto</string>
      <string name="find_device_notice_p1">Visita</string>
-     <string name="find_device_notice_p2">i.mi.com</string>
      <string name="find_device_notice_p3">"per trovare, bloccare, o ripristinare il tuo dispositivo.
 Se cambia la SIM, deve essere inviato un nuovo SMS di attivazione."</string>
      <string name="find_device_operation_failure_rpc">Impossibile completare questa operazione a causa di un errore RPC</string>
@@ -267,8 +264,6 @@ al tuo Mi Account per riattivare Mi Cloud."</string>
      <string name="micloud_find_device_open_fail">Impossibile attivare Trova Dispositivo</string>
      <string name="micloud_find_device_opened">Trova Dispositivo attivato</string>
      <string name="micloud_find_device_opened_content">Trova Dispositivo a %s</string>
-     <string name="micloud_find_device_opened_content_url">i.mi.com</string>
-     <string name="micloud_find_device_opened_content_url_int">www.mi.com/micloud</string>
      <string name="micloud_find_device_verify_button">Riattiva Trova dispositivo</string>
      <string name="micloud_find_device_verify_close">Disattiva Trova dispositivo</string>
      <string name="micloud_find_device_verify_fail">Impossibile riattivare Trova dispositivo</string>
@@ -527,8 +522,6 @@ Questa funziona cripta ed invia l'ID del tuo dispositivo ai server Xiaomi."</str
      <string name="sync_dspt_entrance_provision_network">Questa app deve collegarsi ad internet per funzionare normalmente.La sincronizzazione dei dati potrebbe essere connessa alla rete dati ed aprire la rete Wi-Fi.</string>
      <string name="sync_dspt_entrance_provision_skip"><u>Salta questo passaggio</u></string>
      <string name="sync_dspt_provision">"Sincronizza le foto, i contatti, le note e molto altro su tutti i tuoi dispositivi o accedi da "</string>
-     <string name="sync_dspt_provision2">i.mi.com</string>
-     <string name="sync_dspt_provision2_int">www.mi.com/micloud</string>
      <string name="sync_dspt_provision3">". Puoi disattivare questa funzione in qualsiasi momento nelle Impostazioni."</string>
      <string name="sync_dspt_provision_header">Sincronizza</string>
      <string name="sync_dspt_provision_title">Mi Cloud</string>
