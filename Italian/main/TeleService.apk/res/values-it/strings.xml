@@ -1110,15 +1110,10 @@ Le funzionalità relative al PIN2 saranno bloccate se si fallisce un altro tenta
      <string name="pointer_location">Posizione indicatore</string>
      <string name="pointer_location_summary">"L'overlay schermo mostra gli attuali dati touch"</string>
      <string name="port_title">Numero porta</string>
-     <string name="power_charging">%1$s - %2$s</string>
      <string name="power_charging_duration">%1$s - %2$s fino a completamento</string>
      <string name="power_charging_duration_ac">%1$s - %2$s fino a completamento su AC</string>
-     <string name="power_charging_duration_ac_short">%1$s - %2$s</string>
-     <string name="power_charging_duration_short">%1$s - %2$s</string>
      <string name="power_charging_duration_usb">%1$s - %2$s fino a completamento tramite USB</string>
-     <string name="power_charging_duration_usb_short">%1$s - %2$s</string>
      <string name="power_charging_duration_wireless">%1$s - %2$s fino a completamento da wireless</string>
-     <string name="power_charging_duration_wireless_short">%1$s - %2$s</string>
      <string name="power_discharging_duration">%1$s - appross. %2$s rimanenti</string>
      <string name="power_discharging_duration_short">%1$s - %2$s rimanenti</string>
      <string name="power_remaining_duration_only">Approx. %1$s rimanenti</string>
@@ -1214,9 +1209,6 @@ Le funzionalità relative al PIN2 saranno bloccate se si fallisce un altro tenta
      <string name="proximity_on_summary">Quando risponderai ad una chiamata, lo schermo si disattiverà per risparmiare energia.</string>
      <string name="proxy_address">ProxyAddress</string>
      <string name="proxy_address_title">"Indirizzo proxy verso l'esterno"</string>
-     <string name="proxy_exclusionlist_hint">example.com,mycomp.test.com,localhost</string>
-     <string name="proxy_hostname_hint">proxy.example.com</string>
-     <string name="proxy_url_hint">https://www.example.com/proxy.pac</string>
      <string name="pstn_connection_service_label">SIM implementata</string>
      <string name="pstn_phone">Chiamate via telefono cellulare</string>
      <string name="puk2_blocked">PUK2 è bloccato permanentemente.</string>

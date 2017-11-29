@@ -279,7 +279,6 @@
      <string name="express_company_phone_prefix">"Contact: "</string>
      <string name="express_company_pricing_details">Pricing details</string>
      <string name="express_complete">Accepted</string>
-     <string name="express_complete_flag">3</string>
      <string name="express_contact_address">Enter address</string>
      <string name="express_contact_address_finding">Locating…</string>
      <string name="express_contact_label">Info for pickup service</string>
@@ -290,7 +289,6 @@
      <string name="express_copy_number">Copy</string>
      <string name="express_delete_order">Delete</string>
      <string name="express_delivery">Delivering</string>
-     <string name="express_delivery_flag">5</string>
      <string name="express_dest_city_label">Destination</string>
      <string name="express_detailed_address">Address</string>
      <string name="express_field_empty">Empty</string>
@@ -542,7 +540,6 @@ Check your tracking number."</string>
      <string name="hour24_format_en">HH:mm</string>
      <string name="http_stock_error">Impossibile caricare info</string>
      <string name="immediate_recommendation">Suggerimenti in tempo reale</string>
-     <string name="info_divider">|</string>
      <string name="item_type_custom">Personalizza</string>
      <string name="item_type_suggestion">Suggerimenti</string>
      <string name="just_now">Poco fa</string>

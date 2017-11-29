@@ -420,15 +420,10 @@ Utilizza solo l'alimentatore in dotazione."</string>
      <string name="picture_color_mode_desc">Usa sRGB</string>
      <string name="pointer_location">Locazione puntatore</string>
      <string name="pointer_location_summary">Mostra attuali dati touch overlay schermo</string>
-     <string name="power_charging">%1$s - %2$s</string>
      <string name="power_charging_duration">%1$s - %2$s fino al completamento</string>
      <string name="power_charging_duration_ac">%1$s - %2$s fino al completamento su AC</string>
-     <string name="power_charging_duration_ac_short">%1$s - %2$s</string>
-     <string name="power_charging_duration_short">%1$s - %2$s</string>
      <string name="power_charging_duration_usb">%1$s - %2$s fino al completamento da USB</string>
-     <string name="power_charging_duration_usb_short">%1$s - %2$s</string>
      <string name="power_charging_duration_wireless">%1$s - %2$s fino al completamento da wireless</string>
-     <string name="power_charging_duration_wireless_short">%1$s - %2$s</string>
      <string name="power_discharging_duration">%1$s - appross. %2$s rimanenti</string>
      <string name="power_discharging_duration_short">%1$s - %2$s rimanenti</string>
      <string name="power_remaining_duration_only">Appross. %1$s rimanenti</string>
@@ -538,7 +533,6 @@ Utilizza solo l'alimentatore in dotazione."</string>
      <string name="status_bar_clock_date_format">EEEE, dd MMMM</string>
      <string name="status_bar_date_format">EEEE, dd MMMM</string>
      <string name="status_bar_date_format_12">EEEE, dd MMMM</string>
-     <string name="status_bar_date_formatter">%2$s</string>
      <string name="status_bar_network_flow_content">"Oggi: %1$s   Rimanente: %2$s"</string>
      <string name="status_bar_network_flow_exceed_content">Oggi: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Superamento soglia: &lt;font color=%2$s>%3$s&lt;/font></string>
      <string name="status_bar_network_flow_limit">"   Limite mensile: %1$s"</string>
@@ -562,7 +556,6 @@ scorri in basso per bloccare"</string>
      <string name="status_bar_safepay_scanning">Analizzo ambiente di pagamento…</string>
      <string name="status_bar_safepay_unknown">Sicurezza ambiente sconosciuta.</string>
      <string name="status_bar_settings_airplane">Modalità aereo</string>
-     <string name="status_bar_settings_battery_meter_format">%d%%</string>
      <string name="status_bar_settings_signal_meter_disconnected">Nessuna connessione</string>
      <string name="status_bar_settings_signal_meter_wifi_nossid">Wi-Fi connesso</string>
      <string name="status_bar_style_settings">Impostazioni</string>

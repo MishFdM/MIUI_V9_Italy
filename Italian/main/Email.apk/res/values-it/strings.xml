@@ -226,13 +226,10 @@
      <string name="auto_remind_unbind">Ferma</string>
      <string name="auto_sync_off">Sincron. automatica disattivata.</string>
      <string name="automatic_remind_text">promemoria</string>
-     <string name="back">back</string>
+     <string name="back">indietro</string>
      <string name="bank_card_detail">Dettagli carta di credito</string>
-     <string name="bank_card_list_card_num_fmt">****%s</string>
      <string name="battery_saver">Risparmio batteria</string>
      <string name="battery_saver_keywords">risparmio batteria;batteria email</string>
-     <string name="bcc">Ccn</string>
-     <string name="bcc_heading">"Ccn: "</string>
      <string name="bill_center_setting">Impostazioni di addebito</string>
      <string name="bill_center_setting_head">Importa le informazioni da questi account</string>
      <string name="bill_cycle_text">Ciclo di addebito</string>
@@ -254,9 +251,6 @@
      <string name="cancel_action">Annulla</string>
      <string name="cancel_pop3_attchemt_downloading">"L'annullamento di allegati in download non è disponibile per gli account di tipo POP3."</string>
      <string name="cant_move_or_change_labels">Impossibile spostare perché la selezione contiene account multipli.</string>
-     <string name="cc">Cc</string>
-     <string name="cc_attribution">Cc: %1$s</string>
-     <string name="cc_bcc">Cc/Ccn</string>
      <string name="cc_heading">"Cc: "</string>
      <string name="change_folders_selection_dialog_title">Cambia cartelle</string>
      <string name="change_sync_settings">Modifica impostazioni di sincronizzazione</string>
@@ -556,7 +550,6 @@
      <string name="invalid_recipient">"L'indirizzo %s non è valido."</string>
      <string name="invalid_recipient_title">Destinatario non valido</string>
      <string name="kilobytes">%s KB</string>
-     <string name="label_notification_ticker" formatted="false">%s: %s</string>
      <string name="load_from_remote">Continua a cercare sul server</string>
      <string name="load_more">Carica altro</string>
      <string name="loading_conversation">Caricamento…</string>
@@ -1068,10 +1061,7 @@ perr icevere promemoria sui pagamenti dei tuoi viaggi"</string>
      <string name="translation_query_failure">Ricerca fallita</string>
      <string name="translation_technology_support">Supporto tecnico fornito da PowerWord</string>
      <string name="trash_folder_selection_title">Selez. cartella Cestino server per %s</string>
-     <string name="trigger_compose_char">c</string>
-     <string name="trigger_refresh_char">u</string>
-     <string name="trigger_y_char">y</string>
-     <string name="try_exchange_login">Login con EXCHANGE</string>
+     <string name="try_exchange_login">Accedi con EXCHANGE</string>
      <string name="turn_auto_sync_on_dialog_body">Tutte le modifiche apportate ad applicazioni ed account, non solo Gmail, verranno sincronizzate tra web, i tuoi altri dispositivi ed il tuo %1$s.</string>
      <string name="turn_auto_sync_on_dialog_confirm_btn">Attiva</string>
      <string name="turn_auto_sync_on_dialog_title">Attivare sincron. automatica?</string>

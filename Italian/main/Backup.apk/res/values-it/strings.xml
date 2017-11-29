@@ -384,7 +384,7 @@ Libera almeno %s"</string>
      <string name="trans_intro_question_2">%d. How do I use Mi Mover to move data from an Android device?</string>
      <string name="trans_intro_question_3"> %d. What should I do if Mi Mover got stuck on a certain step? </string>
      <string name="trans_intro_question_4">"%d. Why can't I use WLAN during transfers?"</string>
-     <string name="trans_intro_question_5"> "%d. Why does Mi Mover tell me there isn't enough storage space on my old phone?"</string>
+     <string name="trans_intro_question_5">"%d. Why does Mi Mover tell me there isn't enough storage space on my old phone?"</string>
      <string name="trans_intro_question_6">"%d. Why aren't some apps transferred successfully?"</string>
      <string name="trans_intro_question_7">"%d. Why won't some apps start on a new device?"</string>
      <string name="trans_intro_question_8">"%d. Why isn't WeChat history fully transferred?"</string>
