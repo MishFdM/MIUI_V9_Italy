@@ -61,6 +61,7 @@
      <string name="hours">%d ore</string>
      <string name="install_weather_app_error">"Impossibile caricare l'app"</string>
      <string name="install_weather_app_loading">Solo un secondo…</string>
+     <string name="invalid_time">Invalid time: %3$s %1$d: %2$d</string>
      <string name="keep_screen_on">Mantieni schermo attivo</string>
      <string name="label">Nome</string>
      <string name="label_pref_summary">Etichetta</string>
@@ -160,7 +161,7 @@
      <string name="tomorrow">Domani</string>
      <string name="turn_off_a_repeat_alarm">Disattiva ripetizione sveglia</string>
      <string name="turn_off_this_repeat_alarm">Disattiva la ripetizione di questa sveglia</string>
-     <string name="upcoming_alarm"> Sveglia in arrivo</string>
+     <string name="upcoming_alarm">%s Sveglia in arrivo</string>
      <string name="upcoming_alarm_hint">Disattiva la sveglia in anticipo</string>
      <string name="vibrate_pref_summary">"Vibra quando suona la sveglia"</string>
      <string name="vibrate_when_ringing">Vibra quando suona</string>

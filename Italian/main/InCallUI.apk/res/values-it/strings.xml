@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-     <string name="accept_modify_call_request_prompt">Accettare la richiesta di modifica della chiamata?</string>
      <string name="antispam_local_marked">Segnalato localmente</string>
      <string name="antispam_marked_count">Segnalato da %1$d utenti MIUI</string>
      <string name="antispam_notification_title">Numero sconosciuto</string>
@@ -29,7 +28,6 @@
      <string name="callFailed_timedOut">Nessuna risposta</string>
      <string name="callFailed_unobtainable_number">Numero non valido</string>
      <string name="callFailed_userBusy">Linea occupata</string>
-     <string name="callUnanswered_forwarded">Chiamata senza risposta ed inoltrata</string>
      <string name="call_button_conference_manager_text">Gestore conferenze</string>
      <string name="call_button_dialer_text">Tastiera</string>
      <string name="call_button_mute_text">Muto</string>
@@ -52,7 +50,6 @@
      <string name="call_recording_notification_title_error">Non è stato possibile registrare la chiamata</string>
      <string name="call_title_redialing_with_times">Ricomposto %d volte</string>
      <string name="caller_manage_header">Audioconferenza %s</string>
-     <string name="calling_via_template">Chiama tramite %s</string>
      <string name="can_not_call_oneself">Impossibile effettuare la chiamata a questo numero</string>
      <string name="can_not_use">Impossibile utilizzare</string>
      <string name="cancel">Annulla</string>
@@ -68,7 +65,6 @@
      <string name="card_title_in_call">In chiamata</string>
      <string name="card_title_in_call_short">In chiamata</string>
      <string name="card_title_in_video">Video </string>
-     <string name="card_title_incoming_call">Chiamata ricevuta</string>
      <string name="card_title_incoming_conference_call">Audio conferenza in arrivo</string>
      <string name="card_title_on_hold">In attesa\u0020</string>
      <string name="card_title_threeway_call">Audioconferenza a tre</string>
@@ -87,7 +83,6 @@
      <string name="conference_call_number">%s persone</string>
      <string name="conference_call_single_description" formatted="false">%s etc. totali %s</string>
      <string name="conference_caller_info_name">Audio conferenza di %1$s</string>
-     <string name="conference_caller_name_me">Io</string>
      <string name="conference_callers_exceeded">Limite partecipanti superato</string>
      <string name="contacts_icon_label">Contatti</string>
      <string name="default_area_code_setting">Prefisso internazionale predefinito</string>
@@ -114,7 +109,6 @@
      <string name="description_target_answer">Rispondi</string>
      <string name="dialog_activate_livetalk">Verifica numero</string>
      <string name="dialog_call_ordinary_telephone">Chiamata normale</string>
-     <string name="dialog_purchase">Ricarica</string>
      <string name="dialpad_abc">ABC</string>
      <string name="dialpad_def">DEF</string>
      <string name="dialpad_eight">8</string>
@@ -154,31 +148,15 @@
      <string name="incoming_circle_text_message_p">Scorri per rispondere con SMS</string>
      <string name="incoming_circle_text_reject">Rilascia per rifiutare</string>
      <string name="incoming_circle_text_reject_p">Scorri per rifiutare</string>
-     <string name="ivr_menu_dialing_msg">Inoltro…</string>
-     <string name="ivr_menu_dialing_msg_no_mute">Passaggio al servizio selezionato… [Correzione automatica errori attivata]</string>
-     <string name="ivr_menu_list_sub_menu_count_format">Premi %s</string>
-     <string name="ivr_menu_list_title">Menu voce</string>
      <string name="keep_wait_call_back">Attendi</string>
      <string name="livetalk_dial">Utilizzo pacchetto riempimento</string>
      <string name="livetalk_hangup">Termina</string>
      <string name="manageConferenceLabel">Gestione chiamate in conferenza</string>
-     <string name="modify_call_failure_str">"Richiesta di modifica chiamata fallita"</string>
-     <string name="modify_call_option_title">Che tipo di chiamata?</string>
-     <string name="modify_call_option_voice">Solo voce</string>
-     <string name="modify_call_option_vt">Videochiamata</string>
-     <string name="modify_call_option_vt_rx">Ricevi video</string>
-     <string name="modify_call_option_vt_tx">Trasmetti video</string>
-     <string name="modify_call_prompt_no">No</string>
-     <string name="modify_call_prompt_yes">Sì</string>
      <string name="msim_select_default_time_left">(%d s)</string>
      <string name="network_error_message">La rete non è stabile. Passando ad una chiamata normale in base ai costi previsti dal tuo operatore.</string>
      <string name="network_error_title">Rete non stabile</string>
-     <string name="no_balance_message">Credito insufficiente. Puoi ancora fare una chiamata normale in base ai costi previsti dal tuo operatore.</string>
-     <string name="no_balance_title">Credito insufficiente</string>
      <string name="no_call_back_message">La connessione sta impiegando troppo tempo. Passando ad una chiamata normale in base ai costi previsti dal tuo operatore.</string>
      <string name="no_call_back_title">Attenzione</string>
-     <string name="non_ivr_menu_collapse_menu">Chiudi menu</string>
-     <string name="non_ivr_menu_view_menu">Mostra menu</string>
      <string name="not_activate_sim_card_content">Verifica il tuo numero di telefono per iniziare ad utilizzare il pacchetto di ricarica. Puoi ancora fare una chiamata normale in base ai costi previsti dal tuo operatore.</string>
      <string name="not_activate_sim_card_content_title">Numero di telefono non verificato</string>
      <string name="not_activate_sim_card_content_with_operator">Verifica SIM %1$s (%2$s) per effettuare una chiamata utilizzando il pacchetto di ricarica. Puoi ancora fare una chiamata normale in base ai costi previsti dal tuo operatore.</string>
@@ -205,7 +183,6 @@
      <string name="onscreen_audio_mode_handset">Kit mani libere</string>
      <string name="onscreen_audio_mode_headset">Cuffie</string>
      <string name="onscreen_audio_mode_speaker">Vivavoce</string>
-     <string name="onscreen_audio_switch_mode">Cambia audio</string>
      <string name="onscreen_call_record">Registra</string>
      <string name="onscreen_change_to_video">Video chiamata</string>
      <string name="onscreen_change_to_voice">Chiamata vocale</string>
@@ -238,9 +215,7 @@
      <string name="unlock_phone">Sblocca dispositivo</string>
      <string name="upgrade_vt_prompt">Vuoi passare da chiamata audio a videochiamata?</string>
      <string name="user_locked_prompt">Sblocca il dispositivo per accedere ai contatti.</string>
-     <string name="video_call_not_allowed_if_tty_enabled">Disattiva prima la modalità TTY</string>
      <string name="video_conference_caller_info_name">Conference call video di %1$s</string>
-     <string name="video_switch_to_voice_call_prompt">Passa a chiamata vocale</string>
      <string name="voicemail">Segreteria</string>
      <string name="wait_prompt_str">Inviare i numeri successivi?</string>
      <string name="waiting_close_airplane_mode">Solo un attimo…</string>
