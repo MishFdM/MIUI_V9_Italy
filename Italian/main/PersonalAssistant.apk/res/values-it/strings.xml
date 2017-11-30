@@ -113,13 +113,6 @@
      <string name="card_bookall_train_started">Abbandono stazione</string>
      <string name="card_detail">Guida</string>
      <string name="card_example">Scheda</string>
-     <string name="card_expand_note_clear">Clear</string>
-     <string name="card_expand_note_dialog_button">Got it</string>
-     <string name="card_expand_note_dialog_message">A new note is created every time you tap the \"Save\" button in App vault.</string>
-     <string name="card_expand_note_dialog_title">Saving notes</string>
-     <string name="card_expand_note_toast_clear_null">Cleared successfully</string>
-     <string name="card_expand_note_toast_save_done">Saved to Notes</string>
-     <string name="card_expand_note_toast_save_dup">Saved successfully</string>
      <string name="card_hint_noteboard">Tocca qui per scrivere una nota.</string>
      <string name="card_menu_edit">Modifica</string>
      <string name="card_menu_setting">Impostazioni</string>
@@ -173,7 +166,11 @@
      <string name="cta_desc">Ottieni suggerimenti e altro.</string>
      <string name="cta_dialog_negative">Esci</string>
      <string name="cta_dialog_positive">"D'accordo"</string>
-     <string name="cta_dialog_text_all">To use App vault, you should read and agree with %1$s\"User Agreement\" %2$s and %3$s \"Privacy Policy\" %4$s. The service also requires internet connection and access to the location services. Agree?</string>
+     <string name="cta_dialog_text1">To use App vault, you should read and agree with</string>
+     <string name="cta_dialog_text2">\"User Agreement\"</string>
+     <string name="cta_dialog_text3">and</string>
+     <string name="cta_dialog_text4">\"Privacy Policy\".</string>
+     <string name="cta_dialog_text5">The service also requires internet connection and access to the location services. Agree?</string>
      <string name="cta_dialog_title">Termini e Condizioni</string>
      <string name="cta_negative">Chiudi</string>
      <string name="cta_positive">Dettagli</string>
@@ -216,7 +213,6 @@
      <string name="didi_price">Fare</string>
      <string name="didi_price_unit">CNY</string>
      <string name="didi_target">Destination     </string>
-     <string name="didi_taximeter">Calculate taxi fare</string>
      <string name="didi_trip">Taxi</string>
      <string name="didi_trip_content">Estimate the fare and call a taxi</string>
      <string name="didi_trip_content_detail">Estimate the approximate taxi fare and call a taxi.</string>
@@ -279,6 +275,7 @@
      <string name="express_company_phone_prefix">"Contact: "</string>
      <string name="express_company_pricing_details">Pricing details</string>
      <string name="express_complete">Accepted</string>
+     <string name="express_complete_flag">3</string>
      <string name="express_contact_address">Enter address</string>
      <string name="express_contact_address_finding">Locating…</string>
      <string name="express_contact_label">Info for pickup service</string>
@@ -289,6 +286,7 @@
      <string name="express_copy_number">Copy</string>
      <string name="express_delete_order">Delete</string>
      <string name="express_delivery">Delivering</string>
+     <string name="express_delivery_flag">5</string>
      <string name="express_dest_city_label">Destination</string>
      <string name="express_detailed_address">Address</string>
      <string name="express_field_empty">Empty</string>
@@ -434,6 +432,7 @@ Check your tracking number."</string>
      <string name="express_track_order">Track</string>
      <string name="express_tracking_number">Tracking number</string>
      <string name="express_update_cainiao_description">Update Cainiao to use this feature.</string>
+     <string name="express_update_cainiao_ok">Update</string>
      <string name="express_update_cainiao_title">Cainiao version is too old</string>
      <string name="express_urge_order">Poke</string>
      <string name="express_view_order">View orders</string>
@@ -471,9 +470,7 @@ Check your tracking number."</string>
      <string name="favorite_important">Importante</string>
      <string name="favorite_label">Preferiti</string>
      <string name="favorite_main">Cronologia</string>
-     <string name="favorite_title_limit">Enter up to 40 characters</string>
-     <string name="favorite_title_modify">Modify</string>
-     <string name="favorite_title_modify_success">Modified successfully</string>
+     <string name="favorite_mark_important">Marked as important</string>
      <string name="flow_open">Mostra scheda dati mobili</string>
      <string name="flow_setting_brief">Mostra info dati mobili (Aggiungi il tuo piano dati in Securezza &gt; Utilizzo dati).</string>
      <string name="focus">Focus sulle dinamiche</string>
@@ -519,9 +516,19 @@ Check your tracking number."</string>
      <string name="function_zhihu_search">Ricerca</string>
      <string name="function_zhihu_title">Conosci</string>
      <string name="go_to_school">Esci da scuola o ufficio</string>
+     <string name="greeting_alarm_desc">Alarm will go off at %1$s tomorrow.</string>
+     <string name="greeting_alarm_desc_with_duration">Alarm will go off at %1$s tomorrow, go to bed now to get %2$s of sleep.</string>
+     <string name="greeting_birth_desc">"Today is %1$s's birthday."</string>
+     <string name="greeting_news_morning">What happened while you were sleeping?</string>
+     <string name="greeting_news_night">Today was a busy day full of events.</string>
+     <string name="greeting_no_alarm">No alarms scheduled, sleep tight!</string>
+     <string name="greeting_no_schedule">No events for today.</string>
      <string name="greeting_open">Abilita saluti giornalieri</string>
+     <string name="greeting_schedule_desc">Scheduled events for today: %1$d</string>
      <string name="greeting_setting_brief">Ottieni informazioni meteo e promemoria su eventi programmati, sveglie, e compleanni ogni mattina e pomeriggio</string>
      <string name="greeting_setting_brief_notice">"Puoi cambiare città sull'app meteo"</string>
+     <string name="greeting_title_morning">Good morning!</string>
+     <string name="greeting_title_night">Good evening!</string>
      <string name="greeting_weather_desc">%1$s %2$s %3$s %4$s</string>
      <string name="greeting_weather_desc_from_to">%1$s to %2$s</string>
      <string name="greeting_weather_prefix_moring">Oggi</string>
@@ -540,6 +547,7 @@ Check your tracking number."</string>
      <string name="hour24_format_en">HH:mm</string>
      <string name="http_stock_error">Impossibile caricare info</string>
      <string name="immediate_recommendation">Suggerimenti in tempo reale</string>
+     <string name="info_divider">|</string>
      <string name="item_type_custom">Personalizza</string>
      <string name="item_type_suggestion">Suggerimenti</string>
      <string name="just_now">Poco fa</string>
@@ -602,8 +610,6 @@ Check your tracking number."</string>
      <string name="map_title_around">Nearby</string>
      <string name="map_title_home">Home</string>
      <string name="map_title_office">Work</string>
-     <string name="memory_clear_nothing_result">Nothing to clear in cache</string>
-     <string name="memory_clear_result">%1$sB cleared</string>
      <string name="menu_new">Add</string>
      <string name="metre">metro</string>
      <string name="mi_agenda">Eventi calendario</string>
@@ -795,6 +801,9 @@ Check your tracking number."</string>
      <string name="qq_new">Nuovo stato</string>
      <string name="qq_qzone">Qzone</string>
      <string name="quickstart_accessibility_description">Il servizio di Smart Assistant serve per fornire un supporto alle applicazioni di terzi, disattivandolo il servizio non funzionerà correttamente.</string>
+     <string name="quickstart_accessibility_dialog_confirm">Turn on</string>
+     <string name="quickstart_accessibility_dialog_content">This shortcut requires turning on accessibility.</string>
+     <string name="quickstart_accessibility_dialog_title">Turn on accessibility</string>
      <string name="quickstart_accessibility_service">Smart Assistant</string>
      <string name="recharge_flow">Buy mobile data</string>
      <string name="recharge_tel">Top up phone balance</string>
@@ -820,6 +829,7 @@ Check your tracking number."</string>
      <string name="scan_exercise">Studio</string>
      <string name="scan_parent">Scanner</string>
      <string name="scan_trans">Traduci</string>
+     <string name="search">Search</string>
      <string name="search_add_header">Add cover image</string>
      <string name="search_category_article">Articoli</string>
      <string name="search_category_shopping">Shopping</string>
@@ -913,6 +923,8 @@ Check your tracking number."</string>
      <string name="sms_hao">Sede</string>
      <string name="sms_happened">Finito</string>
      <string name="sms_hotel">Hotel</string>
+     <string name="sms_hour_suffix">hr left</string>
+     <string name="sms_minute_suffix">min left</string>
      <string name="sms_passenger">Passeggeri</string>
      <string name="sms_phone">Numero di telefono</string>
      <string name="sms_platform">Piattaforma</string>
