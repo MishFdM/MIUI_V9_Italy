@@ -179,7 +179,7 @@
      <string name="currency_china">CNY</string>
      <string name="daily_greeting">Saluti giornalieri</string>
      <string name="data_error">Si é verificato un errore, attendi un minuto o due e riprova</string>
-     <string name="data_error_show">La transazione è stata chiusa, non è possibile ottenere dettagli</string>
+     <string name="data_error_show">La transazione é stata chiusa, non é possibile ottenere dettagli</string>
      <string name="delete">Elimina</string>
      <string name="detail_action_delete">Elimina</string>
      <string name="detail_action_open_in_browser">Apri in Browser</string>
@@ -233,7 +233,7 @@
      <string name="empty_duokan_card_title">Nessun dato</string>
      <string name="empty_express_btn">Tutti i pacchetti</string>
      <string name="empty_express_btn2">Aggiungi manualmente</string>
-     <string name="empty_express_tip">Non è presente nessun dato di consegne veloci</string>
+     <string name="empty_express_tip">Non é presente nessun dato di consegne veloci</string>
      <string name="empty_fav_card_btn">Tutti i preferiti</string>
      <string name="empty_fav_card_tip">Ancora nessun preferito</string>
      <string name="empty_health_card_btn">Accoppia Mi Band</string>
@@ -310,7 +310,7 @@
      <string name="express_inquiry_history">Cronologia</string>
      <string name="express_inquiry_history_remark">Commenti</string>
      <string name="express_inquiry_history_remark_hint">Cronologia commenti</string>
-     <string name="express_inquiry_internal_failure">Si è verificato un errore
+     <string name="express_inquiry_internal_failure">Si é verificato un errore
 Verifica il numero di tracciabilità.</string>
      <string name="express_inquiry_logistics">Seleziona un servizio corriere</string>
      <string name="express_inquiry_logistics_prefix">Servizio corriere: %s</string>
@@ -399,7 +399,7 @@ Verifica il tuo numero di tracciabilità</string>
      <string name="express_setting_brief_detail">"Tieni traccia di tutti i tuoi pacchetti utilizzando il tuo numero di telefono e le informazioni sull'ordine."</string>
      <string name="express_setting_code_invalid">Assicurati di aver immesso correttamente il codice</string>
      <string name="express_setting_count_down_time">Riprova in %ds</string>
-     <string name="express_setting_dialog_authority_description">"La verifica del numero di telefono è fornita dalle pagine gialle. Le pagine gialle devono connettersi alla rete per funzionare normalmente. Sei d'accordo?"</string>
+     <string name="express_setting_dialog_authority_description">"La verifica del numero di telefono é fornita dalle pagine gialle. Le pagine gialle devono connettersi alla rete per funzionare normalmente. Sei d'accordo?"</string>
      <string name="express_setting_dialog_delete_cancel">Indietro</string>
      <string name="express_setting_dialog_delete_description">Le pagine gialle non saranno in grado di tracciare automaticamente le informazioni di consegna dopo aver eliminato il numero di telefono. Eliminare comunque?</string>
      <string name="express_setting_dialog_delete_failed">Impossibile eliminare numero di telefono</string>
@@ -485,17 +485,17 @@ Verifica il tuo numero di tracciabilità</string>
      <string name="function_keyguard_dialog_cancel">Indietro</string>
      <string name="function_keyguard_dialog_confirm">Imposta</string>
      <string name="function_keyguard_dialog_content">Imposta password di blocco schermo per proteggere i tuoi pagamenti.</string>
-     <string name="function_keyguard_dialog_title">Questa funzione non è ancora supportata</string>
+     <string name="function_keyguard_dialog_title">Questa funzione non é ancora supportata</string>
      <string name="function_mistore_cart">Carrello</string>
      <string name="function_mistore_favorite">Preferiti</string>
      <string name="function_mistore_title">Mi Store</string>
      <string name="function_music_recognize">Ascolta brano</string>
      <string name="function_music_title">Musica</string>
-     <string name="function_not_support">Questa funzione non è supportata su questo dispositivo</string>
-     <string name="function_open_error_content">"Questo collegamento non funzionerà perché l'app è stata disinstallata. Seleziona un altro collegamento o reinstalla l'app."</string>
-     <string name="function_open_error_content_app">"Quest'app è stata disinstallata. Seleziona un altro collegamento o reinstalla l'app."</string>
-     <string name="function_open_error_content_app_xspace">"Questo collegamento non funzionerà perchè l'app clonata è stata disinstallata. Seleziona un collegamento diverso o clona una nuova app."</string>
-     <string name="function_open_error_content_xspace">"Questo collegamento non funzionerà perchè l'app è stata disinstallata. Seleziona un altro collegamento o clona una nuova app."</string>
+     <string name="function_not_support">Questa funzione non é supportata da questo dispositivo</string>
+     <string name="function_open_error_content">"Questo collegamento non funzionerà perché l'app é stata disinstallata. Seleziona un altro collegamento o reinstalla l'app."</string>
+     <string name="function_open_error_content_app">"Quest'app é stata disinstallata. Seleziona un altro collegamento o reinstalla l'app."</string>
+     <string name="function_open_error_content_app_xspace">"Questo collegamento non funzionerà perchè l'app clonata é stata disinstallata. Seleziona un collegamento diverso o clona una nuova app."</string>
+     <string name="function_open_error_content_xspace">"Questo collegamento non funzionerà perchè l'app é stata disinstallata. Seleziona un altro collegamento o clona una nuova app."</string>
      <string name="function_open_error_title">Impossibile aprire \"%s\"</string>
      <string name="function_qq_new_shuoshuo">Post</string>
      <string name="function_qq_recent">Amici</string>
@@ -520,7 +520,7 @@ Verifica il tuo numero di tracciabilità</string>
      <string name="greeting_alarm_desc_with_duration">La sveglia si disattiverà domani alle %1$s, vai al letto ora per dormire %2$s.</string>
      <string name="greeting_birth_desc">Oggi é il compleanno di %1$s</string>
      <string name="greeting_news_morning">Cosa é accaduto mentre dormivi?</string>
-     <string name="greeting_news_night">Oggi è stata una giornata piena di eventi.</string>
+     <string name="greeting_news_night">Oggi é stata una giornata piena di eventi.</string>
      <string name="greeting_no_alarm">Nessuna sveglia programmata, riposa tranquillamente!</string>
      <string name="greeting_no_schedule">Nessun evento per oggi.</string>
      <string name="greeting_open">Abilita saluti giornalieri</string>
@@ -561,7 +561,7 @@ Verifica il tuo numero di tracciabilità</string>
      <string name="launch_noapp_dialog_cancel">Annulla</string>
      <string name="launch_noapp_dialog_redownload">Scarica di nuovo</string>
      <string name="launch_noapp_dialog_replace">Sostituisci</string>
-     <string name="launch_noapp_dialog_title">"L'app è stata eliminata"</string>
+     <string name="launch_noapp_dialog_title">"L'app é stata eliminata"</string>
      <string name="launch_order_change">Cambia ordine</string>
      <string name="launch_order_finish">Eseguito</string>
      <string name="launch_setting_alipay_change">Cambia account</string>
@@ -628,8 +628,8 @@ Verifica il tuo numero di tracciabilità</string>
      <string name="miuishare_account_login_cancel">Annulla</string>
      <string name="miuishare_account_login_confirmation">Firma richiesta</string>
      <string name="miuishare_account_login_ok">Accedi</string>
-     <string name="miuishare_account_need_activate">"La condivisione Weibo richiede che il tuo account Weibo sia vincolato all'account Xiaomi, che attualmente non è attivo. Attivare il tuo account?"</string>
-     <string name="miuishare_account_need_login">"La condivisione di Weibo richiede che il tuo account Weibo sia vincolato all'account Xiaomi, che è ora firmato. Accedi per condividere ora?"</string>
+     <string name="miuishare_account_need_activate">"La condivisione Weibo richiede che il tuo account Weibo sia vincolato all'account Xiaomi, che attualmente non é attivo. Attivare il tuo account?"</string>
+     <string name="miuishare_account_need_login">"La condivisione di Weibo richiede che il tuo account Weibo sia vincolato all'account Xiaomi, che é ora firmato. Accedi per condividere ora?"</string>
      <string name="miuishare_app_name">Condivisione MIUI</string>
      <string name="miuishare_no_network">Nessuna rete per la condivisione</string>
      <string name="miuishare_publish">Invia</string>
@@ -653,7 +653,7 @@ Verifica il tuo numero di tracciabilità</string>
      <string name="more_express_numbers">Più numeri di corriere</string>
      <string name="msp_secure_key_at">a</string>
      <string name="music">Musica e radio</string>
-     <string name="music_card_error_str">"Si è verificato un errore, apri l'app Musica per riprodurre"</string>
+     <string name="music_card_error_str">"Si é verificato un errore, apri l'app Musica per riprodurre"</string>
      <string name="music_open">Mostra musica e scheda radio</string>
      <string name="music_setting_brief">"Inserisci le cuffie per continuare ad ascoltare l'ultimo brano riprodotto o la radio."</string>
      <string name="navigation_network_location_enable">"D'accordo"</string>
@@ -674,7 +674,7 @@ Verifica il tuo numero di tracciabilità</string>
      <string name="no_install">Non installato</string>
      <string name="no_more_result">Nessun altro elemento</string>
      <string name="no_settings">Non impostato</string>
-     <string name="not_install_c1">"Quest'applicazione non è installata sul tuo telefono. Scaricarla e installarla?"</string>
+     <string name="not_install_c1">"Quest'applicazione non é installata sul tuo telefono. Scaricarla e installarla?"</string>
      <string name="not_install_c3">Download</string>
      <string name="not_install_c4">No grazie</string>
      <string name="not_installed">Non installato</string>
@@ -873,8 +873,8 @@ Verifica il tuo numero di tracciabilità</string>
      <string name="setting_fav_remove_neg">Annulla</string>
      <string name="setting_fav_remove_posi">Limitazione</string>
      <string name="setting_fav_remove_title">Limita</string>
-     <string name="setting_fav_remove_toast_disable">"L'accesso ai preferiti è attivo"</string>
-     <string name="setting_fav_remove_toast_enable">"L'accesso ai preferiti è disattivato"</string>
+     <string name="setting_fav_remove_toast_disable">"L'accesso ai preferiti é attivo"</string>
+     <string name="setting_fav_remove_toast_enable">"L'accesso ai preferiti é disattivato"</string>
      <string name="setting_football_brief">Tutte le informazioni sulle tue squadre preferite</string>
      <string name="setting_football_brief_detail">Guarda le informazioni, impara i risultati e segui fino a 4 squadre di calcio.</string>
      <string name="setting_football_data">Fornitore contenuti</string>
@@ -945,7 +945,7 @@ Verifica il tuo numero di tracciabilità</string>
      <string name="steps_auto_misport">Abilita avvio automatico</string>
      <string name="steps_get_misport">Installa Mi Fit</string>
      <string name="steps_misport">Seleziona Mi Fit</string>
-     <string name="steps_misport_dialog_content">"Non hai installato Mi Fit. Per poter eseguire il contapassi è necessario scaricare ed installa l'applicazione."</string>
+     <string name="steps_misport_dialog_content">"Non hai installato Mi Fit. Per poter eseguire il contapassi é necessario scaricare ed installa l'applicazione."</string>
      <string name="steps_misport_dialog_title">Non hai ancora installato Mi Fit.</string>
      <string name="steps_misport_download">download</string>
      <string name="steps_misport_go">Consenti</string>
@@ -977,7 +977,7 @@ Verifica il tuo numero di tracciabilità</string>
      <string name="taxi_card_departure">Posizione attuale</string>
      <string name="taxi_local">Punto di partenza</string>
      <string name="taxi_open">Mostra scheda taxi</string>
-     <string name="taxi_setting_brief">"È necessario contattare un taxi in base al percorso prefissato, chiamalo con un tasto."</string>
+     <string name="taxi_setting_brief">"É necessario contattare un taxi in base al percorso prefissato, chiamalo con un tasto."</string>
      <string name="taxi_target">Destinazione     </string>
      <string name="time_just_now">Proprio ora</string>
      <string name="time_month">dd/MM</string>
@@ -1012,7 +1012,7 @@ Verifica il tuo numero di tracciabilità</string>
      <string name="walk">A piedi</string>
      <string name="weibo_name">Nuovo post</string>
      <string name="weibo_parent">Weibo</string>
-     <string name="which_transport">"Qual'è il tuo mezzo di trasporto preferito?"</string>
+     <string name="which_transport">"Qual'é il tuo mezzo di trasporto preferito?"</string>
      <string name="widget_fav">preferiti</string>
      <string name="widget_fav_open">Mostra carte preferite</string>
      <string name="widget_fav_setting_brief">Visualizza i tuoi dati preferiti.</string>
