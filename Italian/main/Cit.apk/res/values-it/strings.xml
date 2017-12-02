@@ -151,10 +151,10 @@ Impugna il dispositivo come se stessi chiamando e parla al microfono principale:
      <string name="cit_blue_tooth_scan_check_title">Test scansione Bluetooth</string>
      <string name="cit_blue_torch_on">LED blu del flash</string>
      <string name="cit_bluetooth_address_open_error">"Impossibile ottenere l'indirizzo Bluetooth. Si è verificato un errore durante la scansione."</string>
-     <string name="cit_bluetooth_logging_confirm_info">this Bluetooth Logging will collect your device Bluetooth protocal datas, only record current Bluetooth releated operations. Involve privacy information data will also be recorded: Bluetooth Phonebook Access/Telephone Call History/SMS/MMS/Exchanged Files/Music Meta Data etc. this data is limited to XiaoMi company internal debugging with users but not be used for other purposes.</string>
-     <string name="cit_bluetooth_logging_confirm_ng">Reject</string>
-     <string name="cit_bluetooth_logging_confirm_notify">Do you agree to enable logging?</string>
-     <string name="cit_bluetooth_logging_confirm_ok">Agree</string>
+     <string name="cit_bluetooth_logging_confirm_info">Questo accesso Bluetooth raccoglierà i dati sul protocollo Bluetooth, solo per le operazioni Bluetooth attuali. Verrano registrate anche informazioni sulla privacy: Accesso ai contatti Bluetooth/Cronologia chiamate/SMS/MMS/File scambiati/Dati sulla musica etc. Questi dati verranno trattati unicamente da  Xiaomi, internamente, per la risoluzione dei bug con gli utenti e per nessun altro utilizzo.</string>
+     <string name="cit_bluetooth_logging_confirm_ng">No</string>
+     <string name="cit_bluetooth_logging_confirm_notify">Consenti la la raccolta dei dati?</string>
+     <string name="cit_bluetooth_logging_confirm_ok">Sì</string>
      <string name="cit_bluetooth_logging_confirm_title">Bluetooth Logging Privacy Warning</string>
      <string name="cit_bluetooth_not_support">Questo dispositivo non supporta il Bluetooth</string>
      <string name="cit_bluetooth_scan_retry">Ripeti scansione</string>
@@ -163,7 +163,7 @@ Impugna il dispositivo come se stessi chiamando e parla al microfono principale:
      <string name="cit_bluetooth_scanning_bluetooth_error">Si è verificato un errore durante la scansione Bluetooth.</string>
      <string name="cit_bluetooth_scanning_opening_bluetooth">Scansione dispositivi Bluetooth…</string>
      <string name="cit_build_finger_failed">costruzione impronta FALLITO</string>
-     <string name="cit_build_finger_passed">construzione impronta PASSATO</string>
+     <string name="cit_build_finger_passed">costruzione impronta PASSATO</string>
      <string name="cit_button_light_off">Luce tasti spenta</string>
      <string name="cit_button_light_on">Luce tasti accesa</string>
      <string name="cit_calibration_fail">Calibrazione fallita</string>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="mibi_app_name">Mi Credit</string>
-     <string name="mibi_applock_config">"Can't set App lock while using Split screen."</string>
+     <string name="mibi_applock_config">Impossibile impostare App lock quando è in uso lo SPlit Screen.</string>
      <string name="mibi_applock_dialog_cancel">Non adesso</string>
      <string name="mibi_applock_dialog_content">A causa di un aggiornamento di sistema, la sequenza di sblocco attuale è scaduta. Imposta una nuova sequenza di blocco.</string>
      <string name="mibi_applock_dialog_ok">Imposta</string>
@@ -11,7 +11,7 @@
      <string name="mibi_bill_delete_dialog_title">Elimina %1$s</string>
      <string name="mibi_bill_delete_message">Eliminare “%1$s”?</string>
      <string name="mibi_bill_menu_delete_item">Elimina</string>
-     <string name="mibi_bill_record">Transactions</string>
+     <string name="mibi_bill_record">Transazioni</string>
      <string name="mibi_bill_record_empty">Nessun elemento.</string>
      <string name="mibi_btn_agree">OK</string>
      <string name="mibi_btn_back">Indietro</string>
@@ -26,7 +26,7 @@
      <string name="mibi_btn_recharge_large">Ricarica</string>
      <string name="mibi_btn_recharge_other">Ricarica</string>
      <string name="mibi_btn_recharge_success_quick">Ricarica completata</string>
-     <string name="mibi_business_title">Other services</string>
+     <string name="mibi_business_title">Altri servizi</string>
      <string name="mibi_button_bind_phone">Collega adesso</string>
      <string name="mibi_button_call">Chiama</string>
      <string name="mibi_button_cancel">Annulla</string>
@@ -40,7 +40,7 @@
      <string name="mibi_button_retry">Riprova</string>
      <string name="mibi_cancel">Annulla</string>
      <string name="mibi_change_security_lock">Altri blocco schermo</string>
-     <string name="mibi_check_giftcard">View coupons</string>
+     <string name="mibi_check_giftcard">Mostra coupon</string>
      <string name="mibi_click_retry">%1$s, tocca per riprovare</string>
      <string name="mibi_colon">": "</string>
      <string name="mibi_deduct_goods_name">Prodotto</string>
@@ -75,43 +75,43 @@
      <string name="mibi_direct_pay_novalid_method">Metodo di pagamento non valido.</string>
      <string name="mibi_direct_payment_title">Info ordine</string>
      <string name="mibi_enter_failed">Apertura fallita</string>
-     <string name="mibi_error_account_changed_summary">"Your account info has changed.
-Please log in again."</string>
-     <string name="mibi_error_account_changed_title">Account has changed</string>
-     <string name="mibi_error_account_throtting">"Your account is not safe.
-Please contact our customer service"</string>
-     <string name="mibi_error_auth_summary">Sign in to your Mi Account again</string>
-     <string name="mibi_error_cert_date_summary">"Certificate date error. 
-Please check your local date and try again."</string>
-     <string name="mibi_error_common_summary">System error. Please try again later.</string>
-     <string name="mibi_error_deduct">"Couldn't activate automatic payment protocol"</string>
-     <string name="mibi_error_expired_summary">Your order has expired</string>
+     <string name="mibi_error_account_changed_summary">"Le informazioni del tuo account sono cambiate.
+Accedi di nuovo."</string>
+     <string name="mibi_error_account_changed_title">Account modificato</string>
+     <string name="mibi_error_account_throtting">"Il tuo account non è sicuro.
+Contatta il nostro servizio clienti"</string>
+     <string name="mibi_error_auth_summary">Accedi di nuovo al tuo Mi Account</string>
+     <string name="mibi_error_cert_date_summary">"Errore nella data del certificato. 
+Controlla la tua data locale e riprova."</string>
+     <string name="mibi_error_common_summary">Errore di sistema. Riprova più tardi.</string>
+     <string name="mibi_error_deduct">Impossibile attivare il protocollo di pagamento automatico</string>
+     <string name="mibi_error_expired_summary">Il tuo ordine è scaduto</string>
      <string name="mibi_error_frozen_service_num">400-100-2234</string>
-     <string name="mibi_error_has_bought_summary">You have already purchased this product.</string>
-     <string name="mibi_error_illegal_order_summary">Order error. Please try again later</string>
-     <string name="mibi_error_invalid_device">Invalid device.</string>
-     <string name="mibi_error_mili_summary">Insufficient funds.</string>
-     <string name="mibi_error_network_summary">"Couldn't connect to network."</string>
-     <string name="mibi_error_no_available_channels">Sorry,no available channels currently.</string>
-     <string name="mibi_error_pay_result_uncertain">Pay result uncertain.</string>
-     <string name="mibi_error_recharge_process_fail">Recharge process fail.</string>
-     <string name="mibi_error_recharge_result_fail">Recharge result fail.</string>
-     <string name="mibi_error_recharge_result_uncertain">Recharge result uncertain.</string>
-     <string name="mibi_error_recharge_success_pay_fail">Recharge success pay fail.</string>
-     <string name="mibi_error_server_summary">Server error. Please try again later</string>
-     <string name="mibi_error_user_id_mismatch_summary">Please check and re-login your account</string>
-     <string name="mibi_error_web_summary">Server error</string>
+     <string name="mibi_error_has_bought_summary">Hai già acquistato questo prodotto.</string>
+     <string name="mibi_error_illegal_order_summary">Errore ordine. Riprova più tardi</string>
+     <string name="mibi_error_invalid_device">Dispositivo non valido.</string>
+     <string name="mibi_error_mili_summary">Saldo insufficiente.</string>
+     <string name="mibi_error_network_summary">Impossibile collegarsi alla rete.</string>
+     <string name="mibi_error_no_available_channels">Spiacenti, nessun canale disponibile in questo momento.</string>
+     <string name="mibi_error_pay_result_uncertain">Pagamento non sicuro.</string>
+     <string name="mibi_error_recharge_process_fail">Operazione di ricarica fallito.</string>
+     <string name="mibi_error_recharge_result_fail">Ricarica fallita.</string>
+     <string name="mibi_error_recharge_result_uncertain">Ricarica non sicura.</string>
+     <string name="mibi_error_recharge_success_pay_fail">Pagamento ricarica fallito.</string>
+     <string name="mibi_error_server_summary">Errore del server. Riprova più tardi</string>
+     <string name="mibi_error_user_id_mismatch_summary">Controlla ed accedi di nuovo al tuo account</string>
+     <string name="mibi_error_web_summary">Errore del server</string>
      <string name="mibi_fee">%1$s Mi Credit</string>
-     <string name="mibi_forget_password"><u>Forgot password</u></string>
+     <string name="mibi_forget_password"><u>Password dimenticata</u></string>
      <string name="mibi_format_bill_date">d/M/yyyy</string>
      <string name="mibi_format_date">dd. MMM, yyyy</string>
      <string name="mibi_format_time">dd MMM, yyyy hh:mmaa</string>
-     <string name="mibi_frozen">Frozen</string>
-     <string name="mibi_frozen_prim">Account frozen</string>
-     <string name="mibi_frozen_sub">Abnormal activity detected</string>
-     <string name="mibi_frozen_text">&lt;Data&gt;Your account is frozen. &amp;lt;font color=#33aaff&amp;gt;Contact our customer support.&amp;lt;/font&amp;gt;&lt;/Data&gt;</string>
-     <string name="mibi_frozen_text_pad">Your account is frozen. Contact 400–100–3399.</string>
-     <string name="mibi_get_phone_format_error">Verify phone number</string>
+     <string name="mibi_frozen">Bloccato</string>
+     <string name="mibi_frozen_prim">Account bloccato</string>
+     <string name="mibi_frozen_sub">"E' stata rilevata un'attività sospetta"</string>
+     <string name="mibi_frozen_text">IL tuo account è stato bloccato. Contatta il nostro servizio di assistenza</string>
+     <string name="mibi_frozen_text_pad">Il tuo account è bloccato. Contatta 400–100–3399.</string>
+     <string name="mibi_get_phone_format_error">Verifica il numero di telefono</string>
      <string name="mibi_get_phone_num_prefix">+86</string>
      <string name="mibi_get_phone_num_summary">Enter the phone number used for payments</string>
      <string name="mibi_get_phone_num_title">Enter phone number</string>
@@ -144,17 +144,17 @@ Please check your local date and try again."</string>
      <string name="mibi_license_message_span">Mi Credit User Agreement</string>
      <string name="mibi_license_title">Terms and conditions</string>
      <string name="mibi_list_item_bottom_hint">"You've reached the bottom of this list"</string>
-     <string name="mibi_login">Login</string>
-     <string name="mibi_memu_refresh">Refresh</string>
+     <string name="mibi_login">Accedi</string>
+     <string name="mibi_memu_refresh">Aggiorna</string>
      <string name="mibi_menu_feedback">Feedback</string>
-     <string name="mibi_menu_lock">Pattern lock</string>
+     <string name="mibi_menu_lock">Sequenza di sblocco</string>
      <string name="mibi_menu_qa">FAQ</string>
-     <string name="mibi_menu_shotcut">Place on Home screen</string>
+     <string name="mibi_menu_shotcut">Posiziona in Home</string>
      <string name="mibi_mili_center">Mi Credit</string>
      <string name="mibi_milicenter_title">Mi Credit</string>
-     <string name="mibi_mipay_error">Mipay failed</string>
+     <string name="mibi_mipay_error">Mipay fallito</string>
      <string name="mibi_msg_denomination_type">Mi Credit</string>
-     <string name="mibi_msg_error">Top-up failed</string>
+     <string name="mibi_msg_error">Ricarica fallita</string>
      <string name="mibi_msg_order_hint_1_1">After you touch Confirm purchase, your phone will</string>
      <string name="mibi_msg_order_hint_1_2">Automatically contact your service provider.</string>
      <string name="mibi_msg_picker_hint_1_1">1.</string>
