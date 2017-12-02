@@ -801,7 +801,7 @@ Check your tracking number."</string>
      <string name="qq_new">Nuovo stato</string>
      <string name="qq_qzone">Qzone</string>
      <string name="quickstart_accessibility_description">Il servizio di Smart Assistant serve per fornire un supporto alle applicazioni di terzi, disattivandolo il servizio non funzionerà correttamente.</string>
-     <string name="quickstart_accessibility_dialog_confirm">Turn on</string>
+     <string name="quickstart_accessibility_dialog_confirm">Abilita</string>
      <string name="quickstart_accessibility_dialog_content">Questa scorciatoia richiede l'abilitazione dell'accessibilità."</string>
      <string name="quickstart_accessibility_dialog_title">Abilita accessibilità</string>
      <string name="quickstart_accessibility_service">Smart Assistant</string>
