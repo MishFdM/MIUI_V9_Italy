@@ -35,6 +35,7 @@
      <string name="action_menu_text_copy_url">Copia URL</string>
      <string name="action_menu_text_create_qr_code">Codice QR</string>
      <string name="action_menu_text_download">Download</string>
+     <string name="action_menu_text_drop">Esci dal menu</string>
      <string name="action_menu_text_exit">Esci</string>
      <string name="action_menu_text_find_in_page">Trova nella pagina</string>
      <string name="action_menu_text_fullscreen">Schermo intero</string>
@@ -114,6 +115,7 @@
      <string name="bookmark_cannot_save_url">"L'URL non può essere aggiunto ai segnalibri."</string>
      <string name="bookmark_folder_needs_title">Inserisci il nome della cartella</string>
      <string name="bookmark_group_lable">Gruppo</string>
+     <string name="bookmark_move_to">Sposta in</string>
      <string name="bookmark_needs_title">Inserisci un nome per il segnalibro.</string>
      <string name="bookmark_needs_url">Il segnalibro deve avere una posizione.</string>
      <string name="bookmark_not_saved">Impossibile salvare il segnalibro.</string>
@@ -140,6 +142,8 @@
      <string name="cancel">Annulla</string>
      <string name="cancle_sync_cloud_tabs">Annulla sincronizzazione</string>
      <string name="cannot_download">È possibile scaricare soltanto URL \"http\" o \"https\".</string>
+     <string name="check_security_tip_privacy_policy">Informativa Privacy</string>
+     <string name="check_security_tip_user_agreement">Accordo Utente</string>
      <string name="choosertitle_sharevia">Condividi tramite</string>
      <string name="clear_history">Cancella cronologia</string>
      <string name="clear_most_visited">Mantieni cronologia</string>
@@ -158,6 +162,7 @@
      <string name="cloud_sync_closed_toast">Impossibile aggiornare perché la sincronizzazione è disattivata</string>
      <string name="cloud_sync_failed_toast">Impossibile aggiornare</string>
      <string name="cloud_tab">Chiudi schede</string>
+     <string name="cloud_tabs_sync_off">Sincronizzazione disattivata</string>
      <string name="cloud_time_tips">Ultima sincronizzazione</string>
      <string name="cloud_up_to_loading_tips">Rilascia per sincronizzare</string>
      <string name="color_picker_button_black">Nero</string>
@@ -210,8 +215,6 @@
      <string name="current_version_phone">Telefono</string>
      <string name="custom_head_card_text">"Pensa sempre che qualcosa di stupendo
 stia per accadere"</string>
-     <string name="custom_head_card_text_incognito">"Solo tu conosci questa
-finestra riservata​"</string>
      <string name="data_traffic_prompt_change">"L'utilizzo della rete dati mobile per la visione dei video aumenterà il consumo dei dati. Se superi il limite del tuo piano dati, il tuo operatore potrebbe addebitarti costi aggiuntivi."</string>
      <string name="data_traffic_prompt_message">"L'utilizzo della rete dati mobile per la navigazione aumenterà il consumo dei dati. Se superi il limite del tuo piano dati, il tuo operatore potrebbe addebitarti costi aggiuntivi."</string>
      <string name="data_traffic_prompt_message_short">"L'utilizzo dello streaming video su rete dati mobile potrebbe causare il superamento della soglia prevista dal tuo piano dati."</string>
@@ -223,6 +226,7 @@ finestra riservata​"</string>
      <string name="date_time_picker_dialog_title">Imposta ora e data</string>
      <string name="delete">Elimina</string>
      <string name="delete_bookmark">Elimina</string>
+     <string name="delete_bookmark_action_warning">Eliminare segnalibri?</string>
      <string name="delete_bookmark_group_warning">Cancellare \"%s\"? Verranno cancellati tutti i segnalibri in questo gruppo.</string>
      <string name="delete_bookmark_warning">Eliminare il segnalibro \"%s\"?</string>
      <string name="delete_download">Elimina</string>
@@ -342,6 +346,7 @@ per vedere qui le schede cloud aperte su altri dispositivi"</string>
      <string name="geolocation_settings_page_summary_allowed">Al momento questo sito può accedere alla tua posizione</string>
      <string name="geolocation_settings_page_summary_not_allowed">Al momento questo sito non può accedere alla tua posizione</string>
      <string name="geolocation_settings_page_title">Cancella accesso a posizione</string>
+     <string name="go_back_descirption">Indietro</string>
      <string name="go_supermarket_button">Vai</string>
      <string name="go_supermarket_title">"Altre app, maggiore velocità e riduzione dell'utilizzo dati nell'App Store"</string>
      <string name="gold_medals">"Medaglie d'oro"</string>
@@ -358,7 +363,6 @@ per vedere qui le schede cloud aperte su altri dispositivi"</string>
      <string name="homepage_search_hint">Cerca</string>
      <string name="homepage_top_card_menu">In cima</string>
      <string name="ignore_add_pwa_dialog_today">Non mostrare oggi</string>
-     <string name="in_incognito">"Ora sei in incognito! Le pagine web che visualizzi in questa scheda non appariranno nella cronologia del browser."</string>
      <string name="in_secureaccess">Browser passato in modalità provvisoria</string>
      <string name="isReplacePage">File già esistente, sostituire?</string>
      <string name="is_first_history_item">Questa è la prima voce in cronologia</string>
@@ -454,39 +458,35 @@ Sei sicuro di voler abbandonare questa pagina?"</string>
      <string name="miuichromium_error_page_problem_access_denied">"L'accesso a %s0 è stato negato"</string>
      <string name="miuichromium_error_page_problem_cache_miss">Questa pagina no può essere caricata dalla cache</string>
      <string name="miuichromium_error_page_problem_cannot_open_page">La pagina non può essere aperta</string>
-     <string name="miuichromium_error_page_problem_cannot_reach_site">Il sito non è raggiungibile</string>
-     <string name="miuichromium_error_page_problem_connection_interrupted">La connessione è stata interrotta</string>
-     <string name="miuichromium_error_page_problem_file_not_found">Impossibile trovare il file</string>
+     <string name="miuichromium_error_page_problem_cannot_open_page_reason_blocked_by_response">La pagina non può essere aperta. Accesso bloccato da %s0.</string>
+     <string name="miuichromium_error_page_problem_cannot_open_page_reason_connection_closed">La pagina non può essere aperta. %s0 ha interrotto la connessione.</string>
+     <string name="miuichromium_error_page_problem_cannot_open_page_reason_connection_refused">La pagina non può essere aperta. %s0 ha rifiutato la connessione.</string>
+     <string name="miuichromium_error_page_problem_cannot_open_page_reason_connection_reset">La pagina non può essere aperta. Connessione annullata.</string>
+     <string name="miuichromium_error_page_problem_cannot_open_page_reason_invalid_url">"La pagina non può essere aperta perché l'URL non è valido."</string>
+     <string name="miuichromium_error_page_problem_cannot_open_page_reason_site_unreachable">La pagina non può essere aperta. %s0 non è raggiungibile in questo momento.</string>
+     <string name="miuichromium_error_page_problem_cannot_open_page_reason_unsafe_redirect">La pagina non può essere aperta. %s0 sta eseguendo un redirect non sicuro.</string>
+     <string name="miuichromium_error_page_problem_cannot_reach_site_reason_name_collision">Questo sito non può essere raggiunto. Questo sito nella intranet ha lo stesso URL di un sito esterno.</string>
+     <string name="miuichromium_error_page_problem_cannot_reach_site_reason_name_not_resolved">Il sito non può essere raggiunto. Impossibile trovare l'indirizzo DNS per %s0.</string>
+     <string name="miuichromium_error_page_problem_cannot_reach_site_reason_reason_invalid_address">Il sito non può essere raggiunto. Indirizzo IP o numero porta non valido.</string>
+     <string name="miuichromium_error_page_problem_cannot_reach_site_reason_timed_out">Il sito non può essere raggiunto. %s0 on ha risposto per troppo tempo.</string>
+     <string name="miuichromium_error_page_problem_cannot_reach_site_reason_unsafe_port">Il sito non può essere raggiunto. %s0 sta usando una porta non sicura.</string>
+     <string name="miuichromium_error_page_problem_connection_interrupted_reason_device_slept">La connessione è stata interrotta quando il dispositivo è andato in sospensione.</string>
+     <string name="miuichromium_error_page_problem_connection_interrupted_reason_network_changed">La connessione è stata interrotta a causa di un cambio di rete.</string>
+     <string name="miuichromium_error_page_problem_file_not_found_reason_moved_or_deleted">"Impossibile trovare il file. POtrebbeessere stato spostato o eliminato."</string>
      <string name="miuichromium_error_page_problem_gateway_timed_out">%s0 ha impiegato troppo per rispondere</string>
      <string name="miuichromium_error_page_problem_network_access_denied">Accesso di rete limitato</string>
-     <string name="miuichromium_error_page_problem_no_internet_connection">Impossibile collegarsi a Internet"</string>
+     <string name="miuichromium_error_page_problem_no_internet_connection_reason_proxy_error">"Impossibile collegarsi ad Internet. Si è verificato un problema con il server proxy, o l'indirizzo del proxy non è corretto."</string>
      <string name="miuichromium_error_page_problem_page_moved">La pagina %s0 potrebbe essere stata spostata o eliminata</string>
      <string name="miuichromium_error_page_problem_page_not_found">Impossibile trovare questa pagina su %s0</string>
-     <string name="miuichromium_error_page_problem_page_not_working">Questa pagina non funziona</string>
-     <string name="miuichromium_error_page_problem_security_error">Il sito non fornisce una connessione sicura</string>
+     <string name="miuichromium_error_page_problem_page_not_working_reason_connection_closed">Questa pagina non funziona. %s0 ha interrotto la connessione.</string>
+     <string name="miuichromium_error_page_problem_page_not_working_reason_empty_response">Questa pagina non funziona perché %s0 non ha inviato alcun dato.</string>
+     <string name="miuichromium_error_page_problem_page_not_working_reason_invalid_response">Questa pagina non funziona perché %s0 ha inviato una risposta non valida.</string>
+     <string name="miuichromium_error_page_problem_page_not_working_reason_too_many_redirects">"Questa pagina non funziona perché %s0 ha eseguito troppi redirect.</string>
+     <string name="miuichromium_error_page_problem_security_error_reason_bad_client_cert">Questo sito non consente una connessione sicura perché %s0 non accetta il tuo certificato.</string>
+     <string name="miuichromium_error_page_problem_security_error_reason_bad_server_cert">Questo sito non consente una connessione sicura perché %s0 non rispetta gli standard di sicurezza.</string>
+     <string name="miuichromium_error_page_problem_security_error_reason_invalid_response">Questo sito non consente una connessione sicura perché %s0 ha inviato una risposta non valida.</string>
+     <string name="miuichromium_error_page_problem_security_error_reason_unsupported_protocol">Questo sito non consente una connessione sicura perché %s0 us aun protocollo non supportato.</string>
      <string name="miuichromium_error_page_problem_server_fault">%s0 non p in gradi di soddisfare la richiesta</string>
-     <string name="miuichromium_error_page_reason_bad_client_cert">" perché %s0 non accetta il tuo certificato"</string>
-     <string name="miuichromium_error_page_reason_bad_server_cert">". %s0 non è in linea con gli standard di sicurezza"</string>
-     <string name="miuichromium_error_page_reason_blocked_by_response">. Accesso bloccato da %s0</string>
-     <string name="miuichromium_error_page_reason_connection_closed">. %s0 connessione interrotta</string>
-     <string name="miuichromium_error_page_reason_connection_refused">. %s0 si rifiuta di collegarsi</string>
-     <string name="miuichromium_error_page_reason_connection_reset">. Connessione annullata</string>
-     <string name="miuichromium_error_page_reason_device_slept">" quanto il dispositivo si disattiva"</string>
-     <string name="miuichromium_error_page_reason_empty_response">" perché %s0 non ha inviato nessun dato"</string>
-     <string name="miuichromium_error_page_reason_invalid_address">. indirizzo IP o porta non validi</string>
-     <string name="miuichromium_error_page_reason_invalid_response">" perché %s0 ha inviato una risposta non valida"</string>
-     <string name="miuichromium_error_page_reason_invalid_url">" perché la URL non è valida"</string>
-     <string name="miuichromium_error_page_reason_moved_or_deleted">. Potrebbe essere stata spostata o eliminata</string>
-     <string name="miuichromium_error_page_reason_name_collision">. Questo sito della intranet ha lo stesso URL di un sito esterno</string>
-     <string name="miuichromium_error_page_reason_name_not_resolved">". Impossibile trovare l'indirizzo DNS per %s0"</string>
-     <string name="miuichromium_error_page_reason_network_changed">" a causa di una modifica della rete"</string>
-     <string name="miuichromium_error_page_reason_proxy_error">. Qualcosa non funziona con il server proxy, o indirizzo proxy non corretto</string>
-     <string name="miuichromium_error_page_reason_site_unreachable">. %s0 non è attualmente raggiungibile</string>
-     <string name="miuichromium_error_page_reason_timed_out">". %s0 non risponde da troppo tempo"</string>
-     <string name="miuichromium_error_page_reason_too_many_redirects">" perché %s0 ti ha rediretto troppe volte"</string>
-     <string name="miuichromium_error_page_reason_unsafe_port">. %s0 sta utilizzando una porta non sicura</string>
-     <string name="miuichromium_error_page_reason_unsafe_redirect">. %s0 sta reindirizzando in modo non sicuro</string>
-     <string name="miuichromium_error_page_reason_unsupported_protocol">. %s0 utilizza un protocollo non supportato</string>
      <string name="miuichromium_error_page_reload">Ricarica</string>
      <string name="miuichromium_error_page_safe_network">Modalità provvisoria</string>
      <string name="miuichromium_error_page_server_error">Troppi tentativi di connessione</string>
@@ -529,9 +529,13 @@ Sei sicuro di voler abbandonare questa pagina?"</string>
      <string name="more_option">Altre opzioni</string>
      <string name="nav_bottom_bar_back">Indietro</string>
      <string name="nav_bottom_bar_close_all">Chiudi tutto</string>
+     <string name="nav_bottom_bar_close_description">Chiudi</string>
      <string name="nav_bottom_bar_new_tab">Nuova scheda</string>
      <string name="nav_screen_container_tab_incognito">Scheda incognito</string>
      <string name="nav_screen_container_tab_normal">Scheda normale</string>
+     <string name="nav_screen_incognito_message">"La cronologia di navigazione e ricerca non verrà salvata in modalità Incognito.
+Ricorda che i file scaricati e i segnalibri che aggiungi verranno salvati comunque."</string>
+     <string name="nav_screen_incognito_title">Modalità incognito</string>
      <string name="navigationbar_rightbutton_actiontext_cancle">Annulla</string>
      <string name="navigationbar_rightbutton_actiontext_go">Vai</string>
      <string name="navigationbar_rightbutton_actiontext_search">Cerca</string>
@@ -786,18 +790,25 @@ Sei sicuro di voler abbandonare questa pagina?"</string>
      <string name="send_comment_title">commenti</string>
      <string name="senddesktop">Home</string>
      <string name="sendstartpage">Pagina iniziale</string>
+     <string name="sequence_bookmark_description">Modifica la sequenza dei segnalibri</string>
      <string name="share_image_text">Sto guardando una foto bellissima</string>
      <string name="share_page_text">"Mi sto godendo %1$s | %2$s"</string>
-     <string name="show_check_security_url_check_tip_dialog_description">"L'indirizzo di questo sito verrà inviato ai server Xiaomi per verificarne la sicurezza. Puoi disattivare questa funzione nelle Impostazioni."</string>
-     <string name="show_check_security_url_check_tip_dialog_description_international">Per ricevere suggerimenti mirati, consenti al Browser di accedere a questi elementi:</string>
+     <string name="show_check_security_url_check_tip_dialog_description">"Raccoglieremo ed utilizzeremo i tuoi dati personali se scegli di utilizzare il nostro servizio.
+Questi sono i dati che raccoglieremo:
+1. URL sicuri: raccoglieremo gli URL dei siti che visiti mentre utilizzi il nostro servizio.
+2. Dati sulla posizione: avremo accesso ai dati sulla tua posizione.
+Utilizzeremo i dati in questo modo:
+1. Sicurezza: utilizziamo i tuoi dati per proteggere il tuo dispositivo da truffe e virus, oltre che per motivi di archiviazione e backup.
+2. Contenuto: i tuoi dati ci aiutano a fornire contenuti delle news personalizzate.
+Per navigare correttamente devi essere collegato ad Internet. Per poter utilizzare il Browser devi accettare %2$s e %1$s.​"</string>
      <string name="show_security_tip_dialog_title">Termini del Servizio</string>
-     <string name="show_weather_location_getter_tip_dialog_description">I servizi Meteo hanno bisogno delle informazioni sulla tua posizione per fornire dati aggiornati nel browser. Puoi disattivare questa funzione nelle Impostazioni.</string>
      <string name="sign_in_to" formatted="false">Accedi a %s1 \"%s2\"</string>
      <string name="skip_button_label">Salta</string>
      <string name="skip_current_version">Salta questa versione</string>
-     <string name="snapshot">Local</string>
+     <string name="snapshot">Locale</string>
      <string name="snapshot_failed">Salvataggio per lettura offline non riuscito.</string>
      <string name="snapshot_successed">Salvataggio per lettura offline riuscito.</string>
+     <string name="soft_toast_see_view">Mostra</string>
      <string name="ssl_bad_clock_date_settings">Impostazioni data</string>
      <string name="ssl_bad_clock_warning" formatted="false">On può essere stabilita una connessione privata con %s1 perché data e orario (%s2) del tuo dispositivo non sono corrette.</string>
      <string name="ssl_certificate">Certificato di sicurezza</string>
@@ -834,7 +845,7 @@ Sei sicuro di voler abbandonare questa pagina?"</string>
      <string name="suggest_access_item_singer_pop">%d brani popolari</string>
      <string name="suggest_access_item_site_mark">SITES</string>
      <string name="suggest_access_item_video_mark">VIDEO</string>
-     <string name="suggest_access_item_website_mark">WEBSITE</string>
+     <string name="suggest_access_item_yellow_mark">PAGINE GIALLE</string>
      <string name="suggest_access_music">Mi Music</string>
      <string name="suggest_item_delete_text">Elimina</string>
      <string name="suggest_open_app_failed">Nonè stato possibile aprire questa app</string>
@@ -859,6 +870,8 @@ Sei sicuro di voler abbandonare questa pagina?"</string>
      <string name="title_bar_loading">Caricamento…</string>
      <string name="too_many_windows_dialog_message">Impossibile aprire una nuova scheda finché non se ne chiude una.</string>
      <string name="too_many_windows_dialog_title">Limite schede raggiunto</string>
+     <string name="transfer_prompt_0">Avvia video</string>
+     <string name="transfer_restart">Riavvia</string>
      <string name="unSwitchText">NO</string>
      <string name="undo">Annulla</string>
      <string name="unknown_title">Sconosciuto</string>
@@ -903,6 +916,7 @@ Sei sicuro di voler abbandonare questa pagina?"</string>
      <string name="video_buffering_percent_string">Caricamento</string>
      <string name="video_collect_cancel">Annulla acquisizione</string>
      <string name="video_collect_success">Video aggiunto con successo</string>
+     <string name="video_doenload_complete">Video scaricato correttamente</string>
      <string name="video_download_complete">Download video completato</string>
      <string name="video_download_empty">Cache video vuota</string>
      <string name="video_download_error">Errore</string>
@@ -939,6 +953,7 @@ Sei sicuro di voler abbandonare questa pagina?"</string>
      <string name="video_push_multi_message">Ci sono %1$d aggiornamenti</string>
      <string name="video_push_multi_title">Ci sono nuovi aggiornamenti</string>
      <string name="video_push_single_message">Aggiornato a %1$d</string>
+     <string name="video_service_notification_title">Playing pop-up video</string>
      <string name="video_subtitle_last_message1">Resta meno di un minuto</string>
      <string name="video_subtitle_prefix1">Visto</string>
      <string name="video_subtitle_prefix2">"Visto "</string>

@@ -56,12 +56,15 @@
      <string name="feedback_bug_status_change_notification_desc">%1$s problema \"%2$s\"</string>
      <string name="feedback_choose_module">Seleziona elemento</string>
      <string name="feedback_choose_module_hint">Necessari</string>
+     <string name="feedback_choose_reproductivity">Frequenza</string>
+     <string name="feedback_choose_third_app_name">Seleziona nome app</string>
      <string name="feedback_collect_log_failed">Impossibile recuperare log</string>
      <string name="feedback_contact_info_hint">Telefono / Email</string>
      <string name="feedback_continue">Continua con il feedback</string>
      <string name="feedback_delete_images">Elimina immagini</string>
      <string name="feedback_description">Descrizione</string>
      <string name="feedback_description_bugreport_hint">In alcuni casi () il telefono da problemi ().</string>
+     <string name="feedback_description_hint">Descrivi il problema che hai incontrato</string>
      <string name="feedback_description_label">Descrizione</string>
      <string name="feedback_description_suggest_hint">Mi piacerebbe che aggiungeste una nuova funzione () perché vorrei ()."</string>
      <string name="feedback_detail_tile">Avanzamento</string>
@@ -94,6 +97,7 @@
      <string name="feedback_status_recorded">Feedback ricevuto</string>
      <string name="feedback_status_replyed">Risposto</string>
      <string name="feedback_status_reresolved">Risolto</string>
+     <string name="feedback_status_submit_attachment">Allegato inviato correttamente</string>
      <string name="feedback_status_supplement">Descrivi i dettagli del tuo problema</string>
      <string name="feedback_status_supplement_more">Aggiungi un commento</string>
      <string name="feedback_submit_failed_notification_desc">Mostra dettagli</string>
@@ -110,6 +114,7 @@
      <string name="feedback_third_packagename_hint">Quale app di terze parti causa problemi?</string>
      <string name="feedback_title">Titolo</string>
      <string name="feedback_title_hint">Descrivi brevemente il problema</string>
+     <string name="feedback_title_reproductivity">Indica la frequenza</string>
      <string name="feedback_tracking">Segui le segnalazioni</string>
      <string name="feedback_version_label">Versione</string>
      <string name="feesback_list">Segnalazioni</string>
@@ -253,6 +258,7 @@
      <string name="section_description">Descrizione</string>
      <string name="section_err_type">Tipologia Feedback</string>
      <string name="section_screenshot">Screenshot</string>
+     <string name="select_system_app_tag">Seleziona tag</string>
      <string name="submit_dialog_cancel">Annulla</string>
      <string name="submit_dialog_confirm">Invia</string>
      <string name="submit_dialog_content">Il tuo feedback, insieme al log di errore e alle immagini allegate, verrà inviato ai server Xiaomi.</string>
@@ -282,6 +288,7 @@
      <string name="toast_feedbackservice_in_submit">Invio feedback precedente…</string>
      <string name="toast_fill_brackets">Si prega di compilare i campi</string>
      <string name="toast_log_not_exists">Il log richiesto è stato eliminato o non esiste</string>
+     <string name="toast_log_too_large">"Can't upload. The file is too big."</string>
      <string name="toast_module_required">Seleziona elemento</string>
      <string name="toast_network_unavailable">Impossibile inviare. Impossibile connettersi alla rete.</string>
      <string name="toast_pending_log_collection">Registrazione log, si prega di attendere</string>

@@ -68,7 +68,7 @@
      <string name="category_file">File</string>
      <string name="category_files">File</string>
      <string name="category_installed_app">App installate</string>
-     <string name="category_midrive">KuaiPan</string>
+     <string name="category_midrive">Mi Drive</string>
      <string name="category_music">Musica</string>
      <string name="category_other">Altro</string>
      <string name="category_photo">Foto</string>
@@ -162,7 +162,6 @@
      <string name="dialog_type_image">Immagine</string>
      <string name="dialog_type_text">Testo</string>
      <string name="dialog_type_video">Video</string>
-     <string name="directory_info_divider">"  |  "</string>
      <string name="disk_available">Disponibile:</string>
      <string name="disk_total">Totale:</string>
      <string name="dislike_toast">Questi video non ti verranno consigliati.</string>
@@ -313,11 +312,9 @@
      <string name="message_comment_prefix">Commento:</string>
      <string name="message_my_received_notification">Nuovo messaggio</string>
      <string name="message_my_received_praise">Mi piace ricevuti</string>
-     <string name="message_my_received_praise_count">+%1$s</string>
      <string name="message_praise_comment">Ti piace questo commento</string>
      <string name="message_praise_video">Ti piace questo video</string>
      <string name="message_reply_prefix">Rispondi</string>
-     <string name="message_reply_suffix">:</string>
      <string name="mi_router_label">Mi Router</string>
      <string name="midrop_msg_1">Attiva Mi Drop su altri dispositivi</string>
      <string name="midrop_msg_2">Quando Mi Drop è attivo, puoi cercare dispositivi vicini ed inviare file</string>

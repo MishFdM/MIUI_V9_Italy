@@ -16,6 +16,14 @@
         <item quantity="other">%1$d di %2$d</item>
         <item quantity="one">1 risultato</item>
      </plurals>
+     <plurals name="nav_screen_incognito_time">
+        <item quantity="other">Dopo %d secondi verrà creata automaticamente una nuova pagina</item>
+        <item quantity="one">Dopo %d secondo verrà creata automaticamente una nuova pagina</item>
+     </plurals>
+     <plurals name="transfer_prompt">
+        <item quantity="other">Avvia video tra %1$d secondi</item>
+        <item quantity="one">Avvia video tra %1$d secondo</item>
+     </plurals>
      <plurals name="v5_edit_mode_title">
         <item quantity="other">%1$d selezionati</item>
         <item quantity="one">%1$d selezionato</item>

@@ -8,6 +8,7 @@
      <string name="ble_device_rename">Rinomina</string>
      <string name="bluetooth_connected">Abbinato</string>
      <string name="bluetooth_connecting">Abbinamento…</string>
+     <string name="bluetooth_device_context_unpair">Dissocia</string>
      <string name="bluetooth_disconnected">Dissociato</string>
      <string name="bluetooth_disconnecting">Dissociazione…</string>
      <string name="bluetooth_preference_connected_devices">Dispositivi salvati</string>
