@@ -14,8 +14,8 @@
         <item quantity="one">%d artista</item>
      </plurals>
      <plurals name="Nassociate_songs">
-        <item quantity="other">Matching album and lyric (%1$d/%2$d songs)</item>
-        <item quantity="one">Matching album and lyric (%1$d/%2$d song)</item>
+        <item quantity="other">Associazione album e testi (%1$d/%2$d brani)</item>
+        <item quantity="one">Associazione album e testi (%1$d/%2$d brano)</item>
      </plurals>
      <plurals name="Nbackup_songs">
         <item quantity="other">Backup dei brani, %1$d rimanenti (%2$.1fMB)</item>
@@ -37,8 +37,8 @@
         <item quantity="one">La riproduzione terminerà tra %d minuto</item>
      </plurals>
      <plurals name="Nrecognize_switch_off_alert_message">
-        <item quantity="other">Has shutdown optimize album and lyric. Do you want to revert optimized info, album and lyric of %d songs?</item>
-        <item quantity="one">Has shutdown optimize album and lyric. Do you want to revert optimized info, album and lyric of %d song?</item>
+        <item quantity="other">"Associazione album e testi interrotta. Vuoi annullare l'ottimizzazione delle informazioni album e testi per %d brani?"</item>
+        <item quantity="one">"Associazione album e testi interrotta. Vuoi annullare l'ottimizzazione delle informazioni album e testi per %d brano?"</item>
      </plurals>
      <plurals name="Nsong_group_detail_subtitle">
         <item quantity="other">Creato il %1$s | totale %2$d brani</item>
@@ -134,7 +134,7 @@
         <item quantity="one">Brano aggiunto ai Preferiti.</item>
      </plurals>
      <plurals name="songs_count">
-        <item quantity="other">%dsongs</item>
-        <item quantity="one">%d song</item>
+        <item quantity="other">%d brani</item>
+        <item quantity="one">%d brano</item>
      </plurals>
 </resources>

@@ -56,7 +56,7 @@
      <string name="feedback_bug_status_change_notification_desc">%1$s problema \"%2$s\"</string>
      <string name="feedback_choose_module">Seleziona elemento</string>
      <string name="feedback_choose_module_hint">Necessari</string>
-     <string name="feedback_choose_reproductivity">Reproductivity</string>
+     <string name="feedback_choose_reproductivity">Frequenza</string>
      <string name="feedback_choose_third_app_name">Seleziona nome app</string>
      <string name="feedback_collect_log_failed">Impossibile recuperare log</string>
      <string name="feedback_contact_info_hint">Telefono / Email</string>
@@ -114,7 +114,7 @@
      <string name="feedback_third_packagename_hint">Quale app di terze parti causa problemi?</string>
      <string name="feedback_title">Titolo</string>
      <string name="feedback_title_hint">Descrivi brevemente il problema</string>
-     <string name="feedback_title_reproductivity">Select reproductivity</string>
+     <string name="feedback_title_reproductivity">Indica la frequenza</string>
      <string name="feedback_tracking">Segui le segnalazioni</string>
      <string name="feedback_version_label">Versione</string>
      <string name="feesback_list">Segnalazioni</string>

@@ -121,7 +121,7 @@
      <string name="mark_number_feedback_success">Feedback inviato, il numero verrà verificato.</string>
      <string name="mark_number_marked_maintitle">Modifica</string>
      <string name="mark_number_marked_subtitle">Etichettato come %s</string>
-     <string name="mark_number_notification_title">Report suspicious number</string>
+     <string name="mark_number_notification_title">Segnala numero sospetto</string>
      <string name="mark_number_remove">Rimuovi etichetta</string>
      <string name="mark_title_null_hint">Il valore non può essere vuoto</string>
      <string name="menu_add_black_list">Aggiungi alla blacklist</string>

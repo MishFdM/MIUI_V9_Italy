@@ -15,7 +15,7 @@
      <string name="account_error_longer_user_name">Il nome non può superare i 20 caratteri</string>
      <string name="account_error_shorter_user_name">Il nome deve essere più lungo di 2 caratteri</string>
      <string name="account_error_user_birthday">La data di compleanno indicata non è valida</string>
-     <string name="account_global_region">Overseas</string>
+     <string name="account_global_region">Stranieri</string>
      <string name="account_has_been_set">Modifica</string>
      <string name="account_limit_update_birthday">Siamo spiacenti, non possiamo elaborare la richiesta in questo momento.</string>
      <string name="account_mibi_center">Mi Credit</string>

@@ -9,8 +9,8 @@
         <item quantity="one">%d file dati di sistema</item>
      </plurals>
      <plurals name="custom_progress">
-        <item quantity="other">%d items</item>
-        <item quantity="one">%d item</item>
+        <item quantity="other">%d elementi</item>
+        <item quantity="one">%d elemento</item>
      </plurals>
      <plurals name="data_item_count">
         <item quantity="other">%d elementi</item>
@@ -41,8 +41,8 @@
         <item quantity="one">%1$s | %2$d elemento</item>
      </plurals>
      <plurals name="total_num">
-        <item quantity="other">%d items,</item>
-        <item quantity="one">%d item,</item>
+        <item quantity="other">%d elementi,</item>
+        <item quantity="one">%d elemento,</item>
      </plurals>
      <plurals name="trans_time_format_hours">
         <item quantity="other">%d ore</item>
