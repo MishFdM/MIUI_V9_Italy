@@ -1563,7 +1563,7 @@ Contatta il tuo operatore se questo problema persiste."</string>
      <string name="volte_provision_text">Rileva VoLTE se non supportato dalla tua SIM, attivare adesso?</string>
      <string name="volte_provision_title">Introduzione VoLTE</string>
      <string name="volte_switch_not_support_summary">Le chiamate VoLTE non sono supportate da questa SIM dati.</string>
-     <string name="volte_switch_not_support_summary2">Le chiamate VoLTE non sono supportate dall'operatore.</string>
+     <string name="volte_switch_not_support_summary2">"Le chiamate VoLTE non sono supportate dall'operatore."</string>
      <string name="volte_switch_summary">Utilizza VoLTE per migliorare la qualità audio e video delle chiamate</string>
      <string name="volte_switch_title">VoLTE attivato</string>
      <string name="vpn_settings_not_available">Impostazioni VPN non disponibili per questo utente</string>

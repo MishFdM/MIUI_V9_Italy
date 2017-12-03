@@ -1697,7 +1697,7 @@ Questa attività riduce la durata della batteria."</string>
      <string name="st_call_backsound_group">BackSound</string>
      <string name="st_call_intercept_contacts">Blocca chiamate dai contatti</string>
      <string name="st_call_intercept_forwarding">Blocca chiamate inoltrate</string>
-     <string name="st_call_intercept_oversea">Blocca chiamate dall'estero</string>
+     <string name="st_call_intercept_oversea">"Blocca chiamate dall'estero"</string>
      <string name="st_call_intercept_reported">Blocca chiamate segnalate</string>
      <string name="st_call_intercept_stranger">Blocca chiamate da sconosciuti</string>
      <string name="st_call_intercept_unknown">Blocca chiamate da numeri sconosciuti</string>
