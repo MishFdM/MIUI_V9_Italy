@@ -275,7 +275,6 @@
      <string name="express_company_phone_prefix">"Contatto: "</string>
      <string name="express_company_pricing_details">Dettagli prezzo</string>
      <string name="express_complete">Accettato</string>
-     <string name="express_complete_flag">3</string>
      <string name="express_contact_address">Immetti indirizzo</string>
      <string name="express_contact_address_finding">Localizzazione…</string>
      <string name="express_contact_label">Informazioni servizio di ritiro</string>
@@ -286,7 +285,6 @@
      <string name="express_copy_number">Copia</string>
      <string name="express_delete_order">Elimina</string>
      <string name="express_delivery">In consegna</string>
-     <string name="express_delivery_flag">5</string>
      <string name="express_dest_city_label">Destinazione</string>
      <string name="express_detailed_address">Indirizzo</string>
      <string name="express_field_empty">Vuoto</string>
@@ -547,7 +545,6 @@ Verifica il tuo numero di tracciabilità</string>
      <string name="hour24_format_en">HH:mm</string>
      <string name="http_stock_error">Impossibile caricare info</string>
      <string name="immediate_recommendation">Suggerimenti in tempo reale</string>
-     <string name="info_divider">|</string>
      <string name="item_type_custom">Personalizza</string>
      <string name="item_type_suggestion">Suggerimenti</string>
      <string name="just_now">Poco fà</string>
