@@ -6,7 +6,7 @@
      <string name="app_empty">Non hai scaricato nessuna applicazione</string>
      <string name="app_label">Segnalazione bug</string>
      <string name="app_name">Feedback</string>
-     <string name="app_search">Search apps</string>
+     <string name="app_search">Cerca app</string>
      <string name="btn_send">Invia</string>
      <string name="bugreport_dialog_not_show_again">Non mostrare più</string>
      <string name="bugreport_dialog_submit_content">Il tuo feedback potrebbe contenere informazioni personali.</string>
