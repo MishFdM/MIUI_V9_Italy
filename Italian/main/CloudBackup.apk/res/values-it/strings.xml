@@ -74,7 +74,6 @@ Nota: i dati delle applicazioni installate non verranno salvati su Mi Cloud."</s
      <string name="cloud_backup_in_cancel">Annulla</string>
      <string name="cloud_backup_in_process">Backup in corso…</string>
      <string name="cloud_backup_select_recover">Scegli il backup su Mi Cloud</string>
-     <string name="cloud_backup_title">Backup Mi Cloud</string>
      <string name="cloud_restore_from_other_device">Il ripristino da %s è in corso, eliminando il backup il processo verrà interrotto. Continuare?</string>
      <string name="cloud_restore_task">Ripristina</string>
      <string name="cloud_task_in_process">"È in corso un processo di %s! Eliminando il backup su questo dispositivo verrà annullato il processo in corso. Continuare?</string>
@@ -126,7 +125,6 @@ Nota: i dati delle applicazioni installate non verranno salvati su Mi Cloud."</s
      <string name="open_wifi_description">Collegato ad una rete Wi-Fi per ripristinare le applicazioni</string>
      <string name="open_wifi_setting">Impostazioni Wi-Fi</string>
      <string name="process_whole_recovery">Ripristino di \"%s\"</string>
-     <string name="query_restore_back_view">Backup Mi Cloud</string>
      <string name="query_restore_description">"Ripristina le app sulla Schermata Home e le impostazioni con questo backup. Verranno sovrascritti i dati delle app già installate. Le app non incluse in questo backup verranno spostate nell'ultima schermata."</string>
      <string name="query_restore_summary">Trovato un backup su Mi Cloud per questo dispositivo. Vuoi utilizzare il backup o vuoi continuare configurando il dispositivo come nuovo e cancellare i backup precedenti su Mi Cloud?</string>
      <string name="recover_from_micloud">Ripristina utilizzando Mi Cloud</string>

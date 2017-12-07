@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="access_select">%s selezionati</string>
      <string name="access_unselect">%s deselezionati</string>
@@ -113,6 +113,13 @@
      <string name="card_bookall_train_started">Abbandono stazione</string>
      <string name="card_detail">Guida</string>
      <string name="card_example">Scheda</string>
+     <string name="card_expand_note_clear">Cancella</string>
+     <string name="card_expand_note_dialog_button">Ho capito</string>
+     <string name="card_expand_note_dialog_message">Ogni volta che tocchi il tasto \"Save\" viene creata una nuova nota.</string>
+     <string name="card_expand_note_dialog_title">Salvataggio note</string>
+     <string name="card_expand_note_toast_clear_null">Cancellato con successo</string>
+     <string name="card_expand_note_toast_save_done">Salva nelle Note</string>
+     <string name="card_expand_note_toast_save_dup">Salvato con successo</string>
      <string name="card_hint_noteboard">Tocca qui per scrivere una nota.</string>
      <string name="card_menu_edit">Modifica</string>
      <string name="card_menu_setting">Impostazioni</string>
@@ -166,11 +173,7 @@
      <string name="cta_desc">Ottieni suggerimenti e altro.</string>
      <string name="cta_dialog_negative">Esci</string>
      <string name="cta_dialog_positive">"D'accordo"</string>
-     <string name="cta_dialog_text1">Per utilizzare App Vault, devi leggere ed accettare</string>
-     <string name="cta_dialog_text2">\"Accordo utente\"</string>
-     <string name="cta_dialog_text3">e</string>
-     <string name="cta_dialog_text4">\"Informativa Privacy\".</string>
-     <string name="cta_dialog_text5">"Il servizio richiede una connessione ad Internet e l'accesso alla tua posizione. Sei d'accordo?"</string>
+     <string name="cta_dialog_text_all">"Per utilizzare App vault, devi leggere ed accettare %1$s\"Accordo utente\" %2$s e %3$s \"Informativa Privacy\" %4$s. Il servizio richiede una connessione Internet e l'accesso ai servizi di localizzazione. Sei d'accordo?"</string>
      <string name="cta_dialog_title">Termini e Condizioni</string>
      <string name="cta_negative">Chiudi</string>
      <string name="cta_positive">Dettagli</string>
@@ -213,6 +216,7 @@
      <string name="didi_price">Tariffa</string>
      <string name="didi_price_unit">CNY</string>
      <string name="didi_target">Destinazione     </string>
+     <string name="didi_taximeter">Calcola tariffa taxi</string>
      <string name="didi_trip">Taxi</string>
      <string name="didi_trip_content">Stima la tariffa e chiama un taxi</string>
      <string name="didi_trip_content_detail">Stima il costo approssimativo e chiama un taxi.</string>
@@ -275,18 +279,16 @@
      <string name="express_company_phone_prefix">"Contatto: "</string>
      <string name="express_company_pricing_details">Dettagli prezzo</string>
      <string name="express_complete">Accettato</string>
-     <string name="express_complete_flag">3</string>
      <string name="express_contact_address">Immetti indirizzo</string>
      <string name="express_contact_address_finding">Localizzazione…</string>
      <string name="express_contact_label">Informazioni servizio di ritiro</string>
      <string name="express_contact_phone">Immetti numero di telefono</string>
      <string name="express_contact_phone_finding">Ottenimento numero di telefono…</string>
      <string name="express_contact_prefix">"Contatto "</string>
-     <string name="express_copied">Tracccia numero copiato</string>
+     <string name="express_copied">Traccia numero copiato</string>
      <string name="express_copy_number">Copia</string>
      <string name="express_delete_order">Elimina</string>
      <string name="express_delivery">In consegna</string>
-     <string name="express_delivery_flag">5</string>
      <string name="express_dest_city_label">Destinazione</string>
      <string name="express_detailed_address">Indirizzo</string>
      <string name="express_field_empty">Vuoto</string>
@@ -310,16 +312,16 @@
      <string name="express_inquiry_history">Cronologia</string>
      <string name="express_inquiry_history_remark">Commenti</string>
      <string name="express_inquiry_history_remark_hint">Cronologia commenti</string>
-     <string name="express_inquiry_internal_failure">Si é verificato un errore
-Verifica il numero di tracciabilità.</string>
+     <string name="express_inquiry_internal_failure">"Si é verificato un errore
+Verifica il numero di tracciabilità."</string>
      <string name="express_inquiry_logistics">Seleziona un servizio corriere</string>
      <string name="express_inquiry_logistics_prefix">Servizio corriere: %s</string>
      <string name="express_inquiry_logistics_select_others_indication">Altro</string>
      <string name="express_inquiry_no_history">Nessuna cronologia</string>
      <string name="express_inquiry_no_result">Nessun risultato</string>
      <string name="express_inquiry_number_empty">Immetti il tuo numero di tracciabilità.</string>
-     <string name="express_inquiry_number_invalid">Numero di richiesta non valido.
-Verifica il tuo numero di tracciabilità</string>
+     <string name="express_inquiry_number_invalid">"Numero di richiesta non valido.
+Verifica il tuo numero di tracciabilità"</string>
      <string name="express_inquiry_provider_info">"Offerto da"</string>
      <string name="express_inquiry_serial_number_indication">Numero di tracciabilità</string>
      <string name="express_inquiry_serial_number_prefix">Numero: %s</string>
@@ -432,7 +434,6 @@ Verifica il tuo numero di tracciabilità</string>
      <string name="express_track_order">Traccia</string>
      <string name="express_tracking_number">Numero di tracciabilità</string>
      <string name="express_update_cainiao_description">Aggiorna Cainiao per utilizzare questa funzionalità.</string>
-     <string name="express_update_cainiao_ok">Aggiorna</string>
      <string name="express_update_cainiao_title">La versione di Cainiao é troppo vecchia</string>
      <string name="express_urge_order">Velocizza</string>
      <string name="express_view_order">Visualizza ordini</string>
@@ -470,7 +471,9 @@ Verifica il tuo numero di tracciabilità</string>
      <string name="favorite_important">Importante</string>
      <string name="favorite_label">Preferiti</string>
      <string name="favorite_main">Cronologia</string>
-     <string name="favorite_mark_important">Contrassegnato come importante</string>
+     <string name="favorite_title_limit">Inserisci fino a 40 caratteri</string>
+     <string name="favorite_title_modify">Modifica</string>
+     <string name="favorite_title_modify_success">Modificato correttamente</string>
      <string name="flow_open">Mostra scheda dati mobili</string>
      <string name="flow_setting_brief">Mostra info dati mobili (Aggiungi il tuo piano dati in Securezza e Utilizzo dati).</string>
      <string name="focus">Focus sulle dinamiche</string>
@@ -516,19 +519,9 @@ Verifica il tuo numero di tracciabilità</string>
      <string name="function_zhihu_search">Ricerca</string>
      <string name="function_zhihu_title">Conosci</string>
      <string name="go_to_school">Esci da scuola o ufficio</string>
-     <string name="greeting_alarm_desc">La sveglia si disattiverà domani alle %1$s.</string>
-     <string name="greeting_alarm_desc_with_duration">La sveglia si disattiverà domani alle %1$s, vai al letto ora per dormire %2$s.</string>
-     <string name="greeting_birth_desc">Oggi é il compleanno di %1$s</string>
-     <string name="greeting_news_morning">Cosa é accaduto mentre dormivi?</string>
-     <string name="greeting_news_night">Oggi é stata una giornata piena di eventi.</string>
-     <string name="greeting_no_alarm">Nessuna sveglia programmata, riposa tranquillamente!</string>
-     <string name="greeting_no_schedule">Nessun evento per oggi.</string>
      <string name="greeting_open">Abilita saluti giornalieri</string>
-     <string name="greeting_schedule_desc">Eventi programmati per oggi: %1$d</string>
      <string name="greeting_setting_brief">Ottieni informazioni meteo e promemoria su eventi programmati, sveglie, e compleanni ogni mattina e pomeriggio</string>
      <string name="greeting_setting_brief_notice">"Puoi cambiare città sull'app meteo"</string>
-     <string name="greeting_title_morning">Buongiorno!</string>
-     <string name="greeting_title_night">Buonasera!</string>
      <string name="greeting_weather_desc">%1$s %2$s %3$s %4$s</string>
      <string name="greeting_weather_desc_from_to">%1$s a %2$s</string>
      <string name="greeting_weather_prefix_moring">Oggi</string>
@@ -547,7 +540,6 @@ Verifica il tuo numero di tracciabilità</string>
      <string name="hour24_format_en">HH:mm</string>
      <string name="http_stock_error">Impossibile caricare info</string>
      <string name="immediate_recommendation">Suggerimenti in tempo reale</string>
-     <string name="info_divider">|</string>
      <string name="item_type_custom">Personalizza</string>
      <string name="item_type_suggestion">Suggerimenti</string>
      <string name="just_now">Poco fà</string>
@@ -610,7 +602,8 @@ Verifica il tuo numero di tracciabilità</string>
      <string name="map_title_around">Nelle vicinanze</string>
      <string name="map_title_home">Casa</string>
      <string name="map_title_office">Lavoro</string>
-     <string name="menu_new">Aggiungi</string>
+     <string name="memory_clear_nothing_result">NIente da cancellare nella cache</string>
+     <string name="memory_clear_result">%1$sB cancellati</string>
      <string name="metre">metro</string>
      <string name="mi_agenda">Eventi calendario</string>
      <string name="mi_basketball">Pallacanestro</string>
@@ -801,9 +794,6 @@ Verifica il tuo numero di tracciabilità</string>
      <string name="qq_new">Nuovo stato</string>
      <string name="qq_qzone">Qzone</string>
      <string name="quickstart_accessibility_description">Il servizio di Smart Assistant serve per fornire un supporto alle applicazioni di terzi, disattivandolo il servizio non funzionerà più correttamente.</string>
-     <string name="quickstart_accessibility_dialog_confirm">Abilita</string>
-     <string name="quickstart_accessibility_dialog_content">"Questa scorciatoia richiede l'attivazione dell'accessibilità."</string>
-     <string name="quickstart_accessibility_dialog_title">"Abilita l'accessibilità"</string>
      <string name="quickstart_accessibility_service">Smart Assistant</string>
      <string name="recharge_flow">Acquista dati mobili</string>
      <string name="recharge_tel">Ricarica il saldo del telefono</string>
@@ -829,7 +819,6 @@ Verifica il tuo numero di tracciabilità</string>
      <string name="scan_exercise">Studio</string>
      <string name="scan_parent">Scanner</string>
      <string name="scan_trans">Traduci</string>
-     <string name="search">Cerca</string>
      <string name="search_add_header">Aggiungi immagine di copertina</string>
      <string name="search_category_article">Articoli</string>
      <string name="search_category_shopping">Shopping</string>
@@ -923,8 +912,6 @@ Verifica il tuo numero di tracciabilità</string>
      <string name="sms_hao">Sede</string>
      <string name="sms_happened">Finito</string>
      <string name="sms_hotel">Hotel</string>
-     <string name="sms_hour_suffix">ore rimanenti</string>
-     <string name="sms_minute_suffix">min rimanenti</string>
      <string name="sms_passenger">Passeggeri</string>
      <string name="sms_phone">Numero di telefono</string>
      <string name="sms_platform">Piattaforma</string>
