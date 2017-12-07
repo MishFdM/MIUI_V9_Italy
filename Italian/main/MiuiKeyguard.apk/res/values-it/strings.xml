@@ -103,6 +103,7 @@
      <string name="keyguard_torch_cover_text">Premi a lungo il tasto accensione per tenere accesa la Torcia</string>
      <string name="lock_screen_date">EEEE, dd MMMM</string>
      <string name="lock_screen_date_12">EEEE, dd MMMM</string>
+     <string name="lock_screen_no_sim_card">No SIM card</string>
      <string name="lock_wallpaper_enter">Inserisci</string>
      <string name="lock_wallpaper_learn_more">Leggi di più ></string>
      <string name="lockscreen_access_pattern_cell_added">Cella aggiunta</string>

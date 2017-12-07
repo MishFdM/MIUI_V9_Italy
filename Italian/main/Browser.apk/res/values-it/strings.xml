@@ -515,6 +515,7 @@ Sei sicuro di voler abbandonare questa pagina?"</string>
      <string name="miuishare_account_need_activate">La condivisione con Weibo richiede che il tuo account Weibo sia collegato al tuo Mi Account attualmente non è attivo. Vuoi attivare il tuo account adesso?</string>
      <string name="miuishare_account_need_login">La condivisione con Weibo richiede che il tuo account Weibo sia collegato al tuo Mi Account attualmente attivo. Accedere e condividere adesso?</string>
      <string name="miuishare_app_name">MiuiShare</string>
+     <string name="miuishare_dialog_cancel">Cancel</string>
      <string name="miuishare_no_network">Nessuna rete disponibile per la condivisione</string>
      <string name="miuishare_publish">Invia</string>
      <string name="miuishare_share_done">Contenuto condiviso inviato.</string>

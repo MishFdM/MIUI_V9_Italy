@@ -13,6 +13,7 @@
      <string name="acct_not_synced">Questo account non è stato sincronizzato e i tuoi calendari potrebbero non essere aggiornati.</string>
      <string name="acessibility_selected_marker_description">Evento selezionato</string>
      <string name="action_bar_more_menu_view_description">Altro</string>
+     <string name="action_bar_return">Return</string>
      <string name="action_text_card_manager">Canale</string>
      <string name="action_text_today">Oggi</string>
      <string name="add_anniversary">Aggiungi anniversario</string>
@@ -85,6 +86,7 @@
      <string name="date_calculate_days">Inserisci il numero di giorni</string>
      <string name="date_calculate_description">Scopri quanti giorni mancano ad un giorno specifico</string>
      <string name="date_calculate_direction">Direzione</string>
+     <string name="date_calculate_direction_content_description">Direction, current is %1s</string>
      <string name="date_calculate_result">Risultato</string>
      <string name="date_calculate_tab">Calcola data</string>
      <string name="date_calculate_today">0 giorni</string>
@@ -377,6 +379,7 @@ Puoi anche aggiungere dei promemoria per non perdere niente di importante."</str
      <string name="subscribing_card">Annullamento iscrizione</string>
      <string name="synced">Sincronizzato</string>
      <string name="taishen" />
+     <string name="talk_back_read_date">The current date is %1$s,%2$s,</string>
      <string name="template_announce_item_index">Evento %1$s di %2$s.</string>
      <string name="template_week_num">Settimana %1$s</string>
      <string name="text_day">giorno</string>

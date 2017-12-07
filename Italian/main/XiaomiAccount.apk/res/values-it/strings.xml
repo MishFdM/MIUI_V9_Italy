@@ -15,6 +15,7 @@
      <string name="account_error_longer_user_name">Il nome non può superare i 20 caratteri</string>
      <string name="account_error_shorter_user_name">Il nome deve essere più lungo di 2 caratteri</string>
      <string name="account_error_user_birthday">La data di compleanno indicata non è valida</string>
+     <string name="account_error_user_name">The name you entered is invalid</string>
      <string name="account_global_region">Stranieri</string>
      <string name="account_has_been_set">Modifica</string>
      <string name="account_limit_update_birthday">Siamo spiacenti, non possiamo elaborare la richiesta in questo momento.</string>
@@ -250,6 +251,10 @@ Per attivare il tuo account, segui il
      <string name="passport_forget_password"><u>Password dimenticata</u></string>
      <string name="passport_forget_password_no_underline">Password dimenticata</string>
      <string name="passport_get_back_pwd">Recupera password</string>
+     <string name="passport_get_innetdate_agree">Check</string>
+     <string name="passport_get_innetdate_disagree">No</string>
+     <string name="passport_get_innetdate_msg">&lt;font color=Red&gt;Looks like&lt;/font&gt; the number %s has been recycled by your carrier. Check when the number went online?</string>
+     <string name="passport_get_innetdate_title">Check when the number went online</string>
      <string name="passport_get_verify_code">Ricevi il codice</string>
      <string name="passport_getting_activator_phone">Acquisizione informazioni SIM…</string>
      <string name="passport_getting_verify_code">Ricezione</string>
@@ -386,6 +391,8 @@ Per attivare il tuo account, segui il
      <string name="push_notify_dialog_message">Un nuovo dispositivo sta cercando di accedere al tuo Mi Account. Inserisci il codice di verifica sul tuo nuovo dispositivo per completare la verifica di sicurezza. Se non lo hai richiesto tu, modifica la password del tuo Mi Account.</string>
      <string name="push_notify_dialog_title">Verifica di Sicurezza Accesso</string>
      <string name="qq">QQ</string>
+     <string name="recycle_phone_notification_msg">Looks like your phone number has been recycled. Tap to update.</string>
+     <string name="recycle_phone_notification_title">Mi Account security risk</string>
      <string name="remove_device_success_notice">Rimuovendo questo dispositivo dai dispositivi sicuri, potresti aver bisogno di eseguire di nuovo il processo di verifica al prossimo accesso.</string>
      <string name="remove_trust_btn">Rimuovi dai dispositivi sicuri</string>
      <string name="remove_trust_notice">Rimuovi dai dispositivi sicuri ed esci</string>
@@ -419,6 +426,8 @@ Per attivare il tuo account, segui il
      <string name="service_error">Errore di servizio</string>
      <string name="set_success">Modificato correttamente</string>
      <string name="sign_in">Accesso in corso</string>
+     <string name="sim_changed_notification_msg">Tap to update your recovery phone and keep your account more secure.</string>
+     <string name="sim_changed_notification_title">Changed phone number?</string>
      <string name="sina_weibo">Sina Weibo</string>
      <string name="sms_send_success">Inviato</string>
      <string name="sns_access_token_expired_warning">La sessione è scaduta. Accedi di nuovo per aggiungere questo account.</string>
