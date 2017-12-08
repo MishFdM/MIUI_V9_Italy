@@ -541,7 +541,7 @@ Questa funziona cripta ed invia l'ID del tuo dispositivo ai server Xiaomi."</str
      <string name="sync_sub_dspt">"L'SMS di attivazione è soggetto ai costi del tuo piano tariffario."</string>
      <string name="sync_sub_dspt_provision">Visualizza e gestisci i tuoi dati dovunque tu sia</string>
      <string name="sync_sub_int_dspt">"L'SMS di attivazione è soggetto ai costi degli SMS verso l'estero previsti dal tuo piano tariffario."</string>
-     <string name="title_back">Back</string>
+     <string name="title_back">Indietro</string>
      <string name="title_reg">Crea un account</string>
      <string name="total_space_upgraded_to">Spazio totale:%s</string>
      <string name="trying_to_connect_to_network">Connessione alla rete…</string>
@@ -571,6 +571,6 @@ Questa funziona cripta ed invia l'ID del tuo dispositivo ai server Xiaomi."</str
      <string name="wipe_data_dialog_title">Alcuni dati non sono stati sincronizzati</string>
      <string name="wipe_secret_photo_dialog_title">Le foto nascoste non vengono sincronizzate</string>
      <string name="xiaomi_cloud_service">Mi Cloud</string>
-     <string name="xiaomi_cloud_service_subtitle">All important items in one place</string>
+     <string name="xiaomi_cloud_service_subtitle">Tutte le cose importanti in un solo posto</string>
      <string name="xmpp_server_addr" />
 </resources>

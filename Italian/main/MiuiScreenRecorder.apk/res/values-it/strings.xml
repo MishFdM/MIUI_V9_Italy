@@ -18,8 +18,8 @@
      <string name="date_day" />
      <string name="date_month">/</string>
      <string name="date_year">/</string>
-     <string name="description_content">Screen recording provides system-level recording capabilities. This action means that you will discard the screen recording feature. Confirm Continue.</string>
-     <string name="description_title">About Screen Recorder</string>
+     <string name="description_content">La Registrazione Schermo consente di registrare a livello di sistema. Questa operazione significa che rifiuti di utilizzare questa funzione. Conferma e Continua.</string>
+     <string name="description_title">Info su Registrazione Schermo</string>
      <string name="deselect_all">Deseleziona tutto</string>
      <string name="error_open_file_failed_no_app_found">"Impossibile trovare un'applicazione per l'apertura del file"</string>
      <string name="frames">Frame rate</string>
