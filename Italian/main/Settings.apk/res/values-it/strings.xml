@@ -1900,7 +1900,7 @@ Quando attivi il backup automatico, il dispositivo e i dati delle applicazioni v
      <string name="keywords_display_cast_screen">proiettore</string>
      <string name="keywords_display_font_size">dimensione testo</string>
      <string name="keywords_display_wallpaper">sfondo</string>
-     <string name="keywords_do_not_disturb">DND;Modalità DND;Non disturbare;Sonno;Notte;Occupato</string>
+     <string name="keywords_do_not_disturb">Non disturbare;Modalità non disturbare;Non disturbare;Sonno;Notte;Occupato</string>
      <string name="keywords_emergency_app">App emergency ice predefinita</string>
      <string name="keywords_factory_data_reset">eliminazione pulizia</string>
      <string name="keywords_gps">GPS;Localizzazione;Servizio di localizzazione;Satellite</string>
@@ -3749,7 +3749,7 @@ Come usare Mantieni su schermo:
      <string name="silent_settings">Modalità silenziosa</string>
      <string name="silent_standard">Silenzioso</string>
      <string name="silent_time">Durata</string>
-     <string name="silent_total">DND</string>
+     <string name="silent_total">Non disturbare</string>
      <string name="sim_bad_pin">PIN errato</string>
      <string name="sim_call_back_title">SIM per le richiamate</string>
      <string name="sim_calls_always_use">Usa sempre questa SIM per le chiamate</string>
@@ -4222,7 +4222,7 @@ L'approccio di Google alla sincronizzazione di dati per consentirti l'accesso ai
      <string name="title_system_resource">Risorse di sistema</string>
      <string name="toast_lockscreen_glogin_empty_password">Inserisci la password</string>
      <string name="toast_need_login">Accedi al tuo Mi Account</string>
-     <string name="total">DND</string>
+     <string name="total">Non disturbare</string>
      <string name="total_info">I suoni e la vibrazione sarà disattivata tranne la sveglia</string>
      <string name="total_memory">Memoria totale</string>
      <string name="total_size">%s totale</string>
