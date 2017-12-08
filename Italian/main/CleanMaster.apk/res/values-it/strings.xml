@@ -10,7 +10,7 @@
      <string name="activity_title_garbage_cleanup">Pulizia</string>
      <string name="activity_title_ignored_image">Ignorata</string>
      <string name="activity_title_image_gallery">Rimuovi duplicati</string>
-     <string name="activity_title_large_file">File grossi</string>
+     <string name="activity_title_large_file">File grandi</string>
      <string name="activity_title_main">Pulizia</string>
      <string name="activity_title_news">Notizie</string>
      <string name="activity_title_privacy_cache">Cache Privacy</string>
@@ -148,7 +148,7 @@
      <string name="deepclean_size_summary_more">Spazio disponibile più che sufficiente</string>
      <string name="deepclean_size_summary_normal">Spazio disponibile</string>
      <string name="deepclean_size_summary_not_enough">Spazio insufficiente</string>
-     <string name="deepclean_title_large_file">Rimuovi file grossi</string>
+     <string name="deepclean_title_large_file">Rimuovi file grandi</string>
      <string name="deepclean_title_uninstall_apps">App usate raramente</string>
      <string name="deepclean_video_content">Elimina i video non necessari o già visti</string>
      <string name="deepclean_video_summary_empty">Sembra tutto OK</string>
@@ -493,7 +493,7 @@
      <string name="white_list_ad_header">Pubblicità: %d</string>
      <string name="white_list_apk_header">Pacchetti di installazione: %d</string>
      <string name="white_list_cache_header">File nella cache: %d</string>
-     <string name="white_list_large_file_header">File grossi: %d</string>
+     <string name="white_list_large_file_header">File grandi: %d</string>
      <string name="white_list_residual_header">Residui: %d</string>
      <string name="white_list_title">Lista eccezioni</string>
      <string name="year_month_day_format">dd MMM, yyyy</string>
