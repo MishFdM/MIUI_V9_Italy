@@ -164,7 +164,7 @@ Controlla la tua data locale e riprova."</string>
      <string name="mibi_msg_picker_hint_2_b">"Un SMS ti verrà recapitato dal tuo operatore dopo che toccherai il pulsante \"Ricarica\". L'operatore ti addebiterà il costo di un normale SMS."</string>
      <string name="mibi_msg_picker_hint_3_1">3.</string>
      <string name="mibi_msg_picker_hint_3_2">Ricarica mensile massima: ￥%1$s</string>
-     <string name="mibi_msg_send_no_net_error">Impossibile inviare il messaggio: impossibile connettersi al provider di rete<./string>
+     <string name="mibi_msg_send_no_net_error">Impossibile inviare il messaggio: impossibile connettersi al provider di rete</string>
      <string name="mibi_msg_send_no_sim_error">Impossibile inviare messaggio: prova a reinserire la scheda SIM.</string>
      <string name="mibi_msg_send_parameter_error">Impossibile inviare messaggio, rilevato errore nel contenuto.</string>
      <string name="mibi_msg_send_send_fail_error">"Errore nell'invio del messaggio"</string>
