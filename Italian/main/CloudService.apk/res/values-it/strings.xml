@@ -2,10 +2,10 @@
 <resources>
      <string name="access_denied">Accesso negato</string>
      <string name="account">Account</string>
-     <string name="account_related">Il dispositivo è associato ad un Mi Account esistente (%s). Collegato alla rete per verificare il dispositivo.</string>
+     <string name="account_related">Il dispositivo è associato ad un Mi Account esistente (%s). Collegati alla rete per verificare il dispositivo.</string>
      <string name="activate">Attiva</string>
      <string name="activate_find_device_success">Trova dispositivo è stato attivato.</string>
-     <string name="activate_finddevice">Collegato alla rete per attivare il dispositivo</string>
+     <string name="activate_finddevice">Collegati alla rete per attivare il dispositivo</string>
      <string name="activate_number_change_dialog_message">Scegli il numero da attivare, durante la chiamata VoIP il ricevente vedrà questo numero</string>
      <string name="activating">Attivazione…</string>
      <string name="add_cloud_storage">Aggiungi spazio</string>
@@ -59,8 +59,8 @@ Ultimo backup: %2$s"</string>
      <string name="cmcc_micloud_dspt">Usa Mi Cloud per sincronizzare dati, rintracciare il tuo dispositivo</string>
      <string name="confirm_delete">Elimina</string>
      <string name="confirm_save">Mantieni</string>
-     <string name="connect_network">Collegato al Wi-Fi o inserisci una SIM</string>
-     <string name="connect_wlan">Collegato al Wi-Fi</string>
+     <string name="connect_network">Collegati al Wi-Fi o inserisci una SIM</string>
+     <string name="connect_wlan">Collegati al Wi-Fi</string>
      <string name="contact">Contatti</string>
      <string name="deskclock_backup">Backup orologi</string>
      <string name="detect_sim_card">Ricerca ancora una SIM</string>
@@ -355,7 +355,7 @@ Utilizza un account diverso."</string>
      <string name="micloud_more">Info aggiuntive</string>
      <string name="micloud_notif_content_battery_low">Livello batteria troppo basso.</string>
      <string name="micloud_notif_content_clipboard_push">Puoi incollarlo ovunque.</string>
-     <string name="micloud_notif_content_depend_wifi">Collegato ad una rete Wi-Fi per sincronizzare.</string>
+     <string name="micloud_notif_content_depend_wifi">Collegati ad una rete Wi-Fi per sincronizzare.</string>
      <string name="micloud_notif_content_dirty_data">Dettagli</string>
      <string name="micloud_notif_content_master_depend_wifi">Collegati prima alla rete Wi-Fi</string>
      <string name="micloud_notif_content_memory_low">Spazio di archiviazione insufficiente</string>
