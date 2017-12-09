@@ -75,7 +75,7 @@ Immetti il numero di telefono associato alla tua nuova SIM card per riattivare %
      <string name="activate_popup_title_manual">Attiva %s</string>
      <string name="activate_popup_title_new_sim_card">Riattiva %s</string>
      <string name="activate_popup_title_register_account">Crea Mi Account</string>
-     <string name="activate_sms_postfix">Questo SMS viene utilizzato epr attivare i tuoi servizi Mi</string>
+     <string name="activate_sms_postfix">Questo SMS viene utilizzato per attivare i tuoi servizi Mi</string>
      <string name="activate_status_desc_acquire_phone_number">Verifica del numero di telefono…</string>
      <string name="activate_status_desc_acquire_phone_number_server_error">Si è verificato un errore del server durante la verifica del numero di telefono</string>
      <string name="activate_status_desc_acquire_phone_number_server_no_info">Impossibile verificare il numero di telefono</string>
