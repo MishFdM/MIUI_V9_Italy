@@ -94,7 +94,7 @@
      <string name="book_update">Aggiornamento disponibile</string>
      <string name="btn_back">indieteo</string>
      <string name="btn_more">altro</string>
-     <string name="calc_currency">Moneta</string>
+     <string name="calc_currency">Valuta</string>
      <string name="calc_name">Scientifico</string>
      <string name="calc_num">Personaggi finanziari</string>
      <string name="calc_parent">Calcolatrice</string>
@@ -253,7 +253,7 @@
      <string name="entrance">Migliore entrata</string>
      <string name="error_share_not_support">Questi elementi non sono supportati nei preferiti.</string>
      <string name="exapress_save_address_to_contact">Salva questo indirizzo fra i contatti</string>
-     <string name="exercise_setting_brief">Misurare la distanza e contare i passi eseguiti quotidianamente</string>
+     <string name="exercise_setting_brief">Misura la distanza e conta i passi eseguiti quotidianamente</string>
      <string name="exercise_setting_misport_detail">Misurare la distanza e contare i passi eseguiti quotidianamente (Permetti a Mi Fit di autoavviarsi in Sicurezza - Permessi).</string>
      <string name="express">Tracciamento veloce</string>
      <string name="express_add_new_address">Aggiungi indirizzo</string>

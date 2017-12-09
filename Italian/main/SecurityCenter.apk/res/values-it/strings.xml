@@ -221,7 +221,7 @@
  "&lt;li&gt;Applicazioni predefinite per azioni&lt;/li&gt;"
  "&lt;li&gt;Limitazione dati in background delle app&lt;/li&gt;"
 
- You will not lose any app data."</string>
+ Non perderai nessun dato dell'applicazione."</string>
      <string name="app_manager_reset_app_preferences_title">Ripristina le preferenze applicazioni?</string>
      <string name="app_manager_show_all_apps">Mostra tutte le app</string>
      <string name="app_manager_show_detail_infos">Mostra tutto</string>
