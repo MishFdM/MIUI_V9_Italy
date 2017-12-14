@@ -1,96 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="wifi_status">
-        <item></item>
-        <item>Scansione…</item>
-        <item>Connessione…</item>
-        <item>Autenticazione…</item>
-        <item>Ottenimento indirizzo IP…</item>
-        <item>Connesso</item>
-        <item>Sospeso</item>
-        <item>Disconnessione…</item>
-        <item>Disconnesso</item>
-        <item>Non riuscito</item>
-        <item>Bloccato</item>
-        <item>Evitando temporaneamente peggiore connessione</item>
-    </string-array>
-    <string-array name="wifi_status_with_ssid">
-        <item></item>
-        <item>Scansione…</item>
-        <item>Connessione a %1$s…</item>
-        <item>Autenticazione con %1$s…</item>
-        <item>Ottenimento indirizzo IP da %1$s…</item>
-        <item>Connesso a %1$s</item>
-        <item>Sospeso</item>
-        <item>Disconnessione da %1$s…</item>
-        <item>Disconnesso</item>
-        <item>Non riuscito</item>
-        <item>Bloccato</item>
-        <item>Evitando temporaneamente peggiore connessione</item>
-    </string-array>
-    <string-array name="hdcp_checking_titles">
-        <item>Non controllare mai</item>
-        <item>Controlla solo per contenuti DRM</item>
-        <item>Controlla sempre</item>
-    </string-array>
-    <string-array name="hdcp_checking_summaries">
-        <item>Non utilizzare mai controllo HDCP</item>
-        <item>Usa controllo HDCP solo per contenuti DRM</item>
-        <item>Utilizza sempre controllo HDCP</item>
-    </string-array>
-    <string-array name="select_logd_size_titles">
-        <item>Disattivato</item>
-        <item>64K</item>
-        <item>256K</item>
-        <item>1M</item>
-        <item>4M</item>
-        <item>16M</item>
-    </string-array>
-    <string-array name="select_logd_size_lowram_titles">
-        <item>Disattivato</item>
-        <item>64K</item>
-        <item>256K</item>
-        <item>1M</item>
-    </string-array>
-    <string-array name="select_logd_size_summaries">
-        <item>Disattivato</item>
-        <item>64K per log buffer</item>
-        <item>256K per log buffer</item>
-        <item>1M per log buffer</item>
-        <item>4M per log buffer</item>
-        <item>16M per log buffer</item>
-    </string-array>
-    <string-array name="select_logpersist_titles">
-        <item>Disattivato</item>
-        <item>Tutti</item>
-        <item>Tutti solo di tipo radio</item>
-        <item>Solo kernel</item>
-    </string-array>
-    <string-array name="select_logpersist_summaries">
-        <item>Disattivato</item>
-        <item>Tutti i log buffer</item>
-        <item>Tutti i log buffer radio</item>
-        <item>Solo i log buffer kernel</item>
-    </string-array>
-    <string-array name="window_animation_scale_entries">
-        <item>Animazione disattivata</item>
-        <item>Scala animazione .5x</item>
-        <item>Scala animazione 1x</item>
-        <item>Scala animazione 1.5x</item>
-        <item>Scala animazione 2x</item>
-        <item>Scala animazione 5x</item>
-        <item>Scala animazione 10x</item>
-    </string-array>
-    <string-array name="transition_animation_scale_entries">
-        <item>Animazione disattivata</item>
-        <item>Scala animazione .5x</item>
-        <item>Scala animazione 1x</item>
-        <item>Scala animazione 1.5x</item>
-        <item>Scala animazione 2x</item>
-        <item>Scala animazione 5x</item>
-        <item>Scala animazione 10x</item>
-    </string-array>
-    <string-array name="animator_duration_scale_entries">
+     <string-array name="animator_duration_scale_entries">
         <item>Animatione disattivata</item>
         <item>Scala animazione .5x</item>
         <item>Scala animazione 1x</item>
@@ -98,8 +8,47 @@
         <item>Scala animazione 2x</item>
         <item>Scala animazione 5x</item>
         <item>Scala animazione 10x</item>
-    </string-array>
-    <string-array name="overlay_display_devices_entries">
+     </string-array>
+     <string-array name="app_process_limit_entries">
+        <item>Limite standard</item>
+        <item>Nessun processo in background</item>
+        <item>Almeno 1 processo</item>
+        <item>Almeno 2 processi</item>
+        <item>Almeno 3 processi</item>
+        <item>Almeno 4 processi</item>
+     </string-array>
+     <string-array name="color_mode_descriptions">
+        <item>Colori migliorati</item>
+        <item>Colori naturali come visti dagli occhi</item>
+        <item>Colori ottimizzati per contenuti digitali</item>
+     </string-array>
+     <string-array name="color_mode_names">
+        <item>Vibrante (predefinito)</item>
+        <item>Naturale</item>
+        <item>Standard</item>
+     </string-array>
+     <string-array name="debug_hw_overdraw_entries">
+        <item>Off</item>
+        <item>Show overdraw areas</item>
+        <item>Show areas for Deuteranomaly</item>
+     </string-array>
+     <string-array name="enable_opengl_traces_entries">
+        <item>Nessuna</item>
+        <item>Logcat</item>
+        <item>Systrace (Grafico)</item>
+        <item>Chiamata stack su glGetError</item>
+     </string-array>
+     <string-array name="hdcp_checking_summaries">
+        <item>Non utilizzare mai controllo HDCP</item>
+        <item>Usa controllo HDCP solo per contenuti DRM</item>
+        <item>Utilizza sempre controllo HDCP</item>
+     </string-array>
+     <string-array name="hdcp_checking_titles">
+        <item>Non controllare mai</item>
+        <item>Controlla solo per contenuti DRM</item>
+        <item>Controlla sempre</item>
+     </string-array>
+     <string-array name="overlay_display_devices_entries">
         <item>Nessuna</item>
         <item>480p</item>
         <item>480p (sicura)</item>
@@ -112,46 +61,65 @@
         <item>4K (upscalata)</item>
         <item>4K (upscalata, sicura)</item>
         <item>720p, 1080p (doppio schermo)</item>
-    </string-array>
-    <string-array name="enable_opengl_traces_entries">
-        <item>Nessuna</item>
-        <item>Logcat</item>
-        <item>Systrace (Grafico)</item>
-        <item>Chiamata stack su glGetError</item>
-    </string-array>
-    <string-array name="show_non_rect_clip_entries">
+     </string-array>
+     <string-array name="select_logd_size_lowram_titles">
+        <item>Disattivato</item>
+        <item>64K</item>
+        <item>256K</item>
+        <item>1M</item>
+     </string-array>
+     <string-array name="select_logd_size_summaries">
+        <item>Disattivato</item>
+        <item>64K per log buffer</item>
+        <item>256K per log buffer</item>
+        <item>1M per log buffer</item>
+        <item>4M per log buffer</item>
+        <item>16M per log buffer</item>
+     </string-array>
+     <string-array name="select_logd_size_titles">
+        <item>Disattivato</item>
+        <item>64K</item>
+        <item>256K</item>
+        <item>1M</item>
+        <item>4M</item>
+        <item>16M</item>
+     </string-array>
+     <string-array name="show_non_rect_clip_entries">
         <item>Off</item>
         <item>Disegna regione di taglio non rettangolare in blu</item>
         <item>Evidenziare i comandi di disegno testati in verde</item>
-    </string-array>
-    <string-array name="track_frame_time_entries">
+     </string-array>
+     <string-array name="track_frame_time_entries">
         <item>Disattivato</item>
         <item>Sullo schermo come barre</item>
         <item>In adb shell dumpsys gfxinfo</item>
-    </string-array>
-    <string-array name="debug_hw_overdraw_entries">
-        <item>Off</item>
-        <item>Show overdraw areas</item>
-        <item>Show areas for Deuteranomaly</item>
-    </string-array>
-    <string-array name="app_process_limit_entries">
-        <item>Limite standard</item>
-        <item>Nessun processo in background</item>
-        <item>Almeno 1 processo</item>
-        <item>Almeno 2 processi</item>
-        <item>Almeno 3 processi</item>
-        <item>Almeno 4 processi</item>
-    </string-array>
-    <string-array name="usb_configuration_titles">
-        <item>Carica</item>
-        <item>MTP (Media Transfer Protocol)</item>
-        <item>PTP (Picture Transfer Protocol)</item>
-        <item>RNDIS (USB Ethernet)</item>
-        <item>Sorgente audio</item>
-        <item>MIDI</item>
-    </string-array>
-    <array name="config_hideWhenDisabled_packageNames" />
-    <string-array name="tts_rate_entries">
+     </string-array>
+     <string-array name="transition_animation_scale_entries">
+        <item>Animazione disattivata</item>
+        <item>Scala animazione .5x</item>
+        <item>Scala animazione 1x</item>
+        <item>Scala animazione 1.5x</item>
+        <item>Scala animazione 2x</item>
+        <item>Scala animazione 5x</item>
+        <item>Scala animazione 10x</item>
+     </string-array>
+     <string-array name="tts_demo_string_langs">
+        <item>eng</item>
+        <item>fra</item>
+        <item>deu</item>
+        <item>ita</item>
+        <item>spa</item>
+        <item>kor</item>
+     </string-array>
+     <string-array name="tts_demo_strings">
+        <item>This is an example of speech synthesis in English.</item>
+        <item>Voici un échantillon de synthèse vocale en français.</item>
+        <item>Dies ist ein Beispiel für Sprachsynthese in Deutsch.</item>
+        <item>Questo è un esempio di sintesi vocale in italiano.</item>
+        <item>Este es un ejemplo de síntesis de voz en español.</item>
+        <item>이것은 한국어 음성 합성의 예입니다.</item>
+     </string-array>
+     <string-array name="tts_rate_entries">
         <item>Veramento lento</item>
         <item>Lento</item>
         <item>Normale</item>
@@ -161,31 +129,50 @@
         <item>Rapido</item>
         <item>Molto rapido</item>
         <item>Rapidissimo</item>
-    </string-array>
-    <string-array name="tts_demo_strings">
-        <item>This is an example of speech synthesis in English.</item>
-        <item>Voici un échantillon de synthèse vocale en français.</item>
-        <item>Dies ist ein Beispiel für Sprachsynthese in Deutsch.</item>
-        <item>Questo è un esempio di sintesi vocale in italiano.</item>
-        <item>Este es un ejemplo de síntesis de voz en español.</item>
-        <item>이것은 한국어 음성 합성의 예입니다.</item>
-    </string-array>
-    <string-array name="tts_demo_string_langs">
-        <item>eng</item>
-        <item>fra</item>
-        <item>deu</item>
-        <item>ita</item>
-        <item>spa</item>
-        <item>kor</item>
-    </string-array>
-    <string-array name="color_mode_names">
-        <item>Vibrante (predefinito)</item>
-        <item>Naturale</item>
-        <item>Standard</item>
-    </string-array>
-    <string-array name="color_mode_descriptions">
-        <item>Colori migliorati</item>
-        <item>Colori naturali come visti dagli occhi</item>
-        <item>Colori ottimizzati per contenuti digitali</item>
-    </string-array>
+     </string-array>
+     <string-array name="usb_configuration_titles">
+        <item>Carica</item>
+        <item>MTP (Media Transfer Protocol)</item>
+        <item>PTP (Picture Transfer Protocol)</item>
+        <item>RNDIS (USB Ethernet)</item>
+        <item>Sorgente audio</item>
+        <item>MIDI</item>
+     </string-array>
+     <string-array name="wifi_status">
+        <item></item>
+        <item>Scansione…</item>
+        <item>Connessione…</item>
+        <item>Autenticazione…</item>
+        <item>Ottenimento indirizzo IP…</item>
+        <item>Connesso</item>
+        <item>Sospeso</item>
+        <item>Disconnessione…</item>
+        <item>Disconnesso</item>
+        <item>Non riuscito</item>
+        <item>Bloccato</item>
+        <item>Evitando temporaneamente peggiore connessione</item>
+     </string-array>
+     <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>Scansione…</item>
+        <item>Connessione a %1$s…</item>
+        <item>Autenticazione con %1$s…</item>
+        <item>Ottenimento indirizzo IP da %1$s…</item>
+        <item>Connesso a %1$s</item>
+        <item>Sospeso</item>
+        <item>Disconnessione da %1$s…</item>
+        <item>Disconnesso</item>
+        <item>Non riuscito</item>
+        <item>Bloccato</item>
+        <item>Evitando temporaneamente peggiore connessione</item>
+     </string-array>
+     <string-array name="window_animation_scale_entries">
+        <item>Animazione disattivata</item>
+        <item>Scala animazione .5x</item>
+        <item>Scala animazione 1x</item>
+        <item>Scala animazione 1.5x</item>
+        <item>Scala animazione 2x</item>
+        <item>Scala animazione 5x</item>
+        <item>Scala animazione 10x</item>
+     </string-array>
 </resources>

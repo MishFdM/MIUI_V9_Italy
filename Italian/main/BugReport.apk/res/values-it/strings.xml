@@ -122,6 +122,7 @@
      <string name="from">da %1$s</string>
      <string name="goon_feedback_main">Continua</string>
      <string name="hint_feedback_main">Descrivi il problema</string>
+     <string name="issue_search">Search</string>
      <string name="loading_apps">Creazione lista…</string>
      <string name="login_system_failed">Impossibile accedere, prova di nuovo</string>
      <string name="logo_title">Feedback</string>

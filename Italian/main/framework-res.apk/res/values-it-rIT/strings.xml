@@ -100,7 +100,6 @@ Vuoi chiuderlo?"</string>
      <string name="app_not_found">Nessuna applicazione trovata in grado di gestire questa azione</string>
      <string name="app_running_notification_text">"Tocca per ulteriori informazioni o per interrompere l'app."</string>
      <string name="app_running_notification_title">%1$s è in esecuzione</string>
-     <string name="app_upgrading_toast">%1$s è in fase di upgrade…</string>
      <string name="audit_safemode_notification">Reset di fabbrica per utilizzare questo dispositivo senza restrizioni</string>
      <string name="audit_safemode_notification_details">Premi per apprendere di piú.</string>
      <string name="autofill_address_line_1_label_re">address|adresse|indirizzo|住所|地址</string>
@@ -217,7 +216,6 @@ La funzione di risparmio energetico viene disattivata automaticamente quando il 
      <string name="common_name_prefixes" />
      <string name="common_name_suffixes" />
      <string name="condition_provider_service_binding_label">Provider condizioni</string>
-     <string name="conference_call">Conferenza telefonica</string>
      <string name="contentServiceSync">Sinc</string>
      <string name="contentServiceSyncNotificationTitle">Sincronizzazione</string>
      <string name="contentServiceTooManyDeletesNotificationDesc">Troppe eliminazioni di %s.</string>
@@ -265,7 +263,6 @@ utilizzando %s"</string>
      <string name="days">giorni</string>
      <string name="decline">Rifiuto</string>
      <string name="decline_remote_bugreport_action">RIFIUTO</string>
-     <string name="def_custom_bt_defname" />
      <string name="def_wifi_direct_name" />
      <string name="def_wifi_wifihotspot_pass" />
      <string name="defaultVoiceMailAlphaTag">Segreteria</string>
@@ -278,12 +275,6 @@ utilizzando %s"</string>
      <string name="delete">Elimina</string>
      <string name="deleteText">Elimina</string>
      <string name="deleted_key">%1$s eliminato</string>
-     <string name="demo_restarting_message">Ripristino dispositivo…</string>
-     <string name="demo_starting_message">Avvio demo…</string>
-     <string name="demo_user_inactivity_timeout_countdown">Perderai tutte le modifiche e la dimostrazione ripartirà di nuovo entro %1$s secondi…</string>
-     <string name="demo_user_inactivity_timeout_left_button">Annulla</string>
-     <string name="demo_user_inactivity_timeout_right_button">Resetta ora</string>
-     <string name="demo_user_inactivity_timeout_title">Resettare il dispositivo?</string>
      <string name="deny">Nega</string>
      <string name="deny_button">Nega</string>
      <string name="description_target_unlock_tablet">Scorri per sbloccare.</string>
@@ -412,7 +403,6 @@ utilizzando %s"</string>
      <string name="gigabyteShort">GB</string>
      <string name="global_action_assist">Assistente</string>
      <string name="global_action_bug_report">Segnalazione di bug</string>
-     <string name="global_action_emergency">Emergenza</string>
      <string name="global_action_lock">Blocco schermo</string>
      <string name="global_action_lockdown">Blocca ora</string>
      <string name="global_action_power_off">Spegni</string>
@@ -663,7 +653,6 @@ Visita "<b>google.com/accounts/recovery</b>."</string>
      <string name="lockscreen_sim_unlock_progress_dialog_message">Sblocco SIM…</string>
      <string name="lockscreen_sound_off_label">Audio disattivato</string>
      <string name="lockscreen_sound_on_label">Audio attivato</string>
-     <string name="lockscreen_storage_locked">Sblocca tutte le funzionalità ed i dati</string>
      <string name="lockscreen_too_many_failed_attempts_countdown">Riprova fra %d secondi.</string>
      <string name="lockscreen_too_many_failed_attempts_dialog_message" formatted="false">"%d tentativi errati di inserimento della sequenza di sblocco. 
 
@@ -806,10 +795,6 @@ Riprova tra %d secondi."</string>
      <string name="needPuk2">Digita il PUK2 per sbloccare la SIM.</string>
      <string name="negative_duration">−%1$s</string>
      <string name="network_available_sign_in">Accedi alla rete</string>
-     <string name="network_switch_metered">Passato a %1$s</string>
-     <string name="network_switch_metered_detail">Il dispositivo utilizza %1$s mentre %2$s non ha accesso ad Internet. Una ricarica potrebbe essere necessaria.</string>
-     <string name="network_switch_metered_toast">Passato da %1$s a %2$s</string>
-     <string name="network_switch_type_name_unknown">Tipo di network sconosciuto</string>
      <string name="new_app_action">Avvia %1$s</string>
      <string name="new_app_description">Interrompi la vecchia applicazione senza salvare.</string>
      <string name="new_sms_notification_content">"Apri l'app SMS per visualizzare"</string>
@@ -1165,7 +1150,6 @@ per l'account %s."</string>
      <string name="reboot_to_update_title">Aggiornamento di sistema</string>
      <string name="recent_tasks_title">Recenti</string>
      <string name="redo">Redo</string>
-     <string name="region_picker_section_all">Tutte le regioni</string>
      <string name="relationTypeAssistant">Assistente</string>
      <string name="relationTypeBrother">Fratello</string>
      <string name="relationTypeChild">Figlio</string>
@@ -1185,8 +1169,6 @@ per l'account %s."</string>
      <string name="replace">Sostituisci…</string>
      <string name="report">Segnala</string>
      <string name="reset">Reimposta</string>
-     <string name="reset_retail_demo_mode_text">Premi per resettare il dispositivo</string>
-     <string name="reset_retail_demo_mode_title">Resettare il dispositivo?</string>
      <string name="restr_pin_confirm_pin">Conferma il nuovo PIN</string>
      <string name="restr_pin_create_pin">Crea un PIN per la modifica delle limitazioni</string>
      <string name="restr_pin_enter_admin_pin">Inserisci PIN amministratore</string>
@@ -1427,7 +1409,6 @@ L'ascolto ad alto volume per lunghi periodi di tempo potrebbe danneggiare l'udit
      <string name="vpn_lockdown_config">Tocca per configurare</string>
      <string name="vpn_lockdown_connected">VPN sempre attiva connessa</string>
      <string name="vpn_lockdown_connecting">Connessione a VPN sempre attiva…</string>
-     <string name="vpn_lockdown_disconnected">VPN sempre attiva disconnessa</string>
      <string name="vpn_lockdown_error">Errore VPN sempre attiva</string>
      <string name="vpn_text">Tocca per gestire la rete.</string>
      <string name="vpn_text_long">Collegata a %s. Tocca per gestire la rete.</string>

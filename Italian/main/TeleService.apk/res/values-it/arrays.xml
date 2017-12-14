@@ -93,18 +93,6 @@
         <item>4MB</item>
         <item>16MB</item>
      </string-array>
-     <string-array name="select_logpersist_summaries">
-        <item>Disattivato</item>
-        <item>Tutti i buffer log</item>
-        <item>Tutti tranne i buffer log radio</item>
-        <item>Solo buffer log kernel</item>
-     </string-array>
-     <string-array name="select_logpersist_titles">
-        <item>Disattivato</item>
-        <item>Tutti</item>
-        <item>Tutti tranne radio</item>
-        <item>Solo kernel</item>
-     </string-array>
      <string-array name="show_non_rect_clip_entries">
         <item>Disattivato</item>
         <item>Disegna regione non rettangolare clip in blu</item>
@@ -116,7 +104,7 @@
         <item>In adb shell dumpsys gfxinfo</item>
      </string-array>
      <string-array name="transition_animation_scale_entries">
-	    <item>Animazione disattivata</item>
+        <item>Animazione disattivata</item>
         <item>Animazione .5x</item>
         <item>Animazione 1x</item>
         <item>Animazione 1.5x</item>
@@ -192,7 +180,7 @@
         <item>Evitamento temporaneo delle connessioni deboli</item>
      </string-array>
      <string-array name="window_animation_scale_entries">
-	    <item>Animazione disattivata</item>
+        <item>Animazione disattivata</item>
         <item>Animazione .5x</item>
         <item>Animazione 1x</item>
         <item>Animazione 1.5x</item>
