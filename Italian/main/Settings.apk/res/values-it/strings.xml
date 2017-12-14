@@ -3450,7 +3450,6 @@ Come usare Mantieni su schermo:
      <string name="search_manage_notification_access_title">Accesso notifiche</string>
      <string name="search_master_clear_title">Ripristina alle impostazioni di fabbrica</string>
      <string name="search_menu">Ricerca</string>
-     <string name="search_menu_title">Cerca</string>
      <string name="search_micloud">Sincronizza;Mi Clound</string>
      <string name="search_music_audio_effect_optimize">impostazioni audio</string>
      <string name="search_music_equalizer">Equalizzatore</string>
@@ -4170,6 +4169,8 @@ L'approccio di Google alla sincronizzazione di dati per consentirti l'accesso ai
      <string name="testing_usage_stats">Statistiche di utilizzo</string>
      <string name="testing_wifi_info">Informazioni Wi-Fi</string>
      <string name="tether_and_hotspot_title">Tethering e hotspot</string>
+     <string name="tether_data_usage_limit">One-time data limit</string>
+     <string name="tether_data_usage_limit_summary">Data limit will be applied next time your hotspot is on</string>
      <string name="tether_devices_management_title">Gestisci dispositivi</string>
      <string name="tether_devices_max_number">Limite di dispositivi collegati</string>
      <string name="tether_settings_disabled">"L'hotspot personale è disattivato"</string>
@@ -4347,6 +4348,9 @@ Le impronte digitali salvate saranno rimosse e non sarai in grado di sbloccare i
 	 
 Le impronte digitali salvate saranno rimosse da questo profilo e non sarai in grado di sbloccare il dispositivo, autorizzare gli acquisti o accedere alle tue app."</string>
      <string name="unlock_disable_frp_warning_content_pin_profile">Le funzionalità del tuo profilo di protezione non funzioneranno senza il tuo PIN.</string>
+     <string name="unlock_disable_frp_warning_content_profile">"Profile protection features will not work without your password.
+
+ You won't be able to unlock your profile, authorize purchases, or sign in to apps with them."</string>
      <string name="unlock_disable_frp_warning_content_unknown">Le funzionalità di protezione del dispositivo non funzionano senza aver inserito il blocco schermo.</string>
      <string name="unlock_disable_frp_warning_content_unknown_fingerprint">"Le funzionalità di protezione del dispositivo non funzionano senza aver inserito il blocco schermo.
 
@@ -4379,6 +4383,7 @@ Le impronte digitali salvate saranno rimosse da questo profilo e non sarai in gr
      <string name="unlock_set_unlock_none_summary">Nessuna protezione</string>
      <string name="unlock_set_unlock_none_title">Fai scorrere</string>
      <string name="unlock_set_unlock_off_title">Nessuno</string>
+     <string name="unlock_set_unlock_password_none">None</string>
      <string name="unlock_set_unlock_password_summary">Protezione alta</string>
      <string name="unlock_set_unlock_password_title">Password</string>
      <string name="unlock_set_unlock_pattern_summary">Sicurezza media</string>
@@ -4772,12 +4777,24 @@ Aggiungi una parola toccando il tasto +."</string>
      <string name="wifi_ap_choose_2G">Banda 2.4 GHz</string>
      <string name="wifi_ap_choose_5G">Banda 5 GHz</string>
      <string name="wifi_api_test">API Wi-Fi</string>
+     <string name="wifi_assistant_card_message">Automatically connect to available networks with a WLAN Assistant.</string>
+     <string name="wifi_assistant_dialog_message">"WLAN Assistant wants to set up a VPN connection that allows it to monitor network traffic.  Only accept if you trust the source."</string>
+     <string name="wifi_assistant_explanation_message">Google WLAN Assistant detects the networks available to you and connects your device to the one with the best speed and reliability.</string>
+     <string name="wifi_assistant_intro_setup">"Introducing
+WLAN Assistant"</string>
+     <string name="wifi_assistant_permission_accepted">You gave “Google WLAN Assistant” permission to set up a VPN connection. That means this app can monitor network traffic.</string>
+     <string name="wifi_assistant_setting_summary">Google WLAN Assistant</string>
+     <string name="wifi_assistant_setting_title">WLAN assistant</string>
      <string name="wifi_assistant_title">Assistente Wi-Fi</string>
+     <string name="wifi_assistant_title_message">Google WLAN Assistant automatically connects you to the best available WLAN</string>
+     <string name="wifi_assistant_vpn_message">To help protect your data, Google WLAN Assistant may provide a secure VPN connection through Google servers.</string>
      <string name="wifi_auto_connect">Connessione automatica</string>
      <string name="wifi_auto_connect_type_summary">Specifica il tipo di connessione automatica</string>
      <string name="wifi_auto_connect_type_title">Tipo di connessione automatica</string>
      <string name="wifi_automatically_connect_summary">Consenti ad un assistente Wi-Fi di collegarsi automaticamente a reti aperte ad alta velocità</string>
      <string name="wifi_automatically_connect_title">Connetti automaticamente a reti Wi-Fi aperte</string>
+     <string name="wifi_automatically_manage_summary">Let a WLAN assistant manage your WLAN connection</string>
+     <string name="wifi_automatically_manage_title">Automatically manage WLAN</string>
      <string name="wifi_available_title">Connettiti al Wi-Fi</string>
      <string name="wifi_avoid_poor_network_detection_summary">Usa solo reti con una buona connessione</string>
      <string name="wifi_band_24ghz">2.4GHz</string>
@@ -4966,6 +4983,8 @@ Aggiungi una parola toccando il tasto +."</string>
 Consentirlo a tutte le app che vogliono eseguire la ricerca?"</string>
      <string name="wifi_scan_notify_remember_choice">Non mostrare più</string>
      <string name="wifi_scan_notify_text">Per migliorare la precisione della localizzazione, applicazioni di sistema e servizi possono scansionare le reti Wi-Fi. Puoi modificare in LINK_BEGINscanning ImpostazioniLINK_END.</string>
+     <string name="wifi_scan_notify_text_location_off">"Apps may scan for nearby networks, even when WLAN is off. If you don't want this to happen, go to Advanced &gt; Scanning always available."</string>
+     <string name="wifi_scan_notify_text_location_on">"To improve location accuracy and for other purposes, Google and other apps may scan for nearby networks, even when WLAN is off. If you don't want this to happen, go to Advanced &gt; Scanning always available."</string>
      <string name="wifi_security">Sicurezza</string>
      <string name="wifi_security_WAPI_CERT">WAPI CERT</string>
      <string name="wifi_security_WAPI_PSK">WAPI PSK</string>

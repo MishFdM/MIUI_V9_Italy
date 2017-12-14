@@ -368,7 +368,6 @@
      <string name="device_not_activiey_lint2">Il servizio exchange non funziona correttamente</string>
      <string name="dialog_account_auto_sync_setting_no_open">"Sincronizzazione mail disattivata, impossibile ricevere nuovi messaggi."</string>
      <string name="dialog_change_sync_lookback">La mail ricevuta %s verrà eliminata automaticamente. Tocca per modificare.</string>
-     <string name="dialog_gmail_proxy_server_is_error">Errore del server proxy Gmail.</string>
      <string name="dialog_insufficient_space_on_external">"Impossibile scaricare allegato. Spazio insufficiente sulla memoria esterna."</string>
      <string name="dialog_insufficient_space_on_internal">Spazio di archiviazione interna non sufficiente</string>
      <string name="dialog_system_auto_sync_account_no_open">La sincronizzazione account non è attivata e i messaggi non possono essere sincronizzati automaticamente</string>

@@ -115,14 +115,10 @@
      <string name="charge_length_format">%1$s fa</string>
      <string name="choose_profile">Scegli profilo</string>
      <string name="clear_adb_keys">Revoca autorizzazioni debug USB</string>
-     <string name="config_helpIntentExtraKey" />
-     <string name="config_helpIntentNameKey" />
-     <string name="config_helpPackageNameKey" />
      <string name="confirm_enable_oem_unlock_text">AVVISO. Le funzioni di protezione del dispositivo non funzionano su questo dispositivo se questa impostazione è attiva.</string>
      <string name="confirm_enable_oem_unlock_title">Consentire lo sblocco OEM?</string>
      <string name="connected_via_passpoint">Connesso tramite %1$s</string>
      <string name="connected_via_wfa">Collegato tramite assistente Wi-Fi</string>
-     <string name="content_description_menu_button">Menu</string>
      <string name="convert_to_fbe_warning">"Converti la partizione di dati in crittografia basata su file.
  Attenzione. Questa operazione eliminerà tutti i tuoi dati.
  Questa funzione è in versione alpha, pertanto potrebbe non funzionare correttamente.
@@ -155,8 +151,6 @@
      <string name="debug_networking_category">Reti</string>
      <string name="debug_view_attributes">Attiva controllo attributi visualizzazione</string>
      <string name="default_permission_description">"esegue un'azione sconosciuta"</string>
-     <string name="dev_logpersist_clear_warning_message">Quando non controlliamo più con logger persistente, richiediamo che i dati del logger sul tuo dispositivo vengano cancellati.</string>
-     <string name="dev_logpersist_clear_warning_title">Ripulire memoria logger persistenti?</string>
      <string name="dev_settings_warning_message">"Queste impostazioni sono utilizzabili solo a scopo di sviluppo. Possono causare l'arresto o il comportamento anomalo del dispositivo e delle applicazioni su di esso."</string>
      <string name="dev_settings_warning_title">Consentire impostazioni di sviluppo?</string>
      <string name="development_settings_enable">Attiva le opzioni sviluppatore</string>
@@ -265,6 +259,7 @@ Tutti i dati utente precedenti verranno salvati."</string>
      <string name="lb_search_bar_hint_with_title">Cerca in %1$s</string>
      <string name="lb_search_bar_hint_with_title_speech">Parla per cercare in %1$s</string>
      <string name="lb_time_separator">:</string>
+     <string name="legacy_dhcp_client_summary">Use the DHCP client from Lollipop instead of the new Android DHCP client.</string>
      <string name="loading">Caricamento…</string>
      <string name="local_backup_password_summary_change">Tocca per modificare o rimuovere la password per i backup desktop completi</string>
      <string name="local_backup_password_summary_none">I backup desktop completi non sono attualmente protetti.</string>
@@ -344,13 +339,10 @@ Tutti i dati utente precedenti verranno salvati."</string>
      <string name="screen_zoom_summary_large">Grande</string>
      <string name="screen_zoom_summary_small">Piccolo</string>
      <string name="screen_zoom_summary_very_large">Più grande</string>
-     <string name="search_menu_title">Search</string>
      <string name="security_settings_desc">Consenti a questa applicazione di:</string>
      <string name="select_application">Seleziona applicazione</string>
      <string name="select_logd_size_dialog_title">Seleziona dimensioni Logger per buffer log</string>
      <string name="select_logd_size_title">Dimensioni buffer Logger</string>
-     <string name="select_logpersist_dialog_title">Seleziona buffer log per memorizzazione persistente su dispositivo</string>
-     <string name="select_logpersist_title">Memorizza dati logger persistenti su dispositivo</string>
      <string name="select_usb_configuration_dialog_title">Seleziona configurazione USB</string>
      <string name="select_usb_configuration_title">Seleziona configurazione USB</string>
      <string name="select_webview_provider_dialog_title">"Imposta l'implementazione di WebView"</string>
@@ -359,6 +351,8 @@ Tutti i dati utente precedenti verranno salvati."</string>
      <string name="settings">Impostazioni</string>
      <string name="show_all_anrs">Mostra tutti errori ANR</string>
      <string name="show_all_anrs_summary">Mostra finestra ANR per applicazioni in background</string>
+     <string name="show_cpu_usage">Show CPU usage</string>
+     <string name="show_cpu_usage_summary">Screen overlay showing current CPU usage</string>
      <string name="show_hw_layers_updates">Aggiornam. livelli hardware</string>
      <string name="show_hw_layers_updates_summary">Lampeggia verde se aggiornam. livelli hardware</string>
      <string name="show_hw_screen_updates">Aggiornamenti visualizz. GPU</string>
@@ -455,7 +449,6 @@ Tutti i dati utente precedenti verranno salvati."</string>
      <string name="wifi_display_certification_summary">Mostra opzioni per la certificazione schermo wireless</string>
      <string name="wifi_fail_to_scan">Impossibile cercare reti</string>
      <string name="wifi_no_internet">Nessun accesso ad internet rilevato, non verrà riconnesso automaticamente.</string>
-     <string name="wifi_no_internet_no_reconnect">"Nessuna accesso alla rete, non si verrà riconnesso automaticamente."</string>
      <string name="wifi_not_in_range">Fuori campo</string>
      <string name="wifi_remembered">Salvato</string>
      <string name="wifi_security_eap">802.1x EAP</string>

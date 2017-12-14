@@ -68,16 +68,20 @@
         <item>Ordina per nome app</item>
         <item>"Ordina per frequenza d'uso"</item>
         <item>Ordina per memoria utilizzata</item>
-		<item>Ordina per tempo installazione</item>
-		<item>Ordina per app che possono essere disinstallate prima</item>
+        <item>Ordina per tempo installazione</item>
+        <item>Ordina per app che possono essere disinstallate prima</item>
      </string-array>
      <string-array name="sort_type">
         <item>Stato</item>
         <item>Nome app</item>
         <item>Frequenza utilizzo</item>
         <item>Memoria utilizzata</item>
-		<item>Tempo installazione</item>
-		<item>Puoi disinstallare queste app</item>
+        <item>Tempo installazione</item>
+        <item>Puoi disinstallare queste app</item>
+     </string-array>
+     <string-array name="tether_limit_warn_type">
+        <item>Turn off and notify</item>
+        <item>Only notify</item>
      </string-array>
      <string-array name="title_app_info">
         <item>Fonte installazione</item>
