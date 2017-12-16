@@ -280,7 +280,7 @@ Per rimediare a questo puoi cancellare i vecchi file oppure comprare spazio aggi
      <string name="micloud_full_influence_title">Quando il tuo Mi Cloud è pieno…</string>
      <string name="micloud_main_battery_low">Batteria insufficiente per sincronizzare</string>
      <string name="micloud_main_battery_message">Metti in carica il dispositivo per sincronizzare</string>
-     <string name="micloud_main_button_activate">Attivato</string>
+     <string name="micloud_main_button_activate">Attivat/string>
      <string name="micloud_main_button_authorize">Autorizza</string>
      <string name="micloud_main_button_set_internet">Impostazioni</string>
      <string name="micloud_main_cancel_sync">Annulla sincronizzazione</string>
