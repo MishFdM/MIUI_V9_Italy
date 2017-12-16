@@ -472,7 +472,7 @@ Questa funziona cripta ed invia l'ID del tuo dispositivo ai server Xiaomi."</str
      <string name="pref_title_sync_contacts_title">Sincronizza i contatti</string>
      <string name="pref_title_sync_display_photo_on_wifi_only">Sincronizza foto solo con Wi-Fi</string>
      <string name="privacy_policy">Informativa sulla Privacy</string>
-     <string name="recommend_open_all_sync">Sincronizza tutti gli elementi</string>
+     <string name="recommend_open_all_sync">Tutti gli elementi sincronizzati</string>
      <string name="remind_later">Ricordamelo più tardi</string>
      <string name="restoreSync">Abilita sincronizzazione</string>
      <string name="search_cloudbackup_pref">Backup Cloud</string>
