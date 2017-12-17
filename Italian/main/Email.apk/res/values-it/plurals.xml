@@ -115,7 +115,7 @@
 	    <item quantity="other">Mostra %1$d nuovi messaggi.</item>
         <item quantity="zero">Mostra %1$d nuovi messaggi.</item>
         <item quantity="one">Mostra %1$d nuovo messaggio.</item>
-        <item quantity="two">Mostra %1$d nuovi messaggi.</item>
+        <item quantity="two">Mostra %1$d nuovi messaggi..</item>
         <item quantity="few">Mostra %1$d nuovi messaggi.</item>
         <item quantity="many">Mostra %1$d nuovi messaggi.</item>
      </plurals>

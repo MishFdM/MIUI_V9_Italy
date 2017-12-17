@@ -55,6 +55,13 @@
         <item>ICQ</item>
         <item>Jabber</item>
      </string-array>
+     <string-array name="network_switch_type_name">
+        <item>dati cellulare</item>
+        <item>Wi-Fi</item>
+        <item>Bluetooth</item>
+        <item>Ethernet</item>
+        <item>VPN</item>
+     </string-array>
      <string-array name="organizationTypes">
         <item>Lavoro</item>
         <item>Altro</item>
@@ -74,8 +81,8 @@
         <item>Casa</item>
         <item>Lavoro</item>
         <item>Altro</item>
-        <item>Personalizzato</item>
-     </string-array>
+     <item>Personalizzato</item>
+		</string-array>
      <string-array name="wfcOperatorErrorAlertMessages">
         <item>Per eseguire chiamate ed inviare messaggi tramite Wi-Fi, prima chiedi al tuo operatore di abilitare questo servizio. Dopodichè abilita nuovamente la chiamata Wi-Fi dalle impostazioni.</item>
      </string-array>

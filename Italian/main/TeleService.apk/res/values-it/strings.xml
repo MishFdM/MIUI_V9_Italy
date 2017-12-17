@@ -426,6 +426,18 @@
      <string name="change_password">Modifica password di blocco</string>
      <string name="change_pin">Modifica il PIN della SIM</string>
      <string name="change_pin2">Modifica PIN2</string>
+     <string name="change_pin_cancel_label">Annulla</string>
+     <string name="change_pin_confirm_pin_header">Conferma il PIN</string>
+     <string name="change_pin_confirm_pins_dont_match">"I PIN non corrispondono"</string>
+     <string name="change_pin_continue_label">Continua</string>
+     <string name="change_pin_enter_new_pin_header">Imposta un nuovo PIN</string>
+     <string name="change_pin_enter_new_pin_hint">PIN deve essere composto da %1$d-%2$d numero.</string>
+     <string name="change_pin_enter_old_pin_header">Conferma il tuo vecchio  PIN</string>
+     <string name="change_pin_enter_old_pin_hint">Inserisci il PIN della tua segreteria per continuare.</string>
+     <string name="change_pin_ok_label">OK</string>
+     <string name="change_pin_succeeded">PIN segreteria aggiornato</string>
+     <string name="change_pin_system_error">Impossibile impostare il PIN</string>
+     <string name="change_pin_title">Cambia il PIN della segreteria</string>
      <string name="charge_length_format">%1$s ago</string>
      <string name="choose_profile">Scegli profilo</string>
      <string name="clear_adb_keys">Revoca autorizzazioni debug USB</string>
@@ -439,6 +451,9 @@
      <string name="command_error_fdn_failure">Devi disabilitare prima i NSF</string>
      <string name="config_default_data_sim">Impostazioni</string>
      <string name="config_dialing_emergency_number_suffix" />
+     <string name="config_helpIntentExtraKey" />
+     <string name="config_helpIntentNameKey" />
+     <string name="config_helpPackageNameKey" />
      <string name="config_world_mode" />
      <string name="confirmPin2Label">Conferma il nuovo PIN2</string>
      <string name="confirmPinLabel">Conferma il nuovo PIN</string>
@@ -463,6 +478,7 @@
      <string name="contactUpdateSuccess">Aggiornamento del contatto nella SIM eseguito</string>
      <string name="contactdeleteFailed">Cancellazione dalla SIM del contatto fallita</string>
      <string name="contactdeleteSuccess">Cancellazione dalla SIM del contatto eseguita</string>
+     <string name="content_description_menu_button">Menu</string>
      <string name="convert_to_fbe_warning">"Converti partizione dati a file basato su crittografia!!
  Questo procedimento eliminerà tutti i tuoi dati.
  Questa funzionalità é in alpha, e potrebbe non funzionare correttamente.
@@ -498,7 +514,9 @@
      <string name="debug_networking_category">Networking</string>
      <string name="debug_view_attributes">Abilita ispezione attribuiti di visualizzazione</string>
      <string name="default_notification_description">Suono predefinito (%1$s)</string>
-     <string name="default_preference_summary">&lt;Not set&gt;</string>
+     <string name="default_preference_summary_domain_address">&lt;Non impostato&gt;</string>
+     <string name="default_preference_summary_password">&lt;Non impostato&gt;</string>
+     <string name="default_preference_summary_username">&lt;Non impostato&gt;</string>
      <string name="delete">Elimina</string>
      <string name="delete_fdn_contact">Elimina numero a selezione fissa</string>
      <string name="deleting_fdn_contact">Eliminazione numero a selezione fissa…</string>
@@ -520,6 +538,8 @@
      <string name="description_image_button_two">due</string>
      <string name="description_image_button_zero">zero</string>
      <string name="description_voicemail_button">Segreteria</string>
+     <string name="dev_logpersist_clear_warning_message">Quando non monitoriamo più con il logger persistente, richiediamo la cancellazione dei dati del logger presenti sul tuo dispositivo.</string>
+     <string name="dev_logpersist_clear_warning_title">Cancellare logger persistente memorizzato?</string>
      <string name="dev_settings_warning_message">Queste impostazioni sono destinate esclusivamente al solo scopo di sviluppo. Possono causare la rottura o il malfunzionamento del dispositivo e delle applicazioni.</string>
      <string name="dev_settings_warning_title">Abilitare le impostazioni sviluppatore?</string>
      <string name="development_settings_enable">Abilitare opzioni sviluppatore</string>
@@ -585,8 +605,6 @@
      <string name="dtmf_tone_entries_normal">Normale</string>
      <string name="dtmf_tones_summary">Imposta la lunghezza dei toni DTMF</string>
      <string name="dtmf_tones_title">Toni DTMF</string>
-     <string name="dual_4g_switch_summary">Allow 4G connectivity for both SIM slots.</string>
-     <string name="dual_4g_switch_title">Dual 4G</string>
      <string name="duration_disable_summary">Durata schermo disattivata</string>
      <string name="duration_enable_summary">Durata schermo attivata</string>
      <string name="edit_fdn_contact">Modifica numero a selezione fissa</string>
@@ -626,7 +644,6 @@
      <string name="enable_disable_retail_directory">Elenco venditori al dettaglio</string>
      <string name="enable_disable_stock_quotes">Quotazione di borsa</string>
      <string name="enable_disable_technology_news">Notizie di tecnologia</string>
-     <string name="enable_dual_4g_prompt_when_turn_on_volte">VoLTE requires 4G connectivity for both SIM slots. Switch to Dual 4G now?</string>
      <string name="enable_fdn">Attiva NSSF</string>
      <string name="enable_fdn_ok">NSF disattivati</string>
      <string name="enable_freeform_support">Abilita finestre di libero formato</string>
@@ -651,6 +668,7 @@
      <string name="enhanced_4g_lte_mode_on_failed">Impossibile attivare VoLTE."</string>
      <string name="enhanced_4g_lte_mode_summary">Utilizza i servizi LTE per migliorare la comunicazione voce e altro (raccomandato)</string>
      <string name="enhanced_4g_lte_mode_title">Modalità 4G LTE avanzata</string>
+     <string name="enhanced_4g_lte_mode_title_variant">Chiamata avanzata</string>
      <string name="enter_callbarring_password">Inserisci la password per il blocco chiamate (4 cifre)</string>
      <string name="enter_input" formatted="false">Il messaggio USSD deve essere lungo tra gli %d e i %d caratteri. Si prega di riprovare.</string>
      <string name="enter_pin2_text">PIN2</string>
@@ -726,6 +744,7 @@ Desideri passare comunque al nuovo servizio?"</string>
      <string name="inactive_app_inactive_summary">Inattivo. Clicca per toggle.</string>
      <string name="inactive_apps_title">App inattive</string>
      <string name="incall_error_call_failed">Chiamata non effettuata.</string>
+     <string name="incall_error_cannot_add_call">Chiamata impossibile da aggiungere in questo momento.</string>
      <string name="incall_error_ecm_emergency_only">Uscita da chiamata di emergenza in modalità richiamata, per non effettuare chiamate di emergenza.</string>
      <string name="incall_error_emergency_only">Non registrato sulla rete.</string>
      <string name="incall_error_missing_voicemail_number">Numero sconosciuto voicemail.</string>
@@ -734,6 +753,7 @@ Desideri passare comunque al nuovo servizio?"</string>
      <string name="incall_error_out_of_service_wfc">Rete mobile non disponibile. Collegati ad una rete per poter effettuare una chiamata.</string>
      <string name="incall_error_power_off">Per effettuare una chiamata, disattiva prima la modalità Aereo.</string>
      <string name="incall_error_power_off_wfc">Disattiva la modalità aereo o collegati ad una rete Wi-Fi per effettuare una chiamata.</string>
+     <string name="incall_error_promote_wfc">Abilita chiamata Wi-Fi per effettuare una chiamata.</string>
      <string name="incall_error_supp_service_conference">Impossibile effettuare chiamate in conferenza.</string>
      <string name="incall_error_supp_service_hangup">Impossibile rilasciare la chiamata(e).</string>
      <string name="incall_error_supp_service_hold">Impossibile mantenere la chiamata.</string>
@@ -801,7 +821,6 @@ Desideri passare comunque al nuovo servizio?"</string>
      <string name="lafs_enable">Orari dei voli aeroporto locale attivati</string>
      <string name="launch_defaults_none">Nessuna impostazione predefinita</string>
      <string name="launch_defaults_some">Alcune impostazioni predefinite</string>
-     <string name="legacy_dhcp_client_summary">Use the DHCP client from Lollipop instead of the new Android DHCP client.</string>
      <string name="list_language_dtitle">Lingue</string>
      <string name="list_language_summary">Seleziona la lingua delle notizie</string>
      <string name="list_language_title">Lingua</string>
@@ -850,9 +869,7 @@ Desideri passare comunque al nuovo servizio?"</string>
      <string name="missed_call_notify_times_summary">Scegli il numero di promemoria che desideri ricevere per le chiamate perse (i promemoria avvengono ad intervalli di 5 minuti)</string>
      <string name="missed_call_notify_times_title">Promemoria chiamate perse</string>
      <string name="missed_call_notify_twice">2 volte</string>
-     <string name="miui_network_selection_reset_text">Reset</string>
-     <string name="miui_notification_network_selection_title">SIM no service</string>
-     <string name="miui_notification_network_selection_title_by_sim">SIM %s no service</string>
+     <string name="miui_notification_network_selection_text" formatted="false">SIM %s ha selezionato la rete (%s) non disponibile</string>
      <string name="mmiCancelled">Codice MMI annullato</string>
      <string name="mmiStarted">Codice MMI inizializzato</string>
      <string name="mobile_data_always_on">Dati cellulare sempre attivi</string>
@@ -1187,6 +1204,9 @@ Le funzionalità relative al PIN2 saranno bloccate se si fallisce un altro tenta
      <string name="private_num">Numero privato</string>
      <string name="process_kernel_label">Android OS</string>
      <string name="progress_dialog_exiting_ecm">Uscita dalla modalità di richiamata di emergenza</string>
+     <string name="proximity_mode_title">Abilita sensore di prossimità</string>
+     <string name="proximity_off_summary">Quando risponderai ad una chiamata, lo schermo si attiverà sempre.</string>
+     <string name="proximity_on_summary">Quando risponderai ad una chiamata, lo schermo si disattiverà per risparmiare energia.</string>
      <string name="proxy_address">ProxyAddress</string>
      <string name="proxy_address_title">"Indirizzo proxy verso l'esterno"</string>
      <string name="pstn_connection_service_label">SIM implementata</string>
@@ -1271,6 +1291,8 @@ Le funzionalità relative al PIN2 saranno bloccate se si fallisce un altro tenta
      <string name="select_automatically">Scegli automaticamente</string>
      <string name="select_logd_size_dialog_title">Scegli dimensione Logger per il buffer del log</string>
      <string name="select_logd_size_title">Dimensione buffer log</string>
+     <string name="select_logpersist_dialog_title">Selezione buffer log da memorizzare in modo persistente su questo dispositivo</string>
+     <string name="select_logpersist_title">Memorizza dati logger in modo persistente su questo dispositivo</string>
      <string name="select_usb_configuration_dialog_title">Seleziona configurazione USB</string>
      <string name="select_usb_configuration_title">Seleziona configurazione USB</string>
      <string name="select_voice_call_sim">Seleziona</string>
@@ -1288,8 +1310,6 @@ Le funzionalità relative al PIN2 saranno bloccate se si fallisce un altro tenta
      <string name="settings_label">Impostazioni rete</string>
      <string name="show_all_anrs">Mostra tutti errori ANR</string>
      <string name="show_all_anrs_summary">Mostra finestra ANR per applicazioni in background</string>
-     <string name="show_cpu_usage">Show CPU usage</string>
-     <string name="show_cpu_usage_summary">Screen overlay showing current CPU usage</string>
      <string name="show_hw_layers_updates">Aggiornam. livelli hardware</string>
      <string name="show_hw_layers_updates_summary">"I livelli hardware lampeggiano di verde all'aggiornamento"</string>
      <string name="show_hw_screen_updates">Aggiornamenti visualizz. GPU</string>
@@ -1442,6 +1462,7 @@ Il prossimo periodo inizia tra %2$d giorni (%3$s)"</string>
      <string name="time_formate_am">AM</string>
      <string name="time_formate_pm">PM</string>
      <string name="time_interval_char">:</string>
+     <string name="time_next_day">" giorno successivo "</string>
      <string name="time_start">Da</string>
      <string name="time_start_hour">ora di inizio</string>
      <string name="time_start_minute">minuto di inizio</string>
@@ -1483,8 +1504,6 @@ Il prossimo periodo inizia tra %2$d giorni (%3$s)"</string>
      <string name="tty_mode_not_allowed_video_call">La modifica della modalità TTY non è consentita durante una videochiamata</string>
      <string name="tty_mode_option_summary">Imposta modalità TTY</string>
      <string name="tty_mode_option_title">Modalità TTY</string>
-     <string name="turn_off_dual_4g_failed">"Couldn't turn off Dual 4G."</string>
-     <string name="turn_on_dual_4g_failed">"Couldn't turn on Dual 4G."</string>
      <string name="turnover_mute_summary">Quando il dispositivo è in posizione orizzontale, capovolgilo per silenziare la suoneria</string>
      <string name="turnover_mute_title">Capovolgi per silenziare la suoneria</string>
      <string name="undefined">Non definita</string>
@@ -1507,6 +1526,15 @@ Il prossimo periodo inizia tra %2$d giorni (%3$s)"</string>
      <string name="vibrate_after_connected_title">Vibra dopo la connessione</string>
      <string name="vm_change_failed">"Impossibile modificare il numero della segreteria telefonica.
 Contatta il tuo operatore se questo problema persiste."</string>
+     <string name="vm_change_pin_error_invalid">Il nuovo PIN contiene caratteri non validi.</string>
+     <string name="vm_change_pin_error_mismatch">Il vecchio PIN non corrisponde.</string>
+     <string name="vm_change_pin_error_system_error">Impossibile cambiare PIN</string>
+     <string name="vm_change_pin_error_too_long">Il nuovo PIN é troppo lungo.</string>
+     <string name="vm_change_pin_error_too_short">Il nuovo PIN é troppo breve.</string>
+     <string name="vm_change_pin_error_too_weak">Il nuovo PIN é troppo debole. Una password forte non deve avere sequenze continue o digitazioni ripetute.</string>
+     <string name="vm_change_pin_new_pin">Nuovo PIN</string>
+     <string name="vm_change_pin_old_pin">Vecchio PIN</string>
+     <string name="vm_change_pin_progress_message">Prego attendere.</string>
      <string name="vm_changed">Numero della segreteria modificato.</string>
      <string name="voice_number_setting_primary_user_only">"La voce mail per le impostazioni delle chiamate può essere cambiata solo dall'utente primario."</string>
      <string name="voice_privacy">Privacy voce</string>
@@ -1515,6 +1543,7 @@ Contatta il tuo operatore se questo problema persiste."</string>
      <string name="voice_report_unknown_num">Numero sconosciuto</string>
      <string name="voicemail">Segreteria telefonica</string>
      <string name="voicemail_abbreviated">Segr:</string>
+     <string name="voicemail_change_pin_dialog_title">Cambia PIN</string>
      <string name="voicemail_default">Il mio operatore</string>
      <string name="voicemail_notification_ringtone_title">Suona</string>
      <string name="voicemail_notification_vibarte_when_dialog_title">Vibrazione</string>
@@ -1522,6 +1551,7 @@ Contatta il tuo operatore se questo problema persiste."</string>
      <string name="voicemail_number_not_set">Non impostato</string>
      <string name="voicemail_provider">Servizio di segreteria</string>
      <string name="voicemail_provider_summary">Scelta servizio di segreteria</string>
+     <string name="voicemail_set_pin_dialog_title">Imposta PIN</string>
      <string name="voicemail_settings">Impostazioni segreteria</string>
      <string name="voicemail_settings_number_hint">Inserisci il numero della segreteria telefonica</string>
      <string name="voicemail_settings_number_label">Numero della segreteria telefonica</string>
@@ -1537,6 +1567,7 @@ Contatta il tuo operatore se questo problema persiste."</string>
      <string name="volte_switch_summary">Utilizza VoLTE per migliorare la qualità audio e video delle chiamate</string>
      <string name="volte_switch_title">VoLTE attivato</string>
      <string name="vpn_settings_not_available">Impostazioni VPN non disponibili per questo utente</string>
+     <string name="vvm_unsupported_message_format">Tipi di messaggi non supportati, chiama %s per ascoltare.</string>
      <string name="wait_for_debugger">Attendi il debugger</string>
      <string name="wait_for_debugger_summary">"Applicazioni debuggate attendono il debugger prima dell'esecuzione"</string>
      <string name="wait_prompt_str">"Inviare i seguenti toni?
@@ -1556,6 +1587,7 @@ Contatta il tuo operatore se questo problema persiste."</string>
      <string name="wifi_display_certification_summary">Mostra opzioni per la certificazione dello schermo wireless</string>
      <string name="wifi_fail_to_scan">Impossibile scansionare reti</string>
      <string name="wifi_no_internet">Nessun accesso internet.</string>
+     <string name="wifi_no_internet_no_reconnect">Nessun accesso internet rilevato, la riconnessione non avverrà automaticamente.</string>
      <string name="wifi_not_in_range">Fuori portata</string>
      <string name="wifi_remembered">Salvato</string>
      <string name="wifi_security_eap">802.1x EAP</string>

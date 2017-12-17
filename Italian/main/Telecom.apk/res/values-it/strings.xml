@@ -102,17 +102,22 @@
      <string name="can_not_dial_while_vt_prompt">Impossibile chiamare mentre è in corso una videochiamata</string>
      <string name="category_personal">Personal</string>
      <string name="category_work">Work</string>
-     <string name="change_default_dialer_dialog_title">Change default Dialer app?</string>
-     <string name="change_default_dialer_no_previous_app_set_text">Use %s as your default dialer app?</string>
-     <string name="change_default_dialer_with_previous_app_set_text">Use %1$s instead of %2$s as your default dialer app?</string>
+     <string name="change_default_dialer_dialog_affirmative">Set Default</string>
+     <string name="change_default_dialer_dialog_negative">Cancel</string>
+     <string name="change_default_dialer_dialog_title">Make %s your default Phone app?</string>
+     <string name="change_default_dialer_warning_message">%s will be able to place and control all aspects of calls. Only apps you trust should be set as the default Phone app.</string>
      <string name="charge_length_format">%1$s ago</string>
      <string name="choose_profile">Choose Profile</string>
      <string name="clear_adb_keys">Revoke USB debugging authorizations</string>
      <string name="close">Close</string>
+     <string name="config_helpIntentExtraKey" />
+     <string name="config_helpIntentNameKey" />
+     <string name="config_helpPackageNameKey" />
      <string name="confirm_enable_oem_unlock_text">WARNING: Device protection features will not work on this device while this setting is turned on.</string>
      <string name="confirm_enable_oem_unlock_title">Allow OEM unlocking?</string>
      <string name="connected_via_passpoint">Connected via %1$s</string>
      <string name="connected_via_wfa">Connected via WLAN assistant</string>
+     <string name="content_description_menu_button">Menu</string>
      <string name="convert_to_fbe_warning">"Convert data partition to file based encryption.
  !!Warning!! This will erase all your data.
  This feature is alpha, and may not work correctly.
@@ -143,6 +148,8 @@
      <string name="debug_networking_category">Networking</string>
      <string name="debug_view_attributes">Enable view attribute inspection</string>
      <string name="delete_icon_description">Unblock</string>
+     <string name="dev_logpersist_clear_warning_message">When we no longer are monitoring with the persistent logger, we are required to erase the logger data resident on your device.</string>
+     <string name="dev_logpersist_clear_warning_title">Clear logger persistent storage?</string>
      <string name="dev_settings_warning_message">These settings are intended for development use only. They can cause your device and the applications on it to break or misbehave.</string>
      <string name="dev_settings_warning_title">Allow development settings?</string>
      <string name="development_settings_enable">Enable developer options</string>
@@ -198,7 +205,6 @@
      <string name="launch_defaults_none">No defaults set</string>
      <string name="launch_defaults_some">Some defaults set</string>
      <string name="lch_dtmf_key">D</string>
-     <string name="legacy_dhcp_client_summary">Use the DHCP client from Lollipop instead of the new Android DHCP client.</string>
      <string name="local_backup_password_summary_change">Tap to change or remove the password for desktop full backups</string>
      <string name="local_backup_password_summary_none">Desktop full backups aren’t currently protected</string>
      <string name="local_backup_password_title">Desktop backup password</string>
@@ -271,6 +277,8 @@
      <string name="select_application">Select application</string>
      <string name="select_logd_size_dialog_title">Select Logger sizes per log buffer</string>
      <string name="select_logd_size_title">Logger buffer sizes</string>
+     <string name="select_logpersist_dialog_title">Select log buffers to store persistently on device</string>
+     <string name="select_logpersist_title">Store logger data persistently on device</string>
      <string name="select_usb_configuration_dialog_title">Select USB Configuration</string>
      <string name="select_usb_configuration_title">Select USB Configuration</string>
      <string name="select_webview_provider_dialog_title">Set WebView implementation</string>
@@ -278,8 +286,6 @@
      <string name="select_webview_provider_toast_text">This choice is no longer valid. Try again.</string>
      <string name="show_all_anrs">Show all ANRs</string>
      <string name="show_all_anrs_summary">Show App Not Responding dialog for background apps</string>
-     <string name="show_cpu_usage">Show CPU usage</string>
-     <string name="show_cpu_usage_summary">Screen overlay showing current CPU usage</string>
      <string name="show_hw_layers_updates">Show hardware layers updates</string>
      <string name="show_hw_layers_updates_summary">Flash hardware layers green when they update</string>
      <string name="show_hw_screen_updates">Show GPU view updates</string>
@@ -369,6 +375,7 @@
      <string name="wifi_display_certification_summary">Show options for wireless display certification</string>
      <string name="wifi_fail_to_scan">"Can't scan for networks"</string>
      <string name="wifi_no_internet">No Internet Access.</string>
+     <string name="wifi_no_internet_no_reconnect">"No Internet Access Detected, won't automatically reconnect."</string>
      <string name="wifi_not_in_range">Not in range</string>
      <string name="wifi_remembered">Salvato</string>
      <string name="wifi_security_eap">802.1x EAP</string>
