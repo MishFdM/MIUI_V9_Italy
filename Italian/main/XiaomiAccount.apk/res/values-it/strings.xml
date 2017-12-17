@@ -427,7 +427,7 @@ Per attivare il tuo account, segui il
      <string name="set_success">Modificato correttamente</string>
      <string name="sign_in">Accesso in corso</string>
      <string name="sim_changed_notification_msg">Tocca per aggiornare la recovery del tuo telefono e mantieni il tuo account al sicuro.</string>
-     <string name="sim_changed_notification_title">NUmero di telefono cambiato?</string>
+     <string name="sim_changed_notification_title">Hai cambiato numero di telefono?</string>
      <string name="sina_weibo">Sina Weibo</string>
      <string name="sms_send_success">Inviato</string>
      <string name="sns_access_token_expired_warning">La sessione è scaduta. Accedi di nuovo per aggiungere questo account.</string>
