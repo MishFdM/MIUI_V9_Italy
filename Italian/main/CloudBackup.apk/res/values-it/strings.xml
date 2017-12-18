@@ -91,6 +91,7 @@ Nota: i dati delle applicazioni installate non verranno salvati su Mi Cloud."</s
      <string name="desktop_installing">Installazione</string>
      <string name="desktop_wait_wifi">In attesa di rete Wi-Fi</string>
      <string name="desktop_waiting">In attesa</string>
+     <string name="device_corrupt">Mi Phone (Data corrupt)</string>
      <string name="device_delete_prompt">Eliminare il backup di %s?</string>
      <string name="device_xiaomi">Dispositivo Mi</string>
      <string name="dialog_cancel_backup_cancel">Annulla</string>
@@ -147,10 +148,10 @@ Nota: i dati delle applicazioni installate non verranno salvati su Mi Cloud."</s
      <string name="restore_task_cancelling">Annullamento…</string>
      <string name="restore_task_in_process">Ripristino…</string>
      <string name="restore_unfinished">Ripristino incompleto, riprova più tardi</string>
-     <string name="restoring_file_tile">Ripristino di %d file</string>
      <string name="retry">Riprova</string>
      <string name="self_phone">Questo dispositivo</string>
      <string name="settings_backup">Backup impostazioni</string>
+     <string name="size_unknown">Size unknown</string>
      <string name="start_backup_to_micloud">Esegui backup su Mi Cloud</string>
      <string name="start_recover">Ripristino %s</string>
      <string name="success_open_cloudbackup">Backup applicazioni Schermata Home attivato</string>
