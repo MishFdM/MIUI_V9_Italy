@@ -51,6 +51,9 @@
      <string name="action_menu_toolbox">Strumenti</string>
      <string name="action_menu_useful_page">Aggiungi utilità</string>
      <string name="action_menu_useful_page_added">Utilità aggiunta</string>
+     <string name="action_menu_user_center">User center</string>
+     <string name="action_modify_bookmark">Modify bookmark</string>
+     <string name="action_put_in_search_box">Put %s in the search box</string>
      <string name="actionbar_share">Condividi</string>
      <string name="actionbar_textselection_title">Selezione testo</string>
      <string name="actionbar_web_search">Ricerca web</string>
