@@ -36,17 +36,13 @@
      <string name="afdcalibration_test">TEST CALIBRAZIONE AFD</string>
      <string name="afdcalibrationrubberstamp_test">TEST CALIBRAZIONE TIMBRO AFD</string>
      <string name="afdrubberstamp_test">TEST TIMBRO AFD</string>
-     <string name="audio_spk_cal_wait">Calibrazione, attendere...</string>
-     <string name="audio_spk_def">Calibrazione speaker, attendere,..</string>
      <string name="baterry_percent">"Totale ricarica batteria: "</string>
      <string name="baterry_temperature">"Temperatura batteria: "</string>
-     <string name="battery_info">Informazioni correlate ricarica batteria</string>
      <string name="begin_to_save_finger_data">Inizio salvataggio dati dito</string>
      <string name="button_ok">OK</string>
      <string name="camera_capture">Cattura</string>
-     <string name="camera_done">Eseguito</string>
-     <string name="camera_zoom">Zoom</string>
      <string name="camerainfo">Informazioni camera</string>
+     <string name="cancel">Cancel</string>
      <string name="cancel_test">TEST ANNULLATO</string>
      <string name="capacitance_test">TEST CAPACITÀ</string>
      <string name="checkerboard_test">TEST CHECKBOARD</string>
@@ -80,11 +76,11 @@ Prima di calibrare il dispositivo, posizionalo su una superficie piana."</string
      <string name="cit_audio_cali_summary">Calibrazione Altoparlante</string>
      <string name="cit_audio_cali_t0">T0:</string>
      <string name="cit_audio_cali_title">Test calibrazione Altoparlante</string>
+     <string name="cit_audio_cali_valueF0">F0:</string>
+     <string name="cit_audio_cali_valueR">Ref_diff:</string>
+     <string name="cit_audio_cali_valueT">Temp_acc:</string>
      <string name="cit_audio_calibrating">Calibrazione in corso…</string>
-     <string name="cit_audio_check_summary">Info audio</string>
-     <string name="cit_audio_check_title">Info audio</string>
      <string name="cit_audio_get_temp_fail">Ottenimento dati temp. data Fallito!</string>
-     <string name="cit_audio_hdset_plug">"Numero inserimento auricolari: "</string>
      <string name="cit_audio_lb_backmic_to_speaker_title">Test da Microfono post. ad Altoparlante</string>
      <string name="cit_audio_lb_frontmic_to_speaker_title">Test Microfono front. ad Altoparlante</string>
      <string name="cit_audio_lb_mainmic_to_earpiece_title">Test da Microfono princ. a Ricevitore</string>
@@ -122,20 +118,9 @@ Avvicina il dispositivo al viso e parla al ricevitore: dovresti sentire la tua v
      <string name="cit_audio_loopback_summary_dualmic_earpiece">"Test di riduzione rumore ambientale.
 
 Impugna il dispositivo come se stessi chiamando e parla al microfono principale: dovresti sentire la tua voce senza rumori di fondo nel ricevitore."</string>
-     <string name="cit_audio_rcv_type">"Azienda ricevitore audio: "</string>
-     <string name="cit_audio_rcv_usetime">"Ricevitore audio tempo utilizzo: "</string>
      <string name="cit_audio_right_caldata">"Dati calibrazione PA destro:
 "</string>
      <string name="cit_audio_right_calfail">Calibrazione PA destro Fallito!</string>
-     <string name="cit_audio_spk_type">"Azienda altroparlante audio: "</string>
-     <string name="cit_audio_spk_usetime">"Tempo utilizzo altoparlante audio: "</string>
-     <string name="cit_aux_camera_action">Zoom</string>
-     <string name="cit_aux_camera_check_summary">"Istruzioni test:
-
-1.Clicca sul pulsante zoom in basso per entrare sull'interfaccia della fotocamera
-2.Clicca sul pulsante zoom dell'anteprima della fotocamera, per ingrandire la cornice dell'anteprima
-3.Clicca sull'icona Fine."</string>
-     <string name="cit_back_pointer_location_title">Sensore tocco posteriore</string>
      <string name="cit_battery_check_summary">Statistiche batteria dispositivo</string>
      <string name="cit_battery_check_title">Informazioni batteria</string>
      <string name="cit_battery_temp_fail">La temperatura della batteria non è nella norma (valore: %d)</string>
@@ -151,11 +136,6 @@ Impugna il dispositivo come se stessi chiamando e parla al microfono principale:
      <string name="cit_blue_tooth_scan_check_title">Test scansione Bluetooth</string>
      <string name="cit_blue_torch_on">LED blu del flash</string>
      <string name="cit_bluetooth_address_open_error">"Impossibile ottenere l'indirizzo Bluetooth. Si è verificato un errore durante la scansione."</string>
-     <string name="cit_bluetooth_logging_confirm_info">Questo accesso Bluetooth raccoglierà i dati sul protocollo Bluetooth, solo per le operazioni Bluetooth attuali. Verrano registrate anche informazioni sulla privacy: Accesso ai contatti Bluetooth/Cronologia chiamate/SMS/MMS/File scambiati/Dati sulla musica etc. Questi dati verranno trattati unicamente da  Xiaomi, internamente, per la risoluzione dei bug con gli utenti e per nessun altro utilizzo.</string>
-     <string name="cit_bluetooth_logging_confirm_ng">No</string>
-     <string name="cit_bluetooth_logging_confirm_notify">Consenti la la raccolta dei dati?</string>
-     <string name="cit_bluetooth_logging_confirm_ok">Sì</string>
-     <string name="cit_bluetooth_logging_confirm_title">Bluetooth Logging Privacy Warning</string>
      <string name="cit_bluetooth_not_support">Questo dispositivo non supporta il Bluetooth</string>
      <string name="cit_bluetooth_scan_retry">Ripeti scansione</string>
      <string name="cit_bluetooth_scanning">Eseguo scansione dispositivi Bluetooth (richiede circa 4 secondi)…</string>
@@ -206,6 +186,7 @@ Impugna il dispositivo come se stessi chiamando e parla al microfono principale:
      <string name="cit_fm_open_bluetooth">Attivazione Bluetooth…</string>
      <string name="cit_fm_start_service">Avvia audio</string>
      <string name="cit_fpc_checkerboard_test">TEST A SCACCHIERA</string>
+     <string name="cit_fpc_resetpixel_test">RESETPIXEL TEST</string>
      <string name="cit_fpc_selftest">SELF-TEST</string>
      <string name="cit_fpc_sensor_check_summary">Test sensore FPC, premi ed attendi che appaiano le informazioni corrette di colore verde.</string>
      <string name="cit_fpc_sensor_check_title">FPC sensore impronte</string>
@@ -240,8 +221,6 @@ Tocca lo schermo per attivare il GPS"</string>
      <string name="cit_hall_near">vicino</string>
      <string name="cit_hall_test_summary">"Quando un magnete é prossimo all'area verde, il testo dovrebbe iniziare ad avvicinarsi, in alternativa rimarrà lontano"</string>
      <string name="cit_hall_test_title">Sala</string>
-     <string name="cit_hardware_info_summary">Prego attendere...Renderizzazione informazioni hardware di questo dispositivo</string>
-     <string name="cit_hardware_info_title">Informazioni hardware</string>
      <string name="cit_headset_button_check_summary">Quando le cuffie sono collegate, premi i pulsanti sulle cuffie (posizionati solitamente sul cavo). Sullo schermo il testo corrispondente dovrebbe diventare verde.</string>
      <string name="cit_headset_button_check_title">Test Cuffie</string>
      <string name="cit_headset_button_click">Premi i pulsanti sulle cuffie</string>
@@ -251,7 +230,6 @@ Tocca lo schermo per attivare il GPS"</string>
      <string name="cit_headset_button_pass">Riuscito</string>
      <string name="cit_headset_button_play_pause">Play/Pausa</string>
      <string name="cit_headset_button_previous">Precedente</string>
-     <string name="cit_headset_button_reverse">"Prego inverti l'inserimento della USB degli auricolari"</string>
      <string name="cit_headset_button_rewind">Ricomincia</string>
      <string name="cit_headset_button_stop">Stop</string>
      <string name="cit_headset_button_unknown">Sconosciuto</string>
@@ -292,9 +270,9 @@ Tocca lo schermo per attivare il GPS"</string>
 5. La foto che hai scattato dovrebbe comparire di seguito. Tocca "Elimina" per completare questo test"</string>
      <string name="cit_main_camera_check_title">Test Fotocamera posteriore</string>
      <string name="cit_name">Diagnostica</string>
-     <string name="cit_nfc_check_summary">Prego inserisci la card in cima alla parte posteriore del telefono</string>
-     <string name="cit_nfc_check_title">Test NFC</string>
      <string name="cit_not_available">La versione utente non supporta questo test, sono disponibili solo i test di fabbrica</string>
+     <string name="cit_not_support_summary">Test not supported on this device</string>
+     <string name="cit_not_support_title">Not Support</string>
      <string name="cit_notificationlight">LED Notifica</string>
      <string name="cit_notificationlight_off">LED Notifica OFF</string>
      <string name="cit_notificationlight_on">LED Notifica ON</string>
@@ -313,8 +291,6 @@ Tocca lo schermo per attivare il GPS"</string>
      <string name="cit_proximity_sensor_check_summary">"Copri il sensore di prossimità (posizionato in cima al dispositivo, vicino al ricevitore) con una mano, quindi sposta la mano. A questo punto, il valore dovrebbe aumentare.
 Durante la calibrazione, assicurati che non ci sia nulla tra il sensore e la tua mano (es. pellicole protettive o guanti)."</string>
      <string name="cit_proximity_sensor_check_title">Test Sensore di prossimità</string>
-     <string name="cit_proximity_us_sensitivity">Sensibilità:</string>
-     <string name="cit_proximity_us_summary">Calibrazione sensore di prossimità</string>
      <string name="cit_rear_dual_camera_check_title">Doppia fotocamera posteriore</string>
      <string name="cit_rear_sub_camera_check_title">Sub fotocamera posteriore</string>
      <string name="cit_recovery_signature_failed">firma di recupero FALLITO</string>
@@ -322,8 +298,8 @@ Durante la calibrazione, assicurati che non ci sia nulla tra il sensore e la tua
      <string name="cit_reset_check_summary">Questo test riavvierà il dispositivo. Tutti i dati dei precedenti test andranno persi.</string>
      <string name="cit_reset_check_title">Reimposta test</string>
      <string name="cit_reset_test">Test</string>
-     <string name="cit_sar_sensor_check_summary">I valori per i canali dei sensori sar dovrebbero apparire in basso, coprire il pulsante del telefono, se i dati sono cambiati, la funzionalità risulterà in buono stato</string>
-     <string name="cit_sar_sensor_check_title">Sensore SAR</string>
+     <string name="cit_sd_cannot_be_read">Can not read external sd card</string>
+     <string name="cit_sd_capacity">Whole Capacity:</string>
      <string name="cit_sd_fail">Si è verificato un errore.</string>
      <string name="cit_sd_mount">Monta scheda SD</string>
      <string name="cit_sd_mount_sucess">Scheda SD montata</string>
@@ -335,8 +311,13 @@ Dopo aver copiato \"traccia.mp3\" sulla scheda SD, tocca lo schermo per riprodur
      <string name="cit_sd_plugin_check_title">Test Installazione scheda SD</string>
      <string name="cit_sd_plugout_check_summary">Quando rimuovi la scheda SD, il testo \"La scheda SD è stata rimossa, inseriscila ora\" dovrebbe comparire di seguito.</string>
      <string name="cit_sd_plugout_check_title">Test Rimozione scheda SD</string>
+     <string name="cit_sd_status">SD card Status:</string>
+     <string name="cit_sd_status_normal">Status is normal</string>
+     <string name="cit_sd_status_off_normal">Status is not normal</string>
      <string name="cit_sd_unmount">Smonta scheda SD</string>
      <string name="cit_sd_unmount_sucess">Scheda SD smontata</string>
+     <string name="cit_sd_unused_capacity">Unused Capacity:</string>
+     <string name="cit_sd_used_capacity">Used Capacity:</string>
      <string name="cit_signature_check_label">controllo firma:</string>
      <string name="cit_sim_check_summary">Verifica che le informazioni e lo stato della SIM siano visualizzate correttamente.</string>
      <string name="cit_sim_check_title">Test scheda SIM</string>
@@ -358,8 +339,6 @@ Dopo aver copiato \"traccia.mp3\" sulla scheda SD, tocca lo schermo per riprodur
      <string name="cit_stop_calibration">Ferma calibrazione</string>
      <string name="cit_tfcard_support_summary">Controlla che la TFCard sia supportata su questo dispositivo</string>
      <string name="cit_tfcard_support_title">Supporto TFCard</string>
-     <string name="cit_thermal_history_summary">Attendere...Lettura dati termici su questo dispositivo.</string>
-     <string name="cit_thermal_history_title">Cronologia temperatura</string>
      <string name="cit_tool">Strumenti</string>
      <string name="cit_tool_bluetooth">Diagnostica Bluetooth</string>
      <string name="cit_tool_bluetooth_dut">Avvia la modalità di test Bluetooth</string>
@@ -471,7 +450,6 @@ Dopo aver copiato \"traccia.mp3\" sulla scheda SD, tocca lo schermo per riprodur
      <string name="cit_tool_cal_accelerometer">Strumento calibrazione accelerometro</string>
      <string name="cit_tool_cal_camera">Calibrazione Fotocamera</string>
      <string name="cit_tool_cal_gyroscope">Strumento calibrazione giroscopio</string>
-     <string name="cit_tool_drx_only">DRX</string>
      <string name="cit_tool_enable_3A_log">Abilita interruttore 3A log</string>
      <string name="cit_tool_enable_display_3A_log">Abilita log schermo 3A</string>
      <string name="cit_tool_exit_modem_mbn">Ripristina ad MBN automatico</string>
@@ -493,19 +471,13 @@ Dopo aver copiato \"traccia.mp3\" sulla scheda SD, tocca lo schermo per riprodur
      <string name="cit_tool_modem_mbn">Cambia config. Modem</string>
      <string name="cit_tool_modem_offline_log">Apri/Chiudi Log offline</string>
      <string name="cit_tool_nfc">Test NFC</string>
+     <string name="cit_tool_nfc_ce_disable">Disable Ce</string>
+     <string name="cit_tool_nfc_ce_enable">Enable Ce</string>
+     <string name="cit_tool_nfc_ce_status">Ce Status:</string>
      <string name="cit_tool_nfc_st">NFC ST:</string>
      <string name="cit_tool_nfc_st_confreq">freq:</string>
      <string name="cit_tool_nfc_st_run">Avvia</string>
      <string name="cit_tool_nfc_st_stop">Ferma</string>
-     <string name="cit_tool_prx_drx">PRx+DRx</string>
-     <string name="cit_tool_prx_drx_select_mode">Seleziona Modalità:</string>
-     <string name="cit_tool_prx_drx_select_rat">Seleziona RAT:</string>
-     <string name="cit_tool_prx_drx_start_test">Inizia Test</string>
-     <string name="cit_tool_prx_drx_stop_test">Ferma Test</string>
-     <string name="cit_tool_prx_only">PRX</string>
-     <string name="cit_tool_rf_ant">RF/Strumento antenna</string>
-     <string name="cit_tool_switch_autosms">Abilita/Disabilita AutoSMSReg</string>
-     <string name="cit_tool_tpdump">modalità debug tocco</string>
      <string name="cit_tool_wifi">Test Wi-Fi</string>
      <string name="cit_tool_wifi_exit">Esci</string>
      <string name="cit_tool_wifi_rx_ap">Rx: AP</string>
@@ -523,8 +495,6 @@ Dopo aver copiato \"traccia.mp3\" sulla scheda SD, tocca lo schermo per riprodur
      <string name="cit_tool_wifi_rxn_test">Rx: n</string>
      <string name="cit_tool_wifi_rxn_test_bw">banda:</string>
      <string name="cit_tool_wifi_rxn_test_channel">canale:</string>
-     <string name="cit_tool_wifi_sniffer">Strumento Sniffer Wi-Fi</string>
-     <string name="cit_tool_wifi_sniffer_settings">Impostazioni sniffer</string>
      <string name="cit_tool_wifi_tx_ac">Tx: ac</string>
      <string name="cit_tool_wifi_tx_bg">Tx: a/b/g</string>
      <string name="cit_tool_wifi_tx_bg_chan">canale:</string>
@@ -546,11 +516,6 @@ Dopo aver copiato \"traccia.mp3\" sulla scheda SD, tocca lo schermo per riprodur
      <string name="cit_touch_calib_pass">Calibrazione Touchscreen riuscita</string>
      <string name="cit_touch_calib_summary">"Il prossimo passo calibrerà il touchscreen, premi il pulsante di conferma e non toccare più lo schermo. Attendi l\'avviso di calibrazione eseguita."</string>
      <string name="cit_touch_calib_title">Calibrazione Touchscreen</string>
-     <string name="cit_touch_panel_test_title">Sensore tocco</string>
-     <string name="cit_tpdump_check_summary">prego clicca sul pulsante per abilitare o disabilitare la funzione dump del tocco</string>
-     <string name="cit_tpdump_close">disabilita dump</string>
-     <string name="cit_tpdump_open">abilita dump</string>
-     <string name="cit_tpdump_reset">reimposta dump</string>
      <string name="cit_usb_OTG_in">Rilevato dispositivo USB OTG</string>
      <string name="cit_usb_OTG_out">Dispositivo USB OTG scollegato</string>
      <string name="cit_usb_charger_in">Ricarica via USB</string>
@@ -596,8 +561,6 @@ Dopo aver copiato \"traccia.mp3\" sulla scheda SD, tocca lo schermo per riprodur
      <string name="far_count">FAC(False Accept Count):</string>
      <string name="far_total_count">FATC(False Accept Total Count):</string>
      <string name="fpc_app_name">Strumento test sensore</string>
-     <string name="fpc_ok">Ok</string>
-     <string name="fpc_pn_calibration">Cattura e immagazzina immagine PN</string>
      <string name="frr">FRR(False Reject Rate):</string>
      <string name="frr_count">FRC(False Reject Count):</string>
      <string name="frr_total_count">FRTC(False Reject Total Count):</string>
@@ -620,10 +583,44 @@ Dopo aver copiato \"traccia.mp3\" sulla scheda SD, tocca lo schermo per riprodur
      <string name="navigation_drawer_close">Chiudi il drawer di navigazione</string>
      <string name="navigation_drawer_open">Apri il drawer di navigazione</string>
      <string name="next">Prossimo</string>
-     <string name="nfc_disable_tip">Prego abilita la funzionalità NFC</string>
      <string name="no_data">--</string>
      <string name="noise">rumore:</string>
-     <string name="none">N/A</string>
+     <string name="radio_info_asdiv_switch_label">ASDiv Status:</string>
+     <string name="radio_info_call_status_label">Voice Call Status:</string>
+     <string name="radio_info_cellinfo_label">All Cell Measurement Info:</string>
+     <string name="radio_info_cid">CID</string>
+     <string name="radio_info_current_network_label">Current Network:</string>
+     <string name="radio_info_data_connected">Connected</string>
+     <string name="radio_info_data_connecting">Connecting</string>
+     <string name="radio_info_data_disconnected">Disconnected</string>
+     <string name="radio_info_data_network_type_label">Data Network Type:</string>
+     <string name="radio_info_data_suspended">Suspended</string>
+     <string name="radio_info_display_asu">asu</string>
+     <string name="radio_info_display_dbm">dBm</string>
+     <string name="radio_info_entry">Mobile Network Info</string>
+     <string name="radio_info_gprs_service_label">Data Service:</string>
+     <string name="radio_info_gsm_service_label">Voice Service:</string>
+     <string name="radio_info_imei_label">IMEI:</string>
+     <string name="radio_info_lac">LAC</string>
+     <string name="radio_info_neighboring_location_label">Neighbor Cell Info:</string>
+     <string name="radio_info_phone_idle">Idle</string>
+     <string name="radio_info_phone_number_label">Phone Number:</string>
+     <string name="radio_info_phone_offhook">Call in Progress</string>
+     <string name="radio_info_phone_ringing">Ringing</string>
+     <string name="radio_info_radio_power">Cellular Radio Power</string>
+     <string name="radio_info_roaming_in">Roaming</string>
+     <string name="radio_info_roaming_label">Roaming:</string>
+     <string name="radio_info_roaming_not">Not Roaming</string>
+     <string name="radio_info_service_emergency">Emergency Calls Only</string>
+     <string name="radio_info_service_in">In Service</string>
+     <string name="radio_info_service_off">Radio Off</string>
+     <string name="radio_info_service_out">Out of Service</string>
+     <string name="radio_info_set_perferred_label">Set Preferred Network Type:</string>
+     <string name="radio_info_signal_location_label">Cell Location Info:</string>
+     <string name="radio_info_signal_strength_label">Signal Strength:</string>
+     <string name="radio_info_sim_status">SIM Status:</string>
+     <string name="radio_info_unknown">Unknown</string>
+     <string name="radio_info_voice_network_type_label">Voice Network Type:</string>
      <string name="remove_headset_and_starttest">Prego rimuovi gli auricolari e premere start oer eseguire il test</string>
      <string name="resetpixel_test">REIMPOSTA TEST PIXEL</string>
      <string name="run">Esegui</string>
@@ -661,7 +658,6 @@ Dopo aver copiato \"traccia.mp3\" sulla scheda SD, tocca lo schermo per riprodur
      <string name="test_case_status" />
      <string name="test_cases">Test casi</string>
      <string name="testagain">Puoi premere il pulsante Home per testare nuovamente</string>
-     <string name="testcase_name">Nome</string>
      <string name="title_about">informazioni su</string>
      <string name="title_algo_performance">algo performance</string>
      <string name="title_bad_point">bad poing</string>

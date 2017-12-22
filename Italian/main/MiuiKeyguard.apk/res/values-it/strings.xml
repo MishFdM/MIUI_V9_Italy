@@ -7,6 +7,8 @@
      <string name="custom_lock_wallpaper_enter">Inserisci</string>
      <string name="default_lockscreen_unlock_hint_text">Scorri in alto per sbloccare</string>
      <string name="delete">Elimina</string>
+     <string name="do_disclosure_generic">This device is managed by your organization</string>
+     <string name="do_disclosure_with_name">This device is managed by %s</string>
      <string name="emergency_call_string">Emergenza</string>
      <string name="face_data_input_camera_fail">Impossibile caricare la fotocamera</string>
      <string name="face_data_input_camera_ok">Caricamento fotocamera…</string>
@@ -94,10 +96,10 @@
      <string name="keyguard_charging_info_tip_text4">Non utilizzare intensamente il dispositivo quando in carica per evitare il surriscaldamento.</string>
      <string name="keyguard_charging_info_tip_text5">La carica della batteria è più lunga quando si scaldano più del solito.</string>
      <string name="keyguard_charging_info_tip_text6">Disattiva lo schermo e riponi il dispositivo per raffreddarlo.</string>
-     <string name="keyguard_left_bankcard">Calcolatrice</string>
-     <string name="keyguard_left_buscard">Note</string>
-     <string name="keyguard_left_remotecentral">Calendario</string>
-     <string name="keyguard_left_smarthome">Contatti</string>
+     <string name="keyguard_left_bankcard">Carte di credito</string>
+     <string name="keyguard_left_buscard">Biglietti</string>
+     <string name="keyguard_left_remotecentral">Mi Remote</string>
+     <string name="keyguard_left_smarthome">Mi Home</string>
      <string name="keyguard_quick_charging_info_click_to_detail">Info carica rapida, tocca per leggere</string>
      <string name="keyguard_quickly_charging_info_charging_text">Carica rapida</string>
      <string name="keyguard_torch_cover_text">Premi a lungo il tasto accensione per tenere accesa la Torcia</string>

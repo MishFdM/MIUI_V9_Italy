@@ -94,7 +94,7 @@
      <string name="book_update">Aggiornamento disponibile</string>
      <string name="btn_back">indieteo</string>
      <string name="btn_more">altro</string>
-     <string name="calc_currency">Moneta</string>
+     <string name="calc_currency">Valuta</string>
      <string name="calc_name">Scientifico</string>
      <string name="calc_num">Personaggi finanziari</string>
      <string name="calc_parent">Calcolatrice</string>
@@ -253,7 +253,7 @@
      <string name="entrance">Migliore entrata</string>
      <string name="error_share_not_support">Questi elementi non sono supportati nei preferiti.</string>
      <string name="exapress_save_address_to_contact">Salva questo indirizzo fra i contatti</string>
-     <string name="exercise_setting_brief">Misurare la distanza e contare i passi eseguiti quotidianamente</string>
+     <string name="exercise_setting_brief">Misura la distanza e conta i passi eseguiti quotidianamente</string>
      <string name="exercise_setting_misport_detail">Misurare la distanza e contare i passi eseguiti quotidianamente (Permetti a Mi Fit di autoavviarsi in Sicurezza - Permessi).</string>
      <string name="express">Tracciamento veloce</string>
      <string name="express_add_new_address">Aggiungi indirizzo</string>
@@ -458,6 +458,11 @@ Verifica il tuo numero di tracciabilità"</string>
      <string name="fav_support_more">Tutte le app supportate</string>
      <string name="fav_support_not_title">I preferiti non appariranno in lista</string>
      <string name="fav_support_title">I preferiti appariranno in lista</string>
+     <string name="fav_tab_all">All</string>
+     <string name="fav_tab_article">Articles</string>
+     <string name="fav_tab_new">New</string>
+     <string name="fav_tab_shopping">Products</string>
+     <string name="fav_tab_video">Videos</string>
      <string name="favorite">Preferiti</string>
      <string name="favorite_add_home">Aggiungi alla schermata Home</string>
      <string name="favorite_add_home_add">Aggiungi</string>
@@ -604,6 +609,7 @@ Verifica il tuo numero di tracciabilità"</string>
      <string name="map_title_office">Lavoro</string>
      <string name="memory_clear_nothing_result">NIente da cancellare nella cache</string>
      <string name="memory_clear_result">%1$sB cancellati</string>
+     <string name="menu_new">Add</string>
      <string name="metre">metro</string>
      <string name="mi_agenda">Eventi calendario</string>
      <string name="mi_basketball">Pallacanestro</string>

@@ -123,7 +123,6 @@
      <string name="app_install_intercept">"Blocca l'installazione"</string>
      <string name="app_install_tips_go_to">Apri</string>
      <string name="app_install_tips_install_success">%1$s installazioni completate</string>
-     <string name="app_maanger_app_uninstalled_toast">Questa app è stata disinstallata</string>
      <string name="app_manager_advanced_setting">Impostazioni avanzate</string>
      <string name="app_manager_allow">Yes</string>
      <string name="app_manager_app_ifno_version">Versione app</string>
@@ -184,8 +183,6 @@
      <string name="app_manager_have_not_consume">No</string>
      <string name="app_manager_hide_system_server">Nascondi i servizi di sistema</string>
      <string name="app_manager_install_other_app">Installa applicazioni da fonti sconosciute</string>
-     <string name="app_manager_instruction">Istruzione</string>
-     <string name="app_manager_loading_data">Caricamento dati…</string>
      <string name="app_manager_manage_space">Gestisci spazio</string>
      <string name="app_manager_memory">RAM</string>
      <string name="app_manager_menu_clear_data">Cancella dati</string>
@@ -208,10 +205,6 @@
      <string name="app_manager_powerkeeper_no_restrict">Nessuna limitazione</string>
      <string name="app_manager_powerkeeper_restrict_bg">Limita le app in background</string>
      <string name="app_manager_pref_ads">Suggerimenti</string>
-     <string name="app_manager_rebide_wakepath">Limita</string>
-     <string name="app_manager_reduce_wakepath_dialog">Minimizza avvio a catena</string>
-     <string name="app_manager_reduce_wakepath_summary">"La limitazione dell'avvio automatico minimizzerrà l'avvio a catena. Limitare l'avvio automatico per %s?"</string>
-     <string name="app_manager_reject_count_over">Bloccato 100000+ volte</string>
      <string name="app_manager_reset_app_preferences">"Ripristina le preferenze dell'app"</string>
      <string name="app_manager_reset_app_preferences_button">Ripristina app</string>
      <string name="app_manager_reset_app_preferences_desc">"Questo riporterà i valori predefiniti delle preferenze epr:
@@ -221,18 +214,11 @@
  "&lt;li&gt;Applicazioni predefinite per azioni&lt;/li&gt;"
  "&lt;li&gt;Limitazione dati in background delle app&lt;/li&gt;"
 
- You will not lose any app data."</string>
+ Non perderai nessun dato dell'applicazione."</string>
      <string name="app_manager_reset_app_preferences_title">Ripristina le preferenze applicazioni?</string>
      <string name="app_manager_show_all_apps">Mostra tutte le app</string>
      <string name="app_manager_show_detail_infos">Mostra tutto</string>
      <string name="app_manager_start_by">Avviato da %s</string>
-     <string name="app_manager_start_count_over">100000+ volte</string>
-     <string name="app_manager_stop_wakepath_dialog_summary">"Disinstallare %s per limitare l'avvio a catena?"</string>
-     <string name="app_manager_stop_wakepath_dialog_title">Limita avvio a catena</string>
-     <string name="app_manager_stop_wakepath_dlg_msg_with_xspace_app">"La disinstallazione di questa app limiterà l'avvio a catena. Verrà disinstallata anche la relativa app clonata. Disinstallare %s?"</string>
-     <string name="app_manager_stop_wakepath_success">Limitato correttamente</string>
-     <string name="app_manager_stop_wp_dialog_cancel">Annulla</string>
-     <string name="app_manager_stop_wp_dialog_uninstall">Disinstalla</string>
      <string name="app_manager_support_uninstall">Puoi disinstallare queste app</string>
      <string name="app_manager_system_mobile_disable">Disattiva i dati</string>
      <string name="app_manager_title">Gestione app</string>
@@ -243,10 +229,6 @@
      <string name="app_manager_uninstall_xspace_app_dlg_msg">"La disisntallazione delle app clonate cancellerà tutti i dati dell'app."</string>
      <string name="app_manager_uninstall_xspace_app_dlg_title">Disisntalalre app clonate?</string>
      <string name="app_manager_unstall_application">Disinstalla</string>
-     <string name="app_manager_wake_path_card_title">Cronologia avvio a catena (2 giorni)</string>
-     <string name="app_manager_wakepath_dialog_buttontext">Ho capito</string>
-     <string name="app_manager_wakepath_dialog_summary">"L'avvio a catena si verifica quando un'app avvia un'altra app in background. Potrebbe aumentare il consumo di batteria e diminuire le prestazioni del sistema. MIUI blocca in modo predefinito l'avvio a catena."</string>
-     <string name="app_manager_wakepath_dialog_title">"Informazioni sull'avvio a catena"</string>
      <string name="app_managere_not_have_app">Vuoto</string>
      <string name="app_manger_des_separator">", "</string>
      <string name="app_mobile">Mobili</string>
@@ -698,8 +680,7 @@ se se dimenticata"</string>
      <string name="firewall_applist">App</string>
      <string name="firewall_fragment_nonesys_listempty">Vuoto</string>
      <string name="firewall_fragment_sys_listempty">Vuoto</string>
-     <string name="firewall_fragment_tab_title_nonsys">Scaricate</string>
-     <string name="firewall_fragment_tab_title_sys">Di sistema</string>
+     <string name="firewall_mobile">Mobile data</string>
      <string name="firewall_mobile_dialog_message">"L'app installata non potrà collegarsi a internet utilizzando la rete dati mobile quanto questa funzione è disattivata."</string>
      <string name="firewall_network_allow">Consentito a %1$s di usare connessione %2$s</string>
      <string name="firewall_network_restrict_notify_message">Tocca per modificare le impostazioni.</string>
@@ -711,9 +692,9 @@ se se dimenticata"</string>
      <string name="firewall_restrict_data">Limita utilizzo dati rete mobile</string>
      <string name="firewall_restrict_notify_title">"%s non può utilizzare la rete"</string>
      <string name="firewall_restrict_wlan">Limita utilizzando la connessione Wi-Fi</string>
-     <string name="firewall_rule_group_title_mobile">Mobili</string>
      <string name="firewall_rule_group_title_roaming">Roaming estero</string>
-     <string name="firewall_rule_group_title_wifi">Wi-Fi</string>
+     <string name="firewall_system_title">Data usage for system apps</string>
+     <string name="firewall_wifi">WLAN</string>
      <string name="firewall_wifi_dialog_message">"L'app installata non potrà collegarsi a internet utilizzando la rete Wi-Fi quanto questa funzione è disattivata.​"</string>
      <string name="five_percent_total_pkg">%s (5%% di dati mensili)</string>
      <string name="forbid_autobright_summary">La luminosità dello schermo rimarrà costante durante il gioco</string>
@@ -1074,10 +1055,10 @@ dall'operatore"</string>
      <string name="monitor_requests_from_pc">"Gestisci l'installazione delle app tramite USB"</string>
      <string name="more_game">Altri giochi</string>
      <string name="more_lock">More</string>
+     <string name="more_settings">More</string>
      <string name="name">Nome</string>
      <string name="net_booster">Accelera velocità di rete</string>
      <string name="net_booster_expire_notification">La sessione di accelerazione velocità di rete sta per terminare</string>
-     <string name="net_booster_expire_notification_tip">%d d rimanenti prima della fine della sessione di accelerazione di velocità rete. Aggiorna la sessione per evitare rallentamenti di connessione.</string>
      <string name="net_booster_overdue_notification">La sessione di accelerazione di velocità di rete sta per terminare</string>
      <string name="net_booster_overdue_notification_tip">La sessione di accelerazione di velocità di rete terminerà presto. Rinnovare la sessione?</string>
      <string name="net_booster_tip">"Attiva l'accelerazione di velocità di rete per rendere la connessione Wi-Fi più stabile e ridurre il ritardo di rete."</string>
@@ -1430,8 +1411,8 @@ Questa attività riduce la durata della batteria."</string>
      <string name="pref_key_half_year_package_start">Data di inizio</string>
      <string name="pref_key_half_year_package_switch">Pacchetto dati metà anno</string>
      <string name="pref_key_half_year_package_value">Dimensione pacchetto</string>
-     <string name="pref_key_new_installed_app_firewall_mobile">pref_key_new_installed_app_firewall_mobile</string>
-     <string name="pref_key_new_installed_app_firewall_wifi">pref_key_new_installed_app_firewall_wifi</string>
+     <string name="pref_key_tethering_setting">One-time data limit</string>
+     <string name="pref_key_tethering_title">One-time data limit</string>
      <string name="pref_manual_adjust">Imposta utilizzo dati manualmente</string>
      <string name="pref_mi_sim_settings">Impostazioni Mi SIM</string>
      <string name="pref_more_settings">Impostazioni aggiuntive</string>
@@ -1716,6 +1697,7 @@ Questa attività riduce la durata della batteria."</string>
      <string name="st_filter_keywords_setting_summary1">Messaggi da numeri sconosciuti che contengono le parole in questa lista verranno bloccati.</string>
      <string name="st_filter_keywords_setting_summary2">"
 (Usa la virgola per separare le parole)."</string>
+     <string name="st_filter_keywords_setting_summary3">Messages from unknown numbers that contain the words in this list will be allowed in.</string>
      <string name="st_group_list_management">Gestione lista</string>
      <string name="st_hint_add_head_number">Aggiungi prefisso</string>
      <string name="st_hint_add_phonenumber">Inserisci numero di telefono</string>
@@ -1724,7 +1706,9 @@ Questa attività riduce la durata della batteria."</string>
      <string name="st_message_phone_AntiSpam">Blocca chiamate</string>
      <string name="st_message_phonepass">Consenti chiamate</string>
      <string name="st_msg_intercept_contacts">Blocca messaggi dai contatti</string>
+     <string name="st_msg_keyword_black">Keyword Blocklist</string>
      <string name="st_msg_keyword_group">Parole in blacklist</string>
+     <string name="st_msg_keyword_white">Keyword Exceptions</string>
      <string name="st_msg_other_group">Altro</string>
      <string name="st_msg_settings">Blocco messaggi</string>
      <string name="st_msg_stranger_group">Blocca messaggi da sconosciuti</string>
@@ -1758,6 +1742,7 @@ Questa attività riduce la durata della batteria."</string>
      <string name="st_title_editblacklist">Modifica blacklist</string>
      <string name="st_title_editwhitelist">Modifica eccezioni</string>
      <string name="st_title_keywords_blacklist">Filtro parole chiave</string>
+     <string name="st_title_keywords_whitelist">Keyword whitelist</string>
      <string name="st_title_man_addblacklist">Aggiungi numero telefonico alla blacklist</string>
      <string name="st_title_man_addwhitelist">Aggiungi numero telefonico alle eccezioni</string>
      <string name="st_title_man_editblacklist">Scegli un prefisso da aggiungere alla blacklist</string>
@@ -1913,6 +1898,14 @@ Questa attività riduce la durata della batteria."</string>
      <string name="tc_sms_report_upload_success">Rapporto utilizzo dati SMS inviato. Lo riceveremo a breve!</string>
      <string name="tc_sms_report_upload_when_net">Grazie per il feedback!</string>
      <string name="ten_percent_total_pkg">%s (10%% di dati mensili)</string>
+     <string name="tether_custom_dialog_title">Mobile data limit</string>
+     <string name="tether_limit_dialog_title">Mobile data limit</string>
+     <string name="tether_limit_value_custom">Custom</string>
+     <string name="tether_over_limit_dialog_cancle_btn">Reset hotspot</string>
+     <string name="tether_over_limit_dialog_message">You reached portable hotspot data limit.</string>
+     <string name="tether_over_limit_dialog_title">Data usage warning</string>
+     <string name="tether_over_limit_warning_notify_message">Turn off portable hotspot.</string>
+     <string name="tether_over_limit_warning_notify_title">Reached hotspot data limit</string>
      <string name="text_button">OK</string>
      <string name="text_cycle_day">%s</string>
      <string name="text_day" />
@@ -2104,8 +2097,6 @@ I dati rimanenti includono dati che sono stati erogati il mese precedente."</str
      <string name="virus_update_tips_title">Collegati a Wi-Fi</string>
      <string name="virus_wait_network_dialog_message">Gli aggiornamenti sono di grandi dimensioni. Collegati ad una rete Wi-Fi per scaricarli.</string>
      <string name="voltage_symbol">V</string>
-     <string name="vpn_disabled_by_user">Connessione dati definita disattivata</string>
-     <string name="vpn_unbale_get_phonenum">Impossibile  recuperare numeri di telefono tramite il piano dati definito</string>
      <string name="wakepath_confirm_start_activity">Consentire a %1$s di aprire %2$s?</string>
      <string name="website">Sito web</string>
      <string name="whitelist_prefix_add_hint">Aggiungi alla lista eccezioni tutti i numeri con prefisso</string>
