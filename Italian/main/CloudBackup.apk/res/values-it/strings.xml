@@ -80,7 +80,7 @@ Nota: i dati delle applicazioni installate non verranno salvati su Mi Cloud."</s
      <string name="cloud_task_in_process">"È in corso un processo di %s! Eliminando il backup su questo dispositivo verrà annullato il processo in corso. Continuare?</string>
      <string name="confirm_cancel_restore_negative">Annulla</string>
      <string name="confirm_cancel_restore_positive">Continue</string>
-     <string name="confirm_cancel_restore_title">Annullar eil ripristino?</string>
+     <string name="confirm_cancel_restore_title">Annullar e il ripristino?</string>
      <string name="confirm_restore">Ripristina</string>
      <string name="confirm_restore_summary">La Schermata Home verrà riavviata e le app verranno scaricate automaticamente quando collegato ad una rete Wi-Fi</string>
      <string name="confirm_restore_title">Ripristina</string>
@@ -92,7 +92,7 @@ Nota: i dati delle applicazioni installate non verranno salvati su Mi Cloud."</s
      <string name="desktop_installing">Installazione</string>
      <string name="desktop_wait_wifi">In attesa di rete Wi-Fi</string>
      <string name="desktop_waiting">In attesa</string>
-     <string name="device_corrupt">Mi Phone (Data corrupt)</string>
+     <string name="device_corrupt">Mi Phone (Dati corrotti)</string>
      <string name="device_delete_prompt">Eliminare il backup di %s?</string>
      <string name="device_xiaomi">Dispositivo Mi</string>
      <string name="dialog_cancel_backup_cancel">Annulla</string>
@@ -154,7 +154,7 @@ Nota: i dati delle applicazioni installate non verranno salvati su Mi Cloud."</s
      <string name="retry">Riprova</string>
      <string name="self_phone">Questo dispositivo</string>
      <string name="settings_backup">Backup impostazioni</string>
-     <string name="size_unknown">Size unknown</string>
+     <string name="size_unknown">Dimensione sconosciuta</string>
      <string name="start_backup_to_micloud">Esegui backup su Mi Cloud</string>
      <string name="start_recover">Ripristino %s</string>
      <string name="success_open_cloudbackup">Backup applicazioni Schermata Home attivato</string>

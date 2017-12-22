@@ -4171,8 +4171,8 @@ L'approccio di Google alla sincronizzazione di dati per consentirti l'accesso ai
      <string name="testing_usage_stats">Statistiche di utilizzo</string>
      <string name="testing_wifi_info">Informazioni Wi-Fi</string>
      <string name="tether_and_hotspot_title">Tethering e hotspot</string>
-     <string name="tether_data_usage_limit">One-time data limit</string>
-     <string name="tether_data_usage_limit_summary">Data limit will be applied next time your hotspot is on</string>
+     <string name="tether_data_usage_limit">LImite dati one-time</string>
+     <string name="tether_data_usage_limit_summary">"Il limite dati verrà applicato la prossima volta che attiverai l'hotspot"</string>
      <string name="tether_devices_management_title">Gestisci dispositivi</string>
      <string name="tether_devices_max_number">Limite di dispositivi collegati</string>
      <string name="tether_settings_disabled">"L'hotspot personale è disattivato"</string>
