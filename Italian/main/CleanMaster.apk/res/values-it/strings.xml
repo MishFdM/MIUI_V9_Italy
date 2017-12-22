@@ -306,16 +306,8 @@
      <string name="no_network">Impossibile collegarsi alla rete, riprova più tardi</string>
      <string name="no_network_btn">Riprova</string>
      <string name="notification_summary_after_auto_cleanup">Pulito %s.</string>
-     <!-- MNPS mismatch found! Translated: 1 Original: 0
-	%s: 1 Original: 0
-	%d: 0 Original: 0 -->
-     <!-- Original string: Tap to free up space. -->
-     <string name="notification_summary_of_garbage_cleanup">Attenzione. Il cestino è oltre %s.</string>
-     <!-- MNPS mismatch found! Translated: 0 Original: 1
-	%s: 0 Original: 1
-	%d: 0 Original: 0 -->
-     <!-- Original string: %s of trash files -->
-     <string name="notification_title_of_garbage_cleanup">Avviso dimensione cestino</string>
+     <string name="notification_summary_of_garbage_cleanup">Tap to free up space.</string>
+     <string name="notification_title_of_garbage_cleanup">%s of trash files</string>
      <string name="notify_when">Ricevi una notifica quando il cestino raggiunge 100 MB</string>
      <string name="ok">OK</string>
      <string name="open">Attiva</string>
@@ -496,11 +488,7 @@
      <string name="wechat_copy_video_failed_dialog_title">Non è stato possibile esportare</string>
      <string name="wechat_copying_video">Esportazione…</string>
      <string name="wechat_copying_video_dialog_checkbox">"Elimina i file dopo l'esportazione"</string>
-     <!-- MNPS mismatch found! Translated: 0 Original: 1
-	%s: 0 Original: 1
-	%d: 0 Original: 0 -->
-     <!-- Original string: Files will be saved to this folder: %s -->
-     <string name="wechat_copying_video_dialog_msg">I file verranno salvati in questa cartella: /DCIM/WeChat</string>
+     <string name="wechat_copying_video_dialog_msg">Files will be saved to this folder: %s</string>
      <string name="wechat_copying_video_dialog_title">Esporta sulla Galleria</string>
      <string name="wechat_copying_video_empty">Nessun video da esportare</string>
      <string name="wechat_copying_video_success">Esportazione riuscita</string>

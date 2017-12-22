@@ -458,6 +458,11 @@ Verifica il tuo numero di tracciabilità"</string>
      <string name="fav_support_more">Tutte le app supportate</string>
      <string name="fav_support_not_title">I preferiti non appariranno in lista</string>
      <string name="fav_support_title">I preferiti appariranno in lista</string>
+     <string name="fav_tab_all">All</string>
+     <string name="fav_tab_article">Articles</string>
+     <string name="fav_tab_new">New</string>
+     <string name="fav_tab_shopping">Products</string>
+     <string name="fav_tab_video">Videos</string>
      <string name="favorite">Preferiti</string>
      <string name="favorite_add_home">Aggiungi alla schermata Home</string>
      <string name="favorite_add_home_add">Aggiungi</string>

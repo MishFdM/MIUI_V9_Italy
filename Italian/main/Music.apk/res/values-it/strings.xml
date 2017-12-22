@@ -447,7 +447,6 @@ attendere o selezionare Musica Online."</string>
      <string name="ktv_playlist">Il mio KTV</string>
      <string name="latest_song">Riproduci cronologia (%d).</string>
      <string name="like">Mi piace</string>
-     <string name="list_detail_title">Dettagli</string>
      <string name="list_item_play_FM_radio">Tocca per riprodurre la radio FM</string>
      <string name="list_item_play_all_tracks">Riproduci tutti i brani</string>
      <string name="load_shuffle">Caricamento</string>
@@ -840,10 +839,7 @@ attendere o selezionare Musica Online."</string>
      <string name="tab_album_list">Album</string>
      <string name="tab_artist">Artisti</string>
      <string name="tab_artist_list">Artisti</string>
-     <string name="tab_chinese">Cinese</string>
-     <string name="tab_europa_america">Occidentale</string>
      <string name="tab_folder">Cartelle</string>
-     <string name="tab_japanese_korean">J-Pop/K-Pop</string>
      <string name="tab_local_folder_list">Cartella</string>
      <string name="tab_local_track_list">Brani</string>
      <string name="tab_track">Brani</string>
