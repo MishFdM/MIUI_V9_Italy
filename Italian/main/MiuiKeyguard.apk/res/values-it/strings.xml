@@ -7,8 +7,8 @@
      <string name="custom_lock_wallpaper_enter">Inserisci</string>
      <string name="default_lockscreen_unlock_hint_text">Scorri in alto per sbloccare</string>
      <string name="delete">Elimina</string>
-     <string name="do_disclosure_generic">This device is managed by your organization</string>
-     <string name="do_disclosure_with_name">This device is managed by %s</string>
+     <string name="do_disclosure_generic">Questo dispositivo è gestito dalla tua organizzazione</string>
+     <string name="do_disclosure_with_name">Questo dispositivo è gestito da %s</string>
      <string name="emergency_call_string">Emergenza</string>
      <string name="face_data_input_camera_fail">Impossibile caricare la fotocamera</string>
      <string name="face_data_input_camera_ok">Caricamento fotocamera…</string>

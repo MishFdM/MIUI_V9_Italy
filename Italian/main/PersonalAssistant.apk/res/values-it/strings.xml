@@ -458,11 +458,11 @@ Verifica il tuo numero di tracciabilità"</string>
      <string name="fav_support_more">Tutte le app supportate</string>
      <string name="fav_support_not_title">I preferiti non appariranno in lista</string>
      <string name="fav_support_title">I preferiti appariranno in lista</string>
-     <string name="fav_tab_all">All</string>
-     <string name="fav_tab_article">Articles</string>
-     <string name="fav_tab_new">New</string>
-     <string name="fav_tab_shopping">Products</string>
-     <string name="fav_tab_video">Videos</string>
+     <string name="fav_tab_all">Tutto</string>
+     <string name="fav_tab_article">Articoli</string>
+     <string name="fav_tab_new">News</string>
+     <string name="fav_tab_shopping">Prodotti</string>
+     <string name="fav_tab_video">Video</string>
      <string name="favorite">Preferiti</string>
      <string name="favorite_add_home">Aggiungi alla schermata Home</string>
      <string name="favorite_add_home_add">Aggiungi</string>
@@ -609,7 +609,7 @@ Verifica il tuo numero di tracciabilità"</string>
      <string name="map_title_office">Lavoro</string>
      <string name="memory_clear_nothing_result">NIente da cancellare nella cache</string>
      <string name="memory_clear_result">%1$sB cancellati</string>
-     <string name="menu_new">Add</string>
+     <string name="menu_new">Aggiungi</string>
      <string name="metre">metro</string>
      <string name="mi_agenda">Eventi calendario</string>
      <string name="mi_basketball">Pallacanestro</string>

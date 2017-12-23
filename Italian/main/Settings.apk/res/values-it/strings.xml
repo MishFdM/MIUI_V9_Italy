@@ -390,7 +390,7 @@ Vuoi abilitare le finestre flottanti?"</string>
      <string name="average_used">Media uso (%)</string>
      <string name="avoid_ui">Evita UI</string>
      <string name="awake">Tempo di attività dispositivo</string>
-     <string name="back_button">Back</string>
+     <string name="back_button">Indietro</string>
      <string name="back_key">Indietro</string>
      <string name="background_check_pref">Controllo background</string>
      <string name="background_check_title">Accesso totale background</string>
@@ -780,7 +780,6 @@ La trasmissione utilizza segnali Bluetooth a bassa potenza."</string>
      <string name="bootloader_status_unlocked">Sbloccato</string>
      <string name="bootloader_status_unlocked_info">Questo dispositivo è sbloccato</string>
      <string name="bootloader_summary">Esegui il flash del tuo dispositivo tramite USB</string>
-     <string name="bootloader_unlock_webhome">https://unlock.update.miui.com</string>
      <string name="breathing_light_color_menu_title">Colore LED</string>
      <string name="breathing_light_color_summary">Colore LED quando si ricevono nuove notifiche</string>
      <string name="breathing_light_freq_summary">Illumina quando ricevi nuove notifiche</string>
@@ -4171,8 +4170,8 @@ L'approccio di Google alla sincronizzazione di dati per consentirti l'accesso ai
      <string name="testing_usage_stats">Statistiche di utilizzo</string>
      <string name="testing_wifi_info">Informazioni Wi-Fi</string>
      <string name="tether_and_hotspot_title">Tethering e hotspot</string>
-     <string name="tether_data_usage_limit">One-time data limit</string>
-     <string name="tether_data_usage_limit_summary">Data limit will be applied next time your hotspot is on</string>
+     <string name="tether_data_usage_limit">LImite dati one-time</string>
+     <string name="tether_data_usage_limit_summary">"Il limite dati verrà applicato la prossima volta che attiverai l'hotspot"</string>
      <string name="tether_devices_management_title">Gestisci dispositivi</string>
      <string name="tether_devices_max_number">Limite di dispositivi collegati</string>
      <string name="tether_settings_disabled">"L'hotspot personale è disattivato"</string>

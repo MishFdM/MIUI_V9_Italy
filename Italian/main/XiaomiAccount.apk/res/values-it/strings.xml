@@ -213,9 +213,9 @@
 Per attivare il tuo account, segui il 
  link nel messaggio che ti abbiamo inviato."</string>
      <string name="passport_completed">Finito</string>
-     <string name="passport_confirm_login">Continue</string>
+     <string name="passport_confirm_login">Continua</string>
      <string name="passport_confirm_recycle_account">Sì</string>
-     <string name="passport_continue">Continue</string>
+     <string name="passport_continue">Continua</string>
      <string name="passport_copy_message_text_success">Copiato correttamente</string>
      <string name="passport_copy_message_vcode">Copia codice</string>
      <string name="passport_delete_account">Esci</string>

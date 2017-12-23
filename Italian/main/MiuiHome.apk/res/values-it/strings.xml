@@ -71,11 +71,11 @@
      <string name="disable_wallpaper_scroll">Disattiva scorrimento sfondo</string>
      <string name="download_action">Download</string>
      <string name="edit_folder_title">Modifica nome cartella</string>
-     <string name="edit_mode_group">Group</string>
-     <string name="edit_mode_group_error_full">Not enough space</string>
-     <string name="edit_mode_group_error_in_folder">Close the folder before grouping icons</string>
-     <string name="edit_mode_group_error_one_folder">"Can't duplicate a folder with selected icons"</string>
-     <string name="edit_mode_uninstall">Uninstall</string>
+     <string name="edit_mode_group">Gruppo</string>
+     <string name="edit_mode_group_error_full">Spazio insufficiente</string>
+     <string name="edit_mode_group_error_in_folder">Chiudi la cartella prima di raggruppare le icone</string>
+     <string name="edit_mode_group_error_one_folder">Impossibile duplicare una cartella con el icone selezionate</string>
+     <string name="edit_mode_uninstall">Disinstalla</string>
      <string name="editing_add_widget_tips">Aggiungi widget</string>
      <string name="editing_mode_enter_tip_text">Pizzica con due dita per modificare la Home</string>
      <string name="editing_mode_title_empty">0 selezionati</string>
@@ -160,8 +160,8 @@
      <string name="lock_screen_failed_message">Impossibile applicare</string>
      <string name="lock_screen_success_message">Applicato</string>
      <string name="lock_screen_wallpaper">Sfondo Schermata di blocco</string>
-     <string name="memory_clear_nothing_result">Nothing to clear in cache</string>
-     <string name="memory_clear_result">%1$sB cleared</string>
+     <string name="memory_clear_nothing_result">Niente da eliminare nella cache</string>
+     <string name="memory_clear_result">%1$sB cancellati</string>
      <string name="menu_add">Aggiungi</string>
      <string name="menu_auto_fill">Auto-riempimento</string>
      <string name="menu_back_desktop">Torna alla Home</string>
