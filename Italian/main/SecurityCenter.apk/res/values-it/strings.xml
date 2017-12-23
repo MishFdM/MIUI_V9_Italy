@@ -1902,7 +1902,7 @@ Questa attività riduce la durata della batteria."</string>
      <string name="tether_limit_dialog_title">Limite rete dati mobile</string>
      <string name="tether_limit_value_custom">Personalizza</string>
      <string name="tether_over_limit_dialog_cancle_btn">Ripristina hotspot</string>
-     <string name="tether_over_limit_dialog_message">Hai raggiunto il limite dati dell'hotspot portatile.</string>
+     <string name="tether_over_limit_dialog_message">"Hai raggiunto il limite dati dell'hotspot portatile."</string>
      <string name="tether_over_limit_dialog_title">Avvso utilizzo dati</string>
      <string name="tether_over_limit_warning_notify_message">Disattiva hotspot portatile.</string>
      <string name="tether_over_limit_warning_notify_title">Limite dati hotspot portatile raggiunto</string>
