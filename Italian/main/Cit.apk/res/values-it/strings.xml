@@ -76,9 +76,6 @@ Prima di calibrare il dispositivo, posizionalo su una superficie piana."</string
      <string name="cit_audio_cali_summary">Calibrazione Altoparlante</string>
      <string name="cit_audio_cali_t0">T0:</string>
      <string name="cit_audio_cali_title">Test calibrazione Altoparlante</string>
-     <string name="cit_audio_cali_valueF0">F0:</string>
-     <string name="cit_audio_cali_valueR">Ref_diff:</string>
-     <string name="cit_audio_cali_valueT">Temp_acc:</string>
      <string name="cit_audio_calibrating">Calibrazione in corso…</string>
      <string name="cit_audio_get_temp_fail">Ottenimento dati temp. data Fallito!</string>
      <string name="cit_audio_lb_backmic_to_speaker_title">Test da Microfono post. ad Altoparlante</string>
