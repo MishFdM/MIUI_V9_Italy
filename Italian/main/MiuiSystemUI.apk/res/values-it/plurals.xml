@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <plurals name="accessibility_desc_weather_temperature">
-        <item quantity="other">Weather %d degrees</item>
-        <item quantity="zero">Weather %d degrees</item>
-        <item quantity="one">Weather %d degree</item>
+        <item quantity="other">Meteo %d gradi</item>
+        <item quantity="zero">Meteo %d gradi</item>
+        <item quantity="one">Meteo %d gradi</item>
      </plurals>
      <plurals name="accessibility_recent_task_enter">
         <item quantity="other">Recenti aperti, app disponibili: %d.</item>

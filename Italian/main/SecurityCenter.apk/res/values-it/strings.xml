@@ -1697,7 +1697,7 @@ Questa attività riduce la durata della batteria."</string>
      <string name="st_filter_keywords_setting_summary1">Messaggi da numeri sconosciuti che contengono le parole in questa lista verranno bloccati.</string>
      <string name="st_filter_keywords_setting_summary2">"
 (Usa la virgola per separare le parole)."</string>
-     <string name="st_filter_keywords_setting_summary3">Messages from unknown numbers that contain the words in this list will be allowed in.</string>
+     <string name="st_filter_keywords_setting_summary3">Messaggi da numeri sconosciuti che contengono le parole in questa lista non verranno bloccati.</string>
      <string name="st_group_list_management">Gestione lista</string>
      <string name="st_hint_add_head_number">Aggiungi prefisso</string>
      <string name="st_hint_add_phonenumber">Inserisci numero di telefono</string>
@@ -1706,9 +1706,9 @@ Questa attività riduce la durata della batteria."</string>
      <string name="st_message_phone_AntiSpam">Blocca chiamate</string>
      <string name="st_message_phonepass">Consenti chiamate</string>
      <string name="st_msg_intercept_contacts">Blocca messaggi dai contatti</string>
-     <string name="st_msg_keyword_black">Keyword Blocklist</string>
+     <string name="st_msg_keyword_black">Parole chiave</string>
      <string name="st_msg_keyword_group">Parole in blacklist</string>
-     <string name="st_msg_keyword_white">Keyword Exceptions</string>
+     <string name="st_msg_keyword_white">Eccezioni</string>
      <string name="st_msg_other_group">Altro</string>
      <string name="st_msg_settings">Blocco messaggi</string>
      <string name="st_msg_stranger_group">Blocca messaggi da sconosciuti</string>
@@ -1742,7 +1742,7 @@ Questa attività riduce la durata della batteria."</string>
      <string name="st_title_editblacklist">Modifica blacklist</string>
      <string name="st_title_editwhitelist">Modifica eccezioni</string>
      <string name="st_title_keywords_blacklist">Filtro parole chiave</string>
-     <string name="st_title_keywords_whitelist">Keyword whitelist</string>
+     <string name="st_title_keywords_whitelist">Parole consentite</string>
      <string name="st_title_man_addblacklist">Aggiungi numero telefonico alla blacklist</string>
      <string name="st_title_man_addwhitelist">Aggiungi numero telefonico alle eccezioni</string>
      <string name="st_title_man_editblacklist">Scegli un prefisso da aggiungere alla blacklist</string>

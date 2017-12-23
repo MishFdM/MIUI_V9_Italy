@@ -20,7 +20,7 @@
      <string name="backup_to_cloud">Backup applicazioni</string>
      <string name="btn_back">Indietro</string>
      <string name="btn_continue">Avanti</string>
-     <string name="btn_retry">Check again</string>
+     <string name="btn_retry">Controlla di nuovo</string>
      <string name="btn_skip">Salta questo passaggio</string>
      <string name="button_cancel">Annulla</string>
      <string name="button_delete">Elimina</string>
@@ -127,8 +127,8 @@ Nota: i dati delle applicazioni installate non verranno salvati su Mi Cloud."</s
      <string name="open_wifi_description">Collegato ad una rete Wi-Fi per ripristinare le applicazioni</string>
      <string name="open_wifi_setting">Impostazioni Wi-Fi</string>
      <string name="process_whole_recovery">Ripristino di \"%s\"</string>
-     <string name="provision_error_connect_msg">You can test the network and try again. The backup function will not be available without a valid network.</string>
-     <string name="provision_error_connect_title">Can not connect</string>
+     <string name="provision_error_connect_msg">Puoi testare la rete e provare di nuovo. La funzione di backup non sarà disponibile senza una connessione valida.</string>
+     <string name="provision_error_connect_title">Impossibile connettersi</string>
      <string name="query_restore_description">"Ripristina le app sulla Schermata Home e le impostazioni con questo backup. Verranno sovrascritti i dati delle app già installate. Le app non incluse in questo backup verranno spostate nell'ultima schermata."</string>
      <string name="query_restore_summary">Trovato un backup su Mi Cloud per questo dispositivo. Vuoi utilizzare il backup o vuoi continuare configurando il dispositivo come nuovo e cancellare i backup precedenti su Mi Cloud?</string>
      <string name="recover_from_micloud">Ripristina utilizzando Mi Cloud</string>
