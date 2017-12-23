@@ -12,10 +12,6 @@
         <item quantity="other">Richiesta per %d permessi</item>
         <item quantity="one">Richiesta per %d permesso</item>
      </plurals>
-     <plurals name="app_manager_reject_count">
-        <item quantity="other">Bloccato %d volte</item>
-        <item quantity="one">Bloccato %d volta</item>
-     </plurals>
      <plurals name="app_manager_start_count">
         <item quantity="other">%d volte</item>
         <item quantity="one">%d volta</item>

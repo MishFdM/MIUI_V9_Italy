@@ -176,7 +176,7 @@ devi caricare i dati dei vecchi dispositivi su iCloud"</string>
      <string name="import_from_xiaomi_account_hint2">Nota: Vai al prossimo punto se il backup è già esistente</string>
      <string name="import_from_xiaomi_account_hint_title">Usa Mi Talk per il backup dei contatti su dispositivi di altre marche</string>
      <string name="import_tip_summary">Per ragioni di compatibilità, sono supportati solo Contatti e Foto. Devi prima caricare i dati dei vecchi dispositivi su iCloud.</string>
-     <string name="import_tip_title">Suggerimenti:</string>
+     <string name="list_footer_tip_title">Suggerimenti:</string>
      <string name="loading_data">Caricamento dati</string>
      <string name="local_app_name">Backup</string>
      <string name="local_backup_window_title">Locale</string>
@@ -357,11 +357,31 @@ Libera almeno %s"</string>
      <string name="trans_connect_failed_toast">Impossibile connettersi</string>
      <string name="trans_connecting_toast">Connessione…</string>
      <string name="trans_connection_failed">Dispositivo disconnesso</string>
+     <string name="trans_detail_app_apk_list_title">App installate</string>
+     <string name="trans_detail_app_apk_page_title">Seleziona app</string>
+     <string name="trans_detail_app_data_list_title">Dati app</string>
+     <string name="trans_detail_app_data_page_title">Seleziona dati app</string>
+     <string name="trans_detail_app_data_useless_tip">"Puoi ripristinare sull'app, non serve trasferire."</string>
+     <string name="trans_detail_audio_video_doc_list_title">Audio, video e file</string>
+     <string name="trans_detail_audio_video_doc_page_title">Seleziona audio, video e file</string>
      <string name="trans_detail_category_account">Account e contatti</string>
+     <string name="trans_detail_category_audio_video_doc">Audio, video e file</string>
      <string name="trans_detail_category_files">File</string>
      <string name="trans_detail_category_sysdata">Dati di sistema</string>
+     <string name="trans_detail_category_user_app_data">App data</string>
      <string name="trans_detail_category_userdata">App</string>
-     <string name="trans_device_auto_reconnecting">Dispositivo disconnesso. Riconnessione automatica…</string>
+     <string name="trans_detail_category_wechat_qq">Dati WeChat e QQ (inclusa cronologia chat)</string>
+     <string name="trans_detail_item_app_data_selected_tip">Selezionate anche app corrispondenti.</string>
+     <string name="trans_detail_item_app_data_too_large_tip">Sembra che il file sia troppo grande per essere trasferito.</string>
+     <string name="trans_detail_list_footer">Nota: puoi scegliere di trasferire le app separatamente. Comunque, se selezioni i dati app, verranno trasferite anche le app corrispondenti.</string>
+     <string name="trans_detail_page_tip">Più elementi selezioni  più tempo richiederà il trasferimento.</string>
+     <string name="trans_detail_qq_data">Dati QQ (inclusa cronologia chat)</string>
+     <string name="trans_detail_sys_data_list_title">App di sistema</string>
+     <string name="trans_detail_sys_data_page_title">Seleziona app di sistema</string>
+     <string name="trans_detail_wechat_data">Dati WeChat (inclusa cronologia chat)</string>
+     <string name="trans_detail_wechat_qq_list_title">WeChat e QQ</string>
+     <string name="trans_detail_wechat_qq_page_title">Seleziona dati app di WeChat e QQ</string>
+     <string name="trans_device_auto_reconnecting">Dispositivo disconnesso. Nuova connessione automatica…</string>
      <string name="trans_device_disconnected">Dispositivo disconnesso</string>
      <string name="trans_device_wait_for_reconnecting">Dispositivo disconnesso. Riconnettere.</string>
      <string name="trans_disconnected_tips_message">"Il dispositivo remoto è disconnesso. Riconnetti manualmente. Puoi annullare l'operazione in corso se necessario."</string>
@@ -413,6 +433,7 @@ Tocca [I'm a recipient] per creare un Codice QR"</string>
 Quindi premi [Reconnect] per creare un codice QR."</string>
      <string name="trans_operate_reconnect_old_tips">"Attendi finché non compare il vecchio dispositivo \"Dispositivo disconnesso\".
 Quindi premi [Reconnect] per scansionare il codice QR code."</string>
+     <string name="trans_pausing">In pausa…</string>
      <string name="trans_please_waiting">Attendi…</string>
      <string name="trans_progress_subdescript_br_receiver">Ripristino %1$s, %2$s completato</string>
      <string name="trans_progress_subdescript_br_sender">Backup %1$s, %2$s completato</string>
@@ -441,6 +462,8 @@ Non disattivare l'Hotspot. Mantieni i dispositivi vicini."</string>
 Seleziona di nuovo i file per liberare spazio"</string>
      <string name="trans_select_data_tips">"Seleziona i file da trasferire
 I file già esistenti sul nuovo dispositivo verranno sovrascritti"</string>
+     <string name="trans_select_data_too_large">"Hai selezionato troppi elementi da trsaferire.
+Seleziona solo gli elementi importanti per rendere il trasferimento più veloce."</string>
      <string name="trans_select_device_receive">Seleziona un dispositivo per la ricezione dei dati.</string>
      <string name="trans_select_device_send">Seleziona il dispositivo su cui trasferire i dati.</string>
      <string name="trans_sender">Sono il mittente</string>

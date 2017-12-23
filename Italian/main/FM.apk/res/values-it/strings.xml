@@ -31,11 +31,11 @@
      <string name="menu_scan_start">Scansione</string>
      <string name="menu_sleep">Timer spegnimento</string>
      <string name="menu_sleep_cancel">Annulla spegnimento</string>
-     <string name="menu_speaker">"Passa all'altoparlarte"</string>
+     <string name="menu_speaker">"Passa all'altoparlante"</string>
      <string name="msg_do_not_support_fm">La Radio FM non è supportata su questo dispositivo.</string>
      <string name="msg_fm_starting">Avvio…</string>
      <string name="msg_noantenna_message">Inserisci le cuffie per migliorare la qualità della ricezione.</string>
-     <string name="msg_try_plug_headset">Connect headphones and try again.</string>
+     <string name="msg_try_plug_headset">Collega le cuffie e prova dinuovo.</string>
      <string name="new_frequency">Nuova frequenza</string>
      <string name="next_station">successiva</string>
      <string name="notification_rec_title">Tocca per vedere la registrazione</string>
