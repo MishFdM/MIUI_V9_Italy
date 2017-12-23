@@ -102,7 +102,7 @@ Il soggetto non deve essere più lontano di 2 metri."</string>
      <string name="face_beauty_age_alias_male_45_60">Uomo 45-60</string>
      <string name="face_beauty_age_alias_male_60_m">Uomo 60+</string>
      <string name="face_beauty_age_alias_male_8_17">Uomo 8-17</string>
-     <string name="face_beauty_close">Off</string>
+     <string name="face_beauty_close">Disattivato</string>
      <string name="face_beauty_intelligent_level_0">Disatt.</string>
      <string name="face_beauty_intelligent_level_1">Basso</string>
      <string name="face_beauty_intelligent_level_2">Medio</string>
@@ -110,8 +110,8 @@ Il soggetto non deve essere più lontano di 2 metri."</string>
      <string name="face_beauty_smart">Intelligente</string>
      <string name="face_score_info">Punto: %.1f</string>
      <string name="groupshot_mode_use_hint">"La fotocamera scatterà foto multiple
-e creerà una foto in cui tutti appariranno ancora più belli."</string>
-     <string name="hibernate_hint">Tap the screen to wake Camera</string>
+creando un'immagine in cui tutti i componenti risulteranno al meglio."</string>
+     <string name="hibernate_hint">Tocca lo schermo per attivare la Fotocamera</string>
      <string name="hine_hht">"Con poca luce ambientale, verranno scattate foto multiple
 per la costruzione di uno scatto con il minimo rumore."</string>
      <string name="hint_device_water_mark">Il logo del dispositivo verrà aggiunto automaticamente.</string>
@@ -140,7 +140,7 @@ e creerà una foto in cui tutti appariranno ancora più belli."</string>
      <string name="pano_how_to_use_prompt_start">Tocca la freccia per cambiare direzione ed inizia a ruotare lentamente.</string>
      <string name="pano_how_to_use_prompt_to_move">Inizia a ruotare lentamente</string>
      <string name="path_settings">Applicazioni di sistema/Fotocamera/Impostazioni</string>
-     <string name="photos_portrait_type_description">Gli scatti in modalità ritratto hanno un effetto di profondità che mantiene il soggetto a fuoco, offuscando il resto dello sfondo.</string>
+     <string name="photos_portrait_type_description">Gli scatti in modalità Ritratto hanno un effetto per cui il soggetto resta a fuoco in primo piano mentre lo sfondo viene sfocato.</string>
      <string name="photos_portrait_type_name">Ritratto</string>
      <string name="portait_effect_entry_blackwhite">B&amp;N</string>
      <string name="portait_effect_entry_cool">Mint</string>
@@ -157,7 +157,7 @@ e creerà una foto in cui tutti appariranno ancora più belli."</string>
      <string name="portrait_mode_too_far_hint">"Posiziona l'oggetto entro 2.5"</string>
      <string name="portrait_mode_use_hint">"La modalità portrait ti aiuta a sfocare lo sfondo
 per rendere il tuo corpo ancor più chiaro e meraviglioso"</string>
-     <string name="portrait_with_facebeauty_hint">Beautify è ora disponibile in modalità Ritratto</string>
+     <string name="portrait_with_facebeauty_hint">Adesso la funzione Bellezza è disponibile anche nella modalità Ritratto</string>
      <string name="pref_advance_settings">Impostazioni aggiuntive</string>
      <string name="pref_audio_focus_entry_front">Frontale</string>
      <string name="pref_audio_focus_entry_general">Normale</string>
@@ -172,7 +172,7 @@ per rendere il tuo corpo ancor più chiaro e meraviglioso"</string>
      <string name="pref_camera_antibanding_entry_3">Auto</string>
      <string name="pref_camera_antibanding_title">Anti banding</string>
      <string name="pref_camera_asd_night_title">Miglioramento foto notturne</string>
-     <string name="pref_camera_asd_popup_title">Notifica quando il flash è richiesto</string>
+     <string name="pref_camera_asd_popup_title">Notifica quando è richiesto il flash</string>
      <string name="pref_camera_audio_capture_title">Scatto vocale</string>
      <string name="pref_camera_auto_capture_when_stable_summary">"Per selezionare un oggetto, tocca due punti in diagonale lungo il suo bordo. Quando l'oggetto sarà stabile, la fotocamera scatterà automaticamente."</string>
      <string name="pref_camera_auto_capture_when_stable_title">Scatta quando è stabile</string>
@@ -398,10 +398,10 @@ per rendere il tuo corpo ancor più chiaro e meraviglioso"</string>
      <string name="pref_skin_beautify_intelligent_title">Intelligente</string>
      <string name="pref_skin_beautify_slim_title">Sottile</string>
      <string name="pref_skin_beautify_smooth_title">Liscio</string>
-     <string name="pref_video_captrue_ability_title">Acquisizione di immagini durante la registrazione</string>
+     <string name="pref_video_captrue_ability_title">Scatta foto durante la registrazione</string>
      <string name="pref_video_focusmode_entry_auto">Tocca</string>
      <string name="pref_video_focusmode_entry_continuous">CAF</string>
-     <string name="pref_video_focusmode_title">Modalità di messa a fuoco</string>
+     <string name="pref_video_focusmode_title">Modalità fuoco</string>
      <string name="pref_video_quality_entry_1080p">Full HD (1080p)</string>
      <string name="pref_video_quality_entry_480p">SD (480p)</string>
      <string name="pref_video_quality_entry_4kuhd">4K (2160p)</string>
@@ -416,7 +416,7 @@ per rendere il tuo corpo ancor più chiaro e meraviglioso"</string>
      <string name="pref_video_speed_entry_slow">Lento</string>
      <string name="pref_video_speed_fast_title">Time-lapse</string>
      <string name="pref_video_speed_slow_title">Slow-motion</string>
-     <string name="pref_video_speed_title">Velocità acquisizione video</string>
+     <string name="pref_video_speed_title">Video capture speed</string>
      <string name="pref_video_time_lapse_frame_interval_entry_10">Intervallo di 0.3 secondi (10x)</string>
      <string name="pref_video_time_lapse_frame_interval_entry_120">Intervallo di 4 secondi (120x)</string>
      <string name="pref_video_time_lapse_frame_interval_entry_150">Intervallo di 5 secondi (150x)</string>
