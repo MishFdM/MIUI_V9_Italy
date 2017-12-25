@@ -1412,7 +1412,7 @@ Questa attività riduce la durata della batteria."</string>
      <string name="pref_key_half_year_package_switch">Pacchetto dati metà anno</string>
      <string name="pref_key_half_year_package_value">Dimensione pacchetto</string>
      <string name="pref_key_tethering_setting">Limite dati one-time</string>
-     <string name="pref_key_tethering_title">OLimite dati one-time</string>
+     <string name="pref_key_tethering_title">Limite dati one-time</string>
      <string name="pref_manual_adjust">Imposta utilizzo dati manualmente</string>
      <string name="pref_mi_sim_settings">Impostazioni Mi SIM</string>
      <string name="pref_more_settings">Impostazioni aggiuntive</string>
