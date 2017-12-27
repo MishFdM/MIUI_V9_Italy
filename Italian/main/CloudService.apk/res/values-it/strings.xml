@@ -292,8 +292,8 @@ Per rimediare a questo puoi cancellare i vecchi file oppure comprare spazio aggi
      <string name="micloud_main_head_menu_cloud_backup">Backup cloud</string>
      <string name="micloud_main_head_menu_recycle_bin_summary">Esegui di nuovo il Backup di Contatti e Foto</string>
      <string name="micloud_main_head_menu_recycle_bin_title">Cestino</string>
-     <string name="micloud_main_head_menu_state_close">Chiuso</string>
-     <string name="micloud_main_head_menu_state_open">Aperto</string>
+     <string name="micloud_main_head_menu_state_close">Disattivato</string>
+     <string name="micloud_main_head_menu_state_open">Attivato</string>
      <string name="micloud_main_last_sync_time">Ultima sincronizzazione %s</string>
      <string name="micloud_main_master_sync_on">Sincronizzazione attiva</string>
      <string name="micloud_main_memory_low_message">Per poter sincronizzare, elimina alcuni elementi in Mi Cloud.</string>
