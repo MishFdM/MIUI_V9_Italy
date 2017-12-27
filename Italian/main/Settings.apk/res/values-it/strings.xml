@@ -3881,8 +3881,8 @@ Come usare Mantieni su schermo:
      <string name="security_encryption_close_dialog_title">Ritorna alla protezione predefinita mediante password</string>
      <string name="security_encryption_diaglog_continue">Avanti</string>
      <string name="security_encryption_is_used">Attivata</string>
-     <string name="security_encryption_progress_dialog_close">Decripta…</string>
-     <string name="security_encryption_progress_dialog_open">Crittografa…</string>
+     <string name="security_encryption_progress_dialog_close">Decrittografia…</string>
+     <string name="security_encryption_progress_dialog_open">Crittografia…</string>
      <string name="security_encryption_rejected_via_home_manager">"Questa funzione non è supportata nella versione demo."</string>
      <string name="security_encryption_title">Cripta il dispositivo usando la password della Schermata di blocco</string>
      <string name="security_keyguard_category_name">Blocco schermo</string>
