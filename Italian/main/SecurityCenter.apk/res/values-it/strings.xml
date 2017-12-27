@@ -207,7 +207,7 @@
      <string name="app_manager_pref_ads">Suggerimenti</string>
      <string name="app_manager_reset_app_preferences">"Ripristina le preferenze dell'app"</string>
      <string name="app_manager_reset_app_preferences_button">Ripristina app</string>
-     <string name="app_manager_reset_app_preferences_desc">"Questo riporterà i valori predefiniti delle preferenze epr:
+     <string name="app_manager_reset_app_preferences_desc">"Questo riporterà i valori predefiniti delle preferenze per:
 
  "&lt;li&gt;App disattivate&lt;/li&gt;"
  "&lt;li&gt;Notifiche app disattivate&lt;/li&gt;"
