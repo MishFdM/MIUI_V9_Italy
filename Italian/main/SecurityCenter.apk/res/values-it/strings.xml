@@ -273,6 +273,8 @@ se se dimenticata"</string>
      <string name="apps_list_header_title_sms_access">Limita accesso ai codici di verifica</string>
      <string name="auto_atsk_condition_battery_level_text_down">Quando la batteria raggiunge il %s</string>
      <string name="auto_atsk_condition_battery_level_text_up">Quando al batteria è carica al %s</string>
+     <string name="auto_back_booster">Stop boosting</string>
+     <string name="auto_booster_suc">Boosted successfully</string>
      <string name="auto_clean_close">Pulizia automatica disattivata</string>
      <string name="auto_handle_title">Generale</string>
      <string name="auto_import_games">Metti tutti i giochi in un unico posto</string>
@@ -743,6 +745,9 @@ se se dimenticata"</string>
      <string name="gateway_exception_summary">Controlla il tuo router e riprova.</string>
      <string name="gateway_exception_summary2">"Impossibile connettersi al server"</string>
      <string name="gateway_exception_title">Test router</string>
+     <string name="gb_description_image_button_answer">Answer</string>
+     <string name="gb_description_image_button_reject">Decline</string>
+     <string name="gb_description_image_button_video_answer">Video call</string>
      <string name="ge">Uno</string>
      <string name="get_sys_info">Recupero informazioni…</string>
      <string name="gigabyteShort">GB</string>
@@ -753,6 +758,9 @@ se se dimenticata"</string>
      <string name="gs_app_back_self_start">Risparmio batteria</string>
      <string name="gs_auto_clean_memory">Cancella cache</string>
      <string name="gs_auto_clean_memory_detail">Cancella automaticamente la cache per ottimizzare il gioco</string>
+     <string name="gs_autobooster">Boost automatically</string>
+     <string name="gs_autobooster_detail">Boost speed for selected games automatically</string>
+     <string name="gs_autobooster_dialog_message">"If you're using Xunyou speed boost, open games on the designated page."</string>
      <string name="gs_call_handsfree">Rispondi alle chiamate a mani libere</string>
      <string name="gs_call_handsfree_mute">Modalità silenziosa</string>
      <string name="gs_dialog_confirm_close_msg">La scorciatoia verrà rimossa dalla Home. Vai su Sicurezza > Impostazioni per ripristinare.</string>
