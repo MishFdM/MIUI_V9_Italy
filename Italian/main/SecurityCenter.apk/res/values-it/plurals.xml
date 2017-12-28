@@ -28,6 +28,14 @@
         <item quantity="other">"Non utilizzata da %d anni"</item>
         <item quantity="one">"Non utilizzata da %d anno"</item>
      </plurals>
+     <plurals name="bg_network_allow_count">
+        <item quantity="other">%d apps can connect to the network in the background</item>
+        <item quantity="one">%d app can connect to the network in the background</item>
+     </plurals>
+     <plurals name="bg_network_restrict_count">
+        <item quantity="other">"%d apps can't connect to the network in the background"</item>
+        <item quantity="one">"%d app can't connect to the network in the background"</item>
+     </plurals>
      <plurals name="cache_check_content">
         <item quantity="other">Protezione di %d app</item>
         <item quantity="one">Protezione di %d app</item>
@@ -136,6 +144,10 @@ Se attivi di nuovo i dati su rete mobile, il tuo operatore potrebbe addebitarti 
      <plurals name="net_booster_expire_notification_tip">
         <item quantity="other">%d d rimanenti prima del termine della sessione a velocità di rete accelerata. Rinnova la sessione per evitare rallentamenti nella velocità di rete.</item>
         <item quantity="one">%d d rimanente prima del termine della sessione a velocità di rete accelerata. Rinnova la sessione per evitare rallentamenti nella velocità di rete</item>
+     </plurals>
+     <plurals name="network_restrict_count">
+        <item quantity="other">"Network access is restricted for &lt;font color='#ff0000'>%d:&lt;/font> apps"</item>
+        <item quantity="one">"Network access is restricted for &lt;font color='#ff0000'>%d&lt;/font> app"</item>
      </plurals>
      <plurals name="notification_title_cmcc_app_check">
         <item quantity="other">"%d giorni dall'ultimo controllo"</item>
