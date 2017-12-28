@@ -305,8 +305,13 @@ Sample Rate"</string>
      <string name="callFailed_data_limit_reached_description">Chiamata terminata a causa del limite dati cellulare raggiunto.</string>
      <string name="callFailed_destination_out_of_order">Destinazione fuori servizio</string>
      <string name="callFailed_dialToDial">Richiesta DIAL modificata in richiesta DIAL con numero diverso.</string>
+     <string name="callFailed_dialToDialVideo">DIAL request modified to Video DIAL.</string>
      <string name="callFailed_dialToSs">Richiesta DIAL modificata in richiesta SS.</string>
      <string name="callFailed_dialToUssd">Richiesta DIAL modificata in richiesta USSD.</string>
+     <string name="callFailed_dialVideoToDial">Video DIAL request modified to DIAL.</string>
+     <string name="callFailed_dialVideoToDialVideo">Video DIAL request modified to Video DIAL with different number.</string>
+     <string name="callFailed_dialVideoToSs">Video DIAL request modified to SS request.</string>
+     <string name="callFailed_dialVideoToUssd">Video DIAL request modified to USSD request.</string>
      <string name="callFailed_dsac_restricted">Tutte le chiamate sono limitate dal controllo di accesso.</string>
      <string name="callFailed_dsac_restricted_emergency">Le chiamate di emergenza sono limitate dal controllo di accesso.</string>
      <string name="callFailed_dsac_restricted_normal">Le chiamate normali sono limitate dal controllo di accesso.</string>

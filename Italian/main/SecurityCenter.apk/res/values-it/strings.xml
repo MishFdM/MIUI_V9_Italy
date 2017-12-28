@@ -116,6 +116,7 @@
      <string name="antivirus_update_btn_update">Aggiorna</string>
      <string name="apn_exception_summary">"Testa le impostazioni degli APN"</string>
      <string name="apn_exception_title">Controlla impostazioni APN</string>
+     <string name="app_bg_restrict_dialog_message">Restricting background network connection may prevent the app from working normally. For example, it might no longer be able to receive messages or update content. Restrict anyway?</string>
      <string name="app_check_no_issue">Non ci sono problemi sulla batteria. Bene!</string>
      <string name="app_detail">Dettagli</string>
      <string name="app_error_tip_for_launcher">I componenti hardware del tuo dispositivo o la versione del sistema Android utilizzato potrebbero causare problemi di incompatibilità e causare il malfunzionamento, blocco o chiusura forzata di alcune app. Se riscontri problemi del genere, condividi il tuo feedback con gli sviluppatori.</string>
@@ -194,6 +195,7 @@
      <string name="app_manager_notify_bar">Badge</string>
      <string name="app_manager_notify_floating">Notifiche flottanti</string>
      <string name="app_manager_notify_keyguard">Lockscreen</string>
+     <string name="app_manager_open_show_all_apps_immediate">Show all results</string>
      <string name="app_manager_perm">Permessi</string>
      <string name="app_manager_permission_manager_title">Permessi</string>
      <string name="app_manager_permission_notify_title">Notifiche</string>
@@ -216,7 +218,9 @@
 
  Non perderai nessun dato dell'applicazione."</string>
      <string name="app_manager_reset_app_preferences_title">Ripristina le preferenze applicazioni?</string>
+     <string name="app_manager_search_prompt">"Couldn't find results? Try showing results from all apps."</string>
      <string name="app_manager_show_all_apps">Mostra tutte le app</string>
+     <string name="app_manager_show_all_apps_opened">Showing results from all apps…</string>
      <string name="app_manager_show_detail_infos">Mostra tutto</string>
      <string name="app_manager_start_by">Avviato da %s</string>
      <string name="app_manager_support_uninstall">Puoi disinstallare queste app</string>
@@ -342,6 +346,10 @@ se se dimenticata"</string>
      <string name="back_app_name">Torna al blocco App</string>
      <string name="back_description_securitycenter">Indietro</string>
      <string name="back_modifypassword">Torna alla modifica password</string>
+     <string name="back_sound_data">It requires cellular mobile network, please retry!</string>
+     <string name="back_sound_fail">Failed！</string>
+     <string name="back_sound_success">Success!</string>
+     <string name="back_sound_support">"The current network operators doesn't support it！"</string>
      <string name="background_restrict_app_dialog_message">"La limitazione dell'accesso di rete per questa app potrebbe impedirle di funzionare correttamente, ricevere messaggi, scaricare contenuti, etc. Vuoi limitarla comunque?"</string>
      <string name="background_traffic">Sfondo %s</string>
      <string name="backsound_set_hint">Impostare %s come sottofondo?</string>
@@ -382,6 +390,7 @@ se se dimenticata"</string>
      <string name="battery_temperature_title">Temperatura</string>
      <string name="begin_date">Data di azzeramento utilizzo</string>
      <string name="best_booster_status">La velocità di gioco è la migliore in questo momento.</string>
+     <string name="bg_network_exception_title">Restricted background connection</string>
      <string name="bind_xiaomi_account_cancel">Annulla</string>
      <string name="bind_xiaomi_account_confirm">Aggiungi</string>
      <string name="bind_xiaomi_account_dialog_summery">"Stai aggiungendo il Mi Account %s. Se dimentichi la password, potrai usare questo account per ripristinarla. L'account verrà rimosso automaticamente se uscirai."</string>
@@ -595,6 +604,7 @@ se se dimenticata"</string>
      <string name="dlg_add_blacklist">Aggiungere numero alla blacklist?</string>
      <string name="dlg_add_blacklist_title">Aggiungi alla blacklist</string>
      <string name="dlg_add_keyword">Aggiungi parole chiave</string>
+     <string name="dlg_add_white">"New calls and messages from the numbers added to exceptions will be shown in call history and Messaging inbox. However, previously blocked items won't appear there. Add selected numbers to exceptions?"</string>
      <string name="dlg_antispam_mode_delete_message">Non puoi ripristinare una regola che hai eliminato.</string>
      <string name="dlg_antispam_mode_delete_title">Eliminare regole?</string>
      <string name="dlg_antispam_using_mode_delete_message">Eliminare le regole che stai utilizzando e passare alle regole predefinite della lista blocchi?</string>
@@ -614,8 +624,11 @@ se se dimenticata"</string>
      <string name="dlg_import_whitelist">Inserimento nelle eccezioni…</string>
      <string name="dlg_keyword_ok">Salva</string>
      <string name="dlg_message_not_open_stranger_identify">"Devi attivare l'identificazione dei numeri sconosciuti in \"Telefono > Impostazioni\" prima di segnalare un numero."</string>
+     <string name="dlg_move_to_white">Add to exceptions</string>
      <string name="dlg_no_block">Non bloccare questo numero?</string>
      <string name="dlg_no_block_ok">Non bloccare</string>
+     <string name="dlg_not_block_call">"Unblock selected numbers? They will be added to exceptions, but previously blocked items won't appear in call history."</string>
+     <string name="dlg_not_block_sms">"Unblock selected numbers? They will be added to exceptions, but previously blocked items won't appear in Messaging inbox."</string>
      <string name="dlg_remove_address_blacklist">Rimuovere questo elemento dalla blacklist e ripristinare i relativi messaggi?</string>
      <string name="dlg_remove_address_whitelist">Rimuovere questo elemento dalle eccezioni?</string>
      <string name="dlg_remove_blacklist">Rimuovere questo numero dalla blacklist?</string>
@@ -751,6 +764,8 @@ se se dimenticata"</string>
      <string name="ge">Uno</string>
      <string name="get_sys_info">Recupero informazioni…</string>
      <string name="gigabyteShort">GB</string>
+     <string name="gmscore_support_remind">Turn this feature on if you experience problems with using Gmail, Google Maps, and other Google apps. It will slightly reduce battery life.</string>
+     <string name="gmscore_support_service">Google Services</string>
      <string name="go_to">Procedi</string>
      <string name="go_to_setting_fingerprint">Vai nelle impostazioni</string>
      <string name="google_base_app_install_choice">\"%s\" richiede Google Service Framework per funzionare correttamente, scaricare ed installare?</string>
@@ -1302,7 +1317,6 @@ Questa attività riduce la durata della batteria."</string>
      <string name="permission_action_reject">Nega</string>
      <string name="permission_close_permission_control_dialog_msg">Quando la Gestione dei Permessi è disattivata, le applicazioni non chiederanno il permesso per leggere i tuoi contatti, accedere al registro chiamate, modificare le impostazioni di sistema o accedere alla fotocamera ed altre risorse.</string>
      <string name="permission_close_permission_control_dialog_title">Disattivare Gestione Permessi?</string>
-     <string name="permission_exception_summary">"Alcune app non hanno i permessi per connettersi ad internet"</string>
      <string name="permission_exception_title">Controlla permessi rete</string>
      <string name="permission_permission_control_closed_desc_dialog_msg">Le applicazioni non chiederanno il permesso di leggere i tuoi contatti, accedere al registro chiamate, modificare le impostazioni di sistema o accedere alla fotocamera ed altre risorse. Puoi disattivare questa funzione nelle impostazioni dei Permessi.</string>
      <string name="permission_permission_control_closed_desc_dialog_title">Gestione Permessi disattivato</string>
@@ -1394,6 +1408,7 @@ Questa attività riduce la durata della batteria."</string>
      <string name="pref_auto_adjust_traffic">Sincronizza automaticamente le statistiche di utilizzo dati</string>
      <string name="pref_automatic_adjust">Sincronizza utilizzo dati</string>
      <string name="pref_avaible_traffic">Piano dati</string>
+     <string name="pref_bg_network_title">Background connection</string>
      <string name="pref_category_daily_package_tile">Piano dati giornaliero</string>
      <string name="pref_category_extra_package_tile">Ricarica pacchetto</string>
      <string name="pref_category_half_year_package_tile">Pacchetto dati metà anno</string>

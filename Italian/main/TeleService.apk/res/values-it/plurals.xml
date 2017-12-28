@@ -25,7 +25,9 @@
         <item quantity="one">%d numero verrà eliminato.</item>
      </plurals>
      <plurals name="pin_attempts">
-        <item quantity="other">"%d tentativi rimanenti."</item>
-        <item quantity="one">"%d tentativo rimanente."</item>
+        <item quantity="other">"
+		%d tentativi rimanenti."</item>
+        <item quantity="one">"
+		%d tentativo rimanente."</item>
      </plurals>
 </resources>

@@ -332,7 +332,7 @@ Vuoi abilitare le finestre flottanti?"</string>
      <string name="app_ops_settings">Op. app</string>
      <string name="app_overlay_permission_preference">Permessi di disegnare su altre app </string>
      <string name="app_permissions">Permessi app</string>
-     <string name="app_permissions_summary" formatted="false">Apps using %1$s</string>
+     <string name="app_permissions_summary">Apps using %1$s</string>
      <string name="app_process_limit_title">Limite processi background</string>
      <string name="app_restrictions_custom_label">Imposta restrizioni applicazioni</string>
      <string name="app_sees_restricted_accounts">Questa app può accedere ai tuoi account</string>
@@ -2706,6 +2706,7 @@ ed esegui il software."</string>
      <string name="music_title_dolby_control">Dolby Digital Plus</string>
      <string name="music_unsupport_effect_summary">Le cuffie USB non sono supportate</string>
      <string name="musicfx_title">Effetti musicali</string>
+     <string name="mute_music_stream">Mute music stream</string>
      <string name="mvno_match_data">Valore MVNO</string>
      <string name="mvno_type">Tipo MVNO</string>
      <string name="my_device">Dispositivo</string>
@@ -4535,6 +4536,8 @@ L'approccio di Google alla sincronizzazione di dati per consentirti l'accesso ai
      <string name="testing_usage_stats">Statistiche di utilizzo</string>
      <string name="testing_wifi_info">Informazioni Wi-Fi</string>
      <string name="tether_and_hotspot_title">Tethering e hotspot</string>
+     <string name="tether_data_usage_limit">One-time data limit</string>
+     <string name="tether_data_usage_limit_summary">Data limit will be applied next time your hotspot is on</string>
      <string name="tether_devices_management_title">Gestisci dispositivi</string>
      <string name="tether_devices_max_number">Limite di dispositivi collegati</string>
      <string name="tether_settings_disabled">"L'hotspot personale è disattivato"</string>

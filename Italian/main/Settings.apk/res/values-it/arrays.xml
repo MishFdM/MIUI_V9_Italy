@@ -6,11 +6,13 @@
      </string-array>
      <string-array name="alarm_repeat_type">
         <item>Tutti i giorni</item>
+		<item>Weeknights</item>
         <item>Lun-Ven</item>
         <item>Personalizza</item>
      </string-array>
      <string-array name="alarm_repeat_type_no_workdays">
         <item>Tutti i giorni</item>
+		<item>Weeknights</item>
         <item>Lun-Ven</item>
         <item>Personalizza</item>
      </string-array>
