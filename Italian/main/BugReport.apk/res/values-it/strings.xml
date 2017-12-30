@@ -125,7 +125,7 @@
      <string name="issue_search">Cerca</string>
      <string name="loading_apps">Creazione lista…</string>
      <string name="login_system_failed">Impossibile accedere, prova di nuovo</string>
-     <string name="logo_title">Feedback</string>
+     <string name="logo_title">Segnalazione bug</string>
      <string name="max_error">Il tuo %1$s deve essere più corto.</string>
      <string name="menu_copy">Copia</string>
      <string name="message_label">Messaggio</string>
@@ -279,9 +279,9 @@
      <string name="title_frequent_question_feedback_main">FAQ</string>
      <string name="title_mi_family">Negozi Mi Home vicini</string>
      <string name="title_nonsystem_app">Altre app</string>
-     <string name="title_same_question_feedback_main">Ci sono informazioni su problemi simili sul forum MIUI</string>
+     <string name="title_same_question_feedback_main">Ci sono informazioni su problemi simili nel forum MIUI</string>
      <string name="title_system_app">App MIUI</string>
-     <string name="toast_description_required">La descrizione del feedback non può essere vuota</string>
+     <string name="toast_description_required">La descrizione della segnalazione non può essere vuota</string>
      <string name="toast_feedback_collect_store">Raccolta log…</string>
      <string name="toast_feedback_network_unavailable">Impossibile collegarsi alla rete</string>
      <string name="toast_feedback_pending_wlan">La tua segnalazione sarà inviata quando la connessione Wi-Fi sarà pronta</string>
