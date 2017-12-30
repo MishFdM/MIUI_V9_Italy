@@ -71,14 +71,14 @@
      <string name="feedback_detail_tile">Avanzamento</string>
      <string name="feedback_empty_report_list">Nessuna segnalazione</string>
      <string name="feedback_guess">Il nostro suggerimento</string>
-     <string name="feedback_history_remind_login_desc">Accedi con il tuo Mi Account per vedere i dettagli e i progressi del tuo report.</string>
+     <string name="feedback_history_remind_login_desc">Accedi con il tuo Mi Account per visualizzare i dettagli e i progressi della tua segnalazione.</string>
      <string name="feedback_id">ID: %d</string>
      <string name="feedback_jira_key">Chiave JIRA: %s</string>
      <string name="feedback_package_log_failed">Impossibile comprimere log</string>
      <string name="feedback_phone_model_label">Modello di telefono</string>
      <string name="feedback_probability_label">Probabilità</string>
      <string name="feedback_remind_login_btn">Accedi</string>
-     <string name="feedback_report_remind_login_desc">Accedi con il tuo Mi Account in modo che i nostri sviluppatori possano contattarti. Puoi anche vedere i progressi dei tuoi report in \"I miei report\"."</string>
+     <string name="feedback_report_remind_login_desc">Accedi con il tuo Mi Account in modo che i nostri sviluppatori possano contattarti. Puoi anche visualizzare i progressi delle tue segnalazioni su \"Le mie segnalazioni\"."</string>
      <string name="feedback_report_remind_login_desc2">"Puoi vedere il progresso del tuo report in \"I miei report\"."</string>
      <string name="feedback_retest_label">Passi da riprodurre</string>
      <string name="feedback_select_images">Aggiungi immagini</string>
@@ -264,7 +264,7 @@
      <string name="submit_dialog_cancel">Annulla</string>
      <string name="submit_dialog_confirm">Invia</string>
      <string name="submit_dialog_content">Il tuo feedback, insieme al log di errore e alle immagini allegate, verrà inviato ai server Xiaomi.</string>
-     <string name="submit_dialog_title">Invia rapporto a Xiaomi</string>
+     <string name="submit_dialog_title">Invia segnalazione a Xiaomi</string>
      <string name="submit_feedback_info_failed">Impossibile inviare report</string>
      <string name="suggestion_description">Scrivi qui i suggerimenti</string>
      <string name="system_app_select">App integrate</string>
