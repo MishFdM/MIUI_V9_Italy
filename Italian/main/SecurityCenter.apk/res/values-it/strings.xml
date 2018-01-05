@@ -1580,6 +1580,7 @@ Questa attività riduce la durata della batteria."</string>
      <string name="sc_allow_network_dialog_message">Questa applicazione deve utilizzare la connessione internet per funzionare correttamente.</string>
      <string name="sc_allow_network_dialog_tiltle">Impossibile utilizzare questa funzione</string>
      <string name="sc_system_risk_fix_info_xspace">Il rischio non può essere eliminato in questo spazio, passa allo spazio del proprietario per risolvere.</string>
+     <string name="sc_warning_updater_not_found">Updater application not found. Unable to update !</string>
      <string name="scan_installed_games">Controllo giochi installati…</string>
      <string name="scan_status_risk">Pericolo</string>
      <string name="scan_status_safe">Sicuro</string>

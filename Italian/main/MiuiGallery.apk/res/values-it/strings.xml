@@ -12,15 +12,18 @@
      <string name="add_to_album_failed">"Impossibile aggiungere all'album"</string>
      <string name="add_to_album_success">"Aggiunto all'album"</string>
      <string name="add_to_album_tip">Foto Cloud</string>
+     <string name="add_to_favorites_failed">"Couldn't add to favorites"</string>
      <string name="add_to_secret_exist">"Foto già esistente nell'album nascosto"</string>
      <string name="add_to_secret_fail">"Inserimento nell'album nascosto fallito"</string>
      <string name="add_to_secret_failed_with_reason">"Impossibile aggiungere all'album nascosto. %1$s."</string>
      <string name="add_to_secret_failed_with_reason_and_count">"%2$s elementi non possono essere aggiunti all'album nascosto. %1$s."</string>
      <string name="add_to_secret_successful">"Aggiunto all'album nascosto"</string>
      <string name="add_to_share_album_not_delete">"Impossibile eliminare foto dall'album condiviso"</string>
+     <string name="added_to_favorites_tip">Added to \"Favorites\" album</string>
      <string name="adding">Inserimento</string>
      <string name="adding_recipients">Aggiungo destinatari…</string>
      <string name="adding_to_album">Inserimento foto…</string>
+     <string name="adding_to_favorites">Adding to favorites…</string>
      <string name="adjust_brightness">Luminosità</string>
      <string name="adjust_contrast">Contrasto</string>
      <string name="adjust_saturation">Saturazione</string>
@@ -29,12 +32,17 @@
      <string name="album_already_exists_check">Mostra</string>
      <string name="album_already_exists_msg">"L'album '%s' è già presente"</string>
      <string name="album_already_forced_top">Già in alto</string>
+     <string name="album_bluetooth">Bluetooth</string>
      <string name="album_camera_name">Fotocamera</string>
+     <string name="album_creative">My edited photos</string>
      <string name="album_detail_page_empty">Nessuna foto o video</string>
+     <string name="album_download">Downloads</string>
      <string name="album_faces_name">Volto</string>
+     <string name="album_favorites_name">Favorites</string>
      <string name="album_from_format">Da %s</string>
      <string name="album_jump_failed">Attendi fino a che gli album non sono stati sincronizzati con Mi Cloud e prova di nuovo</string>
      <string name="album_member">Iscritto album %s</string>
+     <string name="album_midrop">Mi Drop</string>
      <string name="album_name">Nome album</string>
      <string name="album_name_locations">Posizioni</string>
      <string name="album_name_people">Persone</string>
@@ -47,6 +55,8 @@
      <string name="album_page_label">Album</string>
      <string name="album_pano_name">Panorama</string>
      <string name="album_quota_fulfiled">"Impossibile creare l'album, è stato raggiunto il numero massimo."</string>
+     <string name="album_scanner">Scanner</string>
+     <string name="album_screen_recorder">Screen recorder</string>
      <string name="album_screenshot_name">Screenshot</string>
      <string name="album_share_exit_confirm">Confermi di voler annullare la condivisione di questo album?</string>
      <string name="album_share_kicked">%1$s è chiuso</string>
@@ -65,6 +75,7 @@
      <string name="album_type_share">Album</string>
      <string name="album_type_system">Album di sistema</string>
      <string name="album_videos_name">Video</string>
+     <string name="album_wallpaper">Wallpapers</string>
      <string name="alert_secret_album_enter">OK</string>
      <string name="alert_secret_album_message">"Puoi sfogliare l'album Mi Cloud nell'album privato."</string>
      <string name="alert_secret_album_message_lower_case">" scorri in basso nell'Album per vedere gli album nascosti."</string>
@@ -143,6 +154,7 @@
      <string name="backup_no_wifi_title">Collegati al Wi-Fi</string>
      <string name="backup_only_in_wifi">Usa solo il Wi-Fi per il backup di foto e video</string>
      <string name="backup_only_in_wifi_summary">Non usare mai la rete dati cellulare per il backup di foto e video</string>
+     <string name="backup_only_wifi_dialog_message">Use mobile data to back up photos and videos?</string>
      <string name="backup_pause">Metti in pausa il backup</string>
      <string name="backup_pause_title">Backup tra %s</string>
      <string name="backup_pending">Il backup verrà eseguito automaticamente</string>
@@ -180,6 +192,8 @@
      <string name="cannot_remove_creator">Impossibile rimuovere il proprietario</string>
      <string name="cannot_send_message">Impossibile inviare il messaggio</string>
      <string name="cannot_send_message_reason">Il messaggio non contiene destinatari validi.</string>
+     <string name="cast_devices_unavailable_desc">Make sure both this device and the projector are connected to the same Wi-Fi network</string>
+     <string name="cast_devices_unavailable_title">"Couldn't find projector"</string>
      <string name="change_to_face_mode">Ordina per contatto</string>
      <string name="change_to_photo_mode">Ordina per album</string>
      <string name="change_to_visible">Ripristinare questa persona?</string>
@@ -977,6 +991,8 @@ Scatta più foto ai tuoi amici!"</string>
      <string name="operation_add_picture">Aggiungi immagini</string>
      <string name="operation_add_secret">Aggiungi Album privato</string>
      <string name="operation_back">Indietro</string>
+     <string name="operation_cast_connected_format">Cast - %s</string>
+     <string name="operation_cast_connecting_format">Connecting to %s</string>
      <string name="operation_delete">Elimina</string>
      <string name="operation_detail">Dettagli</string>
      <string name="operation_disable_auto_upload">Disattiva sincronizzazione con Mi Cloud</string>
@@ -1044,11 +1060,13 @@ Scatta più foto ai tuoi amici!"</string>
      <string name="photo_editor_miui_beauty_menu_eye_large">Occhi grandi</string>
      <string name="photo_editor_miui_beauty_menu_face_thin">Snello</string>
      <string name="photo_editor_miui_beauty_menu_lip_beauty">Labbra</string>
+     <string name="photo_editor_miui_beauty_menu_nose_thin">Nose contouring</string>
      <string name="photo_editor_miui_beauty_menu_relighting">Riempi luce</string>
      <string name="photo_editor_miui_beauty_menu_skin_ruddy">Rossastro</string>
      <string name="photo_editor_miui_beauty_menu_skin_white">Tono</string>
      <string name="photo_editor_miui_beauty_menu_smart_beauty">Smart</string>
      <string name="photo_editor_miui_beauty_menu_smooth">Smooth</string>
+     <string name="photo_editor_miui_beauty_no_face">"Can't detect face"</string>
      <string name="photo_editor_mosaic">Mosaico</string>
      <string name="photo_editor_navigator_cancel">Annulla</string>
      <string name="photo_editor_navigator_download_network_metered_msg">IL download di %s richiede circa 4MB di traffico su rete mobile. Scaricare adesso?</string>
@@ -1109,6 +1127,7 @@ Scatta più foto ai tuoi amici!"</string>
      <string name="picker_title_unlimit">Seleziona immagine</string>
      <string name="places_album_empty_title">Le foto possono essere ordinate in base alla posizione</string>
      <string name="preparing_data">Preparazione…</string>
+     <string name="projection_cancel">Cancel</string>
      <string name="projection_checkbox_text">Ricorda questo schermo</string>
      <string name="projection_device_connection_failed">Impossibile collegare il proiettore</string>
      <string name="projection_local_mobile">Mobile</string>
@@ -1117,6 +1136,8 @@ Scatta più foto ai tuoi amici!"</string>
      <string name="projection_slide_exit">Esci da Presentazione</string>
      <string name="projection_slide_fail_cause_loading">"Riavvia la presentazione dopo il caricamento dell'immagine"</string>
      <string name="projection_slide_playing">Presentazione in riproduzione su %s</string>
+     <string name="projection_stop">Stop casting</string>
+     <string name="projection_switch_title">Switch to</string>
      <string name="projection_video_quit">Tocca per uscire</string>
      <string name="public_url_descript">Chiunque può accedere al tuo album utilizzando questo link</string>
      <string name="publish_failed">Pubblicazione fallita</string>
@@ -1143,6 +1164,7 @@ Scatta più foto ai tuoi amici!"</string>
      <string name="remove_from_album_message">Questa foto non verrà più mostrata qui</string>
      <string name="remove_from_album_title">Rimuovi da questo album</string>
      <string name="remove_from_current_album">Rimuovi da questo album</string>
+     <string name="remove_from_favorites_failed">"Couldn't remove from favorites"</string>
      <string name="remove_from_other_albums_tip">"L'album dovrebbe essere attivato con la sincronizzazione Mi Cloud quando rimosso dalla lista degli Altri album. Rimuovere l'album?"</string>
      <string name="remove_from_secret_fail">"Rimozione dall'album nascosto fallita"</string>
      <string name="remove_from_secret_failed_with_reason">"Impossibile rimuovere dall'album nascosto. %1$s."</string>
@@ -1154,6 +1176,7 @@ Scatta più foto ai tuoi amici!"</string>
      <string name="remover_edit_type_line">Linee</string>
      <string name="remover_erase_aera_too_big">"L'area di ritaglio è troppo grande"</string>
      <string name="remover_menu_processing">Elaborazione</string>
+     <string name="removing_from_favorites">Removing from favorites…</string>
      <string name="rename_album">Rinomina album</string>
      <string name="rename_album_failed">Impossibile rinominare</string>
      <string name="rename_album_succeeded">Rinominato correttamente</string>
@@ -1222,6 +1245,7 @@ Scatta più foto ai tuoi amici!"</string>
      <string name="search_title_recommend">Consigliati</string>
      <string name="search_title_suggestion">Suggerimenti</string>
      <string name="search_title_tag">Oggetti</string>
+     <string name="searching_cast_devices">Looking for projector…</string>
      <string name="secret_album_card_description">Il posto migliore per i tuoi piccoli segreti</string>
      <string name="secret_album_card_title">Prova gli album privati</string>
      <string name="secret_album_display_name">Album privato</string>

@@ -105,8 +105,6 @@ Se cambia la SIM, deve essere inviato un nuovo SMS di attivazione."</string>
      <string name="find_device_pref_alert_positive">OK</string>
      <string name="find_device_pref_alert_title">Ricorda il tuo Mi Account e la password</string>
      <string name="find_device_pref_initializing">Inizializzazione…</string>
-     <string name="find_device_reading_status">Stato caricamento…</string>
-     <string name="find_device_reading_status_failure">Impossibile caricare lo stato.</string>
      <string name="find_device_send_sms_alert">Se cambi SIM, potrebbe essere inviato automaticamente un altro SMS per attivare questa funzione.</string>
      <string name="find_device_service_summary">Visita i.mi.com to per localizzare e bloccare dal remoto il dispositivo</string>
      <string name="find_device_service_summary_international">Visita i.mi.com to per localizzare e bloccare dal remoto il dispositivo</string>
@@ -294,6 +292,7 @@ Per rimediare a questo puoi cancellare i vecchi file oppure comprare spazio aggi
      <string name="micloud_main_head_menu_recycle_bin_title">Cestino</string>
      <string name="micloud_main_head_menu_state_close">Disattivato</string>
      <string name="micloud_main_head_menu_state_open">Attivato</string>
+     <string name="micloud_main_head_menu_state_unavailable">Unavailable</string>
      <string name="micloud_main_last_sync_time">Ultima sincronizzazione %s</string>
      <string name="micloud_main_master_sync_on">Sincronizzazione attiva</string>
      <string name="micloud_main_memory_low_message">Per poter sincronizzare, elimina alcuni elementi in Mi Cloud.</string>
@@ -478,6 +477,8 @@ Questa funziona cripta ed invia l'ID del tuo dispositivo ai server Xiaomi."</str
      <string name="pref_title_sync_contacts_title">Sincronizza i contatti</string>
      <string name="pref_title_sync_display_photo_on_wifi_only">Sincronizza foto solo con Wi-Fi</string>
      <string name="privacy_policy">Informativa sulla Privacy</string>
+     <string name="reading_status">Loading status…</string>
+     <string name="reading_status_failure">"Couldn't load status."</string>
      <string name="recommend_open_all_sync">Tutti gli elementi sincronizzati</string>
      <string name="remind_later">Ricordamelo più tardi</string>
      <string name="restoreSync">Abilita sincronizzazione</string>

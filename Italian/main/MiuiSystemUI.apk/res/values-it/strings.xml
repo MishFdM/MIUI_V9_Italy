@@ -342,7 +342,7 @@ Se riattivi i dati, l'operatore potrebbe addebitarti un costo."</string>
      <string name="force_rtl_layout_all_locales">Forza direzione layout RTL</string>
      <string name="force_rtl_layout_all_locales_summary">Forza direzione layout ad RTL per tutte le località</string>
      <string name="fs_gesture_back_home_summary">Scorri sul fondo rapidamente</string>
-     <string name="fs_gesture_back_ready_title">Come tornare all'ultima pagina?</string>
+     <string name="fs_gesture_back_ready_title">"Come tornare all'ultima pagina?"</string>
      <string name="fs_gesture_final_over">Finito</string>
      <string name="fs_gesture_final_restart">Studia ancora</string>
      <string name="fs_gesture_final_summary">Puoi impostarlo in [Settings-Full screen]</string>
@@ -423,6 +423,7 @@ Utilizza solo l'alimentatore in dotazione."</string>
      <string name="label_view">Visualizza</string>
      <string name="launch_defaults_none">Nessuna impostazione predefinita</string>
      <string name="launch_defaults_some">Alcune impostazioni predefinite</string>
+     <string name="legacy_vpn_name">VPN</string>
      <string name="list_delimeter">", "</string>
      <string name="lland">Solo Lollipop</string>
      <string name="loading_desktop">Solo un secondo…</string>
@@ -459,6 +460,32 @@ Utilizza solo l'alimentatore in dotazione."</string>
      <string name="mock_location_app">Seleziona app per false localizzazioni</string>
      <string name="mock_location_app_not_set">Nessuna app impostata su false localizzazioni</string>
      <string name="mock_location_app_set">App con false localizzazioni: %1$s</string>
+     <string name="monitoring_button_view_policies">View Policies</string>
+     <string name="monitoring_description_ca_certificate">A certificate authority is installed on this device. Your secure network traffic may be monitored or modified.</string>
+     <string name="monitoring_description_managed_profile_ca_certificate">Your organization installed a certificate authority in your work profile. Your secure network traffic may be monitored or modified.</string>
+     <string name="monitoring_description_managed_profile_named_vpn">Your work profile is connected to %1$s, which can monitor your network activity, including emails, apps, and websites.</string>
+     <string name="monitoring_description_management">"Your device is managed by your organization.
+
+Your admin can monitor and manage settings, corporate access, apps, data associated with your device, and your device's location information.
+
+For more information, contact your admin."</string>
+     <string name="monitoring_description_management_ca_certificate">Your organization installed a certificate authority on this device. Your secure network traffic may be monitored or modified.</string>
+     <string name="monitoring_description_management_network_logging">Your admin has turned on network logging, which monitors traffic on your device.</string>
+     <string name="monitoring_description_named_management">"Your device is managed by %1$s.
+
+Your admin can monitor and manage settings, corporate access, apps, data associated with your device, and your device's location information.
+
+For more information, contact your admin."</string>
+     <string name="monitoring_description_named_vpn">"You're connected to %1$s, which can monitor your network activity, including emails, apps, and websites."</string>
+     <string name="monitoring_description_personal_profile_named_vpn">Your personal profile is connected to %1$s, which can monitor your network activity, including emails, apps, and websites.</string>
+     <string name="monitoring_description_two_named_vpns">"You're connected to %1$s and %2$s, which can monitor your network activity, including emails, apps, and websites."</string>
+     <string name="monitoring_description_vpn_settings">Open VPN Settings</string>
+     <string name="monitoring_description_vpn_settings_separator">" "</string>
+     <string name="monitoring_subtitle_ca_certificate">CA certificates</string>
+     <string name="monitoring_subtitle_network_logging">Network logging</string>
+     <string name="monitoring_subtitle_vpn">VPN</string>
+     <string name="monitoring_title">Network monitoring</string>
+     <string name="monitoring_title_device_owned">Device management</string>
      <string name="mount_storage">Sì</string>
      <string name="nav_guide_cancel">Ignora</string>
      <string name="nav_guide_message">Puoi utilizzare le gesture per nascondere/mostrare i tasti virtuali dopo le impostazioni.</string>
@@ -528,6 +555,21 @@ Utilizza solo l'alimentatore in dotazione."</string>
      <string name="quick_settings_bluetooth_label">Bluetooth</string>
      <string name="quick_settings_connect_success">Connesso</string>
      <string name="quick_settings_connecting">Connessione in corso</string>
+     <string name="quick_settings_disclosure_managed_profile_monitoring">Your organization may monitor network traffic in your work profile</string>
+     <string name="quick_settings_disclosure_managed_profile_named_vpn">Work profile connected to %1$s</string>
+     <string name="quick_settings_disclosure_management">Device is managed by your organization</string>
+     <string name="quick_settings_disclosure_management_monitoring">Your organization manages this device and may monitor network traffic</string>
+     <string name="quick_settings_disclosure_management_named_vpn">Device is managed by your organization and connected to %1$s</string>
+     <string name="quick_settings_disclosure_management_vpns">Device is managed by your organization and connected to VPNs</string>
+     <string name="quick_settings_disclosure_monitoring">Network may be monitored</string>
+     <string name="quick_settings_disclosure_named_managed_profile_monitoring">%1$s may monitor network traffic in your work profile</string>
+     <string name="quick_settings_disclosure_named_management">Device is managed by %1$s</string>
+     <string name="quick_settings_disclosure_named_management_monitoring">%1$s manages this device and may monitor network traffic</string>
+     <string name="quick_settings_disclosure_named_management_named_vpn">Device is managed by %1$s and connected to %2$s</string>
+     <string name="quick_settings_disclosure_named_management_vpns">Device is managed by %1$s and connected to VPNs</string>
+     <string name="quick_settings_disclosure_named_vpn">Device connected to %1$s</string>
+     <string name="quick_settings_disclosure_personal_profile_named_vpn">Personal profile connected to %1$s</string>
+     <string name="quick_settings_disclosure_vpns">Device connected to VPNs</string>
      <string name="quick_settings_done">Fatto</string>
      <string name="quick_settings_more_settings">Altre impostazioni</string>
      <string name="quick_settings_tiles">predefinito</string>

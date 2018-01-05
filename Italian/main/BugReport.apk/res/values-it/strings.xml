@@ -78,6 +78,7 @@
      <string name="feedback_phone_model_label">Modello di telefono</string>
      <string name="feedback_probability_label">Probabilità</string>
      <string name="feedback_remind_login_btn">Accedi</string>
+     <string name="feedback_report_remind_login_desc">Sign in with your Mi Account so that our engineers could contact you.</string>
      <string name="feedback_report_remind_login_desc2">"Puoi vedere il progresso della tua segnalazione su \"Le mie segnalazioni\"."</string>
      <string name="feedback_retest_label">Passi da riprodurre</string>
      <string name="feedback_select_images">Aggiungi immagini</string>
@@ -263,6 +264,7 @@
      <string name="submit_dialog_cancel">Annulla</string>
      <string name="submit_dialog_confirm">Invia</string>
      <string name="submit_dialog_content">La tua segnalazione, insieme al log di errore e alle immagini allegate, verrà inviata ai server Xiaomi.</string>
+     <string name="submit_dialog_title">Send report</string>
      <string name="submit_feedback_info_failed">Impossibile inviare segnalazione</string>
      <string name="suggestion_description">Scrivi qui i suggerimenti</string>
      <string name="system_app_select">App integrate</string>
