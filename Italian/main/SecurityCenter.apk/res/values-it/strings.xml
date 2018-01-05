@@ -116,7 +116,7 @@
      <string name="antivirus_update_btn_update">Aggiorna</string>
      <string name="apn_exception_summary">"Testa le impostazioni degli APN"</string>
      <string name="apn_exception_title">Controlla impostazioni APN</string>
-     <string name="app_bg_restrict_dialog_message">Restricting background network connection may prevent the app from working normally. For example, it might no longer be able to receive messages or update content. Restrict anyway?</string>
+     <string name="app_bg_restrict_dialog_message">"La limitazione delle connessioni in background potrebbe impedire all'app di funzionare correttamente. Per esempio, potrebbe non essere più capace di ricevere messaggi o aggiornare i contenuti. Limitare comunque?"</string>
      <string name="app_check_no_issue">Non ci sono problemi sulla batteria. Bene!</string>
      <string name="app_detail">Dettagli</string>
      <string name="app_error_tip_for_launcher">I componenti hardware del tuo dispositivo o la versione del sistema Android utilizzato potrebbero causare problemi di incompatibilità e causare il malfunzionamento, blocco o chiusura forzata di alcune app. Se riscontri problemi del genere, condividi il tuo feedback con gli sviluppatori.</string>
@@ -195,7 +195,7 @@
      <string name="app_manager_notify_bar">Badge</string>
      <string name="app_manager_notify_floating">Notifiche flottanti</string>
      <string name="app_manager_notify_keyguard">Lockscreen</string>
-     <string name="app_manager_open_show_all_apps_immediate">Show all results</string>
+     <string name="app_manager_open_show_all_apps_immediate">Mostra tutti i risultati</string>
      <string name="app_manager_perm">Permessi</string>
      <string name="app_manager_permission_manager_title">Permessi</string>
      <string name="app_manager_permission_notify_title">Notifiche</string>
@@ -218,9 +218,9 @@
 
  Non perderai nessun dato dell'applicazione."</string>
      <string name="app_manager_reset_app_preferences_title">Ripristina le preferenze applicazioni?</string>
-     <string name="app_manager_search_prompt">"Couldn't find results? Try showing results from all apps."</string>
+     <string name="app_manager_search_prompt">Non trovi i risultati? Prova visualizzando i risultati per tutte le app.</string>
      <string name="app_manager_show_all_apps">Mostra tutte le app</string>
-     <string name="app_manager_show_all_apps_opened">Showing results from all apps…</string>
+     <string name="app_manager_show_all_apps_opened">Visualizzazione risultati per tutte le app…</string>
      <string name="app_manager_show_detail_infos">Mostra tutto</string>
      <string name="app_manager_start_by">Avviato da %s</string>
      <string name="app_manager_support_uninstall">Puoi disinstallare queste app</string>
@@ -277,8 +277,8 @@ se se dimenticata"</string>
      <string name="apps_list_header_title_sms_access">Limita accesso ai codici di verifica</string>
      <string name="auto_atsk_condition_battery_level_text_down">Quando la batteria raggiunge il %s</string>
      <string name="auto_atsk_condition_battery_level_text_up">Quando al batteria è carica al %s</string>
-     <string name="auto_back_booster">Stop boosting</string>
-     <string name="auto_booster_suc">Boosted successfully</string>
+     <string name="auto_back_booster">Interrompo il potenziamento</string>
+     <string name="auto_booster_suc">Potenziato correttamente</string>
      <string name="auto_clean_close">Pulizia automatica disattivata</string>
      <string name="auto_handle_title">Generale</string>
      <string name="auto_import_games">Metti tutti i giochi in un unico posto</string>
@@ -346,10 +346,10 @@ se se dimenticata"</string>
      <string name="back_app_name">Torna al blocco App</string>
      <string name="back_description_securitycenter">Indietro</string>
      <string name="back_modifypassword">Torna alla modifica password</string>
-     <string name="back_sound_data">It requires cellular mobile network, please retry!</string>
-     <string name="back_sound_fail">Failed！</string>
-     <string name="back_sound_success">Success!</string>
-     <string name="back_sound_support">"The current network operators doesn't support it！"</string>
+     <string name="back_sound_data">Richiede rete dati mobile, prova di nuovo!</string>
+     <string name="back_sound_fail">Fallito!</string>
+     <string name="back_sound_success">Completato!</string>
+     <string name="back_sound_support">"L'operatore corrente non lo supporta!"</string>
      <string name="background_restrict_app_dialog_message">"La limitazione dell'accesso di rete per questa app potrebbe impedirle di funzionare correttamente, ricevere messaggi, scaricare contenuti, etc. Vuoi limitarla comunque?"</string>
      <string name="background_traffic">Sfondo %s</string>
      <string name="backsound_set_hint">Impostare %s come sottofondo?</string>
@@ -390,7 +390,7 @@ se se dimenticata"</string>
      <string name="battery_temperature_title">Temperatura</string>
      <string name="begin_date">Data di azzeramento utilizzo</string>
      <string name="best_booster_status">La velocità di gioco è la migliore in questo momento.</string>
-     <string name="bg_network_exception_title">Restricted background connection</string>
+     <string name="bg_network_exception_title">Connessione in background limitata</string>
      <string name="bind_xiaomi_account_cancel">Annulla</string>
      <string name="bind_xiaomi_account_confirm">Aggiungi</string>
      <string name="bind_xiaomi_account_dialog_summery">"Stai aggiungendo il Mi Account %s. Se dimentichi la password, potrai usare questo account per ripristinarla. L'account verrà rimosso automaticamente se uscirai."</string>
@@ -604,7 +604,7 @@ se se dimenticata"</string>
      <string name="dlg_add_blacklist">Aggiungere numero alla blacklist?</string>
      <string name="dlg_add_blacklist_title">Aggiungi alla blacklist</string>
      <string name="dlg_add_keyword">Aggiungi parole chiave</string>
-     <string name="dlg_add_white">"New calls and messages from the numbers added to exceptions will be shown in call history and Messaging inbox. However, previously blocked items won't appear there. Add selected numbers to exceptions?"</string>
+     <string name="dlg_add_white">"Le nuove chiamate e messaggi dai numeri aggiunti alle eccezioni verranno mostrati nella cronologia e nei messaggi in arrivo. Comunque gli elementi precedentemente bloccati non verranno visualizzati. Aggiungere i numeri selezionati alle eccezioni?"</string>
      <string name="dlg_antispam_mode_delete_message">Non puoi ripristinare una regola che hai eliminato.</string>
      <string name="dlg_antispam_mode_delete_title">Eliminare regole?</string>
      <string name="dlg_antispam_using_mode_delete_message">Eliminare le regole che stai utilizzando e passare alle regole predefinite della lista blocchi?</string>
@@ -624,11 +624,11 @@ se se dimenticata"</string>
      <string name="dlg_import_whitelist">Inserimento nelle eccezioni…</string>
      <string name="dlg_keyword_ok">Salva</string>
      <string name="dlg_message_not_open_stranger_identify">"Devi attivare l'identificazione dei numeri sconosciuti in \"Telefono > Impostazioni\" prima di segnalare un numero."</string>
-     <string name="dlg_move_to_white">Add to exceptions</string>
+     <string name="dlg_move_to_white">Aggiungi alle eccezioni</string>
      <string name="dlg_no_block">Non bloccare questo numero?</string>
      <string name="dlg_no_block_ok">Non bloccare</string>
-     <string name="dlg_not_block_call">"Unblock selected numbers? They will be added to exceptions, but previously blocked items won't appear in call history."</string>
-     <string name="dlg_not_block_sms">"Unblock selected numbers? They will be added to exceptions, but previously blocked items won't appear in Messaging inbox."</string>
+     <string name="dlg_not_block_call">"Sbloccare i numeri selezionati? Verranno aggiunti alle eccezioni, ma gli elementi bloccati in precedenza non compariranno nella cronologia."</string>
+     <string name="dlg_not_block_sms">"Sbloccare i numeri selezionati? Verranno aggiunti alle eccezioni, ma gli elementi bloccati in precedenza non compariranno neimessaggi in arrivo."</string>
      <string name="dlg_remove_address_blacklist">Rimuovere questo elemento dalla blacklist e ripristinare i relativi messaggi?</string>
      <string name="dlg_remove_address_whitelist">Rimuovere questo elemento dalle eccezioni?</string>
      <string name="dlg_remove_blacklist">Rimuovere questo numero dalla blacklist?</string>
@@ -758,14 +758,14 @@ se se dimenticata"</string>
      <string name="gateway_exception_summary">Controlla il tuo router e riprova.</string>
      <string name="gateway_exception_summary2">"Impossibile connettersi al server"</string>
      <string name="gateway_exception_title">Test router</string>
-     <string name="gb_description_image_button_answer">Answer</string>
-     <string name="gb_description_image_button_reject">Decline</string>
-     <string name="gb_description_image_button_video_answer">Video call</string>
+     <string name="gb_description_image_button_answer">Rispondi</string>
+     <string name="gb_description_image_button_reject">Rifiuta</string>
+     <string name="gb_description_image_button_video_answer">Video chiamata</string>
      <string name="ge">Uno</string>
      <string name="get_sys_info">Recupero informazioni…</string>
      <string name="gigabyteShort">GB</string>
-     <string name="gmscore_support_remind">Turn this feature on if you experience problems with using Gmail, Google Maps, and other Google apps. It will slightly reduce battery life.</string>
-     <string name="gmscore_support_service">Google Services</string>
+     <string name="gmscore_support_remind">"Attiva questa funzione se riscontri problemi con l'utilizzo di Gmail, Google Maps ed altre Google app. Ridurrà leggermente l'autonomia della batteria."</string>
+     <string name="gmscore_support_service">Servizi Google</string>
      <string name="go_to">Procedi</string>
      <string name="go_to_setting_fingerprint">Vai nelle impostazioni</string>
      <string name="google_base_app_install_choice">\"%s\" richiede Google Service Framework per funzionare correttamente, scaricare ed installare?</string>
@@ -773,9 +773,9 @@ se se dimenticata"</string>
      <string name="gs_app_back_self_start">Risparmio batteria</string>
      <string name="gs_auto_clean_memory">Cancella cache</string>
      <string name="gs_auto_clean_memory_detail">Cancella automaticamente la cache per ottimizzare il gioco</string>
-     <string name="gs_autobooster">Boost automatically</string>
-     <string name="gs_autobooster_detail">Boost speed for selected games automatically</string>
-     <string name="gs_autobooster_dialog_message">"If you're using Xunyou speed boost, open games on the designated page."</string>
+     <string name="gs_autobooster">Potenzia automaticamente</string>
+     <string name="gs_autobooster_detail">Potenzia automaticamente la velocità per  i giochi selezionati</string>
+     <string name="gs_autobooster_dialog_message">Se stai utilizzando Xunyou speed boost, apri i giochi nelle pagine apposite.</string>
      <string name="gs_call_handsfree">Rispondi alle chiamate a mani libere</string>
      <string name="gs_call_handsfree_mute">Modalità silenziosa</string>
      <string name="gs_dialog_confirm_close_msg">La scorciatoia verrà rimossa dalla Home. Vai su Sicurezza > Impostazioni per ripristinare.</string>
@@ -1379,7 +1379,7 @@ Questa attività riduce la durata della batteria."</string>
      <string name="power_phone">Chiamate vocali</string>
      <string name="power_save_mode_auto_exit_summary">Disattiva quando la batteria raggiunge il 60% o la carica completa</string>
      <string name="power_save_mode_auto_exit_title">Disattiva quando in carica</string>
-     <string name="power_save_mode_close_warn_text">Il risparmio batteria limita le attività in background . If you choose to use it when your device is charged, some features might not work properly. Keep Battery saver on when your device is charged?</string>
+     <string name="power_save_mode_close_warn_text">Il risparmio batteria limita le attività in background . Se decidi di utilizzarlo quando il dispositivo è carico, alcune parti potrebbero non funzionare correttamente. Mantenere il risparmio batteria anche con dispositivo carico?</string>
      <string name="power_save_mode_close_warn_title">Risparmio batteria</string>
      <string name="power_save_mode_enable">Risparmio batteria</string>
      <string name="power_save_mode_end_time">Fine</string>
@@ -1408,7 +1408,7 @@ Questa attività riduce la durata della batteria."</string>
      <string name="pref_auto_adjust_traffic">Sincronizza automaticamente le statistiche di utilizzo dati</string>
      <string name="pref_automatic_adjust">Sincronizza utilizzo dati</string>
      <string name="pref_avaible_traffic">Piano dati</string>
-     <string name="pref_bg_network_title">Background connection</string>
+     <string name="pref_bg_network_title">Connessione in background</string>
      <string name="pref_category_daily_package_tile">Piano dati giornaliero</string>
      <string name="pref_category_extra_package_tile">Ricarica pacchetto</string>
      <string name="pref_category_half_year_package_tile">Pacchetto dati metà anno</string>
@@ -1639,9 +1639,9 @@ Questa attività riduce la durata della batteria."</string>
      <string name="sms_stranger_block">Filtro sconosciuti</string>
      <string name="sorted_dialog_title">Ordina per</string>
      <string name="sp_background_risk_dialog_summary">, verifica e risolvi i problemi di pagamento.</string>
-     <string name="sp_background_risk_dialog_summary_wifi_approve">You are connected to a public WLAN network which may be unsecure. Make sure your payment is protected before you complete it.</string>
+     <string name="sp_background_risk_dialog_summary_wifi_approve">Sei collegato ad una rete Wi-Fi pubblica che potrebbe essere non sicura. Assicurati che il tuo pagamento sia sicuro prima di procedere.</string>
      <string name="sp_background_risk_dialog_title">Attenzione</string>
-     <string name="sp_background_risk_dialog_title_wifi_approve">Public WLAN alert</string>
+     <string name="sp_background_risk_dialog_title_wifi_approve">Avviso Wi-Fi pubblica</string>
      <string name="sp_background_risk_type_messaging">"L'app Messaggi di sistema è stata sostituita"</string>
      <string name="sp_background_risk_type_root">Il sistema ha i permessi di root</string>
      <string name="sp_background_risk_type_sign">"Un'app non ufficiale è in esecuzione"</string>

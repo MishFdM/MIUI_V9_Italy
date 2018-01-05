@@ -559,8 +559,8 @@ Ricorda che i file scaricati e i segnalibri che aggiungi verranno salvati comunq
      <string name="ok">OK</string>
      <string name="older">Più vecchi</string>
      <string name="open_app_confirm_message">Consentire a questa pagina di aprire %s?</string>
-     <string name="open_cloud_sync">Open cloud sync</string>
-     <string name="open_cloud_sync_desc">Bookmark added. Turn on cloud sync and bookmarks added on other devices will be synced to this machine. Sign in and open it, now?</string>
+     <string name="open_cloud_sync">Apri sincronizzazione cloud</string>
+     <string name="open_cloud_sync_desc">Segnalibro aggiunto. Attiva la sincronizzazione cloud e i segnalibri aggiunti su altri dispositivi verranno sincronizzati con questa macchina. Accedere ed aprire adesso?</string>
      <string name="open_file_explorer_failed">Impossibile aprire File Explorer"</string>
      <string name="open_voice_permission">Apertura permessi rete voce</string>
      <string name="opening_file_error">Impossibile aprire il file selezionato</string>
@@ -859,8 +859,8 @@ Per navigare correttamente devi essere collegato ad Internet. Per poter utilizza
      <string name="switchText">SI</string>
      <string name="switch_proxy_dialog_msg">"Rilevato tentativo di deviazione di rete. Utilizza l'app Sicurezza di MIUI o segnala al tuo operatore."</string>
      <string name="switch_proxy_dialog_title">Deviazione di rete</string>
-     <string name="sync_and_backup_bookmark">Synchronize and backup bookmarks</string>
-     <string name="sync_and_backup_history">Synchronize and backup histories</string>
+     <string name="sync_and_backup_bookmark">Sincronizzazione e backup dei segnalibri</string>
+     <string name="sync_and_backup_history">Sincronizzazione e backup delle cronologie</string>
      <string name="sync_cloud_tabs">Sync</string>
      <string name="tab_hotpage">Tendenza</string>
      <string name="tab_quicklinks">Utilità</string>
@@ -870,7 +870,7 @@ Per navigare correttamente devi essere collegato ad Internet. Per poter utilizza
      <string name="tae_sdk_login_qr_icon_taobao"></string>
      <string name="tae_sdk_qr_login_icon_password"></string>
      <string name="tae_sdk_qr_login_icon_scan"></string>
-     <string name="temp_refuse">Refuse</string>
+     <string name="temp_refuse">Rifiuta</string>
      <string name="time_picker_dialog_am">AM</string>
      <string name="time_picker_dialog_hour_minute_separator">:</string>
      <string name="time_picker_dialog_minute_second_separator">:</string>
