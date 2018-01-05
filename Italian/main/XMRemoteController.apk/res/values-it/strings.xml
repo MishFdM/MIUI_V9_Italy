@@ -648,7 +648,7 @@ Assicurati che %1$s risponda."</string>
      <string name="passport_quick_login_step2_title">Verifica in 2 passi</string>
      <string name="passport_quick_login_title">Inserisci la tua password</string>
      <string name="passport_quick_register">Sign up</string>
-     <string name="passport_quick_register_notice">&lt;u&gt;"Don't have a Mi Account? Create one."&lt;/u&gt;</string>
+     <string name="passport_quick_register_notice">"&lt;u&gt;Don't have a Mi Account? Create one.&lt;/u&gt;"</string>
      <string name="passport_re_get_verify_code">Ottieni codice e riprova</string>
      <string name="passport_re_register">Accedi di nuovo</string>
      <string name="passport_recycle_account_prompt">"Questo è il tuo Mi Account?"</string>
