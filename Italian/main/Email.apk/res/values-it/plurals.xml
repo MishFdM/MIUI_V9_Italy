@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <plurals name="actionbar_large_unread_count">
-        <item quantity="other">%1$d+ unread</item>
-        <item quantity="one">%1$d+ unread</item>
+        <item quantity="other">%1$d+ non letti</item>
+        <item quantity="one">%1$d+ non letto</item>
      </plurals>
      <plurals name="actionbar_unread_messages">
         <item quantity="other">%1$d nuovi messaggi</item>
@@ -104,20 +104,20 @@
         <item quantity="many">%1$d messaggi verranno eliminati definitivamente.</item>
      </plurals>
      <plurals name="hide_atts_remaining">
-        <item quantity="other">Hide %1$d attachments</item>
-        <item quantity="one">Hide %1$d attachment</item>
+        <item quantity="other">Nascondi %1$d allegati</item>
+        <item quantity="one">Nascondi %1$d allegato</item>
      </plurals>
      <plurals name="local_search_result">
-        <item quantity="other">%s results in synced messages</item>
-        <item quantity="one">%s results in synced messages</item>
+        <item quantity="other">%s risultati nei messaggi sincronizzati</item>
+        <item quantity="one">%s risultato nei messaggi sincronizzati</item>
      </plurals>
      <plurals name="month">
         <item quantity="other">%d mesi</item>
         <item quantity="one">%d mese</item>
      </plurals>
      <plurals name="more_atts_remaining">
-        <item quantity="other">%1$d more remaining</item>
-        <item quantity="one">%1$d more remaining</item>
+        <item quantity="other">%1$d altri rimanenti</item>
+        <item quantity="one">%1$d altro rimanente</item>
      </plurals>
      <plurals name="move_conversation">
         <item quantity="other">Sposta %1$d conversazioni</item>
@@ -136,8 +136,8 @@
         <item quantity="many">Mostra %1$d nuovi messaggi.</item>
      </plurals>
      <plurals name="new_messages">
-        <item quantity="other">%1$d new messages</item>
-        <item quantity="one">%1$d new messages</item>
+        <item quantity="other">%1$d nuovi messaggi</item>
+        <item quantity="one">%1$d nuovo messaggio</item>
      </plurals>
      <plurals name="num_selected">
         <item quantity="other">%d selezionati</item>
@@ -148,12 +148,12 @@
         <item quantity="many">%d selezionati</item>
      </plurals>
      <plurals name="quick_reply_hint">
-        <item quantity="other">Reply to %1$d people</item>
-        <item quantity="one">Reply to %1$d people</item>
+        <item quantity="other">Rispondi a %1$d persone</item>
+        <item quantity="one">Rispondi a %1$d persona</item>
      </plurals>
      <plurals name="remote_search_result">
-        <item quantity="other">%s results on server</item>
-        <item quantity="one">%s results on server</item>
+        <item quantity="other">%s risultati sul server</item>
+        <item quantity="one">%s risultato sul server</item>
      </plurals>
      <plurals name="show_messages_read">
         <item quantity="other">%1$d vecchi messaggi</item>
@@ -164,7 +164,7 @@
         <item quantity="many">%1$d vecchi messaggi</item>
      </plurals>
      <plurals name="unsent_messages_in_outbox">
-        <item quantity="other">%1$s unsent in %2$s</item>
-        <item quantity="one">%1$s unsent in %2$s</item>
+        <item quantity="other">%1$s non inviati in %2$s</item>
+        <item quantity="one">%1$s non inviato in %2$s</item>
      </plurals>
 </resources>

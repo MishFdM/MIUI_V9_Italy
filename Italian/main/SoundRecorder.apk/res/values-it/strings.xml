@@ -50,6 +50,7 @@
      <string name="low_battery_error_confirm">OK</string>
      <string name="low_battery_error_title">Batteria scarica</string>
      <string name="mark_point_list_title">Segna punto lista</string>
+     <string name="menu">Menu</string>
      <string name="message_file_size_error">La registrazione ha raggiunto la lunghezza massima per %s</string>
      <string name="network_tip_dialog_cancel">Annulla</string>
      <string name="network_tip_dialog_content">Il motore di riconoscimento vocale deve collegarsi as Internet per funzionare correttamente.</string>
