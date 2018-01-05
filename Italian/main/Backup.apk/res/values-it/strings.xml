@@ -3,18 +3,18 @@
      <string name="abort_backup_confirm">Backup non completato. Interrompere comunque?</string>
      <string name="abort_restore_confirm">Il ripristino non è ancora completo. Interrompere lo stesso?</string>
      <string name="account_contact_backup_info">Dati (Backup informazioni Xiaomi e Gmail)</string>
-     <string name="account_login">Login</string>
+     <string name="account_login">Accedi</string>
      <string name="account_summary">Backup Gmail, Email e Mi Account</string>
-     <string name="alert_button_agree_and_continue">Allow</string>
-     <string name="alert_button_deny">Decline</string>
-     <string name="alert_message_backup_to_miasist">Mi PC Suite is requesting permission to create a backup on a computer. Allow?</string>
-     <string name="alert_message_restore_from_miasist">Mi PC Suite is requesting permission to restore items on your phone. Allow?</string>
-     <string name="alert_miasist_occupy_backup">Backing up items using Mi PC Suite… Wait until the backup is complete and try again.</string>
-     <string name="alert_miasist_occupy_restore">Restoring items using Mi PC Suite… Wait until the items are restored and try again.</string>
-     <string name="alert_phone_occupy_backup">"Can't use Mi PC Suite now. Complete backing up or restoring items on your phone and try again."</string>
-     <string name="alert_second_space_not_support_miasist">"Can't use Mi PC Suite in Second space. Switch to First space."</string>
-     <string name="alert_title_backup_to_miasist">Back up items using Mi PC Suite?</string>
-     <string name="alert_title_restore_from_miasist">Restore items on your phone?</string>
+     <string name="alert_button_agree_and_continue">Consenti</string>
+     <string name="alert_button_deny">Rifiuta</string>
+     <string name="alert_message_backup_to_miasist">"Mi PC Suite sta chiedendo l'autorizzazione per eseguire un backup sul computer. Consentire?"</string>
+     <string name="alert_message_restore_from_miasist">"Mi PC Suite sta chiedendo l'autorizzazione per ripristinare elementi di un backup sul telefono. Consentire?"</string>
+     <string name="alert_miasist_occupy_backup">Backup degli elementi tramite Mi PC Suite… Attendi fino al completamento del backup e prova di nuovo.</string>
+     <string name="alert_miasist_occupy_restore">Ripristino degli elementi tramite Mi PC Suite… Attendi fino al completamento del ripristino e prova di nuovo.</string>
+     <string name="alert_phone_occupy_backup">"Impossibile utilizzare Mi PC Suite adesso. Termina il backup o il ripristino sul tuo telefono e riprova."</string>
+     <string name="alert_second_space_not_support_miasist">"Impossibile utilizzare Mi PC Suite sullo spazio Secondario. Passare allo spazio secondario."</string>
+     <string name="alert_title_backup_to_miasist">Eseguire il backup utilizzando Mi PC Suite?</string>
+     <string name="alert_title_restore_from_miasist">Ripristinare gli elementi sul tuo telefono?</string>
      <string name="already_enable_encrypt">Crittografia abilitata</string>
      <string name="app_name">Backup</string>
      <string name="apps_and_data_item_desc">App e dati</string>
@@ -221,9 +221,9 @@ devi caricare i dati dei vecchi dispositivi su iCloud"</string>
      <string name="notif_backup_complete_title">Backup eseguito correttamente</string>
      <string name="notif_backup_content">Backup dei dati utente</string>
      <string name="notif_backup_title">Backup dati</string>
-     <string name="notif_calculating_app">Caculating %1$s (%2$s)…</string>
-     <string name="notif_connect_miasist">Connected to Mi PC Suite</string>
-     <string name="notif_disconnect_miasist">Not connected to Mi PC Suite</string>
+     <string name="notif_calculating_app">Calcolo %1$s (%2$s)…</string>
+     <string name="notif_connect_miasist">Connesso a Mi PC Suite</string>
+     <string name="notif_disconnect_miasist">Non connesso a Mi PC Suite</string>
      <string name="notif_icloud_canceled_summary">Annullato</string>
      <string name="notif_icloud_canceling_summary">Annullamento…</string>
      <string name="notif_icloud_import_title">Importa dati da iCloud</string>
@@ -233,12 +233,12 @@ devi caricare i dati dei vecchi dispositivi su iCloud"</string>
      <string name="notif_icloud_need_wifi_summary">In attesa di Wi-Fi</string>
      <string name="notif_icloud_saved_summary">Importazione completata</string>
      <string name="notif_icloud_saving_summary">Ripristino dati…</string>
-     <string name="notif_parse_select_descript_error">"Couldn't sync the list of backed up items."</string>
-     <string name="notif_receiving_transingsd">Receiving %1$s (%2$s)…</string>
+     <string name="notif_parse_select_descript_error">Impossibile sincronizzare la lista degli elementi del backup.</string>
+     <string name="notif_receiving_transingsd">Ricezione %1$s (%2$s)…</string>
      <string name="notif_restore_complete_title">Ripristino da backup eseguito correttamente</string>
      <string name="notif_restore_content">Ripristino dei dati utente</string>
      <string name="notif_restore_title">Ripristino dei dati</string>
-     <string name="notif_sending_transingsd">Sending %1$s (%2$s)…</string>
+     <string name="notif_sending_transingsd">Invio %1$s (%2$s)…</string>
      <string name="notif_trans_auto_reconnecting_content">"Puoi annullare l'operazione in corso se necessario."</string>
      <string name="notif_trans_auto_reconnecting_title">Connessione interrotta. Riconnessione automatica…</string>
      <string name="notif_trans_receiving_completed">Dati ricevuti correttamente</string>
@@ -478,7 +478,7 @@ Non disattivare l'Hotspot. Mantieni i dispositivi vicini."</string>
 Seleziona di nuovo i file per liberare spazio"</string>
      <string name="trans_select_data_tips">"Seleziona i file da trasferire
 I file già esistenti sul nuovo dispositivo verranno sovrascritti"</string>
-     <string name="trans_select_data_too_large">"Hai selezionato troppi elementi da trsaferire.
+     <string name="trans_select_data_too_large">"Hai selezionato troppi elementi da trasferire.
 Seleziona solo gli elementi importanti per rendere il trasferimento più veloce."</string>
      <string name="trans_select_device_receive">Seleziona un dispositivo per la ricezione dei dati.</string>
      <string name="trans_select_device_send">Seleziona il dispositivo su cui trasferire i dati.</string>

@@ -6,13 +6,13 @@
      </string-array>
      <string-array name="alarm_repeat_type">
         <item>Tutti i giorni</item>
-		<item>Weeknights</item>
+		<item>Giorni feriali</item>
         <item>Lun-Ven</item>
         <item>Personalizza</item>
      </string-array>
      <string-array name="alarm_repeat_type_no_workdays">
         <item>Tutti i giorni</item>
-		<item>Weeknights</item>
+		<item>Giorni feriali</item>
         <item>Lun-Ven</item>
         <item>Personalizza</item>
      </string-array>
@@ -188,9 +188,9 @@
         <item>Massimo 4 processi</item>
      </string-array>
      <string-array name="automatic_storage_management_days">
-        <item>Over 30 days old</item>
-        <item>Over 60 days old</item>
-        <item>Over 90 days old</item>
+        <item>Più vecchi di 30 giorni</item>
+        <item>Più vecchi di 60 giorni</item>
+        <item>Più vecchi di 90 giorni</item>
      </string-array>
      <string-array name="battery_indicator_style_entries">
         <item>Grafico</item>
@@ -216,72 +216,72 @@
         <item>IS95A</item>
      </string-array>
      <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
-        <item>Use System Selection (Default)</item>
-        <item>16 bits/sample</item>
-        <item>24 bits/sample</item>
-        <item>32 bits/sample</item>
+        <item>Usa selezione di sistema (predefinito)</item>
+        <item>16 bit/campione</item>
+        <item>24 bit/campione</item>
+        <item>32 bit/campione</item>
      </string-array>
      <string-array name="bluetooth_a2dp_codec_bits_per_sample_titles">
-        <item>Use System Selection (Default)</item>
-        <item>16 bits/sample</item>
-        <item>24 bits/sample</item>
-        <item>32 bits/sample</item>
+        <item>Usa selezione di sistema (predefinito)</item>
+        <item>16 bit/campione</item>
+        <item>24 bit/campione</item>
+        <item>32 bit/campione</item>
      </string-array>
      <string-array name="bluetooth_a2dp_codec_channel_mode_summaries">
-        <item>Use System Selection (Default)</item>
+        <item>Usa selezione di sistema (predefinito)</item>
         <item>Mono</item>
         <item>Stereo</item>
      </string-array>
      <string-array name="bluetooth_a2dp_codec_channel_mode_titles">
-        <item>Use System Selection (Default)</item>
+        <item>Usa selezione di sistema (predefinito)</item>
         <item>Mono</item>
         <item>Stereo</item>
      </string-array>
      <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_summaries">
-        <item>Optimized for Audio Quality</item>
-        <item>Balanced Audio And Connection Quality</item>
-        <item>Optimized for Connection Quality</item>
-        <item>Best Effort (Adaptive Bit Rate)</item>
+        <item>Ottimizzato per qualità audio</item>
+        <item>Bilanciato Audio e Qualità Connessione</item>
+        <item>Ottimizzato per Qualità Connessione</item>
+        <item>Migliore possibile (Bit Rate adattivo)</item>
      </string-array>
      <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_titles">
-        <item>Optimized for Audio Quality (990kbps/909kbps)</item>
-        <item>Balanced Audio And Connection Quality (660kbps/606kbps)</item>
-        <item>Optimized for Connection Quality (330kbps/303kbps)</item>
-        <item>Best Effort (Adaptive Bit Rate)</item>
+        <item>Ottimizzato per Qualità Connessione (990kbps/909kbps)</item>
+        <item>Bilanciato Audio e Qualità Connessione (660kbps/606kbps)</item>
+        <item>Ottimizzato per Qualità Connessione (330kbps/303kbps)</item>
+        <item>Migliore possibile (Bit Rate adattivo)</item>
      </string-array>
      <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
-        <item>Use System Selection (Default)</item>
+        <item>Usa selezione di sistema (predefinito)</item>
         <item>44.1 kHz</item>
         <item>48.0 kHz</item>
         <item>88.2 kHz</item>
         <item>96.0 kHz</item>
      </string-array>
      <string-array name="bluetooth_a2dp_codec_sample_rate_titles">
-        <item>Use System Selection (Default)</item>
+        <item>Usa selezione di sistema (Predefinito)</item>
         <item>44.1 kHz</item>
         <item>48.0 kHz</item>
         <item>88.2 kHz</item>
         <item>96.0 kHz</item>
      </string-array>
      <string-array name="bluetooth_a2dp_codec_summaries">
-        <item>Use System Selection (Default)</item>
+        <item>Usa selezione di sistema (Predefinito)</item>
         <item>SBC</item>
         <item>AAC</item>
         <item>aptX</item>
         <item>aptX HD</item>
         <item>LDAC</item>
-        <item>Enable Optional Codecs</item>
-        <item>Disable Optional Codecs</item>
+        <item>Attiva Codec Opzionali</item>
+        <item>Disattiva Codec Opzionali</item>
      </string-array>
      <string-array name="bluetooth_a2dp_codec_titles">
-        <item>Use System Selection (Default)</item>
+        <item>Usa selezione di sistema (Predefinito)</item>
         <item>SBC</item>
         <item>AAC</item>
         <item>aptX</item>
         <item>aptX HD</item>
         <item>LDAC</item>
-        <item>Enable Optional Codecs</item>
-        <item>Disable Optional Codecs</item>
+        <item>Attiva Codec Opzionali</item>
+        <item>Disattiva Codec Opzionali</item>
      </string-array>
      <string-array name="bluetooth_avrcp_versions">
         <item>AVRCP 1.4 (Default)</item>
@@ -1280,16 +1280,16 @@
         <item>16M</item>
      </string-array>
      <string-array name="select_logpersist_summaries">
-        <item>Off</item>
-        <item>All log buffers</item>
-        <item>All but radio log buffers</item>
-        <item>kernel log buffer only</item>
+        <item>Disattivato</item>
+        <item>Tutti i buffer log</item>
+        <item>Tutti i buffe rlog tranne radio</item>
+        <item>Solo buffer log kernel</item>
      </string-array>
      <string-array name="select_logpersist_titles">
-        <item>Off</item>
-        <item>All</item>
-        <item>All but radio</item>
-        <item>kernel only</item>
+        <item>Disattivato</item>
+        <item>Tutti</item>
+        <item>Tutti tranne radio</item>
+        <item>Solo kernel</item>
      </string-array>
      <string-array name="show_non_rect_clip_entries">
         <item>Disattivato</item>

@@ -211,12 +211,12 @@
      <string name="auto_advance_help_title">"Dopo un'eliminazione, mostra…"</string>
      <string name="auto_advance_label">Avanzamento automatico</string>
      <string name="auto_advance_summary">"Scegli quale schermata visualizzare dopo l'eliminazione di un messaggio"</string>
-     <string name="auto_login_fail">Automatic login failed</string>
-     <string name="auto_login_fail_to_retry">Automatic login failed, try again.</string>
+     <string name="auto_login_fail">Accesso automatico fallito</string>
+     <string name="auto_login_fail_to_retry">Accesso automatico fallito, prova di nuovo.</string>
      <string name="auto_mail_describe">139 Email è un servizio di configurazione automatica che può aiutare a compilare le informazioni di login sulla casella di posta. Desideri attivare questa funzione?</string>
      <string name="auto_mail_disable_txt">Disattivato</string>
      <string name="auto_mail_enable_txt">Inizia impostazioni</string>
-     <string name="auto_mail_go_email">Mailbox</string>
+     <string name="auto_mail_go_email">Casella di posta</string>
      <string name="auto_mail_name">AutoMail</string>
      <string name="auto_mail_title_note">"Trova l'opzione 139 Email Configurazione Automatica, tocca per iniziare."</string>
      <string name="auto_mail_window_description">Servizio 139 Email Configurazione Automatica</string>
@@ -654,7 +654,7 @@
      <string name="move_to_selection_dialog_title">"Sposta in un'altra cartella"</string>
      <string name="multiple_new_message_notification_item">%1$s"   %2$s"</string>
      <string name="mute">Disattiva</string>
-     <string name="navigation_menu">navigation menu</string>
+     <string name="navigation_menu">menu di navigazione</string>
      <string name="network_error">Nessuna connessione</string>
      <string name="network_invaild">Impossibile collegarsi alla rete</string>
      <string name="network_not_available">Connessione di rete non disponibile, riprova più tardi</string>
@@ -708,7 +708,7 @@ Prova con una diverso account."</string>
      <string name="outbox_alert_description_auth_error">Errore di autorizzazione sincronizzazione della posta in arrivo</string>
      <string name="outbox_alert_description_cannot_authenticate">%s Errore sistema mail</string>
      <string name="outbox_alert_description_email_size_error">"È stata raggiunta la dimensione massima per le Email."</string>
-     <string name="outbox_alert_description_fail_authentication">Username o password sbagliata.</string>
+     <string name="outbox_alert_description_fail_authentication">Nome utente o password sbagliata.</string>
      <string name="outbox_alert_description_fail_network">Non è stato possibile collegarsi alla rete.</string>
      <string name="outbox_alert_description_http_error">Errore HTTP nella sincronizzazione della posta in arrivo</string>
      <string name="outbox_alert_description_insufficient_storage_error">Spazio insufficiente nel server mail</string>
@@ -819,8 +819,8 @@ perr icevere promemoria sui pagamenti dei tuoi viaggi"</string>
      <string name="push_wps_confirm_message">Nessuna applicazione può aprire questo allegato, si consiglia WPS Office</string>
      <string name="push_wps_confirm_title">Si consiglia WPS Office</string>
      <string name="push_wps_no_response_app">"Nessuna risposta dall'app"</string>
-     <string name="qq_auto_login_failed_cpy_pass_success">Copied successfully; please return to the login page and paste to fill the password field</string>
-     <string name="qq_auto_login_failed_dialog_message">Please copy the authorization code, then return to login page and click \"Input username and password to log in\"; paste to fill the password field to login manually</string>
+     <string name="qq_auto_login_failed_cpy_pass_success">Copiato con successo; torna alla pagina di accesso e incolla per riempire il campo password</string>
+     <string name="qq_auto_login_failed_dialog_message">Copia il codice di autorizzazione, quindi torna alla pagina di accesso e tocca \"Inserisci nome utente e password per accedere\"; incolla per riempire il campo password ed accedere manualmente</string>
      <string name="qq_auto_login_failed_dialog_positive_label">Copy the authorization code</string>
      <string name="qq_bar_open_imap">Aiuto</string>
      <string name="qq_bar_send_message">Invia SMS</string>
@@ -921,7 +921,7 @@ perr icevere promemoria sui pagamenti dei tuoi viaggi"</string>
      <string name="request_entity_large">File richiesto troppo grande!</string>
      <string name="request_permission_activity">Richiesta Permessi</string>
      <string name="respond_inline">Risposta incorporata</string>
-     <string name="retry_login">please sign in again</string>
+     <string name="retry_login">accedi di nuovo</string>
      <string name="save_action">Salva</string>
      <string name="save_attachment">Salva</string>
      <string name="save_draft_failed">Salvataggio bozza fallito</string>
