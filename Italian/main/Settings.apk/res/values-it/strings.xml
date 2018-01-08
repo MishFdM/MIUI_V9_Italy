@@ -373,7 +373,7 @@ Vuoi abilitare le finestre flottanti?"</string>
      <string name="assist_access_screenshot_summary">"Consenti alle app di assistenza di accede all'immagine dello schermo"</string>
      <string name="assist_access_screenshot_title">Utilizza screenshot</string>
      <string name="assist_and_voice_input_title">Assistenza e input vocale</string>
-     <string name="assist_flash_summary">Lampeggia ai bordi dello schermo quando l'app accede al testo sullo schermo o screenshot</string>
+     <string name="assist_flash_summary">"Lampeggia ai bordi dello schermo quando l'app accede al testo sullo schermo o screenshot"</string>
      <string name="assist_flash_title">Schermo lampeggiante</string>
      <string name="assist_footer">Le app di assistenza possono aiutarti in base alle informazioni tratte dalle schermate che stai visualizzando. Alcune app supportano sia il launcher che i servizi di immissione vocale per fornirti assistenza maggiormente integrata.</string>
      <string name="assist_gesture_sensitivity_title">Sensibilità</string>
