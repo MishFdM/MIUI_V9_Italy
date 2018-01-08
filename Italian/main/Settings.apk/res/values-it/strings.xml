@@ -59,30 +59,30 @@
      <string name="accessibility_lock_screen_progress">%1$d di %2$d caratteri usati</string>
      <string name="accessibility_long_press_timeout_preference_title">Ritardo tocco e pressione</string>
      <string name="accessibility_menu_item_settings">Impostazioni</string>
-     <string name="accessibility_no_service_selected">No service selected</string>
+     <string name="accessibility_no_service_selected">Nessun servizio selezionato</string>
      <string name="accessibility_no_services_installed">Nessun servizio installato</string>
      <string name="accessibility_no_wifi">Wi-Fi disconnesso.</string>
      <string name="accessibility_personal_account_title">Account personale - %s</string>
      <string name="accessibility_power_button_ends_call_prerefence_title">Chiudi chiamata da ON/OFF</string>
-     <string name="accessibility_preference_magnification_summary">Zoom in on screen</string>
+     <string name="accessibility_preference_magnification_summary">Zoom sullo schermo</string>
      <string name="accessibility_screen_magnification_enable">"Gesti d'ingrandimento"</string>
-     <string name="accessibility_screen_magnification_gestures_title">Magnify with triple-tap</string>
-     <string name="accessibility_screen_magnification_navbar_configuration_warning">The Accessibility button is set to %1$s. To use magnification, touch &amp; hold the Accessibility button, then select magnification.</string>
-     <string name="accessibility_screen_magnification_navbar_short_summary">Tap a button to zoom</string>
-     <string name="accessibility_screen_magnification_navbar_summary">"When magnification is turned on, use the Accessibility button at the bottom of the screen to quickly magnify.
+     <string name="accessibility_screen_magnification_gestures_title">Ingrandisci con un triplo tap</string>
+     <string name="accessibility_screen_magnification_navbar_configuration_warning">Il tasto di Accessibilità è impostato su %1$s. Per ingrandire, tieni premuto il tasto di Accessibilità, quindi seleziona la lente di ingrandimento.</string>
+     <string name="accessibility_screen_magnification_navbar_short_summary">Tocca un tasto per zoomare</string>
+     <string name="accessibility_screen_magnification_navbar_summary">"Quando l'ingrandimento è attivo, usa il tasto di Accessibilità in fondo allo schermo per ingrandire velocemente.
 
-"&lt;b&gt;To zoom&lt;/b&gt;", tap the Accessibility button, then tap anywhere on the screen.
-"&lt;ul&gt;&lt;li&gt;Drag 2 or more fingers to scroll&lt;/li&gt;"
-"&lt;li&gt;Pinch 2 or more fingers to adjust zoom&lt;/li&gt;&lt;/ul&gt;"
+"&lt;b&gt;Per zoomare&lt;/b&gt;", tocca il tasto di Accessibilità, poi tocca un punto qualsiasi dello schermo.
+"&lt;ul&gt;&lt;li&gt;Sposta sue o più dita per scorrere&lt;/li&gt;"
+"&lt;li&gt;Pizzica con due o più dita per regolare lo zoom&lt;/li&gt;&lt;/ul&gt;"
 
-"&lt;b&gt;To zoom temporarily&lt;/b&gt;", tap the Accessibility button, then touch &amp;amp; hold anywhere on the screen.
-"&lt;ul&gt;&lt;li&gt;Drag to move around the screen&lt;/li&gt;"
-"&lt;li&gt;Lift finger to zoom out&lt;/li&gt;&lt;/ul&gt;"
+"&lt;b&gt;Per zoomare temporaneamente&lt;/b&gt;", tocca il tasto di Accessibilità, quindi tieni premuto &amp;amp; in un punto qualsiasi dello schermo.
+"&lt;ul&gt;&lt;li&gt;Trascina per spostare sullo schermo&lt;/li&gt;"
+"&lt;li&gt;Alza le dita per zoomare&lt;/li&gt;&lt;/ul&gt;"
 
-You can&amp;#8217;t zoom in on the keyboard or navigation bar."</string>
-     <string name="accessibility_screen_magnification_navbar_title">Magnify with button</string>
+Non puoi zoomare sulla tastiera o la barra di navigazione."</string>
+     <string name="accessibility_screen_magnification_navbar_title">Ingrandisci con il tasto</string>
      <string name="accessibility_screen_magnification_short_summary">Tocca 3 volte per lo zoom</string>
-     <string name="accessibility_screen_magnification_state_navbar_gesture">Magnify with button &amp; triple-tap</string>
+     <string name="accessibility_screen_magnification_state_navbar_gesture">Ingrandisci con il tasto e triplo tap</string>
      <string name="accessibility_screen_magnification_summary">"Quando questa funzione è attiva puoi aumentare e diminuire lo zoom toccando tre volte lo schermo.
 
 Dopo avere aumentato lo zoom puoi:
@@ -95,11 +95,11 @@ Nota: il tocco triplo per ingrandire funziona ovunque tranne che per la tastiera
      <string name="accessibility_screen_magnification_title">Gesti di ingrandimento</string>
      <string name="accessibility_service_default_description">Nessuna descrizione fornita.</string>
      <string name="accessibility_settings">Accessibilità</string>
-     <string name="accessibility_settings_summary">Screen readers, display, interaction controls</string>
+     <string name="accessibility_settings_summary">Lettori schermo, display, controlli di interazione</string>
      <string name="accessibility_settings_title">Impostazioni di accessibilità</string>
-     <string name="accessibility_shortcut_description">When the shortcut is on, you can press both volume buttons for 3 seconds to start an accessibility feature.</string>
-     <string name="accessibility_shortcut_service_on_lock_screen_title">Allow from lock screen</string>
-     <string name="accessibility_shortcut_service_title">Shortcut service</string>
+     <string name="accessibility_shortcut_description">Quando il collegamento è attivo, puoi premere entrami i tasti volume per 3 secondi per avviare una funzione di accessibilità.</string>
+     <string name="accessibility_shortcut_service_on_lock_screen_title">Consenti da lockscreen</string>
+     <string name="accessibility_shortcut_service_title">Servizio collegamento</string>
      <string name="accessibility_summary_default_combination">%1$s / %2$s</string>
      <string name="accessibility_summary_state_disabled">OFF</string>
      <string name="accessibility_summary_state_enabled">ON</string>
@@ -121,8 +121,8 @@ Nota: il tocco triplo per ingrandire funziona ovunque tranne che per la tastiera
      <string name="accessibility_work_account_title">Account di lavoro - %s</string>
      <string name="account_add">Aggiungi</string>
      <string name="account_autostar_label">Avvio automatico</string>
-     <string name="account_dashboard_title">Users &amp; accounts</string>
-     <string name="account_for_section_header">Accounts for %1$s</string>
+     <string name="account_dashboard_title">Utenti e account</string>
+     <string name="account_for_section_header">Account per %1$s</string>
      <string name="account_list">Altri account</string>
      <string name="account_other">Altro</string>
      <string name="account_settings">Account</string>
@@ -140,7 +140,7 @@ Nota: il tocco triplo per ingrandire funziona ovunque tranne che per la tastiera
      <string name="activating">Attivazione in corso\u2026</string>
      <string name="active_device_admin_msg">Amministratore dispositivo</string>
      <string name="active_input_method_subtypes">Metodi di immissione attivi</string>
-     <string name="activity_list_empty">No matching activities found.</string>
+     <string name="activity_list_empty">Nessuna attività corrispondente.</string>
      <string name="activity_not_found">Applicazione non installata sul dispositivo.</string>
      <string name="activity_picker_label">Scegli attività</string>
      <string name="ad_service">Servizi pubblicitari (AD)</string>
@@ -191,7 +191,7 @@ L'amministratore ha la capacità di monitorare e gestire le impostazioni, l'acce
      <string name="admin_profile_owner_user_message">"Il tuo amministratore può monitorare e gestire app e dati associati a questo utente, incluse impostazioni, permessi, accessi aziendali, attività di rete e informazioni sulla posizione."</string>
      <string name="admin_support_more_info">Altri dettagli</string>
      <string name="advanced_apps">Avanzate</string>
-     <string name="advanced_battery_title">Advanced battery usage</string>
+     <string name="advanced_battery_title">Utilizzo avanzato batteria</string>
      <string name="advanced_section_header">Avanzate</string>
      <string name="advanced_security_title">Avanzate</string>
      <string name="advanced_settings">Impostazioni avanzate</string>
@@ -217,17 +217,17 @@ L'amministratore ha la capacità di monitorare e gestire le impostazioni, l'acce
      <string name="allow_mock_location">Posizioni fittizie</string>
      <string name="allow_mock_location_summary">Consenti posizioni fittizie</string>
      <string name="allow_overlay_description">"Questo permesso consente ad un app di visualizzare dei contenuti sopra ad altre app che stai usando e potrebbero così interferire con l'uso dell'interfaccia delle altre app, o modificare quelli che pensi di visualizzare in altre applicazioni."</string>
-     <string name="allow_sound">Allow sound</string>
+     <string name="allow_sound">Consenti suono</string>
      <string name="alpha_build">" | Alpha"</string>
      <string name="always">Sempre</string>
      <string name="always_allow_bind_appwidgets_text">Hai scelto di consentire a questa applicazione di creare widget e di accedere ai relativi dati.</string>
      <string name="always_running">Sempre in esecuzione (%s)</string>
      <string name="amber_alerts_summary">Ricevi i bollettini sui rapimenti di bambini</string>
      <string name="amber_alerts_title">Avvisi AMBER</string>
-     <string name="ambient_display_pickup_summary">To quickly check your notifications, pick up your phone.</string>
-     <string name="ambient_display_pickup_title">Lift to check phone</string>
-     <string name="ambient_display_summary">To quickly check your notifications, double-tap your screen.</string>
-     <string name="ambient_display_title">Double-tap to check phone</string>
+     <string name="ambient_display_pickup_summary">Prendi il telefono per leggere le notifiche più velocemente.</string>
+     <string name="ambient_display_pickup_title">Alza per controllare</string>
+     <string name="ambient_display_summary">Tocca due volte lo schermo per controllare rapidamente.</string>
+     <string name="ambient_display_title">Doppio tap per leggere</string>
      <string name="android_beam_disabled_summary">Non disponibile perché la tecnologia NFC non è attiva</string>
      <string name="android_beam_explained">"Quando questa funzione è attiva, puoi trasferire contenuti di applicazioni su un altro dispositivo che supporta la tecnologia NFC tenendo vicini i due dispositivi. Puoi trasferire, ad esempio, pagine dell'applicazione Browser, video di YouTube, contatti di Persone e altri dati. È sufficiente avvicinare i dispositivi (generalmente mettendo a contatto le due parti posteriori), quindi toccare lo schermo. L'app stabilisce i dati da trasferire."</string>
      <string name="android_beam_label">Android Beam</string>
@@ -273,11 +273,11 @@ L'amministratore ha la capacità di monitorare e gestire le impostazioni, l'acce
      <string name="apn_settings_not_available">Le impostazioni APN non sono disponibili per questo utente</string>
      <string name="apn_type">Tipo APN</string>
      <string name="apn_user">Nome utente</string>
-     <string name="app_and_notification_dashboard_summary">Permissions, default apps</string>
-     <string name="app_and_notification_dashboard_title">Apps &amp; notifications</string>
+     <string name="app_and_notification_dashboard_summary">Permessi, app predefinite</string>
+     <string name="app_and_notification_dashboard_title">App e notifiche</string>
      <string name="app_backup">Backup</string>
      <string name="app_data_usage">Utilizzo dati App</string>
-     <string name="app_default_dashboard_title">Default apps</string>
+     <string name="app_default_dashboard_title">App predefinite</string>
      <string name="app_disable_dlg_positive">Disattiva app</string>
      <string name="app_disable_dlg_text">"Se disattivi un'applicazione integrata, le altre applicazioni potrebbero funzionare in modo anomalo."</string>
      <string name="app_disable_dlg_title">Disattivare app integrata?</string>
@@ -291,7 +291,7 @@ Vuoi disabilitare le finestre flottanti?"</string>
      <string name="app_floating_window_dlg_enable">"L'abilitazione delle notifiche flottanti per %1$s richiede il riavvio dell'applicazione. Puoi anche chiudere l'app manualmente. 
 Vuoi abilitare le finestre flottanti?"</string>
      <string name="app_forward_locked">"L'applicazione è protetta dalla copia."</string>
-     <string name="app_info_storage_title">Space used</string>
+     <string name="app_info_storage_title">Spazio utilizzato</string>
      <string name="app_install_details_group_title">Store</string>
      <string name="app_install_details_summary">App installate da %1$s</string>
      <string name="app_install_details_title">Dettagli app</string>
@@ -315,7 +315,7 @@ Vuoi abilitare le finestre flottanti?"</string>
      <string name="app_notification_block_summary">Non mostrare mai notifiche da questa app</string>
      <string name="app_notification_block_title">Blocca tutto</string>
      <string name="app_notification_importance_title">Importante</string>
-     <string name="app_notification_listing_summary_zero">Turned on for all apps</string>
+     <string name="app_notification_listing_summary_zero">Attivato epr tutte le app</string>
      <string name="app_notification_override_dnd_summary">Consenti il proseguimento di queste notifiche quando la funzione Anti Disturbo è impostata su Solo Priorità</string>
      <string name="app_notification_override_dnd_title">Priorità su Anti Disturbo</string>
      <string name="app_notification_preferences">Impostazioni app</string>
@@ -324,7 +324,7 @@ Vuoi abilitare le finestre flottanti?"</string>
      <string name="app_notification_row_sensitive">Riservate</string>
      <string name="app_notification_visibility_override_title">Sulla schermata di blocco</string>
      <string name="app_notifications_dialog_done">Fatto</string>
-     <string name="app_notifications_off_desc">"Android is blocking this app's notifications from appearing on this device"</string>
+     <string name="app_notifications_off_desc">"Android sta bloccando la visualizzazione delle notifiche per questa app"</string>
      <string name="app_notifications_switch_label">Mostra notifiche</string>
      <string name="app_notifications_title">Notifiche app</string>
      <string name="app_ops_never_used">(Mai utilizzata)</string>
@@ -332,12 +332,12 @@ Vuoi abilitare le finestre flottanti?"</string>
      <string name="app_ops_settings">Op. app</string>
      <string name="app_overlay_permission_preference">Permessi di disegnare su altre app </string>
      <string name="app_permissions">Permessi app</string>
-     <string name="app_permissions_summary">Apps using %1$s</string>
+     <string name="app_permissions_summary">Le app stanno utilizzando %1$s</string>
      <string name="app_process_limit_title">Limite processi background</string>
      <string name="app_restrictions_custom_label">Imposta restrizioni applicazioni</string>
      <string name="app_sees_restricted_accounts">Questa app può accedere ai tuoi account</string>
      <string name="app_sees_restricted_accounts_and_controlled_by">Questa app può accedere ai tuoi account. Controllata da %1$s</string>
-     <string name="app_settings_link">Additional settings in the app</string>
+     <string name="app_settings_link">"Impostazioni aggiuntive nell'app"</string>
      <string name="app_special_disable_dlg_text">"Se disattivi un'applicazione incorporata, altre applicazioni potrebbero funzionare in modo anomalo. Verranno inoltre eliminati i tuoi dati."</string>
      <string name="app_special_disable_dlg_title">"Eliminare i dati e disattivare l'applicazione?"</string>
      <string name="app_switch_key">Recenti</string>
@@ -373,12 +373,12 @@ Vuoi abilitare le finestre flottanti?"</string>
      <string name="assist_access_screenshot_summary">"Consenti alle app di assistenza di accede all'immagine dello schermo"</string>
      <string name="assist_access_screenshot_title">Utilizza screenshot</string>
      <string name="assist_and_voice_input_title">Assistenza e input vocale</string>
-     <string name="assist_flash_summary">Flash edges of screen when assist app accesses text from screen or screenshot</string>
-     <string name="assist_flash_title">Flash screen</string>
+     <string name="assist_flash_summary">Lampeggia ai bordi dello schermo quando l'app accede al testo sullo schermo o screenshot</string>
+     <string name="assist_flash_title">Schermo lampeggiante</string>
      <string name="assist_footer">Le app di assistenza possono aiutarti in base alle informazioni tratte dalle schermate che stai visualizzando. Alcune app supportano sia il launcher che i servizi di immissione vocale per fornirti assistenza maggiormente integrata.</string>
-     <string name="assist_gesture_sensitivity_title">Sensitivity</string>
+     <string name="assist_gesture_sensitivity_title">Sensibilità</string>
      <string name="assist_gesture_summary" />
-     <string name="assist_gesture_title">Assist gesture</string>
+     <string name="assist_gesture_title">Assistente gesture</string>
      <string name="assistant_security_warning">"Il componente potrà leggere i dati delle app in uso nel sistema, inclusi i dati visibili sul tuo schermo o accessibili all'interno dell'app."</string>
      <string name="assistant_security_warning_agree">OK</string>
      <string name="assistant_security_warning_disagree">No</string>
@@ -387,14 +387,14 @@ Vuoi abilitare le finestre flottanti?"</string>
      <string name="assisted_gps_disabled">Utilizza il server per assistere il GPS (abilita per migliorare le prestazioni GPS)</string>
      <string name="assisted_gps_enabled">"Utilizza il server per assistere il GPS (disabilita per ridurre l'utilizzo della rete)"</string>
      <string name="attempt_other_network">"Prova un'altra rete"</string>
-     <string name="audio_and_captions_category_title">Audio &amp; on-screen text</string>
-     <string name="audio_files_title">Audio files</string>
+     <string name="audio_and_captions_category_title">Audio e testo a schermo</string>
+     <string name="audio_files_title">Audio file</string>
      <string name="audio_profile_settings_title">Profili audio</string>
      <string name="audio_record_proc_title">Eliminazione rumori</string>
      <string name="auto_brightness_default_title">Default</string>
      <string name="auto_brightness_disclaimer">Optimize brightness level for available light. When this feature is on, you can still adjust brightness temporarily.</string>
-     <string name="auto_brightness_high_title">High</string>
-     <string name="auto_brightness_low_title">Low</string>
+     <string name="auto_brightness_high_title">Alto</string>
+     <string name="auto_brightness_low_title">Basso</string>
      <string name="auto_brightness_off_summary">"Don't adjust for available light"</string>
      <string name="auto_brightness_off_title">Off</string>
      <string name="auto_brightness_subtitle">Your preferred brightness level</string>
@@ -508,15 +508,15 @@ Last ran on %2$s"</string>
      <string name="battery_desc_users">"Batteria utilizzata dall'utente"</string>
      <string name="battery_desc_voice">Batteria utilizzata da chiamate vocali</string>
      <string name="battery_desc_wifi">Batteria utilizzata da Wi-Fi</string>
-     <string name="battery_detail_background">While in background</string>
-     <string name="battery_detail_foreground">While in active use</string>
-     <string name="battery_detail_info_title">Since full charge</string>
-     <string name="battery_detail_manage_title">Manage battery usage</string>
-     <string name="battery_detail_power_percentage">%1$s of total app usage (%2$dmAh)</string>
-     <string name="battery_detail_power_usage">Battery usage</string>
-     <string name="battery_detail_since_full_charge">Breakdown since last full charge</string>
-     <string name="battery_details_title">Battery usage</string>
-     <string name="battery_footer_summary">Remaining battery time is approximate and can change based on usage</string>
+     <string name="battery_detail_background">In background</string>
+     <string name="battery_detail_foreground">"Durante l'utilizzo"</string>
+     <string name="battery_detail_info_title">"Dall'ultima carica"</string>
+     <string name="battery_detail_manage_title">Gestisci utilizzo batteria</string>
+     <string name="battery_detail_power_percentage">%1$s di utilizzo app totale (%2$dmAh)</string>
+     <string name="battery_detail_power_usage">Utilizzo batteria</string>
+     <string name="battery_detail_since_full_charge">"Calo dall'ultima ricarica"</string>
+     <string name="battery_details_title">Utilizzo batteria</string>
+     <string name="battery_footer_summary">"Il tempo di durata rimanente è approssimativo e può cambiare in base all'utilizzo"</string>
      <string name="battery_history_days">%1$d g %2$d o %3$d m %4$d s</string>
      <string name="battery_history_days_no_seconds">%1$d g %2$d o %3$d m</string>
      <string name="battery_history_hours">%1$d o %2$d m %3$d s</string>
@@ -548,7 +548,7 @@ Last ran on %2$s"</string>
      <string name="battery_info_screen_on">Tempo accensione schermo:</string>
      <string name="battery_info_status_charging">In carica</string>
      <string name="battery_info_status_charging_ac">(CA)</string>
-     <string name="battery_info_status_charging_lower">charging</string>
+     <string name="battery_info_status_charging_lower">in carica</string>
      <string name="battery_info_status_charging_usb">(USB)</string>
      <string name="battery_info_status_charging_wireless">(wireless)</string>
      <string name="battery_info_status_discharging">Non in carica</string>
@@ -562,16 +562,16 @@ Last ran on %2$s"</string>
      <string name="battery_info_uptime">"Tempo dall'avvio:"</string>
      <string name="battery_info_voltage_label">Voltaggio batteria:</string>
      <string name="battery_info_voltage_units">mV</string>
-     <string name="battery_last_full_charge">Last full charge</string>
+     <string name="battery_last_full_charge">Ultima carica completa</string>
      <string name="battery_level_title">Livello batteria</string>
      <string name="battery_light_summary">Illumina il LED di notifica quando il dispositivo è in carica</string>
      <string name="battery_light_title">LED durante la ricarica</string>
      <string name="battery_meter_very_low_overlay_symbol">!</string>
      <string name="battery_msg_unaccounted">"Il consumo della batteria è una stima del consumo energetico e non include tutte le fonti che influiscono sul suo consumo. Indica la differenza tra la stima del consumo energetico e il consumo reale della batteria."</string>
-     <string name="battery_overall_usage">%1$s of overall battery</string>
-     <string name="battery_percentage">Battery percentage</string>
-     <string name="battery_percentage_description">Show battery percentage in status bar</string>
-     <string name="battery_power_management">Power management</string>
+     <string name="battery_overall_usage">%1$s del totale della batteria</string>
+     <string name="battery_percentage">Percentuale batteria</string>
+     <string name="battery_percentage_description">Mostra la percentuale della batteria nella barra di stato</string>
+     <string name="battery_power_management">Gestione batteria</string>
      <string name="battery_saver">Risparmio batteria</string>
      <string name="battery_saver_desc_turn_on_auto_never">Non attivare mai automaticamente</string>
      <string name="battery_saver_desc_turn_on_auto_pct">Attiva automaticamente al %1$s di batteria</string>
@@ -580,7 +580,7 @@ Last ran on %2$s"</string>
      <string name="battery_saver_turn_on_automatically_never">Mai</string>
      <string name="battery_saver_turn_on_automatically_pct">al %1$s di batteria</string>
      <string name="battery_saver_turn_on_automatically_title">Attiva automaticamente</string>
-     <string name="battery_screen_usage">Screen usage ^1</string>
+     <string name="battery_screen_usage">Utilizzo schermo ^1</string>
      <string name="battery_settings">Batteria</string>
      <string name="battery_settings_title">Batteria</string>
      <string name="battery_since_reset">Utilizzo batteria dal ripristino</string>
@@ -606,7 +606,7 @@ Last ran on %2$s"</string>
      <string name="battery_sugg_wifi">Disattiva Wi-Fi quando non è in uso o non è disponibile</string>
      <string name="battery_summary">"%1$s utilizzo dall'ultima ricarica completa"</string>
      <string name="battery_used_by">%1$s used by %2$s</string>
-     <string name="battery_used_for">Used for ^1</string>
+     <string name="battery_used_for">Usato per ^1</string>
      <string name="bearer">Portatore</string>
      <string name="billing_cycle">Ciclo addebito</string>
      <string name="billing_cycle_fragment_summary">Avvio mensile %1$s</string>
@@ -5700,7 +5700,7 @@ Tocca "<b>Indietro</b>" per connetterti a un'altra rete Wi-Fi."</string>
      <string name="zen_mode_screen_on_visual_interruptions">Quando lo schermo è attivo</string>
      <string name="zen_mode_selected_callers">Seleziona chiamanti</string>
      <string name="zen_mode_selected_messages">Messaggi selezionati</string>
-     <string name="zen_mode_settings_summary_off">No automatic rules turned on</string>
+     <string name="zen_mode_settings_summary_off">Nessuna regola automatica attivata</string>
      <string name="zen_mode_settings_title">Non disturbare</string>
      <string name="zen_mode_start_time">Inizio</string>
      <string name="zen_mode_summary_alarms_only_by_time">Modifica sveglie solo fino a %1$s</string>

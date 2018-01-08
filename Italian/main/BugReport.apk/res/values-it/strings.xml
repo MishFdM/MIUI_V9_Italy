@@ -78,7 +78,7 @@
      <string name="feedback_phone_model_label">Modello di telefono</string>
      <string name="feedback_probability_label">Probabilità</string>
      <string name="feedback_remind_login_btn">Accedi</string>
-     <string name="feedback_report_remind_login_desc">Sign in with your Mi Account so that our engineers could contact you.</string>
+     <string name="feedback_report_remind_login_desc">Accedi al tuo Mi Account in modo che i nostri sviluppatori possano contattarti.</string>
      <string name="feedback_report_remind_login_desc2">"Puoi vedere il progresso della tua segnalazione su \"Le mie segnalazioni\"."</string>
      <string name="feedback_retest_label">Passi da riprodurre</string>
      <string name="feedback_select_images">Aggiungi immagini</string>
