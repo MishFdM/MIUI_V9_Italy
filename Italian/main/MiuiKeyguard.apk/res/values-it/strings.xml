@@ -47,7 +47,7 @@
      <string name="face_unlock_offset_bottom">"Abbassa un po' il dispositivo"</string>
      <string name="face_unlock_offset_left">Spostati a destra</string>
      <string name="face_unlock_offset_right">Spostati a sinistra</string>
-     <string name="face_unlock_offset_top">Alza un  po' il dispositivo</string>
+     <string name="face_unlock_offset_top">"Alza un  po' il dispositivo"</string>
      <string name="face_unlock_open_eye">"Apri un po' di più gli occhi"</string>
      <string name="face_unlock_passwork">Usa la password</string>
      <string name="face_unlock_passwork_and_fingerprint">Usa la password o i dati facciali</string>
