@@ -51,7 +51,7 @@
      <string name="app_process_limit_title">Limite processi background</string>
      <string name="available_via_passpoint">Disponibile tramite %1$s</string>
      <string name="battery_info_status_charging">In carica</string>
-     <string name="battery_info_status_charging_lower">charging</string>
+     <string name="battery_info_status_charging_lower">in carica</string>
      <string name="battery_info_status_discharging">Non in carica</string>
      <string name="battery_info_status_full">Carica</string>
      <string name="battery_info_status_not_charging">Non in carica</string>
@@ -69,8 +69,8 @@
      <string name="bluetooth_disable_absolute_volume_summary">Consente di disattivare la funzione del volume assoluto Bluetooth in caso di problemi con il volume dei dispositivi remoti, ad esempio un volume troppo alto o la mancanza di controllo.</string>
      <string name="bluetooth_disconnected">Disconnesso</string>
      <string name="bluetooth_disconnecting">Disconnessione in corso...</string>
-     <string name="bluetooth_enable_inband_ringing">Enable in-band ringing</string>
-     <string name="bluetooth_enable_inband_ringing_summary">Allow ringtones on the phone to be played on Bluetooth headsets</string>
+     <string name="bluetooth_enable_inband_ringing">Attiva suoneria in cuffia</string>
+     <string name="bluetooth_enable_inband_ringing_summary">Consenti alle suonerie del telefono di essere riprodotte nelle cuffie Bluetooth</string>
      <string name="bluetooth_headset_profile_summary_connected">"Collegato all'audio telefono"</string>
      <string name="bluetooth_headset_profile_summary_use_for">Usa per audio telefono</string>
      <string name="bluetooth_hid_profile_summary_connected">Collegato al dispositivo di input</string>
@@ -93,10 +93,10 @@
      <string name="bluetooth_pan_profile_summary_use_for">Usa per accesso internet</string>
      <string name="bluetooth_pan_user_profile_summary_connected">Collegato al dispositivo per accesso internet</string>
      <string name="bluetooth_profile_a2dp">Media audio</string>
-     <string name="bluetooth_profile_a2dp_high_quality">Use high quality audio: %1$s</string>
-     <string name="bluetooth_profile_a2dp_high_quality_unknown_codec">Use high quality audio</string>
+     <string name="bluetooth_profile_a2dp_high_quality">Usa audio di alta qualità: %1$s</string>
+     <string name="bluetooth_profile_a2dp_high_quality_unknown_codec">Usa audio di alta qualità</string>
      <string name="bluetooth_profile_headset">Audio telefono</string>
-     <string name="bluetooth_profile_hid">Input device</string>
+     <string name="bluetooth_profile_hid">Tastiera</string>
      <string name="bluetooth_profile_map">Accesso messaggi</string>
      <string name="bluetooth_profile_opp">Trasferimento file</string>
      <string name="bluetooth_profile_pan">Accesso internet</string>
@@ -106,9 +106,9 @@
      <string name="bluetooth_profile_sap">Accesso SIM</string>
      <string name="bluetooth_sap_profile_summary_connected">Collegato a SAP</string>
      <string name="bluetooth_sap_profile_summary_use_for">Usa per accesso SIM</string>
-     <string name="bluetooth_select_a2dp_codec_bits_per_sample">Bluetooth Audio Bits Per Sample</string>
-     <string name="bluetooth_select_a2dp_codec_bits_per_sample_dialog_title">"Select Bluetooth Audio Codec:
-Bits Per Sample"</string>
+     <string name="bluetooth_select_a2dp_codec_bits_per_sample">Bit per Campione Audio Bluetooth</string>
+     <string name="bluetooth_select_a2dp_codec_bits_per_sample_dialog_title">"Seleziona Codec audio Bluetooth:
+Bit per Campione"</string>
      <string name="bluetooth_select_a2dp_codec_channel_mode">Bluetooth Audio Channel Mode</string>
      <string name="bluetooth_select_a2dp_codec_channel_mode_dialog_title">"Select Bluetooth Audio Codec:
 Channel Mode"</string>
@@ -137,8 +137,8 @@ Sample Rate"</string>
      <string name="clear_adb_keys">Revoca autorizzazioni debug USB</string>
      <string name="confirm_enable_oem_unlock_text">AVVISO. Le funzioni di protezione del dispositivo non funzionano su questo dispositivo se questa impostazione è attiva.</string>
      <string name="confirm_enable_oem_unlock_title">Consentire lo sblocco OEM?</string>
-     <string name="connected_via_network_scorer">Automatically connected via %1$s</string>
-     <string name="connected_via_network_scorer_default">Automatically connected via network rating provider</string>
+     <string name="connected_via_network_scorer">Connesso automaticamente tramite %1$s</string>
+     <string name="connected_via_network_scorer_default">Connesso automaticamente tramite provider rating di rete</string>
      <string name="connected_via_passpoint">Connesso tramite %1$s</string>
      <string name="content_description_menu_button">Menu</string>
      <string name="convert_to_fbe_warning">"Converti la partizione di dati in crittografia basata su file.
@@ -413,7 +413,7 @@ Tutti i dati utente precedenti verranno salvati."</string>
      <string name="strict_mode_summary">Flash dello schermo in caso di lunghe operazioni sul thread principale</string>
      <string name="system_warning">Se neghi questa autorizzazione, le funzionalità di base del dispositivo potrebbero non funzionare più come previsto.</string>
      <string name="telephony_monitor_switch">Telephony Monitor</string>
-     <string name="telephony_monitor_switch_summary">TelephonyMonitor will collect logs when it detects a problem with telephony/modem functionality and prompt notification to user to file a bug</string>
+     <string name="telephony_monitor_switch_summary">"Telephony Monitor raccoglierà log quando incontrerà un problema con funzioni telefono/modem e richiederà all'utente di segnalare il bug"</string>
      <string name="tether_settings_title_all">Tethering e hotspot</string>
      <string name="tether_settings_title_bluetooth">Tethering Bluetooth</string>
      <string name="tether_settings_title_usb">Tethering USB</string>

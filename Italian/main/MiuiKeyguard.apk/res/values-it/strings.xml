@@ -82,10 +82,10 @@
      <string name="input_pin_code">Inserisci PIN</string>
      <string name="input_puk_code">Inserisci PUK</string>
      <string name="invalid_confirm_pin_hint">I PIN non corrispondono</string>
-     <string name="invalid_sim_pin_hint">Il PIN dovrebbe essere composto dai 4 e gli 8 numeri</string>
+     <string name="invalid_sim_pin_hint">Il PIN dovrebbe essere composto dai 4 agli 8 numeri</string>
      <string name="invalid_sim_puk_hint">Il PUK dovrebbe essere composto da almeno 8 numeri</string>
      <string name="keyguard_charging_info_battery_used_time_text">Su batteria</string>
-     <string name="keyguard_charging_info_charging_text">Un carica</string>
+     <string name="keyguard_charging_info_charging_text">In carica</string>
      <string name="keyguard_charging_info_click_to_detail">Mostra dettagli</string>
      <string name="keyguard_charging_info_drained_power_percent_text">Esaurita</string>
      <string name="keyguard_charging_info_finished_charging_text">Carica completata</string>

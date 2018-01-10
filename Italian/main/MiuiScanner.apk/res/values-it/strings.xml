@@ -12,7 +12,7 @@
      <string name="app_name">Scanner</string>
      <string name="back">Indietro</string>
      <string name="barcode_into_rectangle">"Piazza il codice all'interno della cornice"</string>
-     <string name="birthday">Compleanno::</string>
+     <string name="birthday">Compleanno:</string>
      <string name="camera_error_title">Errore camera</string>
      <string name="cancel">Annulla</string>
      <string name="choose_picture">Seleziona immagine codice QR</string>
