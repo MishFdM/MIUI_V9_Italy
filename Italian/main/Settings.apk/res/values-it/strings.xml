@@ -2945,8 +2945,8 @@ ed esegui il software."</string>
      <string name="open_miui_optimization_title">Attiva ottimizzazione MIUI</string>
      <string name="open_miui_optimization_warning_message">Il dispositivo verrà riavviato per applicare questa modifica.</string>
      <string name="open_personal_assistant_dialog_btn_cancel">Annulla</string>
-     <string name="open_personal_assistant_dialog_btn_confirm">Chiudi</string>
-     <string name="open_personal_assistant_dialog_desc">Non potrai utilizzare Assistente Smart e ricevere i suoi aggiornamenti. Disattivare adesso?. Turn off now?"</string>
+     <string name="open_personal_assistant_dialog_btn_confirm">OK</string>
+     <string name="open_personal_assistant_dialog_desc">Non potrai utilizzare Assistente Smart e ricevere i suoi aggiornamenti. Disattivare adesso?.</string>
      <string name="open_personal_assistant_dialog_title">Disattiva Assistente Smart</string>
      <string name="open_personal_assistant_title">Attiva Assistente Smart</string>
      <string name="open_sdcard_optimization_title">Apri ottimizzazione sdcard emulata</string>
