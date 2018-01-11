@@ -10,13 +10,13 @@
      <string name="add_to_album_bulk_result">%d fallito</string>
      <string name="add_to_album_exist">"Foto già esistente nell'album di destinazione"</string>
      <string name="add_to_album_failed">"Impossibile aggiungere all'album"</string>
+     <string name="add_to_album_failed_with_reason">"Can't add to album. %1$s."</string>
      <string name="add_to_album_success">"Aggiunto all'album"</string>
      <string name="add_to_album_tip">Foto Cloud</string>
      <string name="add_to_favorites_failed">"Couldn't add to favorites"</string>
      <string name="add_to_secret_exist">"Foto già esistente nell'album nascosto"</string>
      <string name="add_to_secret_fail">"Inserimento nell'album nascosto fallito"</string>
      <string name="add_to_secret_failed_with_reason">"Impossibile aggiungere all'album nascosto. %1$s."</string>
-     <string name="add_to_secret_failed_with_reason_and_count">"%2$s elementi non possono essere aggiunti all'album nascosto. %1$s."</string>
      <string name="add_to_secret_successful">"Aggiunto all'album nascosto"</string>
      <string name="add_to_share_album_not_delete">"Impossibile eliminare foto dall'album condiviso"</string>
      <string name="added_to_favorites_tip">Added to \"Favorites\" album</string>
@@ -931,6 +931,7 @@ Scatta più foto ai tuoi amici!"</string>
      <string name="loading_image">Scarica immagine…</string>
      <string name="loading_image_thumbnail">Download anteprima…</string>
      <string name="loading_members">Caricamento iscritti…</string>
+     <string name="loading_processing_tip">Processing photo…</string>
      <string name="loading_suspend">Download in pausa: riprenderà quando sarà disponibile una connessione Wi-Fi</string>
      <string name="loading_video">Scarica video…</string>
      <string name="loading_video_fail_sync_without_network">Collegati alla rete per scaricare i metadata</string>
@@ -987,6 +988,7 @@ Scatta più foto ai tuoi amici!"</string>
      <string name="open">Apri sincronizzazione</string>
      <string name="open_public_message">Genera un link ed invialo agli amici</string>
      <string name="open_public_title">Condividi pubblicamente</string>
+     <string name="operate_processing_file_error">Wait until all photos are processed.</string>
      <string name="operation_add_album">"Aggiungi all'album"</string>
      <string name="operation_add_picture">Aggiungi immagini</string>
      <string name="operation_add_secret">Aggiungi Album privato</string>
@@ -1168,7 +1170,6 @@ Scatta più foto ai tuoi amici!"</string>
      <string name="remove_from_other_albums_tip">"L'album dovrebbe essere attivato con la sincronizzazione Mi Cloud quando rimosso dalla lista degli Altri album. Rimuovere l'album?"</string>
      <string name="remove_from_secret_fail">"Rimozione dall'album nascosto fallita"</string>
      <string name="remove_from_secret_failed_with_reason">"Impossibile rimuovere dall'album nascosto. %1$s."</string>
-     <string name="remove_from_secret_failed_with_reason_and_count">"%2$s elementi non possono essere rimossi dall'album nascosto. %1$s."</string>
      <string name="remove_from_secret_successful">"Rimosso dall'album nascosto"</string>
      <string name="remove_to_album_title">Unisci con</string>
      <string name="remove_to_other_album">Unisci con una persona diversa</string>

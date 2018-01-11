@@ -24,6 +24,7 @@
      <string name="audio_focus_exit_button_text">Disattiva Audio Focus</string>
      <string name="beauty_fragment_tab_name_beauty">Bellezza</string>
      <string name="beauty_fragment_tab_name_makeup">Avanzate</string>
+     <string name="bokeh_use_hint">Depth effect</string>
      <string name="burst_shoot_exit_button_text">Chiudi Scatto continuo</string>
      <string name="button_fisheye_camera_title">Fish-eye</string>
      <string name="button_front_camera_title">Selfie</string>
@@ -116,6 +117,7 @@ per la costruzione di uno scatto con il minimo rumore."</string>
      <string name="hint_fast_motion">Il video che registri verrà riprodotto più velocemente.</string>
      <string name="hint_groupshot">"La fotocamera scatterà foto multiple
 e creerà una foto in cui tutti appariranno ancora più belli."</string>
+     <string name="hint_groupshot_beauty">Group selfie can not use beauty</string>
      <string name="hint_slow_motion">Il video che registri verrà riprodotto più lentamente.</string>
      <string name="hunt_dual_water_mark">Il logo dual camera verrà aggiunto automaticamente.</string>
      <string name="install_confirmed">Installa</string>
@@ -179,6 +181,7 @@ per rendere il tuo corpo ancor più chiaro e meraviglioso"</string>
      <string name="pref_camera_beautify_entry_high">Alto</string>
      <string name="pref_camera_beautify_entry_low">Basso</string>
      <string name="pref_camera_beautify_entry_normal">Medio</string>
+     <string name="pref_camera_beauty_deep">beauty deep</string>
      <string name="pref_camera_bokeh_title">Portrait</string>
      <string name="pref_camera_coloreffect_entry_aqua" />
      <string name="pref_camera_coloreffect_entry_big_face">Diffuso</string>

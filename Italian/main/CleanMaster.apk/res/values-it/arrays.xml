@@ -6,12 +6,6 @@
         <item>500 MB</item>
         <item>1 GB</item>
      </string-array>
-     <string-array name="auto_clean_time">
-        <item>Tutti i giorni</item>
-        <item>Ogni 3 giorni</item>
-        <item>Ogni 7 giorni</item>
-		<item>Ogni 15 giorni</item>
-     </string-array>
      <string-array name="auto_process_mode">
         <item>Mostra</item>
         <item>Non mostrare</item>

@@ -334,7 +334,7 @@ Sample Rate"</string>
      <string name="strict_mode_summary">Flash screen when apps do long operations on main thread</string>
      <string name="telecommAppLabel">Telefono</string>
      <string name="telephony_monitor_switch">Telephony Monitor</string>
-     <string name="telephony_monitor_switch_summary">TelephonyMonitor will collect logs when it detects a problem with telephony/modem functionality and prompt notification to user to file a bug</string>
+     <string name="telephony_monitor_switch_summary">"Telephony Monitor raccoglierà log quando incontrerà un problema con funzioni telefono/modem e richiederà all'utente di segnalare il bug"</string>
      <string name="test_account_0_label">Q Mobile</string>
      <string name="test_account_0_short_description">Account con Q Mobile</string>
      <string name="test_account_1_label">Market Wireless</string>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-     <string name="app_info">Registra, tocca per fermare</string>
      <string name="app_name">Registrazione schermo</string>
+     <string name="app_notification_info">Screen Recorder is working in the background</string>
      <string name="app_notification_title">Registrazione schermo</string>
      <string name="auto_stop_title">Video salvato con successo!</string>
      <string name="battery_not_allowed">Non puoi registrare quando la batteria è al di sotto del 3%%. Assicurati di avere la batteria almeno al 20%% di carica.</string>
@@ -38,7 +38,6 @@
      <string name="low_battery_title">Batteria quasi scarica</string>
      <string name="low_battery_warning">La batteria è quasi scarica. La registrazione video è stata fermata e salvata.</string>
      <string name="low_memory">Hai meno di 200MB di spazio disponibile. Puoi registrare fino a 5 minuti.</string>
-     <string name="low_memory_dior">Hai meno di 500MB di memoria disponibile. Adesso puoi registrare fino a 12 minuti.</string>
      <string name="low_memory_title">Non hai abbastanza spazio</string>
      <string name="low_momery_warning">Non hai spazio di archiviazione sufficiente. La registrazione video è stata fermata e salvata.</string>
      <string name="memory_not_allowed">Spazio non disponibile. Libera lo spazio prima di registrare.</string>
@@ -51,6 +50,7 @@
      <string name="quit_recording">Uscito da Registrazione schermo</string>
      <string name="recording_failure">Ultima registrazione fallita, avvia di nuovo una registrazione dello schermo</string>
      <string name="recording_max_size">La registrazione è stata interrotta e salvata automaticamente a causa delle dimensioni massime raggiunte. Puoi avviare una nuova registrazione per continuare.</string>
+     <string name="recording_without_mic">Microphone is occupied and microphone sound cannot be recorded</string>
      <string name="resolution">Risoluzione</string>
      <string name="resolution_summary">Più alta la risoluzione migliori saranno le immagini</string>
      <string name="screen_orientation">Orientamento</string>

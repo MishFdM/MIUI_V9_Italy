@@ -2945,8 +2945,8 @@ ed esegui il software."</string>
      <string name="open_miui_optimization_title">Attiva ottimizzazione MIUI</string>
      <string name="open_miui_optimization_warning_message">Il dispositivo verrà riavviato per applicare questa modifica.</string>
      <string name="open_personal_assistant_dialog_btn_cancel">Annulla</string>
-     <string name="open_personal_assistant_dialog_btn_confirm">Chiudi</string>
-     <string name="open_personal_assistant_dialog_desc">Non potrai utilizzare Assistente Smart e ricevere i suoi aggiornamenti. Disattivare adesso?. Turn off now?"</string>
+     <string name="open_personal_assistant_dialog_btn_confirm">OK</string>
+     <string name="open_personal_assistant_dialog_desc">Non potrai utilizzare Assistente Smart e ricevere i suoi aggiornamenti. Disattivare adesso?.</string>
      <string name="open_personal_assistant_dialog_title">Disattiva Assistente Smart</string>
      <string name="open_personal_assistant_title">Attiva Assistente Smart</string>
      <string name="open_sdcard_optimization_title">Apri ottimizzazione sdcard emulata</string>
@@ -4527,7 +4527,7 @@ L'approccio di Google alla sincronizzazione di dati per consentirti l'accesso ai
      <string name="tap_to_wake">Tocca per riattivare</string>
      <string name="tap_to_wake_summary">Tocca due volte un punto qualsiasi dello schermo per riattivare il dispositivo</string>
      <string name="telephony_monitor_switch">Telephony Monitor</string>
-     <string name="telephony_monitor_switch_summary">TelephonyMonitor will collect logs when it detects a problem with telephony/modem functionality and prompt notification to user to file a bug</string>
+     <string name="telephony_monitor_switch_summary">"Telephony Monitor raccoglierà log quando incontrerà un problema con funzioni telefono/modem e richiederà all'utente di segnalare il bug"</string>
      <string name="telephony_monitor_toast">To apply telephony monitor change, reboot device</string>
      <string name="terms_title">Termini e condizioni</string>
      <string name="testing">Verifica…</string>

@@ -18,72 +18,72 @@
         <item>Massimo 4 processi</item>
      </string-array>
      <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
-        <item>Use System Selection (Default)</item>
-        <item>16 bits/sample</item>
-        <item>24 bits/sample</item>
-        <item>32 bits/sample</item>
+        <item>Usa selezione di sistema (Predefinito)</item>
+        <item>16 bit/campione</item>
+        <item>24 bit/campione</item>
+        <item>32 bit/campione</item>
      </string-array>
      <string-array name="bluetooth_a2dp_codec_bits_per_sample_titles">
-        <item>Use System Selection (Default)</item>
-        <item>16 bits/sample</item>
-        <item>24 bits/sample</item>
-        <item>32 bits/sample</item>
+        <item>Usa selezione di sistema (Predefinito)</item>
+        <item>16 bit/campione</item>
+        <item>24 bit/campione</item>
+        <item>32 bit/campione</item>
      </string-array>
      <string-array name="bluetooth_a2dp_codec_channel_mode_summaries">
-        <item>Use System Selection (Default)</item>
+        <item>Usa selezione di sistema (Predefinito)</item>
         <item>Mono</item>
         <item>Stereo</item>
      </string-array>
      <string-array name="bluetooth_a2dp_codec_channel_mode_titles">
-        <item>Use System Selection (Default)</item>
+        <item>Usa selezione di sistema (Predefinito)</item>
         <item>Mono</item>
         <item>Stereo</item>
      </string-array>
      <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_summaries">
-        <item>Optimized for Audio Quality</item>
-        <item>Balanced Audio And Connection Quality</item>
-        <item>Optimized for Connection Quality</item>
-        <item>Best Effort (Adaptive Bit Rate)</item>
+        <item>Ottimizzato per Qualità Audio</item>
+        <item>Bilanciato Audio e Qualità di Connessione</item>
+        <item>Ottimizzato per Qualità di Connessione</item>
+        <item>Migliore possibile (Bit Rate Adattivo)</item>
      </string-array>
      <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_titles">
-        <item>Optimized for Audio Quality (990kbps/909kbps)</item>
-        <item>Balanced Audio And Connection Quality (660kbps/606kbps)</item>
-        <item>Optimized for Connection Quality (330kbps/303kbps)</item>
-        <item>Best Effort (Adaptive Bit Rate)</item>
+        <item>Ottimizzato per Qualità Audio (990kbps/909kbps)</item>
+        <item>Bilanciato Audio e Qualità di Connessione (660kbps/606kbps)</item>
+        <item>Ottimizzato per Qualità di Connessione (330kbps/303kbps)</item>
+        <item>Migliore possibile (Adaptive Bit Rate)</item>
      </string-array>
      <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
-        <item>Use System Selection (Default)</item>
+        <item>Usa selezione di sistema (Predefinito)</item>
         <item>44.1 kHz</item>
         <item>48.0 kHz</item>
         <item>88.2 kHz</item>
         <item>96.0 kHz</item>
      </string-array>
      <string-array name="bluetooth_a2dp_codec_sample_rate_titles">
-        <item>Use System Selection (Default)</item>
+        <item>Usa selezione di sistema (Predefinito)</item>
         <item>44.1 kHz</item>
         <item>48.0 kHz</item>
         <item>88.2 kHz</item>
         <item>96.0 kHz</item>
      </string-array>
      <string-array name="bluetooth_a2dp_codec_summaries">
-        <item>Use System Selection (Default)</item>
+        <item>Usa selezione di sistema (Predefinito)</item>
         <item>SBC</item>
         <item>AAC</item>
         <item>aptX</item>
         <item>aptX HD</item>
         <item>LDAC</item>
-        <item>Enable Optional Codecs</item>
-        <item>Disable Optional Codecs</item>
+        <item>Abilita Codec Opzionali</item>
+        <item>Disabilita Codec Opzionali</item>
      </string-array>
      <string-array name="bluetooth_a2dp_codec_titles">
-        <item>Use System Selection (Default)</item>
+        <item>Usa selezione di sistema (Predefinito)</item>
         <item>SBC</item>
         <item>AAC</item>
         <item>aptX</item>
         <item>aptX HD</item>
         <item>LDAC</item>
-        <item>Enable Optional Codecs</item>
-        <item>Disable Optional Codecs</item>
+        <item>Abilita Codec Opzionali</item>
+        <item>Disabilita Codec Opzionali</item>
      </string-array>
      <string-array name="bluetooth_avrcp_versions">
         <item>AVRCP 1.4 (Default)</item>
@@ -121,7 +121,7 @@
      <string-array name="enable_opengl_traces_entries">
         <item>Nessuno</item>
         <item>Logcat</item>
-        <item>Systrace (Graphics)</item>
+        <item>Systrace (Grafici)</item>
         <item>Call stack su glGetError</item>
      </string-array>
      <string-array name="hdcp_checking_summaries">
