@@ -1279,6 +1279,7 @@ Le funzionalità relative al PIN2 saranno bloccate se si fallisce un altro tenta
      <string name="puk_lock_warning">La tua SIM verrà disabilitata se fallisci un altro tentativo.</string>
      <string name="puk_requested">Password non corretta, PIN bloccato. Ora è richiesto il PUK.</string>
      <string name="puk_unlocked">La tua SIM è stata sbloccata. Il dispositivo verrà sbloccato…</string>
+     <string name="quick_dial_setting_title">Quick dial</string>
      <string name="radio_off_during_emergency_call">Impossibile attivare la modalità aereo durante una chiamata di emergenza.</string>
      <string name="radio_off_error">Attiva la radio prima di visualizzare queste impostazioni.</string>
      <string name="reading_settings">Lettura impostazioni…</string>

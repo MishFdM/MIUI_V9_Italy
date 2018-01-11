@@ -338,6 +338,7 @@ Le schede contatti sono disattivate"</string>
      <string name="description_minus_button">elimina</string>
      <string name="description_plus_button">più</string>
      <string name="description_quick_contact_for">Accesso rapido ai contatti per %1$s</string>
+     <string name="description_quick_dial_button">Quick dial</string>
      <string name="description_search_button">cerca</string>
      <string name="description_send_message">Invia messaggio a %1$s</string>
      <string name="description_send_text_message">Invia messaggio di testo a %1$s</string>
@@ -394,6 +395,7 @@ Le schede contatti sono disattivate"</string>
      <string name="dialer_empty_text_loading">Caricamento…</string>
      <string name="dialer_empty_text_no_call_log">Nessun contatto recente</string>
      <string name="dialer_empty_text_no_search_result">Nessun contatto trovato</string>
+     <string name="dialer_firewall_entry_name">Blocked call logs</string>
      <string name="dialer_menu_description">Tocca per mostrare il tastierino</string>
      <string name="dialer_menu_title">Opzioni menu</string>
      <string name="dialer_returnToInCallScreen">Ritorna alla chiamata in corso</string>
@@ -818,6 +820,7 @@ Per aggiungere un contatto alla lista dei Preferiti:
      <string name="path_key_rebuild_t9_index_title">Applicazioni di sistema/Contatti/Organizza Contatti/Ricostruzione indice dati</string>
      <string name="path_key_sim_manage">Applicazioni di sistema/Contatti/Organizza Contatti/SIM</string>
      <string name="path_preference_contacts_filter">Applicazioni di sistema/Contatti/Preferenze schermo/Configura lista contatti</string>
+     <string name="path_quick_dial_setting">System apps/Contacts/Quick dial</string>
      <string name="path_remove_duplicate">Applicazioni di sistema/Contatti/Organizza Contatti/Unisci contatti doppi</string>
      <string name="path_share_visible_contacts">Applicazioni di sistema/Contatti/Importa/Esporta Contatti/Condividi Contatti</string>
      <string name="path_sim_capacity">Applicazioni di sistema/Contatti/Archivio SIM</string>
@@ -926,6 +929,12 @@ Per aggiungere un contatto alla lista dei Preferiti:
      <string name="pull_to_refresh_release_label">Rilascia per aggiornare</string>
      <string name="qr_card_card">Il mio QR Code</string>
      <string name="qrcode_card_title">Codice QR del profilo</string>
+     <string name="quick_dial_setting_delete_dialog_message">Delete assigned quick dial number?</string>
+     <string name="quick_dial_setting_delete_dialog_option_delete">Delete</string>
+     <string name="quick_dial_setting_hint">Tap a button to assign or remove a quick dial number. Press and hold the button with an assigned number to dial.</string>
+     <string name="quick_dial_setting_set_dialog_message">Assign a quick dial number to this button?</string>
+     <string name="quick_dial_setting_set_dialog_option_set">Yes</string>
+     <string name="quick_dial_setting_title">Quick dial</string>
      <string name="quickcontact_missing_app">Nessuna applicazione trovata per gestire questa azione.</string>
      <string name="quit_dialog_confirm_message">Non hai unito nessun contatto</string>
      <string name="quit_dialog_confirm_title">Nessun contatto unito</string>
@@ -994,6 +1003,7 @@ Tocca l'icona Unisci in basso per iniziare."</string>
      <string name="search_key_rebuild_t9_index_title">Organizza;Contatti;t9</string>
      <string name="search_key_sim_manage">Organizza;Contatti</string>
      <string name="search_preference_contacts_filter">Contatti;Display</string>
+     <string name="search_quick_dial_setting">Contacts</string>
      <string name="search_remove_duplicate">Organizza;Contatti</string>
      <string name="search_results_searching">Ricerca…</string>
      <string name="search_settings_description">I nomi dei tuoi contatti</string>

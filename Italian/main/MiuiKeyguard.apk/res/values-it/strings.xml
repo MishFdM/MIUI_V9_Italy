@@ -60,13 +60,14 @@
      <string name="face_unlock_rotated_left">Sposta la testa a destra</string>
      <string name="face_unlock_rotated_right">Sposta la testa a sinistra</string>
      <string name="face_unlock_stay_away_screen">Rimani distante dalle schermo tra i 25 ai 40cm</string>
-     <string name="fingerprint_add_text">"L'interfaccia per le impronte digitali è stato aggiornata. Aggiungi di nuovo la tua impronta".</string>
+     <string name="fingerprint_add_text">""L'interfaccia per le impronte digitali è stato aggiornata. Aggiungi di nuovo la tua impronta"."</string>
      <string name="fingerprint_add_title">Aggiungi impronta</string>
      <string name="fingerprint_again_identified_msg">La tua impronta adesso è attiva. Usala per sbloccare il dispositivo o inserisci la password.</string>
      <string name="fingerprint_enter_second_psw_msg">Inserisci la password per lo spazio Secondario dopo il riavvio per poter utilizzare il riconoscimento delle impronte</string>
      <string name="fingerprint_enter_second_psw_msg_oldman">"Impossibile aggiungere lo spazio Secondario finché in modalità Lite"</string>
      <string name="fingerprint_enter_second_psw_title">Inserisci la password dello spazio Secondario</string>
      <string name="fingerprint_not_identified_msg">"Troppi tentativi falliti. Inserisci adesso la password o prova ad utilizzare l'impronta in pochi secondi."</string>
+     <string name="fingerprint_not_identified_msg_lock">Too many unsuccessful attempts. Enter password now.</string>
      <string name="fingerprint_not_identified_title">Inserisci password</string>
      <string name="fingerprint_try_again_msg">"Impossibile verificare l'impronta, prova di nuovo."</string>
      <string name="fingerprint_try_again_text">Prova di nuovo</string>
