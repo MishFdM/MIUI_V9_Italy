@@ -14,7 +14,6 @@
      <string name="backup_finished_notification_content">Backup eseguito per app schermate Home, impostazione di sistema, etc.</string>
      <string name="backup_now">Esegui backup adesso</string>
      <string name="backup_size">Dimensione: %s</string>
-     <string name="backup_size_summary">Dimensione: %1$s</string>
      <string name="backup_success">Backup app Home completato</string>
      <string name="backup_successfully">Backup eseguito con successo</string>
      <string name="backup_to_cloud">Backup applicazioni</string>
@@ -53,8 +52,6 @@ Nota: i dati delle applicazioni installate non verranno salvati su Mi Cloud."</s
      <string name="cloud_back_up_frequence_choice_title">Programmazione backup</string>
      <string name="cloud_back_up_frequence_long">Ogni 7 giorni</string>
      <string name="cloud_back_up_frequence_short">Ogni giorno</string>
-     <string name="cloud_back_up_interval_long">7 giorni</string>
-     <string name="cloud_back_up_interval_short">giorno</string>
      <string name="cloud_back_up_no_network_warn">Impossibile collegarsi alla rete</string>
      <string name="cloud_back_up_ok_btn">OK</string>
      <string name="cloud_back_up_opening">Solo un secondo…</string>
@@ -63,10 +60,9 @@ Nota: i dati delle applicazioni installate non verranno salvati su Mi Cloud."</s
      <string name="cloud_back_up_share_activity_title">Aggiorna Mi Account</string>
      <string name="cloud_back_up_task">Backup</string>
      <string name="cloud_backup">Backup Mi Cloud</string>
+     <string name="cloud_backup_derail_size_summary">Size: %s</string>
      <string name="cloud_backup_detail_frequence">Programma Backup</string>
-     <string name="cloud_backup_detail_frequence_day">Esegui il backup ogni %1$s</string>
      <string name="cloud_backup_detail_manage">Gestisci backup</string>
-     <string name="cloud_backup_detail_manage_summary">%1$s backup, dimensione: %2$s</string>
      <string name="cloud_backup_detail_state">Backup Mi Cloud</string>
      <string name="cloud_backup_detail_state_summary">App, schermata Home e impostazioni di sistema</string>
      <string name="cloud_backup_detail_time">Ultimo backup: %1$s</string>

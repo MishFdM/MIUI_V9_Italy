@@ -157,7 +157,6 @@
      <string name="account_sync_settings_settings">"Sincronizza i contatti dell'account e i calendari"</string>
      <string name="account_sync_settingstip_description">Impostazioni di sincronizzazione</string>
      <string name="account_waiting_for_folders_msg">Caricamento elenco cartelle…</string>
-     <string name="actionbar_large_unread_count">%1$d+ non letto</string>
      <string name="activity_folder_selection">Seleziona una cartella</string>
      <string name="activity_mailbox_selection">Seleziona un account</string>
      <string name="ad_merge">Raggruppa notizie e pubblicità</string>
@@ -212,10 +211,12 @@
      <string name="auto_advance_help_title">"Dopo un'eliminazione, mostra…"</string>
      <string name="auto_advance_label">Avanzamento automatico</string>
      <string name="auto_advance_summary">"Scegli quale schermata visualizzare dopo l'eliminazione di un messaggio"</string>
+     <string name="auto_login_fail">Accesso automatico fallito</string>
+     <string name="auto_login_fail_to_retry">Accesso automatico fallito, prova di nuovo.</string>
      <string name="auto_mail_describe">139 Email è un servizio di configurazione automatica che può aiutare a compilare le informazioni di login sulla casella di posta. Desideri attivare questa funzione?</string>
      <string name="auto_mail_disable_txt">Disattivato</string>
      <string name="auto_mail_enable_txt">Inizia impostazioni</string>
-     <string name="auto_mail_go_email">Mailbox</string>
+     <string name="auto_mail_go_email">Casella di posta</string>
      <string name="auto_mail_name">AutoMail</string>
      <string name="auto_mail_title_note">"Trova l'opzione 139 Email Configurazione Automatica, tocca per iniziare."</string>
      <string name="auto_mail_window_description">Servizio 139 Email Configurazione Automatica</string>
@@ -527,7 +528,6 @@
      <string name="header_label_general_preferences">Generali</string>
      <string name="help_and_info">Guida</string>
      <string name="help_config">Auto configurazione</string>
-     <string name="hide_atts_remaining">Nascondi %1$d allegati</string>
      <string name="hide_elided">▼ Nascondi testo citato</string>
      <string name="hide_password">hide password</string>
      <string name="hierarchical_folder_parent_top">%1$s∕%2$s∕</string>
@@ -555,7 +555,6 @@
      <string name="loading_conversations">Caricamento…</string>
      <string name="loading_from_remote">Ricerca…</string>
      <string name="local_search">Ricerca locale</string>
-     <string name="local_search_result">%s email trovate sul tuo dispositivo.</string>
      <string name="login">Accedi</string>
      <string name="login139">Accedi con China Mobile</string>
      <string name="login_failed_ticker">Accesso a %s non riuscito.</string>
@@ -651,12 +650,11 @@
      <string name="mibill_privacy_policy_link">"Accetto l'<a href="https://www.mipay.com/res/doc/eula/email.html">Accordo Utente del Servizio Carte di Credito</a>"</string>
      <string name="mibill_privacy_policy_title">Mi Wallet analizzerà il contenuto delle email</string>
      <string name="min_payment_text">Pagamento minimo</string>
-     <string name="more_atts_remaining">%1$d rimanenti</string>
      <string name="more_context">Altro</string>
      <string name="move_to_selection_dialog_title">"Sposta in un'altra cartella"</string>
      <string name="multiple_new_message_notification_item">%1$s"   %2$s"</string>
      <string name="mute">Disattiva</string>
-     <string name="navigation_menu">navigation menu</string>
+     <string name="navigation_menu">menu di navigazione</string>
      <string name="network_error">Nessuna connessione</string>
      <string name="network_invaild">Impossibile collegarsi alla rete</string>
      <string name="network_not_available">Connessione di rete non disponibile, riprova più tardi</string>
@@ -664,7 +662,6 @@
      <string name="network_try_again">Verificare la rete</string>
      <string name="network_unavailable">Rete non disponibile</string>
      <string name="new_incoming_messages_one">Nuovo messaggio da %s. Leggi.</string>
-     <string name="new_messages">%1$d nuovi messaggi</string>
      <string name="new_signature_has_saved">Nuova firma salvata</string>
      <string name="next_action">Avanti</string>
      <string name="no">No</string>
@@ -711,7 +708,7 @@ Prova con una diverso account."</string>
      <string name="outbox_alert_description_auth_error">Errore di autorizzazione sincronizzazione della posta in arrivo</string>
      <string name="outbox_alert_description_cannot_authenticate">%s Errore sistema mail</string>
      <string name="outbox_alert_description_email_size_error">"È stata raggiunta la dimensione massima per le Email."</string>
-     <string name="outbox_alert_description_fail_authentication">Username o password sbagliata.</string>
+     <string name="outbox_alert_description_fail_authentication">Nome utente o password sbagliata.</string>
      <string name="outbox_alert_description_fail_network">Non è stato possibile collegarsi alla rete.</string>
      <string name="outbox_alert_description_http_error">Errore HTTP nella sincronizzazione della posta in arrivo</string>
      <string name="outbox_alert_description_insufficient_storage_error">Spazio insufficiente nel server mail</string>
@@ -822,6 +819,9 @@ perr icevere promemoria sui pagamenti dei tuoi viaggi"</string>
      <string name="push_wps_confirm_message">Nessuna applicazione può aprire questo allegato, si consiglia WPS Office</string>
      <string name="push_wps_confirm_title">Si consiglia WPS Office</string>
      <string name="push_wps_no_response_app">"Nessuna risposta dall'app"</string>
+     <string name="qq_auto_login_failed_cpy_pass_success">Copiato con successo; torna alla pagina di accesso e incolla per riempire il campo password</string>
+     <string name="qq_auto_login_failed_dialog_message">Copia il codice di autorizzazione, quindi torna alla pagina di accesso e tocca \"Inserisci nome utente e password per accedere\"; incolla per riempire il campo password ed accedere manualmente</string>
+     <string name="qq_auto_login_failed_dialog_positive_label">Copy the authorization code</string>
      <string name="qq_bar_open_imap">Aiuto</string>
      <string name="qq_bar_send_message">Invia SMS</string>
      <string name="qq_login_basecode">Accedi a QQ Mail da web. Immetti una password indipendente.</string>
@@ -847,7 +847,6 @@ perr icevere promemoria sui pagamenti dei tuoi viaggi"</string>
      <string name="quick_3">Lo leggerò più tardi e ti farò sapere.</string>
      <string name="quick_4">Organizziamo una riunione per discuterne.</string>
      <string name="quick_reply_dialog_title">Scegli</string>
-     <string name="quick_reply_hint">Rispondi a tutte le %1$d persone</string>
      <string name="quick_reply_hint_bcc">(In Ccn)</string>
      <string name="quick_reply_hint_cc">(In Cc)</string>
      <string name="quick_reply_hint_reply_only_from">Risposta rapida (solo mittente)</string>
@@ -909,7 +908,6 @@ perr icevere promemoria sui pagamenti dei tuoi viaggi"</string>
      <string name="refreshing_done">Sincronizzazione completata</string>
      <string name="release_to_refresh">Rilascia per aggiornare</string>
      <string name="remind_attachment_size_limit">La dimensione delle email deve essere inferiore a %sMB</string>
-     <string name="remote_search_result">%s email trovate sul server.</string>
      <string name="remove_account">Rimuovi account</string>
      <string name="remove_folder">Rimuovi da %1$s</string>
      <string name="remove_star">Non preferito</string>
@@ -923,6 +921,7 @@ perr icevere promemoria sui pagamenti dei tuoi viaggi"</string>
      <string name="request_entity_large">File richiesto troppo grande!</string>
      <string name="request_permission_activity">Richiesta Permessi</string>
      <string name="respond_inline">Risposta incorporata</string>
+     <string name="retry_login">accedi di nuovo</string>
      <string name="save_action">Salva</string>
      <string name="save_attachment">Salva</string>
      <string name="save_draft_failed">Salvataggio bozza fallito</string>
@@ -1069,7 +1068,6 @@ Interrompere adesso?"</string>
      <string name="undo">Annulla</string>
      <string name="unknow">Sconosciuto</string>
      <string name="unread_string">Conversazione non letta</string>
-     <string name="unsent_messages_in_outbox">%1$s non inviati in %2$s</string>
      <string name="unzip_file_failed">Impossibile decomprimere il file</string>
      <string name="update_date_format_templete">HH:mm aa, dd MMMM</string>
      <string name="update_to_wps_mail">Funzioni avanzate, aggiorna a WPS-mail</string>

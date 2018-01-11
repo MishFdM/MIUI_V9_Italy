@@ -25,6 +25,14 @@
         <item quantity="other">%d notifiche irrilevanti</item>
         <item quantity="one">%d notifica irrilevante</item>
      </plurals>
+     <plurals name="notification_group_child_count">
+        <item quantity="other">%1$d notifiche</item>
+        <item quantity="one">%1$d notifica</item>
+     </plurals>
+     <plurals name="notification_group_overflow_description">
+        <item quantity="other">%s ulteriori notifiche interne.</item>
+        <item quantity="one">%s ulteriore notifica interna.</item>
+     </plurals>
      <plurals name="settings_toggle_position_divider_page">
         <item quantity="other">%1$d comandi sopra questa linea sono attivi</item>
         <item quantity="one">%1$d comando sopra questa linea è attivo</item>

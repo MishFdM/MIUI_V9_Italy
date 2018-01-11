@@ -17,6 +17,79 @@
         <item>Massimo 3 processi</item>
         <item>Massimo 4 processi</item>
      </string-array>
+     <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
+        <item>Usa selezione di sistema (Predefinito)</item>
+        <item>16 bit/campione</item>
+        <item>24 bit/campione</item>
+        <item>32 bit/campione</item>
+     </string-array>
+     <string-array name="bluetooth_a2dp_codec_bits_per_sample_titles">
+        <item>Usa selezione di sistema (Predefinito)</item>
+        <item>16 bit/campione</item>
+        <item>24 bit/campione</item>
+        <item>32 bit/campione</item>
+     </string-array>
+     <string-array name="bluetooth_a2dp_codec_channel_mode_summaries">
+        <item>Usa selezione di sistema (Predefinito)</item>
+        <item>Mono</item>
+        <item>Stereo</item>
+     </string-array>
+     <string-array name="bluetooth_a2dp_codec_channel_mode_titles">
+        <item>Usa selezione di sistema (Predefinito)</item>
+        <item>Mono</item>
+        <item>Stereo</item>
+     </string-array>
+     <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_summaries">
+        <item>Ottimizzato per Qualità Audio</item>
+        <item>Bilanciato Audio e Qualità di Connessione</item>
+        <item>Ottimizzato per Qualità di Connessione</item>
+        <item>Migliore possibile (Bit Rate Adattivo)</item>
+     </string-array>
+     <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_titles">
+        <item>Ottimizzato per Qualità Audio (990kbps/909kbps)</item>
+        <item>Bilanciato Audio e Qualità di Connessione (660kbps/606kbps)</item>
+        <item>Ottimizzato per Qualità di Connessione (330kbps/303kbps)</item>
+        <item>Migliore possibile (Adaptive Bit Rate)</item>
+     </string-array>
+     <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
+        <item>Usa selezione di sistema (Predefinito)</item>
+        <item>44.1 kHz</item>
+        <item>48.0 kHz</item>
+        <item>88.2 kHz</item>
+        <item>96.0 kHz</item>
+     </string-array>
+     <string-array name="bluetooth_a2dp_codec_sample_rate_titles">
+        <item>Usa selezione di sistema (Predefinito)</item>
+        <item>44.1 kHz</item>
+        <item>48.0 kHz</item>
+        <item>88.2 kHz</item>
+        <item>96.0 kHz</item>
+     </string-array>
+     <string-array name="bluetooth_a2dp_codec_summaries">
+        <item>Usa selezione di sistema (Predefinito)</item>
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>aptX</item>
+        <item>aptX HD</item>
+        <item>LDAC</item>
+        <item>Abilita Codec Opzionali</item>
+        <item>Disabilita Codec Opzionali</item>
+     </string-array>
+     <string-array name="bluetooth_a2dp_codec_titles">
+        <item>Usa selezione di sistema (Predefinito)</item>
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>aptX</item>
+        <item>aptX HD</item>
+        <item>LDAC</item>
+        <item>Abilita Codec Opzionali</item>
+        <item>Disabilita Codec Opzionali</item>
+     </string-array>
+     <string-array name="bluetooth_avrcp_versions">
+        <item>AVRCP 1.4 (Default)</item>
+        <item>AVRCP 1.5</item>
+        <item>AVRCP 1.6</item>
+     </string-array>
      <string-array name="cdma_system_select_choices">
         <item>Solo nazionale</item>
         <item>Automatico</item>
@@ -41,10 +114,14 @@
         <item>Mostra aree di sovrapposizione</item>
         <item>Mostra aree per deuteranomalia</item>
      </string-array>
+     <string-array name="debug_hw_renderer_entries">
+        <item>OpenGL (Default)</item>
+        <item>OpenGL (Skia)</item>
+     </string-array>
      <string-array name="enable_opengl_traces_entries">
         <item>Nessuno</item>
         <item>Logcat</item>
-        <item>Systrace (Graphics)</item>
+        <item>Systrace (Grafici)</item>
         <item>Call stack su glGetError</item>
      </string-array>
      <string-array name="hdcp_checking_summaries">
@@ -116,7 +193,7 @@
         <item>In adb shell dumpsys gfxinfo</item>
      </string-array>
      <string-array name="transition_animation_scale_entries">
-	    <item>Animazione disattivata</item>
+        <item>Animazione disattivata</item>
         <item>Animazione .5x</item>
         <item>Animazione 1x</item>
         <item>Animazione 1.5x</item>
@@ -192,7 +269,7 @@
         <item>Evitamento temporaneo delle connessioni deboli</item>
      </string-array>
      <string-array name="window_animation_scale_entries">
-	    <item>Animazione disattivata</item>
+        <item>Animazione disattivata</item>
         <item>Animazione .5x</item>
         <item>Animazione 1x</item>
         <item>Animazione 1.5x</item>

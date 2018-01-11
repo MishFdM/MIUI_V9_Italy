@@ -28,6 +28,14 @@
         <item quantity="other">"Non utilizzata da %d anni"</item>
         <item quantity="one">"Non utilizzata da %d anno"</item>
      </plurals>
+     <plurals name="bg_network_allow_count">
+        <item quantity="other">%d apps can connect to the network in the background</item>
+        <item quantity="one">%d app can connect to the network in the background</item>
+     </plurals>
+     <plurals name="bg_network_restrict_count">
+        <item quantity="other">"%d apps can't connect to the network in the background"</item>
+        <item quantity="one">"%d app can't connect to the network in the background"</item>
+     </plurals>
      <plurals name="cache_check_content">
         <item quantity="other">Protezione di %d app</item>
         <item quantity="one">Protezione di %d app</item>
@@ -61,9 +69,21 @@ Se attivi di nuovo i dati su rete mobile, il tuo operatore potrebbe addebitarti 
         <item quantity="other">%d chiamate</item>
         <item quantity="one">%d chiamata</item>
      </plurals>
+     <plurals name="fw_blocked_count_call_one">
+        <item quantity="other">%1$d calls from %2$s and others</item>
+        <item quantity="one">%1$d call from %2$s</item>
+     </plurals>
      <plurals name="fw_blocked_count_sms">
         <item quantity="other">%d SMS</item>
         <item quantity="one">%d SMS</item>
+     </plurals>
+     <plurals name="gb_ad_people_play">
+        <item quantity="other">%1$d people are playing</item>
+        <item quantity="one">%1$d person is playing</item>
+     </plurals>
+     <plurals name="gb_ad_ten_thousand_people_play">
+        <item quantity="other">%1$d people are playing</item>
+        <item quantity="one">%1$d person is playing</item>
      </plurals>
      <plurals name="hints_apps_perm_count">
         <item quantity="other">%d permessi</item>
@@ -136,6 +156,10 @@ Se attivi di nuovo i dati su rete mobile, il tuo operatore potrebbe addebitarti 
      <plurals name="net_booster_expire_notification_tip">
         <item quantity="other">%d d rimanenti prima del termine della sessione a velocità di rete accelerata. Rinnova la sessione per evitare rallentamenti nella velocità di rete.</item>
         <item quantity="one">%d d rimanente prima del termine della sessione a velocità di rete accelerata. Rinnova la sessione per evitare rallentamenti nella velocità di rete</item>
+     </plurals>
+     <plurals name="network_restrict_count">
+        <item quantity="other">"Network access is restricted for &lt;font color='#ff0000'>%d:&lt;/font> apps"</item>
+        <item quantity="one">"Network access is restricted for &lt;font color='#ff0000'>%d&lt;/font> app"</item>
      </plurals>
      <plurals name="notification_title_cmcc_app_check">
         <item quantity="other">"%d giorni dall'ultimo controllo"</item>

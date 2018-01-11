@@ -216,6 +216,7 @@
      <string name="upgrade_vt_prompt">Vuoi passare da chiamata audio a videochiamata?</string>
      <string name="user_locked_prompt">Sblocca il dispositivo per accedere ai contatti.</string>
      <string name="video_conference_caller_info_name">Conference call video di %1$s</string>
+     <string name="video_crbt_title">%s Colore tono di richiamata</string>
      <string name="voicemail">Segreteria</string>
      <string name="wait_prompt_str">Inviare i numeri successivi?</string>
      <string name="waiting_close_airplane_mode">Solo un attimo…</string>
