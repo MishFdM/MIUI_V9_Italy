@@ -37,7 +37,7 @@
      <string name="cancle">Annulla</string>
      <string name="choose_open_time">"Prego selezionare l'orario di apertura"</string>
      <string name="clear_data">Cancella</string>
-     <string name="common_google_play_services_unknown_issue">%1$s is having trouble with Google Play services. Please try again.</string>
+     <string name="common_google_play_services_unknown_issue">%1$s sta riscontrando problemi con i servizi di Google Play. Prova di nuovo.</string>
      <string name="complete_time">Completato:</string>
      <string name="confirm">OK</string>
      <string name="confirm_delete_downloads_message">%d download selezionati verranno rimossi</string>

@@ -193,7 +193,7 @@
      <string name="from_label">"Da: "</string>
      <string name="from_pkg_name">"Dall'app:"</string>
      <string name="group_message">Messaggio di Gruppo</string>
-     <string name="group_resend_message">Reinvio (%d)</string>
+     <string name="group_resend_message">Nuovo invio (%d)</string>
      <string name="group_verification_codes_summary">Raggruppa automaticamente i messaggi contenenti OTP</string>
      <string name="group_verification_codes_title">Raggruppa i messaggi OTP</string>
      <string name="guild_add_attachments">Premi qui per aggiungere allegati o smileys al messaggio</string>
@@ -475,7 +475,7 @@
      <string name="replace">Sostituisci</string>
      <string name="replace_image">Sostituisci immagine</string>
      <string name="reply_button_msg">Rispondi</string>
-     <string name="resent_message">Reinvia</string>
+     <string name="resent_message">Invia di nuovo</string>
      <string name="resize_image_error_information">Questa immagine è troppo grande per essere inviata, anche se ridimensionata.</string>
      <string name="resource_price_free">Gratis</string>
      <string name="restore_all_button_msg">Ripristina tutti i messaggi inviati da questo numero</string>
