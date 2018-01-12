@@ -68,9 +68,9 @@ Leggi questo documento per la tastiera: "</string>
      <string name="terms_of_use_label">"La tua privacy ci sta molto a cuore. Leggi i nostri Termini di Servizio e l'Informativa sulla Privacy per capire quali informazioni raccogliamo, come le utilizziamo e quali scelte hai in merito.
 
 Devi accettare le Condizioni del Servizio e i Termini sulla Privacy prima di utilizzare MIUI."</string>
-     <string name="terms_of_use_label_gms">"Your privacy is very important to us. Read our Terms of Service and Privacy Policy to understand what information we collect, how we use it, and what choices are available to you.
+     <string name="terms_of_use_label_gms">"LA tua privacy è molto importante per noi. Leggi i nostri Termini di Servizio e l'Informativasulla Privacy per capire quali informazioni raccogliamo, come le utilizziamo e quali sono le tue opzioni in merito.
 
-You must agree to our Terms of Service and Privacy Policy before you can use MIUI. Mi services, Mi SIM activation services, Mi Cloud, Find device, Home screen, Game center, MAB ,MiuiDaemon and MSA system components, web apps, quick cards, statistics, smart cards, Mi Link, Mi Account, and Google Play services components will connect to the internet and acquire your location."</string>
+Devi accettare i Termini di Servizio e l'Informativa sulla Privacy per utilizzare MIUI. I servizi Mi, i servizi di attivazione della Mi SIM, Mi Cloud, Trova telefono, schermata Home, Game center, MAB ,MiuiDaemon ed i componenti di sistema MSA, app web, schede rapide, statistiche, schede smart, Mi Link, Mi Account ed i componenti dei servizi Google Play si collegheranno ad Internet e individueranno la tua posizione."</string>
      <string name="title_fingerprint">Aggiungi la tua impronta digitale</string>
      <string name="user_agreement">Condizioni del Servizio</string>
      <string name="welcome">Benvenuto</string>

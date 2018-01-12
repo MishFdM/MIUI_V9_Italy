@@ -89,17 +89,17 @@
      <string name="PERSOSUBSTATE_SIM_SIM_IN_PROGRESS">Richiesta sblocco SIM…</string>
      <string name="PERSOSUBSTATE_SIM_SIM_PUK_ENTRY">Enter PUK</string>
      <string name="PERSOSUBSTATE_SIM_SIM_PUK_ERROR">Sblocco SIM non eseguito.</string>
-     <string name="PERSOSUBSTATE_SIM_SIM_PUK_IN_PROGRESS">Requesting PUK unlock…</string>
+     <string name="PERSOSUBSTATE_SIM_SIM_PUK_IN_PROGRESS">Richiesta sblocco PUK…</string>
      <string name="PERSOSUBSTATE_SIM_SIM_PUK_SUCCESS">Sblocco PUK eseguito correttamente.</string>
      <string name="PERSOSUBSTATE_SIM_SIM_SUCCESS">Sblocco SIM eseguito correttamente.</string>
-     <string name="PERSOSUBSTATE_SIM_SPN_ENTRY">SPN unlock PIN</string>
-     <string name="PERSOSUBSTATE_SIM_SPN_ERROR">SPN unlock request unsuccessful.</string>
-     <string name="PERSOSUBSTATE_SIM_SPN_IN_PROGRESS">Requesting SPN unlock…</string>
-     <string name="PERSOSUBSTATE_SIM_SPN_SUCCESS">SPN unlock successful.</string>
-     <string name="PERSOSUBSTATE_SIM_SP_EHPLMN_ENTRY">SP EHPLMN unlock PIN</string>
-     <string name="PERSOSUBSTATE_SIM_SP_EHPLMN_ERROR">SP EHPLMN unlock request unsuccessful.</string>
-     <string name="PERSOSUBSTATE_SIM_SP_EHPLMN_IN_PROGRESS">Requesting SP EHPLMN unlock…</string>
-     <string name="PERSOSUBSTATE_SIM_SP_EHPLMN_SUCCESS">SP EHPLMN unlock successful.</string>
+     <string name="PERSOSUBSTATE_SIM_SPN_ENTRY">PIN sblocco SPN</string>
+     <string name="PERSOSUBSTATE_SIM_SPN_ERROR">Richiesta sblocco SPN non riuscita.</string>
+     <string name="PERSOSUBSTATE_SIM_SPN_IN_PROGRESS">Richiesta sblocco SPN…</string>
+     <string name="PERSOSUBSTATE_SIM_SPN_SUCCESS">Sblocco SPN riuscito.</string>
+     <string name="PERSOSUBSTATE_SIM_SP_EHPLMN_ENTRY">PIN sblocco SP EHPLMN</string>
+     <string name="PERSOSUBSTATE_SIM_SP_EHPLMN_ERROR">Richiesta sblocco SP EHPLMN non riuscita.</string>
+     <string name="PERSOSUBSTATE_SIM_SP_EHPLMN_IN_PROGRESS">Richiesta sblocco SP EHPLMN…</string>
+     <string name="PERSOSUBSTATE_SIM_SP_EHPLMN_SUCCESS">Sblocco SP EHPLMN riuscito.</string>
      <string name="accessibility_display_daltonizer_preference_subtitle">Questa funzione è sperimentale e potrebbe non funzionare correttamente.</string>
      <string name="accessibility_display_daltonizer_preference_title">Correzione colore</string>
      <string name="accessibility_no_wifi">Wi-Fi disconnessa.</string>
@@ -109,7 +109,7 @@
      <string name="accessibility_wifi_signal_full">Wi-Fi segnale pieno.</string>
      <string name="accessibility_wifi_three_bars">Wi-Fi tre tacche.</string>
      <string name="accessibility_wifi_two_bars">Wi-Fi due tacche.</string>
-     <string name="active_input_method_subtypes">Active input methods</string>
+     <string name="active_input_method_subtypes">Attiva il metodo di inserimento</string>
      <string name="adb_keys_warning_message">"Revocare l'accesso al debug USB per tutti i computer che hai precedentemente autorizzato?"</string>
      <string name="adb_warning_message">Il debug USB serve per ragioni di sviluppo. Usalo per copiare i dati tra il tuo computer ed il tuo dispositivo, installa app sul dispositivo senza notifiche e leggi il log dati.</string>
      <string name="adb_warning_title">Consentire debug USB?</string>
@@ -206,7 +206,7 @@
      <string name="bad_puk">"Il PUK digitato non è corretto. Riprova."</string>
      <string name="bad_puk2">Il PUK2 che hai digitato non è corretto. Riprova.</string>
      <string name="battery_info_status_charging">In carica</string>
-     <string name="battery_info_status_charging_lower">charging</string>
+     <string name="battery_info_status_charging_lower">in carica</string>
      <string name="battery_info_status_discharging">Non in carica</string>
      <string name="battery_info_status_full">Carica completata</string>
      <string name="battery_info_status_not_charging">Non in carica</string>
@@ -227,8 +227,8 @@
      <string name="bluetooth_disconnecting">Disconnessione in corso…</string>
      <string name="bluetooth_dun_profile_summary_connected">Collegato a server Dun</string>
      <string name="bluetooth_dun_profile_summary_use_for">Usa per accesso Rete Dial-up</string>
-     <string name="bluetooth_enable_inband_ringing">Enable in-band ringing</string>
-     <string name="bluetooth_enable_inband_ringing_summary">Allow ringtones on the phone to be played on Bluetooth headsets</string>
+     <string name="bluetooth_enable_inband_ringing">Attiva lo squillo in cuffia</string>
+     <string name="bluetooth_enable_inband_ringing_summary">Consenti alle suonerie del telefono di essere riprodotte nelle cuffie Bluetooth</string>
      <string name="bluetooth_headset_profile_summary_connected">Collegato ad audio telefono</string>
      <string name="bluetooth_headset_profile_summary_use_for">Usa per audio telefono</string>
      <string name="bluetooth_hid_profile_summary_connected">Collegato a dispositivo di inserimento</string>
@@ -251,8 +251,8 @@
      <string name="bluetooth_pan_profile_summary_use_for">Usa per accesso ad Internet</string>
      <string name="bluetooth_pan_user_profile_summary_connected">"Collegato al dispositivo per l'accesso ad Internet"</string>
      <string name="bluetooth_profile_a2dp">Audio media</string>
-     <string name="bluetooth_profile_a2dp_high_quality">Use high quality audio: %1$s</string>
-     <string name="bluetooth_profile_a2dp_high_quality_unknown_codec">Use high quality audio</string>
+     <string name="bluetooth_profile_a2dp_high_quality">Usa audio di alta qualità: %1$s</string>
+     <string name="bluetooth_profile_a2dp_high_quality_unknown_codec">Usa audio di alta qualità</string>
      <string name="bluetooth_profile_dun">Accesso rete Dial-up</string>
      <string name="bluetooth_profile_headset">Audio telefono</string>
      <string name="bluetooth_profile_hid">Dispositivo immissione</string>
@@ -265,23 +265,23 @@
      <string name="bluetooth_profile_sap">Accesso SIM</string>
      <string name="bluetooth_sap_profile_summary_connected">Collegato a SAP</string>
      <string name="bluetooth_sap_profile_summary_use_for">Usa per accesso SIM</string>
-     <string name="bluetooth_select_a2dp_codec_bits_per_sample">Bluetooth Audio Bits Per Sample</string>
-     <string name="bluetooth_select_a2dp_codec_bits_per_sample_dialog_title">"Select Bluetooth Audio Codec:
-Bits Per Sample"</string>
-     <string name="bluetooth_select_a2dp_codec_channel_mode">Bluetooth Audio Channel Mode</string>
-     <string name="bluetooth_select_a2dp_codec_channel_mode_dialog_title">"Select Bluetooth Audio Codec:
-Channel Mode"</string>
-     <string name="bluetooth_select_a2dp_codec_ldac_playback_quality">Bluetooth Audio LDAC Codec: Playback Quality</string>
-     <string name="bluetooth_select_a2dp_codec_ldac_playback_quality_dialog_title">"Select Bluetooth Audio LDAC Codec:
-Playback Quality"</string>
-     <string name="bluetooth_select_a2dp_codec_sample_rate">Bluetooth Audio Sample Rate</string>
-     <string name="bluetooth_select_a2dp_codec_sample_rate_dialog_title">"Select Bluetooth Audio Codec:
-Sample Rate"</string>
+     <string name="bluetooth_select_a2dp_codec_bits_per_sample">Bit per campione Audio Bluetooth</string>
+     <string name="bluetooth_select_a2dp_codec_bits_per_sample_dialog_title">"Seleziona il Codec per l'audio Bluetooth:
+Bit per Campione"</string>
+     <string name="bluetooth_select_a2dp_codec_channel_mode">Modalità Canale Audio Bluetooth</string>
+     <string name="bluetooth_select_a2dp_codec_channel_mode_dialog_title">"Seleziona il Codec per l'audio Bluetooth:
+Modalità canale"</string>
+     <string name="bluetooth_select_a2dp_codec_ldac_playback_quality">Codec LDAC Audio Bluetooth: Qualità di Riproduzione</string>
+     <string name="bluetooth_select_a2dp_codec_ldac_playback_quality_dialog_title">"Seleziona il codec LDAC Audio Bluetooth:
+Qualità di riproduzione"</string>
+     <string name="bluetooth_select_a2dp_codec_sample_rate">Frequenza Campione Audio Bluetooth</string>
+     <string name="bluetooth_select_a2dp_codec_sample_rate_dialog_title">"Seleziona il Codec Audio Bluetooth:
+Frequenza Campione"</string>
      <string name="bluetooth_select_a2dp_codec_streaming_label">Streaming: %1$s</string>
-     <string name="bluetooth_select_a2dp_codec_type">Bluetooth Audio Codec</string>
-     <string name="bluetooth_select_a2dp_codec_type_dialog_title">Select Bluetooth Audio Codec</string>
-     <string name="bluetooth_select_avrcp_version_dialog_title">Select Bluetooth AVRCP Version</string>
-     <string name="bluetooth_select_avrcp_version_string">Bluetooth AVRCP Version</string>
+     <string name="bluetooth_select_a2dp_codec_type">Codec Audio Bluetooth</string>
+     <string name="bluetooth_select_a2dp_codec_type_dialog_title">Seleziona Codec Audio Bluetooth</string>
+     <string name="bluetooth_select_avrcp_version_dialog_title">Seleziona versione AVRCP Bluetooth AVRCP</string>
+     <string name="bluetooth_select_avrcp_version_string">Versione AVRCP Bluetooth</string>
      <string name="bt_hci_snoop_log">Attiva log snoop HCI Bluetooth</string>
      <string name="bt_hci_snoop_log_summary">Raccogli tutti i pacchetti HCI bluetooth in un file</string>
      <string name="bugreport_in_power">Collegamento bug report</string>
@@ -349,7 +349,7 @@ Sample Rate"</string>
      <string name="callFailed_outOfService">Rete mobile non disponibile</string>
      <string name="callFailed_out_of_network">Chiamata da fuori copertura</string>
      <string name="callFailed_powerOff">Radio spenta</string>
-     <string name="callFailed_preemption">Preset</string>
+     <string name="callFailed_preemption">Preselezione</string>
      <string name="callFailed_protocol_error_unspecified">Errore protocollo, non specificato</string>
      <string name="callFailed_recovery_on_timer_expired">Scadenza timer recupero</string>
      <string name="callFailed_requested_circuit_or_channel_not_available">richiesta circuito/canale non disponibile</string>
@@ -370,7 +370,7 @@ Sample Rate"</string>
      <string name="callFailed_userBusy">Linea occupata</string>
      <string name="callFailed_user_not_member_of_CUG">Utente non membro di CUG</string>
      <string name="callFailed_video_call_tty_enabled">Impossibile effettuare videochiamata quando TTY é abilitato.</string>
-     <string name="callFailed_wifi_lost">WLAN connection lost. Call ended.</string>
+     <string name="callFailed_wifi_lost">Connessione Wi-Fi persa. Chiamata terminata.</string>
      <string name="callUnanswered_forwarded">Chiamata senza risposta e inoltrata</string>
      <string name="call_advanced_setting_title">Impostazioni avanzate</string>
      <string name="call_background_default">Predefinito</string>
@@ -525,8 +525,8 @@ Sample Rate"</string>
      <string name="connect_disconnect_vibrate_title">Vibra alla risposta</string>
      <string name="connect_disconnect_vibrate_weak">Leggera</string>
      <string name="connect_later">Impossibile connettersi ora a questa rete. Riprova più tardi.</string>
-     <string name="connected_via_network_scorer">Automatically connected via %1$s</string>
-     <string name="connected_via_network_scorer_default">Automatically connected via network rating provider</string>
+     <string name="connected_via_network_scorer">Collegato automaticamente tramite %1$s</string>
+     <string name="connected_via_network_scorer_default">Collegato automaticamente tramite provider rating di rete</string>
      <string name="connected_via_passpoint">Connesso tramite %1$s</string>
      <string name="connection_service_default_label">Servizi di connessione integrati</string>
      <string name="contactAddFailed">Aggiunta del contatto nella SIM fallita</string>
@@ -1279,7 +1279,7 @@ Le funzionalità relative al PIN2 saranno bloccate se si fallisce un altro tenta
      <string name="puk_lock_warning">La tua SIM verrà disabilitata se fallisci un altro tentativo.</string>
      <string name="puk_requested">Password non corretta, PIN bloccato. Ora è richiesto il PUK.</string>
      <string name="puk_unlocked">La tua SIM è stata sbloccata. Il dispositivo verrà sbloccato…</string>
-     <string name="quick_dial_setting_title">Quick dial</string>
+     <string name="quick_dial_setting_title">Chiamata rapida</string>
      <string name="radio_off_during_emergency_call">Impossibile attivare la modalità aereo durante una chiamata di emergenza.</string>
      <string name="radio_off_error">Attiva la radio prima di visualizzare queste impostazioni.</string>
      <string name="reading_settings">Lettura impostazioni…</string>
