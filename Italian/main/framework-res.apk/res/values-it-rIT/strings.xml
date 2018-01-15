@@ -883,7 +883,7 @@ Riprova tra %d secondi."</string>
      <string name="notification_channel_call_forward">Call forwarding</string>
      <string name="notification_channel_car_mode">Car mode</string>
      <string name="notification_channel_developer">Developer messages</string>
-     <string name="notification_channel_device_admin">Device administration</string>
+     <string name="notification_channel_device_admin">Amministrazione dispositivo</string>
      <string name="notification_channel_emergency_callback">Emergency callback mode</string>
      <string name="notification_channel_foreground_service">Apps running in background</string>
      <string name="notification_channel_hotspot">WLAN Hotspot notification</string>

@@ -3187,8 +3187,8 @@ ed esegui il software."</string>
      <string name="print_searching_for_printers">Ricerca di stampanti</string>
      <string name="print_service_disabled">Servizio disabilitato</string>
      <string name="print_settings">Stampa</string>
-     <string name="print_settings_summary_no_service">Off</string>
-     <string name="print_settings_title">Print services</string>
+     <string name="print_settings_summary_no_service">Disattivo</string>
+     <string name="print_settings_title">Servizi stampa</string>
      <string name="printer_info_desc">Maggiori informazioni su questa stampante</string>
      <string name="priority_storage_app_settings">Archiviazione dati %1$s</string>
      <string name="priority_storage_settings_summary">Se la scheda SD non viene rilevata, i dati verranno salvati automaticamente nella memoria interna del dispositivo</string>
