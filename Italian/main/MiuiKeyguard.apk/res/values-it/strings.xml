@@ -60,7 +60,7 @@
      <string name="face_unlock_rotated_left">Sposta la testa a destra</string>
      <string name="face_unlock_rotated_right">Sposta la testa a sinistra</string>
      <string name="face_unlock_stay_away_screen">Rimani distante dalle schermo tra i 25 ai 40cm</string>
-     <string name="fingerprint_add_text">""L'interfaccia per le impronte digitali è stato aggiornata. Aggiungi di nuovo la tua impronta"."</string>
+     <string name="fingerprint_add_text">"L'interfaccia per le impronte digitali è stato aggiornata. Aggiungi di nuovo la tua impronta."</string>
      <string name="fingerprint_add_title">Aggiungi impronta</string>
      <string name="fingerprint_again_identified_msg">La tua impronta adesso è attiva. Usala per sbloccare il dispositivo o inserisci la password.</string>
      <string name="fingerprint_enter_second_psw_msg">Inserisci la password per lo spazio Secondario dopo il riavvio per poter utilizzare il riconoscimento delle impronte</string>
