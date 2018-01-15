@@ -315,7 +315,7 @@ per accedere dalla schermata di blocco"</string>
      <string name="xspace_account">Account doppia apertura</string>
      <string name="xspace_chocie">App supportate</string>
      <string name="xspace_creating">Clonazione app…</string>
-     <string name="xspace_default_app_summary">""Imposta l'app predefinita per pagamenti, condivisione, preferiti ed altro."</string>
+     <string name="xspace_default_app_summary">"Imposta l'app predefinita per pagamenti, condivisione, preferiti ed altro."</string>
      <string name="xspace_default_app_title">App predefinita</string>
      <string name="xspace_default_guide_notification_content">Tocca per cambiare</string>
      <string name="xspace_default_guide_notification_main_title">"Utilizzo dell'app predefinita"</string>
