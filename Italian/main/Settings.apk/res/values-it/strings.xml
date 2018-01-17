@@ -3187,8 +3187,8 @@ ed esegui il software."</string>
      <string name="print_searching_for_printers">Ricerca di stampanti</string>
      <string name="print_service_disabled">Servizio disabilitato</string>
      <string name="print_settings">Stampa</string>
-     <string name="print_settings_summary_no_service">Off</string>
-     <string name="print_settings_title">Print services</string>
+     <string name="print_settings_summary_no_service">Disattivo</string>
+     <string name="print_settings_title">Servizi stampa</string>
      <string name="printer_info_desc">Maggiori informazioni su questa stampante</string>
      <string name="priority_storage_app_settings">Archiviazione dati %1$s</string>
      <string name="priority_storage_settings_summary">Se la scheda SD non viene rilevata, i dati verranno salvati automaticamente nella memoria interna del dispositivo</string>
@@ -4536,8 +4536,8 @@ L'approccio di Google alla sincronizzazione di dati per consentirti l'accesso ai
      <string name="testing_usage_stats">Statistiche di utilizzo</string>
      <string name="testing_wifi_info">Informazioni Wi-Fi</string>
      <string name="tether_and_hotspot_title">Tethering e hotspot</string>
-     <string name="tether_data_usage_limit">One-time data limit</string>
-     <string name="tether_data_usage_limit_summary">Data limit will be applied next time your hotspot is on</string>
+     <string name="tether_data_usage_limit">Limite dati one-time</string>
+     <string name="tether_data_usage_limit_summary">"Il limite dati verrà applicato la prossima volta che l'hotspot è attivo"</string>
      <string name="tether_devices_management_title">Gestisci dispositivi</string>
      <string name="tether_devices_max_number">Limite di dispositivi collegati</string>
      <string name="tether_settings_disabled">"L'hotspot personale è disattivato"</string>
