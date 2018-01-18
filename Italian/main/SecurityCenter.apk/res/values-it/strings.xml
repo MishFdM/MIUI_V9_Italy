@@ -77,7 +77,6 @@
      <string name="after_the_lock_screen">"L'app è bloccata con lo schermo, puoi modificare l'impostazione nelle impostazioni"</string>
      <string name="all_address_choose_hint">Tutte le posizioni</string>
      <string name="already_close_gamebooster">Gaming speed boost è disattivato</string>
-     <string name="anim_gamebooster_text">Solo un secondo…</string>
      <string name="anti_disturb_msg_detail">Disattiva tutte le notifiche tranne quelle per le chiamate in entrata</string>
      <string name="anti_disturb_msg_title">Non disturbare</string>
      <string name="antispam_mode_details">Dettagli sulla modalità di filtro</string>
@@ -1369,6 +1368,7 @@ Questa attività riduce la durata della batteria."</string>
      <string name="power_btn_analyze">Analizza utilizzo batteria</string>
      <string name="power_cell">Cellulare in standby</string>
      <string name="power_center_auto_shutdown">Comando</string>
+     <string name="power_center_back">Back to Power</string>
      <string name="power_center_charge_time">Carica completata tra %1$s</string>
      <string name="power_center_main_percent_formatted">%s%%</string>
      <string name="power_center_ontime_boot">Accensione programmata</string>
