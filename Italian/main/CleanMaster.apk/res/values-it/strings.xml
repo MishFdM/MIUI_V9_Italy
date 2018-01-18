@@ -496,6 +496,7 @@
      <string name="wechat_copying_video_dialog_title">Esporta sulla Galleria</string>
      <string name="wechat_copying_video_empty">Nessun video da esportare</string>
      <string name="wechat_copying_video_success">Esportazione riuscita</string>
+     <string name="wechat_qq_activity_title">Deep clean</string>
      <string name="wechat_qq_celan_tab_file">File</string>
      <string name="wechat_qq_celan_tab_image">Immagini</string>
      <string name="wechat_qq_celan_tab_video">Video</string>
