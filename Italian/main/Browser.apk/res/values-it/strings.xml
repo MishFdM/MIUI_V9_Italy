@@ -387,7 +387,7 @@ Sei sicuro di voler abbandonare questa pagina?"</string>
      <string name="keep_queued_download">Mantieni</string>
      <string name="last_month">Mese scorso</string>
      <string name="license_activity_title">Licenze WebView di sistema</string>
-     <string name="loading_dialog_title">Moving…</string>
+     <string name="loading_dialog_title">Spostamento…</string>
      <string name="loading_tips">Trascina per aggiornare</string>
      <string name="local_bookmarks">Locale</string>
      <string name="login_failed_toast">Accesso fallito, aggiornare.</string>
@@ -817,7 +817,7 @@ Per navigare correttamente devi essere collegato ad Internet. Per poter utilizza
      <string name="snapshot_failed">Salvataggio per lettura offline non riuscito.</string>
      <string name="snapshot_successed">Salvataggio per lettura offline riuscito.</string>
      <string name="soft_toast_see_view">Mostra</string>
-     <string name="speech_engine_not_install">Speech engine is not installed</string>
+     <string name="speech_engine_not_install">Motore di sintesi non installato</string>
      <string name="ssl_bad_clock_date_settings">Impostazioni data</string>
      <string name="ssl_bad_clock_warning" formatted="false">On può essere stabilita una connessione privata con %s1 perché data e orario (%s2) del tuo dispositivo non sono corrette.</string>
      <string name="ssl_certificate">Certificato di sicurezza</string>

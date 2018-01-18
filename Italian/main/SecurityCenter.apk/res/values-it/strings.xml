@@ -125,7 +125,7 @@
      <string name="app_install_tips_go_to">Apri</string>
      <string name="app_install_tips_install_success">%1$s installazioni completate</string>
      <string name="app_manager_advanced_setting">Impostazioni avanzate</string>
-     <string name="app_manager_allow">Yes</string>
+     <string name="app_manager_allow">Sì</string>
      <string name="app_manager_app_ifno_version">Versione app</string>
      <string name="app_manager_app_info_label">Info app</string>
      <string name="app_manager_app_info_name">Nome app</string>
@@ -538,7 +538,7 @@ se se dimenticata"</string>
      <string name="cpu_usage_android_system">Sistema Android</string>
      <string name="cpu_usage_app_bg_restrict_default">Auto (consigliato)</string>
      <string name="cpu_usage_app_bg_restrict_default_short">Auto</string>
-     <string name="cpu_usage_app_bg_restrict_full">RLImita attività in background</string>
+     <string name="cpu_usage_app_bg_restrict_full">Limita attività in background</string>
      <string name="cpu_usage_app_bg_restrict_no_limit">Non limitare</string>
      <string name="cpu_usage_app_bg_restrict_partly">Dopo %s</string>
      <string name="cpu_usage_app_bg_restrict_partly_short">Dopo %s</string>
@@ -617,7 +617,7 @@ se se dimenticata"</string>
      <string name="dlg_black_antispam_message">Aggiungere questo messaggio alla blacklist?</string>
      <string name="dlg_clear_all_call">Cancellare le chiamate bloccate?</string>
      <string name="dlg_clear_all_ok">Cancella tutto</string>
-     <string name="dlg_clear_all_sms">Eliminar ei messaggi bloccati?</string>
+     <string name="dlg_clear_all_sms">Eliminare i messaggi bloccati?</string>
      <string name="dlg_clear_current_call">Cancellare le chiamate bloccate da questo numero?</string>
      <string name="dlg_clear_current_ok">Rimuovi</string>
      <string name="dlg_clear_current_sms">ELiminare tutti messaggi bloccati da questo numero?</string>
@@ -1368,7 +1368,7 @@ Questa attività riduce la durata della batteria."</string>
      <string name="power_btn_analyze">Analizza utilizzo batteria</string>
      <string name="power_cell">Cellulare in standby</string>
      <string name="power_center_auto_shutdown">Comando</string>
-     <string name="power_center_back">Back to Power</string>
+     <string name="power_center_back">Ritorna al centro</string>
      <string name="power_center_charge_time">Carica completata tra %1$s</string>
      <string name="power_center_main_percent_formatted">%s%%</string>
      <string name="power_center_ontime_boot">Accensione programmata</string>

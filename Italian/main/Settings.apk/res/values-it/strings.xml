@@ -177,7 +177,7 @@ Nota: il tocco triplo per ingrandire funziona ovunque tranne che per la tastiera
      <string name="adding_profile_owner_warning">"Proseguendo, l'utente sarà gestito dall'amministratore che può essere in grado di memorizzare i dati associati, oltre ai vostri dati personali.
 
 L'amministratore ha la capacità di monitorare e gestire le impostazioni, l'accesso, applicazioni e dati associati a questo utente, tra cui attività di rete e le informazioni sulla posizione del dispositivo "."</string>
-     <string name="additional_battery_info">Usage alerts</string>
+     <string name="additional_battery_info">Avvisi utilizzo</string>
      <string name="additional_permissions">Permessi aggiuntivi</string>
      <string name="additional_permissions_more">Altri %1$d</string>
      <string name="additional_system_update" />
@@ -4573,7 +4573,7 @@ L'approccio di Google alla sincronizzazione di dati per consentirti l'accesso ai
      <string name="title_font_current2">Carattere di sistema</string>
      <string name="title_font_size">Dimensioni carattere</string>
      <string name="title_hdmi_color_calibration">Impostazione predefinita correzione colore</string>
-     <string name="title_jeejen">Jeejen Home screen</string>
+     <string name="title_jeejen">Home Jeejen</string>
      <string name="title_layout_current">Seleziona dimensione carattere</string>
      <string name="title_layout_current2">Dimensione carattere</string>
      <string name="toast_lockscreen_glogin_empty_password">Inserisci la password</string>
