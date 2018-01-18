@@ -1028,4 +1028,12 @@ Verifica il tuo numero di tracciabilità"</string>
      <string name="year_month_day_format">dd/MM/yyyy</string>
      <string name="yellow_page_website">Sito ufficiale</string>
      <string name="yesterday">Ieri</string>
+    <string name="upgrade_being">In fase di installazione,sta per essere riavviato</string>
+    <string name="upgrade_find">Nuova versione</string>
+    <string name="upgrade_later">Più tardi</string>
+    <string name="upgrade_log_default">"1.Ottimizza le prestazioni;
+2.Risolve problemi noti"</string>
+    <string name="upgrade_log_subtitle">(Già scaricato con il Wi-Fi)</string>
+    <string name="upgrade_log_title">Informazioni nuova versione</string>
+    <string name="upgrade_now">Installa ora</string>
 </resources>
