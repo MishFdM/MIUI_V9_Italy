@@ -352,7 +352,7 @@ Centro servizio clienti:400-100-5678"</string>
      <string name="passport_auto_generate_pwd">Genera password sicura</string>
      <string name="passport_back">Indietro</string>
      <string name="passport_bad_authentication">Nome utente o password non validi</string>
-     <string name="passport_barcode_add_account_prompt">""Per connettere un account, scansiona il codice QR dopo aver completato l'accesso"."</string>
+     <string name="passport_barcode_add_account_prompt">"Per connettere un account, scansiona il codice QR dopo aver completato l'accesso."</string>
      <string name="passport_change_account"><u>Cambia account</u></string>
      <string name="passport_change_phone_number">Cambia numeri</string>
      <string name="passport_checking_account">Verifica password…</string>
