@@ -923,6 +923,8 @@ L'operatore potrebbe addebitarti costi aggiuntivi se continui ad utilizzare la c
      <string name="lockpattern_too_many_failed_confirmation_attempts_header">Troppi tentativi errati!</string>
      <string name="lockpattern_tutorial_cancel_label">Annulla</string>
      <string name="lockpattern_tutorial_continue_label">Avanti</string>
+     <string name="lockpattern_tutorial_continue_label_confirm">Click OK</string>
+     <string name="lockpattern_tutorial_continue_label_next">Click next</string>
      <string name="lockscreen_access_pattern_cell_added">Cella aggiunta</string>
      <string name="lockscreen_access_pattern_cleared">Sequenza cancellata</string>
      <string name="lockscreen_access_pattern_detected">Sequenza completata</string>
@@ -1076,6 +1078,7 @@ dall'operatore"</string>
      <string name="menu_text_power_percent_title">Batteria %s</string>
      <string name="menu_text_power_percent_title_default">Batteria</string>
      <string name="menu_wh_remove">Rimuovi dalle eccezioni</string>
+     <string name="menu_white">Except</string>
      <string name="mi_service_app_detail">Dettagli utilizzo dati</string>
      <string name="mi_service_traffic_detail">Dettagli framework</string>
      <string name="mian_page_primary_txt">Roaming estero</string>

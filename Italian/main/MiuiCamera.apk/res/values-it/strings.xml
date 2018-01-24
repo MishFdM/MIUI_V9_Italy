@@ -111,6 +111,9 @@ Il soggetto non deve essere più lontano di 2 metri."</string>
      <string name="face_beauty_intelligent_level_3">Alto</string>
      <string name="face_beauty_smart">Intelligente</string>
      <string name="face_score_info">Punto: %.1f</string>
+     <string name="front_camera_hint_text_place">"Taking selfies will be easier
+if you rotate your phone"</string>
+     <string name="front_camera_hint_text_rotate">Rotate your phone</string>
      <string name="hine_hht">"Con poca luce ambientale, verranno scattate foto multiple
 per la costruzione di uno scatto con il minimo rumore."</string>
      <string name="hint_device_water_mark">Il logo del dispositivo verrà aggiunto automaticamente.</string>

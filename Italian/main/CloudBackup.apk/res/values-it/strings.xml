@@ -91,10 +91,14 @@ Nota: i dati delle applicazioni installate non verranno salvati su Mi Cloud."</s
      <string name="device_corrupt">Mi Phone (Dati corrotti)</string>
      <string name="device_delete_prompt">Eliminare il backup di %s?</string>
      <string name="device_xiaomi">Dispositivo Mi</string>
+     <string name="dialog_btn_next">Next</string>
+     <string name="dialog_btn_restore_skip">Restore later</string>
      <string name="dialog_cancel_backup_cancel">Annulla</string>
      <string name="dialog_cancel_backup_confirm">OK</string>
      <string name="dialog_cancel_backup_msg">Lo spostamento dello switch terminerà il backup in corso.</string>
      <string name="dialog_cancel_backup_title">Annullare il backup in corso?</string>
+     <string name="dialog_msg_restore_require_wlan">Restoring backup files requires WLAN.</string>
+     <string name="dialog_title_require_wlan">Need WLAN</string>
      <string name="dir_date_format">HHmmss_ddMMyyyy</string>
      <string name="doing_restore_home">Ripristino Home e impostazioni…</string>
      <string name="done_remove">Rimosso con successo</string>

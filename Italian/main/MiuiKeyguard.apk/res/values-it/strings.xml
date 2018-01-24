@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-     <string name="accessibility_enter_lock_wallpaper">Tocca per aprire lo sfondo Carosello</string>
+     <string name="accessibility_enter_lock_wallpaper">Tocca per aprire lo sfondo Carousel</string>
      <string name="btn_camera">Inserisci il tuo viso</string>
      <string name="click_to_enter_text">Tocca per vedere</string>
      <string name="confirm_pin_msg">Inserisci di nuovo il PIN</string>
      <string name="custom_lock_wallpaper_enter">Inserisci</string>
      <string name="default_lockscreen_unlock_hint_text">Scorri per sbloccare</string>
      <string name="delete">Elimina</string>
+     <string name="digital_clock_dot">:</string>
      <string name="do_disclosure_generic">Questo dispositivo è gestito dalla tua organizzazione</string>
      <string name="do_disclosure_with_name">Questo dispositivo è gestito da %s</string>
      <string name="doze_pickup_subtype_performs_proximity_check" />
@@ -104,11 +105,12 @@
      <string name="keyguard_left_buscard">Carta bus</string>
      <string name="keyguard_left_remotecentral">Mi Remote</string>
      <string name="keyguard_left_smarthome">Mi Home</string>
+     <string name="keyguard_left_view_lock_wallpaper">Sfondi Carousel</string>
      <string name="keyguard_quick_charging_info_click_to_detail">Carica rapida. Tocca per vedere i dettagli.</string>
      <string name="keyguard_quickly_charging_info_charging_text">Carica rapida…</string>
      <string name="keyguard_torch_cover_text">Tieni premuto il tasto Accensione per accendere la Torcia</string>
-     <string name="lock_screen_date">EEEE, MMMM d</string>
-     <string name="lock_screen_date_12">EEEE, MMMM d</string>
+     <string name="lock_screen_date">EEEE,d MMMM</string>
+     <string name="lock_screen_date_12">EEEE,d MMMM </string>
      <string name="lock_screen_no_sim_card">Nessuna SIM</string>
      <string name="lock_wallpaper_enter">Inserisci</string>
      <string name="lock_wallpaper_learn_more">Altro</string>
