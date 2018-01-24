@@ -142,7 +142,6 @@
      <string name="connecting_apk">Connessione...</string>
      <string name="continue_backup">Continua</string>
      <string name="cp_info_first">Il servizio di streaming è offerto da Ultimate Inc.</string>
-     <string name="cp_info_second">service1@ultimobi.com</string>
      <string name="create_order_fail">"Impossibile creare l'ordine, prova di nuovo."</string>
      <string name="create_playlist">Crea playlist</string>
      <string name="create_playlist_failure">Impossibile creare la playlist</string>

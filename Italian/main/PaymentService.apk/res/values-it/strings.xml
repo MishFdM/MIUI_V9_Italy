@@ -326,8 +326,6 @@ Centro servizio clienti:400-100-5678"</string>
      <string name="mibi_title_password_threshold">Limite giornaliero = ￥%1$s</string>
      <string name="mibi_title_sms_code">Prego immetti il codice di verifica del numero di telefono</string>
      <string name="mibi_unit">Mi Credit</string>
-     <string name="mibi_unit_value_redeemed">%1$s Mi Credit redeemed</string>
-     <string name="mibi_unit_value_remained">%1$s Mi Credit remained</string>
      <string name="mibi_voucher_card_text">Si prega di grattare lo strato di vernice</string>
      <string name="mibi_voucher_error_password">Codice non valido.</string>
      <string name="mibi_voucher_input_password_prompt">Immetti codice</string>
@@ -445,7 +443,7 @@ Centro servizio clienti:400-100-5678"</string>
      <string name="passport_quick_login_step2_title">Verifica in 2 passaggi</string>
      <string name="passport_quick_login_title">Immetti la tua password</string>
      <string name="passport_quick_register">Sign up</string>
-     <string name="passport_quick_register_notice">&lt;u&gt;"Don't have a Mi Account? Create one."&lt;/u&gt;</string>
+     <string name="passport_quick_register_notice">"&lt;u&gt;Don't have a Mi Account? Create one.&lt;/u&gt;"</string>
      <string name="passport_re_get_verify_code">Ottieni nuovamente codice</string>
      <string name="passport_re_register">Registrati nuovamente</string>
      <string name="passport_recycle_account_prompt">È questo il tuo Mi Account?</string>
