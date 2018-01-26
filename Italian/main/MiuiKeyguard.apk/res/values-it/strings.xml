@@ -101,10 +101,10 @@
      <string name="keyguard_charging_info_tip_text4">Non utilizzare il dispositivo mentre è in carica per evitare il surriscaldamento.</string>
      <string name="keyguard_charging_info_tip_text5">Le batterie impiegano più tempo a caricare quando diventano più calde del solito.</string>
      <string name="keyguard_charging_info_tip_text6">Spegni lo schermo e riponi il dispositivo per raffreddarlo.</string>
-     <string name="keyguard_left_bankcard">Carta bancaria</string>
-     <string name="keyguard_left_buscard">Carta bus</string>
-     <string name="keyguard_left_remotecentral">Mi Remote</string>
-     <string name="keyguard_left_smarthome">Mi Home</string>
+     <string name="keyguard_left_bankcard">Calcolatrice</string>
+     <string name="keyguard_left_buscard">Note</string>
+     <string name="keyguard_left_remotecentral">Calendario</string>
+     <string name="keyguard_left_smarthome">Contatti</string>
      <string name="keyguard_left_view_lock_wallpaper">Sfondi Carousel</string>
      <string name="keyguard_quick_charging_info_click_to_detail">Carica rapida. Tocca per vedere i dettagli.</string>
      <string name="keyguard_quickly_charging_info_charging_text">Carica rapida…</string>
