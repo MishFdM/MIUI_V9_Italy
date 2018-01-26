@@ -131,7 +131,6 @@ Sample Rate"</string>
      <string name="cancel">Annulla</string>
      <string name="category_personal">Personale</string>
      <string name="category_work">Lavoro</string>
-     <string name="certinstaller_package">com.android.certinstaller</string>
      <string name="charge_length_format">%1$s fa</string>
      <string name="choose_profile">Scegli profilo</string>
      <string name="clear_adb_keys">Revoca autorizzazioni debug USB</string>

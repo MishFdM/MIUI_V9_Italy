@@ -142,7 +142,6 @@
      <string name="connecting_apk">Connessione...</string>
      <string name="continue_backup">Continua</string>
      <string name="cp_info_first">Il servizio di streaming è offerto da Ultimate Inc.</string>
-     <string name="cp_info_second">service1@ultimobi.com</string>
      <string name="create_order_fail">"Impossibile creare l'ordine, prova di nuovo."</string>
      <string name="create_playlist">Crea playlist</string>
      <string name="create_playlist_failure">Impossibile creare la playlist</string>
@@ -587,14 +586,11 @@ attendere o selezionare Musica Online."</string>
      <string name="notif_text_engine_off">"L'Acceleratore Download Xunlei non è attivo"</string>
      <string name="notif_text_engine_on">Accelerazione…</string>
      <string name="notif_title_file_size">%1$d totale</string>
-     <string name="notif_title_multiple_downloading">Download di %1$d file</string>
      <string name="notif_title_single_downloading">Download %1$s</string>
      <string name="notification_des_next_song">Prossimo brano: %s</string>
      <string name="notification_des_no_song">Mi Music. Novità ogni giorno.</string>
      <string name="notification_download_complete">Download completato</string>
      <string name="notification_download_failed">Impossibile scaricare</string>
-     <string name="notification_download_failed_more">Impossibile scaricare %1$d file</string>
-     <string name="notification_download_success_more">%1$d scaricato</string>
      <string name="notification_need_wifi_for_size">La dimensione del file richiede il Wi-Fi.</string>
      <string name="notification_play_summary">Mostra il brano attuale e quello successivo, mostra i testi sulla Home</string>
      <string name="notification_play_title">Widget pannello notifiche</string>
@@ -846,10 +842,15 @@ attendere o selezionare Musica Online."</string>
      <string name="tab_track_list">Brani</string>
      <string name="take_effect_afater_restart">"Devi riavviare l'app Musica affinché questa impostazione abbia effetto."</string>
      <string name="talkback_back">Indietro</string>
+     <string name="talkback_cloud_setting">Settings</string>
      <string name="talkback_device">Riproduci su altri dispositivi</string>
      <string name="talkback_download">Scarica</string>
      <string name="talkback_favorite">Mi piace</string>
+     <string name="talkback_follow">Follow</string>
+     <string name="talkback_followed">Unfollow</string>
+     <string name="talkback_header_search">"Search "</string>
      <string name="talkback_karaoke">Avvia Karaoke</string>
+     <string name="talkback_like">Like</string>
      <string name="talkback_mode">Ripetizione playlist</string>
      <string name="talkback_mode_repeat_all">Modalità ripetizione lista</string>
      <string name="talkback_mode_repeat_current">Modalità ripetizione singola</string>
@@ -864,6 +865,7 @@ attendere o selezionare Musica Online."</string>
      <string name="talkback_radar">Riconoscimento musica</string>
      <string name="talkback_search">Cerca</string>
      <string name="talkback_share">Condividi</string>
+     <string name="talkback_unlike">Unlike</string>
      <string name="task_already_exist">Operazione già esistente</string>
      <string name="text_separator">|</string>
      <string name="ticket_summary">Compra i biglietti per spettacoli, concerti, opere ed altri eventi</string>

@@ -2020,8 +2020,6 @@ Quando attivi il backup automatico, il dispositivo e i dati delle applicazioni v
      <string name="input_settings">Impostazioni immissione</string>
      <string name="install_all_warning">"Il dispositivo e i dati personali sono più vulnerabili agli attacchi da parte di app provenienti da fonti sconosciute. L'utente accetta di essere il solo responsabile degli eventuali danni al dispositivo o della perdita di dati che potrebbero derivare dall'utilizzo di queste applicazioni."</string>
      <string name="install_applications">Origini sconosciute</string>
-	 <string name="install_unknown_applications_title">Ti consente di installare app da sorgenti diverse dal Play Store</string>
-     <string name="install_unknown_applications">Consenti tutte le sorgenti delle app</string>
      <string name="install_applications_title">Consenti tutte le sorgenti delle app</string>
      <string name="install_no_market_app_summary">"Consenti l'installazione di app non provenienti dal Play Store"</string>
      <string name="install_no_market_app_title">Fonti sconosciute</string>
@@ -2029,6 +2027,8 @@ Quando attivi il backup automatico, il dispositivo e i dati delle applicazioni v
      <string name="install_preinstall_app">Caricamento applicazioni\u2026</string>
      <string name="install_text">Installa</string>
      <string name="install_type_instant">Instant app</string>
+     <string name="install_unknown_applications">Consenti tutte le sorgenti delle app</string>
+     <string name="install_unknown_applications_title">Ti consente di installare app da sorgenti diverse dal Play Store</string>
      <string name="install_whole_rom">Scarica ROM (standard)</string>
      <string name="installed">Installed</string>
      <string name="instant_app_details_summary">More info on %1$s</string>
@@ -2436,7 +2436,7 @@ Puoi impostare un nuovo blocco schermo sia per il dispositivo che per il tuo pro
      <string name="make_sure_cancel_update">"Annullare l'aggiornamento?"</string>
      <string name="man_add_application">Aggiungi applicazioni in avvio automatico</string>
      <string name="manage_device_admin">Amministratori dispositivo</string>
-	 <string name="manage_device_admin_summary">Visualizza o disattiva amministratori dispositivo</string>
+     <string name="manage_device_admin_summary">Visualizza o disattiva amministratori dispositivo</string>
      <string name="manage_facerecoginition_text">Gestisci dati viso</string>
      <string name="manage_fakecell_settings">Protezione da finte stazioni base</string>
      <string name="manage_fingerprint_text">Gestisci impronte</string>
@@ -2660,6 +2660,7 @@ ed esegui il software."</string>
      <string name="music_audio_effect_optimize_summary_with_hifi">Dirac, Hi-Fi, cuffie ed altre impostazioni audio</string>
      <string name="music_audio_effect_settings">Impostazioni audio</string>
      <string name="music_dirac_control">Ottimizza qualità audio</string>
+     <string name="music_dirac_mode_cancelling">Mi Noise Cancelling (3.5mm)</string>
      <string name="music_dirac_mode_capsule">Mi Capsule</string>
      <string name="music_dirac_mode_earbuds">Auricolari Mi</string>
      <string name="music_dirac_mode_general">Generale</string>
@@ -2716,6 +2717,8 @@ ed esegui il software."</string>
      <string name="my_device_disclaimer">Nota: informazioni Hardware, inclusi CPU, capacità batteria, dimensione schermo e risoluzione, e fotocamera, sono forniti dai laboratori, progettisti e fornitori Xiaomi.</string>
      <string name="n_cacrts">%d certificati CA</string>
      <string name="nature_color">Default</string>
+     <string name="navigation_guide_app_summary">Swipe left or right from the edge of the screen in top area</string>
+     <string name="navigation_guide_app_title">"Trigger app's action"</string>
      <string name="navigation_guide_back_anim_summary">Back gesture with animation</string>
      <string name="navigation_guide_back_anim_title">Back gesture animation</string>
      <string name="navigation_guide_back_summary">Swipe left or right from screen</string>

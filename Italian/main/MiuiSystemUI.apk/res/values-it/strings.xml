@@ -47,6 +47,7 @@
      <string name="accessibility_display_daltonizer_preference_subtitle">Questa funzionalità è sperimentale e potrebbe influire le prestazioni.</string>
      <string name="accessibility_display_daltonizer_preference_title">Correzione colore</string>
      <string name="accessibility_divider">Separazione schermo diviso</string>
+     <string name="accessibility_drag_hint_message">Drag items to top of the screen</string>
      <string name="accessibility_home">Home</string>
      <string name="accessibility_ime_switch_button">Cambia pulsante tastiera.</string>
      <string name="accessibility_managed_profile">Profilo di lavoro</string>
@@ -63,8 +64,10 @@
      <string name="accessibility_recent">Applicazioni recenti</string>
      <string name="accessibility_recent_task_exit">Recenti chiusi</string>
      <string name="accessibility_recent_task_locked">Bloccato, scorri in basso per sbloccare.</string>
+     <string name="accessibility_recent_task_locked_state">Locked</string>
      <string name="accessibility_recent_task_memory_info">RAM totale: %2$s | RAM disponibile: %1$s. Doppio tap per liberare.</string>
      <string name="accessibility_recent_task_unlocked">Sbloccato</string>
+     <string name="accessibility_recent_task_unlocked_state">Unlocked</string>
      <string name="accessibility_recents_all_items_dismissed">Tutte le app recenti chiuse.</string>
      <string name="accessibility_recents_item_dismissed">%s chiuse.</string>
      <string name="accessibility_recents_item_launched">Avvio %s.</string>
@@ -221,7 +224,6 @@ Frequenza Campione"</string>
      <string name="clear_adb_keys">Revoca autorizzazioni debugging USB</string>
      <string name="click_expand">Tocca per espandere</string>
      <string name="click_to_return_multi_window">Clicca per ritornare in modalità Multi Finestra</string>
-     <string name="config_systemUIFactoryComponent">com.android.systemui.SystemUIFactory</string>
      <string name="confirm_enable_oem_unlock_text">ATTENZIONE: La protezione dispositivo non funzionerà su questo dispositivo mentre questa opzione sarà attiva.</string>
      <string name="confirm_enable_oem_unlock_title">Permettere sblocco OEM?</string>
      <string name="connected_via_network_scorer">Connesso automaticamente tramite %1$s</string>
@@ -542,6 +544,7 @@ For more information, contact your admin."</string>
      <string name="pip_play">Riproduci</string>
      <string name="pip_skip_to_next">Salta al prossimo</string>
      <string name="pip_skip_to_prev">Salta al precedente</string>
+     <string name="please_slide_agian">Please slide again</string>
      <string name="pointer_location">Locazione puntatore</string>
      <string name="pointer_location_summary">Mostra attuali dati touch overlay schermo</string>
      <string name="power_charging_duration">%1$s - %2$s fino al completamento</string>
@@ -652,7 +655,6 @@ For more information, contact your admin."</string>
      <string name="select_webview_provider_title">Implementazione WebView</string>
      <string name="select_webview_provider_toast_text">Questa scelta choice non è più valida. Riprova.</string>
      <string name="settings_custom_notification">Notifiche personalizzate</string>
-     <string name="settings_package">com.android.settings</string>
      <string name="settings_toggle_position">Modifica posizione comandi</string>
      <string name="settings_toggle_position_divider_list">I comandi sopra questa barra saranno visibili</string>
      <string name="settings_toggle_position_reset">Ripristina comandi</string>

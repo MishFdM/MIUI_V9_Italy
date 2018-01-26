@@ -1003,7 +1003,6 @@ Desideri passare comunque al nuovo servizio?"</string>
      <string name="network_lte">LTE (raccomandato)</string>
      <string name="network_message">Messaggio di rete</string>
      <string name="network_operator_settings_class">com.android.phone.settings.MobileNetworkSetting</string>
-     <string name="network_operator_settings_package">com.android.phone</string>
      <string name="network_query_error">Errore durante la ricerca reti.</string>
      <string name="network_settings_auto_select_title">Non selezionare automaticamente le reti</string>
      <string name="network_settings_automatically_option">Seleziona automaticamente operatore preferito (%s)</string>
