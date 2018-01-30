@@ -550,7 +550,9 @@ Last ran on %2$s"</string>
      <string name="battery_info_status_charging_ac">(CA)</string>
      <string name="battery_info_status_charging_lower">in carica</string>
      <string name="battery_info_status_charging_usb">(USB)</string>
+     <string name="battery_info_status_charging_usb_short">In carica</string>
      <string name="battery_info_status_charging_wireless">(wireless)</string>
+     <string name="battery_info_status_charging_wireless_short">In carica</string>
      <string name="battery_info_status_discharging">Non in carica</string>
      <string name="battery_info_status_full">Carica completata</string>
      <string name="battery_info_status_label">Stato batteria:</string>
@@ -762,6 +764,7 @@ Last ran on %2$s"</string>
      <string name="bluetooth_pan_user_profile_summary_connected">Connesso a dispositivo per accesso Internet</string>
      <string name="bluetooth_pb_acceptance_dialog_text">"%1$s desidera accedere ai tuoi contatti e alla tua cronologia chiamate. Consentire l'accesso a %2$s?"</string>
      <string name="bluetooth_pb_remember_choice">Non chiedermelo più</string>
+     <string name="bluetooth_permission_request">Richiesta di autorizzazione Bluetooth</string>
      <string name="bluetooth_phonebook_request">Richiesta di accesso alla rubrica</string>
      <string name="bluetooth_pin_values_hint">Di solito 0000 o 1234</string>
      <string name="bluetooth_pin_values_hint_16_digits">Di solito 16 cifre</string>
@@ -1010,6 +1013,7 @@ Sample Rate"</string>
      <string name="checking_decryption">Verifica…</string>
      <string name="checking_find_device_status">Verifica stato Trova dispositivo\u2026</string>
      <string name="checking_for_updates">Ricerca aggiornamenti in corso\u2026</string>
+     <string name="choose_assist_title">"Scegli l'app Assistente"</string>
      <string name="choose_profile">Scegli il profilo</string>
      <string name="choose_smartcover_type">Scegli il tipo di custodia</string>
      <string name="choose_spell_checker">Scegli controllo ortografico</string>
@@ -1041,6 +1045,8 @@ Sample Rate"</string>
      <string name="cloud_restore_section_summary">Ripristino app, layout Home e impostazioni di sistema</string>
      <string name="cloud_restore_section_title">Ripristina da Mi Cloud</string>
      <string name="cmcc_hardware_version">Versione hardware</string>
+     <string name="collect_diagnostics_summary">Raccogli i dati diagnostici per la risoluzione dei problemi</string>
+     <string name="collect_diagnostics_title">Raccolta diagnostica</string>
      <string name="color_black">Nero</string>
      <string name="color_blue">Blu</string>
      <string name="color_calibration_none">Nativo</string>
@@ -1395,6 +1401,7 @@ avviso"</string>
      <string name="device_admin_add_title">Amministratore dispositivo</string>
      <string name="device_admin_settings_title">Impostazioni di amministrazione dispositivo</string>
      <string name="device_admin_status">"Questo amministratore è attivo e consente all'applicazione %1$s di eseguire le seguenti operazioni:"</string>
+     <string name="device_admin_title">Amministratore del dispositivo</string>
      <string name="device_admin_warning">"L'attivazione di questo amministratore consentirà all'applicazione %1$s di eseguire le seguenti operazioni:"</string>
      <string name="device_available_memory">Memoria disponibile</string>
      <string name="device_battery">Batteria</string>
@@ -1443,6 +1450,7 @@ avviso"</string>
      <string name="dialog_content_login">"L'aggiornamento richiede un Mi Account, vuoi proseguire?"</string>
      <string name="dialog_no">No</string>
      <string name="dialog_title_color_calibration">Preimpostazione correzione colore</string>
+     <string name="dialog_not_show_again">Non mostrare più</string>
      <string name="dialog_title_hdmi_color_calibration">Preimpostazione correzione colore</string>
      <string name="dialog_title_login">Accedi al tuo Mi Account</string>
      <string name="dialog_yes">Sì</string>
@@ -1622,9 +1630,17 @@ avviso"</string>
      <string name="enable_terminal_summary">"Abilita l'app Terminale che offre l'accesso alla shell locale"</string>
      <string name="enable_terminal_title">Terminale locale</string>
      <string name="enable_text">Attiva</string>
+     <string name="enable_webview_multiprocess">WebView multiprocesso</string>
+     <string name="enable_webview_multiprocess_desc">Esegui i renderer di WebView separatamente</string>
      <string name="enable_wifi_display">Abilita schermo wireless</string>
      <string name="enabled_by_admin">"Attivato dall'amministratore"</string>
-     <string name="enalbe_identify_iPhone">AP identification</string>
+     <string name="enalbe_identify_iPhone">Identificazione AP</string>
+     <string name="encrypt_dont_require_password">No grazie</string>
+     <string name="encrypt_dont_require_pattern">No grazie</string>
+     <string name="encrypt_dont_require_pin">No grazie</string>
+     <string name="encrypt_require_password">Richiedi la password per avviare il dispositivo</string>
+      <string name="encrypt_require_pattern">Richiedi la sequenza per avviare il dispositivo</string>
+     <string name="encrypt_require_pin">Richiedi il PIN per avviare il dispositivo</string>
      <string name="encrypt_talkback_dialog_message_password">Quando si inserisce la password per avviare il dispositivo, i servizi di accessibilità come %1$s saranno disponibili solo dopo lo sblocco.</string>
      <string name="encrypt_talkback_dialog_message_pattern">Quando si inserisce la sequenza di sblocco per avviare il dispositivo, i servizi di accessibilità come %1$s saranno disponibili solo dopo lo sblocco.</string>
      <string name="encrypt_talkback_dialog_message_pin">Quando si inserisce il codice PIN per avviare il dispositivo, i servizi di accessibilità come %1$s saranno disponibili solo dopo lo sblocco.</string>
@@ -1981,6 +1997,7 @@ Quando attivi il backup automatico, il dispositivo e i dati delle applicazioni v
      <string name="history_details_title">Dettagli utilizzo batteria</string>
      <string name="home">Impostazioni Home</string>
      <string name="home_app">App Home</string>
+     <string name="home_app_uninstall_button">Disinstalla questa applicazione</string>
      <string name="home_key">Home</string>
      <string name="home_work_profile_not_supported">Profili di lavoro non supportati</string>
      <string name="http_invoke_app">App web</string>
@@ -1995,6 +2012,7 @@ Quando attivi il backup automatico, il dispositivo e i dati delle applicazioni v
      <string name="imei_information_title">IMEI</string>
      <string name="immediately_destroy_activities">Non conservare attività</string>
      <string name="immediately_destroy_activities_summary">"Elimina ogni attività appena l'utente la interrompe"</string>
+     <string name="importance_reset">Ripristina</string>
      <string name="inactive_app_active_summary">Attivata. Tocca per disattivare.</string>
      <string name="inactive_app_inactive_summary">Disattivata. Tocca per attivare.</string>
      <string name="inactive_apps_title">App disattivate</string>
@@ -2145,11 +2163,14 @@ Quando attivi il backup automatico, il dispositivo e i dati delle applicazioni v
      <string name="keywords_wifi">wifi wi-wi rete connessione</string>
      <string name="keywords_wifi_calling">wifi wi-fi chiamata chiamare</string>
      <string name="keywords_write_settings">scrivere modifiche alle impostazioni di sistema</string>
+     <string name="label_global_roaming_settings">Impostazioni Roaming</string>
      <string name="language_keyboard_settings_title">Lingua e tastiera</string>
      <string name="language_picker_title">Lingua</string>
      <string name="language_settings">Lingua e tastiera</string>
+     <string name="large_font">Grande</string>
      <string name="last_synced">Ultima sincronizzazione: %1$s</string>
      <string name="last_time_used_label">Ultimo utilizzo</string>
+     <string name="later">DOPO</string>
      <string name="lattice_smartcover_title">Cover frontale in lattice</string>
      <string name="launch_by_default">Apri predefinita</string>
      <string name="launch_camera">Apri fotocamera</string>
@@ -2179,6 +2200,7 @@ Quando attivi il backup automatico, il dispositivo e i dati delle applicazioni v
      <string name="led_frequence_summary">"Imposta l'intervallo di illuminazione del LED"</string>
      <string name="led_pulse_summary">Lampeggia quando ricevi nuove notifiche</string>
      <string name="led_settings">LED di notifica</string>
+     <string name="legacy_dhcp_client_summary">Utilizza il client DHCP da Lollipop anziché il nuovo client DHCP Android.</string>
      <string name="legal_information">Informazioni legali</string>
      <string name="legal_workday">Giorni lavorativi</string>
      <string name="legal_workday_invalidate">Lun-Ven (info festività scadute)</string>
@@ -2237,6 +2259,7 @@ Quando attivi il backup automatico, il dispositivo e i dati delle applicazioni v
      <string name="location_gps">Satelliti GPS</string>
      <string name="location_high_battery_use">Elevato utilizzo della batteria</string>
      <string name="location_low_battery_use">Basso utilizzo della batteria</string>
+     <string name="location_menu_scanning">Scansione</string>
      <string name="location_mode_battery_saving_description">Usa reti Wi-Fi e cellulare per stabilire la posizione</string>
      <string name="location_mode_battery_saving_title">Basso consumo</string>
      <string name="location_mode_high_accuracy_description">Usa reti GPS, Wi-Fi e cellulare per stabilire la posizione</string>
@@ -2506,12 +2529,14 @@ Ci sono altri utenti presenti su questo dispositivo.
      <string name="max_cpu8_info">"Octa-core Max "</string>
      <string name="max_fingerprint_number_reached">Non è possibile aggiungere più di 5 impronte digitali. Per aggiungere una nuova impronta, elimina prima qualcuna delle esistenti.</string>
      <string name="maximum_memory_use">Massimo memoria utilizzata</string>
+     <string name="mbn_version">Versione MBN</string>
      <string name="media_button">Tasto media</string>
      <string name="media_category">Multimedia</string>
      <string name="media_feedback_enable_title">Vibra a ritmo</string>
      <string name="media_volume_option_title">Media</string>
      <string name="media_volume_summary">Imposta il volume di musica e video</string>
      <string name="media_volume_title">Applicazioni multimediali</string>
+     <string name="medium_font">Medio</string>
      <string name="mem_details_title">Dettagli memoria</string>
      <string name="mem_state_subtitle">Statistiche memoria</string>
      <string name="mem_use_free_type">Libera</string>
@@ -2558,7 +2583,8 @@ Ci sono altri utenti presenti su questo dispositivo.
      <string name="menu_duration_3h">3 ore</string>
      <string name="menu_duration_6h">6 ore</string>
      <string name="menu_hide_system">Nascondi sistema</string>
-     <string name="menu_key">Menu</string>
+     <string name="menu_item_show_more">Mostra altro</string>
+     <string name="menu_key">Menù</string>
      <string name="menu_new">Nuovo APN</string>
      <string name="menu_proc_stats_duration">Durata</string>
      <string name="menu_proc_stats_type">Tipo di statistiche</string>
@@ -2578,11 +2604,13 @@ Ci sono altri utenti presenti su questo dispositivo.
      <string name="mi_shopping_mall">Mi Store</string>
      <string name="misc_files">File vari</string>
      <string name="misc_files_selected_count">selezionati %1$d di %2$d</string>
+     <string name="misc_files_selected_count_bytes">%1$s su %2$s</string>
      <string name="miui_allow_alarm">Sveglia</string>
      <string name="miui_allow_light">LED di notifica</string>
      <string name="miui_allow_music">Musica</string>
      <string name="miui_allow_vibrate">Vibrazione</string>
      <string name="miui_data_usage_menu_metered">Hotspot dati cellulare</string>
+     <string name="miui_enable_service_title">Il servizio eseguirà queste azioni:</string>
      <string name="miui_experience_optimization">Attiva ottimizzazione MIUI</string>
      <string name="miui_lab_feature_applied">Applicato</string>
      <string name="miui_lab_feature_off">Disattivato</string>
@@ -2945,6 +2973,8 @@ ed esegui il software."</string>
      <string name="one_userkey">una chiave utente</string>
      <string name="onehour">30 minuti</string>
      <string name="onekey_migrate">Trasferisci</string>
+     <string name="online_resource_entry">Risorse online</string>
+     <string name="only_one_home_message">Le impostazioni Home saranno nascoste finché non installerai un'altra applicazione.</string>
      <string name="onscreen_keyboard_settings_summary">Impostazioni tastiera sullo schermo</string>
      <string name="open_demo_mode">Open</string>
      <string name="open_demo_mode_warning_message">When Demo mode is on, the clock in the status bar will stop, battery and signal icons will be displayed as full. You can turn Demo mode off or reboot the device to change this.</string>
@@ -3450,6 +3480,7 @@ UT Interface: %5$s"</string>
      <string name="reset_shortcut_manager_throttling_complete">ShortcutManager rate-limiting has been reset</string>
      <string name="resetting_second_space_passwd">Reimpostazione password spazio Secondario</string>
      <string name="resolver_settings_label">Ordina</string>
+     <string name="resource_ringtone_volume_mute">La tua suoneria è attualmente silenziata</string>
      <string name="restore_default_apn">Ripristino delle impostazioni APN predefinite…</string>
      <string name="restore_default_apn_completed">Ripristino delle impostazioni APN predefinite completato.</string>
      <string name="restr_pin_enter_admin_pin">Inserisci PIN amministratore</string>
@@ -3467,6 +3498,7 @@ UT Interface: %5$s"</string>
      <string name="restriction_settings_title">Limitazioni</string>
      <string name="restriction_wifi_config_summary">Consenti la modifica di impostazioni Wi-Fi e Dati cellulare</string>
      <string name="restriction_wifi_config_title">Wi-Fi e Dati cellulare</string>
+     <string name="ring_volume_option_title">Volume suoneria</string>
      <string name="retail_demo_reset_message">Enter password to perform factory reset in demo mode</string>
      <string name="retail_demo_reset_next">Next</string>
      <string name="retail_demo_reset_title">Password required</string>
@@ -3522,8 +3554,8 @@ Questa impostazione influisce su tutti gli utenti di questo dispositivo."</strin
      <string name="saved_wifi_delete">Elimina</string>
      <string name="scan_list_label">Risultati scansione:</string>
      <string name="screen">Schermo</string>
-     <string name="screen_button">Tasti a a schermo</string>
-     <string name="screen_button_tips">Scorri in basso per nascondere i tasti a schermo</string>
+     <string name="screen_button">Tasti sullo schermo</string>
+     <string name="screen_button_tips">Scorri in basso per nascondere i tasti sullo schermo</string>
      <string name="screen_cells_config_title">Configurazione spazio schermo</string>
      <string name="screen_color_and_optimize">Colori e contrasto</string>
      <string name="screen_color_and_optimize_disabled">Impossibile regolare la temperatura del colore in modalità Lettura</string>
@@ -3791,6 +3823,8 @@ Come usare Mantieni su schermo:
      <string name="search_privacy_policy">Informativa sulla privacy</string>
      <string name="search_privacy_settings">Backup e reset;Backup e reset;Backup;reset;Back up</string>
      <string name="search_radio_controls_title">Altro;Wireless</string>
+     <string name="search_recents_queries_label">Ricerche nei recenti</string>
+     <string name="search_results_label">Risultati</string>
      <string name="search_results_title">Impostazioni</string>
      <string name="search_ring_volume_option_title">Volumi;Volume;Suoneria e notifiche;Suoneria;Suonerie;Sveglia;Musica</string>
      <string name="search_ringtone_title">Suoneria telefono;Suoneria;Suonerie</string>
@@ -4029,6 +4063,7 @@ Note: You can’t use your fingerprint to unlock this device. For more informati
      <string name="show_background_processes">Mostra processi nella cache</string>
      <string name="show_connected_devices_summary">Mostra dispositivi collegati</string>
      <string name="show_connected_devices_title">Dispositivi collegati</string>
+     <string name="show_cpu_usage">"Mostra l'utilizzo della CPU"</string>
      <string name="show_dev_already">Non è necessario, sei già uno sviluppatore.</string>
      <string name="show_dev_on">Ora sei uno sviluppatore.</string>
      <string name="show_fc">App chiuse forzatamente</string>
@@ -4041,7 +4076,7 @@ Note: You can’t use your fingerprint to unlock this device. For more informati
      <string name="show_ime_summary">Mantienilo sullo schermo mentre la tastiera fisica è attiva</string>
      <string name="show_magnifier_when_input">"Lente d'ingrandimento testo"</string>
      <string name="show_mem_info_title">Mostra info memoria</string>
-     <string name="show_menu">Mostra menu</string>
+     <string name="show_menu">Mostra menù</string>
      <string name="show_non_rect_clip">Debug operazioni ritaglio non rettangolare</string>
      <string name="show_notification_channel_warnings">Show notification channel warnings</string>
      <string name="show_notification_channel_warnings_summary">Displays on-screen warning when an app posts a notification without a valid channel</string>
@@ -4053,6 +4088,7 @@ Note: You can’t use your fingerprint to unlock this device. For more informati
      <string name="show_running_services">Mostra servizi in esecuzione</string>
      <string name="show_screen_updates">Aggiornamenti superficie</string>
      <string name="show_screen_updates_summary">"Flash delle superfici delle finestre all'aggiornamento"</string>
+     <string name="show_silently">Mostra silenziosamente</string>
      <string name="show_silently_summary">Non emettere suoni, vibrazioni, non mostrare anteprime in questa schermata.</string>
      <string name="show_touches">Mostra tocchi</string>
      <string name="show_touches_summary">Mostra feedback visivi per i tocchi</string>
