@@ -2974,7 +2974,7 @@ ed esegui il software."</string>
      <string name="onehour">30 minuti</string>
      <string name="onekey_migrate">Trasferisci</string>
      <string name="online_resource_entry">Risorse online</string>
-     <string name="only_one_home_message">Le impostazioni Home saranno nascoste finché non installerai un'altra applicazione.</string>
+     <string name="only_one_home_message">"Le impostazioni Home saranno nascoste finché non installerai un'altra applicazione."</string>
      <string name="onscreen_keyboard_settings_summary">Impostazioni tastiera sullo schermo</string>
      <string name="open_demo_mode">Open</string>
      <string name="open_demo_mode_warning_message">When Demo mode is on, the clock in the status bar will stop, battery and signal icons will be displayed as full. You can turn Demo mode off or reboot the device to change this.</string>
@@ -3503,7 +3503,6 @@ UT Interface: %5$s"</string>
      <string name="retail_demo_reset_next">Next</string>
      <string name="retail_demo_reset_title">Password required</string>
      <string name="retry">Riprova</string>
-     <string name="ring_volume_option_title">Suoneria</string>
      <string name="ring_volume_title">Volume suoneria</string>
      <string name="ringtone_slot_setting_title">Impostazioni scheda singola</string>
      <string name="ringtone_title">Suoneria</string>
