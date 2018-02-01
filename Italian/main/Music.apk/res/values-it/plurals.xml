@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-     <plurals name="NPlaylist_delete_confirm">
-        <item quantity="other">Eliminare %d playlist?</item>
-        <item quantity="one">Eliminare %d playlist?</item>
-     </plurals>
      <plurals name="Nalbum_total_songs">
         <item quantity="other">%d brani totale</item>
-        <item quantity="zero">%d brano totale</item>
         <item quantity="one">%d brano totale</item>
      </plurals>
      <plurals name="Nartists_count">
@@ -30,7 +25,8 @@
         <item quantity="one">%d gruppo</item>
      </plurals>
      <plurals name="Nnew_tracks_count">
-        <item quantity="other">%d nuovi</item>
+        <item quantity="other">%d nuovi brani</item>
+		<item quantity="one">%d nuovo brano</item>
      </plurals>
      <plurals name="Nquit_warning">
         <item quantity="other">La riproduzione terminerà tra %d minuti</item>
@@ -41,9 +37,10 @@
         <item quantity="one">"Associazione album e testi interrotta. Vuoi annullare l'ottimizzazione delle informazioni album e testi per %d brano?"</item>
      </plurals>
      <plurals name="Nsong_group_detail_subtitle">
-        <item quantity="other">Creato il %1$s | totale %2$d brani</item>
-        <item quantity="zero">Creato il %1$s | totale %2$d brani</item>
-        <item quantity="one">Creato il %1$s | totale %2$d brano</item>
+        <item quantity="other">Creato il %1$s
+		sul totale %2$d brani</item>
+        <item quantity="one">Creato il %1$s
+		sul totale %2$d brano</item>
      </plurals>
      <plurals name="Nstop_backup_songs_message">
         <item quantity="other">Non è stato eseguito il backup di %d brani su Mi Cloud. Interrompere?</item>
@@ -116,18 +113,6 @@
      <plurals name="multichoice_title">
         <item quantity="other">%d elementi selezionati</item>
         <item quantity="one">%d elemento selezionato</item>
-     </plurals>
-     <plurals name="notif_title_multiple_downloading">
-        <item quantity="other">Downloading %1$d songs</item>
-        <item quantity="one">Downloading %1$d song</item>
-     </plurals>
-     <plurals name="notification_download_failed_more">
-        <item quantity="other">"Couldn't download %1$d songs"</item>
-        <item quantity="one">"Couldn't download %1$d song"</item>
-     </plurals>
-     <plurals name="notification_download_success_more">
-        <item quantity="other">%1$d songs</item>
-        <item quantity="one">%1$d song</item>
      </plurals>
      <plurals name="reader_count">
         <item quantity="other">%d follower</item>
