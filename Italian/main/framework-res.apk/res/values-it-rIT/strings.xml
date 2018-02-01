@@ -454,7 +454,7 @@ utilizzando %s"</string>
      <string name="force_close">OK</string>
      <string name="foreground_service_app_in_background">%1$s è in esecuzione in background</string>
      <string name="foreground_service_apps_in_background">%1$d sono in esecuzione in background</string>
-     <string name="foreground_service_tap_for_details">Tocca per maggiori dettagli sulla batteria e utilizzo dati</string>
+     <string name="foreground_service_tap_for_details">Tocca per dettagli sulla batteria e utilizzo dati</string>
      <string name="forward_intent_to_owner">"Stai utilizzando l'app al di fuori del tuo profilo di lavoro"</string>
      <string name="forward_intent_to_work">"Stai utilizzando l'app nel tuo profilo di lavoro"</string>
      <string name="gadget_host_error_inflating">Aggiunta del widget non riuscita.</string>
