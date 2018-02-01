@@ -214,7 +214,7 @@
      <string name="didi_not_installed">Installa DiDi per utilizzare questa scheda</string>
      <string name="didi_other_dest">Altre destinazioni</string>
      <string name="didi_price">Tariffa</string>
-     <string name="didi_price_unit">CNY</string>
+     <string name="didi_price_unit">%sCNY</string>
      <string name="didi_target">Destinazione     </string>
      <string name="didi_taximeter">Calcola tariffa taxi</string>
      <string name="didi_trip">Taxi</string>
@@ -712,12 +712,6 @@ Verifica il tuo numero di tracciabilità"</string>
      <string name="payment_clear_records_failed">Impossibile eliminare cronologia pagamenti</string>
      <string name="payment_clear_records_success">Cronologia pagamenti eliminata</string>
      <string name="payment_date_time_picker_dialog_title">Imposta data e ora</string>
-     <string name="payment_dialog_chooser_cancel">Indietro</string>
-     <string name="payment_dialog_chooser_message_footer">Nota: tutte le informazioni di pagamento verranno memorizzate in modo sicuro sul tuo telefono. Non verranno sincronizzate con Mi Cloud o utilizzate in nessun altro modo.</string>
-     <string name="payment_dialog_chooser_message_header">Seleziona sorgente per \"I miei pagamenti\"</string>
-     <string name="payment_dialog_chooser_ok">Abilita</string>
-     <string name="payment_dialog_chooser_title">I miei pagamenti</string>
-     <string name="payment_dialog_chooser_toast">Seleziona almeno una fonte</string>
      <string name="payment_dialog_notice_ok">Fatto</string>
      <string name="payment_dialog_notice_title">Attenzione</string>
      <string name="payment_guide_hint">Raccogli le informazioni di pagamento da Messaggi ed altre app.</string>
@@ -996,6 +990,14 @@ Verifica il tuo numero di tracciabilità"</string>
      <string name="unusual_weather_open">Abilita avvisi meteo</string>
      <string name="unusual_weather_setting_brief">Ricevi avvisi meteo in caso di condizioni meteorologiche pericolose in arrivo nella tua posizione.</string>
      <string name="unusual_weather_setting_tip">"Le città utilizzate per diramare avvisi possono cambiare nell'app meteo."</string>
+     <string name="upgrade_being">In fase di installazione,sta per essere riavviato</string>
+     <string name="upgrade_find">Nuova versione</string>
+     <string name="upgrade_later">Più tardi</string>
+     <string name="upgrade_log_default">"1.Ottimizza le prestazioni;
+2.Risolve problemi noti"</string>
+     <string name="upgrade_log_subtitle">(Già scaricato con il Wi-Fi)</string>
+     <string name="upgrade_log_title">Informazioni nuova versione</string>
+     <string name="upgrade_now">Installa ora</string>
      <string name="uploads_disabled">Impossibile inviare il file</string>
      <string name="user_id">ID utente: %s</string>
      <string name="user_notice_title">Attenzione</string>
@@ -1025,12 +1027,4 @@ Verifica il tuo numero di tracciabilità"</string>
      <string name="year_month_day_format">dd/MM/yyyy</string>
      <string name="yellow_page_website">Sito ufficiale</string>
      <string name="yesterday">Ieri</string>
-    <string name="upgrade_being">In fase di installazione,sta per essere riavviato</string>
-    <string name="upgrade_find">Nuova versione</string>
-    <string name="upgrade_later">Più tardi</string>
-    <string name="upgrade_log_default">"1.Ottimizza le prestazioni;
-2.Risolve problemi noti"</string>
-    <string name="upgrade_log_subtitle">(Già scaricato con il Wi-Fi)</string>
-    <string name="upgrade_log_title">Informazioni nuova versione</string>
-    <string name="upgrade_now">Installa ora</string>
 </resources>
