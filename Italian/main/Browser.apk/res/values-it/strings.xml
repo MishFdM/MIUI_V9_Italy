@@ -496,7 +496,7 @@ per vedere qui le schede cloud aperte su altri dispositivi"</string>
      <string name="mw_date_picker_dialog_set">Imposta</string>
      <string name="mw_date_picker_dialog_title">Imposta data</string>
      <string name="mw_date_time_picker_dialog_title">Imposta data e orario</string>
-     <string name="mw_external_payment_app_leave_incognito_warning">Uscire dalla modalità incognito per pagare con un'applicazione esterna. Continuare?</string>
+     <string name="mw_external_payment_app_leave_incognito_warning">Uscire dalla modalità incognito per pagare con un\'applicazione esterna. Continuare?</string>
      <string name="mw_find_next">Trova il successivo</string>
      <string name="mw_find_previous">>Trova il precedente</string>
      <string name="mw_http_post_warning">La pagina che stai cercando utilizza informazioni che hai inserito. Ritornare a quella pagina potrebbe ripetere inviare di nuovo le stesse informazioni. Vuoi continuare?</string>
@@ -515,7 +515,7 @@ Sei scuro di voler uscire da questa pagina?"</string>
      <string name="mw_login_dialog_password_field">Password</string>
      <string name="mw_login_dialog_title">Autenticazione richiesta</string>
      <string name="mw_login_dialog_username_field">Nome utente</string>
-     <string name="mw_low_memory_error">Impossibile completare l'operazione precedente per memoria insufficiente</string>
+     <string name="mw_low_memory_error">Impossibile completare l\'operazione precedente per memoria insufficiente</string>
      <string name="mw_media_player_error_button">OK</string>
      <string name="mw_media_player_error_text_invalid_progressive_playback">Spiacente, lo streaming di questo video non può essere eseguito su questo dispositivo.</string>
      <string name="mw_media_player_error_text_unknown">Spiacente, questo video non può essere riprodotto.</string>
