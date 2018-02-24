@@ -560,7 +560,7 @@ Sei scuro di voler uscire da questa pagina?"</string>
      <string name="mw_miuichromium_error_page_problem_cannot_open_page_reason_connection_closed">La pagina non può essere aperta. %s0 ha interrotto la connessione.</string>
      <string name="mw_miuichromium_error_page_problem_cannot_open_page_reason_connection_refused">La pagina non può essere aperta. %s0 ha rifiutato la connessione.</string>
      <string name="mw_miuichromium_error_page_problem_cannot_open_page_reason_connection_reset">La pagina non può essere aperta. La connessione è stata annullata.</string>
-a     <string name="mw_miuichromium_error_page_problem_cannot_open_page_reason_site_unreachable">La pagina non può essere aperta. %s0 non è al momento raggiungibile.</string>
+     <string name="mw_miuichromium_error_page_problem_cannot_open_page_reason_site_unreachable">La pagina non può essere aperta. %s0 non è al momento raggiungibile.</string>
      <string name="mw_miuichromium_error_page_problem_cannot_open_page_reason_unsafe_redirect">La pagina non può essere caricata. %s0 ti sta redirigendo in modo non sicuro.</string>
      <string name="mw_miuichromium_error_page_problem_cannot_reach_site_reason_name_collision">Il sito non può essere raggiunto. Il sito nella intranet ha lo stesso URL di un sito web esterno.</string>
      <string name="mw_miuichromium_error_page_problem_cannot_reach_site_reason_name_not_resolved">Il sito non può essere raggiunto. Indirizzo DNS non trovato per %s0 ."</string>
