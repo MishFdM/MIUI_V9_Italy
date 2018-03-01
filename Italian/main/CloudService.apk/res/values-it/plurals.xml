@@ -37,8 +37,8 @@
         <item quantity="one">%d nota</item>
      </plurals>
      <plurals name="dirty_personalAssistant_count">
-        <item quantity="other">%d App vault entries</item>
-        <item quantity="one">%d App vault entry</item>
+        <item quantity="other">%d elementi valore app</item>
+        <item quantity="one">%d elemento valore app</item>
      </plurals>
      <plurals name="dirty_recorder_count">
         <item quantity="other">%d registrazioni</item>
