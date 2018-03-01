@@ -125,7 +125,6 @@ Lunghezza: %s
      <string name="sound_off">Suono disattivo</string>
      <string name="sound_on">Suono attivo</string>
      <string name="spu_delay">Ritardo sottotitoli</string>
-     <string name="status_bar_notification_info_overflow">999+</string>
      <string name="subtitle">Sottotitoli</string>
      <string name="subtitle_color_text">Colore sottotitoli</string>
      <string name="subtitle_font_tips">Dimensione testo sottotitoli</string>

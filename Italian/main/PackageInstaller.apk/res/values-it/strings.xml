@@ -396,7 +396,6 @@
      <string name="show_touches">Mostra tocchi</string>
      <string name="show_touches_summary">Mostra feedback visivi per i tocchi</string>
      <string name="simulate_color_space">Simula spazio colore</string>
-     <string name="status_bar_notification_info_overflow">999+</string>
      <string name="strict_mode">Attiva StrictMode</string>
      <string name="strict_mode_summary">Flash dello schermo in caso di lunghe operazioni sul thread principale</string>
      <string name="system_warning">Se neghi questa autorizzazione, le funzionalità di base del dispositivo potrebbero non funzionare più come previsto.</string>

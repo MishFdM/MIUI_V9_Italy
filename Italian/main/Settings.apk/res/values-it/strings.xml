@@ -3905,7 +3905,6 @@ Come usare Mantieni su schermo:
      <string name="security_encryption_attention_3">"Dovrai impostare una nuova password della Schermata di blocco."</string>
      <string name="security_encryption_attention_4">"Assicurati di ricordare la tua password della Schermata di blocco, altrimenti dovrai eseguire un ripristino completo e perderai tutti i dati sul dispositivo."</string>
      <string name="security_encryption_attention_info">Puoi criptare account, impostazioni, app scaricate e relativi dati, file multimediali, e altri file.</string>
-     <string name="security_encryption_attention_symbol">•</string>
      <string name="security_encryption_attention_title">Importante</string>
      <string name="security_encryption_close_dialog_info">Scegliendo di non criptare il dispositivo usando la password della Schermata di blocco potrebbe rendere non utilizzabili alcuni dei servizi di Google.</string>
      <string name="security_encryption_close_dialog_title">Ritorna alla protezione predefinita mediante password</string>
@@ -4230,7 +4229,6 @@ Questo è reso possibile da credenziali attendibili installate sul tuo dispositi
      <string name="status_bar_app_enable_keyguard">Schermata di blocco</string>
      <string name="status_bar_app_enable_message">Badge</string>
      <string name="status_bar_key_position_custom">Personalizza posizione tasti</string>
-     <string name="status_bar_notification_info_overflow">999+</string>
      <string name="status_bar_screen_button_force_immersive_desc">"Scorri da basso verso l'altro dello schermo per mostrare i tasti virtuali"</string>
      <string name="status_bar_screen_button_key_force_immersive">Nascondi tasti virtuali</string>
      <string name="status_bar_screen_key_back">Tasto indietro</string>

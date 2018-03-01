@@ -646,7 +646,6 @@ Dopo aver copiato \"traccia.mp3\" sulla scheda SD, tocca lo schermo per riprodur
      <string name="start_far">Inizia FAR</string>
      <string name="start_frr">Inizia FRR</string>
      <string name="status">Stato</string>
-     <string name="status_bar_notification_info_overflow">999+</string>
      <string name="status_failed">Uno o più test sono falliti</string>
      <string name="status_passed">Passato</string>
      <string name="status_running">Esecuzione</string>

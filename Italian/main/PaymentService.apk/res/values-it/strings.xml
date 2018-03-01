@@ -52,7 +52,6 @@
      <string name="mibi_button_cancel">Annulla</string>
      <string name="mibi_button_confirm">Conferma</string>
      <string name="mibi_button_count_down_finish">OK(%1$s)</string>
-     <string name="mibi_button_count_down_reget">%1$s</string>
      <string name="mibi_button_custom_service_phone">OK</string>
      <string name="mibi_button_next">Avanti</string>
      <string name="mibi_button_pay">Conferma</string>
@@ -62,7 +61,6 @@
      <string name="mibi_change_security_lock">Altri blocco schermo</string>
      <string name="mibi_check_giftcard">Mostra coupon</string>
      <string name="mibi_click_retry">%1$s, tocca per riprovare</string>
-     <string name="mibi_colon">": "</string>
      <string name="mibi_deduct_goods_name">Prodotto</string>
      <string name="mibi_deduct_open_prompt">%1$s sarà in grado di ricarica automaticamente %2$s senza verifica.Puoi disattivare questa funzione in %1$s</string>
      <string name="mibi_deduct_order_price">Prezzo</string>
@@ -106,7 +104,6 @@ Controlla la tua data locale e riprova."</string>
      <string name="mibi_error_common_summary">Errore di sistema. Riprova più tardi.</string>
      <string name="mibi_error_deduct">Impossibile attivare il protocollo di pagamento automatico</string>
      <string name="mibi_error_expired_summary">Il tuo ordine è scaduto</string>
-     <string name="mibi_error_frozen_service_num">400-100-2234</string>
      <string name="mibi_error_frozen_summary">Your account has been frozen, please contact our customer service center.</string>
      <string name="mibi_error_has_bought_summary">Hai già acquistato questo prodotto.</string>
      <string name="mibi_error_illegal_order_summary">Errore ordine. Riprova più tardi</string>
