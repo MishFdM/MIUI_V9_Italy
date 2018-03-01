@@ -189,7 +189,7 @@
      <string name="common_google_play_services_update_text">%1$s non funzionerà finché non aggiorni i servizi Google Play.</string>
      <string name="common_google_play_services_update_title">Aggiorna i servizi Google Play</string>
      <string name="common_google_play_services_updating_text">%1$s non funzionerà senza i servizi Google Play che sotto attualmente in aggiornamento.</string>
-     <string name="common_google_play_services_wear_update_text">E' necessaria una nuova versione dei servizi Google Play. Verrà aggiornato a breve.</string>
+     <string name="common_google_play_services_wear_update_text">"E' necessaria una nuova versione dei servizi Google Play. Verrà aggiornato a breve."</string>
      <string name="common_open_on_phone">Apri sul telefono</string>
      <string name="common_signin_button_text">Accedi</string>
      <string name="common_signin_button_text_long">Accedi con Google</string>
