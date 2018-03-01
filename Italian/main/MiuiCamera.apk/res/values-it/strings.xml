@@ -7,7 +7,7 @@
      <string name="accessibility_effect_mode_button">Effetti</string>
      <string name="accessibility_flash_mode_button">Pulsante Flash</string>
      <string name="accessibility_hdr">Tasto HDR</string>
-     <string name="accessibility_intent_done_apply">Done</string>
+     <string name="accessibility_intent_done_apply">Fatto</string>
      <string name="accessibility_mode_dismiss_button">Pulsante di selezione ravvicinata</string>
      <string name="accessibility_peak">Messa a fuoco Peak</string>
      <string name="accessibility_portrait_button">Modalità ritratto</string>
@@ -31,7 +31,7 @@
      <string name="button_normal_video_title">Video</string>
      <string name="camera_disabled">La fotocamera è stata disabilitata.</string>
      <string name="camera_error_title">Errore fotocamera</string>
-     <string name="camera_facedetection_sub_option_hint">Experimental option is now available</string>
+     <string name="camera_facedetection_sub_option_hint">Opzione sperimentale disponibile</string>
      <string name="camera_label">Fotocamera</string>
      <string name="camera_mode_options">Modalità</string>
      <string name="camera_setting">Impostazioni fotocamera</string>
@@ -82,9 +82,9 @@
      <string name="dual_camera_use_hint">"La modalità Dual Camera permette di esaltare il soggetto in primo piano.
 Il soggetto non deve essere più lontano di 2 metri."</string>
      <string name="edit_eye_large">Occhi grandi</string>
-     <string name="edit_face_ruddy">Ruddy</string>
-     <string name="edit_face_slender">Slender</string>
-     <string name="edit_skin_smooth">Smooth</string>
+     <string name="edit_face_ruddy">Rossastro</string>
+     <string name="edit_face_slender">Sottile</string>
+     <string name="edit_skin_smooth">Morbido</string>
      <string name="edit_skin_white">Tono</string>
      <string name="empty">" "</string>
      <string name="error_fail_to_start_audio_capture">"Impossibile registrare l'audio: il microfono potrebbe essere in uso da un'altra app."</string>
@@ -111,9 +111,8 @@ Il soggetto non deve essere più lontano di 2 metri."</string>
      <string name="face_beauty_intelligent_level_3">Alto</string>
      <string name="face_beauty_smart">Intelligente</string>
      <string name="face_score_info">Punto: %.1f</string>
-     <string name="front_camera_hint_text_place">"Taking selfies will be easier
-if you rotate your phone"</string>
-     <string name="front_camera_hint_text_rotate">Rotate your phone</string>
+     <string name="front_camera_hint_text_place">"Fare un selfie sarà più facile se ruoti il telefono"</string>
+     <string name="front_camera_hint_text_rotate">Ruota il tuo telefono</string>
      <string name="hine_hht">"Con poca luce ambientale, verranno scattate foto multiple
 per la costruzione di uno scatto con il minimo rumore."</string>
      <string name="hint_device_water_mark">Il logo del dispositivo verrà aggiunto automaticamente.</string>
@@ -185,7 +184,7 @@ per rendere il tuo corpo ancor più chiaro e meraviglioso"</string>
      <string name="pref_camera_beautify_entry_low">Basso</string>
      <string name="pref_camera_beautify_entry_normal">Medio</string>
      <string name="pref_camera_beauty_deep">beauty deep</string>
-     <string name="pref_camera_bokeh_title">Portrait</string>
+     <string name="pref_camera_bokeh_title">Verticale</string>
      <string name="pref_camera_coloreffect_entry_aqua" />
      <string name="pref_camera_coloreffect_entry_big_face">Diffuso</string>
      <string name="pref_camera_coloreffect_entry_blackwhite">B/N</string>
@@ -233,7 +232,7 @@ per rendere il tuo corpo ancor più chiaro e meraviglioso"</string>
      <string name="pref_camera_exposuretime_entry_8s">8s</string>
      <string name="pref_camera_exposuretime_entry_auto">Auto</string>
      <string name="pref_camera_face_info_watermark_title">Aggiungi età sulla foto</string>
-     <string name="pref_camera_facedetection_auto_hidden_title">Face detection auto hidden</string>
+     <string name="pref_camera_facedetection_auto_hidden_title">Rilevamento viso nascosto in automatico</string>
      <string name="pref_camera_facedetection_title">Rileva volti</string>
      <string name="pref_camera_flashmode_entry_auto">Auto</string>
      <string name="pref_camera_flashmode_entry_off">Disattivata</string>
@@ -292,7 +291,7 @@ per rendere il tuo corpo ancor più chiaro e meraviglioso"</string>
      <string name="pref_camera_multilevel_entry_middle">Medio (Default)</string>
      <string name="pref_camera_multilevel_entry_normal">Normale</string>
      <string name="pref_camera_panoramamode_title">Panorama</string>
-     <string name="pref_camera_parallel_process_enable_title">Enable Picture Parallel Process</string>
+     <string name="pref_camera_parallel_process_enable_title">Abilita processo immagine parallela</string>
      <string name="pref_camera_peak_entry_off">Disattivato</string>
      <string name="pref_camera_peak_entry_on">Attivato</string>
      <string name="pref_camera_peak_title">Messa a fuoco Peak</string>
@@ -477,7 +476,7 @@ per rendere il tuo corpo ancor più chiaro e meraviglioso"</string>
      <string name="user_agreement2">Termini del Servizio</string>
      <string name="user_agreement4">Informativa Privacy</string>
      <string name="user_notice_identify_summary_format">"Utilizzando questo servizio accetti i %1$s e %2$s di Xiaomi.</string>
-     <string name="user_notice_title">Termimi e condizioni</string>
+     <string name="user_notice_title">Termini e condizioni</string>
      <string name="video_camera_label">Videocamera</string>
      <string name="video_effect_entry_blackwhite">B&amp;N</string>
      <string name="video_effect_entry_bygone">Bygone</string>

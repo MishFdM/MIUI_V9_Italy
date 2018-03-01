@@ -4,7 +4,7 @@
      <string name="accept_or_deny">%1$s album condivisi, %2$s con te.</string>
      <string name="add_automatically_alert_msg">Aggiungere automaticamente le foto da \"%1$s\" a questo album?</string>
      <string name="add_automatically_alert_title">Aggiungi automaticamente le foto</string>
-     <string name="add_secret_ensure_title">Hide</string>
+     <string name="add_secret_ensure_title">Nascondi</string>
      <string name="add_sharer">Aggiungi partecipante alla condivisione</string>
      <string name="add_to_album">"Aggiungi all'album"</string>
      <string name="add_to_album_bulk_result">%d fallito</string>
@@ -193,7 +193,7 @@
      <string name="cannot_send_message">Impossibile inviare il messaggio</string>
      <string name="cannot_send_message_reason">Il messaggio non contiene destinatari validi.</string>
      <string name="cast_devices_unavailable_desc">Assicurati che questo dispositivo ad alMake sure both this device and the projector are connected to the same Wi-Fi network</string>
-     <string name="cast_devices_unavailable_title">"Couldn't find projector"</string>
+     <string name="cast_devices_unavailable_title">Proiettore non trovato</string>
      <string name="change_to_face_mode">Ordina per contatto</string>
      <string name="change_to_photo_mode">Ordina per album</string>
      <string name="change_to_visible">Ripristinare questa persona?</string>
@@ -201,7 +201,7 @@
      <string name="choose_owner_relation">Relazione</string>
      <string name="choose_people">Scegli Album volto</string>
      <string name="choose_some_people">Scegli Album volto che sia %s</string>
-     <string name="cityname_1">Prefetture autonome Aba Tibetan and Qiang</string>
+     <string name="cityname_1">Prefettura autonoma Aba Tibetan e Qiang</string>
      <string name="cityname_10">Anshun</string>
      <string name="cityname_100">Prefettura autonoma Haixi Mongolia Tibetan</string>
      <string name="cityname_101">Handan</string>
@@ -593,8 +593,8 @@
      <string name="cleaner_slim_description">Mantieni le foto ottimizzate sul dispositivo. I file originali verranno mantenuti su Mi Cloud.</string>
      <string name="cleaner_slim_start">Ottimizza</string>
      <string name="cleaner_slim_title">Ottimizza foto</string>
-     <string name="cleaner_space_description">can be freed up</string>
-     <string name="cleaner_space_detail_description">Clear photos in your Gallery to free up storage space</string>
+     <string name="cleaner_space_description">possono essere liberati</string>
+     <string name="cleaner_space_detail_description">Cancella alcune foto nella Galleria per liberare spazio</string>
      <string name="cleaner_stop_scan">Stop scanning</string>
      <string name="click_download_gif">Tocca per scaricare GIF</string>
      <string name="click_top_right">"Tocca l'icona in alto a destra"</string>
@@ -971,13 +971,13 @@ Scatta più foto ai tuoi amici!"</string>
      <string name="main_discard_positive_btn">Salva ed esci</string>
      <string name="main_save_error_msg">Impossibile salvare le modifiche a causa di un errore</string>
      <string name="mark_myself_default_name">Me</string>
-     <string name="mark_myself_suggestion_load_more">"That's not me"</string>
-     <string name="mark_myself_suggestion_title">"Select photos with your face
-to personalize Gallery"</string>
-     <string name="mark_operation_failed">"Couldn't add"</string>
-     <string name="mark_operation_processing">Processing…</string>
-     <string name="mark_operation_succeeded">Added successfully</string>
-     <string name="mark_people_ignore_info_message">Press and hold photos of people to add them to groups</string>
+     <string name="mark_myself_suggestion_load_more">Non sono io</string>
+     <string name="mark_myself_suggestion_title">"Seleziona foto con la il tuo volto
+per personalizzare la Galleria"</string>
+     <string name="mark_operation_failed">Impossibile aggiungere</string>
+     <string name="mark_operation_processing">Elaborazione…</string>
+     <string name="mark_operation_succeeded">Aggiunto correttamente</string>
+     <string name="mark_people_ignore_info_message">Tieni premuto sulle foto delle persone per aggiungerle ad un gruppo</string>
      <string name="megabyteShort">MB</string>
      <string name="menu_album_new_album">Nuovo album</string>
      <string name="menu_item_sort_date">Data</string>

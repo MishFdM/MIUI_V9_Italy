@@ -1111,8 +1111,8 @@ dall'operatore"</string>
      <string name="network_blocked_connected_open_wifi">Connesso ad una rete pubblica</string>
      <string name="network_blocked_notification_summary">Testa la rete</string>
      <string name="network_blocked_switch_wifi">Scegli le reti</string>
-     <string name="network_changed_noti_summary">Using mobile data</string>
-     <string name="network_changed_noti_title">Disconnected from WLAN</string>
+     <string name="network_changed_noti_summary">Utilizzo dati rete mobile</string>
+     <string name="network_changed_noti_title">Disconnesso da Wi-Fi</string>
      <string name="network_connected_exception_title">Testa la rete</string>
      <string name="network_control">Mostra impostazioni app</string>
      <string name="network_diagnostics">Verifica la rete</string>

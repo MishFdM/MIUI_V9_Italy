@@ -290,12 +290,12 @@ Per rimediare a questo puoi cancellare i vecchi file oppure comprare spazio aggi
      <string name="micloud_main_error_network_disallowed">"Concedi le autorizzazioni per l'accesso ad Internet."</string>
      <string name="micloud_main_error_permission_limit">Concedi i permessi di acceso al database per Mi Cloud.</string>
      <string name="micloud_main_head_menu_cloud_backup">Backup cloud</string>
-     <string name="micloud_main_head_menu_finddevice_unavailable">Find device is unavailable in Second space, you can use it in First space.</string>
+     <string name="micloud_main_head_menu_finddevice_unavailable">La funzione Trova Telefono non è disponibile nello spazio secondario, puoi utilizzarla nello spazio Primario.</string>
      <string name="micloud_main_head_menu_recycle_bin_summary">Esegui di nuovo il Backup di Contatti e Foto</string>
      <string name="micloud_main_head_menu_recycle_bin_title">Cestino</string>
      <string name="micloud_main_head_menu_state_close">Disattivato</string>
      <string name="micloud_main_head_menu_state_open">Attivato</string>
-     <string name="micloud_main_head_menu_state_unavailable">Unavailable</string>
+     <string name="micloud_main_head_menu_state_unavailable">Non disponibile</string>
      <string name="micloud_main_last_sync_time">Ultima sincronizzazione %s</string>
      <string name="micloud_main_master_sync_on">Sincronizzazione attiva</string>
      <string name="micloud_main_memory_low_message">Per poter sincronizzare, elimina alcuni elementi in Mi Cloud.</string>
@@ -416,7 +416,7 @@ Utilizza un account diverso."</string>
      <string name="micloud_sync_alert_dialog_title">Utilizza Mi Cloud</string>
      <string name="micloud_sync_off">La sincronizzazione con Mi Cloud è disattivata</string>
      <string name="micloud_sync_prompt_for_no_gallery_sync">Sincronizza solo  Contatti, Calendario e Note, per sincronizzare altri elementi vai nelle impostazioni di Mi Cloud.</string>
-     <string name="micloud_title_dspt" formatted="false">Used %s/Total space %s,</string>
+     <string name="micloud_title_dspt" formatted="false">Usati %s/spazio totale %s,</string>
      <string name="micloud_title_dspt_remain">%s disponibili</string>
      <string name="micloud_title_full_dspt">Spazio esaurito.</string>
      <string name="micloud_unlogin_for_time_summary" />
@@ -479,8 +479,8 @@ Questa funziona cripta ed invia l'ID del tuo dispositivo ai server Xiaomi."</str
      <string name="pref_title_sync_contacts_title">Sincronizza i contatti</string>
      <string name="pref_title_sync_display_photo_on_wifi_only">Sincronizza foto solo con Wi-Fi</string>
      <string name="privacy_policy">Informativa sulla Privacy</string>
-     <string name="reading_status">Loading status…</string>
-     <string name="reading_status_failure">"Couldn't load status."</string>
+     <string name="reading_status">Caricamento stato…</string>
+     <string name="reading_status_failure">Impossibile caricare lo stato.</string>
      <string name="recommend_open_all_sync">Tutti gli elementi sincronizzati</string>
      <string name="remind_later">Ricordamelo più tardi</string>
      <string name="restoreSync">Abilita sincronizzazione</string>
