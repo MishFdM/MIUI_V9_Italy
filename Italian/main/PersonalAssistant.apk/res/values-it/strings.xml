@@ -81,7 +81,7 @@
      <string name="ball_football_total_rank">Statistiche</string>
      <string name="ball_hupu">Sport HuPu</string>
      <string name="ball_net_errot">Impossibile connettersi alla rete.</string>
-     <string name="ball_recent_no_data">"Nessun'informazione sui prossimi eventi."</string>
+     <string name="ball_recent_no_data">"Nessuna informazione sui prossimi eventi."</string>
      <string name="beijing">Pechino</string>
      <string name="bicycle">Bici o veicolo elettrico</string>
      <string name="book_assistant">Prenota un viaggio</string>
@@ -92,7 +92,7 @@
      <string name="book_assistant_train_started">Hai lasciato la stazione</string>
      <string name="book_store">Visualizza prenotazioni</string>
      <string name="book_update">Aggiornamento disponibile</string>
-     <string name="btn_back">indieteo</string>
+     <string name="btn_back">indietro</string>
      <string name="btn_more">altro</string>
      <string name="calc_currency">Valuta</string>
      <string name="calc_name">Scientifico</string>
@@ -115,7 +115,7 @@
      <string name="card_example">Scheda</string>
      <string name="card_expand_note_clear">Cancella</string>
      <string name="card_expand_note_dialog_button">Ho capito</string>
-     <string name="card_expand_note_dialog_message">Ogni volta che tocchi il tasto \"Save\" viene creata una nuova nota.</string>
+     <string name="card_expand_note_dialog_message">Ogni volta che tocchi il tasto \"Salva\" viene creata una nuova nota.</string>
      <string name="card_expand_note_dialog_title">Salvataggio note</string>
      <string name="card_expand_note_toast_clear_null">Cancellato con successo</string>
      <string name="card_expand_note_toast_save_done">Salva nelle Note</string>
@@ -201,7 +201,7 @@
      <string name="dialog_report_cancel">Annulla</string>
      <string name="dialog_report_confirm">Segnala</string>
      <string name="dialog_report_desc">Puoi segnalarci un formato pagina errato. Segnalare ora?</string>
-     <string name="dialog_report_title">Il formato non é valido</string>
+     <string name="dialog_report_title">Il formato non è valido</string>
      <string name="dialog_report_toast">Segnalazione riuscita</string>
      <string name="didi_back">Indietro</string>
      <string name="didi_book">Chiama un taxi</string>
@@ -366,7 +366,7 @@ Verifica il tuo numero di tracciabilità"</string>
      <string name="express_order_state_failed">Non riuscito</string>
      <string name="express_order_state_ordered">Ordinato</string>
      <string name="express_order_state_picked">Prelevato</string>
-     <string name="express_order_state_picking_failed">Impossible prelevare</string>
+     <string name="express_order_state_picking_failed">Impossibile prelevare</string>
      <string name="express_order_state_processing">In lavorazione</string>
      <string name="express_order_state_signed">Firmato</string>
      <string name="express_order_state_transporting">In fase di trasporto</string>
@@ -845,7 +845,7 @@ Verifica il tuo numero di tracciabilità"</string>
      <string name="setting_btn_remove">Elimina scheda</string>
      <string name="setting_btn_setting">Impostazioni</string>
      <string name="setting_cards_all_added">Aggiungi tutte le schede</string>
-     <string name="setting_cards_more">Piú schede</string>
+     <string name="setting_cards_more">Più schede</string>
      <string name="setting_common_private">Sicurezza e privacy</string>
      <string name="setting_dialog_cancel">Annulla</string>
      <string name="setting_dialog_quit">Esci</string>
@@ -947,7 +947,7 @@ Verifica il tuo numero di tracciabilità"</string>
      <string name="stock_title">Riserve</string>
      <string name="stock_toast_add_max_count">Non puoi seguire piú di 8 compagnie.</string>
      <string name="stock_web_bottom_btn">Apri</string>
-     <string name="stock_web_bottom_text">Apri il client e visualizza piú info</string>
+     <string name="stock_web_bottom_text">Apri il client e visualizza più info</string>
      <string name="stock_web_lable">Riserve</string>
      <string name="study_parent">Ufficio</string>
      <string name="system_favorite_dialog_link">Sicurezza e privacy</string>
@@ -1004,7 +1004,7 @@ Verifica il tuo numero di tracciabilità"</string>
      <string name="walk">A piedi</string>
      <string name="weibo_name">Nuovo post</string>
      <string name="weibo_parent">Weibo</string>
-     <string name="which_transport">"Qual'é il tuo mezzo di trasporto preferito?"</string>
+     <string name="which_transport">"Qual'è il tuo mezzo di trasporto preferito?"</string>
      <string name="widget_fav">preferiti</string>
      <string name="widget_fav_open">Mostra carte preferite</string>
      <string name="widget_fav_setting_brief">Visualizza i tuoi dati preferiti.</string>

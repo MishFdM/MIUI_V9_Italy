@@ -8,12 +8,12 @@
         <item quantity="other">%1$d giorni fa</item>
      </plurals>
      <plurals name="express_history_dialog_delete_message">
-        <item quantity="other">Delete %s items from express?</item>
-        <item quantity="one">Delete %s item from express?</item>
+        <item quantity="other">Eliminare %s elementi da express?</item>
+        <item quantity="one">Eliminare %s elemento da express?</item>
      </plurals>
      <plurals name="express_history_menu_select_num">
-        <item quantity="other">Selected %s items</item>
-        <item quantity="one">Selected %s item</item>
+        <item quantity="other">%s elementi selezionati</item>
+        <item quantity="one">%s elemento selezionato</item>
      </plurals>
      <plurals name="hours_ago">
         <item quantity="other">%1$d ore fa</item>
