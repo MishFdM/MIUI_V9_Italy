@@ -560,7 +560,7 @@ Sei scuro di voler uscire da questa pagina?"</string>
      <string name="mw_miuichromium_error_page_problem_cannot_open_page_reason_connection_closed">La pagina non può essere aperta. %s0 ha interrotto la connessione.</string>
      <string name="mw_miuichromium_error_page_problem_cannot_open_page_reason_connection_refused">La pagina non può essere aperta. %s0 ha rifiutato la connessione.</string>
      <string name="mw_miuichromium_error_page_problem_cannot_open_page_reason_connection_reset">La pagina non può essere aperta. La connessione è stata annullata.</string>
-     <string name="mw_miuichromium_error_page_problem_cannot_open_page_reason_invalid_url">"The page can't be opened because the URL is invalid."</string>
+     <string name="mw_miuichromium_error_page_problem_cannot_open_page_reason_invalid_url">"La pagina non può essere aperta perché l'URL non è valido."</string>
      <string name="mw_miuichromium_error_page_problem_cannot_open_page_reason_site_unreachable">La pagina non può essere aperta. %s0 non è al momento raggiungibile.</string>
      <string name="mw_miuichromium_error_page_problem_cannot_open_page_reason_unsafe_redirect">La pagina non può essere caricata. %s0 ti sta redirigendo in modo non sicuro.</string>
      <string name="mw_miuichromium_error_page_problem_cannot_reach_site_reason_name_collision">Il sito non può essere raggiunto. Il sito nella intranet ha lo stesso URL di un sito web esterno.</string>
@@ -571,7 +571,7 @@ Sei scuro di voler uscire da questa pagina?"</string>
      <string name="mw_miuichromium_error_page_problem_connection_interrupted_reason_device_slept">La connessione è stata interrotta quando il dispositivo è entrato in modalità di sospensione.</string>
      <string name="mw_miuichromium_error_page_problem_connection_interrupted_reason_network_changed">La connessione è stata interrotta a causa di un cambiamento della rete.</string>
      <string name="mw_miuichromium_error_page_problem_file_not_found_reason_moved_or_deleted">File non trovato. Potrebbe essere stato spostato o eliminato.</string>
-     <string name="mw_miuichromium_error_page_problem_file_not_readable_reason_access_denied">"Couldn't read file. File permissions may be preventing access."</string>
+     <string name="mw_miuichromium_error_page_problem_file_not_readable_reason_access_denied">"Impossibile leggere il file. I permessi del file potrebbero impedire l'accesso."</string>
      <string name="mw_miuichromium_error_page_problem_gateway_timed_out">%s0 ha impiegato troppo per rispondere.</string>
      <string name="mw_miuichromium_error_page_problem_network_access_denied">Accesso di rete limitato.</string>
      <string name="mw_miuichromium_error_page_problem_no_internet_connection_reason_proxy_error">"Impossibile collegarsi ad Internet. Qualcosa è andato storto con il server proxy o l'indirizzo del proxy non è corretto."</string>

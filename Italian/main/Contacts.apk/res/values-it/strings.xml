@@ -209,8 +209,8 @@
      <string name="contact_detail_calllog_call_note_tips">Note</string>
      <string name="contact_detail_calllog_call_record_tips">Registra chiamata</string>
      <string name="contact_detail_calllog_empty">Nessuna chiamata</string>
-     <string name="contact_detail_entry_pay">Pay</string>
-     <string name="contact_detail_entry_pay_dialog_title">Select phone number</string>
+     <string name="contact_detail_entry_pay">Paga</string>
+     <string name="contact_detail_entry_pay_dialog_title">Seleziona il numero di telefono</string>
      <string name="contact_detail_menu_delete_miprofile">Elimina scheda</string>
      <string name="contact_detail_miprofile_accept">Scambio schede contatto</string>
      <string name="contact_detail_miprofile_accept_fail_toast">Impossibile scambiare schede contatti</string>
@@ -881,7 +881,7 @@ Per aggiungere un contatto alla lista dei Preferiti:
      <string name="preference_contacts_display">Preferenze visualizzazione</string>
      <string name="preference_contacts_filter">Configura liste contatti</string>
      <string name="preference_contacts_more">Organizza contatti</string>
-     <string name="preference_contacts_moresetting">More</string>
+     <string name="preference_contacts_moresetting">Altro</string>
      <string name="preference_dial_pad_touch_tone_default">Predefinito</string>
      <string name="preference_dial_pad_touch_tone_human">Voce</string>
      <string name="preference_dial_pad_touch_tone_piano">Tasti del pianoforte</string>
@@ -889,7 +889,7 @@ Per aggiungere un contatto alla lista dei Preferiti:
      <string name="preference_dial_pad_touch_tone_title">Tono al tocco del tastierino</string>
      <string name="preference_display">Visualizzazione</string>
      <string name="preference_displayOptions">Opzioni di visualizzazione</string>
-     <string name="preference_display_contact">Display options</string>
+     <string name="preference_display_contact">Opzioni schermo</string>
      <string name="preference_export">Esporta</string>
      <string name="preference_import">Importa</string>
      <string name="preference_import_export">Importa/Esporta</string>

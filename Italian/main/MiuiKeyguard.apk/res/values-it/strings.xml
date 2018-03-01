@@ -2,7 +2,7 @@
 <resources>
      <string name="accessibility_enter_lock_wallpaper">Tocca per aprire lo sfondo Carousel</string>
      <string name="btn_camera">Inserisci il tuo viso</string>
-     <string name="change_to_ac_charging">Switched to wireless charging</string>
+     <string name="change_to_ac_charging">Passato a carica senza fili</string>
      <string name="click_to_enter_text">Tocca per vedere</string>
      <string name="confirm_pin_msg">Inserisci di nuovo il PIN</string>
      <string name="custom_lock_wallpaper_enter">Inserisci</string>
@@ -134,9 +134,9 @@
      <string name="phone_locked_forget_password_suggesstion_one_content">Spegni il tuo dispositivo, tieni premuti contemporaneamente il tasto Accensione ed il tasto Volume Su finché nonvedi il logo Mi</string>
      <string name="phone_locked_forget_password_suggesstion_two_content">Seleziona Cancella e Ripristina ed attenti finché il dispositivo non si riavvia.</string>
      <string name="phone_locked_forget_password_suggesstions_title">Come eliminare i dati?</string>
-     <string name="phone_locked_string">Il telfono è stato bloccato</string>
-     <string name="reset_device_detail_tip">Wireless charging, please align the phone base, to ensure the charging speed.</string>
-     <string name="reset_device_tip">Charge slowly, please reposition the phone</string>
+     <string name="phone_locked_string">Il telefono è stato bloccato</string>
+     <string name="reset_device_detail_tip">Carica senza fili, allinea la base del telefono per garantire la corretta velocità di carica.</string>
+     <string name="reset_device_tip">Carica lenta, posiziona meglio il telefono</string>
      <string name="symbol_colon">:</string>
      <string name="unlock_camera_steady">Rimani fermo</string>
      <string name="unlock_failed">Errore interno</string>
@@ -147,8 +147,8 @@
      <string name="unlockscreen_recharge_completed">Batteria carica</string>
      <string name="unlockscreen_recharging_message">In carica %d%%</string>
      <string name="wallpaper_global_des_drop_down_notify_text">Rilascia per vedere i dettagli</string>
-     <string name="wireless_charge_dialog_cancel">Cancel</string>
-     <string name="wireless_charge_dialog_title">Position offset, please reposition</string>
-     <string name="wireless_charge_stop">Wireless charging has stopped</string>
+     <string name="wireless_charge_dialog_cancel">Annulla</string>
+     <string name="wireless_charge_dialog_title">Posizione non corretta, correggi la posizione</string>
+     <string name="wireless_charge_stop">La carica senza fili si è interrotta</string>
      <string name="wrong_password">Password non corretta</string>
 </resources>

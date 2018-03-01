@@ -36,8 +36,8 @@ Se cambi SIM, verrà automaticamente inviato un SMS per riattivare questa funzio
      <string name="i_know">OK</string>
      <string name="lock_msg_phone">Informazioni di contatto: %s</string>
      <string name="login_extra_steps">Verifica di accesso</string>
-     <string name="login_failed">"Couldn't sign in. %s."</string>
-     <string name="open_wifi_settings">Open WLAN settings</string>
+     <string name="login_failed">Impossibile accedere. %s."</string>
+     <string name="open_wifi_settings">Apri impostazioni Wi-Fi</string>
      <string name="passport_checking_vcode">Verifica password…</string>
      <string name="passport_error_empty_vcode">Inserisci il codice di verifica</string>
      <string name="passport_notification_need_unlock_again">Prova a sbloccare ancora</string>
@@ -68,7 +68,7 @@ Se cambi SIM, verrà automaticamente inviato un SMS per riattivare questa funzio
      <string name="unlock_error_rpc">Errore RPC</string>
      <string name="unlock_error_server">Errore del server</string>
      <string name="unlock_error_ssl_hand_shake">Impossibile collegarsi al server, prova ad impostare data e ora manualmente."</string>
-     <string name="unlock_error_unknown">Impossibile acedere</string>
+     <string name="unlock_error_unknown">Impossibile accedere</string>
      <string name="unlock_error_user_name">Nome utente non valido</string>
      <string name="unlock_error_wrong_vcode">Il codice inserito non è corretto</string>
      <string name="unlock_help">"Rimani collegato alla rete
