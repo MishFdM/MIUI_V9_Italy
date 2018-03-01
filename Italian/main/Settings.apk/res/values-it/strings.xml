@@ -2112,7 +2112,7 @@ Quando attivi il backup automatico, il dispositivo e i dati delle applicazioni v
      <string name="keywords_do_not_disturb">Non disturbare;Modalità non disturbare;Non disturbare;Sonno;Notte;Occupato</string>
      <string name="keywords_emergency_app">App emergenza ghiaccio predefinita</string>
      <string name="keywords_factory_data_reset">eliminazione pulizia</string>
-     <string name="keywords_gesture">gesture</string>
+     <string name="keywords_gesture">gesti</string>
      <string name="keywords_gps">GPS;Localizzazione;Servizio di localizzazione;Satellite</string>
      <string name="keywords_home">launcher</string>
      <string name="keywords_hotspot">Hotspot;Tether;Tethering;Hotspot personale;Hotspot portatile</string>
@@ -2132,7 +2132,7 @@ Quando attivi il backup automatico, il dispositivo e i dati delle applicazioni v
      <string name="keywords_quick_ball">Assistente Touch;shortcut;shortcuts;toggles;toggle</string>
      <string name="keywords_reset_apps">reimposta preferenze iniziali</string>
      <string name="keywords_silent">Silenzioso;Muto;Disattiva suono</string>
-     <string name="keywords_sounds">speaker beep</string>
+     <string name="keywords_sounds">segnale acustico altoparlante</string>
      <string name="keywords_sounds_and_notifications_interruptions">"non disturbare interrotto interruzione"</string>
      <string name="keywords_spell_checker">pronuncia</string>
      <string name="keywords_storage">spazio disco hard drive</string>
@@ -2463,7 +2463,7 @@ Puoi impostare un nuovo blocco schermo sia per il dispositivo che per il tuo pro
      <string name="managed_profile_settings_title">Impostazioni profilo di lavoro</string>
      <string name="managed_user_title">Profilo lavoro</string>
      <string name="managing_admin">Gestito da %s</string>
-     <string name="manual">Manual</string>
+     <string name="manual">Manuale</string>
      <string name="manually_add_network">Aggiungi rete</string>
      <string name="master_clear_accounts">"
 
@@ -2744,7 +2744,7 @@ ed esegui il software."</string>
      <string name="need_reboot_now">"Devi riavviare per completare l'aggiornamento, aggiorna adesso"</string>
      <string name="netcheck_title">Diagnostica di rete</string>
      <string name="network_assistant">Utilizzo dati</string>
-     <string name="network_dashboard_summary">WLAN, mobile, data usage, hotspot</string>
+     <string name="network_dashboard_summary">WLAN, mobile, utilizzo dei dati, hotspot</string>
      <string name="network_dashboard_title">Network &amp; Internet</string>
      <string name="network_detail">Dettagli rete %s</string>
      <string name="network_error">Errore di rete.</string>
@@ -2754,8 +2754,8 @@ ed esegui il software."</string>
      <string name="network_scorer_change_active_dialog_text">Utilizzare %1$s invece di %2$s per gestire le connessioni di rete?</string>
      <string name="network_scorer_change_active_dialog_title">Cambiare assistente Wi-Fi?</string>
      <string name="network_scorer_change_active_no_previous_dialog_text">Utilizzare %s per gestire le tue connessioni di rete?</string>
-     <string name="network_scorer_picker_none_preference">None</string>
-     <string name="network_scorer_picker_title">Network rating provider</string>
+     <string name="network_scorer_picker_none_preference">Nessuna</string>
+     <string name="network_scorer_picker_title">Fornitore rating della rete</string>
      <string name="network_settings_title">Reti cellulare</string>
      <string name="network_state_label">Stato rete:</string>
      <string name="networkid_label">ID rete:</string>
@@ -2823,7 +2823,7 @@ ed esegui il software."</string>
      <string name="no_connected_devices">Nessun dispositivo collegato</string>
      <string name="no_data_usage">Nessun dato usato</string>
      <string name="no_default_apps">Nessuna app predefinita.</string>
-     <string name="no_default_home">No default Home</string>
+     <string name="no_default_home">Nessuna home predefinita</string>
      <string name="no_device_admins">Nessun amministratore disponibile</string>
      <string name="no_internet_access_remember">Non chiedere più per questa rete</string>
      <string name="no_internet_access_text">Questa rete %1$s non ha accesso ad Internet. Rimanere connesso?</string>
@@ -2880,7 +2880,7 @@ ed esegui il software."</string>
      <string name="notification_log_details_badge">può mostrare icone</string>
      <string name="notification_log_details_content_intent">scopo</string>
      <string name="notification_log_details_content_view">visualizzazione personalizzata</string>
-     <string name="notification_log_details_default">default</string>
+     <string name="notification_log_details_default">predefinito</string>
      <string name="notification_log_details_delete_intent">elimina scopo</string>
      <string name="notification_log_details_delimiter">": "</string>
      <string name="notification_log_details_explanation">spiegazione</string>
