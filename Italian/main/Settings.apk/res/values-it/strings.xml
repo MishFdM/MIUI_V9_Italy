@@ -755,7 +755,7 @@ Ultimo utilizzo il %2$s"</string>
      <string name="bluetooth_pairing_pin_error_message">"Impossibile eseguire l'abbinamento con %1$s. La passkey o il PIN è errato."</string>
      <string name="bluetooth_pairing_rejected_error_message">Abbinamento rifiutato da %1$s.</string>
      <string name="bluetooth_pairing_request">Associare con %1$s?</string>
-     <string name="bluetooth_pairing_shares_phonebook">Consenti %1$s di accedere ai contatti e alla cronologia chiamate</string>
+     <string name="bluetooth_pairing_shares_phonebook">"Consenti l'accesso ai contatti e alla cronologia chiamate"</string>
      <string name="bluetooth_pairing_will_share_phonebook">"L'abbinamento consente l'accesso ai contatti e al registro chiamate."</string>
      <string name="bluetooth_pan_nap_profile_summary_connected">Connessione Internet locale condivisa con dispositivo</string>
      <string name="bluetooth_pan_profile_summary_use_for">Usa per accesso Internet</string>
@@ -1034,8 +1034,6 @@ Frequenza Campione"</string>
      <string name="close_gesture">Chiudi gesture in uso</string>
      <string name="close_miui_optimization_title">Disattiva ottimizzazione MIUI</string>
      <string name="close_miui_optimization_warning_message">Il dispositivo verrà riavviato per applicare questa modifica.</string>
-     <string name="close_sdcard_optimization_title">Chiudi ottimizzazione SD simulata</string>
-     <string name="close_sdcard_optimization_warning_message">Il dispositivo verrà riavviato per applicare la modifica.</string>
      <string name="cloud_backup_section_title">Mi Cloud backup</string>
      <string name="cloud_backup_settings_section_title">Impostazioni backup</string>
      <string name="cloud_restore_section_summary">Ripristino app, layout Home e impostazioni di sistema</string>
@@ -1380,7 +1378,7 @@ avviso"</string>
      <string name="deny">Nega</string>
      <string name="details_subtitle">Dettagli di utilizzo</string>
      <string name="dev_logpersist_clear_warning_message">Quando non monitoriamo più con il log persistente, ci viene richiesto di eliminare il log con i dati sul tuo dispositivo.</string>
-     <string name="dev_logpersist_clear_warning_title">Cancellare l'archivio del log persistente?</string>
+     <string name="dev_logpersist_clear_warning_title">"Cancellare l'archivio del log persistente?"</string>
      <string name="dev_settings_warning_message">"Queste impostazioni sono utilizzabili solo a scopo di sviluppo. Possono causare l'arresto o il comportamento anomalo del dispositivo e delle applicazioni su di esso."</string>
      <string name="dev_settings_warning_title">Consentire impostazioni di sviluppo?</string>
      <string name="developer_build">" | Sviluppatore"</string>
@@ -1429,7 +1427,7 @@ avviso"</string>
      <string name="device_screen_consumption">Consumo schermo</string>
      <string name="device_screen_resolution">Risoluzione schermo</string>
      <string name="device_screen_size">Dimensione schermo</string>
-     <string name="device_screen_usage">Utilizzo schermo dall'ultima carica completa</string>
+     <string name="device_screen_usage">"Utilizzo schermo dall'ultima carica completa"</string>
      <string name="device_sd_memory">Scheda SD</string>
      <string name="device_share_loading">Creazione immagine</string>
      <string name="device_status">Stato</string>
@@ -1437,7 +1435,7 @@ avviso"</string>
      <string name="device_status_summary">Stato della batteria, della rete e altre informazioni</string>
      <string name="device_theme">Tema dispositivo</string>
      <string name="device_total_memory">Memoria totale</string>
-     <string name="device_usage_list_summary">Utilizzo dispositivo dall'ultima carica completa</string>
+     <string name="device_usage_list_summary">"Utilizzo dispositivo dall'ultima carica completa"</string>
      <string name="dial_application_title">Componi</string>
      <string name="dial_pad_tones_title">Toni tastiera</string>
      <string name="dialog_content_login">"L'aggiornamento richiede un Mi Account, vuoi proseguire?"</string>
@@ -1455,6 +1453,7 @@ avviso"</string>
      <string name="disable_service_title">Interrompere %1$s?</string>
      <string name="disable_text">Disattiva</string>
      <string name="disabled">Disattivato</string>
+     <string name="disabled_authorised_apps_title">Revoked authorization</string>
      <string name="disabled_because_no_backup_security">Imposta prima una Schermata di blocco</string>
      <string name="disabled_by_admin">"Disattivato dall'amministratore"</string>
      <string name="disabled_by_admin_summary_text">"Controllato dall'amministratore"</string>
@@ -1465,6 +1464,7 @@ avviso"</string>
      <string name="disabled_by_policy_title_outgoing_calls">Chiamata non consentita</string>
      <string name="disabled_by_policy_title_screen_capture">Screenshot non consentito</string>
      <string name="disabled_by_policy_title_sms">SMS non consentiti</string>
+     <string name="disabled_low_ram_device">This feature is not available on this device</string>
      <string name="disconnect">Disconnetti</string>
      <string name="disconnected">Disconnesso</string>
      <string name="display_auto_rotate_rotate">Attivata</string>
@@ -1623,6 +1623,8 @@ avviso"</string>
      <string name="enable_terminal_title">Terminale locale</string>
      <string name="enable_text">Attiva</string>
      <string name="enable_wifi_display">Abilita schermo wireless</string>
+     <string name="enabled_authorised_apps_summary">Your authorization will be revoked after you toggle switches of individual apps.</string>
+     <string name="enabled_authorised_apps_title">Granted authorization</string>
      <string name="enabled_by_admin">"Attivato dall'amministratore"</string>
      <string name="enalbe_identify_iPhone">Identificazione AP</string>
      <string name="encrypt_talkback_dialog_message_password">Quando si inserisce la password per avviare il dispositivo, i servizi di accessibilità come %1$s saranno disponibili solo dopo lo sblocco.</string>
@@ -1799,7 +1801,7 @@ Per maggiori dettagli contatta l'amministratore."</string>
      <string name="fingerprint_unlock_set_unlock_pattern">Impronta + Pattern</string>
      <string name="fingerprint_unlock_set_unlock_pin">Impronta + PIN</string>
      <string name="fingerprint_unlock_skip_fingerprint">Continua senza impronta</string>
-     <string name="fingerprint_unlock_title">"Puoi sbloccare il telefono usando l'impronta digitale. Per sicurezza, questa opzione richiede un blocco schermo di riserva.</string>
+     <string name="fingerprint_unlock_title">""Puoi sbloccare il telefono usando l'impronta digitale. Per sicurezza, questa opzione richiede un blocco schermo di riserva."</string>
      <string name="fingerprint_usage_category_title">Utilizza impronta digitale per</string>
      <string name="finish_application">Fine</string>
      <string name="finish_button">Fine</string>
@@ -1887,6 +1889,8 @@ Se il testo sul tuo dispositivo è troppo piccolo prova ad utilizzare "</string>
      <string name="free_xiaomi_wifi_connect_summary">Tocca per collegarti a %1$s.</string>
      <string name="frequently_fragment_delete">Rimuovi</string>
      <string name="frequently_fragment_tempty">Le voci usate di frequente saranno elencate qui</string>
+     <string name="fsg_mistake_touch_summary">In some scenes, such as full-screen games and videos, gestures need to be double swipe to take effect</string>
+     <string name="fsg_mistake_touch_title">Double check for the gestures</string>
      <string name="full_transparent_smarrcover_title">Cover frontale trasparente</string>
      <string name="fullbackup_data_summary">"Esegui automaticamente il backup dei dati del dispositivo (come password Wi-Fi e registro chiamate) e dati applicazioni (come impostazioni e file memorizzati dalle app) in remoto.
 
@@ -2579,6 +2583,7 @@ Ci sono altri utenti presenti su questo dispositivo.
      <string name="menu_stats_unplugged">%1$s dallo scollegamento</string>
      <string name="menu_use_uss">Utilizza Uss</string>
      <string name="mi_shopping_mall">Mi Store</string>
+     <string name="mi_upi_settings">Mi Pay Account</string>
      <string name="misc_files">File vari</string>
      <string name="misc_files_selected_count">selezionati %1$d di %2$d</string>
      <string name="misc_files_selected_count_bytes">%1$s su %2$s</string>
@@ -2734,7 +2739,7 @@ ed esegui il software."</string>
      <string name="navigation_guide_dialog_title">Impara gesture</string>
      <string name="navigation_guide_home_summary">"Scorri verso l'alto dal fondo dello schermo"</string>
      <string name="navigation_guide_home_title">Ritorna alla Home</string>
-     <string name="navigation_guide_recent_summary">Scorri verso l'alto dal fondo dello schermo e fermati"</string>
+     <string name="navigation_guide_recent_summary">"Scorri verso l'alto dal fondo dello schermo e fermati""</string>
      <string name="navigation_guide_recent_title">Passa ai recenti</string>
      <string name="navigation_guide_settings">Lezioni</string>
      <string name="navigation_type_radio_text_full_screen">Gesture a tutto schermo</string>
@@ -2795,7 +2800,7 @@ ed esegui il software."</string>
      <string name="night_display_auto_mode_custom">Programma personalizzato</string>
      <string name="night_display_auto_mode_never">Mai</string>
      <string name="night_display_auto_mode_title">Attiva automaticamente</string>
-     <string name="night_display_auto_mode_twilight">Dal tramonto all'alba</string>
+     <string name="night_display_auto_mode_twilight">"Dal tramonto all'alba"</string>
      <string name="night_display_category_schedule">Programma</string>
      <string name="night_display_category_status">Stato</string>
      <string name="night_display_end_time_title">Orario di fine</string>
@@ -2807,14 +2812,16 @@ ed esegui il software."</string>
      <string name="night_display_summary_on">Attivato. %1$s</string>
      <string name="night_display_summary_on_auto_mode_custom">Verrà disattivato automaticamente alle %1$s.</string>
      <string name="night_display_summary_on_auto_mode_never">Non verrà mai disattivato automaticamente.</string>
-     <string name="night_display_summary_on_auto_mode_twilight">Verrà disattivato automaticamente all'alba.</string>
+     <string name="night_display_summary_on_auto_mode_twilight">"Verrà disattivato automaticamente all'alba."</string>
      <string name="night_display_temperature_title">Intensità</string>
      <string name="night_display_text">La Luce Notturna renderà lo schermo di colore ambra. Questo rende più semplice guardare lo schermo o leggere con luce soffusa, potrebbe anche aiutare ad addormentarti più facilmente.</string>
      <string name="night_display_title">Luce Notturna</string>
      <string name="night_light">Luce Notturna</string>
      <string name="night_light_brightness">Luminosità Luce Notturna</string>
      <string name="night_light_color">Colore Luce Notturna</string>
+     <string name="night_light_color_tip">Changes will take effect when Reading mode is off</string>
      <string name="night_light_summary">Riduci la luminosità in ambienti con poca luce per entrare in modalità Luce Notturna</string>
+     <string name="night_light_tip">Changes will take effect when Night mode is on</string>
      <string name="no">No</string>
      <string name="no_application">Nessuna</string>
      <string name="no_applications">Nessuna applicazione.</string>
@@ -2955,7 +2962,7 @@ ed esegui il software."</string>
      <string name="onekey_migrate">Trasferisci</string>
      <string name="onscreen_keyboard_settings_summary">Impostazioni tastiera sullo schermo</string>
      <string name="open_demo_mode">Apri</string>
-     <string name="open_demo_mode_warning_message">Quando la modalità Demo è attiva, l'orologio nella barra di stato si fermerà, la batteria e le icone di segnale verranno mostrate come piene. Puoi disattivare la funzione Demo o riavviare il dispositivo per modificare questa impostazione.</string>
+     <string name="open_demo_mode_warning_message">"Quando la modalità Demo è attiva, l'orologio nella barra di stato si fermerà, la batteria e le icone di segnale verranno mostrate come piene. Puoi disattivare la funzione Demo o riavviare il dispositivo per modificare questa impostazione."</string>
      <string name="open_miui_optimization_title">Attiva ottimizzazione MIUI</string>
      <string name="open_miui_optimization_warning_message">Il dispositivo verrà riavviato per applicare questa modifica.</string>
      <string name="open_personal_assistant_dialog_btn_cancel">Annulla</string>
@@ -2963,8 +2970,6 @@ ed esegui il software."</string>
      <string name="open_personal_assistant_dialog_desc">Non potrai utilizzare Assistente Smart e ricevere i suoi aggiornamenti. Disattivare adesso?.</string>
      <string name="open_personal_assistant_dialog_title">Disattiva Assistente Smart</string>
      <string name="open_personal_assistant_title">Attiva Assistente Smart</string>
-     <string name="open_sdcard_optimization_title">Apri ottimizzazione sdcard emulata</string>
-     <string name="open_sdcard_optimization_warning_message">IL dispositivo verrà riavviato per applicare questa modifica.</string>
      <string name="open_wifi_connect_summary">Tocca per gestire</string>
      <string name="open_wifi_connect_title">Connettiti alla rete aperta %1$s</string>
      <string name="opening_paragraph_delete_profile_unknown_company">Questo profilo di lavoro è gestito da:</string>
@@ -3208,6 +3213,21 @@ ed esegui il software."</string>
      <string name="priority_storage_settings_summary">Se la scheda SD non viene rilevata, i dati verranno salvati automaticamente nella memoria interna del dispositivo</string>
      <string name="priority_storage_summary">Scegli il percorso predefinito dove salvare i dati</string>
      <string name="priority_storage_title">Impostazioni di archiviazione</string>
+     <string name="privacy_authorize_dialog_agree">Agree</string>
+     <string name="privacy_authorize_dialog_exit">Exit</string>
+     <string name="privacy_authorize_dialog_message">%1$s requires that you read and agree with %2$s. The app needs to connect to the network to work normally. Agree?</string>
+     <string name="privacy_authorize_network_error">Connect to the network and try again.</string>
+     <string name="privacy_authorize_privacy_policy">Privacy Policy</string>
+     <string name="privacy_authorize_revoke">Revoke</string>
+     <string name="privacy_authorize_revoke_dialog_msg">After you revoke authorization, the app will stop collecting data, and all the related data will be deleted from the servers. This might make the app virtually unusable. Revoke authorization anyway?</string>
+     <string name="privacy_authorize_revoke_dialog_title">Revoking authorization</string>
+     <string name="privacy_authorize_revoke_failed">"Couldn't revoke authorization"</string>
+     <string name="privacy_authorize_revoke_success">Revoked authorization successfully</string>
+     <string name="privacy_authorize_revoke_time">Revoke (%1$ds)</string>
+     <string name="privacy_authorize_revoke_title">Authorization &amp; revocation</string>
+     <string name="privacy_authorize_revoking">Revoking authorization…</string>
+     <string name="privacy_authorize_success">Granted authorization successfully</string>
+     <string name="privacy_authorize_title">Granting authorization</string>
      <string name="privacy_close_dlg_button_ok">Disattiva</string>
      <string name="privacy_close_dlg_msg">Quando la password di protezione è disattivata, i tuoi elementi non saranno più protetti.</string>
      <string name="privacy_close_dlg_title">Attenzione</string>
@@ -3667,11 +3687,6 @@ Come usare Mantieni su schermo:
      <string name="sd_mount_summary" />
      <string name="sdcard_changes_instructions">Le modifiche verranno applicate quando verrà ricollegato il cavo USB.</string>
      <string name="sdcard_format">Formatta scheda SD</string>
-     <string name="sdcard_optimization">Emula ottimizzazione SD Card</string>
-     <string name="sdcard_optimization_cancel">Annulla</string>
-     <string name="sdcard_optimization_close">Disattiva e riavvia</string>
-     <string name="sdcard_optimization_open">Attiva</string>
-     <string name="sdcard_optimization_summary">La lettura e scrittura della SD Card sono più veloci</string>
      <string name="sdcard_setting">Archivio USB</string>
      <string name="sdcard_settings_available_bytes_label">Byte disponibili:</string>
      <string name="sdcard_settings_bad_removal_status">Archivio USB rimosso quando ancora in uso.</string>
@@ -4552,6 +4567,8 @@ L'approccio di Google alla sincronizzazione di dati per consentirti l'accesso ai
      <string name="testing_usage_stats">Statistiche di utilizzo</string>
      <string name="testing_wifi_info">Informazioni Wi-Fi</string>
      <string name="tether_and_hotspot_title">Tethering e hotspot</string>
+     <string name="tether_auto_disable_summary">Automatically close hotspot when no connected devices</string>
+     <string name="tether_auto_disable_title">Automatically close hotspot</string>
      <string name="tether_data_usage_limit">Limite dati one-time</string>
      <string name="tether_data_usage_limit_summary">"Il limite dati verrà applicato la prossima volta che l'hotspot è attivo"</string>
      <string name="tether_devices_management_title">Gestisci dispositivi</string>
@@ -4866,6 +4883,7 @@ Le impronte digitali salvate saranno rimosse da questo profilo e non sarai in gr
      <string name="use_open_wifi_automatically_summary">Connettiti automaticamente alle reti pubbliche di alta qualità</string>
      <string name="use_open_wifi_automatically_title">Connettiti alle reti aperte</string>
      <string name="use_personalized_ad_service">Pubblicità personalizzate</string>
+     <string name="use_personalized_ad_service_summary">When the recommendation feature is switched off, you will still see the same quantity of ads as when it’s on, but not based on your behavior data or your personal information.</string>
      <string name="use_privacy_password_immediate">Utilizza</string>
      <string name="use_system_language_to_select_input_method_subtypes">Usa lingua di sistema</string>
      <string name="use_this_wlan">Usa questa rete Wi-Fi</string>
@@ -5024,6 +5042,7 @@ Aggiungi una parola toccando il tasto +."</string>
      <string name="virus_scanner_update_lib">Aggiornamento definizioni</string>
      <string name="vision_settings_description">Puoi personalizzare questo dispositivo per soddisfare le tue necessità. Queste funzioni di accessibilità possono essere modificate successivamente nelle Impostazioni.</string>
      <string name="vision_settings_title">Impostazioni di visualizzazione</string>
+     <string name="voice_assist">Xiao Ai</string>
      <string name="voice_category">Voce</string>
      <string name="voice_helper_title">Assistente vocale</string>
      <string name="voice_input_output_settings">Impostazioni vocali</string>

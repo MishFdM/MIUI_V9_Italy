@@ -14,6 +14,12 @@
      <string name="ac_firstUseApplock_subTitle">Utilizza per proteggere la tua privacy</string>
      <string name="ac_firstUseApplock_title">Richiedi una password per accedere alle app.</string>
      <string name="ac_mask_all_apps">Nascondi tutte le app</string>
+     <string name="ac_notification_contentText">Tap to turn on</string>
+     <string name="ac_notification_contentTitle">Protect apps with App lock</string>
+     <string name="ac_post_notification_contentText">Get system-level protection</string>
+     <string name="ac_post_notification_contentTitle">Turn on App Lock</string>
+     <string name="ac_pre_notification_contentText">Protect your personal info</string>
+     <string name="ac_pre_notification_contentTitle">Try App Lock</string>
      <string name="ac_summaryOff">Disattivato, non serve una password per aprire le applicazioni</string>
      <string name="ac_summaryOn">Attivato, è necessaria una password per aprire le applicazioni</string>
      <string name="ac_unmask_all_apps">Visualizza tutte le app</string>
@@ -1171,12 +1177,10 @@ dall'operatore"</string>
      <string name="notification_battery_consume_abnormal_title">La batteria sta scendendo molto velocemente</string>
      <string name="notification_exit_power_save_mode">Disattiva il Risparmio batteria</string>
      <string name="notification_exit_power_save_mode_subtitle">Batteria ha %s di carica.</string>
-     <string name="notification_item">Proteggi le app selezionate</string>
      <string name="notification_mask_summary">Non mostrare il contenuto delle notifiche sulla schermata di blocco e nel pannello delle notifiche</string>
      <string name="notification_mask_title">Nascondi contenuto</string>
      <string name="notification_masked_item">Nascondi notifiche</string>
      <string name="notification_masked_subtitle">Nascondi le notifiche per le app protetta dal Blocco App</string>
-     <string name="notification_subtitle">Tocca per attivare</string>
      <string name="notification_summary_cmcc_app_check">Tocca per vedere i dettagli.</string>
      <string name="notify_daily_data_usage_body">"Per limitare l'uso dei dati automaticamente imposta il tuo piano dati mensile."</string>
      <string name="notify_daily_limit_body">Tocca per impostare il limite dati.</string>

@@ -365,6 +365,8 @@ Se riattivi i dati, l'operatore potrebbe addebitarti un costo."</string>
      <string name="hour_minute_time_format">HH:mm</string>
      <string name="how_to_back_home">Come tornare alla home</string>
      <string name="how_to_switch_recents">Come passare a Recenti</string>
+     <string name="how_to_use_drawer">How to use the app sliding function</string>
+     <string name="how_to_use_drawer_summary">Swipe from the top-left</string>
      <string name="how_to_use_fsg">Come posso utilizzare le gesture a tutto schermo?</string>
      <string name="ime_security_warning">"Questo metodo di inserimento potrebbe raccogliere il testo che digiti, compresi dai personali come password e numeri di carte di credito. Questo tramite l'app %1$s. Utilizzare questo metodo di inserimento?"</string>
      <string name="immediately_destroy_activities">Non mantenere attività</string>

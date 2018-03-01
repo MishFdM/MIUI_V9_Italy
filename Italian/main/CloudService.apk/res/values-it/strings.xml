@@ -96,6 +96,8 @@ Ultimo backup: %2$s"</string>
      <string name="find_device_error_password_changed">"La password dell'account è stata modificata di recente."</string>
      <string name="find_device_error_server">Qualcosa non ha funzionato sul nostro server.</string>
      <string name="find_device_error_unknown">Errore sconosciuto</string>
+     <string name="find_device_gdpr_prompt">By turning on Find device, you agree to \"Privacy Policy\". If you need to revoke your privacy authorization, please turn off this feature.</string>
+     <string name="find_device_gdpr_prompt_policy_doc_name">\"Privacy Policy\"</string>
      <string name="find_device_notice_p1">Visita</string>
      <string name="find_device_notice_p3">"per trovare, bloccare, o ripristinare il tuo dispositivo.
 Se cambia la SIM, deve essere inviato un nuovo SMS di attivazione."</string>
@@ -368,6 +370,7 @@ Utilizza un account diverso."</string>
      <string name="micloud_notif_content_master_depend_wifi">Collegati prima alla rete Wi-Fi</string>
      <string name="micloud_notif_content_memory_low">Spazio di archiviazione insufficiente</string>
      <string name="micloud_notif_content_multi_user_error">"Hai effettuato l'accesso con lo stesso account dello spazio originario."</string>
+     <string name="micloud_notif_content_privacy_reopen_failed">View details</string>
      <string name="micloud_notif_content_sync_finish">Account</string>
      <string name="micloud_notif_content_sync_not_finish">Dettagli</string>
      <string name="micloud_notif_content_sync_with_off">Tocca per sincronizzare adesso il dispositivo</string>
@@ -377,11 +380,21 @@ Utilizza un account diverso."</string>
      <string name="micloud_notif_title_master_depend_wifi">Impossibile sincronizzare con Mi Cloud</string>
      <string name="micloud_notif_title_memory_low">Impossibile sincronizzare con Mi Cloud</string>
      <string name="micloud_notif_title_multi_user_error">Impossibile sincronizzare con Mi Cloud</string>
+     <string name="micloud_notif_title_privacy_reopen_failed">"Couldn't start cloud service"</string>
      <string name="micloud_notif_title_sync_finish">Sincronizzato</string>
      <string name="micloud_notif_title_sync_not_finish">Non sincronizzato</string>
      <string name="micloud_notif_title_sync_progress">Sincronizzazione</string>
      <string name="micloud_notif_title_sync_with_off">Sincronizza con Mi Cloud</string>
      <string name="micloud_other_product_price">Confronta prezzi</string>
+     <string name="micloud_privacy_cloud_off">Sync Off</string>
+     <string name="micloud_privacy_cloud_sync">Active Mi Cloud</string>
+     <string name="micloud_privacy_explanation">Active Mi Cloud after enabling the authorization</string>
+     <string name="micloud_privacy_licence_agreed">Agree with Mi Cloud privacy policy.</string>
+     <string name="micloud_privacy_licence_privacy_policy">privacy policy</string>
+     <string name="micloud_privacy_more">more</string>
+     <string name="micloud_privacy_warning_button">Back</string>
+     <string name="micloud_privacy_warning_content">"Can't active Mi Cloud. Try it later."</string>
+     <string name="micloud_privacy_warning_title">Hint</string>
      <string name="micloud_proceed">Continua</string>
      <string name="micloud_request_permission_confirm">Ho capito</string>
      <string name="micloud_request_permission_content">Mi Cloud ha necessità dei permessi per la sincronizzazione dei dati. Consenti a Mi Cloud di accedere a Calendario, Contatti, Mi Account, stato SIM, registro chiamate e messaggi.</string>

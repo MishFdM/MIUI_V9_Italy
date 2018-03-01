@@ -19,6 +19,7 @@
      <string name="abc_shareactionprovider_share_with">Share with</string>
      <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
      <string name="abc_toolbar_collapse_description">Collapse</string>
+     <string name="mibi_all_license_message">"You're about to use Mi Credit, which is a service provided by Xiaomi Inc. Before you can use this service, you must agree to the Terms of Service stated in %1$s. Touch OK if you agree to the terms and conditions described in the %1$s and %1$s. You need to connect to the internet, locate you device to use Mi Credit."</string>
      <string name="mibi_app_name">Mi Credit</string>
      <string name="mibi_applock_config">Impossibile impostare App lock quando è in uso lo SPlit Screen.</string>
      <string name="mibi_applock_dialog_cancel">Non adesso</string>
@@ -203,6 +204,7 @@ Controlla la tua data locale e riprova."</string>
      <string name="mibi_msg_telecom_picker_hint_2_1">Il tuo fornitore di rete è stato contattato!</string>
      <string name="mibi_msg_telecom_picker_hint_2_2">A breve riceverai un messaggio di conferma.</string>
      <string name="mibi_msg_telecom_sending">Sto contattando il fornitore di rete…</string>
+     <string name="mibi_normal_license_name">Terms and conditions</string>
      <string name="mibi_order_balance_lable">Mi Credit</string>
      <string name="mibi_order_balance_lable_append">Mi Credit + sconto</string>
      <string name="mibi_order_balance_title">I miei Mi Credit</string>
@@ -252,6 +254,7 @@ Controlla la tua data locale e riprova."</string>
      <string name="mibi_prepaid_picker_hint_2_2_b">"Se il valore nominale della carta prepagata non lo è del &lt;font color=red>￥%1$s&lt;/font>, la carta verrà invalidata. Xiaomi non si riterrà responsabile per eventuali perdite monetarie che potrebbero verificarsi a seguito di un errore dell'utente."</string>
      <string name="mibi_prepaid_picker_title_default">Seleziona ammontare</string>
      <string name="mibi_prepaid_picker_title_selected">Ammontare</string>
+     <string name="mibi_privacy_license_name">Privacy Policy</string>
      <string name="mibi_process_expired">Dove stai andando? Questa operazione è scaduta</string>
      <string name="mibi_progress_creating">Ottenimento info ordine…</string>
      <string name="mibi_progress_deduct_creating">Attivazione protocollo pagamento automatico %1$s…</string>
@@ -300,6 +303,7 @@ Centro servizio clienti:400-100-5678"</string>
      <string name="mibi_recharge_other">Visualizza altri metodi</string>
      <string name="mibi_recharge_push_notification_prime_title">%1$d aggiunti di %2$s Mi Credit presenti sul tuo account</string>
      <string name="mibi_recharge_push_notification_sub_title">Ricarica completa.</string>
+     <string name="mibi_recharge_warn_text">"You can't buy physical goods using Mi Credits."</string>
      <string name="mibi_scan_prompt_number">Scansionamento numero di carta prepagato %1$s</string>
      <string name="mibi_scan_prompt_password">Scansionamento password carta prepagata %1$s</string>
      <string name="mibi_scan_prompt_voucher">Scansionamento password Mi Credit</string>

@@ -24,8 +24,6 @@
      <string name="HIPS_Perm_External_Storage_Desc">Aggiungere ed eliminare file nella memoria interna</string>
      <string name="HIPS_Perm_Location">Posizione</string>
      <string name="HIPS_Perm_Location_Desc">Localizzare il dispositivo tramite la rete o il GPS</string>
-     <string name="HIPS_Perm_MMS">Ricezione MMS</string>
-     <string name="HIPS_Perm_MMS_Desc">Ricezione ed elaborazione di MMS</string>
      <string name="HIPS_Perm_Mobile_Connectivity">Rete dati mobile</string>
      <string name="HIPS_Perm_Mobile_Connectivity_Desc">Rete dati mobile</string>
      <string name="HIPS_Perm_PhoneID">ID Telefono</string>
@@ -40,8 +38,6 @@
      <string name="HIPS_Perm_Read_MMS_Desc">Leggere i messaggi MMS</string>
      <string name="HIPS_Perm_Read_SMS">Lettura SMS</string>
      <string name="HIPS_Perm_Read_SMS_Desc">Leggere i messaggi SMS</string>
-     <string name="HIPS_Perm_SMS">Ricezione SMS</string>
-     <string name="HIPS_Perm_SMS_Desc">Ricezione ed elaborazione di SMS</string>
      <string name="HIPS_Perm_SendMMS">Invio MMS</string>
      <string name="HIPS_Perm_SendMMS_Desc">Inviare messaggi MMS</string>
      <string name="HIPS_Perm_SendSMS">Invio SMS</string>
