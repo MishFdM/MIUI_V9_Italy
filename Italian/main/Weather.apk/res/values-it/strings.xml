@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-     <string name="abrupt_weather_settings_summary_type_a">Unusual Weather Warning Switch</string>
-     <string name="abrupt_weather_settings_summary_type_b">Unusual Weather Warning Switch</string>
-     <string name="abrupt_weather_settings_title">Unusual Weather Warning</string>
+     <string name="abrupt_weather_settings_summary_type_a">Comando Avviso Meteo Insolito</string>
+     <string name="abrupt_weather_settings_summary_type_b">Comando Avviso Meteo Insolito</string>
+     <string name="abrupt_weather_settings_title">Avviso Meteo Insolito</string>
      <string name="act_find_city_hint">Inserisci località</string>
      <string name="act_find_city_hot_attractions_title">Luoghi popolari</string>
      <string name="act_find_city_hot_city_title">Città frequenti</string>
@@ -61,7 +61,7 @@
      <string name="aqi_quality_major_pollutants">Inquinanti maggiori</string>
      <string name="aqi_quality_map_edit_text_hint">Ricerca qualità aria</string>
      <string name="aqi_quality_map_title">Mappa qualità aria</string>
-     <string name="aqi_quality_no2_desc">Diossido notrogeno</string>
+     <string name="aqi_quality_no2_desc">Diossido nitrogeno</string>
      <string name="aqi_quality_o3_desc">Ozono</string>
      <string name="aqi_quality_pm10_desc">Grandi particelle non inalabili</string>
      <string name="aqi_quality_pm25_desc">Polveri sottili</string>
@@ -87,9 +87,9 @@
      <string name="content_desc_activity_main_add_city">Aggiungi città</string>
      <string name="content_desc_activity_main_add_city_manage">Gestione città</string>
      <string name="content_desc_activity_main_more_settings">Più impostazioni</string>
-     <string name="content_desc_back_button">Back</string>
-     <string name="content_desc_close_button">Close</string>
-     <string name="content_desc_edit_city_manage">Manage cities</string>
+     <string name="content_desc_back_button">Indietro</string>
+     <string name="content_desc_close_button">Chiudi</string>
+     <string name="content_desc_edit_city_manage">Gestione città</string>
      <string name="daily_forcast_drawer_on_bottom">Nascondi</string>
      <string name="daily_forcast_no_stable_direction">Assente</string>
      <string name="daily_forcast_no_wind">&lt;12km/h</string>
@@ -163,9 +163,9 @@ Tocca lo schermo per aggiungere manualmente o riprovare"</string>
      <string name="lunar_calendar" />
      <string name="menu_add_city">Aggiungi/elimina città</string>
      <string name="menu_location">Località</string>
-     <string name="menu_speaker">Voice broadcast</string>
+     <string name="menu_speaker">Trasmissione voce</string>
      <string name="mi_pad2">latte</string>
-     <string name="minute_rain">Minutely forecast</string>
+     <string name="minute_rain">Previsioni dettagliate</string>
      <string name="minute_rain_after_an_hour">"Tra un'ora"</string>
      <string name="minute_rain_after_two_hour">Tra due ore</string>
      <string name="minute_rain_feedback_subtitle">Dicci che tempo fa</string>
@@ -177,7 +177,7 @@ Tocca lo schermo per aggiungere manualmente o riprovare"</string>
      <string name="minute_rain_progress_indicator_original_time">- -</string>
      <string name="minute_rain_pull_down_refresh">Trascina in basso per aggiornare</string>
      <string name="minute_rain_refreshing_now">Aggiornamento</string>
-     <string name="missing_required_permission">You have disabled a required permission.</string>
+     <string name="missing_required_permission">Hai disattivato un permesso necessario.</string>
      <string name="more_details">Altri dettagli</string>
      <string name="network_not_available">Impossibile collegarsi alla rete</string>
      <string name="network_unavailable">Impossibile connettersi alla rete.</string>
@@ -275,7 +275,7 @@ Tocca lo schermo per aggiungere manualmente o riprovare"</string>
      <string name="wind_direction_no_data">Vento</string>
      <string name="wind_miles_unit">%1$smph</string>
      <string name="wind_unit">%1$s km/h</string>
-     <string name="xiaomi_weather_description_content">"Il Meteo fornisce previsioni metereologiche affidabili. Senza questa app, il widget della barra di stato e della Home non funzioneranno. Accertati di non aver necessità di queste funzioni prima di elimiare l'app."</string>
+     <string name="xiaomi_weather_description_content">"Il Meteo fornisce previsioni metereologiche affidabili. Senza questa app, il widget della barra di stato e della Home non funzioneranno. Accertati di non aver necessità di queste funzioni prima di eliminare l'app."</string>
      <string name="xiaomi_weather_description_title">Informazioni</string>
      <string name="yes_vote_ratio">Per %1$s%%</string>
      <string name="your_location">La tua posizione</string>
