@@ -305,19 +305,19 @@ Frequenza Campione"</string>
      <string name="callFailed_data_limit_reached_description">Chiamata terminata a causa del limite dati cellulare raggiunto.</string>
      <string name="callFailed_destination_out_of_order">Destinazione fuori servizio</string>
      <string name="callFailed_dialToDial">Richiesta DIAL modificata in richiesta DIAL con numero diverso.</string>
-     <string name="callFailed_dialToDialVideo">DIAL request modified to Video DIAL.</string>
+     <string name="callFailed_dialToDialVideo">Richiesta DIAL modificata in Video DIAL.</string>
      <string name="callFailed_dialToSs">Richiesta DIAL modificata in richiesta SS.</string>
      <string name="callFailed_dialToUssd">Richiesta DIAL modificata in richiesta USSD.</string>
-     <string name="callFailed_dialVideoToDial">Video DIAL request modified to DIAL.</string>
-     <string name="callFailed_dialVideoToDialVideo">Video DIAL request modified to Video DIAL with different number.</string>
-     <string name="callFailed_dialVideoToSs">Video DIAL request modified to SS request.</string>
-     <string name="callFailed_dialVideoToUssd">Video DIAL request modified to USSD request.</string>
+     <string name="callFailed_dialVideoToDial">Richiesta Video DIAL modificata in DIAL.</string>
+     <string name="callFailed_dialVideoToDialVideo">Richiesta Video DIAL modificata in Video DIAL con numero diverso.</string>
+     <string name="callFailed_dialVideoToSs">Richiesta Video DIAL modificata in richiesta SS.</string>
+     <string name="callFailed_dialVideoToUssd">Richiesta Video DIAL modificata in richiesta USSD.</string>
      <string name="callFailed_dsac_restricted">Tutte le chiamate sono limitate dal controllo di accesso.</string>
      <string name="callFailed_dsac_restricted_emergency">Le chiamate di emergenza sono limitate dal controllo di accesso.</string>
      <string name="callFailed_dsac_restricted_normal">Le chiamate normali sono limitate dal controllo di accesso.</string>
      <string name="callFailed_facility_rejected">Infrastruttura rifiutata</string>
      <string name="callFailed_fdn_only">Chiamate in uscita limitate per FDN.</string>
-     <string name="callFailed_imei_not_accepted">Unable to connect, please insert a valid SIM card.</string>
+     <string name="callFailed_imei_not_accepted">Impossibile collegare, si prega di inserire una SIM valida.</string>
      <string name="callFailed_incoming_calls_barred_within_CUG">Chiamate in arrivo bloccate con CUG</string>
      <string name="callFailed_incoming_cb_enabled">Una parte ha bloccato le chiamate.</string>
      <string name="callFailed_incompatible_destination">Destinazione incompatibile</string>
@@ -477,6 +477,13 @@ Frequenza Campione"</string>
      <string name="cfb_title">Inoltra se sei in conversazione</string>
      <string name="cfnrc_title">Inoltra se non sei raggiungibile</string>
      <string name="cfnrc_title_cta">Inoltra se non sei raggiungibile</string>
+     <string name="cfnry_time_fifteen_sec">15 sec</string>
+     <string name="cfnry_time_five_sec">5 sec</string>
+     <string name="cfnry_time_setting_title">Imposta tempo di attesa</string>
+     <string name="cfnry_time_ten_sec">10 sec</string>
+     <string name="cfnry_time_thirty_sec">30 sec</string>
+     <string name="cfnry_time_twenty_five_sec">25 sec</string>
+     <string name="cfnry_time_twenty_sec">20 sec</string>
      <string name="cfnry_title">Inoltra se non hai risposto</string>
      <string name="cfu_title">Inoltra tutte le chiamate</string>
      <string name="change_data_preference_4g_only_prompt">Sembra che tu abbia una SIM che supporta solo il 4G. Vuoi impostarla come predefinita per la rete dati mobile?</string>
@@ -504,6 +511,7 @@ Frequenza Campione"</string>
      <string name="clir_choices_hide_number">Nascondi numero</string>
      <string name="clir_choices_network_default">Predefinito dalla rete</string>
      <string name="clir_choices_show_number">Mostra numero</string>
+     <string name="close">Disattiva</string>
      <string name="close_dialog">OK</string>
      <string name="close_profile">Chiudi</string>
      <string name="cloud_antispam_title">Identifica numeri sconosciuti</string>
@@ -546,7 +554,7 @@ Frequenza Campione"</string>
      <string name="convert_to_file_encryption_enabled">Converti…</string>
      <string name="crescendo_ringer_summary">La suoneria salirà gradualmente fino al livello impostato</string>
      <string name="crescendo_ringer_title">Suoneria crescente</string>
-     <string name="ct_ut_not_support_close_4glte">UT is not available, please turn off Enhanced 4G LTE Mode in Settings</string>
+     <string name="ct_ut_not_support_close_4glte">UT non disponibile, disattiva Modalità 4G LTE migliorata nelle Impostazioni</string>
      <string name="daltonizer_mode_deuteranomaly">Deuteranomalia (rosso-verde)</string>
      <string name="daltonizer_mode_disabled">Disabilitato</string>
      <string name="daltonizer_mode_monochromacy">Monocromia</string>
@@ -611,9 +619,9 @@ Frequenza Campione"</string>
      <string name="dial_related_setting_catory">Componi</string>
      <string name="dialerKeyboardHintText">Usa la tastiera per chiamare</string>
      <string name="dialog_alert_title">Cautela</string>
-     <string name="dialog_cancel">Cancel</string>
+     <string name="dialog_cancel">Annulla</string>
      <string name="dialog_network_priority_title">Priorità</string>
-     <string name="dialog_report">Report</string>
+     <string name="dialog_report">Segnala</string>
      <string name="dialpad_0_letters">+</string>
      <string name="dialpad_1_letters" />
      <string name="dialpad_2_letters">ABC</string>
@@ -646,7 +654,7 @@ Frequenza Campione"</string>
      <string name="dialpad_two">2</string>
      <string name="dialpad_wxyz">WXYZ</string>
      <string name="dialpad_zero">0</string>
-     <string name="direct_boot_unaware_dialog_message">"Note: After a reboot, this app can't start until you unlock your phone"</string>
+     <string name="direct_boot_unaware_dialog_message">"Nota: Dopo il riavvio, non potrà avviarsi finché non sbloccherai il telefono"</string>
      <string name="disable">Disattiva</string>
      <string name="disable_all_cf">Disabilita tutti gli inoltri di chiamate</string>
      <string name="disable_cfb_forbidden">"Il tuo operatore non supporta la disabilitazione dell'inoltro chiamate quando il telefono è occupato."</string>
@@ -658,7 +666,7 @@ Frequenza Campione"</string>
      <string name="disable_overlays_summary">Utilizza sempre GPU per la composizione dello schermo</string>
      <string name="disable_pin_ok">PIN della SIM disattivato.</string>
      <string name="disable_sim_pin">Disattiva PIN della SIM</string>
-     <string name="disabled">Disabled</string>
+     <string name="disabled">Disattivato</string>
      <string name="disabled_by_admin">"Disattivato dall'amministratore"</string>
      <string name="disabled_by_admin_summary_text">"Controllato dall'amministratore"</string>
      <string name="display_name_summary">Come il nome utente</string>
@@ -669,7 +677,7 @@ Frequenza Campione"</string>
      <string name="dtmf_tone_entries_normal">Normale</string>
      <string name="dtmf_tones_summary">Imposta la lunghezza dei toni DTMF</string>
      <string name="dtmf_tones_title">Toni DTMF</string>
-     <string name="dual_4g_switch_summary">Consenti la connessione 4G perentrambi gli slot SIM.</string>
+     <string name="dual_4g_switch_summary">Consenti la connessione 4G per entrambi gli slot SIM.</string>
      <string name="dual_4g_switch_title">Doppio 4G</string>
      <string name="duration_disable_summary">Durata schermo disattivata</string>
      <string name="duration_enable_summary">Durata schermo attivata</string>
@@ -743,10 +751,10 @@ Frequenza Campione"</string>
      <string name="eo_enable">Opportunità di lavoro attivate</string>
      <string name="error_updating_title">Errore impostazioni chiamate</string>
      <string name="exception_error">Errore di rete o della carta SIM.</string>
-     <string name="external_source_trusted">Allowed</string>
-     <string name="external_source_untrusted">Not allowed</string>
+     <string name="external_source_trusted">Consentito</string>
+     <string name="external_source_untrusted">Non consentito</string>
      <string name="failedToImportSingleContactMsg">Importo contatti fallito</string>
-     <string name="failed_to_open_app_settings_toast">Failed to open settings for %1$s</string>
+     <string name="failed_to_open_app_settings_toast">Impossibile aprire le Impostazioni per %1$s</string>
      <string name="fake_phone_activity_infoText_text">Numero chiamante</string>
      <string name="fake_phone_activity_phoneNumber_text">+39 333 1234567</string>
      <string name="fake_phone_activity_placeCall_text">Finta chiamata entrante</string>
@@ -801,7 +809,7 @@ Desideri passare comunque al nuovo servizio?"</string>
      <string name="hdcp_checking_title">Controllo HDCP</string>
      <string name="help_feedback_label">Aiuto e feedback</string>
      <string name="home">Impostazioni Home</string>
-     <string name="ime_security_warning">This input method may be able to collect all the text you type, including personal data like passwords and credit card numbers. It comes from the app %1$s. Use this input method?</string>
+     <string name="ime_security_warning">"Questo metodo di inserimento potrebbe raccogliere informazioni dal testo digitato, inclusi dati personali come password e numeri di carte di credito. Proviene dall'app %1$s. Usare questo metodo di inserimento?"</string>
      <string name="immediately_destroy_activities">Non conservare attività</string>
      <string name="immediately_destroy_activities_summary">"Elimina ogni attività appena l'utente la interrompe"</string>
      <string name="importAllSimEntries">Importa tutto</string>
@@ -833,7 +841,7 @@ Desideri passare comunque al nuovo servizio?"</string>
      <string name="incall_error_supp_service_unknown">Servizio non supportato.</string>
      <string name="incall_error_wfc_only_no_wireless_network">Collegato ad una rete Wi-Fi per effettuare una chiamata.</string>
      <string name="incall_status_dialed_mmi">Avvio della sequenza MMI…</string>
-     <string name="install_other_apps">Install unknown apps</string>
+     <string name="install_other_apps">Installa app sconosciute</string>
      <string name="international_disable">Notizie internazionali disattivate</string>
      <string name="international_enable">Notizie internazionali attivate</string>
      <string name="international_roaming_setting">Roaming dati</string>
@@ -916,7 +924,7 @@ Desideri passare comunque al nuovo servizio?"</string>
      <string name="media_category">Media</string>
      <string name="menu_add">Aggiungi contatto</string>
      <string name="menu_delete">Elimina contatto</string>
-     <string name="menu_dial">Dial contact</string>
+     <string name="menu_dial">Chiama contatto</string>
      <string name="menu_edit">Modifica contatto</string>
      <string name="messageCFB">Numero a cui inoltrare se occupato</string>
      <string name="messageCFNRc">Numero a cui inoltrare se non raggiungibile</string>
@@ -946,7 +954,7 @@ Desideri passare comunque al nuovo servizio?"</string>
      <string name="mmiCancelled">Codice MMI annullato</string>
      <string name="mmiStarted">Codice MMI inizializzato</string>
      <string name="mobile_data">Mobile data</string>
-     <string name="mobile_data_alert">Data traffic may be generated on secondary card</string>
+     <string name="mobile_data_alert">Potrebbe essere generato traffico dati da una SIM secondaria.</string>
      <string name="mobile_data_always_on">Dati cellulare sempre attivi</string>
      <string name="mobile_data_always_on_summary">Mantieni i dati mobili attivi, anche quando il Wi-Fi é attivo (per un cambio di rete rapido).</string>
      <string name="mobile_network_settings_not_available">Le impostazioni delle rete cellulare non sono disponibili per questo utente</string>
@@ -954,8 +962,8 @@ Desideri passare comunque al nuovo servizio?"</string>
      <string name="mock_location_app">Seleziona imitazione locazione app</string>
      <string name="mock_location_app_not_set">Nessuna imitazione locazione app impostata</string>
      <string name="mock_location_app_set">Imitazione locazione app: %1$s</string>
-     <string name="modem_dialog_body">Mobile network is unstable, causing interruptions or network problems.Send bug report to Mi for analysis? This report may contain Personally Identifiable Information. Your report will be used to help fix this bug and will never be shared in any commercial context.</string>
-     <string name="modem_dialog_title">Mobile network is unstable</string>
+     <string name="modem_dialog_body">La rete mobile non è stabile, causa interruzioni o problemi di rete.Inviare una segnalazione a Mi analizzarla? Questa segnalazione potrebbe contenere informazioni sui dati personali. Il tuo rapporto verrà utilizzato unicamente per la risoluzione del problema e non verrà mai condiviso a scopi commerciali.</string>
+     <string name="modem_dialog_title">La rete mobile non è stabile</string>
      <string name="msim_apn_not_set">Non impostato</string>
      <string name="msim_default_setting">Impostazioni predefinite</string>
      <string name="msim_disable_sim_card_btn_text">OK</string>
@@ -1162,7 +1170,7 @@ Invio toni"</string>
      <string name="phone_accounts_settings_header">Impostazioni</string>
      <string name="phone_entered_ecm_text">Modalità Richiamata di emergenza attivata</string>
      <string name="phone_in_ecm_call_notification_text">Connessione dati disattivata</string>
-     <string name="phone_in_ecm_notification_complete_time">No data connection until %s</string>
+     <string name="phone_in_ecm_notification_complete_time">Nessuna connessione dati fino a %s</string>
      <string name="phone_in_ecm_notification_title">Modalità Richiamata di emergenza</string>
      <string name="picture_color_mode">Modalità colore immagine</string>
      <string name="picture_color_mode_desc">Utilizza sRGB</string>
@@ -1190,7 +1198,7 @@ Le funzionalità relative al PIN2 saranno bloccate se si fallisce un altro tenta
      <string name="power_charging_duration">%1$s - %2$s fino a completamento</string>
      <string name="power_discharging_duration">%1$s - appross. %2$s rimanenti</string>
      <string name="power_discharging_duration_short">%1$s - %2$s rimanenti</string>
-     <string name="power_remaining_charging_duration_only">%1$s left until fully charged</string>
+     <string name="power_remaining_charging_duration_only">%1$s rimanenti per la carica completa</string>
      <string name="power_remaining_duration_only">Approx. %1$s rimanenti</string>
      <string name="power_remaining_duration_only_short">%1$s rimanenti</string>
      <string name="preference_auto_ip_summary_disable">Disattivato</string>
@@ -1267,6 +1275,9 @@ Le funzionalità relative al PIN2 saranno bloccate se si fallisce un altro tenta
      <string name="private_num">Numero privato</string>
      <string name="process_kernel_label">Android OS</string>
      <string name="progress_dialog_exiting_ecm">Uscita dalla modalità di richiamata di emergenza</string>
+     <string name="prompt_to_turnoff_volte_when_failed">I servizi VoLTE non sono disponibili. Disattiva VoLTE per effettuare una chiamata.</string>
+     <string name="prompt_to_turnoff_volte_when_supp_service">Servizi non disponibile. Disattiva VoLTE nelle Impostazioni.</string>
+     <string name="prompt_when_turnon_volte_without_lte">Le reti LTE non sono disponibili in questo momento. Attivare VoLTE potrebbe impedirti di effettuare le chiamate normali.</string>
      <string name="proxy_address">ProxyAddress</string>
      <string name="proxy_address_title">"Indirizzo proxy verso l'esterno"</string>
      <string name="pstn_connection_service_label">SIM implementata</string>
@@ -1318,9 +1329,9 @@ Le funzionalità relative al PIN2 saranno bloccate se si fallisce un altro tenta
      <string name="response_error">Risposta non prevista dalla rete.</string>
      <string name="restaurants_disable">Ristoranti disattivati</string>
      <string name="restaurants_enable">Ristoranti attivati</string>
-     <string name="retail_demo_reset_message">Enter password to perform factory reset in demo mode</string>
-     <string name="retail_demo_reset_next">Next</string>
-     <string name="retail_demo_reset_title">Password required</string>
+     <string name="retail_demo_reset_message">Inserisci la password per eseguire un ripristino di fabbrica in modalità demo</string>
+     <string name="retail_demo_reset_next">Avanti</string>
+     <string name="retail_demo_reset_title">Password richiesta</string>
      <string name="retail_directory_disable">Elenco venditori al dettaglio disattivato</string>
      <string name="retail_directory_enable">Elenco venditori al dettaglio attivato</string>
      <string name="retry_btn">Riprova</string>
@@ -1379,8 +1390,8 @@ Le funzionalità relative al PIN2 saranno bloccate se si fallisce un altro tenta
      <string name="show_hw_screen_updates">Aggiornamenti visualizz. GPU</string>
      <string name="show_hw_screen_updates_summary">Flash delle visualizzazioni dentro le finestre, se disegnate con GPU</string>
      <string name="show_non_rect_clip">Debug operazioni ritaglio non rettangolare</string>
-     <string name="show_notification_channel_warnings">Show notification channel warnings</string>
-     <string name="show_notification_channel_warnings_summary">Displays on-screen warning when an app posts a notification without a valid channel</string>
+     <string name="show_notification_channel_warnings">Mostra avvisi canale notifica</string>
+     <string name="show_notification_channel_warnings_summary">"Mostra avvisi a schermo quando un'app cerca di inviare notifiche tramite un canale non valido"</string>
      <string name="show_screen_updates">Aggiornamenti superficie</string>
      <string name="show_screen_updates_summary">"Flash delle superfici delle finestre all'aggiornamento"</string>
      <string name="show_touches">Mostra tocchi</string>
@@ -1510,8 +1521,8 @@ Le funzionalità relative al PIN2 saranno bloccate se si fallisce un altro tenta
      <string name="tether_settings_title_usb">Tethering USB</string>
      <string name="tether_settings_title_usb_bluetooth">Tethering</string>
      <string name="tether_settings_title_wifi">Hotspot portatile</string>
-     <string name="tethering_hardware_offload">Tethering hardware acceleration</string>
-     <string name="tethering_hardware_offload_summary">Use tethering hardware acceleration if available</string>
+     <string name="tethering_hardware_offload">Accelerazione hardware tethering</string>
+     <string name="tethering_hardware_offload_summary">Usa accelerazione hardware tethering se disponibile</string>
      <string name="tethering_settings_not_available">Impostazioni tethering non disponibili per questo utente</string>
      <string name="third_party_account_summary">"Questo account è attualmente in uso da parte dell'app %s."</string>
      <string name="throttle_current_usage">Dati usati nel periodo attuale</string>
@@ -1564,7 +1575,7 @@ Il prossimo periodo inizia tra %2$d giorni (%3$s)"</string>
      <string name="tts_lang_use_system">Utilizza lingua di sistema</string>
      <string name="tts_play_example_summary">Avvia una piccola dimostrazione di sintesi vocale</string>
      <string name="tts_play_example_title">Ascolta un esempio</string>
-     <string name="tts_reset_speech_pitch_summary">"Resetta l'intonazione al punto in cui il testo é parlato in maniera predefinita."</string>
+     <string name="tts_reset_speech_pitch_summary">"Resetta l'intonazione al punto in cui il testo è parlato in maniera predefinita."</string>
      <string name="tts_reset_speech_pitch_title">Resetta intonazione parlato</string>
      <string name="tts_settings">Impostazioni testo parlato</string>
      <string name="tts_settings_title">Output testo parlato</string>
@@ -1595,16 +1606,19 @@ Il prossimo periodo inizia tra %2$d giorni (%3$s)"</string>
      <string name="uplmn_numeric_is_empty">Inserisci ID rete</string>
      <string name="usb_audio_disable_routing">Disattiva indirizzamento audio USB</string>
      <string name="usb_audio_disable_routing_summary">Disattiva indirizzo automatico audio USB con le periferiche</string>
-     <string name="use_system_language_to_select_input_method_subtypes">Use system languages</string>
+     <string name="use_system_language_to_select_input_method_subtypes">Usa lingue di sistema</string>
      <string name="user_guest">Ospite</string>
      <string name="username_title">Nome utente</string>
      <string name="ussdRunning">Codice USSD in esecuzione…</string>
      <string name="ussd_dialog_sep">----------</string>
-     <string name="ut_not_support">UT is not available</string>
+     <string name="ut_not_support">UT non disponibile</string>
      <string name="verify_apps_over_usb_summary">Verifica app installate tramite ADB/ADT per comportamenti dannosi.</string>
      <string name="verify_apps_over_usb_title">Verifica app tramite USB</string>
      <string name="vibrate_after_connected_summary">Vibra quando rispondi</string>
      <string name="vibrate_after_connected_title">Vibra dopo la connessione</string>
+     <string name="vice_slot_volte_data_switch_prompt">Il dispositivo si collegherà ad una rete dati mobile tramite una SIM secondaria durante le chiamate in uscita VoLTE. Questo può generare costi aggiuntivi. Contatta il tuo operatore per informazioni dettagliate sui tuo piano.</string>
+     <string name="vice_slot_volte_data_switch_summary">Durante le chiamate VoLTE, il dispositivo si collegherà ad una rete dati mobile tramite una SIM secondaria</string>
+     <string name="vice_slot_volte_data_switch_title">Usa rete dati mobile durante le chiamate VoLTE sulla SIM secondaria.</string>
      <string name="vm_change_failed">"Impossibile modificare il numero della segreteria telefonica.
 Contatta il tuo operatore se questo problema persiste."</string>
      <string name="vm_change_pin_error_invalid">Il nuovo PIN contiene caratteri non validi.</string>
@@ -1626,7 +1640,7 @@ Contatta il tuo operatore se questo problema persiste."</string>
      <string name="voicemail_abbreviated">Segr:</string>
      <string name="voicemail_change_pin_dialog_title">Cambia PIN</string>
      <string name="voicemail_default">Il mio operatore</string>
-     <string name="voicemail_notifications_preference_title">Notifications</string>
+     <string name="voicemail_notifications_preference_title">Notifiche</string>
      <string name="voicemail_number_not_set">Non impostato</string>
      <string name="voicemail_provider">Servizio di segreteria</string>
      <string name="voicemail_provider_summary">Scelta servizio di segreteria</string>
@@ -1644,7 +1658,9 @@ Contatta il tuo operatore se questo problema persiste."</string>
      <string name="volte_switch_not_support_summary">Le chiamate VoLTE non sono supportate da questa SIM dati.</string>
      <string name="volte_switch_not_support_summary2">"Le chiamate VoLTE non sono supportate dall'operatore."</string>
      <string name="volte_switch_summary">Utilizza VoLTE per migliorare la qualità audio e video delle chiamate</string>
+     <string name="volte_switch_summary2">Confirm that your carrier supports this feature before turning on. Otherwise, regular calls might be affected.</string>
      <string name="volte_switch_title">VoLTE attivato</string>
+     <string name="volte_tips_when_turn_on">China Telecom VoLTE services are only provided in the areas with LTE network coverage.</string>
      <string name="vpn_settings_not_available">Impostazioni VPN non disponibili per questo utente</string>
      <string name="vvm_unsupported_message_format">Tipi di messaggi non supportati, chiama %s per ascoltare.</string>
      <string name="wait_for_debugger">Attendi il debugger</string>
@@ -1705,18 +1721,18 @@ Contatta il tuo operatore se questo problema persiste."</string>
      <string name="wifi_security_wpa">WPA PSK</string>
      <string name="wifi_security_wpa2">WPA2 PSK</string>
      <string name="wifi_security_wpa_wpa2">WPA/WPA2 PSK</string>
-     <string name="wifi_ssid_is_empty">Ssid field can not be left blank</string>
-     <string name="wifi_ssid_length_is_max">Ssid can not exceed 32 characters in length</string>
+     <string name="wifi_ssid_is_empty">Il campo SSID non può essere lasciato vuoto</string>
+     <string name="wifi_ssid_length_is_max">"l'SSID non può contenere più di 32 caratteri</string>
      <string name="wifi_verbose_logging">Attiva log WI-Fi verboso</string>
      <string name="wifi_verbose_logging_summary">Incrementa il livello di log Wi-Fi, mostra per SSID RSSI nella selezione Wi-Fi</string>
      <string name="wifi_wapi_as_certificate">AS certificate</string>
-     <string name="wifi_wapi_cert_mode_hand_text">Hand select the certificate</string>
-     <string name="wifi_wapi_certification_dont_exist">The WAPI certificates does not exist. Please intall them.</string>
-     <string name="wifi_wapi_fail_to_auth">"WAPI authentication failed
-Please check validity of certificates"</string>
-     <string name="wifi_wapi_fail_to_init">"Unable to open WAPI certificates
-Credential storage might not enable"</string>
-     <string name="wifi_wapi_psk_type">Password type</string>
+     <string name="wifi_wapi_cert_mode_hand_text">Seleziona manuale del certificato</string>
+     <string name="wifi_wapi_certification_dont_exist">I certificati WAPI non esistono. Si prega di installarli.</string>
+     <string name="wifi_wapi_fail_to_auth">"Autenticazione WAPI fallita
+Controlla la validità dei certificati"</string>
+     <string name="wifi_wapi_fail_to_init">"Impossibile aprire i certificati WAPI
+L'archivio credenziali potrebbe non essere attivato"</string>
+     <string name="wifi_wapi_psk_type">Tipo di password</string>
      <string name="wifi_wapi_user_certificate">User certificate</string>
      <string name="wild_prompt_str">Sostituire carattere con</string>
      <string name="window_animation_scale_title">Scala animazione finestre</string>

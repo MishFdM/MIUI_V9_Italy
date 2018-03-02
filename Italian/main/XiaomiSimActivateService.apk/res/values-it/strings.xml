@@ -115,5 +115,7 @@ Immetti il numero di telefono associato alla tua nuova SIM card per riattivare %
      <string name="phone_verify_processing">verifica in corso…</string>
      <string name="phone_verify_text">%1$s non accederà al tuo numero telefonico,ne verificherà soltanto la corrispondenza.</string>
      <string name="phone_verify_title">Acconsenti che %1$s verifichi il tuo numero telefonico</string>
+     <string name="privacy_revoke_failed_msg">revoca privacy，impossibile acquisire il numero di telefono，attivazione fallita</string>
+     <string name="privacy_revoke_tips">"Se revochi, non potrai usare la sincronizzazione SMS"</string>
      <string name="sim_unactivated_title">La tua SIM non è stata attivata</string>
 </resources>

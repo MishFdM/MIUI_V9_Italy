@@ -148,6 +148,7 @@ trascina verso il basso per aggiornare o verifica le impostazioni di rete"</stri
      <string name="indices_title_uv">Indice UV</string>
      <string name="indices_title_visibility">Visibilità</string>
      <string name="information_manager_extension">Estensione meteo</string>
+     <string name="information_settings_title">Informazioni meteo</string>
      <string name="information_views" />
      <string name="install">Installa</string>
      <string name="international_detail_menu_title">Dettagli</string>
@@ -190,6 +191,7 @@ Tocca lo schermo per aggiungere manualmente o riprovare"</string>
      <string name="open_browser">Apri nel browser</string>
      <string name="open_now">Apri adesso</string>
      <string name="other">Altro</string>
+     <string name="other_settings">Altre impostazioni</string>
      <string name="other_warning_settings">Altre impostazioni di avvisi</string>
      <string name="particulate_matter_exceeded">Alto</string>
      <string name="particulate_matter_not_exceeded">Normale</string>

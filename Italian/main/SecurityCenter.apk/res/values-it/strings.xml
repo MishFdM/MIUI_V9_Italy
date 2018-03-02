@@ -14,6 +14,12 @@
      <string name="ac_firstUseApplock_subTitle">Utilizza per proteggere la tua privacy</string>
      <string name="ac_firstUseApplock_title">Richiedi una password per accedere alle app.</string>
      <string name="ac_mask_all_apps">Nascondi tutte le app</string>
+     <string name="ac_notification_contentText">Tocca per attivare</string>
+     <string name="ac_notification_contentTitle">Proteggi le app con App lock</string>
+     <string name="ac_post_notification_contentText">Ottieni protezione a livello di sistema</string>
+     <string name="ac_post_notification_contentTitle">Attiva App Lock</string>
+     <string name="ac_pre_notification_contentText">Proteggi le tue infomrazioni personali</string>
+     <string name="ac_pre_notification_contentTitle">Prova App Lock</string>
      <string name="ac_summaryOff">Disattivato, non serve una password per aprire le applicazioni</string>
      <string name="ac_summaryOn">Attivato, è necessaria una password per aprire le applicazioni</string>
      <string name="ac_unmask_all_apps">Visualizza tutte le app</string>
@@ -923,8 +929,8 @@ L'operatore potrebbe addebitarti costi aggiuntivi se continui ad utilizzare la c
      <string name="lockpattern_too_many_failed_confirmation_attempts_header">Troppi tentativi errati!</string>
      <string name="lockpattern_tutorial_cancel_label">Annulla</string>
      <string name="lockpattern_tutorial_continue_label">Avanti</string>
-     <string name="lockpattern_tutorial_continue_label_confirm">Click OK</string>
-     <string name="lockpattern_tutorial_continue_label_next">Click next</string>
+     <string name="lockpattern_tutorial_continue_label_confirm">Tocca OK</string>
+     <string name="lockpattern_tutorial_continue_label_next">Tocca avanti</string>
      <string name="lockscreen_access_pattern_cell_added">Cella aggiunta</string>
      <string name="lockscreen_access_pattern_cleared">Sequenza cancellata</string>
      <string name="lockscreen_access_pattern_detected">Sequenza completata</string>
@@ -1078,7 +1084,7 @@ dall'operatore"</string>
      <string name="menu_text_power_percent_title">Batteria %s</string>
      <string name="menu_text_power_percent_title_default">Batteria</string>
      <string name="menu_wh_remove">Rimuovi dalle eccezioni</string>
-     <string name="menu_white">Except</string>
+     <string name="menu_white">Eccezione</string>
      <string name="mi_service_app_detail">Dettagli utilizzo dati</string>
      <string name="mi_service_traffic_detail">Dettagli framework</string>
      <string name="mian_page_primary_txt">Roaming estero</string>
@@ -1155,7 +1161,7 @@ dall'operatore"</string>
      <string name="network_speed_for_apps_others">Altre</string>
      <string name="network_speed_for_apps_title">Connessione</string>
      <string name="network_speed_for_apps_total">Velocità di connessione</string>
-     <string name="network_test_speed">Test WLAN speed</string>
+     <string name="network_test_speed">Prova la velocità Wi-Fi</string>
      <string name="networkchanged_exception_summary">La connessione è cambiata. Riprova.</string>
      <string name="networkchanged_exception_title">Connessione cambiata</string>
      <string name="never">Solo una volta</string>
@@ -1171,12 +1177,10 @@ dall'operatore"</string>
      <string name="notification_battery_consume_abnormal_title">La batteria sta scendendo molto velocemente</string>
      <string name="notification_exit_power_save_mode">Disattiva il Risparmio batteria</string>
      <string name="notification_exit_power_save_mode_subtitle">Batteria ha %s di carica.</string>
-     <string name="notification_item">Proteggi le app selezionate</string>
      <string name="notification_mask_summary">Non mostrare il contenuto delle notifiche sulla schermata di blocco e nel pannello delle notifiche</string>
      <string name="notification_mask_title">Nascondi contenuto</string>
      <string name="notification_masked_item">Nascondi notifiche</string>
      <string name="notification_masked_subtitle">Nascondi le notifiche per le app protetta dal Blocco App</string>
-     <string name="notification_subtitle">Tocca per attivare</string>
      <string name="notification_summary_cmcc_app_check">Tocca per vedere i dettagli.</string>
      <string name="notify_daily_data_usage_body">"Per limitare l'uso dei dati automaticamente imposta il tuo piano dati mensile."</string>
      <string name="notify_daily_limit_body">Tocca per impostare il limite dati.</string>
@@ -1320,8 +1324,8 @@ Questa attività riduce la durata della batteria."</string>
      <string name="password_promotion_not_login_xiaomi_account_message">Aggiungi il tuo Mi Account per poter ripristinare la password se viene dimenticata.</string>
      <string name="password_promotion_postbutton_text">Vai nelle Impostazioni</string>
      <string name="password_promotion_title">Password di protezione privacy</string>
-     <string name="password_type">Change password</string>
-     <string name="password_type_underline">&lt;u&gt;Change password&lt;/u&gt;</string>
+     <string name="password_type">Cambia password</string>
+     <string name="password_type_underline">&lt;u&gt;Cambia password&lt;/u&gt;</string>
      <string name="password_xspace_forget_pattern_message">Per modificare la password del tuo spazio Secondario, dovresti eliminare il tuo spazio Secondario e crearne uno nuovo.</string>
      <string name="path_antispam">Applicazioni di sistema/Sicurezza/Blacklist</string>
      <string name="path_antivirus">Applicazioni di sistema/Sicurezza/Scansione virus</string>
@@ -1963,7 +1967,7 @@ Questa attività riduce la durata della batteria."</string>
      <string name="tether_limit_value_custom">Personalizza</string>
      <string name="tether_over_limit_dialog_cancle_btn">Ripristina hotspot</string>
      <string name="tether_over_limit_dialog_message">"Hai raggiunto il limite dati dell'hotspot portatile."</string>
-     <string name="tether_over_limit_dialog_title">Avvso utilizzo dati</string>
+     <string name="tether_over_limit_dialog_title">Avviso utilizzo dati</string>
      <string name="tether_over_limit_warning_notify_message">Disattiva hotspot portatile.</string>
      <string name="tether_over_limit_warning_notify_title">Limite dati hotspot portatile raggiunto</string>
      <string name="text_button">OK</string>

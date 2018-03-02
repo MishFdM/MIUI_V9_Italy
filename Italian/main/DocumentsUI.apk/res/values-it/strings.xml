@@ -108,7 +108,6 @@
      <string name="sort_dimension_summary">Summary</string>
      <string name="sort_direction_ascending">Ascending</string>
      <string name="sort_direction_descending">Descending</string>
-     <string name="status_bar_notification_info_overflow">999+</string>
      <string name="title_open">Apri da</string>
      <string name="title_save">Salva in</string>
      <string name="toast_failed_delete">Impossibile eliminare alcuni documenti</string>

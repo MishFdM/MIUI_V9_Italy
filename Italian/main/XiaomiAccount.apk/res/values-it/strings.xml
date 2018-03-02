@@ -119,7 +119,6 @@
      <string name="find_device_account_error">"Impossibile recuperare lo stato a causa di un errore con l'account"</string>
      <string name="find_device_activate_account">Attiva account</string>
      <string name="find_device_bad_response_error">Impossibile recuperare lo stato, riprova più tardi</string>
-     <string name="find_device_display_id">Sblocca numero: %s</string>
      <string name="find_device_error_password_not_confirmed">Impossibile disattivare Trova Dispositivo. Inserisci il tuo Mi Account.</string>
      <string name="find_device_error_password_recently_changed">Hai modificato la password negli ultimi 3 giorni. Impossibile disattivare Trova Dispositivo per motivi di sicurezza.</string>
      <string name="find_device_interrupted">"L'operazione è stata interrotta, riprova più tardi"</string>
@@ -268,6 +267,7 @@ Per attivare il tuo account, segui il
      <string name="passport_input_password_hint">Inserisci la password</string>
      <string name="passport_input_phone_hint">Inserisci il numero di telefono</string>
      <string name="passport_input_vcode_hint">Inserisci il codice di verifica</string>
+     <string name="passport_input_voice_captcha_hint">Inserisci il codice di verifica vocale</string>
      <string name="passport_license_host_unreachable">"Impossibile connettersi alla rete. Puoi vedere questa pagina a %s."</string>
      <string name="passport_loading">Caricamento…</string>
      <string name="passport_login">Accedi con un account esistente</string>
@@ -355,7 +355,7 @@ Per attivare il tuo account, segui il
      <string name="passport_skip_setup_account_msg">Puoi impostare un Mi Account più tardi nelle Impostazioni.</string>
      <string name="passport_skip_setup_account_title">Salta configurazione</string>
      <string name="passport_sms_send_success">Invio</string>
-     <string name="passport_sms_verification_code_login">SMS verification code login</string>
+     <string name="passport_sms_verification_code_login">Accesso codice verifica SMS</string>
      <string name="passport_sync_account_data">Informazioni di sincronizzazione account…</string>
      <string name="passport_sync_account_data_failed_warning">Le informazioni del tuo account sono in fase di sincronizzazione, puoi accedere con il tuo ID Mi Account. Se vuoi accedere utilizzando il tuo numero di telefono o la tua email or email, attendi fino alla completa sincronizzazione.</string>
      <string name="passport_title_reg">Crea un account</string>
@@ -437,6 +437,7 @@ Per attivare il tuo account, segui il
      <string name="trusted_browsers">Browser sicuri</string>
      <string name="trusted_browsers_prompt">Il browser non sarà più sicuro se elimini i cookies.</string>
      <string name="turn_off_find_device_failed_title">Impossibile disattivare Trova dispositivo</string>
+     <string name="turning_off_find_device">Disattivazione Trova Dispositivo…</string>
      <string name="unbind_sns_description">"Scollegando l'account non potrai accedere alle informazioni del tuo account %s per accedere al tuo Mi Account"</string>
      <string name="unlock_help_notice">"Aiuto:
 · Se hai dimenticato la password, vai su id.mi.com per ripristinarla.

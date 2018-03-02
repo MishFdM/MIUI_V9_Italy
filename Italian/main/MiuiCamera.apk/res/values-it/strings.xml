@@ -7,7 +7,7 @@
      <string name="accessibility_effect_mode_button">Effetti</string>
      <string name="accessibility_flash_mode_button">Pulsante Flash</string>
      <string name="accessibility_hdr">Tasto HDR</string>
-     <string name="accessibility_intent_done_apply">Done</string>
+     <string name="accessibility_intent_done_apply">Fatto</string>
      <string name="accessibility_mode_dismiss_button">Pulsante di selezione ravvicinata</string>
      <string name="accessibility_peak">Messa a fuoco Peak</string>
      <string name="accessibility_portrait_button">Modalità ritratto</string>
@@ -82,9 +82,9 @@
      <string name="dual_camera_use_hint">"La modalità Dual Camera permette di esaltare il soggetto in primo piano.
 Il soggetto non deve essere più lontano di 2 metri."</string>
      <string name="edit_eye_large">Occhi grandi</string>
-     <string name="edit_face_ruddy">Ruddy</string>
-     <string name="edit_face_slender">Slender</string>
-     <string name="edit_skin_smooth">Smooth</string>
+     <string name="edit_face_ruddy">Rossastro</string>
+     <string name="edit_face_slender">Sottile</string>
+     <string name="edit_skin_smooth">Morbido</string>
      <string name="edit_skin_white">Tono</string>
      <string name="empty">" "</string>
      <string name="error_fail_to_start_audio_capture">"Impossibile registrare l'audio: il microfono potrebbe essere in uso da un'altra app."</string>
@@ -111,9 +111,8 @@ Il soggetto non deve essere più lontano di 2 metri."</string>
      <string name="face_beauty_intelligent_level_3">Alto</string>
      <string name="face_beauty_smart">Intelligente</string>
      <string name="face_score_info">Punto: %.1f</string>
-     <string name="front_camera_hint_text_place">"Scattare selfie sarà più facile
-se ruoti il telefono"</string>
-     <string name="front_camera_hint_text_rotate">Ruota il telefono</string>
+     <string name="front_camera_hint_text_place">"Fare un selfie sarà più facile se ruoti il telefono"</string>
+     <string name="front_camera_hint_text_rotate">Ruota il tuo telefono</string>
      <string name="hine_hht">"Con poca luce ambientale, verranno scattate foto multiple
 per la costruzione di uno scatto con il minimo rumore."</string>
      <string name="hint_device_water_mark">Il logo del dispositivo verrà aggiunto automaticamente.</string>
@@ -185,7 +184,7 @@ per rendere il tuo corpo ancor più chiaro e meraviglioso"</string>
      <string name="pref_camera_beautify_entry_low">Basso</string>
      <string name="pref_camera_beautify_entry_normal">Medio</string>
      <string name="pref_camera_beauty_deep">beauty deep</string>
-     <string name="pref_camera_bokeh_title">Portrait</string>
+     <string name="pref_camera_bokeh_title">Verticale</string>
      <string name="pref_camera_coloreffect_entry_aqua" />
      <string name="pref_camera_coloreffect_entry_big_face">Diffuso</string>
      <string name="pref_camera_coloreffect_entry_blackwhite">B/N</string>
@@ -292,7 +291,7 @@ per rendere il tuo corpo ancor più chiaro e meraviglioso"</string>
      <string name="pref_camera_multilevel_entry_middle">Medio (Default)</string>
      <string name="pref_camera_multilevel_entry_normal">Normale</string>
      <string name="pref_camera_panoramamode_title">Panorama</string>
-     <string name="pref_camera_parallel_process_enable_title">Attiva Processo Immagine Parallelo</string>
+     <string name="pref_camera_parallel_process_enable_title">Abilita processo immagine parallela</string>
      <string name="pref_camera_peak_entry_off">Disattivato</string>
      <string name="pref_camera_peak_entry_on">Attivato</string>
      <string name="pref_camera_peak_title">Messa a fuoco Peak</string>

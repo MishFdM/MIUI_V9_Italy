@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-     <string name="abc_action_bar_home_description">Naviga in home</string>
+     <string name="abc_action_bar_home_description">Vai alla home</string>
      <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
      <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
-     <string name="abc_action_bar_up_description">Navigate up</string>
-     <string name="abc_action_menu_overflow_description">More options</string>
+     <string name="abc_action_bar_up_description">Vai in alto</string>
+     <string name="abc_action_menu_overflow_description">Altre opzioni</string>
      <string name="abc_action_mode_done">Fatto</string>
      <string name="abc_activity_chooser_view_see_all">Mostra tutto</string>
-     <string name="abc_activitychooserview_choose_application">Choose an app</string>
+     <string name="abc_activitychooserview_choose_application">"Scegli un'app"</string>
      <string name="abc_capital_off">OFF</string>
      <string name="abc_capital_on">ON</string>
      <string name="abc_search_hint">Cerca…</string>
@@ -189,7 +189,7 @@
      <string name="common_google_play_services_update_text">%1$s non funzionerà finché non aggiorni i servizi Google Play.</string>
      <string name="common_google_play_services_update_title">Aggiorna i servizi Google Play</string>
      <string name="common_google_play_services_updating_text">%1$s non funzionerà senza i servizi Google Play che sotto attualmente in aggiornamento.</string>
-     <string name="common_google_play_services_wear_update_text">E' necessaria una nuova versione dei servizi Google Play. Verrà aggiornato a breve.</string>
+     <string name="common_google_play_services_wear_update_text">"E' necessaria una nuova versione dei servizi Google Play. Verrà aggiornato a breve."</string>
      <string name="common_open_on_phone">Apri sul telefono</string>
      <string name="common_signin_button_text">Accedi</string>
      <string name="common_signin_button_text_long">Accedi con Google</string>

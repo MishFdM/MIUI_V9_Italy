@@ -49,7 +49,6 @@
      <string name="apn_settings_not_available">Access Point Name settings are not available for this user</string>
      <string name="app_label">Informazioni di emergenza</string>
      <string name="app_process_limit_title">Background process limit</string>
-     <string name="appbar_scrolling_view_behavior">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
      <string name="available_via_passpoint">Available via %1$s</string>
      <string name="b_negative">B negativo</string>
      <string name="b_positive">B positivo</string>
@@ -304,7 +303,6 @@
      <string name="show_touches">Show taps</string>
      <string name="show_touches_summary">Show visual feedback for taps</string>
      <string name="simulate_color_space">Simulate color space</string>
-     <string name="status_bar_notification_info_overflow">999+</string>
      <string name="strict_mode">Strict mode enabled</string>
      <string name="strict_mode_summary">Flash screen when apps do long operations on main thread</string>
      <string name="tab_title_contacts">Contatti</string>

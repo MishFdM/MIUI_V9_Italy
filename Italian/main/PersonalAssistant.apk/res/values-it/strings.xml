@@ -128,6 +128,7 @@
      <string name="card_setting_btn">Personalizza</string>
      <string name="card_settings">Impostazioni schede</string>
      <string name="card_settings_rule">Imposta le regole per la visualizzazione delle schede</string>
+     <string name="card_title_empty_note">Nessuna nota</string>
      <string name="card_title_express">Le mie consegne</string>
      <string name="card_title_favorite">Preferiti</string>
      <string name="card_title_funclaunch">Collegamenti</string>
