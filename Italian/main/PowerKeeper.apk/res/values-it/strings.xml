@@ -66,7 +66,7 @@
      <string name="scenario_policies_title">Modalità di risparmio</string>
      <string name="scenario_policies_warmcontrol">Controllo riscaldamento</string>
      <string name="search_input_txt_na">"&lt;font color='#ff0000'&gt;%s&lt;/font&gt;"</string>
-     <string name="search_result_text">"Couldn't find any apps"</string>
+     <string name="search_result_text">Impossibile trovare app</string>
      <string name="show_system_app">Mostra app di sistema</string>
      <string name="sleep_config_enhance_description">MIUI migliorerà il risparmio batteria notturno</string>
      <string name="sleep_config_enhance_description_non_nfc">"Ogni volta che MIUI rileva che stai dormendo, chiuderà le applicazioni in background, limiterà Bluetooth, GPS, rete dati mobile e utilizzo Wi-Fi, inoltre non attiverà lo schermo al ricevimento delle notifiche."</string>

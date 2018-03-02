@@ -778,7 +778,7 @@ Ultimo utilizzo il %2$s"</string>
      <string name="bluetooth_preference_scan_title">Cerca dispositivi</string>
      <string name="bluetooth_profile_a2dp">Audio multimediale</string>
      <string name="bluetooth_profile_a2dp_high_quality">Usa audio in alta qualità: %1$s</string>
-     <string name="bluetooth_profile_a2dp_high_quality_unknown_codec">Use high quality audio</string>
+     <string name="bluetooth_profile_a2dp_high_quality_unknown_codec">Usa audio in alta qualità</string>
      <string name="bluetooth_profile_details">Impostazioni profilo</string>
      <string name="bluetooth_profile_dun">Accesso Rete di Chiamata</string>
      <string name="bluetooth_profile_headset">Audio dispositivo</string>
@@ -865,7 +865,7 @@ Frequenza Campione"</string>
      <string name="bluetooth_untether_blank">Il tethering sarà annullato per %1$s.</string>
      <string name="bluetooth_visibility_timeout">Timeout visibilità</string>
      <string name="bluetooth_wake">Attiva con audio Bluetooth</string>
-     <string name="boot_sounds_title">Power on sounds</string>
+     <string name="boot_sounds_title">Potenza ai </string>
      <string name="bootloader">Modalità Fastboot</string>
      <string name="bootloader_apply_step_1">Vuoi attivare la modalità Fastboot?</string>
      <string name="bootloader_apply_step_2">Quando il tuo dispositivo è in modalità Fastboot ed è connesso al computer</string>
@@ -1453,7 +1453,7 @@ avviso"</string>
      <string name="disable_service_title">Interrompere %1$s?</string>
      <string name="disable_text">Disattiva</string>
      <string name="disabled">Disattivato</string>
-     <string name="disabled_authorised_apps_title">Revoked authorization</string>
+     <string name="disabled_authorised_apps_title">Revoca autorizzazione</string>
      <string name="disabled_because_no_backup_security">Imposta prima una Schermata di blocco</string>
      <string name="disabled_by_admin">"Disattivato dall'amministratore"</string>
      <string name="disabled_by_admin_summary_text">"Controllato dall'amministratore"</string>
@@ -1464,7 +1464,7 @@ avviso"</string>
      <string name="disabled_by_policy_title_outgoing_calls">Chiamata non consentita</string>
      <string name="disabled_by_policy_title_screen_capture">Screenshot non consentito</string>
      <string name="disabled_by_policy_title_sms">SMS non consentiti</string>
-     <string name="disabled_low_ram_device">This feature is not available on this device</string>
+     <string name="disabled_low_ram_device">Questa funzione non è disponibile su questo dispositivo</string>
      <string name="disconnect">Disconnetti</string>
      <string name="disconnected">Disconnesso</string>
      <string name="display_auto_rotate_rotate">Attivata</string>
@@ -1623,8 +1623,8 @@ avviso"</string>
      <string name="enable_terminal_title">Terminale locale</string>
      <string name="enable_text">Attiva</string>
      <string name="enable_wifi_display">Abilita schermo wireless</string>
-     <string name="enabled_authorised_apps_summary">Your authorization will be revoked after you toggle switches of individual apps.</string>
-     <string name="enabled_authorised_apps_title">Granted authorization</string>
+     <string name="enabled_authorised_apps_summary">La tua autorizzazione verrà revocata dopo aver modificato le app individuali.</string>
+     <string name="enabled_authorised_apps_title">Autorizzazione concessa</string>
      <string name="enabled_by_admin">"Attivato dall'amministratore"</string>
      <string name="enalbe_identify_iPhone">Identificazione AP</string>
      <string name="encrypt_talkback_dialog_message_password">Quando si inserisce la password per avviare il dispositivo, i servizi di accessibilità come %1$s saranno disponibili solo dopo lo sblocco.</string>
@@ -1779,8 +1779,8 @@ Per maggiori dettagli contatta l'amministratore."</string>
      <string name="fingerprint_identify_input_password_msg">Inserisci password</string>
      <string name="fingerprint_identify_msg">"Lettura dell'impronta\u2026"</string>
      <string name="fingerprint_identify_try_again_msg">Scansione fallita, riprova</string>
-     <string name="fingerprint_intro_error_max">You’ve added the maximum number of fingerprints</string>
-     <string name="fingerprint_intro_error_unknown">Can’t add more fingerprints</string>
+     <string name="fingerprint_intro_error_max">Hai raggiunto il numero massimo di impronte digitali</string>
+     <string name="fingerprint_intro_error_unknown">Impossibile aggiungere altre impronte digitali</string>
      <string name="fingerprint_last_delete_confirm">Sì, rimuovi</string>
      <string name="fingerprint_last_delete_message">"Non sarai in grado di utilizzare le impronte digitali per sbloccare il dispositivo, autorizzare gli acquisti o l'accesso alle app."</string>
      <string name="fingerprint_last_delete_message_profile_challenge">Non sarai n grado di utilizzare le tue impronte per sbloccare il tuo profilo di lavoro, autorizzare gli acquisti o accedere alle app di lavoro."</string>
@@ -1820,7 +1820,7 @@ Per maggiori dettagli contatta l'amministratore."</string>
      <string name="font_size_normal">Normale</string>
      <string name="font_size_preview">MIUI</string>
      <string name="font_size_preview_text">Esempio per le dimensioni del testo.</string>
-     <string name="font_size_preview_text_body">"Anche con gli occhi portetti da occhiali verdi, Dorothy ed i suoi amici furono subito abbacinati dallo splendore della meravigliosa Città. Le strade erano fiancheggiate da belle case tutte fatte di marmo verde e punteggiate di smeraldi scintillanti. Camminavano su un marciapiede anch'esso di marmo verde, e nei punti in cui i blocchi si congiungevano c'erano file di smeraldi incastonati che scintillavano alla luce del sole. I vetri delle finestre erano verdi; anche il cielo sopra la Città aveva una sfumatura verde e i raggi del sole erano verdi. 
+     <string name="font_size_preview_text_body">"Anche con gli occhi protetti da occhiali verdi, Dorothy ed i suoi amici furono subito abbacinati dallo splendore della meravigliosa Città. Le strade erano fiancheggiate da belle case tutte fatte di marmo verde e punteggiate di smeraldi scintillanti. Camminavano su un marciapiede anch'esso di marmo verde, e nei punti in cui i blocchi si congiungevano c'erano file di smeraldi incastonati che scintillavano alla luce del sole. I vetri delle finestre erano verdi; anche il cielo sopra la Città aveva una sfumatura verde e i raggi del sole erano verdi. 
 
 C'erano molte persone - uomini, donne e bambini - a piedi circa, e questi erano tutti vestiti con abiti verdi e aveva pelli verdastro. Si guardarono Dorothy e la sua compagnia stranamente assortita con occhi meravigliati, e tutti i bambini fuggirono e si nascose dietro le loro madri quando hanno visto il Leone, ma nessuno parlava di loro. Molti negozi si trovava nella strada, e Dorothy vide che tutto ciò che in essi era verde. Caramelle verde e verde pop corn sono stati offerti in vendita, così come le scarpe verde, verde cappelli e vestiti verdi di ogni tipo. Ad un certo punto un uomo che vendeva limonata verde, e quando i bambini lo acquistò Dorothy potuto vedere che hanno pagato con monetine verdi.. 
 
@@ -1889,8 +1889,8 @@ Se il testo sul tuo dispositivo è troppo piccolo prova ad utilizzare "</string>
      <string name="free_xiaomi_wifi_connect_summary">Tocca per collegarti a %1$s.</string>
      <string name="frequently_fragment_delete">Rimuovi</string>
      <string name="frequently_fragment_tempty">Le voci usate di frequente saranno elencate qui</string>
-     <string name="fsg_mistake_touch_summary">In some scenes, such as full-screen games and videos, gestures need to be double swipe to take effect</string>
-     <string name="fsg_mistake_touch_title">Double check for the gestures</string>
+     <string name="fsg_mistake_touch_summary">In alcune scene, come giochi e video a tutto schermo, gesture è necessario un doppio swipe per avere effetto</string>
+     <string name="fsg_mistake_touch_title">Doppio controllo per le gesture</string>
      <string name="full_transparent_smarrcover_title">Cover frontale trasparente</string>
      <string name="fullbackup_data_summary">"Esegui automaticamente il backup dei dati del dispositivo (come password Wi-Fi e registro chiamate) e dati applicazioni (come impostazioni e file memorizzati dalle app) in remoto.
 
@@ -2819,9 +2819,9 @@ ed esegui il software."</string>
      <string name="night_light">Luce Notturna</string>
      <string name="night_light_brightness">Luminosità Luce Notturna</string>
      <string name="night_light_color">Colore Luce Notturna</string>
-     <string name="night_light_color_tip">Changes will take effect when Reading mode is off</string>
+     <string name="night_light_color_tip">Le modifiche avranno effetto quando la modalità Lettura è disattivata</string>
      <string name="night_light_summary">Riduci la luminosità in ambienti con poca luce per entrare in modalità Luce Notturna</string>
-     <string name="night_light_tip">Changes will take effect when Night mode is on</string>
+     <string name="night_light_tip">Le modifiche avranno effetto quando la modalità Lettura è sattivata</string>
      <string name="no">No</string>
      <string name="no_application">Nessuna</string>
      <string name="no_applications">Nessuna applicazione.</string>
@@ -2858,7 +2858,7 @@ ed esegui il software."</string>
      <string name="notification_badging_title">Consenti i punti di notifica</string>
      <string name="notification_breathing_light_color_title">Colore LED notifiche</string>
      <string name="notification_breathing_light_freq_title">Frequenza illuminazione LED notifiche</string>
-     <string name="notification_channel_badge_title">MOstra punto di notiifca</string>
+     <string name="notification_channel_badge_title">Mostra punto di notifica</string>
      <string name="notification_channel_sound_title">Sound</string>
      <string name="notification_channel_title">Categoria notifica</string>
      <string name="notification_channels">Categorie</string>
@@ -3213,21 +3213,21 @@ ed esegui il software."</string>
      <string name="priority_storage_settings_summary">Se la scheda SD non viene rilevata, i dati verranno salvati automaticamente nella memoria interna del dispositivo</string>
      <string name="priority_storage_summary">Scegli il percorso predefinito dove salvare i dati</string>
      <string name="priority_storage_title">Impostazioni di archiviazione</string>
-     <string name="privacy_authorize_dialog_agree">Agree</string>
-     <string name="privacy_authorize_dialog_exit">Exit</string>
-     <string name="privacy_authorize_dialog_message">%1$s requires that you read and agree with %2$s. The app needs to connect to the network to work normally. Agree?</string>
-     <string name="privacy_authorize_network_error">Connect to the network and try again.</string>
-     <string name="privacy_authorize_privacy_policy">Privacy Policy</string>
-     <string name="privacy_authorize_revoke">Revoke</string>
-     <string name="privacy_authorize_revoke_dialog_msg">After you revoke authorization, the app will stop collecting data, and all the related data will be deleted from the servers. This might make the app virtually unusable. Revoke authorization anyway?</string>
-     <string name="privacy_authorize_revoke_dialog_title">Revoking authorization</string>
-     <string name="privacy_authorize_revoke_failed">"Couldn't revoke authorization"</string>
-     <string name="privacy_authorize_revoke_success">Revoked authorization successfully</string>
-     <string name="privacy_authorize_revoke_time">Revoke (%1$ds)</string>
-     <string name="privacy_authorize_revoke_title">Authorization &amp; revocation</string>
-     <string name="privacy_authorize_revoking">Revoking authorization…</string>
-     <string name="privacy_authorize_success">Granted authorization successfully</string>
-     <string name="privacy_authorize_title">Granting authorization</string>
+     <string name="privacy_authorize_dialog_agree">Accetto</string>
+     <string name="privacy_authorize_dialog_exit">Esci</string>
+     <string name="privacy_authorize_dialog_message">"%1$s richiede la lettura ed accettazione di %2$s. L'app deve collegarsi ad internet per funzionare correttamente. Sei d'accordo?"</string>
+     <string name="privacy_authorize_network_error">Connettiti alla rete e prova di nuovo.</string>
+     <string name="privacy_authorize_privacy_policy">Informativa Privacy</string>
+     <string name="privacy_authorize_revoke">Revoca</string>
+     <string name="privacy_authorize_revoke_dialog_msg">"Dopo la revoca dell'autorizzazione, l'app smetterà di raccogliere dati e tutti i relativi dati verranno eliminati dai server. Questo potrebbe rendere l'app virtualmente instabile. Revocare comunque l'autorizzazione?"</string>
+     <string name="privacy_authorize_revoke_dialog_title">Revoca autorizzazione</string>
+     <string name="privacy_authorize_revoke_failed">Impossibile revocare l'autorizzazione</string>
+     <string name="privacy_authorize_revoke_success">Autorizzazione revocata correttamente</string>
+     <string name="privacy_authorize_revoke_time">Revoca (%1$ds)</string>
+     <string name="privacy_authorize_revoke_title">Autorizzazione e revoca</string>
+     <string name="privacy_authorize_revoking">Revoca autorizzazione…</string>
+     <string name="privacy_authorize_success">Autorizzazione concessa correttamente</string>
+     <string name="privacy_authorize_title">Concessione autorizzazione</string>
      <string name="privacy_close_dlg_button_ok">Disattiva</string>
      <string name="privacy_close_dlg_msg">Quando la password di protezione è disattivata, i tuoi elementi non saranno più protetti.</string>
      <string name="privacy_close_dlg_title">Attenzione</string>
@@ -3339,7 +3339,7 @@ ed esegui il software."</string>
      <string name="qtifeedback_settings_subtitle">Qualcomm Technologies Reporting</string>
      <string name="qtifeedback_settings_title">Hardware Feedback</string>
      <string name="query_hint_text">Impostazioni di ricerca</string>
-     <string name="quick_settings_developer_tiles">Quick settings developer tiles</string>
+     <string name="quick_settings_developer_tiles">Fasce sviluppatore impostazioni rapide</string>
      <string name="quiet">Non disturbare</string>
      <string name="quiet_group">Non disturbare</string>
      <string name="quiet_important_interruptions_mode">Consenti solo le eccezioni</string>
@@ -3355,7 +3355,7 @@ ed esegui il software."</string>
      <string name="radioInfo_display_dbm">dBm</string>
      <string name="radioInfo_display_packets">pkts</string>
      <string name="radioInfo_lac">LAC</string>
-     <string name="radioInfo_menu_getIMS">IMS Service Status</string>
+     <string name="radioInfo_menu_getIMS">Stato Servizio IMS</string>
      <string name="radioInfo_menu_viewADN">Visualizza rubrica SIM</string>
      <string name="radioInfo_menu_viewFDN">Visualizza numeri selezione fissa</string>
      <string name="radioInfo_menu_viewSDN">"Visualizza numeri dell'elenco dei numeri di servizio"</string>
@@ -3475,7 +3475,7 @@ Interfaccia UT: %5$s"</string>
      <string name="reset_second_space_passwd_confirm">Continua</string>
      <string name="reset_second_space_passwd_detail">Inserisci la password del Mi Account utilizzata nello spazio Primario</string>
      <string name="reset_shortcut_manager_throttling">Azzera contatori limite frequenza ShortcutManager</string>
-     <string name="reset_shortcut_manager_throttling_complete">ShortcutManager rate-limiting has been reset</string>
+     <string name="reset_shortcut_manager_throttling_complete">IL rate-limiting ShortcutManager è stato ripristinato</string>
      <string name="resetting_second_space_passwd">Reimpostazione password spazio Secondario</string>
      <string name="resolver_settings_label">Ordina</string>
      <string name="restore_default_apn">Ripristino delle impostazioni APN predefinite…</string>
@@ -3495,9 +3495,9 @@ Interfaccia UT: %5$s"</string>
      <string name="restriction_settings_title">Limitazioni</string>
      <string name="restriction_wifi_config_summary">Consenti la modifica di impostazioni Wi-Fi e Dati cellulare</string>
      <string name="restriction_wifi_config_title">Wi-Fi e Dati cellulare</string>
-     <string name="retail_demo_reset_message">Enter password to perform factory reset in demo mode</string>
-     <string name="retail_demo_reset_next">Next</string>
-     <string name="retail_demo_reset_title">Password required</string>
+     <string name="retail_demo_reset_message">Inserisci la password per eseguire un ripristino alle condizioni di fabbrica</string>
+     <string name="retail_demo_reset_next">Avanti</string>
+     <string name="retail_demo_reset_title">Password richiesta</string>
      <string name="retry">Riprova</string>
      <string name="ring_volume_option_title">Volume suoneria</string>
      <string name="ring_volume_title">Volume suoneria</string>
@@ -3830,7 +3830,7 @@ Come usare Mantieni su schermo:
      <string name="search_security_privacy_settings_title">Privacy;Sicurezza;Fonti sconosciute;Mostra password;Firma app;Firme app;Elimina credenziali;Elimina credenziale</string>
      <string name="search_security_settings">Privacy Impostazioni</string>
      <string name="search_settings">Ricerca</string>
-     <string name="search_settings_no_results">No results</string>
+     <string name="search_settings_no_results">Nessun risultato</string>
      <string name="search_settings_summary">Gestisci le impostazioni e la cronologia delle ricerche</string>
      <string name="search_silent_mode_title">Modalità silenzioso;Silenzio;Silenzioso;Muto</string>
      <string name="search_sim_management_title">Sim e reti mobili;Dati mobili;Roaming estero;Ricevi MMS;Nomi punti di accesso;Rete preferita;Reti cellulare</string>
@@ -4129,8 +4129,8 @@ Il PIN potrebbe essere errato."</string>
      <string name="sim_lock_on">"Richiedi il PIN per l'uso del dispositivo"</string>
      <string name="sim_lock_settings">Impostazioni blocco SIM</string>
      <string name="sim_lock_settings_category">Impostazioni blocco SIM</string>
-     <string name="sim_lock_settings_summary_off">Off</string>
-     <string name="sim_lock_settings_summary_on">Locked</string>
+     <string name="sim_lock_settings_summary_off">Disattivato</string>
+     <string name="sim_lock_settings_summary_on">Bloccato</string>
      <string name="sim_lock_settings_title">Blocco della SIM</string>
      <string name="sim_management_title">SIM e reti mobili</string>
      <string name="sim_management_title_cr_kolbi">SIM e reti mobili</string>
@@ -4389,7 +4389,7 @@ Questo ^1 è stato formattato per funzionare solo su questo dispositivo. Non fun
      <string name="storage_size_large_alternate">^1&lt;small&gt; ^2&lt;/small&gt;</string>
      <string name="storage_summary">Usati %1$s di %2$s</string>
      <string name="storage_summary_format">%1$s usati in %2$s</string>
-     <string name="storage_summary_with_sdcard">Memmoria interna: %1$s usata - %2$s libera</string>
+     <string name="storage_summary_with_sdcard">Memoria interna: %1$s usata - %2$s libera</string>
      <string name="storage_title_usb">Connessione computer USB</string>
      <string name="storage_type_external">Memoria esterna</string>
      <string name="storage_type_internal">Memoria interna</string>
@@ -4539,11 +4539,11 @@ L'approccio di Google alla sincronizzazione di dati per consentirti l'accesso ai
      <string name="system_alert_window_settings">Disegno su altre app</string>
      <string name="system_alert_window_summary" formatted="false">%d di %d app possono disegnare contenuti sopra ad altre app</string>
      <string name="system_and_device_section_title">Sistema e dispositivo</string>
-     <string name="system_app">(System)</string>
+     <string name="system_app">(Sistema)</string>
      <string name="system_app_settings">Applicazioni di sistema</string>
      <string name="system_apps_updater">Aggiornamento app di sistema</string>
      <string name="system_backup_section_title">Backup</string>
-     <string name="system_dashboard_summary">Languages, time, backup, updates</string>
+     <string name="system_dashboard_summary">Lingue, orario, backup, aggiornamenti</string>
      <string name="system_default_app">(Predefinito di sistema)</string>
      <string name="system_package">Impossibile installare aggiornamenti di sistema su supporti esterni.</string>
      <string name="system_shortcut_wake">Attiva con con i collegamenti dei tasti</string>
@@ -4565,8 +4565,8 @@ L'approccio di Google alla sincronizzazione di dati per consentirti l'accesso ai
      <string name="testing_usage_stats">Statistiche di utilizzo</string>
      <string name="testing_wifi_info">Informazioni Wi-Fi</string>
      <string name="tether_and_hotspot_title">Tethering e hotspot</string>
-     <string name="tether_auto_disable_summary">Automatically close hotspot when no connected devices</string>
-     <string name="tether_auto_disable_title">Automatically close hotspot</string>
+     <string name="tether_auto_disable_summary">Chiudi automaticamente l'hotspot quando nessun dispositivo è connesso</string>
+     <string name="tether_auto_disable_title">Ciudi automaticamente hotspot</string>
      <string name="tether_data_usage_limit">Limite dati one-time</string>
      <string name="tether_data_usage_limit_summary">"Il limite dati verrà applicato la prossima volta che l'hotspot è attivo"</string>
      <string name="tether_devices_management_title">Gestisci dispositivi</string>
@@ -4881,7 +4881,7 @@ Le impronte digitali salvate saranno rimosse da questo profilo e non sarai in gr
      <string name="use_open_wifi_automatically_summary">Connettiti automaticamente alle reti pubbliche di alta qualità</string>
      <string name="use_open_wifi_automatically_title">Connettiti alle reti aperte</string>
      <string name="use_personalized_ad_service">Pubblicità personalizzate</string>
-     <string name="use_personalized_ad_service_summary">When the recommendation feature is switched off, you will still see the same quantity of ads as when it’s on, but not based on your behavior data or your personal information.</string>
+     <string name="use_personalized_ad_service_summary">Quando la funzione dei suggerimenti è disattivata, vedrai la stessa quantità di pubblicità di quando è attivata, ma non basati sulel tue abitudini e le tue informazioni personali.</string>
      <string name="use_privacy_password_immediate">Utilizza</string>
      <string name="use_system_language_to_select_input_method_subtypes">Usa lingua di sistema</string>
      <string name="use_this_wlan">Usa questa rete Wi-Fi</string>
@@ -5620,7 +5620,7 @@ Tocca "<b>Indietro</b>" per connetterti a un'altra rete Wi-Fi."</string>
      <string name="work_profile_usage_access_warning">"Disattivare l'accesso ai dati di utilizzo di quest'app non impedisce al tuo amministratore di tracciare i dati di utilizzo di questa applicazione nel tuo profilo lavorativo."</string>
      <string name="work_ringtone_title">Suoneria telefono lavoro</string>
      <string name="work_sim_title">SIM Lavoro</string>
-     <string name="work_sound_same_as_personal">Lo stesso del profilo eprsonale</string>
+     <string name="work_sound_same_as_personal">Lo stesso del profilo personale</string>
      <string name="work_space_delete">Elimina spazio di lavoro</string>
      <string name="work_space_delete_confirm">"Conferma l'eliminazione"</string>
      <string name="work_space_delete_description">"Non sarai in grado di accedere allo spazio di lavoro se lo elimini. Tutti i dati verranno spostati o eliminati."</string>
