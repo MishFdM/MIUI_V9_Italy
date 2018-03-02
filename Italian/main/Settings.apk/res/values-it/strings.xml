@@ -3221,7 +3221,7 @@ ed esegui il software."</string>
      <string name="privacy_authorize_revoke">Revoca</string>
      <string name="privacy_authorize_revoke_dialog_msg">"Dopo la revoca dell'autorizzazione, l'app smetterà di raccogliere dati e tutti i relativi dati verranno eliminati dai server. Questo potrebbe rendere l'app virtualmente instabile. Revocare comunque l'autorizzazione?"</string>
      <string name="privacy_authorize_revoke_dialog_title">Revoca autorizzazione</string>
-     <string name="privacy_authorize_revoke_failed">Impossibile revocare l'autorizzazione</string>
+     <string name="privacy_authorize_revoke_failed">"Impossibile revocare l'autorizzazione"</string>
      <string name="privacy_authorize_revoke_success">Autorizzazione revocata correttamente</string>
      <string name="privacy_authorize_revoke_time">Revoca (%1$ds)</string>
      <string name="privacy_authorize_revoke_title">Autorizzazione e revoca</string>
@@ -4565,7 +4565,7 @@ L'approccio di Google alla sincronizzazione di dati per consentirti l'accesso ai
      <string name="testing_usage_stats">Statistiche di utilizzo</string>
      <string name="testing_wifi_info">Informazioni Wi-Fi</string>
      <string name="tether_and_hotspot_title">Tethering e hotspot</string>
-     <string name="tether_auto_disable_summary">Chiudi automaticamente l'hotspot quando nessun dispositivo è connesso</string>
+     <string name="tether_auto_disable_summary">"Chiudi automaticamente l'hotspot quando nessun dispositivo è connesso"</string>
      <string name="tether_auto_disable_title">Ciudi automaticamente hotspot</string>
      <string name="tether_data_usage_limit">Limite dati one-time</string>
      <string name="tether_data_usage_limit_summary">"Il limite dati verrà applicato la prossima volta che l'hotspot è attivo"</string>
