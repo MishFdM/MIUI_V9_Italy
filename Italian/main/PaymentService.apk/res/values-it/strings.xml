@@ -7,7 +7,7 @@
      <string name="abc_action_menu_overflow_description">Altre opzioni</string>
      <string name="abc_action_mode_done">Fatto</string>
      <string name="abc_activity_chooser_view_see_all">Mostra tutto</string>
-     <string name="abc_activitychooserview_choose_application">Scegli un'app</string>
+     <string name="abc_activitychooserview_choose_application">"Scegli un'app"</string>
      <string name="abc_capital_off">OFF</string>
      <string name="abc_capital_on">ON</string>
      <string name="abc_search_hint">Cerca…</string>
@@ -486,7 +486,7 @@ Centro servizio clienti:400-100-5678"</string>
      <string name="passport_restart_register_title">Crea un Mi Account</string>
      <string name="passport_retry">Riprova</string>
      <string name="passport_select_reg_ways_title">Altri metodi di registrazione</string>
-     <string name="passport_select_the_login_account">Seleziona l'account per accedere</string>
+     <string name="passport_select_the_login_account">"Seleziona l'account per accedere"</string>
      <string name="passport_select_the_recycle_phone_login">Seleziona il tuo account</string>
      <string name="passport_select_the_register_phone">Seleziona il numero di telefono per creare un account</string>
      <string name="passport_send_too_many_code">Troppi codici di verifica sono stati inviati a questo numero. Attendi 24 ore e riprova.</string>

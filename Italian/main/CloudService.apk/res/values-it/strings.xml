@@ -388,8 +388,8 @@ Utilizza un account diverso."</string>
      <string name="micloud_other_product_price">Confronta prezzi</string>
      <string name="micloud_privacy_cloud_off">SIncronizzazione disattivata</string>
      <string name="micloud_privacy_cloud_sync">Attiva Mi Cloud</string>
-     <string name="micloud_privacy_explanation">Attiva Mi Cloud dopo aver concesso l'autorizzazione</string>
-     <string name="micloud_privacy_licence_agreed">Accetta l'Informativa sull Privacy di Mi Cloud.</string>
+     <string name="micloud_privacy_explanation">"Attiva Mi Cloud dopo aver concesso l'autorizzazione"</string>
+     <string name="micloud_privacy_licence_agreed">"Accetta l'Informativa sull Privacy di Mi Cloud."</string>
      <string name="micloud_privacy_licence_privacy_policy">privacy policy</string>
      <string name="micloud_privacy_more">more</string>
      <string name="micloud_privacy_warning_button">Indietro</string>
