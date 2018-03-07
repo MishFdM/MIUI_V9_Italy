@@ -636,7 +636,7 @@ Ultimo utilizzo il %2$s"</string>
      <string name="bluetooth_ask_disablement_no_name">"Un'app vuole disattivare il Bluetooth"</string>
      <string name="bluetooth_ask_discovery"> %1$s vuole rendere il tuo telefono visibile ad altri dispositivi Bluetooth per %2$d secondi.</string>
      <string name="bluetooth_ask_discovery_no_name">"Un'app vuole rendere il tuo telefono visibile ad altri dispositivi Bluetooth per %1$d secondi."</string>
-     <string name="bluetooth_ask_enablement">%1$s vuole attivar Bluetooth</string>
+     <string name="bluetooth_ask_enablement">%1$s vuole attivare Bluetooth</string>
      <string name="bluetooth_ask_enablement_and_discovery">%1$s vuole attivare il Bluetooth e rendere visibile agli altri dispositivi per %2$d secondi.</string>
      <string name="bluetooth_ask_enablement_and_discovery_detected">" vuole attivare il Bluetooth e rendere visibile agli altri dispositivi per %1$d secondi."</string>
      <string name="bluetooth_ask_enablement_and_discovery_no_name">"Un'applicazione vuole attivare il Bluetooth e rendere visibile agli altri dispositivi per %1$d secondi."</string>

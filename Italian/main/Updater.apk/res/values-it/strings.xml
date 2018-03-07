@@ -203,7 +203,7 @@ Nessun aggiornamento sarà disponibile per te!"</string>
      <string name="provision_check_sim">Verifica SIM</string>
      <string name="provision_connect_wifi">Connessione a Wi-Fi</string>
      <string name="provision_have_sim">SIM inserita</string>
-     <string name="provision_no_network_extra">Collegati a Wi-Fi o inserisci la tua SIM ed utilizzi la rete mobile per attivar eil dispositivo senza collegarti alla rete."</string>
+     <string name="provision_no_network_extra">Collegati a Wi-Fi o inserisci la tua SIM ed utilizzi la rete mobile per attivare il dispositivo senza collegarti alla rete."</string>
      <string name="provision_no_network_title">Collegati alla rete</string>
      <string name="provision_retry">Prova di nuovo</string>
      <string name="provision_toast_no_network">Collegati prima alla rete</string>
