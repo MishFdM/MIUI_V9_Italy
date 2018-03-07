@@ -1801,7 +1801,7 @@ Per maggiori dettagli contatta l'amministratore."</string>
      <string name="fingerprint_unlock_set_unlock_pattern">Impronta + Pattern</string>
      <string name="fingerprint_unlock_set_unlock_pin">Impronta + PIN</string>
      <string name="fingerprint_unlock_skip_fingerprint">Continua senza impronta</string>
-     <string name="fingerprint_unlock_title">""Puoi sbloccare il telefono usando l'impronta digitale. Per sicurezza, questa opzione richiede un blocco schermo di riserva."</string>
+     <string name="fingerprint_unlock_title">"Puoi sbloccare il telefono usando l'impronta digitale. Per sicurezza, questa opzione richiede un blocco schermo di riserva."</string>
      <string name="fingerprint_usage_category_title">Utilizza impronta digitale per</string>
      <string name="finish_application">Fine</string>
      <string name="finish_button">Fine</string>
