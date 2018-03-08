@@ -765,8 +765,6 @@ Sei scuro di voler uscire da questa pagina?"</string>
      <string name="mw_snippets_disabled_generic_prompt">Accedi a contenuto personalizzato</string>
      <string name="mw_snippets_disabled_signed_out_instructions">Per accedere al contenuto personalizzato di Google, accedi a Chrome.</string>
      <string name="mw_time_picker_dialog_am">AM</string>
-     <string name="mw_time_picker_dialog_hour_minute_separator">:</string>
-     <string name="mw_time_picker_dialog_minute_second_separator">:</string>
      <string name="mw_time_picker_dialog_pm">PM</string>
      <string name="mw_time_picker_dialog_second_subsecond_separator">.</string>
      <string name="mw_time_picker_dialog_title">Set time</string>

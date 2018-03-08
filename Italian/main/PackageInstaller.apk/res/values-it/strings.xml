@@ -285,7 +285,6 @@
      <string name="lb_search_bar_hint_speech">Parla per cercare</string>
      <string name="lb_search_bar_hint_with_title">Cerca in %1$s</string>
      <string name="lb_search_bar_hint_with_title_speech">Parla per cercare in %1$s</string>
-     <string name="lb_time_separator">:</string>
      <string name="loading">Caricamento…</string>
      <string name="local_backup_password_summary_change">Tocca per modificare o rimuovere la password per i backup desktop completi</string>
      <string name="local_backup_password_summary_none">I backup desktop completi non sono attualmente protetti.</string>

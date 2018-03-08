@@ -135,7 +135,6 @@
      <string name="stat_repeat_weekends">Weekend</string>
      <string name="stopwatch_lap_empty_text">Nessun giro</string>
      <string name="stopwatch_title">Cronometro</string>
-     <string name="symbol_colon">:</string>
      <string name="system_time_setting">Impostazioni</string>
      <string name="system_time_settings_category_title">Impostazioni sveglia</string>
      <string name="temperature_unit">%1$s°</string>

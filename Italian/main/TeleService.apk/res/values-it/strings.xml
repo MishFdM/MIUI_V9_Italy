@@ -1544,7 +1544,6 @@ Il prossimo periodo inizia tra %2$d giorni (%3$s)"</string>
      <string name="time_end_minute">minuto di interruzione</string>
      <string name="time_formate_am">AM</string>
      <string name="time_formate_pm">PM</string>
-     <string name="time_interval_char">:</string>
      <string name="time_next_day">" giorno successivo "</string>
      <string name="time_start">Da</string>
      <string name="time_start_hour">ora di inizio</string>

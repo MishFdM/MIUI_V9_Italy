@@ -8,7 +8,6 @@
      <string name="custom_lock_wallpaper_enter">Inserisci</string>
      <string name="default_lockscreen_unlock_hint_text">Scorri per sbloccare</string>
      <string name="delete">Elimina</string>
-     <string name="digital_clock_dot">:</string>
      <string name="do_disclosure_generic">Questo dispositivo è gestito dalla tua organizzazione</string>
      <string name="do_disclosure_with_name">Questo dispositivo è gestito da %s</string>
      <string name="doze_pickup_subtype_performs_proximity_check" />
@@ -137,7 +136,6 @@
      <string name="phone_locked_string">Il telefono è stato bloccato</string>
      <string name="reset_device_detail_tip">Carica senza fili, allinea la base del telefono per garantire la corretta velocità di carica.</string>
      <string name="reset_device_tip">Carica lenta, posiziona meglio il telefono</string>
-     <string name="symbol_colon">:</string>
      <string name="unlock_camera_steady">Rimani fermo</string>
      <string name="unlock_failed">Errore interno</string>
      <string name="unlock_failed_face_not_found">Rilevamento</string>
