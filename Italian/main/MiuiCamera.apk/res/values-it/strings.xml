@@ -62,6 +62,7 @@
      <string name="config_name_setting">Impostazioni</string>
      <string name="config_name_sound">Audio</string>
      <string name="config_name_straighten">Rafforza</string>
+     <string name="config_name_super_resolution">Super resolution</string>
      <string name="config_name_tilt">Tilt-shift</string>
      <string name="config_name_timer">Timer</string>
      <string name="confirm_install_scanner_message">Lo scanner ti permette di scansionare codici QR, a barre, ed altri. E non dovrai connetterti ad internet per installarlo.</string>
@@ -158,6 +159,7 @@ e creerà una foto in cui tutti appariranno ancora più belli."</string>
      <string name="portrait_mode_use_hint">"La modalità portrait ti aiuta a sfocare lo sfondo
 per rendere il tuo corpo ancor più chiaro e meraviglioso"</string>
      <string name="pref_advance_settings">Impostazioni aggiuntive</string>
+     <string name="pref_ai_detect">AI detection</string>
      <string name="pref_audio_focus_entry_front">Frontale</string>
      <string name="pref_audio_focus_entry_general">Normale</string>
      <string name="pref_audio_focus_entry_rear">Posteriore</string>
@@ -165,6 +167,7 @@ per rendere il tuo corpo ancor più chiaro e meraviglioso"</string>
      <string name="pref_burst_shoot_title">Scatto continuo</string>
      <string name="pref_camcorder_settings">Impostazioni videocamera</string>
      <string name="pref_camcorder_settings_category">Videocamera</string>
+     <string name="pref_camera_ai_scene_title">AI scene</string>
      <string name="pref_camera_antibanding_entry_0">Disattivato</string>
      <string name="pref_camera_antibanding_entry_1">50 Hz</string>
      <string name="pref_camera_antibanding_entry_2">60 Hz</string>
@@ -183,6 +186,7 @@ per rendere il tuo corpo ancor più chiaro e meraviglioso"</string>
      <string name="pref_camera_beautify_entry_high">Alto</string>
      <string name="pref_camera_beautify_entry_low">Basso</string>
      <string name="pref_camera_beautify_entry_normal">Medio</string>
+     <string name="pref_camera_beauty">Beautify</string>
      <string name="pref_camera_beauty_deep">beauty deep</string>
      <string name="pref_camera_bokeh_title">Verticale</string>
      <string name="pref_camera_coloreffect_entry_aqua" />
@@ -215,6 +219,8 @@ per rendere il tuo corpo ancor più chiaro e meraviglioso"</string>
      <string name="pref_camera_delay_capture_entry_audio">Audio</string>
      <string name="pref_camera_delay_capture_title">Autoscatto</string>
      <string name="pref_camera_device_watermark_title">Logo dispositivo</string>
+     <string name="pref_camera_dual_enable_title">Turn on dual camera</string>
+     <string name="pref_camera_dual_sat_enable_title">Turn on dual SAT camera</string>
      <string name="pref_camera_exposuretime_entry_1">1s</string>
      <string name="pref_camera_exposuretime_entry_1000">1/1000s</string>
      <string name="pref_camera_exposuretime_entry_125">1/125s</string>
@@ -247,6 +253,8 @@ per rendere il tuo corpo ancor più chiaro e meraviglioso"</string>
      <string name="pref_camera_focusmode_entry_manual">Manuale</string>
      <string name="pref_camera_focusmode_entry_normal">Normale</string>
      <string name="pref_camera_focusmode_title">Messa a fuoco</string>
+     <string name="pref_camera_front_ai_scene_entry_off">AI scene is off</string>
+     <string name="pref_camera_front_ai_scene_entry_on">AI scene</string>
      <string name="pref_camera_front_bokeh_entry_off">Off</string>
      <string name="pref_camera_front_bokeh_entry_on">On</string>
      <string name="pref_camera_gradienter_title">Prospettiva</string>
@@ -281,6 +289,7 @@ per rendere il tuo corpo ancor più chiaro e meraviglioso"</string>
      <string name="pref_camera_long_pressing_shutter_title">Tieni premuto il tasto di scatto per bloccare AE/AF/AWB</string>
      <string name="pref_camera_magic_mirror_title">Specchio magico</string>
      <string name="pref_camera_manual_mode_title">Manuale</string>
+     <string name="pref_camera_mfnr_sat_enable_title">Turn on MFNR</string>
      <string name="pref_camera_movie_solid_title">Stabilizzazione video</string>
      <string name="pref_camera_multilevel_entry_high">Alto</string>
      <string name="pref_camera_multilevel_entry_higher">Più alto</string>
@@ -290,6 +299,7 @@ per rendere il tuo corpo ancor più chiaro e meraviglioso"</string>
      <string name="pref_camera_multilevel_entry_lowest">Minimo</string>
      <string name="pref_camera_multilevel_entry_middle">Medio (Default)</string>
      <string name="pref_camera_multilevel_entry_normal">Normale</string>
+     <string name="pref_camera_optimized_flash_enable_title">Optimized flash</string>
      <string name="pref_camera_panoramamode_title">Panorama</string>
      <string name="pref_camera_parallel_process_enable_title">Abilita processo immagine parallela</string>
      <string name="pref_camera_peak_entry_off">Disattivato</string>
@@ -402,6 +412,10 @@ per rendere il tuo corpo ancor più chiaro e meraviglioso"</string>
      <string name="pref_skin_beautify_intelligent_title">Intelligente</string>
      <string name="pref_skin_beautify_slim_title">Sottile</string>
      <string name="pref_skin_beautify_smooth_title">Liscio</string>
+     <string name="pref_video_focusmode_entry_auto">Tap</string>
+     <string name="pref_video_focusmode_entry_continuous">CAF</string>
+     <string name="pref_video_focusmode_title">Focus mode</string>
+     <string name="pref_video_hfr_title">Video HFR</string>
      <string name="pref_video_quality_entry_1080p">Full HD (1080p)</string>
      <string name="pref_video_quality_entry_480p">SD (480p)</string>
      <string name="pref_video_quality_entry_4kuhd">4K (2160p)</string>
@@ -464,6 +478,8 @@ per rendere il tuo corpo ancor più chiaro e meraviglioso"</string>
      <string name="sticker_tab2">Divertente</string>
      <string name="tap_to_exposure">"Tocca per passare all'esposizione manuale."</string>
      <string name="tap_to_focus">Tocca per mettere a fuoco</string>
+     <string name="text_ai_scene_selector_text_off">CONTRE-JOUR</string>
+     <string name="text_ai_scene_selector_text_on">SILHOUETTE</string>
      <string name="time_lapse_error">Dimensione video non valida per il Time-lapse.</string>
      <string name="title_snap_double_confirm">Conferma di nuovo</string>
      <string name="toast_burst_snap_finished_summary">Scatto multiplo completato, %1$s foto scattate</string>

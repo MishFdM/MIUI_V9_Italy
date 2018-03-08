@@ -13,6 +13,7 @@
      <string name="action_menu_account_not_login_hint">Utilizza le impostazioni cloud quando accedi</string>
      <string name="action_menu_bookshelf">Libreria</string>
      <string name="action_menu_current_version">Versione attuale</string>
+     <string name="action_menu_download">Download</string>
      <string name="action_menu_request_desktop_site">Desktop</string>
      <string name="action_menu_request_desktop_site_off">Desktop disattivo</string>
      <string name="action_menu_request_desktop_site_on">Desktop attivo</string>
@@ -33,6 +34,7 @@
      <string name="action_menu_text_nightmode">Modalità Notte</string>
      <string name="action_menu_text_nightmode_off">Modalità Notte</string>
      <string name="action_menu_text_nightmode_on">Modalità Notte</string>
+     <string name="action_menu_text_readmode">Reading mode</string>
      <string name="action_menu_text_refresh">Aggiorna</string>
      <string name="action_menu_text_setting">Impostazioni</string>
      <string name="action_menu_text_share">Condividi</string>
@@ -138,6 +140,7 @@
      <string name="clear_search_history">Cancella cronologia</string>
      <string name="clear_video_download">Cancella i video</string>
      <string name="clip_dialog_title">"Aprire l'URL copiato?"</string>
+     <string name="close">Close</string>
      <string name="close_ads_choice_no">No</string>
      <string name="close_ads_choice_yes">Si</string>
      <string name="close_ads_message">Questo contenuto verrà chiuso. Bloccare automaticamente questo contenuto la prossima volta? Il contenuto bloccato sarà visibile in Ipostazioni -> Avanzate -> Regole personalzzate</string>
@@ -275,6 +278,9 @@ per vedere qui le schede cloud aperte su altri dispositivi"</string>
      <string name="enable_geolocation_confirm_message">La disattivazione di questa funzione potrebbe influire sulla visualizzazione dei siti web.</string>
      <string name="enter_developer_mode">Modalità sviluppatore</string>
      <string name="enter_incongnito_mode">Entra in modalità incognito</string>
+     <string name="enter_the_group_name">Please enter the group name</string>
+     <string name="enter_the_password">Please enter the password</string>
+     <string name="enter_the_user_name">Please enter the user name</string>
      <string name="error_console_eval_button_text">Abilita</string>
      <string name="error_console_eval_text_hint">Abilita JavaScript</string>
      <string name="error_console_header_text_maximized">JavaScript console</string>
@@ -987,6 +993,7 @@ Ricorda che i file scaricati e i segnalibri che aggiungi verranno salvati comunq
      <string name="save_image_success">Immagine salvata</string>
      <string name="save_page_capture_tip">Apri il pannello delle notifiche per vedere lo screenshot.</string>
      <string name="save_page_capture_to_camera">Screenshot salvato</string>
+     <string name="save_to_bookmark">Save to bookmarks</string>
      <string name="save_to_camera">Salva in Fotocamera</string>
      <string name="save_to_camera_failed">"Impossibile salvare l'immagine"</string>
      <string name="save_to_camera_success">Salvato in Fotocamera</string>
@@ -1064,7 +1071,9 @@ Per navigare correttamente devi essere collegato ad Internet. Per poter utilizza
      <string name="ssl_untrusted">"Questo certificato non proviene da un'autorità attendibile."</string>
      <string name="ssl_warnings_header">Problemi con il certificato di sicurezza del sito.</string>
      <string name="start_save_page_capture">Salvataggio screenshot…</string>
+     <string name="storage_close">Close</string>
      <string name="storage_internal">Memoria interna</string>
+     <string name="storage_open">Open</string>
      <string name="storage_permission_request_toast">Download richiede permessi di archiviazione, si prega di concederli</string>
      <string name="storage_sd_card">Scheda SD</string>
      <string name="storage_usb">Memoria USB</string>

@@ -574,10 +574,16 @@ se se dimenticata"</string>
      <string name="data_usage_leisure_warning_body">Tocca per vedere il dettagli di utilizzo dati.</string>
      <string name="data_usage_leisure_warning_title">Limite utilizzo dati oltre soglia</string>
      <string name="data_usage_limit_body">Tocca per attivare i dati mobili.</string>
+     <string name="data_usage_mobile_dialog_title">"You've already used 5GB of mobile data. MIUI turned off mobile data."</string>
      <string name="data_usage_mobile_limit_title">\u0020Limite utilizzo dati raggiunto</string>
      <string name="data_usage_no_total_package_body">Tocca per impostare limite dati</string>
      <string name="data_usage_no_total_package_body_dual">Nessun limite impostato per %s</string>
      <string name="data_usage_no_total_package_title">Imposta limite utilizzo dati</string>
+     <string name="data_usage_protected_dialog_message">"MIUI turned off mobile data to prevent you from generating additional carrier fees.
+
+Your carrier may charge you extra fees if you turn on mobile data again."</string>
+     <string name="data_usage_protected_notify_message">MIUI turned off mobile data to prevent you from generating additional carrier fees.</string>
+     <string name="data_usage_protected_notify_title">"You've already used 5GB of mobile data"</string>
      <string name="data_usage_warning_body">Tocca per mostrare i dettagli di utilizzo dati.</string>
      <string name="data_usage_warning_body_notify">Tocca per i dettagli</string>
      <string name="data_usage_warning_title_notify">Hai superato il limite dati</string>
@@ -603,6 +609,12 @@ se se dimenticata"</string>
      <string name="dialog_msg_auto_start_declare">Alcune app di sicurezza potrebbero indicare erroneamente che MIUI sta impedendo alle app di avviarsi. Per verificare i permessi concessi alle singole app, vai in Impostazioni > Applicazioni</string>
      <string name="dialog_msg_stop_virus_scan">Interrompe la scansione antivirus prima che sia terminata</string>
      <string name="dialog_no_longer_alert">Non mostrare più</string>
+     <string name="dialog_restrict_all_mobile_summary">%s Mobile data connection will be restricted for all apps after this.</string>
+     <string name="dialog_restrict_all_mobile_title">Restrict %s mobile data connection</string>
+     <string name="dialog_restrict_all_wlan_summary">WLAN connection will be restricted for all apps after this.</string>
+     <string name="dialog_restrict_all_wlan_title">Restrict WLAN connection</string>
+     <string name="dialog_restrict_negative">Restrict</string>
+     <string name="dialog_restrict_positive">Cancel</string>
      <string name="dialog_roaming_message">"Consenti a questa applicazione di utilizzare i dati roaming all'estero?"</string>
      <string name="dialog_roaming_title">Roaming estero</string>
      <string name="dialog_text">Crea un collegamento in Home per Game Speed Booster</string>
@@ -647,7 +659,13 @@ se se dimenticata"</string>
      <string name="dlg_remove_whitelist">Rimuovere questi numeri dalle eccezioni?</string>
      <string name="dlg_remove_whitelist_ing">Rimozione dalle eccezioni…</string>
      <string name="dlg_remove_whitelist_title">Rimuovi</string>
+     <string name="dlg_sec_network_unavailable">"Security app can't update because you've restricted the internet connection. Allow Security to connect to the internet?"</string>
      <string name="dlg_title_not_open_stranger_identify">Attiva identificazione numeri sconosciuti</string>
+     <string name="dlg_update_btn_contiue">Continue</string>
+     <string name="dlg_update_btn_open">Allow</string>
+     <string name="dlg_update_data_content">"You aren't connected to WLAN. Using mobile data may generate additional fees. Continue anyway?"</string>
+     <string name="dlg_update_date_title">Warning</string>
+     <string name="dlg_update_updating">Updating…</string>
      <string name="dlg_white_address_antispam_message">Aggiungere questo elemento alle eccezioni?</string>
      <string name="dlg_white_antispam_hint">Eccezioni</string>
      <string name="dlg_white_antispam_message">Aggiungere questo messaggio alle eccezioni?</string>
@@ -774,6 +792,7 @@ se se dimenticata"</string>
      <string name="gb_description_image_button_reject">Rifiuta</string>
      <string name="gb_description_image_button_video_answer">Video chiamata</string>
      <string name="gb_new_feature">Nuova funzione</string>
+     <string name="gdpr_msg">&lt;Data&gt;"In order to use the basic features of Security, you must agree that Xiaomi will collect, process, and use your personal data, including information about the ways you use Security's features (e.g., mobile data usage stats, info about malware, as well as basic info about your device) and other types of information specified in our &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Privacy Policy&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
      <string name="ge">Uno</string>
      <string name="get_sys_info">Recupero informazioni…</string>
      <string name="gigabyteShort">GB</string>
@@ -1677,6 +1696,7 @@ Questa attività riduce la durata della batteria."</string>
      <string name="sms_prefix">Blacklist Prefissi</string>
      <string name="sms_service">Blacklist Servizi</string>
      <string name="sms_smart_engine_update">Aggiorna automaticamente il filtro SMS</string>
+     <string name="sms_smart_engine_update_now">Update</string>
      <string name="sms_stranger_block">Filtro sconosciuti</string>
      <string name="sorted_dialog_title">Ordina per</string>
      <string name="sp_background_risk_dialog_summary">, verifica e risolvi i problemi di pagamento.</string>
@@ -2058,6 +2078,10 @@ Questa attività riduce la durata della batteria."</string>
      <string name="toast_root_apply_reject">"È stato negato l'accesso come root a %s"</string>
      <string name="toast_set_success">Aperto correttamente</string>
      <string name="toast_show_notification">Mostra nel pannello di notifica</string>
+     <string name="toast_update_fail">"Couldn't update"</string>
+     <string name="toast_update_nonetwork">"Couldn't connect to the network"</string>
+     <string name="toast_update_notneed">Up to date</string>
+     <string name="toast_update_success">Updated successfully</string>
      <string name="top_game">Giochi top</string>
      <string name="top_load_fail_detail">Impossibile caricare, tocca per provare di nuovo</string>
      <string name="top_no_network_detial">Impossibile caricare, controlla la connessione di rete e riprova</string>

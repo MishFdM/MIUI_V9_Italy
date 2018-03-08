@@ -582,6 +582,7 @@ For more information, contact your admin."</string>
      <string name="quick_settings_wifi_detail_empty_text">Nessuna rete Wi-Fi disponibile</string>
      <string name="quick_settings_wifi_label">Wi-Fi</string>
      <string name="quick_settings_wifi_nearby">Seleziona una rete vicina</string>
+     <string name="recent_cannot_dock">"can't enter MultiWindow Mode in Second Space"</string>
      <string name="recent_dock_tip">"Clicca per scegliere l'applicazione"</string>
      <string name="recent_task_app_info_text">Info</string>
      <string name="recent_task_cleaning">Cancellazione app…</string>

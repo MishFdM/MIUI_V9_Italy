@@ -650,6 +650,7 @@
      <string name="topic_title">Argomenti</string>
      <string name="transfer_done">File spostati con successo.</string>
      <string name="transfer_private_data">Spostamento dei file nascosti dalla scheda SD…</string>
+     <string name="transition_image">transition image</string>
      <string name="type_not_support">Questo formato non è supportato. Scompatta questo file e riprova.</string>
      <string name="ui_main_toast_favorite_added">Aggiunto correttamente</string>
      <string name="ui_main_toast_favorite_removed">Preferito(i) rimosso(i)</string>

@@ -2295,10 +2295,6 @@ Quando attivi il backup automatico, il dispositivo e i dati delle applicazioni v
      <string name="lock_screen_notifications_summary_show">Mostra tutti i contenuti delle notifiche</string>
      <string name="lock_screen_notifications_summary_show_profile">Mostra tutti i contenuti delle notifiche di lavoro</string>
      <string name="lock_screen_notifications_title">Quando il dispositivo è bloccato</string>
-     <string name="lock_screen_secure_after_timeout_immediately_never">Non chiedere mai la password</string>
-     <string name="lock_screen_secure_after_timeout_immediately_summary">Richiedi password subito</string>
-     <string name="lock_screen_secure_after_timeout_summary">Richiedi password dopo %1$s</string>
-     <string name="lock_screen_secure_after_timeout_title">Richiesta password</string>
      <string name="lock_screen_signature_summary">La firma verrà visualizzata sulla Schermata di blocco</string>
      <string name="lock_screen_signature_title">Firma Schermata di blocco</string>
      <string name="lock_screen_unlock_show">Disabilita scorrimento</string>
@@ -3213,9 +3209,10 @@ ed esegui il software."</string>
      <string name="priority_storage_settings_summary">Se la scheda SD non viene rilevata, i dati verranno salvati automaticamente nella memoria interna del dispositivo</string>
      <string name="priority_storage_summary">Scegli il percorso predefinito dove salvare i dati</string>
      <string name="priority_storage_title">Impostazioni di archiviazione</string>
+     <string name="privacy_authorize_cloud_msg">"To ensure your account's security, sign in to i.mi.com if you want to revoke authorization for Mi Cloud services (including sync and backups)."</string>
      <string name="privacy_authorize_dialog_agree">Accetto</string>
      <string name="privacy_authorize_dialog_exit">Esci</string>
-     <string name="privacy_authorize_dialog_message">"%1$s richiede la lettura ed accettazione di %2$s. L'app deve collegarsi ad internet per funzionare correttamente. Sei d'accordo?"</string>
+     <string name="privacy_authorize_dialog_message">&lt;Data&gt;"In order to use the basic features of Mi Cloud services, you must agree that Xiaomi will collect, process, and use your personal data. Refer to our Privacy Policy to learn how we collect and process personal data. Selecting \"Agree\" means that you've read and agreed to our &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Privacy Policy&amp;lt;/a&amp;gt; and &amp;lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s\"&amp;gt;User Agreement&amp;lt;/a&amp;gt;.&amp;#8203;"&lt;/Data&gt;</string>
      <string name="privacy_authorize_network_error">Connettiti alla rete e prova di nuovo.</string>
      <string name="privacy_authorize_privacy_policy">Informativa Privacy</string>
      <string name="privacy_authorize_revoke">Revoca</string>
@@ -3892,6 +3889,8 @@ Come usare Mantieni su schermo:
      <string name="search_xiaomi_account">Mi Account; Mi Account ID;Account;Account ID</string>
      <string name="search_xspace">XSpace</string>
      <string name="second_space">Spazio Secondario</string>
+     <string name="secondspace_category">Second space</string>
+     <string name="secondspace_delete_space_title">Delete Second space</string>
      <string name="secure_keyguard_business_title">Password Schermata di blocco</string>
      <string name="secure_lock_encryption_warning">Poiché hai attivato un servizio di accessibilità, non verrà usata la password della Schermata di blocco per migliorare la crittografia dei dati."</string>
      <string name="security_dashboard_summary">Screen lock, fingerprint</string>
@@ -5199,6 +5198,9 @@ Aggiungi una parola toccando il tasto +."</string>
      <string name="wfd_menu_teardown">Ferma</string>
      <string name="wfd_settings_description">Connessione ad uno schermo wireless</string>
      <string name="wfd_settings_title">Schermo wireless</string>
+     <string name="wfd_status_dialog_disconnect">Disconnect</string>
+     <string name="wfd_status_dialog_message">Screen contents are being displayed on another display device through wireless connection</string>
+     <string name="wfd_status_dialog_title">Wireless display</string>
      <string name="wfd_wps_keypad">Preferisco usare il pulsante</string>
      <string name="wfd_wps_pbc">Preferisco inserire il PIN</string>
      <string name="whetstone_level_reboot">Questa impostazione avrà effetto dopo il riavvio del dispositivo</string>

@@ -16,14 +16,17 @@
      <string-array name="date_of_app_all">
         <item>Dati (ieri)</item>
         <item>Dati (oggi)</item>
+		<item>Dati (ultimo mese)</item>
         <item>Dati (questo mese)</item>
         <item>Wi-Fi (ieri)</item>
         <item>Wi-Fi (oggi)</item>
+		<item>Wi-Fi (ultimo mese)</item>
         <item>Wi-Fi (questo mese)</item>
      </string-array>
      <string-array name="date_of_traffic">
         <item>"Ieri "</item>
         <item>"Oggi "</item>
+		<item>"Ultimo mese "</item>
         <item>"Questo mese "</item>
      </string-array>
      <string-array name="date_of_traffic_cmcc">
@@ -34,6 +37,7 @@
      <string-array name="date_of_traffic_prefix">
         <item>"Ieri: "</item>
         <item>"Oggi: "</item>
+		<item>"Ultimo mese: "</item>
         <item>"Questo mese: "</item>
      </string-array>
      <string-array name="date_of_traffic_prefix_cmcc">
