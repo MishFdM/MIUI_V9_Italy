@@ -3446,11 +3446,11 @@ Interfaccia UT: %5$s"</string>
      <string name="reset_app_preferences_button">Reimposta app</string>
      <string name="reset_app_preferences_desc">"Verranno reimpostate tutte le preferenze relative a:
 
- "<li>App disattivate</li>"
- "<li>Notifiche app disattivate</li>"
- "<li>Applicazioni predefinite per azioni</li>"
- "<li>Limitazioni di dati in background per app</li>"
- "<li>Eventuali limitazioni di autorizzazione</li>"
+ <li>App disattivate</li>
+ <li>Notifiche app disattivate</li>
+ <li>Applicazioni predefinite per azioni</li>
+ <li>Limitazioni di dati in background per app</li>
+ <li>Eventuali limitazioni di autorizzazione</li>
 
  Non perderai i dati delle app."</string>
      <string name="reset_app_preferences_title">Reimpostare preferenze app?</string>
@@ -4366,9 +4366,9 @@ Questo ^1 è stato formattato per funzionare solo su questo dispositivo. Non fun
      <string name="storage_menu_format">Formatta</string>
      <string name="storage_menu_format_private">Formatta come interno</string>
      <string name="storage_menu_format_public">Formatta come portatile</string>
-     <string name="storage_menu_free">Free up space</string>
+     <string name="storage_menu_free">Libera spazio</string>
      <string name="storage_menu_manage">Gestisci archivio</string>
-     <string name="storage_menu_migrate">Migrate data</string>
+     <string name="storage_menu_migrate">Migrazione dati</string>
      <string name="storage_menu_mount">Monta</string>
      <string name="storage_menu_rename">Rinomina</string>
      <string name="storage_menu_set_up">Imposta</string>

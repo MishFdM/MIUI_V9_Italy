@@ -174,23 +174,23 @@
         <item>kernel only</item>
      </string-array>
      <string-array name="show_non_rect_clip_entries">
-        <item>Off</item>
-        <item>Draw non-rectangular clip region in blue</item>
+        <item>Disattivato</item>
+        <item>Disegna aree non rettangolari in blu</item>
         <item>Highlight tested drawing commands in green</item>
      </string-array>
      <string-array name="track_frame_time_entries">
-        <item>Off</item>
-        <item>On screen as bars</item>
+        <item>Disattivato</item>
+        <item>Su schermo come barre</item>
         <item>In adb shell dumpsys gfxinfo</item>
      </string-array>
      <string-array name="transition_animation_scale_entries">
-        <item>Animation off</item>
-        <item>Animation scale .5x</item>
-        <item>Animation scale 1x</item>
-        <item>Animation scale 1.5x</item>
-        <item>Animation scale 2x</item>
-        <item>Animation scale 5x</item>
-        <item>Animation scale 10x</item>
+        <item>Animazioni disattivate</item>
+        <item>Scala animazioni .5x</item>
+        <item>Scala animazioni 1x</item>
+        <item>Scala animazioni 1.5x</item>
+        <item>Scala animazioni 2x</item>
+        <item>Scala animazioni 5x</item>
+        <item>Scala animazioni 10x</item>
      </string-array>
      <string-array name="tts_demo_strings">
         <item>This is an example of speech synthesis in English.</item>
@@ -201,59 +201,59 @@
         <item>이것은 한국어 음성 합성의 예입니다.</item>
      </string-array>
      <string-array name="tts_rate_entries">
-        <item>Very slow</item>
-        <item>Slow</item>
-        <item>Normal</item>
-        <item>Fast</item>
-        <item>Faster</item>
-        <item>Very fast</item>
-        <item>Rapid</item>
-        <item>Very rapid</item>
-        <item>Fastest</item>
+        <item>Molto lento</item>
+        <item>Lento</item>
+        <item>Normale</item>
+        <item>Accelerato</item>
+        <item>Veloce</item>
+        <item>Molto veloce</item>
+        <item>Rapido</item>
+        <item>Molto rapido</item>
+        <item>Velocità massima</item>
      </string-array>
      <string-array name="usb_configuration_titles">
-        <item>Charging</item>
+        <item>In carica</item>
         <item>MTP (Media Transfer Protocol)</item>
         <item>PTP (Picture Transfer Protocol)</item>
         <item>RNDIS (USB Ethernet)</item>
-        <item>Audio Source</item>
+        <item>Fonte audio</item>
         <item>MIDI</item>
      </string-array>
      <string-array name="wifi_status">
         <item></item>
-        <item>Scanning…</item>
-        <item>Connecting…</item>
-        <item>Authenticating…</item>
-        <item>Obtaining IP address…</item>
-        <item>Connected</item>
-        <item>Suspended</item>
-        <item>Disconnecting…</item>
-        <item>Disconnected</item>
-        <item>Unsuccessful</item>
-        <item>Blocked</item>
-        <item>Temporarily avoiding poor connection</item>
+        <item>Scansione…</item>
+        <item>Connessione…</item>
+        <item>Autenticazione…</item>
+        <item>Recupero indirizzo IP…</item>
+        <item>Connesso</item>
+        <item>Sospeso</item>
+        <item>Disconnessione…</item>
+        <item>Disconnesso</item>
+        <item>Fallito</item>
+        <item>Bloccato</item>
+        <item>Evitamento temporaneo reti deboli</item>
      </string-array>
      <string-array name="wifi_status_with_ssid">
         <item></item>
-        <item>Scanning…</item>
-        <item>Connecting to %1$s…</item>
-        <item>Authenticating with %1$s…</item>
-        <item>Obtaining IP address from %1$s…</item>
-        <item>Connected to %1$s</item>
-        <item>Suspended</item>
-        <item>Disconnecting from %1$s…</item>
-        <item>Disconnected</item>
-        <item>Unsuccessful</item>
-        <item>Blocked</item>
-        <item>Temporarily avoiding poor connection</item>
+        <item>Scansione…</item>
+        <item>Connessione a %1$s…</item>
+        <item>Autenticazione con %1$s…</item>
+        <item>Recupero indirizzo IP da %1$s…</item>
+        <item>Connesso a %1$s</item>
+        <item>Sospeso</item>
+        <item>Disconnesso da %1$s…</item>
+        <item>Disconnesso</item>
+        <item>Fallito</item>
+        <item>Bloccato</item>
+        <item>Evitamento temporaneo reti deboli</item>
      </string-array>
      <string-array name="window_animation_scale_entries">
-        <item>Animation off</item>
-        <item>Animation scale .5x</item>
-        <item>Animation scale 1x</item>
-        <item>Animation scale 1.5x</item>
-        <item>Animation scale 2x</item>
-        <item>Animation scale 5x</item>
-        <item>Animation scale 10x</item>
+        <item>Animazioni disattivate</item>
+        <item>Scala animazioni .5x</item>
+        <item>Scala animazioni 1x</item>
+        <item>Scala animazioni 1.5x</item>
+        <item>Scala animazioni 2x</item>
+        <item>Scala animazioni 5x</item>
+        <item>Scala animazioni 10x</item>
      </string-array>
 </resources>

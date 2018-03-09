@@ -219,10 +219,10 @@
      <string name="app_manager_reset_app_preferences_button">Ripristina app</string>
      <string name="app_manager_reset_app_preferences_desc">"Questo riporterà i valori predefiniti delle preferenze per:
 
- "&lt;li&gt;App disattivate&lt;/li&gt;"
- "&lt;li&gt;Notifiche app disattivate&lt;/li&gt;"
- "&lt;li&gt;Applicazioni predefinite per azioni&lt;/li&gt;"
- "&lt;li&gt;Limitazione dati in background delle app&lt;/li&gt;"
+ <li>App disattivate</li>
+ <li>Notifiche app disattivate</li>
+ <li>Applicazioni predefinite per azioni</li>
+ <li>Limitazione dati in background delle app</li>
 
  Non perderai nessun dato dell'applicazione."</string>
      <string name="app_manager_reset_app_preferences_title">Ripristina le preferenze applicazioni?</string>
