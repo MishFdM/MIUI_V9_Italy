@@ -2295,10 +2295,6 @@ Quando attivi il backup automatico, il dispositivo e i dati delle applicazioni v
      <string name="lock_screen_notifications_summary_show">Mostra tutti i contenuti delle notifiche</string>
      <string name="lock_screen_notifications_summary_show_profile">Mostra tutti i contenuti delle notifiche di lavoro</string>
      <string name="lock_screen_notifications_title">Quando il dispositivo è bloccato</string>
-     <string name="lock_screen_secure_after_timeout_immediately_never">Non chiedere mai la password</string>
-     <string name="lock_screen_secure_after_timeout_immediately_summary">Richiedi password subito</string>
-     <string name="lock_screen_secure_after_timeout_summary">Richiedi password dopo %1$s</string>
-     <string name="lock_screen_secure_after_timeout_title">Richiesta password</string>
      <string name="lock_screen_signature_summary">La firma verrà visualizzata sulla Schermata di blocco</string>
      <string name="lock_screen_signature_title">Firma Schermata di blocco</string>
      <string name="lock_screen_unlock_show">Disabilita scorrimento</string>
@@ -3213,9 +3209,10 @@ ed esegui il software."</string>
      <string name="priority_storage_settings_summary">Se la scheda SD non viene rilevata, i dati verranno salvati automaticamente nella memoria interna del dispositivo</string>
      <string name="priority_storage_summary">Scegli il percorso predefinito dove salvare i dati</string>
      <string name="priority_storage_title">Impostazioni di archiviazione</string>
+     <string name="privacy_authorize_cloud_msg">Per garantire la sicurezza del tuo account, accedi a i.mi.com se vuoi revocare le autorizzazioni per i servizi Mi Cloud (inclusi sincronizzazione e backup).</string>
      <string name="privacy_authorize_dialog_agree">Accetto</string>
      <string name="privacy_authorize_dialog_exit">Esci</string>
-     <string name="privacy_authorize_dialog_message">"%1$s richiede la lettura ed accettazione di %2$s. L'app deve collegarsi ad internet per funzionare correttamente. Sei d'accordo?"</string>
+     <string name="privacy_authorize_dialog_message">&lt;Data&gt;"Per poter utilizzare le funzioni base dei servizi Mi Cloud, devi accettare che Xiaomi raccolga, elabori ed utilizzi i tuoi dati personali. Leggi la nostra Informativa sulla Privacy per scoprire come raccogliamo ed elaboriamo i dati. Selezionando \"Accetto\" dichiari di aver letto la nostra &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Informativa sulla Privacy&amp;lt;/a&amp;gt; ed il nostro &amp;lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s\"&amp;gt;Accordo Utente&amp;lt;/a&amp;gt;.&amp;#8203;"&lt;/Data&gt;</string>
      <string name="privacy_authorize_network_error">Connettiti alla rete e prova di nuovo.</string>
      <string name="privacy_authorize_privacy_policy">Informativa Privacy</string>
      <string name="privacy_authorize_revoke">Revoca</string>
@@ -3290,7 +3287,6 @@ ed esegui il software."</string>
      <string name="private_sms_recording_intro_header">Disegna una sequenza di sblocco:</string>
      <string name="private_sms_reset_by_account">Per reimpostare la tua password, accedi al tuo Mi Account</string>
      <string name="process_dex2oat_label">Ottimizzazione app</string>
-     <string name="process_kernel_label">Sistema operativo Android</string>
      <string name="process_mediaserver_label">Server media</string>
      <string name="process_provider_in_use_description">Il provider %1$s è in uso.</string>
      <string name="process_service_in_use_description">Il servizio %1$s è in uso.</string>
@@ -3449,11 +3445,11 @@ Interfaccia UT: %5$s"</string>
      <string name="reset_app_preferences_button">Reimposta app</string>
      <string name="reset_app_preferences_desc">"Verranno reimpostate tutte le preferenze relative a:
 
- "<li>App disattivate</li>"
- "<li>Notifiche app disattivate</li>"
- "<li>Applicazioni predefinite per azioni</li>"
- "<li>Limitazioni di dati in background per app</li>"
- "<li>Eventuali limitazioni di autorizzazione</li>"
+ <li>App disattivate</li>
+ <li>Notifiche app disattivate</li>
+ <li>Applicazioni predefinite per azioni</li>
+ <li>Limitazioni di dati in background per app</li>
+ <li>Eventuali limitazioni di autorizzazione</li>
 
  Non perderai i dati delle app."</string>
      <string name="reset_app_preferences_title">Reimpostare preferenze app?</string>
@@ -3892,10 +3888,12 @@ Come usare Mantieni su schermo:
      <string name="search_xiaomi_account">Mi Account; Mi Account ID;Account;Account ID</string>
      <string name="search_xspace">XSpace</string>
      <string name="second_space">Spazio Secondario</string>
+     <string name="secondspace_category">Spazio Secondario</string>
+     <string name="secondspace_delete_space_title">Elimina lo spazio Secondario</string>
      <string name="secure_keyguard_business_title">Password Schermata di blocco</string>
      <string name="secure_lock_encryption_warning">Poiché hai attivato un servizio di accessibilità, non verrà usata la password della Schermata di blocco per migliorare la crittografia dei dati."</string>
-     <string name="security_dashboard_summary">Screen lock, fingerprint</string>
-     <string name="security_dashboard_summary_no_fingerprint">Screen lock</string>
+     <string name="security_dashboard_summary">Blocco schermo, impronta digitale</string>
+     <string name="security_dashboard_summary_no_fingerprint">Blocco schermo</string>
      <string name="security_enable_widgets_disabled_summary">"Disattivati dall'amministratore"</string>
      <string name="security_enable_widgets_title">Abilita widget</string>
      <string name="security_encryption_alert_dialog_info_first">"Imposta la password della Schermata di blocco per attivare questa funzionalità. Dovrai inserire la password della Schermata di blocco dopo ogni riavvio per decriptare il dispositivo e usare normalmente il dispositivo."</string>
@@ -4367,9 +4365,9 @@ Questo ^1 è stato formattato per funzionare solo su questo dispositivo. Non fun
      <string name="storage_menu_format">Formatta</string>
      <string name="storage_menu_format_private">Formatta come interno</string>
      <string name="storage_menu_format_public">Formatta come portatile</string>
-     <string name="storage_menu_free">Free up space</string>
+     <string name="storage_menu_free">Libera spazio</string>
      <string name="storage_menu_manage">Gestisci archivio</string>
-     <string name="storage_menu_migrate">Migrate data</string>
+     <string name="storage_menu_migrate">Migrazione dati</string>
      <string name="storage_menu_mount">Monta</string>
      <string name="storage_menu_rename">Rinomina</string>
      <string name="storage_menu_set_up">Imposta</string>
@@ -5199,6 +5197,9 @@ Aggiungi una parola toccando il tasto +."</string>
      <string name="wfd_menu_teardown">Ferma</string>
      <string name="wfd_settings_description">Connessione ad uno schermo wireless</string>
      <string name="wfd_settings_title">Schermo wireless</string>
+     <string name="wfd_status_dialog_disconnect">Disconnetti</string>
+     <string name="wfd_status_dialog_message">I contenuti dello schermo verranno visualizzati su di uno schermo remoto tramite connessione wireless</string>
+     <string name="wfd_status_dialog_title">Schermo wireless</string>
      <string name="wfd_wps_keypad">Preferisco usare il pulsante</string>
      <string name="wfd_wps_pbc">Preferisco inserire il PIN</string>
      <string name="whetstone_level_reboot">Questa impostazione avrà effetto dopo il riavvio del dispositivo</string>

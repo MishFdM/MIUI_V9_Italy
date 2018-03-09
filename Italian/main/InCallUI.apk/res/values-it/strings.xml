@@ -198,7 +198,6 @@
      <string name="pause_prompt_no">No</string>
      <string name="pause_prompt_yes">Sì</string>
      <string name="payphone">Telefono a monete</string>
-     <string name="phone_info_divider">" ｜ "</string>
      <string name="picking_participant">Recupero informazioni di contatto…</string>
      <string name="private_num">Numero privato</string>
      <string name="remind_unlock_message">Il tuo dispositivo è stato bloccato. \"%s\" sarà di nuovo disponibile dopo lo sblocco del dispositivo. Sbloccare adesso?</string>

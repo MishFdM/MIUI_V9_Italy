@@ -370,7 +370,7 @@ Utilizza un account diverso."</string>
      <string name="micloud_notif_content_master_depend_wifi">Collegati prima alla rete Wi-Fi</string>
      <string name="micloud_notif_content_memory_low">Spazio di archiviazione insufficiente</string>
      <string name="micloud_notif_content_multi_user_error">"Hai effettuato l'accesso con lo stesso account dello spazio originario."</string>
-     <string name="micloud_notif_content_privacy_reopen_failed">View details</string>
+     <string name="micloud_notif_content_privacy_reopen_failed">Mostra dettagli</string>
      <string name="micloud_notif_content_sync_finish">Account</string>
      <string name="micloud_notif_content_sync_not_finish">Dettagli</string>
      <string name="micloud_notif_content_sync_with_off">Tocca per sincronizzare adesso il dispositivo</string>
@@ -390,8 +390,9 @@ Utilizza un account diverso."</string>
      <string name="micloud_privacy_cloud_sync">Attiva Mi Cloud</string>
      <string name="micloud_privacy_explanation">"Attiva Mi Cloud dopo aver concesso l'autorizzazione"</string>
      <string name="micloud_privacy_licence_agreed">"Accetta l'Informativa sull Privacy di Mi Cloud."</string>
-     <string name="micloud_privacy_licence_privacy_policy">privacy policy</string>
+     <string name="micloud_privacy_licence_privacy_policy">informativa sulla privacy</string>
      <string name="micloud_privacy_more">more</string>
+     <string name="micloud_privacy_progress_content">Autorizzazione in corso…</string>
      <string name="micloud_privacy_warning_button">Indietro</string>
      <string name="micloud_privacy_warning_content">"Impossibile attivare Mi Cloud. Riprova più tardi."</string>
      <string name="micloud_privacy_warning_title">Suggerimento</string>

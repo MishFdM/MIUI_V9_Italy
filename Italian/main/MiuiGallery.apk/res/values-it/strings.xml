@@ -595,7 +595,7 @@
      <string name="cleaner_slim_title">Ottimizza foto</string>
      <string name="cleaner_space_description">possono essere liberati</string>
      <string name="cleaner_space_detail_description">Cancella alcune foto nella Galleria per liberare spazio</string>
-     <string name="cleaner_stop_scan">Stop scanning</string>
+     <string name="cleaner_stop_scan">Termina scansione</string>
      <string name="click_download_gif">Tocca per scaricare GIF</string>
      <string name="click_top_right">"Tocca l'icona in alto a destra"</string>
      <string name="cloud_camera_display_name">Non ordinati</string>
@@ -890,7 +890,7 @@ Scatta più foto ai tuoi amici!"</string>
      <string name="has_invalid_recipient">Destinatari non validi: %1$s</string>
      <string name="have_known">Conosciuto</string>
      <string name="hidden_album_display_name">Album nascosto</string>
-     <string name="home_menu_cleaner">Free up space</string>
+     <string name="home_menu_cleaner">Libera spazio</string>
      <string name="home_menu_collage">Collage</string>
      <string name="home_menu_photo_movie">Guarda indietro</string>
      <string name="home_menu_print">Stampa foto</string>

@@ -285,7 +285,6 @@
      <string name="lb_search_bar_hint_speech">Parla per cercare</string>
      <string name="lb_search_bar_hint_with_title">Cerca in %1$s</string>
      <string name="lb_search_bar_hint_with_title_speech">Parla per cercare in %1$s</string>
-     <string name="lb_time_separator">:</string>
      <string name="loading">Caricamento…</string>
      <string name="local_backup_password_summary_change">Tocca per modificare o rimuovere la password per i backup desktop completi</string>
      <string name="local_backup_password_summary_none">I backup desktop completi non sono attualmente protetti.</string>
@@ -349,7 +348,6 @@
      <string name="power_remaining_duration_only">Circa %1$s rimanenti</string>
      <string name="power_remaining_duration_only_short">Tempo rimanente: %1$s</string>
      <string name="privacyPerms">Privacy</string>
-     <string name="process_kernel_label">Android OS</string>
      <string name="remaining_length_format">%1$s rimanenti</string>
      <string name="retail_demo_reset_message">Inserisci la password per eseguire il ripristino delle impostazioni di fabbrica in modalità demo</string>
      <string name="retail_demo_reset_next">Successivo</string>

@@ -555,7 +555,6 @@ For more information, contact your admin."</string>
      <string name="power_remaining_charging_duration_only">%1$s rimanenti fino alla carica completa</string>
      <string name="power_remaining_duration_only">Appross. %1$s rimanenti</string>
      <string name="power_remaining_duration_only_short">%1$s rimanenti</string>
-     <string name="process_kernel_label">Android OS</string>
      <string name="quick_settings_bluetooth_detail_empty_text">Nessun dispositivo abbinato disponibile</string>
      <string name="quick_settings_bluetooth_label">Bluetooth</string>
      <string name="quick_settings_connect_success">Connesso</string>
@@ -582,6 +581,7 @@ For more information, contact your admin."</string>
      <string name="quick_settings_wifi_detail_empty_text">Nessuna rete Wi-Fi disponibile</string>
      <string name="quick_settings_wifi_label">Wi-Fi</string>
      <string name="quick_settings_wifi_nearby">Seleziona una rete vicina</string>
+     <string name="recent_cannot_dock">"can't enter MultiWindow Mode in Second Space"</string>
      <string name="recent_dock_tip">"Clicca per scegliere l'applicazione"</string>
      <string name="recent_task_app_info_text">Info</string>
      <string name="recent_task_cleaning">Cancellazione app…</string>

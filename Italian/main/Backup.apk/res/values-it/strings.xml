@@ -126,6 +126,7 @@ https://appleid.apple.com/#!&amp;page=signin per chiudere"</string>
      <string name="err_bakfile_broken">Impossibile utilizzare questo backup.</string>
      <string name="err_filesystem_mount">Impossibile accedere alla memoria del router</string>
      <string name="err_low_storage">Spazio insufficiente</string>
+     <string name="err_not_allow">Non supportato</string>
      <string name="err_router_disconnected">Controlla la connessione del tuo router e riprova</string>
      <string name="err_router_files_delete">Impossibile eliminare i file di backup sul router</string>
      <string name="err_unknown">Errore sconosciuto</string>

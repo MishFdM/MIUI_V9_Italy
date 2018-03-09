@@ -18,7 +18,7 @@
      <string name="ac_notification_contentTitle">Proteggi le app con App lock</string>
      <string name="ac_post_notification_contentText">Ottieni protezione a livello di sistema</string>
      <string name="ac_post_notification_contentTitle">Attiva App Lock</string>
-     <string name="ac_pre_notification_contentText">Proteggi le tue infomrazioni personali</string>
+     <string name="ac_pre_notification_contentText">Proteggi le tue informazioni personali</string>
      <string name="ac_pre_notification_contentTitle">Prova App Lock</string>
      <string name="ac_summaryOff">Disattivato, non serve una password per aprire le applicazioni</string>
      <string name="ac_summaryOn">Attivato, è necessaria una password per aprire le applicazioni</string>
@@ -219,10 +219,10 @@
      <string name="app_manager_reset_app_preferences_button">Ripristina app</string>
      <string name="app_manager_reset_app_preferences_desc">"Questo riporterà i valori predefiniti delle preferenze per:
 
- "&lt;li&gt;App disattivate&lt;/li&gt;"
- "&lt;li&gt;Notifiche app disattivate&lt;/li&gt;"
- "&lt;li&gt;Applicazioni predefinite per azioni&lt;/li&gt;"
- "&lt;li&gt;Limitazione dati in background delle app&lt;/li&gt;"
+ <li>App disattivate</li>
+ <li>Notifiche app disattivate</li>
+ <li>Applicazioni predefinite per azioni</li>
+ <li>Limitazione dati in background delle app</li>
 
  Non perderai nessun dato dell'applicazione."</string>
      <string name="app_manager_reset_app_preferences_title">Ripristina le preferenze applicazioni?</string>
@@ -574,10 +574,16 @@ se se dimenticata"</string>
      <string name="data_usage_leisure_warning_body">Tocca per vedere il dettagli di utilizzo dati.</string>
      <string name="data_usage_leisure_warning_title">Limite utilizzo dati oltre soglia</string>
      <string name="data_usage_limit_body">Tocca per attivare i dati mobili.</string>
+     <string name="data_usage_mobile_dialog_title">Hai già utilizzato 5GB di dati. MIUI ha disattivato la rete dati mobile.</string>
      <string name="data_usage_mobile_limit_title">\u0020Limite utilizzo dati raggiunto</string>
      <string name="data_usage_no_total_package_body">Tocca per impostare limite dati</string>
      <string name="data_usage_no_total_package_body_dual">Nessun limite impostato per %s</string>
      <string name="data_usage_no_total_package_title">Imposta limite utilizzo dati</string>
+     <string name="data_usage_protected_dialog_message">"MIUI ha disattivato la rete dati mobile per prevenire costi aggiuntivi.
+
+Il tuo operatore potrebbe addebitarti costi aggiuntivi se attivi di nuovo la rete dati mobile."</string>
+     <string name="data_usage_protected_notify_message">MIUI ha disattivato la rete dati mobile per prevenire costi aggiuntivi.</string>
+     <string name="data_usage_protected_notify_title">Hai già utilizzato 5GB di dati</string>
      <string name="data_usage_warning_body">Tocca per mostrare i dettagli di utilizzo dati.</string>
      <string name="data_usage_warning_body_notify">Tocca per i dettagli</string>
      <string name="data_usage_warning_title_notify">Hai superato il limite dati</string>
@@ -603,6 +609,12 @@ se se dimenticata"</string>
      <string name="dialog_msg_auto_start_declare">Alcune app di sicurezza potrebbero indicare erroneamente che MIUI sta impedendo alle app di avviarsi. Per verificare i permessi concessi alle singole app, vai in Impostazioni > Applicazioni</string>
      <string name="dialog_msg_stop_virus_scan">Interrompe la scansione antivirus prima che sia terminata</string>
      <string name="dialog_no_longer_alert">Non mostrare più</string>
+     <string name="dialog_restrict_all_mobile_summary">La connessione dati mobile %s verrà limitata per uttte le app dopo questa operazione.</string>
+     <string name="dialog_restrict_all_mobile_title">Limita connessione dati %s</string>
+     <string name="dialog_restrict_all_wlan_summary">La connessione Wi-Fi verrà limitata per tutte le app dopo questa operazione.</string>
+     <string name="dialog_restrict_all_wlan_title">Limita connessione Wi-Fi</string>
+     <string name="dialog_restrict_negative">Limita</string>
+     <string name="dialog_restrict_positive">Annulla</string>
      <string name="dialog_roaming_message">"Consenti a questa applicazione di utilizzare i dati roaming all'estero?"</string>
      <string name="dialog_roaming_title">Roaming estero</string>
      <string name="dialog_text">Crea un collegamento in Home per Game Speed Booster</string>
@@ -647,7 +659,13 @@ se se dimenticata"</string>
      <string name="dlg_remove_whitelist">Rimuovere questi numeri dalle eccezioni?</string>
      <string name="dlg_remove_whitelist_ing">Rimozione dalle eccezioni…</string>
      <string name="dlg_remove_whitelist_title">Rimuovi</string>
+     <string name="dlg_sec_network_unavailable">"L'app Sicurezza non può essere aggiornata perché hai limitato la connessione Internet. Consentire a Sicurezza di connettersi ad Internet?"</string>
      <string name="dlg_title_not_open_stranger_identify">Attiva identificazione numeri sconosciuti</string>
+     <string name="dlg_update_btn_contiue">Continue</string>
+     <string name="dlg_update_btn_open">Consenti</string>
+     <string name="dlg_update_data_content">"Non sei connesso a WI-Fi. L'utilizzo della rete dati mobile potrebbe comportare un aumento dei costi. Continuare lo stesso?"</string>
+     <string name="dlg_update_date_title">Attenzione</string>
+     <string name="dlg_update_updating">Aggiornamento…</string>
      <string name="dlg_white_address_antispam_message">Aggiungere questo elemento alle eccezioni?</string>
      <string name="dlg_white_antispam_hint">Eccezioni</string>
      <string name="dlg_white_antispam_message">Aggiungere questo messaggio alle eccezioni?</string>
@@ -746,7 +764,7 @@ se se dimenticata"</string>
      <string name="game_ad_recommendation">Stanno giocando tutti</string>
      <string name="game_anti_disturb_msg">Game DND</string>
      <string name="game_booster">Game Speed Booster</string>
-     <string name="game_booster_close">Game Speed Booster off</string>
+     <string name="game_booster_close">Game Speed Booster disattivato</string>
      <string name="game_booster_intro">Informazioni su Game Speed Booster</string>
      <string name="game_booster_jump_webview">Solo un secondo…</string>
      <string name="game_booster_tab_top">In cima</string>
@@ -774,6 +792,7 @@ se se dimenticata"</string>
      <string name="gb_description_image_button_reject">Rifiuta</string>
      <string name="gb_description_image_button_video_answer">Video chiamata</string>
      <string name="gb_new_feature">Nuova funzione</string>
+     <string name="gdpr_msg">&lt;Data&gt;"Per utilizzare le funzioni base dell'app Sicurezza, devi consentire a Xiaomi la raccolta, elaborazione e utilizzo dei tuoi dati personali, incluse le informazioni sui metodi in cui usi le funzioni di Sicurezza (e.g., statistiche sull'utilizzo dei dati su rete mobile, informazioni su malware ed informazioni di base del tuo dispositivo) ed altri tipi di informazioni elencate nella nostra &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Informativa sulla Privacy&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
      <string name="ge">Uno</string>
      <string name="get_sys_info">Recupero informazioni…</string>
      <string name="gigabyteShort">GB</string>
@@ -1513,7 +1532,6 @@ Questa attività riduce la durata della batteria."</string>
      <string name="privacy_prompt_tc_sms_report_message">Il tuo numero di telefono e le informazioni sul tuo operatore verranno crittografate e caricate sui server Xiaomi per aggiornare le informazioni sul tuo utilizzo del traffico dati.</string>
      <string name="privacy_prompt_traffic_adjust_message">"Questa funzione deve crittografare ed inviare il tuo IMEI, numero di telefono ed informazioni sul tuo operatore ai server Xiaomi per poter recuperare le statistiche del consumo dati dal tuo operatore.</string>
      <string name="privacy_prompt_upload">Carica</string>
-     <string name="process_kernel_label">Sistema operativo Android</string>
      <string name="process_mediaserver_label">MediaServer</string>
      <string name="promotion">Pubblicità</string>
      <string name="prompt_all">Chiedi per tutti</string>
@@ -1677,6 +1695,7 @@ Questa attività riduce la durata della batteria."</string>
      <string name="sms_prefix">Blacklist Prefissi</string>
      <string name="sms_service">Blacklist Servizi</string>
      <string name="sms_smart_engine_update">Aggiorna automaticamente il filtro SMS</string>
+     <string name="sms_smart_engine_update_now">Aggiorna</string>
      <string name="sms_stranger_block">Filtro sconosciuti</string>
      <string name="sorted_dialog_title">Ordina per</string>
      <string name="sp_background_risk_dialog_summary">, verifica e risolvi i problemi di pagamento.</string>
@@ -2058,6 +2077,10 @@ Questa attività riduce la durata della batteria."</string>
      <string name="toast_root_apply_reject">"È stato negato l'accesso come root a %s"</string>
      <string name="toast_set_success">Aperto correttamente</string>
      <string name="toast_show_notification">Mostra nel pannello di notifica</string>
+     <string name="toast_update_fail">Impossibile aggiornare</string>
+     <string name="toast_update_nonetwork">Impossibile collegarsi alla rete</string>
+     <string name="toast_update_notneed">Aggiornato</string>
+     <string name="toast_update_success">Aggiornato correttamente</string>
      <string name="top_game">Giochi top</string>
      <string name="top_load_fail_detail">Impossibile caricare, tocca per provare di nuovo</string>
      <string name="top_no_network_detial">Impossibile caricare, controlla la connessione di rete e riprova</string>

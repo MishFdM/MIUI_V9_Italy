@@ -28,6 +28,7 @@
      <string name="db_downgrade_clear_date_reminder">Il passaggio ad una versione diversa di MIUI richiede al cancellazione dei dati app per Note. Prima di procedere, assicurati di avere eseguito il backup delle note su Mi Cloud.</string>
      <string name="default_folder_name">Note</string>
      <string name="delete_folder_dialog_tile">Elimina cartella</string>
+     <string name="dialog_privacy_revoke_tips">"Dopo aver revocato le autorizzazioni, l'app smetterà di raccogliere dati e tutti quelli raccolti verranno eliminati dai server. Questo potrebbe virtualmente rendere l'app non utilizzabile. Revocare comunque le autorizzazioni? Per garantire la sicurezza del tuo account, accedi a i.mi.com prima di revocare le autorizzazioni per i servizi Mi Cloud."</string>
      <string name="dialog_share_as_pic">Condividi nota come immagine</string>
      <string name="dialog_share_as_text">Condividi nota come testo</string>
      <string name="dialog_share_title">Condividi nota</string>
