@@ -87,7 +87,6 @@ Il soggetto non deve essere più lontano di 2 metri."</string>
      <string name="edit_face_slender">Sottile</string>
      <string name="edit_skin_smooth">Morbido</string>
      <string name="edit_skin_white">Tono</string>
-     <string name="empty">" "</string>
      <string name="error_fail_to_start_audio_capture">"Impossibile registrare l'audio: il microfono potrebbe essere in uso da un'altra app."</string>
      <string name="face_age_info">Anni: %d</string>
      <string name="face_analyze_info_female">Donna</string>

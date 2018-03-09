@@ -570,7 +570,6 @@ Motivo: \"%s\"</string>
      <string name="keep_local">Memorizza in locale</string>
      <string name="keep_local_btn">Usa la memoria interna del dispositivo"</string>
      <string name="label_custom_type">Personalizzato</string>
-     <string name="label_duplicate_count">(%1$d)</string>
      <string name="label_no_duplicate_contacts">Nessun duplicato rilevato</string>
      <string name="label_notes">Note</string>
      <string name="label_sip_address">Chiamate Internet</string>
@@ -832,7 +831,6 @@ Per aggiungere un contatto alla lista dei Preferiti:
      <string name="payphone">Telefonata a pagamento</string>
      <string name="people">Contatti</string>
      <string name="phoneLabelsGroup">Telefono</string>
-     <string name="phone_info_divider">" ｜ "</string>
      <string name="phone_number_too_long_toast">Numero troppo lungo</string>
      <string name="phone_primary">Primario</string>
      <string name="photoPickerNotFoundText">Nessuna foto disponibile sul tablet.</string>

@@ -263,7 +263,6 @@
      <string name="power_discharging_duration_short">%1$s - %2$s left</string>
      <string name="power_remaining_duration_only">Approx. %1$s left</string>
      <string name="power_remaining_duration_only_short">%1$s left</string>
-     <string name="process_kernel_label">Android OS</string>
      <string name="remaining_length_format">%1$s left</string>
      <string name="remove">Rimuovi</string>
      <string name="remove_contact">Rimuovi %1$s dai contatti di emergenza?</string>

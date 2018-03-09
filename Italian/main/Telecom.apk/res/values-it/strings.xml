@@ -282,7 +282,6 @@ Sample Rate"</string>
      <string name="power_remaining_charging_duration_only">%1$s left until fully charged</string>
      <string name="power_remaining_duration_only">Approx. %1$s left</string>
      <string name="power_remaining_duration_only_short">%1$s left</string>
-     <string name="process_kernel_label">Android OS</string>
      <string name="remaining_length_format">%1$s left</string>
      <string name="respond_via_sms_canned_response_1">Non posso parlare ora. Ci sentiamo dopo.</string>
      <string name="respond_via_sms_canned_response_2">Ti chiamo appena posso</string>

@@ -3287,7 +3287,6 @@ ed esegui il software."</string>
      <string name="private_sms_recording_intro_header">Disegna una sequenza di sblocco:</string>
      <string name="private_sms_reset_by_account">Per reimpostare la tua password, accedi al tuo Mi Account</string>
      <string name="process_dex2oat_label">Ottimizzazione app</string>
-     <string name="process_kernel_label">Sistema operativo Android</string>
      <string name="process_mediaserver_label">Server media</string>
      <string name="process_provider_in_use_description">Il provider %1$s è in uso.</string>
      <string name="process_service_in_use_description">Il servizio %1$s è in uso.</string>

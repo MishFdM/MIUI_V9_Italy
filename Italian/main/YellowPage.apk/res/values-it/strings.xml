@@ -209,7 +209,6 @@
      <string name="payment_unknown_status_title">Errore di stato del pagamento</string>
      <string name="phone_event_setting_notice_text">Utilizzando questa funzione accetti %1$s e %2$s.</string>
      <string name="phone_event_setting_notice_text_with_contacts_permission">"Utilizzando questa funzione accetti %1$s e %2$s. È richiesto l'accesso ai tuoi contatti."</string>
-     <string name="phone_info_divider">" ｜ "</string>
      <string name="photo_count">%d totale</string>
      <string name="pull_to_refresh_pull_label">Trascina per aggiornare…</string>
      <string name="pull_to_refresh_refreshing_label">Caricamento…</string>

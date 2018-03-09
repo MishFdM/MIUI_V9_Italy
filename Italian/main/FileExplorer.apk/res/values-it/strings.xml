@@ -646,7 +646,6 @@
      <string name="top_videos">Condividi classifiche</string>
      <string name="topic_follow">Segui</string>
      <string name="topic_followed">Seguito</string>
-     <string name="topic_message">%1$s: %2$s</string>
      <string name="topic_title">Argomenti</string>
      <string name="transfer_done">File spostati con successo.</string>
      <string name="transfer_private_data">Spostamento dei file nascosti dalla scheda SD…</string>
