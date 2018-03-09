@@ -1,89 +1,89 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string-array name="animator_duration_scale_entries">
-        <item>Animation off</item>
-        <item>Animation scale .5x</item>
-        <item>Animation scale 1x</item>
-        <item>Animation scale 1.5x</item>
-        <item>Animation scale 2x</item>
-        <item>Animation scale 5x</item>
-        <item>Animation scale 10x</item>
+        <item>Animazioni disattivate</item>
+        <item>Scala animazioni .5x</item>
+        <item>Scala animazioni 1x</item>
+        <item>Scala animazioni 1.5x</item>
+        <item>Scala animazioni 2x</item>
+        <item>Scala animazioni 5x</item>
+        <item>Scala animazioni 10x</item>
      </string-array>
      <string-array name="app_process_limit_entries">
-        <item>Standard limit</item>
-        <item>No background processes</item>
-        <item>At most 1 process</item>
-        <item>At most 2 processes</item>
-        <item>At most 3 processes</item>
-        <item>At most 4 processes</item>
+        <item>Limite normale</item>
+        <item>Nessun processo in background</item>
+        <item>Limite di 1 processo</item>
+        <item>Limite di 2 processi</item>
+        <item>Limite di 3 processi</item>
+        <item>Limite di 4 processi</item>
      </string-array>
      <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
-        <item>Use System Selection (Default)</item>
-        <item>16 bits/sample</item>
-        <item>24 bits/sample</item>
-        <item>32 bits/sample</item>
+        <item>Usa Selezione di Sistema (Predefinito)</item>
+        <item>16 bit/campione</item>
+        <item>24 bit/campione</item>
+        <item>32 bit/campione</item>
      </string-array>
      <string-array name="bluetooth_a2dp_codec_bits_per_sample_titles">
-        <item>Use System Selection (Default)</item>
-        <item>16 bits/sample</item>
-        <item>24 bits/sample</item>
-        <item>32 bits/sample</item>
+        <item>Usa Selezione di Sistema (Predefinito</item>
+        <item>16 bit/campione</item>
+        <item>24 bit/campione</item>
+        <item>32 bit/campione</item>
      </string-array>
      <string-array name="bluetooth_a2dp_codec_channel_mode_summaries">
-        <item>Use System Selection (Default)</item>
+        <item>Usa Selezione di Sistema (Predefinito</item>
         <item>Mono</item>
         <item>Stereo</item>
      </string-array>
      <string-array name="bluetooth_a2dp_codec_channel_mode_titles">
-        <item>Use System Selection (Default)</item>
+        <item>Usa Selezione di Sistema (Predefinito</item>
         <item>Mono</item>
         <item>Stereo</item>
      </string-array>
      <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_summaries">
-        <item>Optimized for Audio Quality</item>
-        <item>Balanced Audio And Connection Quality</item>
-        <item>Optimized for Connection Quality</item>
-        <item>Best Effort (Adaptive Bit Rate)</item>
+        <item>Ottimizzato per Qualità Audio</item>
+        <item>Bilanciato tra Qualità Audio e Connessione</item>
+        <item>Ottimizzato per Qualità Connessione</item>
+        <item>Miglior rapporto (Bit Rate Adattivo)</item>
      </string-array>
      <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_titles">
-        <item>Optimized for Audio Quality (990kbps/909kbps)</item>
-        <item>Balanced Audio And Connection Quality (660kbps/606kbps)</item>
-        <item>Optimized for Connection Quality (330kbps/303kbps)</item>
-        <item>Best Effort (Adaptive Bit Rate)</item>
+        <item>Ottimizzato per Qualità Audio (990kbps/909kbps)</item>
+        <item>Bilanciato tra Qualità Audio e Connessione (660kbps/606kbps)</item>
+        <item>Ottimizzato per Qualità Connessione (330kbps/303kbps)</item>
+        <item>Miglior rapporto (Bit Rate Adattivo)</item>
      </string-array>
      <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
-        <item>Use System Selection (Default)</item>
+        <item>Usa Selezione di Sistema (Predefinito</item>
         <item>44.1 kHz</item>
         <item>48.0 kHz</item>
         <item>88.2 kHz</item>
         <item>96.0 kHz</item>
      </string-array>
      <string-array name="bluetooth_a2dp_codec_sample_rate_titles">
-        <item>Use System Selection (Default)</item>
+        <item>Usa Selezione di Sistema (Predefinito</item>
         <item>44.1 kHz</item>
         <item>48.0 kHz</item>
         <item>88.2 kHz</item>
         <item>96.0 kHz</item>
      </string-array>
      <string-array name="bluetooth_a2dp_codec_summaries">
-        <item>Use System Selection (Default)</item>
+        <item>Usa Selezione di Sistema (Predefinito</item>
         <item>SBC</item>
         <item>AAC</item>
         <item>aptX</item>
         <item>aptX HD</item>
         <item>LDAC</item>
-        <item>Enable Optional Codecs</item>
-        <item>Disable Optional Codecs</item>
+        <item>Attiva Codec Opzionali</item>
+        <item>Disattiva Codec Opzionali</item>
      </string-array>
      <string-array name="bluetooth_a2dp_codec_titles">
-        <item>Use System Selection (Default)</item>
+        <item>Usa Selezione di Sistema (Predefinito)</item>
         <item>SBC</item>
         <item>AAC</item>
         <item>aptX</item>
         <item>aptX HD</item>
         <item>LDAC</item>
-        <item>Enable Optional Codecs</item>
-        <item>Disable Optional Codecs</item>
+        <item>Attiva Codec Opzionali</item>
+        <item>Disattiva Codec Opzionali</item>
      </string-array>
      <string-array name="bluetooth_avrcp_versions">
         <item>AVRCP 1.4 (Default)</item>
@@ -91,22 +91,22 @@
         <item>AVRCP 1.6</item>
      </string-array>
      <string-array name="color_mode_descriptions">
-        <item>Enhanced colors</item>
-        <item>Natural colors as seen by the eye</item>
-        <item>Colors optimized for digital content</item>
+        <item>Colori Migliorati</item>
+        <item>"Colori naturali come visti dall'occhio umano"</item>
+        <item>Colori ottimizzati per contenuti digitali</item>
      </string-array>
      <string-array name="color_mode_names">
-        <item>Vibrant (default)</item>
-        <item>Natural</item>
-        <item>Standard</item>
+        <item>Vibrante (predefinito)</item>
+        <item>Naturale</item>
+        <item>Normale</item>
      </string-array>
      <string-array name="debug_hw_overdraw_entries">
-        <item>Off</item>
-        <item>Show overdraw areas</item>
-        <item>Show areas for Deuteranomaly</item>
+        <item>Disattivato</item>
+        <item>Mostra aree di sovrapposizione</item>
+        <item>Mostra aree per Deuteranomalia</item>
      </string-array>
      <string-array name="debug_hw_renderer_entries">
-        <item>OpenGL (Default)</item>
+        <item>OpenGL (Predefinito)</item>
         <item>OpenGL (Skia)</item>
      </string-array>
      <string-array name="enable_opengl_traces_entries">
@@ -116,37 +116,37 @@
         <item>Call stack on glGetError</item>
      </string-array>
      <string-array name="hdcp_checking_summaries">
-        <item>Never use HDCP checking</item>
-        <item>Use HDCP checking for DRM content only</item>
-        <item>Always use HDCP checking</item>
+        <item>Non usare mai il controllo HDCP</item>
+        <item>Usa il controllo HDCP solo per contenuti DRM</item>
+        <item>Usa sempre il controllo HDCP</item>
      </string-array>
      <string-array name="hdcp_checking_titles">
-        <item>Never check</item>
-        <item>Check for DRM content only</item>
-        <item>Always check</item>
+        <item>Non controllare mai</item>
+        <item>COntrolla solo per contenuti DRM</item>
+        <item>Controlla sempre</item>
      </string-array>
      <string-array name="overlay_display_devices_entries">
-        <item>None</item>
+        <item>Nessuno</item>
         <item>480p</item>
-        <item>480p (secure)</item>
+        <item>480p (sicuro)</item>
         <item>720p</item>
-        <item>720p (secure)</item>
+        <item>720p (sicuro)</item>
         <item>1080p</item>
-        <item>1080p (secure)</item>
+        <item>1080p (sicuro)</item>
         <item>4K</item>
-        <item>4K (secure)</item>
-        <item>4K (upscaled)</item>
-        <item>4K (upscaled, secure)</item>
-        <item>720p, 1080p (dual screen)</item>
+        <item>4K (sicuro)</item>
+        <item>4K (upscale)</item>
+        <item>4K (upscale, sicuro)</item>
+        <item>720p, 1080p (doppio schermo)</item>
      </string-array>
      <string-array name="select_logd_size_lowram_titles">
-        <item>Off</item>
+        <item>Disattivato</item>
         <item>64K</item>
         <item>256K</item>
         <item>1M</item>
      </string-array>
      <string-array name="select_logd_size_summaries">
-        <item>Off</item>
+        <item>Disattivato</item>
         <item>64K per log buffer</item>
         <item>256K per log buffer</item>
         <item>1M per log buffer</item>
@@ -154,7 +154,7 @@
         <item>16M per log buffer</item>
      </string-array>
      <string-array name="select_logd_size_titles">
-        <item>Off</item>
+        <item>Disattivato</item>
         <item>64K</item>
         <item>256K</item>
         <item>1M</item>
@@ -162,21 +162,21 @@
         <item>16M</item>
      </string-array>
      <string-array name="select_logpersist_summaries">
-        <item>Off</item>
-        <item>All log buffers</item>
-        <item>All but radio log buffers</item>
-        <item>kernel log buffer only</item>
+        <item>Disattivato</item>
+        <item>Tutti i buffer log</item>
+        <item>Tutti i buffer log tranne radio</item>
+        <item>Solo buffer log kernel</item>
      </string-array>
      <string-array name="select_logpersist_titles">
-        <item>Off</item>
-        <item>All</item>
-        <item>All but radio</item>
-        <item>kernel only</item>
+        <item>Disattivato</item>
+        <item>Tutti</item>
+        <item>Tutti tranne radio</item>
+        <item>Solo kernel</item>
      </string-array>
      <string-array name="show_non_rect_clip_entries">
         <item>Disattivato</item>
         <item>Disegna aree non rettangolari in blu</item>
-        <item>Highlight tested drawing commands in green</item>
+        <item>Evidenzia i comandi di test in verde</item>
      </string-array>
      <string-array name="track_frame_time_entries">
         <item>Disattivato</item>
