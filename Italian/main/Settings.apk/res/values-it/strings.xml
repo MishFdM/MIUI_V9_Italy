@@ -3209,10 +3209,10 @@ ed esegui il software."</string>
      <string name="priority_storage_settings_summary">Se la scheda SD non viene rilevata, i dati verranno salvati automaticamente nella memoria interna del dispositivo</string>
      <string name="priority_storage_summary">Scegli il percorso predefinito dove salvare i dati</string>
      <string name="priority_storage_title">Impostazioni di archiviazione</string>
-     <string name="privacy_authorize_cloud_msg">"To ensure your account's security, sign in to i.mi.com if you want to revoke authorization for Mi Cloud services (including sync and backups)."</string>
+     <string name="privacy_authorize_cloud_msg">Per garantire la sicurezza del tuo account, accedi a i.mi.com se vuoi revocare le autorizzazioni per i servizi Mi Cloud (inclusi sincronizzazione e backup).</string>
      <string name="privacy_authorize_dialog_agree">Accetto</string>
      <string name="privacy_authorize_dialog_exit">Esci</string>
-     <string name="privacy_authorize_dialog_message">&lt;Data&gt;"In order to use the basic features of Mi Cloud services, you must agree that Xiaomi will collect, process, and use your personal data. Refer to our Privacy Policy to learn how we collect and process personal data. Selecting \"Agree\" means that you've read and agreed to our &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Privacy Policy&amp;lt;/a&amp;gt; and &amp;lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s\"&amp;gt;User Agreement&amp;lt;/a&amp;gt;.&amp;#8203;"&lt;/Data&gt;</string>
+     <string name="privacy_authorize_dialog_message">&lt;Data&gt;"Per poter utilizzare le funzioni base dei servizi Mi Cloud, devi accettare che Xiaomi raccolga, elabori ed utilizzi i tuoi dati personali. Leggi la nostra Informativa sulla Privacy per scoprire come raccogliamo ed elaboriamo i dati. Selezionando \"Accetto\" dichiari di aver letto la nostra &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Informativa sulla Privacy&amp;lt;/a&amp;gt; ed il nostro &amp;lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s\"&amp;gt;Accordo Utente&amp;lt;/a&amp;gt;.&amp;#8203;"&lt;/Data&gt;</string>
      <string name="privacy_authorize_network_error">Connettiti alla rete e prova di nuovo.</string>
      <string name="privacy_authorize_privacy_policy">Informativa Privacy</string>
      <string name="privacy_authorize_revoke">Revoca</string>
@@ -3889,12 +3889,12 @@ Come usare Mantieni su schermo:
      <string name="search_xiaomi_account">Mi Account; Mi Account ID;Account;Account ID</string>
      <string name="search_xspace">XSpace</string>
      <string name="second_space">Spazio Secondario</string>
-     <string name="secondspace_category">Second space</string>
-     <string name="secondspace_delete_space_title">Delete Second space</string>
+     <string name="secondspace_category">Spazio Secondario</string>
+     <string name="secondspace_delete_space_title">Elimina lo spazio Secondario</string>
      <string name="secure_keyguard_business_title">Password Schermata di blocco</string>
      <string name="secure_lock_encryption_warning">Poiché hai attivato un servizio di accessibilità, non verrà usata la password della Schermata di blocco per migliorare la crittografia dei dati."</string>
-     <string name="security_dashboard_summary">Screen lock, fingerprint</string>
-     <string name="security_dashboard_summary_no_fingerprint">Screen lock</string>
+     <string name="security_dashboard_summary">Blocco schermo, impronta digitale</string>
+     <string name="security_dashboard_summary_no_fingerprint">Blocco schermo</string>
      <string name="security_enable_widgets_disabled_summary">"Disattivati dall'amministratore"</string>
      <string name="security_enable_widgets_title">Abilita widget</string>
      <string name="security_encryption_alert_dialog_info_first">"Imposta la password della Schermata di blocco per attivare questa funzionalità. Dovrai inserire la password della Schermata di blocco dopo ogni riavvio per decriptare il dispositivo e usare normalmente il dispositivo."</string>
@@ -5198,9 +5198,9 @@ Aggiungi una parola toccando il tasto +."</string>
      <string name="wfd_menu_teardown">Ferma</string>
      <string name="wfd_settings_description">Connessione ad uno schermo wireless</string>
      <string name="wfd_settings_title">Schermo wireless</string>
-     <string name="wfd_status_dialog_disconnect">Disconnect</string>
-     <string name="wfd_status_dialog_message">Screen contents are being displayed on another display device through wireless connection</string>
-     <string name="wfd_status_dialog_title">Wireless display</string>
+     <string name="wfd_status_dialog_disconnect">Disconnetti</string>
+     <string name="wfd_status_dialog_message">I contenuti dello schermo verranno visualizzati su di uno schermo remoto tramite connessione wireless</string>
+     <string name="wfd_status_dialog_title">Schermo wireless</string>
      <string name="wfd_wps_keypad">Preferisco usare il pulsante</string>
      <string name="wfd_wps_pbc">Preferisco inserire il PIN</string>
      <string name="whetstone_level_reboot">Questa impostazione avrà effetto dopo il riavvio del dispositivo</string>

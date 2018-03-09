@@ -148,6 +148,6 @@
      <string name="wireless_charge_dialog_cancel">Annulla</string>
      <string name="wireless_charge_dialog_title">Posizione non corretta, correggi la posizione</string>
      <string name="wireless_charge_stop">La carica senza fili si è interrotta</string>
-     <string name="wireless_current_charge">Current Charge</string>
+     <string name="wireless_current_charge">Carica attuale</string>
      <string name="wrong_password">Password non corretta</string>
 </resources>
