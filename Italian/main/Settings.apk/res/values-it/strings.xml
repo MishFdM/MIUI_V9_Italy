@@ -56,6 +56,16 @@
      <string name="accessibility_feature_state_off">Disattivato</string>
      <string name="accessibility_feature_state_on">Attivato</string>
      <string name="accessibility_global_gesture_preference_title">Collegamento Accessibilità</string>
+	<string name="accessibility_global_gesture_preference_summary_on">Attivato</string>
+    <string name="accessibility_global_gesture_preference_summary_off">Disattivato</string>
+    <string name="accessibility_global_gesture_preference_description">"Quando questa feature è attivata, puoi accedere velocemente alle feature di accessibilità in due passaggi:
+
+Passaggio 1: Tieni premuto il tasto di accensione finchè non sentirai un suono o vibrazione.
+
+Passaggio 2: Tieni premute due dita finchè non sentirai un suono.
+
+
+Se il dispositivo ha più utenti, l'utilizzo di questo collegamento sulla schermata di blocco consentirà temporaneamente l'accessibilità fino a quando il dispositivo sarà sbloccato."</string>
      <string name="accessibility_lock_screen_progress">%1$d di %2$d caratteri usati</string>
      <string name="accessibility_long_press_timeout_preference_title">Ritardo tocco e pressione</string>
      <string name="accessibility_menu_item_settings">Impostazioni</string>
@@ -1944,6 +1954,7 @@ Quando attivi il backup automatico, il dispositivo e i dati delle applicazioni v
      <string name="hardware_revision">Versione hardware</string>
      <string name="hardware_version">Hardware</string>
      <string name="has_screenshot_sound">Suono screenshot</string>
+	 <string name="paper_mode_side_effect_hint">"Un'intensità maggiore potrebbe influire sul modo in cui viene visualizzato il contenuto."</string>
      <string name="hdcp_checking_dialog_title">Comportamento di verifica HDCP</string>
      <string name="hdcp_checking_title">Verifica HDCP</string>
      <string name="hdmi_3d_display_enable_summary">Abilita per supportare i giochi 3D</string>
@@ -5037,7 +5048,8 @@ Aggiungi una parola toccando il tasto +."</string>
      <string name="virus_scanner_title">Scanner virus</string>
      <string name="virus_scanner_update_lib">Aggiornamento definizioni</string>
      <string name="vision_settings_description">Puoi personalizzare questo dispositivo per soddisfare le tue necessità. Queste funzioni di accessibilità possono essere modificate successivamente nelle Impostazioni.</string>
-     <string name="vision_settings_title">Impostazioni di visualizzazione</string>
+    <string name="accessibility_services_title">Servizi</string>    
+	<string name="vision_settings_title">Impostazioni di visualizzazione</string>
      <string name="voice_assist">Xiao Ai</string>
      <string name="voice_category">Voce</string>
      <string name="voice_helper_title">Assistente vocale</string>
