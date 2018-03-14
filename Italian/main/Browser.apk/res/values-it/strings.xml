@@ -325,6 +325,7 @@ per vedere qui le schede cloud aperte su altri dispositivi"</string>
      <string name="go_supermarket_title">"Altre app, maggiore velocità e riduzione dell'utilizzo dati nell'App Store"</string>
      <string name="gold_medals">"Medaglie d'oro"</string>
      <string name="google_bookmarks">"Google: "</string>
+     <string name="green_kid_block_request">The website has been banned from visits by parents.</string>
      <string name="have_sent_bookmark_to_home_screen">Posizionato in home</string>
      <string name="hint">Suggerimenti</string>
      <string name="history">Cronologia</string>
@@ -1215,6 +1216,9 @@ Per navigare correttamente devi essere collegato ad Internet. Per poter utilizza
      <string name="voice_connect_network">Impossibile connettersi alla rete</string>
      <string name="voice_description">RIcerca vocale</string>
      <string name="voice_network_connection">"L'utilizzo della ricerca vocale richiede la connessione di rete, devi autorizzare la connessione"</string>
+     <string name="voice_open_permission_baidu">Please go to Settings turn on voice permissions for Speech Recognition Settings</string>
+     <string name="voice_open_permission_xiaoai">Please go to Settings turn on voice permissions for Xiaoai Voice Engine</string>
+     <string name="voice_open_permission_xunfei">Please go to Settings turn on voice permissions for Voice Settings</string>
      <string name="voice_search_permission">La ricerca vocale richiede i permessi adeguati, vai nelle impostazioni del Browser per aprire i permessi vocali</string>
      <string name="voice_semantic_analysis">Analisi semantica dopo la connessione</string>
      <string name="voice_start_description">Start</string>

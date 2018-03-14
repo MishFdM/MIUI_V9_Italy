@@ -55,10 +55,7 @@
      <string name="accessibility_enable">Accessibilità</string>
      <string name="accessibility_feature_state_off">Disattivato</string>
      <string name="accessibility_feature_state_on">Attivato</string>
-     <string name="accessibility_global_gesture_preference_title">Collegamento Accessibilità</string>
-	<string name="accessibility_global_gesture_preference_summary_on">Attivato</string>
-    <string name="accessibility_global_gesture_preference_summary_off">Disattivato</string>
-    <string name="accessibility_global_gesture_preference_description">"Quando questa feature è attivata, puoi accedere velocemente alle feature di accessibilità in due passaggi:
+     <string name="accessibility_global_gesture_preference_description">"Quando questa feature è attivata, puoi accedere velocemente alle feature di accessibilità in due passaggi:
 
 Passaggio 1: Tieni premuto il tasto di accensione finchè non sentirai un suono o vibrazione.
 
@@ -66,6 +63,9 @@ Passaggio 2: Tieni premute due dita finchè non sentirai un suono.
 
 
 Se il dispositivo ha più utenti, l'utilizzo di questo collegamento sulla schermata di blocco consentirà temporaneamente l'accessibilità fino a quando il dispositivo sarà sbloccato."</string>
+     <string name="accessibility_global_gesture_preference_summary_off">Disattivato</string>
+     <string name="accessibility_global_gesture_preference_summary_on">Attivato</string>
+     <string name="accessibility_global_gesture_preference_title">Collegamento Accessibilità</string>
      <string name="accessibility_lock_screen_progress">%1$d di %2$d caratteri usati</string>
      <string name="accessibility_long_press_timeout_preference_title">Ritardo tocco e pressione</string>
      <string name="accessibility_menu_item_settings">Impostazioni</string>
@@ -104,6 +104,7 @@ Puoi anche ingrandire temporaneamente l\'area su cui hai il dito toccando tre vo
 Nota: il tocco triplo per ingrandire funziona ovunque tranne che per la tastiera e la barra di navigazione."</string>
      <string name="accessibility_screen_magnification_title">Gesti di ingrandimento</string>
      <string name="accessibility_service_default_description">Nessuna descrizione fornita.</string>
+     <string name="accessibility_services_title">Servizi</string>
      <string name="accessibility_settings">Accessibilità</string>
      <string name="accessibility_settings_summary">Lettori schermo, display, controlli di interazione</string>
      <string name="accessibility_settings_title">Impostazioni di accessibilità</string>
@@ -995,6 +996,8 @@ Frequenza Campione"</string>
      <string name="carrier_enabled">Attivazione/disattivazione APN</string>
      <string name="carrier_enabled_summaryOff">APN non attivo</string>
      <string name="carrier_enabled_summaryOn">APN attivo</string>
+     <string name="carrier_show_in_lock_screen">Only show in lock screen</string>
+     <string name="carrier_show_none">Never show carrier name</string>
      <string name="category_personal">Personale</string>
      <string name="category_work">Lavoro</string>
      <string name="cdma_security_settings_summary">Imposta La mia posizione, blocco schermo, blocco archivio credenziali</string>
@@ -1954,7 +1957,6 @@ Quando attivi il backup automatico, il dispositivo e i dati delle applicazioni v
      <string name="hardware_revision">Versione hardware</string>
      <string name="hardware_version">Hardware</string>
      <string name="has_screenshot_sound">Suono screenshot</string>
-	 <string name="paper_mode_side_effect_hint">"Un'intensità maggiore potrebbe influire sul modo in cui viene visualizzato il contenuto."</string>
      <string name="hdcp_checking_dialog_title">Comportamento di verifica HDCP</string>
      <string name="hdcp_checking_title">Verifica HDCP</string>
      <string name="hdmi_3d_display_enable_summary">Abilita per supportare i giochi 3D</string>
@@ -2045,8 +2047,6 @@ Quando attivi il backup automatico, il dispositivo e i dati delle applicazioni v
      <string name="install_preinstall_app">Caricamento applicazioni\u2026</string>
      <string name="install_text">Installa</string>
      <string name="install_type_instant">App istantanee</string>
-     <string name="install_unknown_applications">Consenti tutte le sorgenti delle app</string>
-     <string name="install_unknown_applications_title">Ti consente di installare app da sorgenti diverse dal Play Store</string>
      <string name="install_whole_rom">Scarica ROM (standard)</string>
      <string name="installed">Installate</string>
      <string name="instant_app_details_summary">Altre informazioni su %1$s</string>
@@ -2450,7 +2450,6 @@ Puoi impostare un nuovo blocco schermo sia per il dispositivo che per il tuo pro
      <string name="make_sure_cancel_update">"Annullare l'aggiornamento?"</string>
      <string name="man_add_application">Aggiungi applicazioni in avvio automatico</string>
      <string name="manage_device_admin">Amministratori dispositivo</string>
-     <string name="manage_device_admin_summary">Visualizza o disattiva amministratori dispositivo</string>
      <string name="manage_facerecoginition_text">Gestisci dati viso</string>
      <string name="manage_fakecell_settings">Protezione da finte stazioni base</string>
      <string name="manage_fingerprint_text">Gestisci impronte</string>
@@ -2560,6 +2559,8 @@ Ci sono altri utenti presenti su questo dispositivo.
      <string name="memory_settings_title">Memoria</string>
      <string name="memory_size">Spazio totale</string>
      <string name="memory_summary">%1$s di %2$s utilizzati</string>
+     <string name="memory_system_rom">System storage</string>
+     <string name="memory_system_space">System storage</string>
      <string name="memory_title">Disponibile: %1$s\u0009\u0009Totale: %2$s</string>
      <string name="memory_usage">Memoria occupata</string>
      <string name="memory_usage_apps">Memoria usata dalle app</string>
@@ -3059,6 +3060,7 @@ ed esegui il software."</string>
      <string name="paper_mode_get_location_dlg_negative_btn_text">Annulla</string>
      <string name="paper_mode_get_location_dlg_positive_btn_text">Vai nelle Impostazioni</string>
      <string name="paper_mode_get_location_dlg_title">Imposta posizione</string>
+     <string name="paper_mode_side_effect_hint">"Un'intensità maggiore potrebbe influire sul modo in cui viene visualizzato il contenuto."</string>
      <string name="paper_mode_start_time_title">Inizio</string>
      <string name="passpoint_content">Credenziali %1$s</string>
      <string name="passpoint_label">Salvato tramite</string>
@@ -5048,8 +5050,7 @@ Aggiungi una parola toccando il tasto +."</string>
      <string name="virus_scanner_title">Scanner virus</string>
      <string name="virus_scanner_update_lib">Aggiornamento definizioni</string>
      <string name="vision_settings_description">Puoi personalizzare questo dispositivo per soddisfare le tue necessità. Queste funzioni di accessibilità possono essere modificate successivamente nelle Impostazioni.</string>
-    <string name="accessibility_services_title">Servizi</string>    
-	<string name="vision_settings_title">Impostazioni di visualizzazione</string>
+     <string name="vision_settings_title">Impostazioni di visualizzazione</string>
      <string name="voice_assist">Xiao Ai</string>
      <string name="voice_category">Voce</string>
      <string name="voice_helper_title">Assistente vocale</string>
@@ -5232,7 +5233,6 @@ Aggiungi una parola toccando il tasto +."</string>
      <string name="wifi_aggressive_handover_summary">Quando attivato, la connessione Wi-Fi sarà più aggressiva nel prevalere sulla connessione dati cellulare quando il segnale Wi-Fi è debole</string>
      <string name="wifi_allow_scan_with_traffic">Consenti sempre il Wi-Fi Roam Scan</string>
      <string name="wifi_allow_scan_with_traffic_summary">"Consenti/nega la scansione Wi-Fi basata sui dati dell'interfaccia"</string>
-     <string name="wifi_and_mobile_skipped_message">AVVISO. Finché non disporrai di una connessione internet, il dispositivo non sarà in grado di verificare che il software sia aggiornato.</string>
      <string name="wifi_ap_band_config">Seleziona banda AP</string>
      <string name="wifi_ap_choose_2G">Banda 2.4 GHz</string>
      <string name="wifi_ap_choose_5G">Banda 5 GHz</string>
