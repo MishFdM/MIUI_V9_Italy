@@ -54,6 +54,7 @@
      <string name="other_settings_upload_debug_log_title">Invia automaticamente i dati per la diagnosi</string>
      <string name="other_settings_user_experience">Programma Esperienza Utente</string>
      <string name="other_settings_user_experience_summary">"Contribuirai al miglioramento di MIUI con l'invio di dati anonimi di utilizzo"</string>
+     <string name="other_settings_user_experience_summary_index">Details</string>
      <string name="pref_title_data_slot">SIM Dati</string>
      <string name="pref_title_voice_slot">SIM Voce</string>
      <string name="privacy_policy">Termini sulla Privacy</string>

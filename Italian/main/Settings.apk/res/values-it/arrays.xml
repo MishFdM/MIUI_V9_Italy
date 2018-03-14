@@ -26,7 +26,7 @@
         <item>Scala animazione 10x</item>
      </string-array>
      <string-array name="ap_identify">
-        <item>default</item>
+        <item>Predefinito</item>
         <item>iPhone</item>
      </string-array>
      <string-array name="apn_auth_entries">
@@ -940,7 +940,7 @@
         <item>Colori ottimizzati per contenuti digitali</item>
      </string-array>
      <string-array name="color_mode_names">
-        <item>Vibrante (default)</item>
+        <item>Vibrante (predefinito)</item>
         <item>Naturale</item>
         <item>Normale</item>
      </string-array>

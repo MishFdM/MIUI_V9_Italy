@@ -48,8 +48,8 @@
      <string name="empty">Nessun elemento</string>
      <string name="file_operation_error">File operation failed.</string>
      <string name="file_operation_rejected">File operation is not supported.</string>
-     <string name="files_label">Files</string>
-     <string name="images_shortcut_label">Images</string>
+     <string name="files_label">File</string>
+     <string name="images_shortcut_label">Immagini</string>
      <string name="menu_advanced_hide">Nascondi memoria interna</string>
      <string name="menu_advanced_show">Mostra memoria interna</string>
      <string name="menu_compress">Compress</string>

@@ -136,7 +136,6 @@
      <string name="app_manager_app_info_label">Info app</string>
      <string name="app_manager_app_info_name">Nome app</string>
      <string name="app_manager_app_info_pkg">Nome APK</string>
-     <string name="app_manager_app_lock">Blocco app</string>
      <string name="app_manager_app_power">"Utilizzo batteria: "</string>
      <string name="app_manager_app_storage">"Archiviazione: "</string>
      <string name="app_manager_app_traffic">"Utilizzo dati: "</string>
@@ -199,7 +198,6 @@
      <string name="app_manager_net_mobile">Mobili</string>
      <string name="app_manager_net_wifi">Wi-Fi</string>
      <string name="app_manager_not_allow">No</string>
-     <string name="app_manager_not_support_uninstall">Non è possibile disinstallare queste app</string>
      <string name="app_manager_notify_bar">Badge</string>
      <string name="app_manager_notify_floating">Notifiche flottanti</string>
      <string name="app_manager_notify_keyguard">Lockscreen</string>
@@ -231,10 +229,10 @@
      <string name="app_manager_show_all_apps_opened">Visualizzazione risultati per tutte le app…</string>
      <string name="app_manager_show_detail_infos">Mostra tutto</string>
      <string name="app_manager_start_by">Avviato da %s</string>
-     <string name="app_manager_support_uninstall">Puoi disinstallare queste app</string>
      <string name="app_manager_system_mobile_disable">Disattiva i dati</string>
      <string name="app_manager_title">Gestione app</string>
      <string name="app_manager_total_size">Totale</string>
+     <string name="app_manager_uninstall">Uninstall</string>
      <string name="app_manager_uninstall_protected_dlg_msg">La disinstallazione di app di sistema può impedire il corretto funzionamento di alcuni elementi di MIUI. Disisntallare comunque?</string>
      <string name="app_manager_uninstall_protected_dlg_title">Disinstallazione app di sistema</string>
      <string name="app_manager_uninstall_with_xspace_app_dlg_msg">"L'app clonata corrispondente verrà eliminata insieme ai suoi dati."</string>
@@ -792,7 +790,7 @@ Il tuo operatore potrebbe addebitarti costi aggiuntivi se attivi di nuovo la ret
      <string name="gb_description_image_button_reject">Rifiuta</string>
      <string name="gb_description_image_button_video_answer">Video chiamata</string>
      <string name="gb_new_feature">Nuova funzione</string>
-     <string name="gdpr_msg">&lt;Data&gt;"Per utilizzare le funzioni base dell'app Sicurezza, devi consentire a Xiaomi la raccolta, elaborazione e utilizzo dei tuoi dati personali, incluse le informazioni sui metodi in cui usi le funzioni di Sicurezza (e.g., statistiche sull'utilizzo dei dati su rete mobile, informazioni su malware ed informazioni di base del tuo dispositivo) ed altri tipi di informazioni elencate nella nostra &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Informativa sulla Privacy&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
+     <string name="gdpr_msg">"&lt;Data&gt;"Per utilizzare le funzioni base dell'app Sicurezza, devi consentire a Xiaomi la raccolta, elaborazione e utilizzo dei tuoi dati personali, incluse le informazioni sui metodi in cui usi le funzioni di Sicurezza (e.g., statistiche sull'utilizzo dei dati su rete mobile, informazioni su malware ed informazioni di base del tuo dispositivo) ed altri tipi di informazioni elencate nella nostra &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Informativa sulla Privacy&amp;lt;/a&amp;gt;."&lt;/Data&gt;"</string>
      <string name="ge">Uno</string>
      <string name="get_sys_info">Recupero informazioni…</string>
      <string name="gigabyteShort">GB</string>

@@ -444,6 +444,9 @@ Utilizza solo l'alimentatore in dotazione."</string>
      <string name="long_screenshot_stop">Interrompi</string>
      <string name="long_screenshot_top_msg">Screenshot lungo in esecuzione…</string>
      <string name="long_screenshot_top_msg_manual">Ritaglia lo screenshot e tocca il tasto per terminare</string>
+     <string name="low_temperature_button_ok">Got it</string>
+     <string name="low_temperature_warning_message">The temperature is too low,the phone may shut down at any time, please save the data.</string>
+     <string name="low_temperature_warning_title">Shutdown warning</string>
      <string name="managed_profile_foreground_toast">Stai utilizzando il tuo profilo di lavoro</string>
      <string name="managed_user_title">Tutte le app attive</string>
      <string name="mdb_entering">Avvio</string>
