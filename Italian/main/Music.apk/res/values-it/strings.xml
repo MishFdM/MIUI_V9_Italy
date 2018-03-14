@@ -88,7 +88,7 @@
      <string name="artist_search_title">Artista</string>
      <string name="artist_view">Artista</string>
      <string name="asset_sync_alert_not_now">Non adesso</string>
-     <string name="asset_sync_network_data_alert_message">IL backup dei brani utilizzando la rete dati mobile potrebbe comportare costi aggiuntivi. Proseguire con il backup?</string>
+     <string name="asset_sync_network_data_alert_message">Il backup dei brani utilizzando la rete dati mobile potrebbe comportare costi aggiuntivi. Proseguire con il backup?</string>
      <string name="asset_sync_network_data_alert_title">"Stai utilizzando i dati mobili"</string>
      <string name="asset_sync_network_unavailable_alert_message">Collegati ad internet per eseguire il backup dei brani</string>
      <string name="asset_sync_network_unavailable_alert_title">Impossibile collegarsi alla rete</string>

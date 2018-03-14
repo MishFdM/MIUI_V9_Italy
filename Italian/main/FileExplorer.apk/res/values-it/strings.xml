@@ -185,7 +185,7 @@
      <string name="error_create_file">Impossibile creare il file</string>
      <string name="error_delete_failed">Impossibile eliminare il file</string>
      <string name="error_filename_too_long">Nome troppo lungo</string>
-     <string name="error_folder_already_exists">IL file è già esistente</string>
+     <string name="error_folder_already_exists">Il file è già esistente</string>
      <string name="error_info_cant_send_folder">La cartella non può essere trasferita</string>
      <string name="error_invalid_path">Percorso non corretto</string>
      <string name="error_not_support">Non supportato</string>

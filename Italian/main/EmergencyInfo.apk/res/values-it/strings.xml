@@ -191,8 +191,8 @@
      <string name="enable_opengl_traces_title">Enable OpenGL traces</string>
      <string name="enable_terminal_summary">Enable terminal app that offers local shell access</string>
      <string name="enable_terminal_title">Local terminal</string>
-     <string name="enable_webview_multiprocess">Multiprocess WebView</string>
-     <string name="enable_webview_multiprocess_desc">Run WebView renderers separately</string>
+     <string name="enable_webview_multiprocess">Multiprocessi WebView</string>
+     <string name="enable_webview_multiprocess_desc">Esegui i render WebView separatamente</string>
      <string name="enabled_by_admin">Enabled by administrator</string>
      <string name="force_allow_on_external">Force allow apps on external</string>
      <string name="force_allow_on_external_summary">Makes any app eligible to be written to external storage, regardless of manifest values</string>

@@ -9,8 +9,8 @@
      <string name="abc_action_mode_done">Fatto</string>
      <string name="abc_activity_chooser_view_see_all">Mostra tutto</string>
      <string name="abc_activitychooserview_choose_application">"Scegli un'app"</string>
-     <string name="abc_capital_off">OFF</string>
-     <string name="abc_capital_on">ON</string>
+     <string name="abc_capital_off">Disattivato</string>
+     <string name="abc_capital_on">Attivato</string>
      <string name="abc_search_hint">Cerca…</string>
      <string name="abc_searchview_description_clear">Cancella termine</string>
      <string name="abc_searchview_description_query">Cerca termine</string>
@@ -101,8 +101,8 @@ Nota: il tocco triplo per ingrandire funziona ovunque tranne che per la tastiera
      <string name="accessibility_shortcut_service_on_lock_screen_title">Consenti da lockscreen</string>
      <string name="accessibility_shortcut_service_title">Servizio collegamento</string>
      <string name="accessibility_summary_default_combination">%1$s / %2$s</string>
-     <string name="accessibility_summary_state_disabled">OFF</string>
-     <string name="accessibility_summary_state_enabled">ON</string>
+     <string name="accessibility_summary_state_disabled">Disattivato</string>
+     <string name="accessibility_summary_state_enabled">Attivato</string>
      <string name="accessibility_sync_disabled">Sincronizzazione disabilitata</string>
      <string name="accessibility_sync_enabled">Sincronizzazione abilitata</string>
      <string name="accessibility_sync_error">Errore di sincronizzazione.</string>
@@ -2257,8 +2257,8 @@ Quando attivi il backup automatico, il dispositivo e i dati delle applicazioni v
      <string name="location_neighborhood_level_wifi">Posizione determinata da Wi-Fi</string>
      <string name="location_network_based">Posizione Wi-Fi e Rete dati cellulare</string>
      <string name="location_no_recent_apps">Nessuna applicazione ha richiesto la posizione di recente</string>
-     <string name="location_off_summary">OFF</string>
-     <string name="location_on_summary">ON / %1$s</string>
+     <string name="location_off_summary">Disattivato</string>
+     <string name="location_on_summary">Attivato / %1$s</string>
      <string name="location_scanning_bluetooth_always_scanning_description">Migliora la posizione consentendo alle app e ai servizi di sistema di rilevare dispositivi Bluetooth in qualsiasi momento.</string>
      <string name="location_scanning_bluetooth_always_scanning_title">ScansioneBluetooth</string>
      <string name="location_scanning_screen_title">Scansione</string>
@@ -2311,7 +2311,7 @@ Quando attivi il backup automatico, il dispositivo e i dati delle applicazioni v
      <string name="lock_settings_profile_unification_dialog_body">Puoi utilizzare il blocco del profilo di lavoro anche per il blocco schermo. Se lo fai, tutte le condizioni di blocco verranno applicate anche al blocco del dispositivo.</string>
      <string name="lock_settings_profile_unification_dialog_confirm">Cambia blocco telefono</string>
      <string name="lock_settings_profile_unification_dialog_title">Utilizzare lo stesso blocco?</string>
-     <string name="lock_settings_profile_unification_dialog_uncompliant_body">"IL blocco del tuo profilo di lavoro non è in linea con le misure di sicurezza della tua azienda.
+     <string name="lock_settings_profile_unification_dialog_uncompliant_body">"Il blocco del tuo profilo di lavoro non è in linea con le misure di sicurezza della tua azienda.
 
 Puoi impostare un nuovo blocco schermo sia per il dispositivo che per il tuo profilo di lavoro, ma tutte le condizioni di blocco lavoro verranno applicate anche al blocco del dispositivo."</string>
      <string name="lock_settings_profile_unification_dialog_uncompliant_confirm">Cambia blocco</string>
@@ -2599,7 +2599,7 @@ Ci sono altri utenti presenti su questo dispositivo.
      <string name="miui_lab_slogan">Impara. Esplora. Scopri.</string>
      <string name="miui_lab_taplus_desc">Tieni premuto i collegamenti di avvio</string>
      <string name="miui_lab_taplus_title">Avvio app</string>
-     <string name="miui_master_clear_summary">Erases all data on phone</string>
+     <string name="miui_master_clear_summary">Elimina tutti i dati sul telefono</string>
      <string name="miui_screen_config_title">Configurazione schermo launcher MIUI</string>
      <string name="miui_updater">Aggiornamenti</string>
      <string name="mms_breathing_light_color_title">Colore LED messaggi</string>
@@ -2927,7 +2927,7 @@ ed esegui il software."</string>
      <string name="notification_unknown_sound_title">"Suono previsto dall'app"</string>
      <string name="notification_update_new_version">Aggiornamento disponibile</string>
      <string name="notification_update_now">Aggiorna adesso</string>
-     <string name="notification_vibrate_title">Vibrate</string>
+     <string name="notification_vibrate_title">Vibrazione</string>
      <string name="notification_volume_option_title">Notifiche</string>
      <string name="notification_volume_title">Notifica</string>
      <string name="notifications_disabled">Blocca</string>
@@ -3471,7 +3471,7 @@ Interfaccia UT: %5$s"</string>
      <string name="reset_second_space_passwd_confirm">Continua</string>
      <string name="reset_second_space_passwd_detail">Inserisci la password del Mi Account utilizzata nello spazio Primario</string>
      <string name="reset_shortcut_manager_throttling">Azzera contatori limite frequenza ShortcutManager</string>
-     <string name="reset_shortcut_manager_throttling_complete">IL rate-limiting ShortcutManager è stato ripristinato</string>
+     <string name="reset_shortcut_manager_throttling_complete">Il rate-limiting ShortcutManager è stato ripristinato</string>
      <string name="resetting_second_space_passwd">Reimpostazione password spazio Secondario</string>
      <string name="resolver_settings_label">Ordina</string>
      <string name="restore_default_apn">Ripristino delle impostazioni APN predefinite…</string>
@@ -4564,7 +4564,7 @@ L'approccio di Google alla sincronizzazione di dati per consentirti l'accesso ai
      <string name="testing_wifi_info">Informazioni Wi-Fi</string>
      <string name="tether_and_hotspot_title">Tethering e hotspot</string>
      <string name="tether_auto_disable_summary">"Chiudi automaticamente l'hotspot quando nessun dispositivo è connesso"</string>
-     <string name="tether_auto_disable_title">Ciudi automaticamente hotspot</string>
+     <string name="tether_auto_disable_title">Chiudi automaticamente hotspot</string>
      <string name="tether_data_usage_limit">Limite dati one-time</string>
      <string name="tether_data_usage_limit_summary">"Il limite dati verrà applicato la prossima volta che l'hotspot è attivo"</string>
      <string name="tether_devices_management_title">Gestisci dispositivi</string>
@@ -4984,8 +4984,8 @@ Aggiungi una parola toccando il tasto +."</string>
      <string name="user_you">Tu (%s)</string>
      <string name="users_and_accounts_summary">Utente attuale: %1$s</string>
      <string name="users_summary">Accesso eseguito come %1$s</string>
-     <string name="v7_preference_off">OFF</string>
-     <string name="v7_preference_on">ON</string>
+     <string name="v7_preference_off">Disattivato</string>
+     <string name="v7_preference_on">Attivato</string>
      <string name="verify_apps_over_usb_summary">Controlla che le applicazioni installate tramite ADB/ADT non abbiano un comportamento dannoso</string>
      <string name="verify_apps_over_usb_title">Verifica app tramite USB</string>
      <string name="version_text">versione %1$s</string>
@@ -5114,8 +5114,8 @@ Aggiungi una parola toccando il tasto +."</string>
      <string name="vpn_no_server_cert">(ricevuto dal server)</string>
      <string name="vpn_no_vpns_added">Nessuna VPN aggiunta.</string>
      <string name="vpn_not_used">(non utilizzato)</string>
-     <string name="vpn_off">OFF</string>
-     <string name="vpn_on">ON</string>
+     <string name="vpn_off">Disattivato</string>
+     <string name="vpn_on">Attivato</string>
      <string name="vpn_password">Password</string>
      <string name="vpn_replace">Sostituisci</string>
      <string name="vpn_replace_always_on_vpn_disable_message">"Sei già connesso alla VPN sempre-attiva. Se ti colleghi ad una diversa, la tua VPN esistente verrà sostituita la modalità sempre-attiva verrà terminata."</string>

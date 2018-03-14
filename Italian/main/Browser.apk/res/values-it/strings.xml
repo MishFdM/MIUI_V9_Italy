@@ -193,7 +193,7 @@
      <string name="current_version_phone">Telefono</string>
      <string name="custom_head_card_text">"Pensa sempre che qualcosa di stupendo
 stia per accadere"</string>
-     <string name="data_monitor">Data monitor</string>
+     <string name="data_monitor">Monitor dati</string>
      <string name="data_monitor_dialog_message">Sembra che qualcosa stia consumando il traffico dati. Apri la pagina iniziale per interrompere.</string>
      <string name="data_traffic_prompt_message">"L'utilizzo della rete dati mobile per la navigazione aumenterà il consumo dei dati. Se superi il limite del tuo piano dati, il tuo operatore potrebbe addebitarti costi aggiuntivi."</string>
      <string name="data_traffic_prompt_title">Avviso utilizzo dati</string>

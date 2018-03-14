@@ -11,7 +11,7 @@
      <string name="abc_capital_off">OFF</string>
      <string name="abc_capital_on">ON</string>
      <string name="abc_search_hint">Cerca…</string>
-     <string name="abc_searchview_description_clear">Ancella termine</string>
+     <string name="abc_searchview_description_clear">Cancella termine</string>
      <string name="abc_searchview_description_query">Cerca termine</string>
      <string name="abc_searchview_description_search">Cerca</string>
      <string name="abc_searchview_description_submit">Invia termine</string>
@@ -402,7 +402,7 @@ Centro servizio clienti:400-100-5678"</string>
      <string name="passport_forget_password_no_underline">Password dimenticata</string>
      <string name="passport_get_back_pwd">Ottieni password account</string>
      <string name="passport_get_verify_code">Ottieni codice</string>
-     <string name="passport_getting_activator_phone">Recuperoi informazioni SIM…</string>
+     <string name="passport_getting_activator_phone">Recupero informazioni SIM…</string>
      <string name="passport_getting_verify_code">Ottenimento</string>
      <string name="passport_i_know">Fatto</string>
      <string name="passport_identification_expired">Codice di verifica scaduto, inizia di nuovo</string>
@@ -514,7 +514,7 @@ Centro servizio clienti:400-100-5678"</string>
      <string name="passport_user_agreement_p1">Accetto</string>
      <string name="passport_user_agreement_p2">Accordo Utente</string>
      <string name="passport_user_agreement_p3"> e </string>
-     <string name="passport_user_agreement_p4">Iformativa sulla privacy</string>
+     <string name="passport_user_agreement_p4">Informativa sulla privacy</string>
      <string name="passport_user_id_notice">Il tuo ID Mi Account ID è %s.</string>
      <string name="passport_user_reg_region">Paese/Regione</string>
      <string name="passport_user_reg_region_warning">"Non potrai cambiare Paese/regione una volta che l'account verrà creato."</string>

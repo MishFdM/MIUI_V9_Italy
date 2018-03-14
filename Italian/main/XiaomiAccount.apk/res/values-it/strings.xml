@@ -372,7 +372,7 @@ Per attivare il tuo account, segui il
      <string name="passport_user_agreement_p2">Accordo Utente</string>
      <string name="passport_user_agreement_p3"> e </string>
      <string name="passport_user_agreement_p4">Informativa sulla Privacy</string>
-     <string name="passport_user_id_notice">IL tuo ID Mi Account ID è %s.</string>
+     <string name="passport_user_id_notice">Il tuo ID Mi Account ID è %s.</string>
      <string name="passport_user_reg_region">Nazione/Regione</string>
      <string name="passport_user_reg_region_warning">"Non sarai in grado di modificare la Nazione/Regione una volta che avrai creato l'account"</string>
      <string name="passport_vcode_notification_title">La tua verifica di accesso è incompleta</string>
