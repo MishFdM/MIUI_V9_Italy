@@ -222,7 +222,7 @@
  <li>Applicazioni predefinite per azioni</li>
  <li>Limitazione dati in background delle app</li>
 
- Non perderai nessun dato dell'applicazione."</string>
+ Non perderai nessun dato dell\'applicazione."</string>
      <string name="app_manager_reset_app_preferences_title">Ripristina le preferenze applicazioni?</string>
      <string name="app_manager_search_prompt">Non trovi i risultati? Prova visualizzando i risultati per tutte le app.</string>
      <string name="app_manager_show_all_apps">Mostra tutte le app</string>
@@ -790,7 +790,7 @@ Il tuo operatore potrebbe addebitarti costi aggiuntivi se attivi di nuovo la ret
      <string name="gb_description_image_button_reject">Rifiuta</string>
      <string name="gb_description_image_button_video_answer">Video chiamata</string>
      <string name="gb_new_feature">Nuova funzione</string>
-     <string name="gdpr_msg">"&lt;Data&gt;"Per utilizzare le funzioni base dell'app Sicurezza, devi consentire a Xiaomi la raccolta, elaborazione e utilizzo dei tuoi dati personali, incluse le informazioni sui metodi in cui usi le funzioni di Sicurezza (e.g., statistiche sull'utilizzo dei dati su rete mobile, informazioni su malware ed informazioni di base del tuo dispositivo) ed altri tipi di informazioni elencate nella nostra &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Informativa sulla Privacy&amp;lt;/a&amp;gt;."&lt;/Data&gt;"</string>
+     <string name="gdpr_msg">"Per utilizzare le funzioni base dell'app Sicurezza, devi consentire a Xiaomi la raccolta, elaborazione e utilizzo dei tuoi dati personali, incluse le informazioni sui metodi in cui usi le funzioni di Sicurezza (e.g., statistiche sull'utilizzo dei dati su rete mobile, informazioni su malware ed informazioni di base del tuo dispositivo) ed altri tipi di informazioni elencate nella nostra &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Informativa sulla Privacy&amp;lt;/a&amp;gt;."</string>
      <string name="ge">Uno</string>
      <string name="get_sys_info">Recupero informazioni…</string>
      <string name="gigabyteShort">GB</string>
