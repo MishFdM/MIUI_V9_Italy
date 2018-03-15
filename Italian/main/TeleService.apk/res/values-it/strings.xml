@@ -1724,7 +1724,7 @@ Contatta il tuo operatore se questo problema persiste."</string>
      <string name="wifi_security_wpa2">WPA2 PSK</string>
      <string name="wifi_security_wpa_wpa2">WPA/WPA2 PSK</string>
      <string name="wifi_ssid_is_empty">Il campo SSID non può essere lasciato vuoto</string>
-     <string name="wifi_ssid_length_is_max">""l'SSID non può contenere più di 32 caratteri"</string>
+     <string name="wifi_ssid_length_is_max">"l'SSID non può contenere più di 32 caratteri"</string>
      <string name="wifi_verbose_logging">Attiva log WI-Fi verboso</string>
      <string name="wifi_verbose_logging_summary">Incrementa il livello di log Wi-Fi, mostra per SSID RSSI nella selezione Wi-Fi</string>
      <string name="wifi_wapi_as_certificate">AS certificate</string>
