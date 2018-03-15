@@ -5166,8 +5166,8 @@ Aggiungi una parola toccando il tasto +."</string>
      <string name="wapi_auto_sel_cert_fail">Non è possibile selezionare i certificati automaticamente. Seleziona un certificato dalla lista e prova a connetterti.</string>
      <string name="wapi_cert_is_not_selected">Seleziona prima il certificato</string>
      <string name="wapi_cert_manage_summary">Aggiungi o elimina il certificato WAPI</string>
-     <string name="wapi_cert_manage_title">WAPI certificate management</string>
-     <string name="wapi_cert_select">WAPI certificate</string>
+     <string name="wapi_cert_manage_title">Gestione certificato WAPI</string>
+     <string name="wapi_cert_select">Certificato WAPI</string>
      <string name="wapi_no">no</string>
      <string name="wapi_no_vaild_cert">Nessun certificato disponibile, installare adesso?</string>
      <string name="wapi_password_empty">Inserisci la password</string>
