@@ -325,7 +325,7 @@ per vedere qui le schede cloud aperte su altri dispositivi"</string>
      <string name="go_supermarket_title">"Altre app, maggiore velocità e riduzione dell'utilizzo dati nell'App Store"</string>
      <string name="gold_medals">"Medaglie d'oro"</string>
      <string name="google_bookmarks">"Google: "</string>
-     <string name="green_kid_block_request">The website has been banned from visits by parents.</string>
+     <string name="green_kid_block_request">IL sito è stato bloccato dai genitori.</string>
      <string name="have_sent_bookmark_to_home_screen">Posizionato in home</string>
      <string name="hint">Suggerimenti</string>
      <string name="history">Cronologia</string>
@@ -682,7 +682,7 @@ Sei scuro di voler uscire da questa pagina?"</string>
      <string name="mw_payments_card_and_address_settings_signed_out">Le carte e gli indirizzi provengono da Chrome. Puoi gestirli da BEGIN_LINKSettingsEND_LINK.</string>
      <string name="mw_payments_card_billing_address_required">Indirizzi di fatturazione carte richiesti</string>
      <string name="mw_payments_card_expiration_invalid_validation_message">Inserisci una data di scadenza valida</string>
-     <string name="mw_payments_card_number_invalid_validation_message">Inserisci un numero di carta vazlido</string>
+     <string name="mw_payments_card_number_invalid_validation_message">Inserisci un numero di carta valido</string>
      <string name="mw_payments_checking_option">Controllo</string>
      <string name="mw_payments_contact_details_label">Informazioni di contatto</string>
      <string name="mw_payments_credit_card_expiration_date_abbr">Scadenza %1$s/%2$s</string>
@@ -1216,9 +1216,9 @@ Per navigare correttamente devi essere collegato ad Internet. Per poter utilizza
      <string name="voice_connect_network">Impossibile connettersi alla rete</string>
      <string name="voice_description">RIcerca vocale</string>
      <string name="voice_network_connection">"L'utilizzo della ricerca vocale richiede la connessione di rete, devi autorizzare la connessione"</string>
-     <string name="voice_open_permission_baidu">Please go to Settings turn on voice permissions for Speech Recognition Settings</string>
-     <string name="voice_open_permission_xiaoai">Please go to Settings turn on voice permissions for Xiaoai Voice Engine</string>
-     <string name="voice_open_permission_xunfei">Please go to Settings turn on voice permissions for Voice Settings</string>
+     <string name="voice_open_permission_baidu">Vai in Impostazioni attiva i permessi vocali per le Impostazioni del Riconoscimento Vocale</string>
+     <string name="voice_open_permission_xiaoai">Vai in Impostazioni attiva i permessi vocali per il Motore Vocale Xiaomi</string>
+     <string name="voice_open_permission_xunfei">Vai in Impostazioni attiva i permessi vocali per le Impostazioni Vocali</string>
      <string name="voice_search_permission">La ricerca vocale richiede i permessi adeguati, vai nelle impostazioni del Browser per aprire i permessi vocali</string>
      <string name="voice_semantic_analysis">Analisi semantica dopo la connessione</string>
      <string name="voice_start_description">Start</string>
