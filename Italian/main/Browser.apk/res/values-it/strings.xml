@@ -193,7 +193,7 @@
      <string name="current_version_phone">Telefono</string>
      <string name="custom_head_card_text">"Pensa sempre che qualcosa di stupendo
 stia per accadere"</string>
-     <string name="data_monitor">Data monitor</string>
+     <string name="data_monitor">Monitor dati</string>
      <string name="data_monitor_dialog_message">Sembra che qualcosa stia consumando il traffico dati. Apri la pagina iniziale per interrompere.</string>
      <string name="data_traffic_prompt_message">"L'utilizzo della rete dati mobile per la navigazione aumenterà il consumo dei dati. Se superi il limite del tuo piano dati, il tuo operatore potrebbe addebitarti costi aggiuntivi."</string>
      <string name="data_traffic_prompt_title">Avviso utilizzo dati</string>
@@ -325,6 +325,7 @@ per vedere qui le schede cloud aperte su altri dispositivi"</string>
      <string name="go_supermarket_title">"Altre app, maggiore velocità e riduzione dell'utilizzo dati nell'App Store"</string>
      <string name="gold_medals">"Medaglie d'oro"</string>
      <string name="google_bookmarks">"Google: "</string>
+     <string name="green_kid_block_request">IL sito è stato bloccato dai genitori.</string>
      <string name="have_sent_bookmark_to_home_screen">Posizionato in home</string>
      <string name="hint">Suggerimenti</string>
      <string name="history">Cronologia</string>
@@ -681,7 +682,7 @@ Sei scuro di voler uscire da questa pagina?"</string>
      <string name="mw_payments_card_and_address_settings_signed_out">Le carte e gli indirizzi provengono da Chrome. Puoi gestirli da BEGIN_LINKSettingsEND_LINK.</string>
      <string name="mw_payments_card_billing_address_required">Indirizzi di fatturazione carte richiesti</string>
      <string name="mw_payments_card_expiration_invalid_validation_message">Inserisci una data di scadenza valida</string>
-     <string name="mw_payments_card_number_invalid_validation_message">Inserisci un numero di carta vazlido</string>
+     <string name="mw_payments_card_number_invalid_validation_message">Inserisci un numero di carta valido</string>
      <string name="mw_payments_checking_option">Controllo</string>
      <string name="mw_payments_contact_details_label">Informazioni di contatto</string>
      <string name="mw_payments_credit_card_expiration_date_abbr">Scadenza %1$s/%2$s</string>
@@ -1215,6 +1216,9 @@ Per navigare correttamente devi essere collegato ad Internet. Per poter utilizza
      <string name="voice_connect_network">Impossibile connettersi alla rete</string>
      <string name="voice_description">RIcerca vocale</string>
      <string name="voice_network_connection">"L'utilizzo della ricerca vocale richiede la connessione di rete, devi autorizzare la connessione"</string>
+     <string name="voice_open_permission_baidu">Vai in Impostazioni attiva i permessi vocali per le Impostazioni del Riconoscimento Vocale</string>
+     <string name="voice_open_permission_xiaoai">Vai in Impostazioni attiva i permessi vocali per il Motore Vocale Xiaomi</string>
+     <string name="voice_open_permission_xunfei">Vai in Impostazioni attiva i permessi vocali per le Impostazioni Vocali</string>
      <string name="voice_search_permission">La ricerca vocale richiede i permessi adeguati, vai nelle impostazioni del Browser per aprire i permessi vocali</string>
      <string name="voice_semantic_analysis">Analisi semantica dopo la connessione</string>
      <string name="voice_start_description">Start</string>

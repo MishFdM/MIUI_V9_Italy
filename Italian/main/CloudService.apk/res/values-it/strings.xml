@@ -443,10 +443,9 @@ Utilizza un account diverso."</string>
      <string name="micloud_warn_full_title">Spazio esaurito</string>
      <string name="micloud_warn_low_sum">Il tuo Mi Cloud è pieno al 90%.</string>
      <string name="micloud_warn_low_title">Spazio quasi esaurito…</string>
-     <string name="micloud_web_discription">Accedi a <b>i.mi.com</b> per archiviare i tuoi dati e consultarli ovunque ti trovi</string>
      <string name="micloud_web_discription_01">Accedi a <b>i.mi.com</b></string>
      <string name="micloud_web_discription_02">per salvare i tuoi file o accedervi ovunque tu sia</string>
-     <string name="micloud_web_discription_international">Visita <b>i.mi.com</b></string>
+     <string name="micloud_web_discription_place_holder">Visit %1$s</string>
      <string name="micloud_website">Dati cloud</string>
      <string name="micloud_wipe_data_confirm_label">Rimuovi i dati da Mi Cloud</string>
      <string name="micloud_wipe_data_confirm_title">"Rimuovere gli oggetti sincronizzati con Mi Cloud dal telefono dopo l'uscita?"</string>

@@ -122,7 +122,7 @@
      </plurals>
      <plurals name="lockpassword_pin_too_long">
         <item quantity="other">Il PIN può contenere fino a %d numeri</item>
-        <item quantity="one">IL PIN può contenere fino a %d numero</item>
+        <item quantity="one">Il PIN può contenere fino a %d numero</item>
      </plurals>
      <plurals name="lockpassword_pin_too_short">
         <item quantity="other">Il PIN deve essere d %d numeri</item>

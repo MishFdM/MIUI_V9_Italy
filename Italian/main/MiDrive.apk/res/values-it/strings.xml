@@ -38,7 +38,7 @@
      <string name="file_loading">Solo un attimo…</string>
      <string name="file_name_empty">Devi inserire un nome.</string>
      <string name="file_name_invalid">"Il nome del file non può contenere i seguenti caratteri: /\\:*?&lt;>"</string>
-     <string name="file_name_too_long">IL nome del file inserito è troppo lungo.</string>
+     <string name="file_name_too_long">Il nome del file inserito è troppo lungo.</string>
      <string name="file_not_exist">File inesistente</string>
      <string name="file_too_large">Il file è troppo grande per essere caricato.</string>
      <string name="files">File</string>
