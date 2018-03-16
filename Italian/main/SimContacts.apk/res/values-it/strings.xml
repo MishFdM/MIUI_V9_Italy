@@ -2,5 +2,5 @@
 <resources>
     <string name="app_name">Contatti Sim</string>
     <string name="account_sim">SIM</string>
-    <string name="account_phone">TELECOM</string>
+    <string name="account_phone">TELEFONO</string>
 </resources>
