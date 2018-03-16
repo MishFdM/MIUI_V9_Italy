@@ -45,6 +45,8 @@
      <string name="access_point_names">Nome punto accesso</string>
      <string name="accessibility_autoclick_delay_preference_title">Ritarda prima di eseguire</string>
      <string name="accessibility_autoclick_preference_title">Tocca dopo che il puntatore ha smesso di muoversi</string>
+	 <string name="accessibility_system_title">Sistema</string>
+     <string name="accessibility_display_title">Display</string>
      <string name="accessibility_captioning_title">Sottotitoli</string>
      <string name="accessibility_category_personal">Impostazioni profilo personale</string>
      <string name="accessibility_category_work">Account profili di lavoro - %s</string>
