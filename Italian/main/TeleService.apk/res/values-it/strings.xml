@@ -1200,9 +1200,9 @@ Le funzionalità relative al PIN2 saranno bloccate se si fallisce un altro tenta
      <string name="power_discharging_duration">%1$s - appross. %2$s rimanenti</string>
      <string name="power_discharging_duration_short">%1$s - %2$s rimanenti</string>
      <string name="power_remaining_charging_duration_only">%1$s rimanenti per la carica completa</string>
-     <string name="power_remaining_duration_only">Approx. %1$s rimanenti</string>
+     <string name="power_remaining_duration_only">Appross. %1$s rimanenti</string>
      <string name="power_remaining_duration_only_short">%1$s rimanenti</string>
-     <string name="prefered_network_type_3g_promp">DOvresti disattivare il VoLTE prima di selezionare il 3G come rete preferita. Disattivare adesso?</string>
+     <string name="prefered_network_type_3g_promp">Dovresti disattivare il VoLTE prima di selezionare il 3G come rete preferita. Disattivare adesso?</string>
      <string name="preference_auto_ip_summary_disable">Disattivato</string>
      <string name="preference_category_ringtone">Suoneria e vibrazione</string>
      <string name="preference_data_usage_summary">"Imposta un piano dati per controllare l'uso della rete dati mobile"</string>
