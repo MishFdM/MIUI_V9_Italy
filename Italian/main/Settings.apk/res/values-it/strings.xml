@@ -996,8 +996,8 @@ Frequenza Campione"</string>
      <string name="carrier_enabled">Attivazione/disattivazione APN</string>
      <string name="carrier_enabled_summaryOff">APN non attivo</string>
      <string name="carrier_enabled_summaryOn">APN attivo</string>
-     <string name="carrier_show_in_lock_screen">Only show in lock screen</string>
-     <string name="carrier_show_none">Never show carrier name</string>
+     <string name="carrier_show_in_lock_screen">Mostra solo nella schermata di blocco</string>
+     <string name="carrier_show_none">"Non mostrare mai il nome dell'operatore"</string>
      <string name="category_personal">Personale</string>
      <string name="category_work">Lavoro</string>
      <string name="cdma_security_settings_summary">Imposta La mia posizione, blocco schermo, blocco archivio credenziali</string>
@@ -2559,8 +2559,8 @@ Ci sono altri utenti presenti su questo dispositivo.
      <string name="memory_settings_title">Memoria</string>
      <string name="memory_size">Spazio totale</string>
      <string name="memory_summary">%1$s di %2$s utilizzati</string>
-     <string name="memory_system_rom">System storage</string>
-     <string name="memory_system_space">System storage</string>
+     <string name="memory_system_rom">Memoria di sistema</string>
+     <string name="memory_system_space">Memoria di sistema</string>
      <string name="memory_title">Disponibile: %1$s\u0009\u0009Totale: %2$s</string>
      <string name="memory_usage">Memoria occupata</string>
      <string name="memory_usage_apps">Memoria usata dalle app</string>
