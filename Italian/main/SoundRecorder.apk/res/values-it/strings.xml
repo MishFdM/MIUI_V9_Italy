@@ -24,7 +24,7 @@
      <string name="deleting_message">Eliminazione…</string>
      <string name="details">Dettagli</string>
      <string name="dialog_content_storage_full">A causa della mancanza di spazio di archiviazione, la registrazione è stata interrotta ed è necessario eliminare alcuni file. Procedere ora?</string>
-     <string name="dialog_privacy_revoke_tips">"Dovo la revoca dell'autorizzazione, l'app smetterà di raccogliere dati, e tutti quelli raccolti verranno eliminati dai server. Questo potrebbe rendere l'app virtualmente non utilizzabile. Revocare comunque le autorizzazioni? Per garantire la sicurezza del tuo account, accedi a i.mi.com prima di revocare le autorizzazioni dei servizi Mi Cloud."</string>
+     <string name="dialog_privacy_revoke_tips">"Dopo la revoca dell'autorizzazione, l'app smetterà di raccogliere dati, e tutti quelli raccolti verranno eliminati dai server. Questo potrebbe rendere l'app virtualmente non utilizzabile. Revocare comunque le autorizzazioni? Per garantire la sicurezza del tuo account, accedi a i.mi.com prima di revocare le autorizzazioni dei servizi Mi Cloud."</string>
      <string name="dialog_title_storage_full">Spazio di archiviazione esaurito. Eliminare alcuni file?</string>
      <string name="duration_format_hour">%so</string>
      <string name="duration_format_minute">%sm</string>
