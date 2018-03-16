@@ -2332,6 +2332,7 @@ Puoi impostare un nuovo blocco schermo sia per il dispositivo che per il tuo pro
      <string name="lock_settings_title">Sicurezza schermo</string>
      <string name="lock_settings_with_fingerprint">Schermata di blocco e password</string>
      <string name="lock_setup">Impostazione completata.</string>
+	 <string name="device_admin_title">Amministrazione dispositivo</string>
      <string name="lock_sounds_enable_title">Suono di blocco schermo</string>
      <string name="lockpassword_cancel_label">Annulla</string>
      <string name="lockpassword_choose_for_second_user">Imposta password per lo Spazio Secondario</string>

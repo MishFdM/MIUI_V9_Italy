@@ -420,7 +420,7 @@
      <string name="hot_icon_in_fast_indexer">H</string>
      <string name="i_know">Ho capito</string>
      <string name="i_know_it">OK</string>
-     <string name="impunity_declaration_content">Dev leggere ed accettare %1$s e %2$s prima di utilizzare questo rpodotto.</string>
+     <string name="impunity_declaration_content">Devi leggere ed accettare %1$s e %2$s prima di utilizzare questo rpodotto.</string>
      <string name="impunity_declaration_content_agreement">Accordo utente</string>
      <string name="impunity_declaration_content_policy">Informativa sulla Privacy</string>
      <string name="impunity_declaration_ignore">Non mostrare più</string>
