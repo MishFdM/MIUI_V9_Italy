@@ -66,7 +66,7 @@
      <string name="ominus">O-</string>
      <string name="oplus">O+</string>
      <string name="organ_donor">Donatore di organi</string>
-     <string name="password_toggle_content_description">COmandovisibilità password</string>
+     <string name="password_toggle_content_description">Comando visibilità password</string>
      <string name="phone_type_and_phone_number">%1$s • %2$s</string>
      <string name="remove">Rimuovi</string>
      <string name="remove_contact">Rimuovi %1$s dai contatti di emergenza?</string>
