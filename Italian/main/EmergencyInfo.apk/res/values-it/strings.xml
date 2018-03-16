@@ -66,7 +66,7 @@
      <string name="ominus">O-</string>
      <string name="oplus">O+</string>
      <string name="organ_donor">Donatore di organi</string>
-     <string name="password_toggle_content_description">COmandovisibilità password</string>
+     <string name="password_toggle_content_description">Comando visibilità password</string>
      <string name="phone_type_and_phone_number">%1$s • %2$s</string>
      <string name="remove">Rimuovi</string>
      <string name="remove_contact">Rimuovi %1$s dai contatti di emergenza?</string>
@@ -75,7 +75,7 @@
      <string name="search_menu_title">Cerca</string>
      <string name="tab_title_contacts">Contatti</string>
      <string name="tab_title_info">Informazioni</string>
-     <string name="tap_pencil">Se questo è il tuo telefono, tocca l'icona fatta a matita per aggiungere informazioni che verranno mostrate qui in caso di emergenza</string>
+     <string name="tap_pencil">"Se questo è il tuo telefono, tocca l'icona fatta a matita per aggiungere informazioni che verranno mostrate qui in caso di emergenza"</string>
      <string name="unknown_address">Sconosciuto</string>
      <string name="unknown_allergies">Sconosciuto</string>
      <string name="unknown_blood_type">Sconosciuto</string>
