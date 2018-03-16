@@ -75,7 +75,7 @@
      <string name="search_menu_title">Cerca</string>
      <string name="tab_title_contacts">Contatti</string>
      <string name="tab_title_info">Informazioni</string>
-     <string name="tap_pencil">Se questo è il tuo telefono, tocca l'icona fatta a matita per aggiungere informazioni che verranno mostrate qui in caso di emergenza</string>
+     <string name="tap_pencil">"Se questo è il tuo telefono, tocca l'icona fatta a matita per aggiungere informazioni che verranno mostrate qui in caso di emergenza"</string>
      <string name="unknown_address">Sconosciuto</string>
      <string name="unknown_allergies">Sconosciuto</string>
      <string name="unknown_blood_type">Sconosciuto</string>
