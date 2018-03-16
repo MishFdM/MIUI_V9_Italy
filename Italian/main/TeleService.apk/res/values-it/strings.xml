@@ -11,7 +11,7 @@
      <string name="PERSOSUBSTATE_RUIM_HRPD_ENTRY">Sblocco PIN RUIM hrpd</string>
      <string name="PERSOSUBSTATE_RUIM_HRPD_ERROR">Richiesta sblocco RUIM Hrpd riuscita.</string>
      <string name="PERSOSUBSTATE_RUIM_HRPD_IN_PROGRESS">Richiesta sblocco RUIM hrpd…</string>
-     <string name="PERSOSUBSTATE_RUIM_HRPD_PUK_ENTRY">Enter PUK</string>
+     <string name="PERSOSUBSTATE_RUIM_HRPD_PUK_ENTRY">Inserisci PUK</string>
      <string name="PERSOSUBSTATE_RUIM_HRPD_PUK_ERROR">Sblocco PUK non riuscito.</string>
      <string name="PERSOSUBSTATE_RUIM_HRPD_PUK_IN_PROGRESS">Richiesta sblocco PUK…</string>
      <string name="PERSOSUBSTATE_RUIM_HRPD_PUK_SUCCESS">Sblocco PUK riuscito.</string>
@@ -27,7 +27,7 @@
      <string name="PERSOSUBSTATE_RUIM_NETWORK2_ENTRY">Sblocco PIN RUIM rete2</string>
      <string name="PERSOSUBSTATE_RUIM_NETWORK2_ERROR">Richiesta sblocco RUIM Rete2 non riuscita.</string>
      <string name="PERSOSUBSTATE_RUIM_NETWORK2_IN_PROGRESS">Richiesta sblocco RUIM rete2…</string>
-     <string name="PERSOSUBSTATE_RUIM_NETWORK2_PUK_ENTRY">Enter PUK</string>
+     <string name="PERSOSUBSTATE_RUIM_NETWORK2_PUK_ENTRY">Inserisci PUK</string>
      <string name="PERSOSUBSTATE_RUIM_NETWORK2_PUK_ERROR">Sblocco PUK non riuscito.</string>
      <string name="PERSOSUBSTATE_RUIM_NETWORK2_PUK_IN_PROGRESS">Richiesta sblocco PUK…</string>
      <string name="PERSOSUBSTATE_RUIM_NETWORK2_PUK_SUCCESS">Sblocco PUK riuscito.</string>
@@ -89,17 +89,17 @@
      <string name="PERSOSUBSTATE_SIM_SIM_IN_PROGRESS">Richiesta sblocco SIM…</string>
      <string name="PERSOSUBSTATE_SIM_SIM_PUK_ENTRY">Enter PUK</string>
      <string name="PERSOSUBSTATE_SIM_SIM_PUK_ERROR">Sblocco SIM non eseguito.</string>
-     <string name="PERSOSUBSTATE_SIM_SIM_PUK_IN_PROGRESS">Requesting PUK unlock…</string>
+     <string name="PERSOSUBSTATE_SIM_SIM_PUK_IN_PROGRESS">Richiesta sblocco PUK…</string>
      <string name="PERSOSUBSTATE_SIM_SIM_PUK_SUCCESS">Sblocco PUK eseguito correttamente.</string>
      <string name="PERSOSUBSTATE_SIM_SIM_SUCCESS">Sblocco SIM eseguito correttamente.</string>
-     <string name="PERSOSUBSTATE_SIM_SPN_ENTRY">SPN unlock PIN</string>
-     <string name="PERSOSUBSTATE_SIM_SPN_ERROR">SPN unlock request unsuccessful.</string>
-     <string name="PERSOSUBSTATE_SIM_SPN_IN_PROGRESS">Requesting SPN unlock…</string>
-     <string name="PERSOSUBSTATE_SIM_SPN_SUCCESS">SPN unlock successful.</string>
-     <string name="PERSOSUBSTATE_SIM_SP_EHPLMN_ENTRY">SP EHPLMN unlock PIN</string>
-     <string name="PERSOSUBSTATE_SIM_SP_EHPLMN_ERROR">SP EHPLMN unlock request unsuccessful.</string>
-     <string name="PERSOSUBSTATE_SIM_SP_EHPLMN_IN_PROGRESS">Requesting SP EHPLMN unlock…</string>
-     <string name="PERSOSUBSTATE_SIM_SP_EHPLMN_SUCCESS">SP EHPLMN unlock successful.</string>
+     <string name="PERSOSUBSTATE_SIM_SPN_ENTRY">PIN sblocco SPN</string>
+     <string name="PERSOSUBSTATE_SIM_SPN_ERROR">Richiesta sblocco SPN non riuscita.</string>
+     <string name="PERSOSUBSTATE_SIM_SPN_IN_PROGRESS">Richiesta sblocco SPN…</string>
+     <string name="PERSOSUBSTATE_SIM_SPN_SUCCESS">Sblocco SPN riuscito.</string>
+     <string name="PERSOSUBSTATE_SIM_SP_EHPLMN_ENTRY">PIN sblocco SP EHPLMN</string>
+     <string name="PERSOSUBSTATE_SIM_SP_EHPLMN_ERROR">Richiesta sblocco SP EHPLMN non riuscita.</string>
+     <string name="PERSOSUBSTATE_SIM_SP_EHPLMN_IN_PROGRESS">Richiesta sblocco SP EHPLMN…</string>
+     <string name="PERSOSUBSTATE_SIM_SP_EHPLMN_SUCCESS">Sblocco SP EHPLMN riuscito.</string>
      <string name="accessibility_display_daltonizer_preference_subtitle">Questa funzione è sperimentale e potrebbe non funzionare correttamente.</string>
      <string name="accessibility_display_daltonizer_preference_title">Correzione colore</string>
      <string name="accessibility_no_wifi">Wi-Fi disconnessa.</string>
@@ -109,7 +109,7 @@
      <string name="accessibility_wifi_signal_full">Wi-Fi segnale pieno.</string>
      <string name="accessibility_wifi_three_bars">Wi-Fi tre tacche.</string>
      <string name="accessibility_wifi_two_bars">Wi-Fi due tacche.</string>
-     <string name="active_input_method_subtypes">Active input methods</string>
+     <string name="active_input_method_subtypes">Attiva il metodo di inserimento</string>
      <string name="adb_keys_warning_message">"Revocare l'accesso al debug USB per tutti i computer che hai precedentemente autorizzato?"</string>
      <string name="adb_warning_message">Il debug USB serve per ragioni di sviluppo. Usalo per copiare i dati tra il tuo computer ed il tuo dispositivo, installa app sul dispositivo senza notifiche e leggi il log dati.</string>
      <string name="adb_warning_title">Consentire debug USB?</string>
@@ -206,7 +206,7 @@
      <string name="bad_puk">"Il PUK digitato non è corretto. Riprova."</string>
      <string name="bad_puk2">Il PUK2 che hai digitato non è corretto. Riprova.</string>
      <string name="battery_info_status_charging">In carica</string>
-     <string name="battery_info_status_charging_lower">charging</string>
+     <string name="battery_info_status_charging_lower">in carica</string>
      <string name="battery_info_status_discharging">Non in carica</string>
      <string name="battery_info_status_full">Carica completata</string>
      <string name="battery_info_status_not_charging">Non in carica</string>
@@ -227,8 +227,8 @@
      <string name="bluetooth_disconnecting">Disconnessione in corso…</string>
      <string name="bluetooth_dun_profile_summary_connected">Collegato a server Dun</string>
      <string name="bluetooth_dun_profile_summary_use_for">Usa per accesso Rete Dial-up</string>
-     <string name="bluetooth_enable_inband_ringing">Enable in-band ringing</string>
-     <string name="bluetooth_enable_inband_ringing_summary">Allow ringtones on the phone to be played on Bluetooth headsets</string>
+     <string name="bluetooth_enable_inband_ringing">Attiva lo squillo in cuffia</string>
+     <string name="bluetooth_enable_inband_ringing_summary">Consenti alle suonerie del telefono di essere riprodotte nelle cuffie Bluetooth</string>
      <string name="bluetooth_headset_profile_summary_connected">Collegato ad audio telefono</string>
      <string name="bluetooth_headset_profile_summary_use_for">Usa per audio telefono</string>
      <string name="bluetooth_hid_profile_summary_connected">Collegato a dispositivo di inserimento</string>
@@ -251,8 +251,8 @@
      <string name="bluetooth_pan_profile_summary_use_for">Usa per accesso ad Internet</string>
      <string name="bluetooth_pan_user_profile_summary_connected">"Collegato al dispositivo per l'accesso ad Internet"</string>
      <string name="bluetooth_profile_a2dp">Audio media</string>
-     <string name="bluetooth_profile_a2dp_high_quality">Use high quality audio: %1$s</string>
-     <string name="bluetooth_profile_a2dp_high_quality_unknown_codec">Use high quality audio</string>
+     <string name="bluetooth_profile_a2dp_high_quality">Usa audio di alta qualità: %1$s</string>
+     <string name="bluetooth_profile_a2dp_high_quality_unknown_codec">Usa audio di alta qualità</string>
      <string name="bluetooth_profile_dun">Accesso rete Dial-up</string>
      <string name="bluetooth_profile_headset">Audio telefono</string>
      <string name="bluetooth_profile_hid">Dispositivo immissione</string>
@@ -265,23 +265,23 @@
      <string name="bluetooth_profile_sap">Accesso SIM</string>
      <string name="bluetooth_sap_profile_summary_connected">Collegato a SAP</string>
      <string name="bluetooth_sap_profile_summary_use_for">Usa per accesso SIM</string>
-     <string name="bluetooth_select_a2dp_codec_bits_per_sample">Bluetooth Audio Bits Per Sample</string>
-     <string name="bluetooth_select_a2dp_codec_bits_per_sample_dialog_title">"Select Bluetooth Audio Codec:
-Bits Per Sample"</string>
-     <string name="bluetooth_select_a2dp_codec_channel_mode">Bluetooth Audio Channel Mode</string>
-     <string name="bluetooth_select_a2dp_codec_channel_mode_dialog_title">"Select Bluetooth Audio Codec:
-Channel Mode"</string>
-     <string name="bluetooth_select_a2dp_codec_ldac_playback_quality">Bluetooth Audio LDAC Codec: Playback Quality</string>
-     <string name="bluetooth_select_a2dp_codec_ldac_playback_quality_dialog_title">"Select Bluetooth Audio LDAC Codec:
-Playback Quality"</string>
-     <string name="bluetooth_select_a2dp_codec_sample_rate">Bluetooth Audio Sample Rate</string>
-     <string name="bluetooth_select_a2dp_codec_sample_rate_dialog_title">"Select Bluetooth Audio Codec:
-Sample Rate"</string>
+     <string name="bluetooth_select_a2dp_codec_bits_per_sample">Bit per campione Audio Bluetooth</string>
+     <string name="bluetooth_select_a2dp_codec_bits_per_sample_dialog_title">"Seleziona il Codec per l'audio Bluetooth:
+Bit per Campione"</string>
+     <string name="bluetooth_select_a2dp_codec_channel_mode">Modalità Canale Audio Bluetooth</string>
+     <string name="bluetooth_select_a2dp_codec_channel_mode_dialog_title">"Seleziona il Codec per l'audio Bluetooth:
+Modalità canale"</string>
+     <string name="bluetooth_select_a2dp_codec_ldac_playback_quality">Codec LDAC Audio Bluetooth: Qualità di Riproduzione</string>
+     <string name="bluetooth_select_a2dp_codec_ldac_playback_quality_dialog_title">"Seleziona il codec LDAC Audio Bluetooth:
+Qualità di riproduzione"</string>
+     <string name="bluetooth_select_a2dp_codec_sample_rate">Frequenza Campione Audio Bluetooth</string>
+     <string name="bluetooth_select_a2dp_codec_sample_rate_dialog_title">"Seleziona il Codec Audio Bluetooth:
+Frequenza Campione"</string>
      <string name="bluetooth_select_a2dp_codec_streaming_label">Streaming: %1$s</string>
-     <string name="bluetooth_select_a2dp_codec_type">Bluetooth Audio Codec</string>
-     <string name="bluetooth_select_a2dp_codec_type_dialog_title">Select Bluetooth Audio Codec</string>
-     <string name="bluetooth_select_avrcp_version_dialog_title">Select Bluetooth AVRCP Version</string>
-     <string name="bluetooth_select_avrcp_version_string">Bluetooth AVRCP Version</string>
+     <string name="bluetooth_select_a2dp_codec_type">Codec Audio Bluetooth</string>
+     <string name="bluetooth_select_a2dp_codec_type_dialog_title">Seleziona Codec Audio Bluetooth</string>
+     <string name="bluetooth_select_avrcp_version_dialog_title">Seleziona versione AVRCP Bluetooth AVRCP</string>
+     <string name="bluetooth_select_avrcp_version_string">Versione AVRCP Bluetooth</string>
      <string name="bt_hci_snoop_log">Attiva log snoop HCI Bluetooth</string>
      <string name="bt_hci_snoop_log_summary">Raccogli tutti i pacchetti HCI bluetooth in un file</string>
      <string name="bugreport_in_power">Collegamento bug report</string>
@@ -305,19 +305,19 @@ Sample Rate"</string>
      <string name="callFailed_data_limit_reached_description">Chiamata terminata a causa del limite dati cellulare raggiunto.</string>
      <string name="callFailed_destination_out_of_order">Destinazione fuori servizio</string>
      <string name="callFailed_dialToDial">Richiesta DIAL modificata in richiesta DIAL con numero diverso.</string>
-     <string name="callFailed_dialToDialVideo">DIAL request modified to Video DIAL.</string>
+     <string name="callFailed_dialToDialVideo">Richiesta DIAL modificata in Video DIAL.</string>
      <string name="callFailed_dialToSs">Richiesta DIAL modificata in richiesta SS.</string>
      <string name="callFailed_dialToUssd">Richiesta DIAL modificata in richiesta USSD.</string>
-     <string name="callFailed_dialVideoToDial">Video DIAL request modified to DIAL.</string>
-     <string name="callFailed_dialVideoToDialVideo">Video DIAL request modified to Video DIAL with different number.</string>
-     <string name="callFailed_dialVideoToSs">Video DIAL request modified to SS request.</string>
-     <string name="callFailed_dialVideoToUssd">Video DIAL request modified to USSD request.</string>
+     <string name="callFailed_dialVideoToDial">Richiesta Video DIAL modificata in DIAL.</string>
+     <string name="callFailed_dialVideoToDialVideo">Richiesta Video DIAL modificata in Video DIAL con numero diverso.</string>
+     <string name="callFailed_dialVideoToSs">Richiesta Video DIAL modificata in richiesta SS.</string>
+     <string name="callFailed_dialVideoToUssd">Richiesta Video DIAL modificata in richiesta USSD.</string>
      <string name="callFailed_dsac_restricted">Tutte le chiamate sono limitate dal controllo di accesso.</string>
      <string name="callFailed_dsac_restricted_emergency">Le chiamate di emergenza sono limitate dal controllo di accesso.</string>
      <string name="callFailed_dsac_restricted_normal">Le chiamate normali sono limitate dal controllo di accesso.</string>
      <string name="callFailed_facility_rejected">Infrastruttura rifiutata</string>
      <string name="callFailed_fdn_only">Chiamate in uscita limitate per FDN.</string>
-     <string name="callFailed_imei_not_accepted">Unable to connect, please insert a valid SIM card.</string>
+     <string name="callFailed_imei_not_accepted">Impossibile collegare, si prega di inserire una SIM valida.</string>
      <string name="callFailed_incoming_calls_barred_within_CUG">Chiamate in arrivo bloccate con CUG</string>
      <string name="callFailed_incoming_cb_enabled">Una parte ha bloccato le chiamate.</string>
      <string name="callFailed_incompatible_destination">Destinazione incompatibile</string>
@@ -349,7 +349,7 @@ Sample Rate"</string>
      <string name="callFailed_outOfService">Rete mobile non disponibile</string>
      <string name="callFailed_out_of_network">Chiamata da fuori copertura</string>
      <string name="callFailed_powerOff">Radio spenta</string>
-     <string name="callFailed_preemption">Preset</string>
+     <string name="callFailed_preemption">Preselezione</string>
      <string name="callFailed_protocol_error_unspecified">Errore protocollo, non specificato</string>
      <string name="callFailed_recovery_on_timer_expired">Scadenza timer recupero</string>
      <string name="callFailed_requested_circuit_or_channel_not_available">richiesta circuito/canale non disponibile</string>
@@ -370,7 +370,7 @@ Sample Rate"</string>
      <string name="callFailed_userBusy">Linea occupata</string>
      <string name="callFailed_user_not_member_of_CUG">Utente non membro di CUG</string>
      <string name="callFailed_video_call_tty_enabled">Impossibile effettuare videochiamata quando TTY é abilitato.</string>
-     <string name="callFailed_wifi_lost">WLAN connection lost. Call ended.</string>
+     <string name="callFailed_wifi_lost">Connessione Wi-Fi persa. Chiamata terminata.</string>
      <string name="callUnanswered_forwarded">Chiamata senza risposta e inoltrata</string>
      <string name="call_advanced_setting_title">Impostazioni avanzate</string>
      <string name="call_background_default">Predefinito</string>
@@ -477,6 +477,13 @@ Sample Rate"</string>
      <string name="cfb_title">Inoltra se sei in conversazione</string>
      <string name="cfnrc_title">Inoltra se non sei raggiungibile</string>
      <string name="cfnrc_title_cta">Inoltra se non sei raggiungibile</string>
+     <string name="cfnry_time_fifteen_sec">15 sec</string>
+     <string name="cfnry_time_five_sec">5 sec</string>
+     <string name="cfnry_time_setting_title">Imposta tempo di attesa</string>
+     <string name="cfnry_time_ten_sec">10 sec</string>
+     <string name="cfnry_time_thirty_sec">30 sec</string>
+     <string name="cfnry_time_twenty_five_sec">25 sec</string>
+     <string name="cfnry_time_twenty_sec">20 sec</string>
      <string name="cfnry_title">Inoltra se non hai risposto</string>
      <string name="cfu_title">Inoltra tutte le chiamate</string>
      <string name="change_data_preference_4g_only_prompt">Sembra che tu abbia una SIM che supporta solo il 4G. Vuoi impostarla come predefinita per la rete dati mobile?</string>
@@ -504,8 +511,10 @@ Sample Rate"</string>
      <string name="clir_choices_hide_number">Nascondi numero</string>
      <string name="clir_choices_network_default">Predefinito dalla rete</string>
      <string name="clir_choices_show_number">Mostra numero</string>
+     <string name="close">Disattiva</string>
      <string name="close_dialog">OK</string>
      <string name="close_profile">Chiudi</string>
+     <string name="close_volte">Disattiva VoLTE</string>
      <string name="cloud_antispam_title">Identifica numeri sconosciuti</string>
      <string name="cmcc_ut_data_enable_prompt">Impossibile connettersi alla rete che utilizza VoLTE. Attiva ora la tua connessione dati.</string>
      <string name="command_error_fdn_failure">Devi disabilitare prima i NSF</string>
@@ -525,8 +534,8 @@ Sample Rate"</string>
      <string name="connect_disconnect_vibrate_title">Vibra alla risposta</string>
      <string name="connect_disconnect_vibrate_weak">Leggera</string>
      <string name="connect_later">Impossibile connettersi ora a questa rete. Riprova più tardi.</string>
-     <string name="connected_via_network_scorer">Automatically connected via %1$s</string>
-     <string name="connected_via_network_scorer_default">Automatically connected via network rating provider</string>
+     <string name="connected_via_network_scorer">Collegato automaticamente tramite %1$s</string>
+     <string name="connected_via_network_scorer_default">Collegato automaticamente tramite provider rating di rete</string>
      <string name="connected_via_passpoint">Connesso tramite %1$s</string>
      <string name="connection_service_default_label">Servizi di connessione integrati</string>
      <string name="contactAddFailed">Aggiunta del contatto nella SIM fallita</string>
@@ -546,7 +555,7 @@ Sample Rate"</string>
      <string name="convert_to_file_encryption_enabled">Converti…</string>
      <string name="crescendo_ringer_summary">La suoneria salirà gradualmente fino al livello impostato</string>
      <string name="crescendo_ringer_title">Suoneria crescente</string>
-     <string name="ct_ut_not_support_close_4glte">UT is not available, please turn off Enhanced 4G LTE Mode in Settings</string>
+     <string name="ct_ut_not_support_close_4glte">UT non disponibile, disattiva Modalità 4G LTE migliorata nelle Impostazioni</string>
      <string name="daltonizer_mode_deuteranomaly">Deuteranomalia (rosso-verde)</string>
      <string name="daltonizer_mode_disabled">Disabilitato</string>
      <string name="daltonizer_mode_monochromacy">Monocromia</string>
@@ -611,9 +620,9 @@ Sample Rate"</string>
      <string name="dial_related_setting_catory">Componi</string>
      <string name="dialerKeyboardHintText">Usa la tastiera per chiamare</string>
      <string name="dialog_alert_title">Cautela</string>
-     <string name="dialog_cancel">Cancel</string>
+     <string name="dialog_cancel">Annulla</string>
      <string name="dialog_network_priority_title">Priorità</string>
-     <string name="dialog_report">Report</string>
+     <string name="dialog_report">Segnala</string>
      <string name="dialpad_0_letters">+</string>
      <string name="dialpad_1_letters" />
      <string name="dialpad_2_letters">ABC</string>
@@ -646,7 +655,7 @@ Sample Rate"</string>
      <string name="dialpad_two">2</string>
      <string name="dialpad_wxyz">WXYZ</string>
      <string name="dialpad_zero">0</string>
-     <string name="direct_boot_unaware_dialog_message">"Note: After a reboot, this app can't start until you unlock your phone"</string>
+     <string name="direct_boot_unaware_dialog_message">"Nota: Dopo il riavvio, non potrà avviarsi finché non sbloccherai il telefono"</string>
      <string name="disable">Disattiva</string>
      <string name="disable_all_cf">Disabilita tutti gli inoltri di chiamate</string>
      <string name="disable_cfb_forbidden">"Il tuo operatore non supporta la disabilitazione dell'inoltro chiamate quando il telefono è occupato."</string>
@@ -658,7 +667,7 @@ Sample Rate"</string>
      <string name="disable_overlays_summary">Utilizza sempre GPU per la composizione dello schermo</string>
      <string name="disable_pin_ok">PIN della SIM disattivato.</string>
      <string name="disable_sim_pin">Disattiva PIN della SIM</string>
-     <string name="disabled">Disabled</string>
+     <string name="disabled">Disattivato</string>
      <string name="disabled_by_admin">"Disattivato dall'amministratore"</string>
      <string name="disabled_by_admin_summary_text">"Controllato dall'amministratore"</string>
      <string name="display_name_summary">Come il nome utente</string>
@@ -669,7 +678,7 @@ Sample Rate"</string>
      <string name="dtmf_tone_entries_normal">Normale</string>
      <string name="dtmf_tones_summary">Imposta la lunghezza dei toni DTMF</string>
      <string name="dtmf_tones_title">Toni DTMF</string>
-     <string name="dual_4g_switch_summary">Consenti la connessione 4G perentrambi gli slot SIM.</string>
+     <string name="dual_4g_switch_summary">Consenti la connessione 4G per entrambi gli slot SIM.</string>
      <string name="dual_4g_switch_title">Doppio 4G</string>
      <string name="duration_disable_summary">Durata schermo disattivata</string>
      <string name="duration_enable_summary">Durata schermo attivata</string>
@@ -743,10 +752,10 @@ Sample Rate"</string>
      <string name="eo_enable">Opportunità di lavoro attivate</string>
      <string name="error_updating_title">Errore impostazioni chiamate</string>
      <string name="exception_error">Errore di rete o della carta SIM.</string>
-     <string name="external_source_trusted">Allowed</string>
-     <string name="external_source_untrusted">Not allowed</string>
+     <string name="external_source_trusted">Consentito</string>
+     <string name="external_source_untrusted">Non consentito</string>
      <string name="failedToImportSingleContactMsg">Importo contatti fallito</string>
-     <string name="failed_to_open_app_settings_toast">Failed to open settings for %1$s</string>
+     <string name="failed_to_open_app_settings_toast">Impossibile aprire le Impostazioni per %1$s</string>
      <string name="fake_phone_activity_infoText_text">Numero chiamante</string>
      <string name="fake_phone_activity_phoneNumber_text">+39 333 1234567</string>
      <string name="fake_phone_activity_placeCall_text">Finta chiamata entrante</string>
@@ -801,7 +810,7 @@ Desideri passare comunque al nuovo servizio?"</string>
      <string name="hdcp_checking_title">Controllo HDCP</string>
      <string name="help_feedback_label">Aiuto e feedback</string>
      <string name="home">Impostazioni Home</string>
-     <string name="ime_security_warning">This input method may be able to collect all the text you type, including personal data like passwords and credit card numbers. It comes from the app %1$s. Use this input method?</string>
+     <string name="ime_security_warning">"Questo metodo di inserimento potrebbe raccogliere informazioni dal testo digitato, inclusi dati personali come password e numeri di carte di credito. Proviene dall'app %1$s. Usare questo metodo di inserimento?"</string>
      <string name="immediately_destroy_activities">Non conservare attività</string>
      <string name="immediately_destroy_activities_summary">"Elimina ogni attività appena l'utente la interrompe"</string>
      <string name="importAllSimEntries">Importa tutto</string>
@@ -833,7 +842,7 @@ Desideri passare comunque al nuovo servizio?"</string>
      <string name="incall_error_supp_service_unknown">Servizio non supportato.</string>
      <string name="incall_error_wfc_only_no_wireless_network">Collegato ad una rete Wi-Fi per effettuare una chiamata.</string>
      <string name="incall_status_dialed_mmi">Avvio della sequenza MMI…</string>
-     <string name="install_other_apps">Install unknown apps</string>
+     <string name="install_other_apps">Installa app sconosciute</string>
      <string name="international_disable">Notizie internazionali disattivate</string>
      <string name="international_enable">Notizie internazionali attivate</string>
      <string name="international_roaming_setting">Roaming dati</string>
@@ -916,7 +925,7 @@ Desideri passare comunque al nuovo servizio?"</string>
      <string name="media_category">Media</string>
      <string name="menu_add">Aggiungi contatto</string>
      <string name="menu_delete">Elimina contatto</string>
-     <string name="menu_dial">Dial contact</string>
+     <string name="menu_dial">Chiama contatto</string>
      <string name="menu_edit">Modifica contatto</string>
      <string name="messageCFB">Numero a cui inoltrare se occupato</string>
      <string name="messageCFNRc">Numero a cui inoltrare se non raggiungibile</string>
@@ -946,7 +955,7 @@ Desideri passare comunque al nuovo servizio?"</string>
      <string name="mmiCancelled">Codice MMI annullato</string>
      <string name="mmiStarted">Codice MMI inizializzato</string>
      <string name="mobile_data">Mobile data</string>
-     <string name="mobile_data_alert">Data traffic may be generated on secondary card</string>
+     <string name="mobile_data_alert">Potrebbe essere generato traffico dati da una SIM secondaria.</string>
      <string name="mobile_data_always_on">Dati cellulare sempre attivi</string>
      <string name="mobile_data_always_on_summary">Mantieni i dati mobili attivi, anche quando il Wi-Fi é attivo (per un cambio di rete rapido).</string>
      <string name="mobile_network_settings_not_available">Le impostazioni delle rete cellulare non sono disponibili per questo utente</string>
@@ -954,8 +963,8 @@ Desideri passare comunque al nuovo servizio?"</string>
      <string name="mock_location_app">Seleziona imitazione locazione app</string>
      <string name="mock_location_app_not_set">Nessuna imitazione locazione app impostata</string>
      <string name="mock_location_app_set">Imitazione locazione app: %1$s</string>
-     <string name="modem_dialog_body">Mobile network is unstable, causing interruptions or network problems.Send bug report to Mi for analysis? This report may contain Personally Identifiable Information. Your report will be used to help fix this bug and will never be shared in any commercial context.</string>
-     <string name="modem_dialog_title">Mobile network is unstable</string>
+     <string name="modem_dialog_body">La rete mobile non è stabile, causa interruzioni o problemi di rete.Inviare una segnalazione a Mi analizzarla? Questa segnalazione potrebbe contenere informazioni sui dati personali. Il tuo rapporto verrà utilizzato unicamente per la risoluzione del problema e non verrà mai condiviso a scopi commerciali.</string>
+     <string name="modem_dialog_title">La rete mobile non è stabile</string>
      <string name="msim_apn_not_set">Non impostato</string>
      <string name="msim_default_setting">Impostazioni predefinite</string>
      <string name="msim_disable_sim_card_btn_text">OK</string>
@@ -1003,7 +1012,6 @@ Desideri passare comunque al nuovo servizio?"</string>
      <string name="network_lte">LTE (raccomandato)</string>
      <string name="network_message">Messaggio di rete</string>
      <string name="network_operator_settings_class">com.android.phone.settings.MobileNetworkSetting</string>
-     <string name="network_operator_settings_package">com.android.phone</string>
      <string name="network_query_error">Errore durante la ricerca reti.</string>
      <string name="network_settings_auto_select_title">Non selezionare automaticamente le reti</string>
      <string name="network_settings_automatically_option">Seleziona automaticamente operatore preferito (%s)</string>
@@ -1163,7 +1171,7 @@ Invio toni"</string>
      <string name="phone_accounts_settings_header">Impostazioni</string>
      <string name="phone_entered_ecm_text">Modalità Richiamata di emergenza attivata</string>
      <string name="phone_in_ecm_call_notification_text">Connessione dati disattivata</string>
-     <string name="phone_in_ecm_notification_complete_time">No data connection until %s</string>
+     <string name="phone_in_ecm_notification_complete_time">Nessuna connessione dati fino a %s</string>
      <string name="phone_in_ecm_notification_title">Modalità Richiamata di emergenza</string>
      <string name="picture_color_mode">Modalità colore immagine</string>
      <string name="picture_color_mode_desc">Utilizza sRGB</string>
@@ -1191,9 +1199,10 @@ Le funzionalità relative al PIN2 saranno bloccate se si fallisce un altro tenta
      <string name="power_charging_duration">%1$s - %2$s fino a completamento</string>
      <string name="power_discharging_duration">%1$s - appross. %2$s rimanenti</string>
      <string name="power_discharging_duration_short">%1$s - %2$s rimanenti</string>
-     <string name="power_remaining_charging_duration_only">%1$s left until fully charged</string>
+     <string name="power_remaining_charging_duration_only">%1$s rimanenti per la carica completa</string>
      <string name="power_remaining_duration_only">Approx. %1$s rimanenti</string>
      <string name="power_remaining_duration_only_short">%1$s rimanenti</string>
+     <string name="prefered_network_type_3g_promp">DOvresti disattivare il VoLTE prima di selezionare il 3G come rete preferita. Disattivare adesso?</string>
      <string name="preference_auto_ip_summary_disable">Disattivato</string>
      <string name="preference_category_ringtone">Suoneria e vibrazione</string>
      <string name="preference_data_usage_summary">"Imposta un piano dati per controllare l'uso della rete dati mobile"</string>
@@ -1266,8 +1275,11 @@ Le funzionalità relative al PIN2 saranno bloccate se si fallisce un altro tenta
      <string name="preferred_network_type_title">Tipologia di rete preferita</string>
      <string name="preferred_phone_account">Account chiamata preferito</string>
      <string name="private_num">Numero privato</string>
-     <string name="process_kernel_label">Android OS</string>
      <string name="progress_dialog_exiting_ecm">Uscita dalla modalità di richiamata di emergenza</string>
+     <string name="prompt_to_turnoff_volte_when_failed">I servizi VoLTE non sono disponibili. Disattiva VoLTE per effettuare una chiamata.</string>
+     <string name="prompt_to_turnoff_volte_when_supp_service">Servizi non disponibile. Disattiva VoLTE nelle Impostazioni.</string>
+     <string name="prompt_when_turnon_volte_on_3g_prefered">Seleziona LTE come rete preferita prima di attivare VoLTE.</string>
+     <string name="prompt_when_turnon_volte_without_lte">Le reti LTE non sono disponibili in questo momento. Attivare VoLTE potrebbe impedirti di effettuare le chiamate normali.</string>
      <string name="proxy_address">ProxyAddress</string>
      <string name="proxy_address_title">"Indirizzo proxy verso l'esterno"</string>
      <string name="pstn_connection_service_label">SIM implementata</string>
@@ -1279,7 +1291,7 @@ Le funzionalità relative al PIN2 saranno bloccate se si fallisce un altro tenta
      <string name="puk_lock_warning">La tua SIM verrà disabilitata se fallisci un altro tentativo.</string>
      <string name="puk_requested">Password non corretta, PIN bloccato. Ora è richiesto il PUK.</string>
      <string name="puk_unlocked">La tua SIM è stata sbloccata. Il dispositivo verrà sbloccato…</string>
-     <string name="quick_dial_setting_title">Quick dial</string>
+     <string name="quick_dial_setting_title">Chiamata rapida</string>
      <string name="radio_off_during_emergency_call">Impossibile attivare la modalità aereo durante una chiamata di emergenza.</string>
      <string name="radio_off_error">Attiva la radio prima di visualizzare queste impostazioni.</string>
      <string name="reading_settings">Lettura impostazioni…</string>
@@ -1319,9 +1331,9 @@ Le funzionalità relative al PIN2 saranno bloccate se si fallisce un altro tenta
      <string name="response_error">Risposta non prevista dalla rete.</string>
      <string name="restaurants_disable">Ristoranti disattivati</string>
      <string name="restaurants_enable">Ristoranti attivati</string>
-     <string name="retail_demo_reset_message">Enter password to perform factory reset in demo mode</string>
-     <string name="retail_demo_reset_next">Next</string>
-     <string name="retail_demo_reset_title">Password required</string>
+     <string name="retail_demo_reset_message">Inserisci la password per eseguire un ripristino di fabbrica in modalità demo</string>
+     <string name="retail_demo_reset_next">Avanti</string>
+     <string name="retail_demo_reset_title">Password richiesta</string>
      <string name="retail_directory_disable">Elenco venditori al dettaglio disattivato</string>
      <string name="retail_directory_enable">Elenco venditori al dettaglio attivato</string>
      <string name="retry_btn">Riprova</string>
@@ -1380,8 +1392,8 @@ Le funzionalità relative al PIN2 saranno bloccate se si fallisce un altro tenta
      <string name="show_hw_screen_updates">Aggiornamenti visualizz. GPU</string>
      <string name="show_hw_screen_updates_summary">Flash delle visualizzazioni dentro le finestre, se disegnate con GPU</string>
      <string name="show_non_rect_clip">Debug operazioni ritaglio non rettangolare</string>
-     <string name="show_notification_channel_warnings">Show notification channel warnings</string>
-     <string name="show_notification_channel_warnings_summary">Displays on-screen warning when an app posts a notification without a valid channel</string>
+     <string name="show_notification_channel_warnings">Mostra avvisi canale notifica</string>
+     <string name="show_notification_channel_warnings_summary">"Mostra avvisi a schermo quando un'app cerca di inviare notifiche tramite un canale non valido"</string>
      <string name="show_screen_updates">Aggiornamenti superficie</string>
      <string name="show_screen_updates_summary">"Flash delle superfici delle finestre all'aggiornamento"</string>
      <string name="show_touches">Mostra tocchi</string>
@@ -1511,8 +1523,8 @@ Le funzionalità relative al PIN2 saranno bloccate se si fallisce un altro tenta
      <string name="tether_settings_title_usb">Tethering USB</string>
      <string name="tether_settings_title_usb_bluetooth">Tethering</string>
      <string name="tether_settings_title_wifi">Hotspot portatile</string>
-     <string name="tethering_hardware_offload">Tethering hardware acceleration</string>
-     <string name="tethering_hardware_offload_summary">Use tethering hardware acceleration if available</string>
+     <string name="tethering_hardware_offload">Accelerazione hardware tethering</string>
+     <string name="tethering_hardware_offload_summary">Usa accelerazione hardware tethering se disponibile</string>
      <string name="tethering_settings_not_available">Impostazioni tethering non disponibili per questo utente</string>
      <string name="third_party_account_summary">"Questo account è attualmente in uso da parte dell'app %s."</string>
      <string name="throttle_current_usage">Dati usati nel periodo attuale</string>
@@ -1534,7 +1546,6 @@ Il prossimo periodo inizia tra %2$d giorni (%3$s)"</string>
      <string name="time_end_minute">minuto di interruzione</string>
      <string name="time_formate_am">AM</string>
      <string name="time_formate_pm">PM</string>
-     <string name="time_interval_char">:</string>
      <string name="time_next_day">" giorno successivo "</string>
      <string name="time_start">Da</string>
      <string name="time_start_hour">ora di inizio</string>
@@ -1565,7 +1576,7 @@ Il prossimo periodo inizia tra %2$d giorni (%3$s)"</string>
      <string name="tts_lang_use_system">Utilizza lingua di sistema</string>
      <string name="tts_play_example_summary">Avvia una piccola dimostrazione di sintesi vocale</string>
      <string name="tts_play_example_title">Ascolta un esempio</string>
-     <string name="tts_reset_speech_pitch_summary">"Resetta l'intonazione al punto in cui il testo é parlato in maniera predefinita."</string>
+     <string name="tts_reset_speech_pitch_summary">"Resetta l'intonazione al punto in cui il testo è parlato in maniera predefinita."</string>
      <string name="tts_reset_speech_pitch_title">Resetta intonazione parlato</string>
      <string name="tts_settings">Impostazioni testo parlato</string>
      <string name="tts_settings_title">Output testo parlato</string>
@@ -1596,16 +1607,19 @@ Il prossimo periodo inizia tra %2$d giorni (%3$s)"</string>
      <string name="uplmn_numeric_is_empty">Inserisci ID rete</string>
      <string name="usb_audio_disable_routing">Disattiva indirizzamento audio USB</string>
      <string name="usb_audio_disable_routing_summary">Disattiva indirizzo automatico audio USB con le periferiche</string>
-     <string name="use_system_language_to_select_input_method_subtypes">Use system languages</string>
+     <string name="use_system_language_to_select_input_method_subtypes">Usa lingue di sistema</string>
      <string name="user_guest">Ospite</string>
      <string name="username_title">Nome utente</string>
      <string name="ussdRunning">Codice USSD in esecuzione…</string>
      <string name="ussd_dialog_sep">----------</string>
-     <string name="ut_not_support">UT is not available</string>
+     <string name="ut_not_support">UT non disponibile</string>
      <string name="verify_apps_over_usb_summary">Verifica app installate tramite ADB/ADT per comportamenti dannosi.</string>
      <string name="verify_apps_over_usb_title">Verifica app tramite USB</string>
      <string name="vibrate_after_connected_summary">Vibra quando rispondi</string>
      <string name="vibrate_after_connected_title">Vibra dopo la connessione</string>
+     <string name="vice_slot_volte_data_switch_prompt">Il dispositivo si collegherà ad una rete dati mobile tramite una SIM secondaria durante le chiamate in uscita VoLTE. Questo può generare costi aggiuntivi. Contatta il tuo operatore per informazioni dettagliate sui tuo piano.</string>
+     <string name="vice_slot_volte_data_switch_summary">Durante le chiamate VoLTE, il dispositivo si collegherà ad una rete dati mobile tramite una SIM secondaria</string>
+     <string name="vice_slot_volte_data_switch_title">Usa rete dati mobile durante le chiamate VoLTE sulla SIM secondaria.</string>
      <string name="vm_change_failed">"Impossibile modificare il numero della segreteria telefonica.
 Contatta il tuo operatore se questo problema persiste."</string>
      <string name="vm_change_pin_error_invalid">Il nuovo PIN contiene caratteri non validi.</string>
@@ -1627,7 +1641,8 @@ Contatta il tuo operatore se questo problema persiste."</string>
      <string name="voicemail_abbreviated">Segr:</string>
      <string name="voicemail_change_pin_dialog_title">Cambia PIN</string>
      <string name="voicemail_default">Il mio operatore</string>
-     <string name="voicemail_notifications_preference_title">Notifications</string>
+     <string name="voicemail_notification_vibrate_when_title">Vibra</string>
+     <string name="voicemail_notifications_preference_title">Notifiche</string>
      <string name="voicemail_number_not_set">Non impostato</string>
      <string name="voicemail_provider">Servizio di segreteria</string>
      <string name="voicemail_provider_summary">Scelta servizio di segreteria</string>
@@ -1645,7 +1660,9 @@ Contatta il tuo operatore se questo problema persiste."</string>
      <string name="volte_switch_not_support_summary">Le chiamate VoLTE non sono supportate da questa SIM dati.</string>
      <string name="volte_switch_not_support_summary2">"Le chiamate VoLTE non sono supportate dall'operatore."</string>
      <string name="volte_switch_summary">Utilizza VoLTE per migliorare la qualità audio e video delle chiamate</string>
+     <string name="volte_switch_summary2">Confirm that your carrier supports this feature before turning on. Otherwise, regular calls might be affected.</string>
      <string name="volte_switch_title">VoLTE attivato</string>
+     <string name="volte_tips_when_turn_on">China Telecom VoLTE services are only provided in the areas with LTE network coverage.</string>
      <string name="vpn_settings_not_available">Impostazioni VPN non disponibili per questo utente</string>
      <string name="vvm_unsupported_message_format">Tipi di messaggi non supportati, chiama %s per ascoltare.</string>
      <string name="wait_for_debugger">Attendi il debugger</string>
@@ -1706,18 +1723,18 @@ Contatta il tuo operatore se questo problema persiste."</string>
      <string name="wifi_security_wpa">WPA PSK</string>
      <string name="wifi_security_wpa2">WPA2 PSK</string>
      <string name="wifi_security_wpa_wpa2">WPA/WPA2 PSK</string>
-     <string name="wifi_ssid_is_empty">Ssid field can not be left blank</string>
-     <string name="wifi_ssid_length_is_max">Ssid can not exceed 32 characters in length</string>
+     <string name="wifi_ssid_is_empty">Il campo SSID non può essere lasciato vuoto</string>
+     <string name="wifi_ssid_length_is_max">"l'SSID non può contenere più di 32 caratteri"</string>
      <string name="wifi_verbose_logging">Attiva log WI-Fi verboso</string>
      <string name="wifi_verbose_logging_summary">Incrementa il livello di log Wi-Fi, mostra per SSID RSSI nella selezione Wi-Fi</string>
      <string name="wifi_wapi_as_certificate">AS certificate</string>
-     <string name="wifi_wapi_cert_mode_hand_text">Hand select the certificate</string>
-     <string name="wifi_wapi_certification_dont_exist">The WAPI certificates does not exist. Please intall them.</string>
-     <string name="wifi_wapi_fail_to_auth">"WAPI authentication failed
-Please check validity of certificates"</string>
-     <string name="wifi_wapi_fail_to_init">"Unable to open WAPI certificates
-Credential storage might not enable"</string>
-     <string name="wifi_wapi_psk_type">Password type</string>
+     <string name="wifi_wapi_cert_mode_hand_text">Seleziona manuale del certificato</string>
+     <string name="wifi_wapi_certification_dont_exist">I certificati WAPI non esistono. Si prega di installarli.</string>
+     <string name="wifi_wapi_fail_to_auth">"Autenticazione WAPI fallita
+Controlla la validità dei certificati"</string>
+     <string name="wifi_wapi_fail_to_init">"Impossibile aprire i certificati WAPI
+L'archivio credenziali potrebbe non essere attivato"</string>
+     <string name="wifi_wapi_psk_type">Tipo di password</string>
      <string name="wifi_wapi_user_certificate">User certificate</string>
      <string name="wild_prompt_str">Sostituire carattere con</string>
      <string name="window_animation_scale_title">Scala animazione finestre</string>

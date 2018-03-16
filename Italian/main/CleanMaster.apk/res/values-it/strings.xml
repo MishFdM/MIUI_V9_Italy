@@ -43,10 +43,10 @@
      <string name="apps_sort_type_title">Ordina</string>
      <string name="auto_clean_switch_off">Disattivato</string>
      <string name="auto_clean_switch_on">Attivato</string>
-     <string name="auto_clean_time_every_day">Every day</string>
-     <string name="auto_clean_time_fifteen_day">Every 15 days</string>
-     <string name="auto_clean_time_seven_day">Every 7 days</string>
-     <string name="auto_clean_time_three_day">Every 3 days</string>
+     <string name="auto_clean_time_every_day">Ogni giorno</string>
+     <string name="auto_clean_time_fifteen_day">Ogni 15 giorni</string>
+     <string name="auto_clean_time_seven_day">Ogni 7 giorni</string>
+     <string name="auto_clean_time_three_day">Ogni 3 giorni</string>
      <string name="auto_cleaner_open">Attiva</string>
      <string name="back">Indietro</string>
      <string name="browser_scan_history_desc">Cronologia browser</string>
@@ -180,7 +180,6 @@
      <string name="dialog_title_uninstall_apps">Disinstalla</string>
      <string name="download">Scarica</string>
      <string name="downloading">In download</string>
-     <string name="empty">" "</string>
      <string name="empty_content_no_ignore_image">Vuoto</string>
      <string name="empty_content_no_privacy">Vuoto</string>
      <string name="empty_content_no_similar_image">Nessun duplicato</string>
@@ -226,7 +225,6 @@
      <string name="hints_garbage_cleanup_result_safe">Sicuro</string>
      <string name="hints_garbage_handle_item_content">%1$d elementi，%2$s</string>
      <string name="hints_garbage_handle_item_empty_content">Vuoto</string>
-     <string name="hints_header_left">%d</string>
      <string name="hints_installed_app_fewer">Utilizzata raramente</string>
      <string name="hints_installed_app_near">Utilizzata di recente</string>
      <string name="hints_installed_app_never">Mai utilizzata</string>
@@ -386,9 +384,9 @@
      <string name="recommended">In evidenza</string>
      <string name="remain_item_name_n7p" />
      <string name="remain_item_name_pamp" />
-     <string name="resutl_function_deep_clean_summary">" "<Data>&lt;font color=#ff0000 >%1$s&lt;/font> di file possono essere eliminati. Libera altro spazio.</Data>" "</string>
-     <string name="resutl_function_qq_clean_summary">" "<Data>Puoi ripulire &lt;font color=#ff0000 >%1$s&lt;/font> della cache generata da QQ</Data>" "</string>
-     <string name="resutl_function_wechat_clean_summary">" "<Data>&lt;font color=#ff0000 >%1$s&lt;/font> di cache WeChat. Libera altro spazio.</Data>" "</string>
+     <string name="resutl_function_deep_clean_summary">"<Data>&lt;font color=#ff0000 >%1$s&lt;/font> di file possono essere eliminati. Libera altro spazio.</Data>"</string>
+     <string name="resutl_function_qq_clean_summary">"<Data>Puoi ripulire &lt;font color=#ff0000 >%1$s&lt;/font> della cache generata da QQ</Data>"</string>
+     <string name="resutl_function_wechat_clean_summary">"<Data>&lt;font color=#ff0000 >%1$s&lt;/font> di cache WeChat. Libera altro spazio.</Data>"</string>
      <string name="sc_allow_network_dialog_button">Consenti</string>
      <string name="sc_allow_network_dialog_message">Consentire a questa applicazione di connettersi alla rete per ricevere i dati?</string>
      <string name="scanning">Scansione…</string>
@@ -496,6 +494,7 @@
      <string name="wechat_copying_video_dialog_title">Esporta sulla Galleria</string>
      <string name="wechat_copying_video_empty">Nessun video da esportare</string>
      <string name="wechat_copying_video_success">Esportazione riuscita</string>
+     <string name="wechat_qq_activity_title">Pulizia approfondita</string>
      <string name="wechat_qq_celan_tab_file">File</string>
      <string name="wechat_qq_celan_tab_image">Immagini</string>
      <string name="wechat_qq_celan_tab_video">Video</string>

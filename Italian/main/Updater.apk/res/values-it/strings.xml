@@ -4,6 +4,8 @@
      <string name="VideoView_error_text_invalid_progressive_playback">Questo video non è valido per lo streaming da questo dispositivo.</string>
      <string name="VideoView_error_text_unknown">Impossibile riprodurre il video.</string>
      <string name="VideoView_error_title">Problema video</string>
+     <string name="accessibility_image">Immagine</string>
+     <string name="accessibility_video">Video</string>
      <string name="active_xiaomi_account">Attiva</string>
      <string name="active_xiaomi_account_title">Attiva Mi Account</string>
      <string name="alpha_cancel">Esci dal programma di beta test</string>
@@ -23,6 +25,7 @@
      <string name="auto_download">Scarica automaticamente</string>
      <string name="auto_download_sum">Scarica automaticamente aggiornamenti quando connesso al Wi-Fi</string>
      <string name="auto_update">Aggiorna automaticamente</string>
+     <string name="auto_update_global">Riavvia automaticamente il dispositivo</string>
      <string name="auto_update_sum">Cerca automaticamente il momento migliore per scaricare aggiornamenti</string>
      <string name="autosetmode">Impostazioni aggiornamento</string>
      <string name="battery_islow">&lt;font color=#f37981&gt;Connetti il tuo caricabatterie&lt;/font&gt;</string>
@@ -44,9 +47,12 @@
      <string name="button_text_reboot">Riavvia adesso</string>
      <string name="button_text_reboot_hm">Riavvia adesso</string>
      <string name="button_text_update">Aggiorna</string>
+     <string name="cancel">Cancel</string>
      <string name="cancel_download">Interrompere il download di questo aggiornamento?</string>
      <string name="check_local_package_update_btn">Riavvia e aggiorna</string>
+     <string name="check_local_package_update_btn_ab">Aggiorna</string>
      <string name="check_local_package_update_msg">"Stai per aggiornare MIUI alla versione %s. Il dispositivo si riavvierà automaticamente durante l'aggiornamento."</string>
+     <string name="check_local_package_update_msg_ab">Il tuo dispositivo verrà aggiornato alla versione MIUI %s.</string>
      <string name="check_local_package_update_title">Aggiorna</string>
      <string name="check_local_package_validate_error_button">OK</string>
      <string name="check_local_package_validate_error_msg">Impossibile verificare il pacchetto di aggiornamento</string>
@@ -62,6 +68,7 @@
      <string name="confirm_local_package_wipe_title">Eliminare i dati?</string>
      <string name="continue_update_negative_btn">Continua</string>
      <string name="continue_update_positive_btn">Interrompi</string>
+     <string name="current_version">Versione attuale</string>
      <string name="daily_build">Giornaliera</string>
      <string name="delay_update_text">Aggiorna dopo</string>
      <string name="dialog_3g_desc">"Ricorda ce l'utilizzo della rete dati mobile per il download delle ROM potrebbe consumare un grande quantitativo del tuo traffico dati disponibile."</string>
@@ -70,10 +77,12 @@
      <string name="dialog_btn_wifi">Passa a Wi-Fi</string>
      <string name="dialog_delay_update_cancel">Annulla</string>
      <string name="dialog_delay_update_msg">"Il dispositivo si riavvierà per installare l'aggiornamento quando sarà acceso e con almeno il 30% di carica"</string>
+     <string name="dialog_delay_update_msg_ab">Gli aggiornamenti verranno installati tra le 2:00 e le 5:00 AM.</string>
      <string name="dialog_delay_update_title">Aggiornamento disponibile</string>
      <string name="dialog_delay_update_tonight">Aggiorna stanotte</string>
      <string name="dialog_stop_desc">"Sei sicuro di voler interrompere un download in corso? Tutti i progressi verranno persi e non potrai ripristinarli. Il prossimo tentativo di download partirà dall'inizio."</string>
      <string name="dialog_stop_title">Interrompere il download?</string>
+     <string name="disable">"Non attivare"</string>
      <string name="download_again">Scarica di nuovo</string>
      <string name="download_cancel">Annulla</string>
      <string name="download_current_rom">"Scarica l'ultima ROM completa"</string>
@@ -84,6 +93,7 @@
      <string name="download_fail_desc">Il valore MD5 non corrisponde…</string>
      <string name="download_failed">Download fallito</string>
      <string name="download_full">Scarica aggiornamento completo</string>
+     <string name="download_setting">Download</string>
      <string name="download_success_reboot_immediately">"Riavvia per installare l'aggiornamento"</string>
      <string name="download_title">Download (%s)</string>
      <string name="download_title_first">Ricevo informazioni di aggiornamento…</string>
@@ -92,8 +102,31 @@
      <string name="downloading_desc">"Download in corso, controlla lo stato nell'area notifiche."</string>
      <string name="edit_text_default">Scrivi un commento</string>
      <string name="emegency_build">Build:</string>
+     <string name="enable">Attiva</string>
+     <string name="exo_controls_fastforward_description">Avanti</string>
+     <string name="exo_controls_next_description">Prossima traccia</string>
+     <string name="exo_controls_pause_description">Pausa</string>
+     <string name="exo_controls_play_description">Riproduci</string>
+     <string name="exo_controls_previous_description">Traccia precedente</string>
+     <string name="exo_controls_rewind_description">Indietro</string>
+     <string name="exo_controls_stop_description">Interrompi</string>
      <string name="expect">Aspettative</string>
      <string name="experimental_build">Sperimentale</string>
+     <string name="express_entry_none">Nessuno</string>
+     <string name="express_entry_not_reserve">Non ho fatto richiesta</string>
+     <string name="express_entry_note">Nota:</string>
+     <string name="express_entry_reserve">Richiesta eseguita</string>
+     <string name="express_rom_start_install">Aggiorna usando la recovery della ROM</string>
+     <string name="express_update_reserve_content">"You can't update to this version directly now. Apply for an update (%1$s)? We'll notify you when %1$s is available for your device. Until then, you'll keep receiving regular updates."</string>
+     <string name="express_update_reserve_negative">"Don't apply"</string>
+     <string name="express_update_reserve_positive">Apply for an update (%s)</string>
+     <string name="express_update_switch_content_erase">MIUI will be updated to a new version (%s). This update may erase your data.</string>
+     <string name="express_update_switch_content_no_erase">"MIUI will be updated to a new version (%s). This update won't erase your data."</string>
+     <string name="express_update_switch_negative">No thanks</string>
+     <string name="express_update_switch_positive">Update to %s</string>
+     <string name="file_path_error_btn">Got it</string>
+     <string name="file_path_error_msg">Make sure the path to the update package contains only letters and numbers.</string>
+     <string name="file_path_error_title">Incorrect path</string>
      <string name="finish">Finito</string>
      <string name="fourgrid_hint_text">Grazie per aver scelto la versione Developer di MIUI! Raccontaci cosa ne pensi ed aiutaci a migliorare MIUI.</string>
      <string name="fourgrid_no_notificaiont">Non mostrare nella barra di stato</string>
@@ -102,6 +135,16 @@
      <string name="get_current">Attuale</string>
      <string name="get_update_error">Impossibile recuperare informazioni di aggiornamento</string>
      <string name="go_on_download">Continua</string>
+     <string name="home_delay_cancel">Cancel</string>
+     <string name="home_delay_msg">Updates will be installed between 2:00 and 5:00 AM if the battery is at least %s full.</string>
+     <string name="home_delay_msg_ab">Updates will be installed between 2:00 and 5:00 AM.</string>
+     <string name="home_delay_ok">OK</string>
+     <string name="home_delay_title">Update is available</string>
+     <string name="home_dialog_more_button">View details ></string>
+     <string name="home_dialog_msg">Updates are ready to install. Tap \"Reboot\" to finish.</string>
+     <string name="home_dialog_negative_button">Not now</string>
+     <string name="home_dialog_positive_button">Reboot</string>
+     <string name="home_dialog_title">MIUI 9. Lightning fast.</string>
      <string name="important_suggestion">"L'informativa sulla Privacy è stata modificata"</string>
      <string name="install">Installa</string>
      <string name="install_desc">"Il dispositivo sarà riavviato in recovery e verrà installato il seguente file: %1$s
@@ -111,6 +154,9 @@ I dati non verranno cancellati."</string>
      <string name="install_local">Installa localmente</string>
      <string name="install_title">Sei sicuro di voler continuare?</string>
      <string name="internal_build">Interna</string>
+     <string name="keywords_auto_setting">Auto updates;Download automatically;Install automatically;autoupdates;auto-updates; automatic updates</string>
+     <string name="keywords_updater">"MIUI update;system update;software update;ROM;ROM update;update;updates;check updates; check for updates;find updates;download updates;upgrade;upgrades;software upgrade;new version;software version; testing;whats new;what's new;log;update log;apk;update package;ROM package;autoupdates;auto-updates; automatic updates;MIUI version;version;updater"</string>
+     <string name="keywords_updater_settings">"Updater;MIUI update;system update;software update;ROM;ROM update;update;updates;check updates; check for updates;find updates;download updates;upgrade;upgrades;software upgrade;new version;software version; testing;whats new;what's new;log;update log;apk;update package;ROM package;autoupdates;auto-updates; automatic updates;MIUI version;version;updater;Updater;Download automatically;Install automatically; Beta Feedback Program;rom"</string>
      <string name="later">Riavvia dopo</string>
      <string name="loading">Caricamento</string>
      <string name="log_share">Condividi</string>
@@ -120,6 +166,7 @@ I dati non verranno cancellati."</string>
      <string name="menu_title_apply_for_alpha">Accedi al programma di beta test</string>
      <string name="menu_title_current_version_log">Riepilogo aggiornamento</string>
      <string name="menu_title_download_current_rom">Scarica pacchetto di aggiornamento</string>
+     <string name="menu_title_feedback">Feedback</string>
      <string name="menu_title_pick_rom_file">Seleziona pacchetto di aggiornamento</string>
      <string name="menu_title_recovery">Riavvia in Recovery</string>
      <string name="message">%1$s</string>
@@ -131,6 +178,12 @@ I dati non verranno cancellati."</string>
      <string name="miui_summary_now_version">"Versione attuale "</string>
      <string name="miui_summary_slogan">"  Progettata per te  "</string>
      <string name="miui_summary_updating">"  Aggiornamento in corso…  "</string>
+     <string name="mobile_download">Download using mobile data</string>
+     <string name="mobile_download_end_time">Turn off automatic downloads</string>
+     <string name="mobile_download_msg">If you have a plan with unlimited data, you can download updates automatically using mobile data. After you turn this feature on, updates will be downloaded during the set period of time.</string>
+     <string name="mobile_download_start_time">Turn on automatic downloads</string>
+     <string name="mobile_download_sum">Download updates automatically during set period of time using mobile data</string>
+     <string name="mobile_download_title">Update using mobile data?</string>
      <string name="monthly_build">Mensile</string>
      <string name="my_best_update">Miglior aggiornamento</string>
      <string name="my_expect_update">Aspettative</string>
@@ -145,7 +198,7 @@ I dati non verranno cancellati."</string>
      <string name="no_update">"Hai già installato l'ultimo aggiornamento!"</string>
      <string name="no_wifi_msg">"Non sei più collegato alla rete Wi-Fi. Continuando con l'aggiornamento su rete dati, consumerai il traffico incluso nel tuo piano dati."</string>
      <string name="no_wifi_title">Avviso utilizzo dati</string>
-     <string name="no_xioamieu">"Non stai utilizzando una rom MIUI creata dal team Miui.it!
+     <string name="no_xioamieu">"Non stai utilizzando una rom MIUI creata dal team xiaomi.eu!
 Nessun aggiornamento sarà disponibile per te!"</string>
      <string name="not_open">Non adesso</string>
      <string name="notif_cancel">Annulla</string>
@@ -157,7 +210,11 @@ Nessun aggiornamento sarà disponibile per te!"</string>
      <string name="notification_delay_update_no_update">Gli aggiornamenti non sono stati installati</string>
      <string name="notification_delay_update_shutdown">Sembra che il dispositivo fosse spento stanotte</string>
      <string name="notification_downloading">Download aggiornamento</string>
+     <string name="notification_express_available">Your update (%1$s) is ready to download</string>
+     <string name="notification_express_ready">Your update (%1$s) is ready to install</string>
      <string name="notification_fail_msg">Tentativo di download ROM Full</string>
+     <string name="notification_has_express">You can apply for an update (%s)</string>
+     <string name="notification_has_express_more">You can apply for an update</string>
      <string name="notification_load_body_alpha">Ricevi gli ultimi aggiornamenti per il tuo dispositivo.</string>
      <string name="notification_load_body_dev">Ricevi gli ultimi aggiornamenti per il tuo dispositivo.</string>
      <string name="notification_load_title_alpha">Accedi al tuo Mi Account</string>
@@ -170,6 +227,7 @@ Nessun aggiornamento sarà disponibile per te!"</string>
      <string name="notification_reboot_title_hm">Riavvia per aggiornare</string>
      <string name="notification_restart">Aggiorna di nuovo</string>
      <string name="notification_share">Condividi</string>
+     <string name="notification_tab_to_view">Tap to view</string>
      <string name="notification_uncrypt_summary_hm">Tocca per riavviare il tuo dispositivo.</string>
      <string name="notification_uncrypt_title_hm">"Riavvia per applicare l'aggiornamento"</string>
      <string name="notification_uncrypting">Decrittazione aggiornamento</string>
@@ -180,6 +238,7 @@ Nessun aggiornamento sarà disponibile per te!"</string>
      <string name="on_checking">Sto cercando…</string>
      <string name="open_now">Sì</string>
      <string name="particular_build">Speciale</string>
+     <string name="path_updater_settings">Impostazioni/Informazioni dispositivo/Aggiornamenti</string>
      <string name="pause">Pausa</string>
      <string name="permdesc_cache_filesystem">"Consenti all'app di creare file nella directory /cache."</string>
      <string name="permdesc_reboot">"Consenti all'app di riavviare il dispositivo."</string>
@@ -198,12 +257,14 @@ Nessun aggiornamento sarà disponibile per te!"</string>
      <string name="pm_root_notification_download_title">Download in corso</string>
      <string name="pm_root_success_msg">Riavvia il dispositivo per completare la procedura.</string>
      <string name="pm_root_success_title">Accesso root attivato</string>
+     <string name="post_sina">Post on Sina Weibo</string>
      <string name="previous">Indietro</string>
+     <string name="privacy_revoke_msg">Updater allows you to keep MIUI and its features up to date. After you revoke authorization, the app will stop collecting data, and all the related data (including the data about devices which require updates) will be deleted from this device and the servers. Refusing to update your device might bring security risks. Revoke authorization anyway?</string>
      <string name="provision_activate_device">Attivazione dispositivo…</string>
      <string name="provision_check_sim">Verifica SIM</string>
      <string name="provision_connect_wifi">Connessione a Wi-Fi</string>
      <string name="provision_have_sim">SIM inserita</string>
-     <string name="provision_no_network_extra">Collegati a Wi-Fi o inserisci la tua SIM ed utilizzi la rete mobile per attivar eil dispositivo senza collegarti alla rete."</string>
+     <string name="provision_no_network_extra">Collegati a Wi-Fi o inserisci la tua SIM ed utilizzi la rete mobile per attivare il dispositivo senza collegarti alla rete."</string>
      <string name="provision_no_network_title">Collegati alla rete</string>
      <string name="provision_retry">Prova di nuovo</string>
      <string name="provision_toast_no_network">Collegati prima alla rete</string>
@@ -221,9 +282,16 @@ Nessun aggiornamento sarà disponibile per te!"</string>
      <string name="recovery_power_not_enough_title">Batteria scarica</string>
      <string name="recovery_power_plugged_warning">"Accertati che il carica batteria resti collegato al dispositivo per tutto l'aggiornamento"</string>
      <string name="repeat">Riprova</string>
+     <string name="resource_auto_setting">Auto updates</string>
+     <string name="resource_updater">MIUI update</string>
+     <string name="resource_updater_settings">Updater</string>
      <string name="root_acquired">Consenti accesso root</string>
      <string name="root_agree_check_box_title">Sono consapevole dei rischi dei permessi di root.</string>
      <string name="root_dangerous_msg">"L'abilitazione dei permessi root è estremamente pericolosa e potrebbe esporre il tuo dispositivo ed i dati in esso contenuti ad attacchi da parte di applicazioni dannose. Accetti di essere l'unico responsabile per eventuali danni al tuo dispositivo o perdite di dati derivanti dall'abilitazione dei permessi root."</string>
+     <string name="security_space_button_neg">Reboot now</string>
+     <string name="security_space_button_pos">"Don't reboot"</string>
+     <string name="security_space_msg">MIUI 9 has a new file system. If you reboot your device now, you might not be able to use Second space. Move all items from Second space to First space before you reboot.</string>
+     <string name="security_space_title">Important update</string>
      <string name="server_error">"Il server non risponde, l'applicazione potrebbe non funzionare correttamente!"</string>
      <string name="set_auto">Imposta mod. autom.</string>
      <string name="set_auto_download_msg">La MIUI scaricherà automaticamente gli aggiornamenti quando il tuo dispositivo sarà connesso al Wi-Fi.</string>
@@ -259,6 +327,8 @@ Nessun aggiornamento sarà disponibile per te!"</string>
      <string name="submit_progress">Invio</string>
      <string name="submit_success">Inviato correttamente</string>
      <string name="test">Test</string>
+     <string name="title_can_download_update">Available options</string>
+     <string name="title_download_full">Download full ROM</string>
      <string name="title_toast_auto">Scarica aggiornamenti ed installa automaticamente</string>
      <string name="title_toast_auto_download">Gli aggiornamenti verranno scaricati automaticamente</string>
      <string name="title_toast_auto_update">Gli aggiornamenti verranno installati automaticamente</string>
@@ -282,6 +352,7 @@ Nessun aggiornamento sarà disponibile per te!"</string>
      <string name="update_general">Così così</string>
      <string name="update_happy">Grandioso!</string>
      <string name="update_sad">Mediocre</string>
+     <string name="update_setting">Updates</string>
      <string name="update_success">Aggiornamento riuscito</string>
      <string name="update_success_reboot_immediately">Dispositivo aggiornato</string>
      <string name="update_success_title">Congratulazioni, aggiornamento completato</string>
@@ -320,5 +391,4 @@ Nessun aggiornamento sarà disponibile per te!"</string>
      <string name="weekly_build">Settimanale</string>
      <string name="wifi_recommended">Nessuna connessione Wi-Fi per iniziare il download in modo sicuro!</string>
      <string name="worst_update">Il peggiore aggiornamento fino ad ora</string>
-	 <string name="path_updater_settings">Impostazioni/Informazioni dispositivo/Aggiornamenti</string>
 </resources>

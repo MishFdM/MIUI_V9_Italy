@@ -269,7 +269,6 @@
      <string name="click_to_reload">Tocca lo schermo per ricaricare</string>
      <string name="close">Chiudi</string>
      <string name="collapse_recipient_details">Chiudi dettagli destinatario</string>
-     <string name="colon">:</string>
      <string name="compose">Scrivi</string>
      <string name="compose_attachment_number_limit">Non puoi inserire più di 10 allegati</string>
      <string name="compose_paste_address_oob">Il testo è troppo lungo</string>
@@ -946,6 +945,7 @@ perr icevere promemoria sui pagamenti dei tuoi viaggi"</string>
      <string name="security_notification_content_unsupported_title">Non si verificano i presupposti di sicurezza</string>
      <string name="security_notification_content_update_title">Si richiede un aggiornamento di sicurezza</string>
      <string name="security_unsupported_ticker_fmt">"L'account \"%s\" non può essere sincronizzato."</string>
+     <string name="see_more_content">Mostra altri contenuti</string>
      <string name="select_attachment_type">Scegli tipo di allegato</string>
      <string name="select_no_file">Nessun allegato selezionato per la condivisione.</string>
      <string name="select_path">Seleziona percorso</string>
@@ -955,7 +955,6 @@ perr icevere promemoria sui pagamenti dei tuoi viaggi"</string>
      <string name="send_feed_back_keywords">invia feedback</string>
      <string name="send_mail">Invia</string>
      <string name="sender_whitelist_cleared">Le immagini non verranno mostrate automaticamente.</string>
-     <string name="senders_elided">..</string>
      <string name="senders_split_token">, </string>
      <string name="sending">Invio…</string>
      <string name="sending_message">Invio messaggio…</string>
@@ -989,6 +988,7 @@ perr icevere promemoria sui pagamenti dei tuoi viaggi"</string>
 
 
 %s"</string>
+     <string name="signature_black_shark">Inviato dal mio telefono Blackshark</string>
      <string name="silent_ringtone">Silenzioso</string>
      <string name="single_new_message_notification_big_text">"%1$s
 %2$s"</string>
@@ -1000,8 +1000,6 @@ perr icevere promemoria sui pagamenti dei tuoi viaggi"</string>
      <string name="special_text_3">寫道:</string>
      <string name="special_text_4">寫道：</string>
      <string name="special_text_5">wrote:</string>
-     <string name="special_text_colon_en">:</string>
-     <string name="special_text_colon_zh">：</string>
      <string name="storage">Memoria</string>
      <string name="str_select_all">Seleziona tutto</string>
      <string name="str_select_none">Deseleziona tutto</string>

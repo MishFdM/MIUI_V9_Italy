@@ -8,13 +8,12 @@
         <item quantity="other">%d combaciano</item>
         <item quantity="one">%d combacia</item>
      </plurals>
-     <plurals name="last_num_days">
+     <plurals name="mw_last_num_days">
         <item quantity="other">Ultimi %d giorni</item>
-        <item quantity="one">Ultimo %d giorno</item>
      </plurals>
-     <plurals name="matches_found">
+     <plurals name="mw_matches_found">
         <item quantity="other">%1$d di %2$d</item>
-        <item quantity="one">1 risultato</item>
+        <item quantity="one">1 match</item>
      </plurals>
      <plurals name="nav_screen_incognito_time">
         <item quantity="other">Dopo %d secondi verrà creata automaticamente una nuova pagina</item>

@@ -9,12 +9,12 @@
         <item quantity="one">Aggiunta %d foto su cloud, disattiva \"Mostra solo gli album locali\" pe vederla.</item>
      </plurals>
      <plurals name="add_to_album_failed_with_reason_and_count">
-        <item quantity="other">"%2$d items can't be added to album. %1$s."</item>
-        <item quantity="one">"%2$d item can't be added to album. %1$s."</item>
+        <item quantity="other">"%2$d elementi non possono essere aggiunti all'album. %1$s."</item>
+        <item quantity="one">"%2$d elemento non può essere aggiunto all'album. %1$s."</item>
      </plurals>
      <plurals name="add_to_secret_failed_with_reason_and_count">
-        <item quantity="other">"%2$d items can't be added to hidden album. %1$s."</item>
-        <item quantity="one">"%2$d item can't be added to hidden album. %1$s."</item>
+        <item quantity="other">"%2$d elementi non possono essere aggiunti all'album nascosto. %1$s."</item>
+        <item quantity="one">"%2$d elemento non può essere aggiunto all'album nascosto. %1$s."</item>
      </plurals>
      <plurals name="age_day">
         <item quantity="other">%d giorni</item>
@@ -129,8 +129,8 @@
         <item quantity="one">%d foto in totale</item>
      </plurals>
      <plurals name="fail_reason_processing_file">
-        <item quantity="other">Processing photos…</item>
-        <item quantity="one">Processing photo…</item>
+        <item quantity="other">Elaborazione foto…</item>
+        <item quantity="one">Elaborazione foto…</item>
      </plurals>
      <plurals name="fast_share_auto_render_failed">
         <item quantity="other">%1$d foto saltate perché impossibile visualizzare.</item>
@@ -217,8 +217,8 @@
         <item quantity="one">%d foto in totale</item>
      </plurals>
      <plurals name="remove_from_secret_failed_with_reason_and_count">
-        <item quantity="other">"%2$d items can't be removed from hidden album. %1$s."</item>
-        <item quantity="one">"%2$d item can't be removed from hidden album. %1$s."</item>
+        <item quantity="other">"%2$d elementi non possono essere eliminati dall'album nascosto. %1$s."</item>
+        <item quantity="one">"%2$d elemento non può essere rimosso dall'album nascosto. %1$s."</item>
      </plurals>
      <plurals name="search_feedback_done_mark_and_contribute_false_negative">
         <item quantity="other">%1$d foto aggiunte a \"%2$s\" e al database.</item>
@@ -237,8 +237,20 @@
         <item quantity="one">%1$d foto rimossa da \"%2$s\".</item>
      </plurals>
      <plurals name="send_processing_files_error">
-        <item quantity="other">"Couldn't share. Still processing %d photos…"</item>
-        <item quantity="one">"Couldn't share. Still processing %d photo…"</item>
+        <item quantity="other">"Impossibile condividere. %d foto ancora in elaborazione…"</item>
+        <item quantity="one">"Impossibile condividere. %d foto ancora in elaborazione…"</item>
+     </plurals>
+     <plurals name="slim_complete_photo_count">
+        <item quantity="other">%d foto ottimizzate</item>
+        <item quantity="one">%d foto ottimizzata</item>
+     </plurals>
+     <plurals name="slim_exit_dialog_message">
+        <item quantity="other">"%d foto non sono state ottimizzate. Interrompere adesso?"</item>
+        <item quantity="one">"%d foto non è stata ottimizzata. Interrompere adesso?"</item>
+     </plurals>
+     <plurals name="slim_remain_photo_count">
+        <item quantity="other">%d foto rimanenti</item>
+        <item quantity="one">%d foto rimanente</item>
      </plurals>
      <plurals name="sync_error_title">
         <item quantity="other">Non è stato eseguito il backup di %d foto e video</item>

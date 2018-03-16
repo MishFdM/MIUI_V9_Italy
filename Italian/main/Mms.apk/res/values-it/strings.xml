@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-     <string name="about_smart_sms_title">Partner messaggi Smart</string>
      <string name="action_firewall_setting">Blacklist</string>
      <string name="activity_not_found">Applicazione non installata sul telefono.</string>
      <string name="activity_not_found_uri">Impossibile trovare programmi per questo</string>
@@ -34,6 +33,7 @@
      <string name="attach_sound">Audio</string>
      <string name="attach_subject">Oggetto</string>
      <string name="attach_take_photo">Scatta Foto</string>
+     <string name="attach_transaction">Invia denaro</string>
      <string name="attach_video">Video</string>
      <string name="audio_download_failed">Download audio fallito</string>
      <string name="audio_message_expired">Questo messaggio vocale è scaduto.</string>
@@ -193,7 +193,7 @@
      <string name="from_label">"Da: "</string>
      <string name="from_pkg_name">"Dall'app:"</string>
      <string name="group_message">Messaggio di Gruppo</string>
-     <string name="group_resend_message">Reinvio (%d)</string>
+     <string name="group_resend_message">Nuovo invio (%d)</string>
      <string name="group_verification_codes_summary">Raggruppa automaticamente i messaggi contenenti OTP</string>
      <string name="group_verification_codes_title">Raggruppa i messaggi OTP</string>
      <string name="guild_add_attachments">Premi qui per aggiungere allegati o smileys al messaggio</string>
@@ -360,7 +360,6 @@
      <string name="open_url_with_web">Aprire questo link nel browser?</string>
      <string name="over_max_mms_size">MMS troppo grande.</string>
      <string name="overwrite_edited_content">Il contenuto modificato verrà sovrascritto, continuare?</string>
-     <string name="partner_companies">Teddy Mobile, Yulore Tech.</string>
      <string name="phrase_confirm_delete_message">Il modello selezionato sarà eliminato</string>
      <string name="phrase_empty">Nessuna anteprima</string>
      <string name="phrase_from">Da %1s</string>
@@ -407,7 +406,6 @@
      <string name="pref_summary_wake_up_screen">Attiva lo schermo alla ricezione di un nuovo SMS</string>
      <string name="pref_switch_sdk_setting">Cambia servizio provider smart SMS</string>
      <string name="pref_system_title">Sistema</string>
-     <string name="pref_title_about_smart_sms">Informazioni sul partner peri messaggi Smart</string>
      <string name="pref_title_allow_si_sl_push">Consenti push WAP</string>
      <string name="pref_title_allow_upload_message_info">Carica messaggi spam</string>
      <string name="pref_title_auto_delete">Elimina i vecchi messaggi</string>
@@ -475,7 +473,7 @@
      <string name="replace">Sostituisci</string>
      <string name="replace_image">Sostituisci immagine</string>
      <string name="reply_button_msg">Rispondi</string>
-     <string name="resent_message">Reinvia</string>
+     <string name="resent_message">Invia di nuovo</string>
      <string name="resize_image_error_information">Questa immagine è troppo grande per essere inviata, anche se ridimensionata.</string>
      <string name="resource_price_free">Gratis</string>
      <string name="restore_all_button_msg">Ripristina tutti i messaggi inviati da questo numero</string>
@@ -515,6 +513,7 @@
      <string name="select_local_audio">Seleziona audio locale</string>
      <string name="select_local_video">Seleziona video locale</string>
      <string name="select_message_send_sim">Scegli SIM</string>
+     <string name="select_phone_number">Seleziona il numero di telefono</string>
      <string name="select_recipient">Seleziona destinatario</string>
      <string name="select_sim">Seleziona SIM</string>
      <string name="select_top_text">Testo in alto</string>

@@ -28,6 +28,7 @@
      <string name="db_downgrade_clear_date_reminder">Il passaggio ad una versione diversa di MIUI richiede al cancellazione dei dati app per Note. Prima di procedere, assicurati di avere eseguito il backup delle note su Mi Cloud.</string>
      <string name="default_folder_name">Note</string>
      <string name="delete_folder_dialog_tile">Elimina cartella</string>
+     <string name="dialog_privacy_revoke_tips">"Dopo aver revocato le autorizzazioni, l'app smetterà di raccogliere dati e tutti quelli raccolti verranno eliminati dai server. Questo potrebbe virtualmente rendere l'app non utilizzabile. Revocare comunque le autorizzazioni? Per garantire la sicurezza del tuo account, accedi a i.mi.com prima di revocare le autorizzazioni per i servizi Mi Cloud."</string>
      <string name="dialog_share_as_pic">Condividi nota come immagine</string>
      <string name="dialog_share_as_text">Condividi nota come testo</string>
      <string name="dialog_share_title">Condividi nota</string>
@@ -119,8 +120,8 @@
      <string name="pref_title_skip_confirm_for_quick_delete">Elimina rapidamente</string>
      <string name="recover_notes_hint">Rilevati dati anomali nella nota, prova a recuperarla su <b>i.mi.com</b></string>
      <string name="redo">Ripristina</string>
+     <string name="refuse_to_open_as_pic_because_of_loading">Wait until the note is loaded and try again.</string>
      <string name="refuse_to_share_as_pic_because_of_content">Questa nota è troppo grande per essere condivisa.</string>
-     <string name="refuse_to_share_as_pic_because_of_loading">Attendi fino a che la nota non è stata caricata e prova di nuovo.</string>
      <string name="rename_folder_dialog_tile">Rinomina cartella</string>
      <string name="root_folder_name">Note veloci</string>
      <string name="search">Note</string>
@@ -169,6 +170,7 @@
      <string name="theme_title_yellow">Giallo</string>
      <string name="theme_white_description">Bianco</string>
      <string name="theme_yellow_description">Giallo</string>
+     <string name="toast_cancel_to_insert_image">Cancel to insert images.</string>
      <string name="toast_message_add_image_fail">Impossibile inserire immagine.</string>
      <string name="toast_notes_delete_success">Eliminate correttamente</string>
      <string name="toast_notes_hidden">Nascoste correttamente</string>

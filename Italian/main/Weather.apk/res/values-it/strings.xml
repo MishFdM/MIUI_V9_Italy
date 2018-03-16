@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+     <string name="abrupt_weather_settings_summary_type_a">Comando Avviso Meteo Insolito</string>
+     <string name="abrupt_weather_settings_summary_type_b">Comando Avviso Meteo Insolito</string>
+     <string name="abrupt_weather_settings_title">Avviso Meteo Insolito</string>
      <string name="act_find_city_hint">Inserisci località</string>
      <string name="act_find_city_hot_attractions_title">Luoghi popolari</string>
      <string name="act_find_city_hot_city_title">Città frequenti</string>
@@ -58,7 +61,7 @@
      <string name="aqi_quality_major_pollutants">Inquinanti maggiori</string>
      <string name="aqi_quality_map_edit_text_hint">Ricerca qualità aria</string>
      <string name="aqi_quality_map_title">Mappa qualità aria</string>
-     <string name="aqi_quality_no2_desc">Diossido notrogeno</string>
+     <string name="aqi_quality_no2_desc">Diossido nitrogeno</string>
      <string name="aqi_quality_o3_desc">Ozono</string>
      <string name="aqi_quality_pm10_desc">Grandi particelle non inalabili</string>
      <string name="aqi_quality_pm25_desc">Polveri sottili</string>
@@ -74,9 +77,14 @@
      <string name="button_confirm">Consenti</string>
      <string name="button_exit">Esci</string>
      <string name="button_not_allow">Annulla</string>
+     <string name="button_settings_cancel">Cancel</string>
+     <string name="button_settings_confirm">Revoke</string>
+     <string name="button_settings_confirm_to_revoke_msg">"You won't be able to use Weather after revoking authorization."</string>
+     <string name="button_settings_confirm_to_revoke_title">Revoke authorization?</string>
      <string name="button_sure_abandon">Annullare le modifiche?</string>
      <string name="card_vote_item_vs">VS</string>
      <string name="change_alert">Controlla la connessione di rete e prova di nuovo</string>
+     <string name="china_version_first_start_network_msg">"By using this product, you agree to Xiaomi's%1$s and %2$s.This app needs to connect to the internet and access your location to work normally."</string>
      <string name="city_exceeded_warning">Puoi aggiungere fino a 10 città</string>
      <string name="commercial">Pubblicità</string>
      <string name="common_loading_text">Solo un attimo...</string>
@@ -84,6 +92,9 @@
      <string name="content_desc_activity_main_add_city">Aggiungi città</string>
      <string name="content_desc_activity_main_add_city_manage">Gestione città</string>
      <string name="content_desc_activity_main_more_settings">Più impostazioni</string>
+     <string name="content_desc_back_button">Indietro</string>
+     <string name="content_desc_close_button">Chiudi</string>
+     <string name="content_desc_edit_city_manage">Gestione città</string>
      <string name="daily_forcast_drawer_on_bottom">Nascondi</string>
      <string name="daily_forcast_no_stable_direction">Assente</string>
      <string name="daily_forcast_no_wind">&lt;12km/h</string>
@@ -101,7 +112,7 @@ trascina verso il basso per aggiornare o verifica le impostazioni di rete"</stri
      <string name="data_source_timezone">GMT%1$s</string>
      <string name="edit_alert_city_title">Gestisci avvisi</string>
      <string name="edit_city">Modifica</string>
-     <string name="empty">" "</string>
+     <string name="eu_region_version_first_start_network_msg">"By using this product, you agree that Xiaomi will collect, process, and use you personal information, including the coordinates of the cities you search, and other types of data specified in our Privacy Policy. Refer to our Privacy Policy to learn how we collect and process information. By tapping \"Agree\", you agree to Xiaomi's %1$s and %2$s."</string>
      <string name="feedback_heavy_rain">Forte pioggia</string>
      <string name="feedback_heavy_snow">Neve</string>
      <string name="feedback_light_rain">Pioggia leggera</string>
@@ -142,6 +153,7 @@ trascina verso il basso per aggiornare o verifica le impostazioni di rete"</stri
      <string name="indices_title_uv">Indice UV</string>
      <string name="indices_title_visibility">Visibilità</string>
      <string name="information_manager_extension">Estensione meteo</string>
+     <string name="information_settings_title">Informazioni meteo</string>
      <string name="information_views" />
      <string name="install">Installa</string>
      <string name="international_detail_menu_title">Dettagli</string>
@@ -157,9 +169,9 @@ Tocca lo schermo per aggiungere manualmente o riprovare"</string>
      <string name="lunar_calendar" />
      <string name="menu_add_city">Aggiungi/elimina città</string>
      <string name="menu_location">Località</string>
-     <string name="menu_minute_rain">Previsioni precipitazioni a due ore</string>
-     <string name="menu_speeker">Trasmissione vocale</string>
+     <string name="menu_speaker">Trasmissione voce</string>
      <string name="mi_pad2">latte</string>
+     <string name="minute_rain">Previsioni dettagliate</string>
      <string name="minute_rain_after_an_hour">"Tra un'ora"</string>
      <string name="minute_rain_after_two_hour">Tra due ore</string>
      <string name="minute_rain_feedback_subtitle">Dicci che tempo fa</string>
@@ -171,6 +183,7 @@ Tocca lo schermo per aggiungere manualmente o riprovare"</string>
      <string name="minute_rain_progress_indicator_original_time">- -</string>
      <string name="minute_rain_pull_down_refresh">Trascina in basso per aggiornare</string>
      <string name="minute_rain_refreshing_now">Aggiornamento</string>
+     <string name="missing_required_permission">Hai disattivato un permesso necessario.</string>
      <string name="more_details">Altri dettagli</string>
      <string name="network_not_available">Impossibile collegarsi alla rete</string>
      <string name="network_unavailable">Impossibile connettersi alla rete.</string>
@@ -183,16 +196,24 @@ Tocca lo schermo per aggiungere manualmente o riprovare"</string>
      <string name="open_browser">Apri nel browser</string>
      <string name="open_now">Apri adesso</string>
      <string name="other">Altro</string>
+     <string name="other_settings">Altre impostazioni</string>
      <string name="other_warning_settings">Altre impostazioni di avvisi</string>
      <string name="particulate_matter_exceeded">Alto</string>
      <string name="particulate_matter_not_exceeded">Normale</string>
      <string name="particulate_matter_serious_exceeded">Troppo alto</string>
+     <string name="policy_settings">Termini e condizioni</string>
      <string name="precipitation_degree_five">temporale</string>
      <string name="precipitation_degree_four">forte</string>
      <string name="precipitation_degree_one">nessuna</string>
      <string name="precipitation_degree_three">moderata</string>
      <string name="precipitation_degree_two">leggera</string>
      <string name="pressure_connect">%1$s MB</string>
+     <string name="privacy_grant_failed">Autorizzazione non concessa. Attendi uno o due minuti prima di riprovare.</string>
+     <string name="privacy_grant_or_revoke_settings">Concedi e revoca autorizzazioni</string>
+     <string name="privacy_grant_success">Autorizzazione concessa con successo</string>
+     <string name="privacy_revoke_failed">Revoca autorizzazione non concessa. Attendi uno o due minuti prima di riprovare.</string>
+     <string name="privacy_revoke_success">Revoca autorizzazione avvenuta con successo</string>
+     <string name="privacy_settings">Privacy Policy</string>
      <string name="pull_fresh_updated">Aggiornato con successo</string>
      <string name="pull_fresh_updating">Aggiornamento…</string>
      <string name="radar_cloud_image_title">Mappa Radar</string>
@@ -268,7 +289,7 @@ Tocca lo schermo per aggiungere manualmente o riprovare"</string>
      <string name="wind_direction_no_data">Vento</string>
      <string name="wind_miles_unit">%1$smph</string>
      <string name="wind_unit">%1$s km/h</string>
-     <string name="xiaomi_weather_description_content">"Il Meteo fornisce previsioni metereologiche affidabili. Senza questa app, il widget della barra di stato e della Home non funzioneranno. Accertati di non aver necessità di queste funzioni prima di elimiare l'app."</string>
+     <string name="xiaomi_weather_description_content">"Il Meteo fornisce previsioni metereologiche affidabili. Senza questa app, il widget della barra di stato e della Home non funzioneranno. Accertati di non aver necessità di queste funzioni prima di eliminare l'app."</string>
      <string name="xiaomi_weather_description_title">Informazioni</string>
      <string name="yes_vote_ratio">Per %1$s%%</string>
      <string name="your_location">La tua posizione</string>

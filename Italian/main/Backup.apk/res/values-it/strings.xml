@@ -126,6 +126,7 @@ https://appleid.apple.com/#!&amp;page=signin per chiudere"</string>
      <string name="err_bakfile_broken">Impossibile utilizzare questo backup.</string>
      <string name="err_filesystem_mount">Impossibile accedere alla memoria del router</string>
      <string name="err_low_storage">Spazio insufficiente</string>
+     <string name="err_not_allow">Non supportato</string>
      <string name="err_router_disconnected">Controlla la connessione del tuo router e riprova</string>
      <string name="err_router_files_delete">Impossibile eliminare i file di backup sul router</string>
      <string name="err_unknown">Errore sconosciuto</string>
@@ -233,6 +234,7 @@ devi caricare i dati dei vecchi dispositivi su iCloud"</string>
      <string name="notif_icloud_need_wifi_summary">In attesa di Wi-Fi</string>
      <string name="notif_icloud_saved_summary">Importazione completata</string>
      <string name="notif_icloud_saving_summary">Ripristino dati…</string>
+     <string name="notif_miasist_try_to_connect">Mi PC Suite sta tentando di collegarsi al tuo dispositivo</string>
      <string name="notif_parse_select_descript_error">Impossibile sincronizzare la lista degli elementi del backup.</string>
      <string name="notif_receiving_transingsd">Ricezione %1$s (%2$s)…</string>
      <string name="notif_restore_complete_title">Ripristino da backup eseguito correttamente</string>
@@ -494,6 +496,7 @@ Non disattivare la connessione Wi-Fi. Mantieni i dispositivi vicini."</string>
      <string name="trans_show_qr_code_tips">Scansiona Codice QR utilizzando il vecchio dispositivo</string>
      <string name="trans_start_failed_message">Avvio fallito, riprova ora o dopo un riavvio</string>
      <string name="trans_start_failed_title">Avvio fallito</string>
+     <string name="trans_switching_5g">Passa a Wi-Fi 5GHz WLAN</string>
      <string name="trans_time_format_second">meno di un minuto</string>
      <string name="trans_time_spent">"
 Tempo impiegato: %s"</string>

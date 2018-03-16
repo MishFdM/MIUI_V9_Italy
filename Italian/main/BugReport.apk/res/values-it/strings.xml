@@ -83,9 +83,17 @@
      <string name="feedback_retest_label">Passi da riprodurre</string>
      <string name="feedback_select_images">Aggiungi immagini</string>
      <string name="feedback_select_modem_log">Aggiungi log modem</string>
+     <string name="feedback_select_modem_log_not_select_desc">"Non è stato selezionato \"Aggiungi log modem\""</string>
+     <string name="feedback_select_modem_log_select_desc">Selezionato \"Aggiungi log modem\"</string>
      <string name="feedback_select_problem">Problemi</string>
+     <string name="feedback_select_problem_not_select_desc">"Non è stato selezionato \"Problemi\""</string>
+     <string name="feedback_select_problem_select_desc">Selezionato \"Problemi\"</string>
      <string name="feedback_select_suggestion">Suggerimenti</string>
+     <string name="feedback_select_suggestion_not_select_desc">"Non è stato selezionato \"Suggerimenti\""</string>
+     <string name="feedback_select_suggestion_select_desc">Selezionato \"Suggerimenti\"</string>
      <string name="feedback_select_upload_log">Aggiungi log</string>
+     <string name="feedback_select_upload_log_not_select_desc">"Non è stato selezionato \"Aggiungi log\""</string>
+     <string name="feedback_select_upload_log_select_desc">Selezionato \"Aggiungi log\"</string>
      <string name="feedback_status_answered">Risposto</string>
      <string name="feedback_status_change_notification_title">La tua segnalazione ha ricevuto un aggiornamento</string>
      <string name="feedback_status_commit_failed_title">Impossibile inviare segnalazione</string>
@@ -264,7 +272,8 @@
      <string name="submit_dialog_cancel">Annulla</string>
      <string name="submit_dialog_confirm">Invia</string>
      <string name="submit_dialog_content">La tua segnalazione, insieme al log di errore e alle immagini allegate, verrà inviata ai server Xiaomi.</string>
-     <string name="submit_dialog_title">Send report</string>
+     <string name="submit_dialog_content_global">"Il tuo feedback, con allegati e log, verrà inviato ai server MIUI. I log possono contenere informazioni personali e dati sulla tua posizione. Puoi decidere di non inviare i log non spuntando la relativa casella.</string>
+     <string name="submit_dialog_title">Invia segnalazione</string>
      <string name="submit_feedback_info_failed">Impossibile inviare segnalazione</string>
      <string name="suggestion_description">Scrivi qui i suggerimenti</string>
      <string name="system_app_select">App integrate</string>
@@ -290,7 +299,7 @@
      <string name="toast_feedbackservice_in_submit">Invio segnalazione precedente…</string>
      <string name="toast_fill_brackets">Si prega di compilare i campi</string>
      <string name="toast_log_not_exists">Il log richiesto è stato eliminato o non esiste</string>
-     <string name="toast_log_too_large">Impossible inviare. Il file è troppo grande.</string>
+     <string name="toast_log_too_large">Impossibile inviare. Il file è troppo grande.</string>
      <string name="toast_module_required">Seleziona elemento</string>
      <string name="toast_network_unavailable">Impossibile inviare. Impossibile connettersi alla rete.</string>
      <string name="toast_pending_log_collection">Registrazione log, si prega di attendere</string>

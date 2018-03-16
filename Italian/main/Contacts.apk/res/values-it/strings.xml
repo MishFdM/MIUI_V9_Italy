@@ -209,6 +209,8 @@
      <string name="contact_detail_calllog_call_note_tips">Note</string>
      <string name="contact_detail_calllog_call_record_tips">Registra chiamata</string>
      <string name="contact_detail_calllog_empty">Nessuna chiamata</string>
+     <string name="contact_detail_entry_pay">Paga</string>
+     <string name="contact_detail_entry_pay_dialog_title">Seleziona il numero di telefono</string>
      <string name="contact_detail_menu_delete_miprofile">Elimina scheda</string>
      <string name="contact_detail_miprofile_accept">Scambio schede contatto</string>
      <string name="contact_detail_miprofile_accept_fail_toast">Impossibile scambiare schede contatti</string>
@@ -395,7 +397,7 @@ Le schede contatti sono disattivate"</string>
      <string name="dialer_empty_text_loading">Caricamento…</string>
      <string name="dialer_empty_text_no_call_log">Nessun contatto recente</string>
      <string name="dialer_empty_text_no_search_result">Nessun contatto trovato</string>
-     <string name="dialer_firewall_entry_name">Blocked call logs</string>
+     <string name="dialer_firewall_entry_name">Log chiamate bloccate</string>
      <string name="dialer_menu_description">Tocca per mostrare il tastierino</string>
      <string name="dialer_menu_title">Opzioni menu</string>
      <string name="dialer_returnToInCallScreen">Ritorna alla chiamata in corso</string>
@@ -502,8 +504,8 @@ Motivo: \"%s\"</string>
      <string name="group_delete_success_toast">Gruppo eliminato</string>
      <string name="group_detail_label_placeholder"> </string>
      <string name="group_edit_field_hint_text">Nome del gruppo</string>
-     <string name="group_member_remove_fail_toast">Not removed from group</string>
-     <string name="group_member_remove_success_toast">Removed from group</string>
+     <string name="group_member_remove_fail_toast">Non rimosso dal gruppo</string>
+     <string name="group_member_remove_success_toast">Rimosso dal gruppo</string>
      <string name="group_name">I miei gruppi</string>
      <string name="group_name_hint">Nome del gruppo</string>
      <string name="group_read_only">Non modificabile su questo dispositivo.</string>
@@ -568,7 +570,6 @@ Motivo: \"%s\"</string>
      <string name="keep_local">Memorizza in locale</string>
      <string name="keep_local_btn">Usa la memoria interna del dispositivo"</string>
      <string name="label_custom_type">Personalizzato</string>
-     <string name="label_duplicate_count">(%1$d)</string>
      <string name="label_no_duplicate_contacts">Nessun duplicato rilevato</string>
      <string name="label_notes">Note</string>
      <string name="label_sip_address">Chiamate Internet</string>
@@ -820,7 +821,7 @@ Per aggiungere un contatto alla lista dei Preferiti:
      <string name="path_key_rebuild_t9_index_title">Applicazioni di sistema/Contatti/Organizza Contatti/Ricostruzione indice dati</string>
      <string name="path_key_sim_manage">Applicazioni di sistema/Contatti/Organizza Contatti/SIM</string>
      <string name="path_preference_contacts_filter">Applicazioni di sistema/Contatti/Preferenze schermo/Configura lista contatti</string>
-     <string name="path_quick_dial_setting">System apps/Contacts/Quick dial</string>
+     <string name="path_quick_dial_setting">Applicazioni di sistema/Contatti/Chiamata rapida</string>
      <string name="path_remove_duplicate">Applicazioni di sistema/Contatti/Organizza Contatti/Unisci contatti doppi</string>
      <string name="path_share_visible_contacts">Applicazioni di sistema/Contatti/Importa/Esporta Contatti/Condividi Contatti</string>
      <string name="path_sim_capacity">Applicazioni di sistema/Contatti/Archivio SIM</string>
@@ -830,7 +831,6 @@ Per aggiungere un contatto alla lista dei Preferiti:
      <string name="payphone">Telefonata a pagamento</string>
      <string name="people">Contatti</string>
      <string name="phoneLabelsGroup">Telefono</string>
-     <string name="phone_info_divider">" ｜ "</string>
      <string name="phone_number_too_long_toast">Numero troppo lungo</string>
      <string name="phone_primary">Primario</string>
      <string name="photoPickerNotFoundText">Nessuna foto disponibile sul tablet.</string>
@@ -879,6 +879,7 @@ Per aggiungere un contatto alla lista dei Preferiti:
      <string name="preference_contacts_display">Preferenze visualizzazione</string>
      <string name="preference_contacts_filter">Configura liste contatti</string>
      <string name="preference_contacts_more">Organizza contatti</string>
+     <string name="preference_contacts_moresetting">Altro</string>
      <string name="preference_dial_pad_touch_tone_default">Predefinito</string>
      <string name="preference_dial_pad_touch_tone_human">Voce</string>
      <string name="preference_dial_pad_touch_tone_piano">Tasti del pianoforte</string>
@@ -886,6 +887,7 @@ Per aggiungere un contatto alla lista dei Preferiti:
      <string name="preference_dial_pad_touch_tone_title">Tono al tocco del tastierino</string>
      <string name="preference_display">Visualizzazione</string>
      <string name="preference_displayOptions">Opzioni di visualizzazione</string>
+     <string name="preference_display_contact">Opzioni schermo</string>
      <string name="preference_export">Esporta</string>
      <string name="preference_import">Importa</string>
      <string name="preference_import_export">Importa/Esporta</string>
@@ -929,12 +931,12 @@ Per aggiungere un contatto alla lista dei Preferiti:
      <string name="pull_to_refresh_release_label">Rilascia per aggiornare</string>
      <string name="qr_card_card">Il mio QR Code</string>
      <string name="qrcode_card_title">Codice QR del profilo</string>
-     <string name="quick_dial_setting_delete_dialog_message">Delete assigned quick dial number?</string>
-     <string name="quick_dial_setting_delete_dialog_option_delete">Delete</string>
-     <string name="quick_dial_setting_hint">Tap a button to assign or remove a quick dial number. Press and hold the button with an assigned number to dial.</string>
-     <string name="quick_dial_setting_set_dialog_message">Assign a quick dial number to this button?</string>
-     <string name="quick_dial_setting_set_dialog_option_set">Yes</string>
-     <string name="quick_dial_setting_title">Quick dial</string>
+     <string name="quick_dial_setting_delete_dialog_message">Eliminare il numero di chiamata rapida assegnato?</string>
+     <string name="quick_dial_setting_delete_dialog_option_delete">Elimina</string>
+     <string name="quick_dial_setting_hint">Tocca il tasto per assegnare o rimuovere un numero di chiamata rapida. Tieni premuto il tasto assegnato ad un numero per chiamarlo rapidamente.</string>
+     <string name="quick_dial_setting_set_dialog_message">Assegnare un numero di chiamata rapida a questo tasto?</string>
+     <string name="quick_dial_setting_set_dialog_option_set">Sì</string>
+     <string name="quick_dial_setting_title">Chiamata rapida</string>
      <string name="quickcontact_missing_app">Nessuna applicazione trovata per gestire questa azione.</string>
      <string name="quit_dialog_confirm_message">Non hai unito nessun contatto</string>
      <string name="quit_dialog_confirm_title">Nessun contatto unito</string>

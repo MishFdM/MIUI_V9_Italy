@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-     <string name="accessibility_enter_lock_wallpaper">Tocca per aprire lo sfondo Carosello</string>
+     <string name="accessibility_enter_lock_wallpaper">Tocca per aprire lo sfondo Carousel</string>
      <string name="btn_camera">Inserisci il tuo viso</string>
+     <string name="change_to_ac_charging">Passato a carica senza fili</string>
      <string name="click_to_enter_text">Tocca per vedere</string>
      <string name="confirm_pin_msg">Inserisci di nuovo il PIN</string>
      <string name="custom_lock_wallpaper_enter">Inserisci</string>
@@ -60,14 +61,14 @@
      <string name="face_unlock_rotated_left">Sposta la testa a destra</string>
      <string name="face_unlock_rotated_right">Sposta la testa a sinistra</string>
      <string name="face_unlock_stay_away_screen">Rimani distante dalle schermo tra i 25 ai 40cm</string>
-     <string name="fingerprint_add_text">""L'interfaccia per le impronte digitali è stato aggiornata. Aggiungi di nuovo la tua impronta"."</string>
+     <string name="fingerprint_add_text">"L'interfaccia per le impronte digitali è stato aggiornata. Aggiungi di nuovo la tua impronta."</string>
      <string name="fingerprint_add_title">Aggiungi impronta</string>
      <string name="fingerprint_again_identified_msg">La tua impronta adesso è attiva. Usala per sbloccare il dispositivo o inserisci la password.</string>
      <string name="fingerprint_enter_second_psw_msg">Inserisci la password per lo spazio Secondario dopo il riavvio per poter utilizzare il riconoscimento delle impronte</string>
      <string name="fingerprint_enter_second_psw_msg_oldman">"Impossibile aggiungere lo spazio Secondario finché in modalità Lite"</string>
      <string name="fingerprint_enter_second_psw_title">Inserisci la password dello spazio Secondario</string>
      <string name="fingerprint_not_identified_msg">"Troppi tentativi falliti. Inserisci adesso la password o prova ad utilizzare l'impronta in pochi secondi."</string>
-     <string name="fingerprint_not_identified_msg_lock">Too many unsuccessful attempts. Enter password now.</string>
+     <string name="fingerprint_not_identified_msg_lock">Troppi tentativi falliti. Inserisci la password.</string>
      <string name="fingerprint_not_identified_title">Inserisci password</string>
      <string name="fingerprint_try_again_msg">"Impossibile verificare l'impronta, prova di nuovo."</string>
      <string name="fingerprint_try_again_text">Prova di nuovo</string>
@@ -86,11 +87,9 @@
      <string name="invalid_sim_pin_hint">Il PIN dovrebbe essere composto dai 4 agli 8 numeri</string>
      <string name="invalid_sim_puk_hint">Il PUK dovrebbe essere composto da almeno 8 numeri</string>
      <string name="keyguard_charging_info_battery_used_time_text">Su batteria</string>
-     <string name="keyguard_charging_info_charging_text">In carica</string>
      <string name="keyguard_charging_info_click_to_detail">Mostra dettagli</string>
      <string name="keyguard_charging_info_drained_power_percent_text">Esaurita</string>
-     <string name="keyguard_charging_info_finished_charging_text">Carica completata</string>
-     <string name="keyguard_charging_info_last_charge_time">M/d H:mm</string>
+     <string name="keyguard_charging_info_last_charge_time">d/M H:mm</string>
      <string name="keyguard_charging_info_last_charge_today_time">Oggi %s</string>
      <string name="keyguard_charging_info_last_charge_yesterday_time">Ieri %s</string>
      <string name="keyguard_charging_info_last_charged_time_text">Ultima carica</string>
@@ -104,11 +103,11 @@
      <string name="keyguard_left_buscard">Carta bus</string>
      <string name="keyguard_left_remotecentral">Mi Remote</string>
      <string name="keyguard_left_smarthome">Mi Home</string>
+     <string name="keyguard_left_view_lock_wallpaper">Sfondi Carousel</string>
      <string name="keyguard_quick_charging_info_click_to_detail">Carica rapida. Tocca per vedere i dettagli.</string>
-     <string name="keyguard_quickly_charging_info_charging_text">Carica rapida…</string>
      <string name="keyguard_torch_cover_text">Tieni premuto il tasto Accensione per accendere la Torcia</string>
-     <string name="lock_screen_date">EEEE, MMMM d</string>
-     <string name="lock_screen_date_12">EEEE, MMMM d</string>
+     <string name="lock_screen_date">EEEE,d MMMM</string>
+     <string name="lock_screen_date_12">EEEE,d MMMM </string>
      <string name="lock_screen_no_sim_card">Nessuna SIM</string>
      <string name="lock_wallpaper_enter">Inserisci</string>
      <string name="lock_wallpaper_learn_more">Altro</string>
@@ -134,8 +133,9 @@
      <string name="phone_locked_forget_password_suggesstion_one_content">Spegni il tuo dispositivo, tieni premuti contemporaneamente il tasto Accensione ed il tasto Volume Su finché nonvedi il logo Mi</string>
      <string name="phone_locked_forget_password_suggesstion_two_content">Seleziona Cancella e Ripristina ed attenti finché il dispositivo non si riavvia.</string>
      <string name="phone_locked_forget_password_suggesstions_title">Come eliminare i dati?</string>
-     <string name="phone_locked_string">Il telfono è stato bloccato</string>
-     <string name="symbol_colon">:</string>
+     <string name="phone_locked_string">Il telefono è stato bloccato</string>
+     <string name="reset_device_detail_tip">Carica senza fili, allinea la base del telefono per garantire la corretta velocità di carica.</string>
+     <string name="reset_device_tip">Carica lenta, posiziona meglio il telefono</string>
      <string name="unlock_camera_steady">Rimani fermo</string>
      <string name="unlock_failed">Errore interno</string>
      <string name="unlock_failed_face_not_found">Rilevamento</string>
@@ -145,5 +145,9 @@
      <string name="unlockscreen_recharge_completed">Batteria carica</string>
      <string name="unlockscreen_recharging_message">In carica %d%%</string>
      <string name="wallpaper_global_des_drop_down_notify_text">Rilascia per vedere i dettagli</string>
+     <string name="wireless_charge_dialog_cancel">Annulla</string>
+     <string name="wireless_charge_dialog_title">Posizione non corretta, correggi la posizione</string>
+     <string name="wireless_charge_stop">La carica senza fili si è interrotta</string>
+     <string name="wireless_current_charge">Carica attuale</string>
      <string name="wrong_password">Password non corretta</string>
 </resources>

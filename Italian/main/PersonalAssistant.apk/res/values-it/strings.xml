@@ -81,7 +81,7 @@
      <string name="ball_football_total_rank">Statistiche</string>
      <string name="ball_hupu">Sport HuPu</string>
      <string name="ball_net_errot">Impossibile connettersi alla rete.</string>
-     <string name="ball_recent_no_data">"Nessun'informazione sui prossimi eventi."</string>
+     <string name="ball_recent_no_data">"Nessuna informazione sui prossimi eventi."</string>
      <string name="beijing">Pechino</string>
      <string name="bicycle">Bici o veicolo elettrico</string>
      <string name="book_assistant">Prenota un viaggio</string>
@@ -92,7 +92,7 @@
      <string name="book_assistant_train_started">Hai lasciato la stazione</string>
      <string name="book_store">Visualizza prenotazioni</string>
      <string name="book_update">Aggiornamento disponibile</string>
-     <string name="btn_back">indieteo</string>
+     <string name="btn_back">indietro</string>
      <string name="btn_more">altro</string>
      <string name="calc_currency">Valuta</string>
      <string name="calc_name">Scientifico</string>
@@ -115,7 +115,7 @@
      <string name="card_example">Scheda</string>
      <string name="card_expand_note_clear">Cancella</string>
      <string name="card_expand_note_dialog_button">Ho capito</string>
-     <string name="card_expand_note_dialog_message">Ogni volta che tocchi il tasto \"Save\" viene creata una nuova nota.</string>
+     <string name="card_expand_note_dialog_message">Ogni volta che tocchi il tasto \"Salva\" viene creata una nuova nota.</string>
      <string name="card_expand_note_dialog_title">Salvataggio note</string>
      <string name="card_expand_note_toast_clear_null">Cancellato con successo</string>
      <string name="card_expand_note_toast_save_done">Salva nelle Note</string>
@@ -128,6 +128,7 @@
      <string name="card_setting_btn">Personalizza</string>
      <string name="card_settings">Impostazioni schede</string>
      <string name="card_settings_rule">Imposta le regole per la visualizzazione delle schede</string>
+     <string name="card_title_empty_note">Nessuna nota</string>
      <string name="card_title_express">Le mie consegne</string>
      <string name="card_title_favorite">Preferiti</string>
      <string name="card_title_funclaunch">Collegamenti</string>
@@ -201,7 +202,7 @@
      <string name="dialog_report_cancel">Annulla</string>
      <string name="dialog_report_confirm">Segnala</string>
      <string name="dialog_report_desc">Puoi segnalarci un formato pagina errato. Segnalare ora?</string>
-     <string name="dialog_report_title">Il formato non é valido</string>
+     <string name="dialog_report_title">Il formato non è valido</string>
      <string name="dialog_report_toast">Segnalazione riuscita</string>
      <string name="didi_back">Indietro</string>
      <string name="didi_book">Chiama un taxi</string>
@@ -214,7 +215,7 @@
      <string name="didi_not_installed">Installa DiDi per utilizzare questa scheda</string>
      <string name="didi_other_dest">Altre destinazioni</string>
      <string name="didi_price">Tariffa</string>
-     <string name="didi_price_unit">CNY</string>
+     <string name="didi_price_unit">%sCNY</string>
      <string name="didi_target">Destinazione     </string>
      <string name="didi_taximeter">Calcola tariffa taxi</string>
      <string name="didi_trip">Taxi</string>
@@ -296,7 +297,6 @@
      <string name="express_goods_detail">Dettagli ordine</string>
      <string name="express_icon_tip">"Ottieni info sulla consegna veloce utilizzando il tuo numero di telefono e le info dell'ordine."</string>
      <string name="express_icon_tip_link">Sicurezza e privacy</string>
-     <string name="express_info_divider">" / "</string>
      <string name="express_inqiury_select_logistics">Servizio corriere</string>
      <string name="express_inquiry">Tracciamento</string>
      <string name="express_inquiry_and_send">Tracciamento e invio</string>
@@ -367,7 +367,7 @@ Verifica il tuo numero di tracciabilità"</string>
      <string name="express_order_state_failed">Non riuscito</string>
      <string name="express_order_state_ordered">Ordinato</string>
      <string name="express_order_state_picked">Prelevato</string>
-     <string name="express_order_state_picking_failed">Impossible prelevare</string>
+     <string name="express_order_state_picking_failed">Impossibile prelevare</string>
      <string name="express_order_state_processing">In lavorazione</string>
      <string name="express_order_state_signed">Firmato</string>
      <string name="express_order_state_transporting">In fase di trasporto</string>
@@ -713,12 +713,6 @@ Verifica il tuo numero di tracciabilità"</string>
      <string name="payment_clear_records_failed">Impossibile eliminare cronologia pagamenti</string>
      <string name="payment_clear_records_success">Cronologia pagamenti eliminata</string>
      <string name="payment_date_time_picker_dialog_title">Imposta data e ora</string>
-     <string name="payment_dialog_chooser_cancel">Indietro</string>
-     <string name="payment_dialog_chooser_message_footer">Nota: tutte le informazioni di pagamento verranno memorizzate in modo sicuro sul tuo telefono. Non verranno sincronizzate con Mi Cloud o utilizzate in nessun altro modo.</string>
-     <string name="payment_dialog_chooser_message_header">Seleziona sorgente per \"I miei pagamenti\"</string>
-     <string name="payment_dialog_chooser_ok">Abilita</string>
-     <string name="payment_dialog_chooser_title">I miei pagamenti</string>
-     <string name="payment_dialog_chooser_toast">Seleziona almeno una fonte</string>
      <string name="payment_dialog_notice_ok">Fatto</string>
      <string name="payment_dialog_notice_title">Attenzione</string>
      <string name="payment_guide_hint">Raccogli le informazioni di pagamento da Messaggi ed altre app.</string>
@@ -779,7 +773,6 @@ Verifica il tuo numero di tracciabilità"</string>
      <string name="pie_chart_label_catering">Cibo:</string>
      <string name="pie_chart_label_education">Educazione:</string>
      <string name="pie_chart_label_entertainment">Intrattenimento:</string>
-     <string name="pie_chart_label_format">%1$s %2$s%%</string>
      <string name="pie_chart_label_go_dutch">Go Dutch:</string>
      <string name="pie_chart_label_life">Vita:</string>
      <string name="pie_chart_label_medical">Stato di salute:</string>
@@ -788,7 +781,6 @@ Verifica il tuo numero di tracciabilità"</string>
      <string name="pie_chart_label_remain">Rimanente:</string>
      <string name="pie_chart_label_remittance">Trasferito:</string>
      <string name="pie_chart_label_shopping">Shopping:</string>
-     <string name="pie_chart_label_special">%1$s &lt;0.01%%</string>
      <string name="pie_chart_label_spending">Pagamenti:</string>
      <string name="pie_chart_label_telephone_charge">Comunicazioni:</string>
      <string name="pie_chart_label_tenement">Affitto:</string>
@@ -854,7 +846,7 @@ Verifica il tuo numero di tracciabilità"</string>
      <string name="setting_btn_remove">Elimina scheda</string>
      <string name="setting_btn_setting">Impostazioni</string>
      <string name="setting_cards_all_added">Aggiungi tutte le schede</string>
-     <string name="setting_cards_more">Piú schede</string>
+     <string name="setting_cards_more">Più schede</string>
      <string name="setting_common_private">Sicurezza e privacy</string>
      <string name="setting_dialog_cancel">Annulla</string>
      <string name="setting_dialog_quit">Esci</string>
@@ -956,7 +948,7 @@ Verifica il tuo numero di tracciabilità"</string>
      <string name="stock_title">Riserve</string>
      <string name="stock_toast_add_max_count">Non puoi seguire piú di 8 compagnie.</string>
      <string name="stock_web_bottom_btn">Apri</string>
-     <string name="stock_web_bottom_text">Apri il client e visualizza piú info</string>
+     <string name="stock_web_bottom_text">Apri il client e visualizza più info</string>
      <string name="stock_web_lable">Riserve</string>
      <string name="study_parent">Ufficio</string>
      <string name="system_favorite_dialog_link">Sicurezza e privacy</string>
@@ -999,13 +991,21 @@ Verifica il tuo numero di tracciabilità"</string>
      <string name="unusual_weather_open">Abilita avvisi meteo</string>
      <string name="unusual_weather_setting_brief">Ricevi avvisi meteo in caso di condizioni meteorologiche pericolose in arrivo nella tua posizione.</string>
      <string name="unusual_weather_setting_tip">"Le città utilizzate per diramare avvisi possono cambiare nell'app meteo."</string>
+     <string name="upgrade_being">In fase di installazione,sta per essere riavviato</string>
+     <string name="upgrade_find">Nuova versione</string>
+     <string name="upgrade_later">Più tardi</string>
+     <string name="upgrade_log_default">"1.Ottimizza le prestazioni;
+2.Risolve problemi noti"</string>
+     <string name="upgrade_log_subtitle">(Già scaricato con il Wi-Fi)</string>
+     <string name="upgrade_log_title">Informazioni nuova versione</string>
+     <string name="upgrade_now">Installa ora</string>
      <string name="uploads_disabled">Impossibile inviare il file</string>
      <string name="user_id">ID utente: %s</string>
      <string name="user_notice_title">Attenzione</string>
      <string name="walk">A piedi</string>
      <string name="weibo_name">Nuovo post</string>
      <string name="weibo_parent">Weibo</string>
-     <string name="which_transport">"Qual'é il tuo mezzo di trasporto preferito?"</string>
+     <string name="which_transport">"Qual'è il tuo mezzo di trasporto preferito?"</string>
      <string name="widget_fav">preferiti</string>
      <string name="widget_fav_open">Mostra carte preferite</string>
      <string name="widget_fav_setting_brief">Visualizza i tuoi dati preferiti.</string>

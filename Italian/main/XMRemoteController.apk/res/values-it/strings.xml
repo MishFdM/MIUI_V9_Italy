@@ -80,7 +80,6 @@
      <string name="app_uninstall">Disinstalla</string>
      <string name="app_update">Aggiorna</string>
      <string name="app_version">Versione %1$s</string>
-     <string name="appbar_scrolling_view_behavior">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
      <string name="append_ok_key_after_num">Aggiungi tasto di conferma dopo il tasto numerico</string>
      <string name="application">App</string>
      <string name="back">Indietro</string>
@@ -891,7 +890,6 @@ direttamente dalla Schermata di blocco"</string>
      <string name="splash_desc">Controlla ogni cosa con un semplice tocco!</string>
      <string name="start_diagnosis">Prova</string>
      <string name="start_match">Accoppia</string>
-     <string name="status_bar_notification_info_overflow">999+</string>
      <string name="stb">Ricevitore via cavo/satellite</string>
      <string name="stb_power">Set-top box on/off</string>
      <string name="steps">Tentativo #%d</string>

@@ -22,11 +22,14 @@
      <string name="search_the_yellowpage">Cerca nella cartella</string>
      <string name="send_sms">Invia messaggio</string>
      <string name="sharedUserLabel">Applicazioni di base Android</string>
+     <string name="sim_state_changed">SIM modificata</string>
      <string name="third_party_delete_contact_info">"\"%s\" sta cercando di eliminare i tuoi contatti. Questa azione non può essere eseguita da applicazioni di terze parti. Per eliminare i contatti utilizza l'applicazione Contatti in MIUI."</string>
+     <string name="update_accounts_changed">Account modificato</string>
      <string name="upgrade_msg">Aggiornamento del database dei contatti.</string>
      <string name="upgrade_out_of_memory_notification_text">"Tocca per completare l'aggiornamento."</string>
      <string name="upgrade_out_of_memory_notification_ticker">"L'aggiornamento dei contatti richiede più memoria."</string>
      <string name="upgrade_out_of_memory_notification_title">"Aggiornamento dell'archivio dei contatti"</string>
      <string name="video_call">Videochiamata</string>
+     <string name="voicemail_cleanup">Cancella messaggi segreteria</string>
      <string name="voicemail_from_column">"Messaggio vocale da "</string>
 </resources>

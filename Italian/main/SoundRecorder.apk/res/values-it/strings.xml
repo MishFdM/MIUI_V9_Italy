@@ -5,11 +5,9 @@
      <string name="alert_message_delete_record_title">Elimina registrazione</string>
      <string name="app_name">Registratore</string>
      <string name="back">Indietro</string>
-     <string name="btn_clear_records">Elimina registrazioni (%d elemento/i)</string>
      <string name="button_queue_for_wifi">Coda</string>
      <string name="button_start_now">Download</string>
      <string name="call_record">Chiamate registrate</string>
-     <string name="choose_call_records_count">%d elemento/i</string>
      <string name="clear_records">Elimina le registrazioni sincronizzate</string>
      <string name="cloud_record_open">Sincronizza le registrazioni</string>
      <string name="cloud_record_tip">Sincronizza le registrazioni con Mi Cloud.</string>
@@ -26,6 +24,7 @@
      <string name="deleting_message">Eliminazione…</string>
      <string name="details">Dettagli</string>
      <string name="dialog_content_storage_full">A causa della mancanza di spazio di archiviazione, la registrazione è stata interrotta ed è necessario eliminare alcuni file. Procedere ora?</string>
+     <string name="dialog_privacy_revoke_tips">"Dopo la revoca dell'autorizzazione, l'app smetterà di raccogliere dati, e tutti quelli raccolti verranno eliminati dai server. Questo potrebbe rendere l'app virtualmente non utilizzabile. Revocare comunque le autorizzazioni? Per garantire la sicurezza del tuo account, accedi a i.mi.com prima di revocare le autorizzazioni dei servizi Mi Cloud."</string>
      <string name="dialog_title_storage_full">Spazio di archiviazione esaurito. Eliminare alcuni file?</string>
      <string name="duration_format_hour">%so</string>
      <string name="duration_format_minute">%sm</string>
@@ -64,7 +63,6 @@
      <string name="notification_recording_ticker">Telefono silenziato</string>
      <string name="notification_stopped">Registrazione interrotta</string>
      <string name="notification_title_all_paused">Download in pausa</string>
-     <string name="notification_warning">Spazio in esaurimento, restano meno di %d minuti di registrazione</string>
      <string name="path_soundrecorder_setting">Applicazioni sistema/Registratore</string>
      <string name="pause">Pausa</string>
      <string name="playback_delete_records">Elimina la registrazione</string>
