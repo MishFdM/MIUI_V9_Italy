@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <plurals name="NPlaylist_delete_confirm">
-        <item quantity="other">Delete %d playlists?</item>
-        <item quantity="one">Delete %d playlist?</item>
+        <item quantity="other">Eliminare %d playlist?</item>
+        <item quantity="one">Eliminare %d playlist?</item>
      </plurals>
      <plurals name="Nalbum_total_songs">
         <item quantity="other">%d brani totale</item>
@@ -22,8 +22,8 @@
         <item quantity="one">Backup del brano, %1$d rimanente (%2$.1fMB)</item>
      </plurals>
      <plurals name="Ndownload_fee_alert_message">
-        <item quantity="other">"At the request of the copyright owner, %d selected songs can't be downloaded for free. These songs were added to downloads."</item>
-        <item quantity="one">"At the request of the copyright owner, %d selected song can't be downloaded for free. This song was added to downloads."</item>
+        <item quantity="other">"Su richiesta del proprietario dei diritti, %d canzoni selezionate non possono essere scaricate gratuitamente. Queste canzoni erano state aggiunte ai download."</item>
+        <item quantity="one">"Su richiesta del proprietario dei diritti, %d canzone selezionata non può essere scaricate gratuitamente. Questa canzone era stata aggiunta ai download."</item>
      </plurals>
      <plurals name="Nexpired_remind">
         <item quantity="other">%d giorni in scadenza</item>
@@ -122,16 +122,16 @@
         <item quantity="one">%d elemento selezionato</item>
      </plurals>
      <plurals name="notif_title_multiple_downloading">
-        <item quantity="other">Downloading %1$d songs</item>
-        <item quantity="one">Downloading %1$d song</item>
+        <item quantity="other">%1$d canzoni in download</item>
+        <item quantity="one">%1$d canzone in download</item>
      </plurals>
      <plurals name="notification_download_failed_more">
-        <item quantity="other">"Couldn't download %1$d songs"</item>
-        <item quantity="one">"Couldn't download %1$d song"</item>
+        <item quantity="other">Impossibile scaricare %1$d canzoni"</item>
+        <item quantity="one">"Impossibile scaricare %1$d canzone"</item>
      </plurals>
      <plurals name="notification_download_success_more">
-        <item quantity="other">%1$d songs</item>
-        <item quantity="one">%1$d song</item>
+        <item quantity="other">%1$d canzoni</item>
+        <item quantity="one">%1$d canzone</item>
      </plurals>
      <plurals name="reader_count">
         <item quantity="other">%d follower</item>

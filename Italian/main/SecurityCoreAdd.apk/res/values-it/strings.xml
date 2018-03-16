@@ -275,11 +275,11 @@ Se non verrà eseguito l'aggiornamento, le app clonate potrebbero non funzionare
      <string name="spaceSetting">Impostazioni</string>
      <string name="space_create_guide_desc_1">Archivia app e foto in modo sicuro</string>
      <string name="space_create_guide_desc_2">"Spazio completamente separato e completamente pronto all'uso"</string>
-     <string name="space_create_guide_desc_3">Lo spazio Secondario non influisce su alcun aspetto del tuo dispositivo</string>
+     <string name="space_create_guide_desc_3">Lo spazio Secondario non influisce sul normale funzionamento</string>
      <string name="space_create_guide_switchmode_title">Cambia tra i due spazi</string>
      <string name="space_create_guide_title_1">Proteggi la tua privacy</string>
      <string name="space_create_guide_title_2">Crea in ogni momento</string>
-     <string name="space_create_guide_title_3">Assolutamente privo di rischi</string>
+     <string name="space_create_guide_title_3">100% sicuro</string>
      <string name="space_created_success">Creazione Spazio secondario riuscita</string>
      <string name="space_deleted">Questo spazio è stato eliminato</string>
      <string name="space_des_default">Spazio separato con dati crittografati</string>

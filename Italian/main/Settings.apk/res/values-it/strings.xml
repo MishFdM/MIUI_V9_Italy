@@ -45,6 +45,8 @@
      <string name="access_point_names">Nome punto accesso</string>
      <string name="accessibility_autoclick_delay_preference_title">Ritarda prima di eseguire</string>
      <string name="accessibility_autoclick_preference_title">Tocca dopo che il puntatore ha smesso di muoversi</string>
+	 <string name="accessibility_system_title">Sistema</string>
+     <string name="accessibility_display_title">Schermo</string>
      <string name="accessibility_captioning_title">Sottotitoli</string>
      <string name="accessibility_category_personal">Impostazioni profilo personale</string>
      <string name="accessibility_category_work">Account profili di lavoro - %s</string>
@@ -996,8 +998,8 @@ Frequenza Campione"</string>
      <string name="carrier_enabled">Attivazione/disattivazione APN</string>
      <string name="carrier_enabled_summaryOff">APN non attivo</string>
      <string name="carrier_enabled_summaryOn">APN attivo</string>
-     <string name="carrier_show_in_lock_screen">Only show in lock screen</string>
-     <string name="carrier_show_none">Never show carrier name</string>
+     <string name="carrier_show_in_lock_screen">Mostra solo nella schermata di blocco</string>
+     <string name="carrier_show_none">"Non mostrare mai il nome dell'operatore"</string>
      <string name="category_personal">Personale</string>
      <string name="category_work">Lavoro</string>
      <string name="cdma_security_settings_summary">Imposta La mia posizione, blocco schermo, blocco archivio credenziali</string>
@@ -2332,6 +2334,7 @@ Puoi impostare un nuovo blocco schermo sia per il dispositivo che per il tuo pro
      <string name="lock_settings_title">Sicurezza schermo</string>
      <string name="lock_settings_with_fingerprint">Schermata di blocco e password</string>
      <string name="lock_setup">Impostazione completata.</string>
+	 <string name="device_admin_title">Amministrazione dispositivo</string>
      <string name="lock_sounds_enable_title">Suono di blocco schermo</string>
      <string name="lockpassword_cancel_label">Annulla</string>
      <string name="lockpassword_choose_for_second_user">Imposta password per lo Spazio Secondario</string>
@@ -2559,8 +2562,8 @@ Ci sono altri utenti presenti su questo dispositivo.
      <string name="memory_settings_title">Memoria</string>
      <string name="memory_size">Spazio totale</string>
      <string name="memory_summary">%1$s di %2$s utilizzati</string>
-     <string name="memory_system_rom">System storage</string>
-     <string name="memory_system_space">System storage</string>
+     <string name="memory_system_rom">Memoria di sistema</string>
+     <string name="memory_system_space">Memoria di sistema</string>
      <string name="memory_title">Disponibile: %1$s\u0009\u0009Totale: %2$s</string>
      <string name="memory_usage">Memoria occupata</string>
      <string name="memory_usage_apps">Memoria usata dalle app</string>
@@ -2727,7 +2730,7 @@ ed esegui il software."</string>
      <string name="music_title_dolby_control">Dolby Digital Plus</string>
      <string name="music_unsupport_effect_summary">Le cuffie USB non sono supportate</string>
      <string name="musicfx_title">Effetti musicali</string>
-     <string name="mute_music_stream">Mute music stream</string>
+     <string name="mute_music_stream">Silenzia flusso musica</string>
      <string name="mvno_match_data">Valore MVNO</string>
      <string name="mvno_type">Tipo MVNO</string>
      <string name="my_device">Dispositivo</string>
@@ -5179,8 +5182,8 @@ Aggiungi una parola toccando il tasto +."</string>
      <string name="wapi_auto_sel_cert_fail">Non è possibile selezionare i certificati automaticamente. Seleziona un certificato dalla lista e prova a connetterti.</string>
      <string name="wapi_cert_is_not_selected">Seleziona prima il certificato</string>
      <string name="wapi_cert_manage_summary">Aggiungi o elimina il certificato WAPI</string>
-     <string name="wapi_cert_manage_title">WAPI certificate management</string>
-     <string name="wapi_cert_select">WAPI certificate</string>
+     <string name="wapi_cert_manage_title">Gestione certificato WAPI</string>
+     <string name="wapi_cert_select">Certificato WAPI</string>
      <string name="wapi_no">no</string>
      <string name="wapi_no_vaild_cert">Nessun certificato disponibile, installare adesso?</string>
      <string name="wapi_password_empty">Inserisci la password</string>

@@ -232,7 +232,7 @@
      <string name="app_manager_system_mobile_disable">Disattiva i dati</string>
      <string name="app_manager_title">Gestione app</string>
      <string name="app_manager_total_size">Totale</string>
-     <string name="app_manager_uninstall">Uninstall</string>
+     <string name="app_manager_uninstall">Disinstalla</string>
      <string name="app_manager_uninstall_protected_dlg_msg">La disinstallazione di app di sistema può impedire il corretto funzionamento di alcuni elementi di MIUI. Disisntallare comunque?</string>
      <string name="app_manager_uninstall_protected_dlg_title">Disinstallazione app di sistema</string>
      <string name="app_manager_uninstall_with_xspace_app_dlg_msg">"L'app clonata corrispondente verrà eliminata insieme ai suoi dati."</string>

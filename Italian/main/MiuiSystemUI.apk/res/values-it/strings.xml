@@ -444,9 +444,9 @@ Utilizza solo l'alimentatore in dotazione."</string>
      <string name="long_screenshot_stop">Interrompi</string>
      <string name="long_screenshot_top_msg">Screenshot lungo in esecuzione…</string>
      <string name="long_screenshot_top_msg_manual">Ritaglia lo screenshot e tocca il tasto per terminare</string>
-     <string name="low_temperature_button_ok">Got it</string>
-     <string name="low_temperature_warning_message">The temperature is too low,the phone may shut down at any time, please save the data.</string>
-     <string name="low_temperature_warning_title">Shutdown warning</string>
+     <string name="low_temperature_button_ok">Ho capito</string>
+     <string name="low_temperature_warning_message">TLA temperatura è troppo bassa,il telefono potrebbe spegnersi in qualsiasi momento, salva i dati.</string>
+     <string name="low_temperature_warning_title">Avviso spegnimento</string>
      <string name="managed_profile_foreground_toast">Stai utilizzando il tuo profilo di lavoro</string>
      <string name="managed_user_title">Tutte le app attive</string>
      <string name="mdb_entering">Avvio</string>
@@ -467,7 +467,7 @@ Utilizza solo l'alimentatore in dotazione."</string>
      <string name="mock_location_app">Seleziona app per false localizzazioni</string>
      <string name="mock_location_app_not_set">Nessuna app impostata su false localizzazioni</string>
      <string name="mock_location_app_set">App con false localizzazioni: %1$s</string>
-     <string name="monitoring_button_view_policies">View Policies</string>
+     <string name="monitoring_button_view_policies">"Leggi l'Informativa"</string>
      <string name="monitoring_description_ca_certificate">A certificate authority is installed on this device. Your secure network traffic may be monitored or modified.</string>
      <string name="monitoring_description_managed_profile_ca_certificate">Your organization installed a certificate authority in your work profile. Your secure network traffic may be monitored or modified.</string>
      <string name="monitoring_description_managed_profile_named_vpn">Your work profile is connected to %1$s, which can monitor your network activity, including emails, apps, and websites.</string>
@@ -486,9 +486,9 @@ For more information, contact your admin."</string>
      <string name="monitoring_description_named_vpn">"You're connected to %1$s, which can monitor your network activity, including emails, apps, and websites."</string>
      <string name="monitoring_description_personal_profile_named_vpn">Your personal profile is connected to %1$s, which can monitor your network activity, including emails, apps, and websites.</string>
      <string name="monitoring_description_two_named_vpns">"You're connected to %1$s and %2$s, which can monitor your network activity, including emails, apps, and websites."</string>
-     <string name="monitoring_description_vpn_settings">Open VPN Settings</string>
+     <string name="monitoring_description_vpn_settings">Impostazioni VPN aperta</string>
      <string name="monitoring_description_vpn_settings_separator">" "</string>
-     <string name="monitoring_subtitle_ca_certificate">CA certificates</string>
+     <string name="monitoring_subtitle_ca_certificate">Certificati CA</string>
      <string name="monitoring_subtitle_network_logging">Network logging</string>
      <string name="monitoring_subtitle_vpn">VPN</string>
      <string name="monitoring_title">Network monitoring</string>
@@ -609,9 +609,9 @@ For more information, contact your admin."</string>
      <string name="recents_stack_action_button_label">Cancella tutto</string>
      <string name="reject_call">Rifiuta la chiamata</string>
      <string name="remaining_length_format">%1$s rimanenti</string>
-     <string name="retail_demo_reset_message">Enter password to perform factory reset in demo mode</string>
-     <string name="retail_demo_reset_next">Next</string>
-     <string name="retail_demo_reset_title">Password required</string>
+     <string name="retail_demo_reset_message">Inserisci la password per eseguire un ripristino di fabbrica in modalità demo</string>
+     <string name="retail_demo_reset_next">Avanti</string>
+     <string name="retail_demo_reset_title">Password richiesta</string>
      <string name="return_to_incall_screen">Premi per tornare alla chiamata</string>
      <string name="running_process_item_user_label">Utente: %1$s</string>
      <string name="runningservices_settings_summary">Visualizza e controlla i servizi attualmente in esecuzione</string>
