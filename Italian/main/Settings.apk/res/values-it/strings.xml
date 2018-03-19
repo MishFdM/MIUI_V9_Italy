@@ -3555,6 +3555,8 @@ Questa impostazione influisce su tutti gli utenti di questo dispositivo."</strin
      <string name="runningservicedetails_stop_dlg_text">Se interrompi questo servizio, potrebbero verificarsi anomalie in alcune funzioni del dispositivo fino al riavvio del dispositivo.</string>
      <string name="runningservicedetails_stop_dlg_title">Interrompere il servizio di sistema?</string>
      <string name="runningservices_settings_summary">Visualizza e controlla i servizi attualmente in esecuzione</string>
+	 <string name="enable_webview_multiprocess">Multiprocessi WebView</string>
+     <string name="enable_webview_multiprocess_desc">Avvia il redender WebView separatamente</string>
      <string name="runningservices_settings_title">Servizi in esecuzione</string>
      <string name="runtime_permissions_summary_no_permissions_granted">Nessun permesso rilasciato</string>
      <string name="runtime_permissions_summary_no_permissions_requested">Nessun permesso richiesto</string>
