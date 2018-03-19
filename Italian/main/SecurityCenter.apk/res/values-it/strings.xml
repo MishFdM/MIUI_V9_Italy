@@ -484,7 +484,7 @@ se se dimenticata"</string>
      <string name="card_main_deepclean_wechat_action">Cancella</string>
      <string name="card_main_deepclean_wechat_summary">Cancella cache WeChat per liberare spazio di archiviazione</string>
      <string name="card_main_deepclean_wechat_title">Cache WeChat</string>
-     <string name="card_main_gamebooster_title">Accelerazione velocità di gioco</string>
+     <string name="card_main_gamebooster_title">Game Speed Booster</string>
      <string name="card_main_hbassistant_summary">Utilizza questo strumento per ottimizzare la velocità dei giochi</string>
      <string name="card_main_hbassistant_title">Game Booster</string>
      <string name="card_main_monthreport_action">Visualizza</string>
@@ -760,7 +760,7 @@ Il tuo operatore potrebbe addebitarti costi aggiuntivi se attivi di nuovo la ret
      <string name="fw_oversea">Blocca chiamate internazionali</string>
      <string name="fw_oversea_content">Blocca chiamate da numeri di telefono stranieri</string>
      <string name="game_ad_recommendation">Stanno giocando tutti</string>
-     <string name="game_anti_disturb_msg">Game DND</string>
+     <string name="game_anti_disturb_msg">Modalità DND</string>
      <string name="game_booster">Game Speed Booster</string>
      <string name="game_booster_close">Game Speed Booster disattivato</string>
      <string name="game_booster_intro">Informazioni su Game Speed Booster</string>
@@ -819,7 +819,7 @@ Il tuo operatore potrebbe addebitarti costi aggiuntivi se attivi di nuovo la ret
      <string name="gs_game_shortcut">"Goditi un'esperienza di gioco più fluida"</string>
      <string name="gs_only_self_start_for_list">Limita i processi in background per risparmiare batteria da utilizzare per il gioco</string>
      <string name="gs_open_game_booster">Incrementa la velocità</string>
-     <string name="gs_performance_mode">Performance mode</string>
+     <string name="gs_performance_mode">Modalità prestazioni</string>
      <string name="gs_performance_mode_detail">"Aumenta l'utilizzo della CPU per garantire prestazioni migliori"</string>
      <string name="guide_get_operator_error">"Operatore sbagliato?"</string>
      <string name="guide_operator_text">"Il tuo operatore: "</string>
@@ -1839,10 +1839,10 @@ Questa attività riduce la durata della batteria."</string>
      <string name="st_title_show_antispam_notification">Notifiche lista blocco</string>
      <string name="st_title_sim_card">%1$s-SIM %2$s</string>
      <string name="st_title_whitelist_numbers">Eccezioni</string>
-     <string name="start">Start</string>
+     <string name="start">Inizia</string>
      <string name="start_diagnostic_botton">Comincia</string>
      <string name="start_downloading_app">Avvio download: %1$s</string>
-     <string name="start_game">Start</string>
+     <string name="start_game">Inizia</string>
      <string name="status_bar_network_flow_content">Oggi: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Rimasti: %2$s</string>
      <string name="status_bar_network_flow_content_not_setting">Oggi: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Questo mese: %2$s</string>
      <string name="status_bar_network_flow_exceed_content">Oggi: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Superamento piano: &lt;font color=%2$s&gt;%3$s&lt;/font&gt;</string>
