@@ -1221,8 +1221,8 @@ Per navigare correttamente devi essere collegato ad Internet. Per poter utilizza
      <string name="voice_open_permission_xunfei">Vai in Impostazioni attiva i permessi vocali per le Impostazioni Vocali</string>
      <string name="voice_search_permission">La ricerca vocale richiede i permessi adeguati, vai nelle impostazioni del Browser per aprire i permessi vocali</string>
      <string name="voice_semantic_analysis">Analisi semantica dopo la connessione</string>
-     <string name="voice_start_description">Start</string>
-     <string name="voice_stop_description">Stop</string>
+     <string name="voice_start_description">Inizia</string>
+     <string name="voice_stop_description">Ferma</string>
      <string name="voice_sub_title">"Non sai cosa dire? Prova Apri mi.com!"</string>
      <string name="voice_title">Pronuncia il tuo comando…</string>
      <string name="voice_title_distinguish">Elaborazione…</string>
