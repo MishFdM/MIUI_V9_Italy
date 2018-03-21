@@ -145,12 +145,12 @@
         <item quantity="one">%d app può leggere le notifiche</item>
      </plurals>
      <plurals name="manage_trust_agents_summary_on">
-        <item quantity="other">%d agente di attendibilita' attivo</item>
-        <item quantity="one">1 agente di attendibilita' attivo</item>
+        <item quantity="other">%d agente di attendibilità attivo</item>
+        <item quantity="one">1 agente di attendibilità attivo</item>
      </plurals>
      <plurals name="master_clear_with_account_summary">
         <item quantity="other">%1$d account verranno reimpostati</item>
-        <item quantity="one">1 account verra' reimpostato</item>
+        <item quantity="one">1 account verrà reimpostato</item>
      </plurals>
      <plurals name="memory_usage_apps_summary">
         <item quantity="other">%1$d app hanno utilizzato la memoria nelle ultime %2$s</item>
@@ -226,7 +226,7 @@
      </plurals>
      <plurals name="special_access_summary">
         <item quantity="other">%d app possono utilizzare dati senza restrizioni</item>
-        <item quantity="one">Una app puo' utilizzare dati senza restrizioni</item>
+        <item quantity="one">Una app può utilizzare dati senza restrizioni</item>
      </plurals>
      <plurals name="ssl_ca_cert_dialog_title">
         <item quantity="other">Accetta o rimuovi i certificati</item>
