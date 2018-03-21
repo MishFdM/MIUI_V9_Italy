@@ -2091,7 +2091,7 @@ Quando attivi il backup automatico, il dispositivo e i dati delle applicazioni v
      <string name="key_gesture_function_preview">Anteprima gesture e tasti</string>
      <string name="key_gesture_function_shortcut">Collegamento funzione</string>
      <string name="key_none">Nessuna</string>
-     <string name="key_operation_diagram">Operation diagram</string>
+     <string name="key_operation_diagram">Diagramma operazione</string>
      <string name="key_position_cat">Posizione tasti</string>
      <string name="key_settings">Tasti</string>
      <string name="key_settings_title">Tasti</string>
@@ -3324,7 +3324,7 @@ ed esegui il software."</string>
      <string name="profile_section_header">Notifiche di lavoro</string>
      <string name="progress_scanning">Ricerca</string>
      <string name="provider_label">Sottoscrizioni push</string>
-     <string name="provision_activation">Active</string>
+     <string name="provision_activation">Attivo</string>
      <string name="provision_back">Indietro</string>
      <string name="provision_next">Avanti</string>
      <string name="provision_page_layout_confirm_message">Il dispositivo deve essere riavviato per applicare queste modifiche.</string>

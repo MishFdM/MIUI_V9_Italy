@@ -5,7 +5,7 @@
      <string name="VideoView_error_text_unknown">Impossibile riprodurre il video.</string>
      <string name="VideoView_error_title">Problema video</string>
      <string name="accessibility_image">Immagine</string>
-     <string name="accessibility_play">Play</string>
+     <string name="accessibility_play">Riproduci</string>
      <string name="accessibility_video">Video</string>
      <string name="active_xiaomi_account">Attiva</string>
      <string name="active_xiaomi_account_title">Attiva Mi Account</string>

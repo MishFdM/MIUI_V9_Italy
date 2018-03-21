@@ -501,7 +501,7 @@ For more information, contact your admin."</string>
      <string name="no_application">Niente</string>
      <string name="no_multi_window_app">Nessuna app funzionante con la modalità a schermo diviso.</string>
      <string name="no_notification_tips">Nessuna notifica</string>
-     <string name="no_sim_card">No SIM card</string>
+     <string name="no_sim_card">Nessuna scheda SIM</string>
      <string name="no_weather_description">Recupero info meteo</string>
      <string name="not_support_multi_window">Questa applicazione non supporta la modalità a schermo diviso</string>
      <string name="notch_status_bar_date_format_12">EEEE, d MMMM</string>
@@ -560,12 +560,12 @@ For more information, contact your admin."</string>
      <string name="power_remaining_charging_duration_only">%1$s rimanenti fino alla carica completa</string>
      <string name="power_remaining_duration_only">Appross. %1$s rimanenti</string>
      <string name="power_remaining_duration_only_short">%1$s rimanenti</string>
-     <string name="prompt_danger">Risk</string>
-     <string name="prompt_detecting">Detecting</string>
-     <string name="prompt_failure">Error</string>
-     <string name="prompt_return_to_split">Split screen</string>
-     <string name="prompt_safe">Safe</string>
-     <string name="prompt_unknown">Unknown</string>
+     <string name="prompt_danger">Rischio</string>
+     <string name="prompt_detecting">Rilevamento</string>
+     <string name="prompt_failure">Errore</string>
+     <string name="prompt_return_to_split">Schermo diviso</string>
+     <string name="prompt_safe">Sicuro</string>
+     <string name="prompt_unknown">Sconosciuto</string>
      <string name="quick_settings_bluetooth_detail_empty_text">Nessun dispositivo abbinato disponibile</string>
      <string name="quick_settings_bluetooth_label">Bluetooth</string>
      <string name="quick_settings_connect_success">Connesso</string>
