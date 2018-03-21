@@ -77,6 +77,7 @@
      <string name="incorrect_pukcode">PUK non corretto</string>
      <string name="input_password_after_boot_msg">Inserisci la password per sbloccare il dispositivo</string>
      <string name="input_password_after_boot_msg_can_not_switch_when_calling">Impossibile cambiare spazio durante una chiamata</string>
+     <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">"Can't switch between spaces when green guard active"</string>
      <string name="input_password_after_boot_msg_must_enter_owner_space">Devi inserire lo spazio primario dopo che il dispositivo è stato riavviato</string>
      <string name="input_password_handle_sdcard_fs">Impossibile accedere allo spazio secondario dalla lockscreen. Inserisci dallo spazio Primario.</string>
      <string name="input_password_hint_text">Inserisci password</string>
