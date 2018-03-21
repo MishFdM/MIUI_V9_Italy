@@ -177,8 +177,8 @@
         <item quantity="one">%d permesso concesso</item>
      </plurals>
      <plurals name="print_jobs_summary">
-        <item quantity="other">%1$d print jobs</item>
-        <item quantity="one">1 print job</item>
+        <item quantity="other">%1$d stampe in coda</item>
+        <item quantity="one">1 stampa in coda</item>
      </plurals>
      <plurals name="print_settings_summary">
         <item quantity="other">%1$d print services on</item>
