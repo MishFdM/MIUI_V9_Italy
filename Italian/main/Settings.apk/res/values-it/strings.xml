@@ -46,7 +46,7 @@
      <string name="accessibility_autoclick_delay_preference_title">Ritarda prima di eseguire</string>
      <string name="accessibility_autoclick_preference_title">Tocca dopo che il puntatore ha smesso di muoversi</string>
 	 <string name="accessibility_system_title">Sistema</string>
-     <string name="accessibility_display_title">Schermo</string>
+	 <string name="accessibility_display_title">Schermo</string>
      <string name="accessibility_captioning_title">Sottotitoli</string>
      <string name="accessibility_category_personal">Impostazioni profilo personale</string>
      <string name="accessibility_category_work">Account profili di lavoro - %s</string>
@@ -101,7 +101,7 @@ Dopo avere aumentato lo zoom puoi:
 <ul><li>Eseguire una panoramica: trascina due o più dita sullo schermo.</li>
 <li>Regolare il livello di zoom: unisci due o più dita come per fare un pizzicotto o allontanale.</li></ul>
 
-Puoi anche ingrandire temporaneamente l'area su cui hai il dito toccando tre volte e tenendo premuto. Nello stato ingrandito puoi trascinare il dito per esaminare parti diverse dello schermo. Solleva il dito per tornare allo stato precedente.
+Puoi anche ingrandire temporaneamente l\'area su cui hai il dito toccando tre volte e tenendo premuto. Nello stato ingrandito puoi trascinare il dito per esaminare parti diverse dello schermo. Solleva il dito per tornare allo stato precedente.
 
 Nota: il tocco triplo per ingrandire funziona ovunque tranne che per la tastiera e la barra di navigazione."</string>
      <string name="accessibility_screen_magnification_title">Gesti di ingrandimento</string>
@@ -1357,7 +1357,6 @@ avviso"</string>
      <string name="debug_networking_category">Rete</string>
      <string name="debug_view_attributes">Abilita visualizzazione ispezione attributi</string>
      <string name="decline_remote_bugreport_action">Rifiuta</string>
-     <string name="defalut_launcher_title">Launcher predefinito</string>
      <string name="default_admin_support_msg">"Questa azione è disattivata. Contatta l'amministratore della tua organizzazione per maggiori informazioni."</string>
      <string name="default_app">(Predefinita)</string>
      <string name="default_apps_title">App predefinite</string>
@@ -1637,6 +1636,8 @@ avviso"</string>
      <string name="enable_terminal_summary">"Abilita l'app Terminale che offre l'accesso alla shell locale"</string>
      <string name="enable_terminal_title">Terminale locale</string>
      <string name="enable_text">Attiva</string>
+     <string name="enable_webview_multiprocess">Multiprocessi WebView</string>
+     <string name="enable_webview_multiprocess_desc">Avvia il redender WebView separatamente</string>
      <string name="enable_wifi_display">Abilita schermo wireless</string>
      <string name="enabled_authorised_apps_summary">La tua autorizzazione verrà revocata dopo aver modificato le app individuali.</string>
      <string name="enabled_authorised_apps_title">Autorizzazione concessa</string>
@@ -2090,6 +2091,7 @@ Quando attivi il backup automatico, il dispositivo e i dati delle applicazioni v
      <string name="key_gesture_function_preview">Anteprima gesture e tasti</string>
      <string name="key_gesture_function_shortcut">Collegamento funzione</string>
      <string name="key_none">Nessuna</string>
+     <string name="key_operation_diagram">Operation diagram</string>
      <string name="key_position_cat">Posizione tasti</string>
      <string name="key_settings">Tasti</string>
      <string name="key_settings_title">Tasti</string>
@@ -2180,7 +2182,6 @@ Quando attivi il backup automatico, il dispositivo e i dati delle applicazioni v
      <string name="launch_google_search">Apri Google Search</string>
      <string name="launch_recents">Apri Recenti</string>
      <string name="launch_voice_assistant">Lancia Assistente Vocale</string>
-     <string name="launcher_auto_fill_empty_title">Riempi automaticamente gli spazi vuoti</string>
      <string name="launcher_title">Launcher</string>
      <string name="launching_cit">Avvio Rilevamento Hardware, attendere\u2026</string>
      <string name="launching_pho">Caricamento informazioni dispositivo, attendere\u2026</string>
@@ -2295,7 +2296,6 @@ Quando attivi il backup automatico, il dispositivo e i dati delle applicazioni v
      <string name="lock_profile_wipe_warning_content_pattern">Se inserisci una sequenza di lavoro errata a questo tentativo, il tuo profilo di lavoro e i dati associati verranno eliminati dal dispositivo.</string>
      <string name="lock_profile_wipe_warning_content_pin">Se inserisci un PIN di lavoro errata a questo tentativo, il tuo profilo di lavoro e i dati associati verranno eliminati dal dispositivo.</string>
      <string name="lock_profile_wipe_warning_title">Ultimo tentativo</string>
-     <string name="lock_screen_cells_title">Blocca spazi vuoti icone</string>
      <string name="lock_screen_intro_skip_dialog_text">Le funzioni di protezione del dispositivo non verranno attivate. Non potrai impedire che gli altri utilizzino questo telefono in caso di smarrimento o furto.</string>
      <string name="lock_screen_intro_skip_dialog_text_frp">"Le funzioni di protezione del dispositivo non verranno attivate. Non potrai impedire che gli altri utilizzino questo telefono in caso di smarrimento, furto o cancellazione
 	 ."</string>
@@ -2618,7 +2618,6 @@ Ci sono altri utenti presenti su questo dispositivo.
      <string name="miui_lab_taplus_desc">Tieni premuto i collegamenti di avvio</string>
      <string name="miui_lab_taplus_title">Avvio app</string>
      <string name="miui_master_clear_summary">Elimina tutti i dati sul telefono</string>
-     <string name="miui_screen_config_title">Configurazione schermo launcher MIUI</string>
      <string name="miui_updater">Aggiornamenti</string>
      <string name="mms_breathing_light_color_title">Colore LED messaggi</string>
      <string name="mms_breathing_light_freq_title">Frequenza illuminazione LED messaggi</string>
@@ -2979,11 +2978,6 @@ ed esegui il software."</string>
      <string name="open_demo_mode_warning_message">"Quando la modalità Demo è attiva, l'orologio nella barra di stato si fermerà, la batteria e le icone di segnale verranno mostrate come piene. Puoi disattivare la funzione Demo o riavviare il dispositivo per modificare questa impostazione."</string>
      <string name="open_miui_optimization_title">Attiva ottimizzazione MIUI</string>
      <string name="open_miui_optimization_warning_message">Il dispositivo verrà riavviato per applicare questa modifica.</string>
-     <string name="open_personal_assistant_dialog_btn_cancel">Annulla</string>
-     <string name="open_personal_assistant_dialog_btn_confirm">OK</string>
-     <string name="open_personal_assistant_dialog_desc">Non potrai utilizzare Assistente Smart e ricevere i suoi aggiornamenti. Disattivare adesso?.</string>
-     <string name="open_personal_assistant_dialog_title">Disattiva Assistente Smart</string>
-     <string name="open_personal_assistant_title">Attiva Assistente Smart</string>
      <string name="open_wifi_connect_summary">Tocca per gestire</string>
      <string name="open_wifi_connect_title">Connettiti alla rete aperta %1$s</string>
      <string name="opening_paragraph_delete_profile_unknown_company">Questo profilo di lavoro è gestito da:</string>
@@ -3330,6 +3324,7 @@ ed esegui il software."</string>
      <string name="profile_section_header">Notifiche di lavoro</string>
      <string name="progress_scanning">Ricerca</string>
      <string name="provider_label">Sottoscrizioni push</string>
+     <string name="provision_activation">Active</string>
      <string name="provision_back">Indietro</string>
      <string name="provision_next">Avanti</string>
      <string name="provision_page_layout_confirm_message">Il dispositivo deve essere riavviato per applicare queste modifiche.</string>
@@ -3438,7 +3433,6 @@ Interfaccia UT: %5$s"</string>
      <string name="receiver_clean">Libera spazio</string>
      <string name="recent_location_requests_summary">"Le seguenti app richiedono l'accesso alla tua posizione"</string>
      <string name="recent_location_requests_title">Accesso alla posizione</string>
-     <string name="recents_config_title">Impostazioni pannello app recenti</string>
      <string name="recommend_item_1">Custodie</string>
      <string name="recommend_item_2">Mi Band</string>
      <string name="recommend_item_3">Power bank</string>
@@ -3555,8 +3549,6 @@ Questa impostazione influisce su tutti gli utenti di questo dispositivo."</strin
      <string name="runningservicedetails_stop_dlg_text">Se interrompi questo servizio, potrebbero verificarsi anomalie in alcune funzioni del dispositivo fino al riavvio del dispositivo.</string>
      <string name="runningservicedetails_stop_dlg_title">Interrompere il servizio di sistema?</string>
      <string name="runningservices_settings_summary">Visualizza e controlla i servizi attualmente in esecuzione</string>
-	 <string name="enable_webview_multiprocess">Multiprocessi WebView</string>
-     <string name="enable_webview_multiprocess_desc">Avvia il redender WebView separatamente</string>
      <string name="runningservices_settings_title">Servizi in esecuzione</string>
      <string name="runtime_permissions_summary_no_permissions_granted">Nessun permesso rilasciato</string>
      <string name="runtime_permissions_summary_no_permissions_requested">Nessun permesso richiesto</string>
@@ -3569,7 +3561,6 @@ Questa impostazione influisce su tutti gli utenti di questo dispositivo."</strin
      <string name="screen">Schermo</string>
      <string name="screen_button">Tasti sullo schermo</string>
      <string name="screen_button_tips">Scorri in basso per nascondere i tasti sullo schermo</string>
-     <string name="screen_cells_config_title">Configurazione spazio schermo</string>
      <string name="screen_color_and_optimize">Colori e contrasto</string>
      <string name="screen_color_and_optimize_disabled">Impossibile regolare la temperatura del colore in modalità Lettura</string>
      <string name="screen_color_temperature">Temperatura colore</string>
@@ -4083,7 +4074,6 @@ Nota: Non puoi utilizzare la tua impronta per sbloccare questo dispositivo. Per 
      <string name="show_ime">Mostra tastiera virtuale</string>
      <string name="show_ime_summary">Tienilo sullo schermo mentre la tastiera fisica è attiva</string>
      <string name="show_magnifier_when_input">"Lente d'ingrandimento testo"</string>
-     <string name="show_mem_info_title">Mostra info memoria</string>
      <string name="show_menu">Mostra menù</string>
      <string name="show_non_rect_clip">Debug operazioni ritaglio non rettangolare</string>
      <string name="show_notification_channel_warnings">Mostra avvisi canale notifiche</string>
@@ -4620,7 +4610,6 @@ L'approccio di Google alla sincronizzazione di dati per consentirti l'accesso ai
      <string name="title_font_current2">Carattere di sistema</string>
      <string name="title_font_size">Dimensioni carattere</string>
      <string name="title_hdmi_color_calibration">Impostazione predefinita correzione colore</string>
-     <string name="title_jeejen">Home Jeejen</string>
      <string name="title_layout_current">Seleziona dimensione carattere</string>
      <string name="title_layout_current2">Dimensione carattere</string>
      <string name="toast_lockscreen_glogin_empty_password">Inserisci la password</string>
