@@ -2091,7 +2091,7 @@ Quando attivi il backup automatico, il dispositivo e i dati delle applicazioni v
      <string name="key_gesture_function_preview">Anteprima gesture e tasti</string>
      <string name="key_gesture_function_shortcut">Collegamento funzione</string>
      <string name="key_none">Nessuna</string>
-     <string name="key_operation_diagram">Operation diagram</string>
+     <string name="key_operation_diagram">Diagramma operazione</string>
      <string name="key_position_cat">Posizione tasti</string>
      <string name="key_settings">Tasti</string>
      <string name="key_settings_title">Tasti</string>
@@ -3324,7 +3324,7 @@ ed esegui il software."</string>
      <string name="profile_section_header">Notifiche di lavoro</string>
      <string name="progress_scanning">Ricerca</string>
      <string name="provider_label">Sottoscrizioni push</string>
-     <string name="provision_activation">Active</string>
+     <string name="provision_activation">Attivo</string>
      <string name="provision_back">Indietro</string>
      <string name="provision_next">Avanti</string>
      <string name="provision_page_layout_confirm_message">Il dispositivo deve essere riavviato per applicare queste modifiche.</string>
@@ -3549,8 +3549,6 @@ Questa impostazione influisce su tutti gli utenti di questo dispositivo."</strin
      <string name="runningservicedetails_stop_dlg_text">Se interrompi questo servizio, potrebbero verificarsi anomalie in alcune funzioni del dispositivo fino al riavvio del dispositivo.</string>
      <string name="runningservicedetails_stop_dlg_title">Interrompere il servizio di sistema?</string>
      <string name="runningservices_settings_summary">Visualizza e controlla i servizi attualmente in esecuzione</string>
-	 <string name="enable_webview_multiprocess">Multiprocessi WebView</string>
-	 <string name="enable_webview_multiprocess_desc">Avvia il redender WebView separatamente</string>
      <string name="runningservices_settings_title">Servizi in esecuzione</string>
      <string name="runtime_permissions_summary_no_permissions_granted">Nessun permesso rilasciato</string>
      <string name="runtime_permissions_summary_no_permissions_requested">Nessun permesso richiesto</string>

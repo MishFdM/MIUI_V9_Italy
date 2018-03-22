@@ -876,7 +876,7 @@ Scatta più foto ai tuoi amici!"</string>
      <string name="finish_fill_baby">Crea</string>
      <string name="flash_off">Niente flash</string>
      <string name="flash_on">Usa flash</string>
-     <string name="gallery_setting">Galleria</string>
+     <string name="gallery_setting">Impostazioni</string>
      <string name="gallery_sync_disable_toast">La funzione di sincronizzazione della galleria non è attiva</string>
      <string name="get_album_info_in_process">Richiesta informazioni album condiviso, attendere…</string>
      <string name="gif_tip">GIF</string>
@@ -1367,9 +1367,9 @@ per personalizzare la Galleria"</string>
      <string name="sticker_spring">Spring</string>
      <string name="sticker_summer">Estate</string>
      <string name="sticker_words">Parole</string>
-     <string name="storage_description_primary">Internal storage</string>
-     <string name="storage_description_sdcard">SD card</string>
-     <string name="storage_description_xspace">Dual apps data</string>
+     <string name="storage_description_primary">Archivio interno</string>
+     <string name="storage_description_sdcard">Scheda SD</string>
+     <string name="storage_description_xspace">Dati app clonate</string>
      <string name="storage_no_space">Spazio insufficiente</string>
      <string name="sub_discard_confirm_message">Salvare le modifiche?</string>
      <string name="sub_discard_negative_btn">Annulla</string>
@@ -1506,7 +1506,7 @@ per personalizzare la Galleria"</string>
      <string name="video_editor_unsupport_audio_file">File audio non supportato</string>
      <string name="video_err">Impossibile riprodurre il video.</string>
      <string name="video_not_exist">Video inesistente</string>
-     <string name="view_by_gallery_tip">Galleria MIUI</string>
+     <string name="view_by_gallery_tip">Galleria</string>
      <string name="view_face_album">Mostra album</string>
      <string name="view_queuing_status">Verifica stato</string>
      <string name="welcome_to_micloud">Benvenuto in Mi Cloud</string>

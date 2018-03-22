@@ -21,8 +21,8 @@
         <item quantity="one">Ritardo molto breve (%1$d ms)</item>
      </plurals>
      <plurals name="app_notification_listing_summary_others">
-        <item quantity="other">Turned off for %d apps</item>
-        <item quantity="one">Turned off for %d app</item>
+        <item quantity="other">Disattivato per %d app</item>
+        <item quantity="one">Disattivato per %d app</item>
      </plurals>
      <plurals name="auto_disable_screenbuttons_disabled_header_title">
         <item quantity="other">Non disattivare mai per %d app</item>
@@ -45,52 +45,52 @@
         <item quantity="one">"Permesso concesso a %1$d app per l'uso di dati non controllati quando il Risparmio Dati è attivo"</item>
      </plurals>
      <plurals name="default_camera_app_title">
-        <item quantity="other">Camera apps</item>
-        <item quantity="one">Camera app</item>
+        <item quantity="other">App fotocamera</item>
+        <item quantity="one">App fotocamera</item>
      </plurals>
      <plurals name="default_email_app_title">
-        <item quantity="other">Email client apps</item>
-        <item quantity="one">Email client app</item>
+        <item quantity="other">App client Email</item>
+        <item quantity="one">App client Email</item>
      </plurals>
      <plurals name="default_phone_app_title">
-        <item quantity="other">Phone apps</item>
-        <item quantity="one">Phone app</item>
+        <item quantity="other">App telefono</item>
+        <item quantity="one">App telefono</item>
      </plurals>
      <plurals name="deleted_channels">
-        <item quantity="other">%d categories deleted</item>
-        <item quantity="one">%d category deleted</item>
+        <item quantity="other">%d categorie rimosse</item>
+        <item quantity="one">%d categoria rimossa</item>
      </plurals>
      <plurals name="dlg_remove_locales_title">
         <item quantity="other">Rimuovere le lingue selezionate?</item>
         <item quantity="one">Rimuovere la lingua selezionata?</item>
      </plurals>
      <plurals name="domain_urls_apps_summary_on">
-        <item quantity="other">%d apps opening supported links</item>
-        <item quantity="one">One app opening supported links</item>
+        <item quantity="other">%d app aprono link supportati</item>
+        <item quantity="one">Una app apre link supportati</item>
      </plurals>
      <plurals name="enterprise_privacy_number_ca_certs">
-        <item quantity="other">Minimum %d CA certificates</item>
-        <item quantity="one">Minimum %d CA certificate</item>
+        <item quantity="other">Minimo %d certificati CA</item>
+        <item quantity="one">Minimo %d certificato CA</item>
      </plurals>
      <plurals name="enterprise_privacy_number_failed_password_wipe">
-        <item quantity="other">%d attempts</item>
-        <item quantity="one">%d attempt</item>
+        <item quantity="other">%d tentativi</item>
+        <item quantity="one">%d tentativo</item>
      </plurals>
      <plurals name="enterprise_privacy_number_packages">
-        <item quantity="other">%d apps</item>
+        <item quantity="other">%d app</item>
         <item quantity="one">%d app</item>
      </plurals>
      <plurals name="enterprise_privacy_number_packages_lower_bound">
-        <item quantity="other">Minimum %d apps</item>
-        <item quantity="one">Minimum %d app</item>
+        <item quantity="other">Minimo %d app</item>
+        <item quantity="one">Minimo %d app</item>
      </plurals>
      <plurals name="free_wifi_connected_count">
         <item quantity="other">%1$d persone collegate</item>
         <item quantity="one">%1$d persona collegata</item>
      </plurals>
      <plurals name="hours">
-        <item quantity="other">%s hours</item>
-        <item quantity="one">1 hour</item>
+        <item quantity="other">%s ore</item>
+        <item quantity="one">1 ora</item>
      </plurals>
      <plurals name="lockpassword_password_requires_letters">
         <item quantity="other">La password deve contenere almeno %d lettere.</item>
@@ -145,12 +145,12 @@
         <item quantity="one">%d app può leggere le notifiche</item>
      </plurals>
      <plurals name="manage_trust_agents_summary_on">
-        <item quantity="other">%d active trust agents</item>
-        <item quantity="one">1 active trust agent</item>
+        <item quantity="other">%d agente di attendibilità attivo</item>
+        <item quantity="one">1 agente di attendibilità attivo</item>
      </plurals>
      <plurals name="master_clear_with_account_summary">
-        <item quantity="other">%1$d accounts will be reset</item>
-        <item quantity="one">1 account will be reset</item>
+        <item quantity="other">%1$d account verranno reimpostati</item>
+        <item quantity="one">1 account verrà reimpostato</item>
      </plurals>
      <plurals name="memory_usage_apps_summary">
         <item quantity="other">%1$d app hanno utilizzato la memoria nelle ultime %2$s</item>
@@ -158,31 +158,31 @@
      </plurals>
      <plurals name="minutes">
         <item quantity="other">%s minuti</item>
-        <item quantity="one">1 minut0</item>
+        <item quantity="one">1 minuto</item>
      </plurals>
      <plurals name="network_restrictions_summary">
-        <item quantity="other">%1$d restrictions</item>
-        <item quantity="one">1 restriction</item>
+        <item quantity="other">%1$d restrizioni</item>
+        <item quantity="one">1 restrizione</item>
      </plurals>
      <plurals name="notification_summary">
         <item quantity="other">Invio bloccato per %d app</item>
         <item quantity="one">Invio bloccato per %d app</item>
      </plurals>
      <plurals name="number_of_device_admins">
-        <item quantity="other">%d active apps</item>
-        <item quantity="one">%d active app</item>
+        <item quantity="other">%d app attive</item>
+        <item quantity="one">%d app attiva</item>
      </plurals>
      <plurals name="permissions_summary">
         <item quantity="other">%d permessi concessi</item>
         <item quantity="one">%d permesso concesso</item>
      </plurals>
      <plurals name="print_jobs_summary">
-        <item quantity="other">%1$d print jobs</item>
-        <item quantity="one">1 print job</item>
+        <item quantity="other">%1$d stampe in coda</item>
+        <item quantity="one">1 stampa in coda</item>
      </plurals>
      <plurals name="print_settings_summary">
-        <item quantity="other">%1$d print services on</item>
-        <item quantity="one">1 print service on</item>
+        <item quantity="other">%1$d servizi di stampa attivi</item>
+        <item quantity="one">Un servizio di stampa attivo</item>
      </plurals>
      <plurals name="runtime_permissions_additional_count">
         <item quantity="other">%d permessi aggiuntivi</item>
@@ -201,8 +201,8 @@
         <item quantity="one">%1$d impronta impostata</item>
      </plurals>
      <plurals name="settings_suggestion_header_summary_hidden_items">
-        <item quantity="other">Show %d hidden items</item>
-        <item quantity="one">Show %d hidden item</item>
+        <item quantity="other">Mostra %d elementi nascosti</item>
+        <item quantity="one">Mostra %d elemento nascosto</item>
      </plurals>
      <plurals name="settings_toggle_position_divider_page">
         <item quantity="other">%1$d comandi sopra sono attivi</item>
@@ -225,8 +225,8 @@
         <item quantity="one">Ti manca %1$d tocco per avviare una segnalazione bug</item>
      </plurals>
      <plurals name="special_access_summary">
-        <item quantity="other">%d apps can use unrestricted data</item>
-        <item quantity="one">1 app can use unrestricted data</item>
+        <item quantity="other">%d app possono utilizzare dati senza restrizioni</item>
+        <item quantity="one">Una app può utilizzare dati senza restrizioni</item>
      </plurals>
      <plurals name="ssl_ca_cert_dialog_title">
         <item quantity="other">Accetta o rimuovi i certificati</item>
@@ -269,8 +269,8 @@ Per maggiori informazioni su questo certificato contatta l'amministratore."</ite
         <item quantity="one">%d rischio rilevato</item>
      </plurals>
      <plurals name="wifi_saved_access_points_summary">
-        <item quantity="other">%d networks</item>
-        <item quantity="one">1 network</item>
+        <item quantity="other">%d reti</item>
+        <item quantity="one">Una rete</item>
      </plurals>
      <plurals name="wifi_share_count">
         <item quantity="other">%d reti condivise</item>
@@ -281,8 +281,8 @@ Per maggiori informazioni su questo certificato contatta l'amministratore."</ite
         <item quantity="one">"Codice PIN errato. Hai ancora %d tentativo a disposizione, dopodiché dovrai contattare l'operatore per sbloccare il dispositivo"</item>
      </plurals>
      <plurals name="zen_mode_settings_summary_on">
-        <item quantity="other">%d automatic rules turned on</item>
-        <item quantity="one">1 automatic rule turned on</item>
+        <item quantity="other">%d regole automatiche attivate</item>
+        <item quantity="one">Una regola automatica attivata</item>
      </plurals>
      <plurals name="zen_mode_summary_alarms_only_by_hour">
         <item quantity="other">Modifica sveglie solo per %1$d ore, fino alle %2$s</item>
