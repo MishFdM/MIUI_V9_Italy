@@ -557,7 +557,7 @@ Dopo aver copiato \"traccia.mp3\" sulla scheda SD, tocca lo schermo per riprodur
      <string name="cit_usb_charger_out">Alimentazione USB scollegata</string>
      <string name="cit_version_check_summary">Di seguito trovi la versione del SO. Verifica che le informazioni evidenziate in verde sono corrette.</string>
      <string name="cit_version_check_title">Versione Test</string>
-     <string name="cit_vga_camera_capture">Fotocamera</string>
+     <string name="cit_vga_camera_capture">Avvia</string>
      <string name="cit_vga_camera_capture_fail">Impossibile scattare una foto</string>
      <string name="cit_vga_camera_delete">Elimina</string>
      <string name="cit_vga_camera_deleted">Foto eliminata</string>
@@ -576,7 +576,7 @@ Dopo aver copiato \"traccia.mp3\" sulla scheda SD, tocca lo schermo per riprodur
      <string name="cit_wifi_address_error">Impossibile ottenere indirizzo IP. Assicurati di essere collegato ad una rete Wi-Fi.</string>
      <string name="cit_wifi_ap_scan_check_summary">"Di seguito trovi le info sui punti d'accesso Wi-Fi circostanti e che sono stati rilevati. Verifica che le informazioni evidenziate in verde siano corrette."</string>
      <string name="cit_wifi_ap_scan_check_title">Test scansione AP Wi-Fi</string>
-     <string name="cit_wifi_ap_scan_retry">Rieseguo scansione…</string>
+     <string name="cit_wifi_ap_scan_retry">Riesegui scansione…</string>
      <string name="cit_wifi_ap_scanning">Scansione…</string>
      <string name="cit_wifi_fail_to_scan">Impossibile eseguire la scansione</string>
      <string name="cit_wifi_state_refresh">Aggiorna</string>
@@ -675,4 +675,17 @@ Dopo aver copiato \"traccia.mp3\" sulla scheda SD, tocca lo schermo per riprodur
      <string name="tp_version">Versione TP:</string>
      <string name="vendor_ct">CT</string>
      <string name="wait_test">in attesa del test</string>
+	 <string name="test_auto">Test Auto</string>
+	 <string name="test_pixel_open">Test Pixel open</string>
+	 <string name="test_spi">Test SPI</string>
+     <string name="test_reset_pin">Test Reset pin</string>
+	 <string name="test_succeed">Successo</string>
+     <string name="test_failed">Fallito</string>
+	 <string name="cit_sd_status">Stato Scheda SD:</string>
+     <string name="cit_sd_status_off_normal">Lo stato non è normale</string>
+     <string name="cit_sd_status_normal">Stato normale</string>
+     <string name="cit_sd_capacity">Capacità totale:</string>
+     <string name="cit_sd_used_capacity">Utilizzata:</string>
+     <string name="cit_sd_unused_capacity">Non utilizzata:</string>
+     <string name="cit_sd_cannot_be_read">La Scheda SD non è stata letta</string>
 </resources>

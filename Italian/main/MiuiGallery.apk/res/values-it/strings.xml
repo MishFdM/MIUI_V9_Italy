@@ -876,7 +876,7 @@ Scatta più foto ai tuoi amici!"</string>
      <string name="finish_fill_baby">Crea</string>
      <string name="flash_off">Niente flash</string>
      <string name="flash_on">Usa flash</string>
-     <string name="gallery_setting">Galleria</string>
+     <string name="gallery_setting">Impostazioni</string>
      <string name="gallery_sync_disable_toast">La funzione di sincronizzazione della galleria non è attiva</string>
      <string name="get_album_info_in_process">Richiesta informazioni album condiviso, attendere…</string>
      <string name="gif_tip">GIF</string>
@@ -1506,7 +1506,7 @@ per personalizzare la Galleria"</string>
      <string name="video_editor_unsupport_audio_file">File audio non supportato</string>
      <string name="video_err">Impossibile riprodurre il video.</string>
      <string name="video_not_exist">Video inesistente</string>
-     <string name="view_by_gallery_tip">Galleria MIUI</string>
+     <string name="view_by_gallery_tip">Galleria</string>
      <string name="view_face_album">Mostra album</string>
      <string name="view_queuing_status">Verifica stato</string>
      <string name="welcome_to_micloud">Benvenuto in Mi Cloud</string>
