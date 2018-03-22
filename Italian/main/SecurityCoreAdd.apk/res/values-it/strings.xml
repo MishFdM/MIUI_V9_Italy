@@ -15,10 +15,10 @@ questa funzione verrà aggiunta automaticamente allo spazio Secondario."</string
      <string name="appData">App installate</string>
      <string name="app_name">Componente di Sicurezza di Sistema</string>
      <string name="back">Indietro</string>
-     <string name="bind_device">Add devices</string>
+     <string name="bind_device">Aggiungi dispositivi</string>
      <string name="can_not_delete_when_calling">Impossibile eliminare gli spazi durante una chiamata</string>
      <string name="can_not_switch_when_calling">Impossibile cambiare spazio durante una chiamata</string>
-     <string name="can_not_switch_when_green_kid_active">Switching to Second space is restricted by parental controls</string>
+     <string name="can_not_switch_when_green_kid_active">Il passaggio allo Spazio secondario è limitato dal controlli genitori</string>
      <string name="cancelClosePassword">Non disattivare</string>
      <string name="cancel_button">Annulla</string>
      <string name="changePassword">Modifica password</string>
@@ -91,7 +91,7 @@ per essere in grado di vederli sempre"</string>
      <string name="err_unknown">Errore sconosciuto</string>
      <string name="err_volume_not_enough">Spazio insufficiente</string>
      <string name="exit_private_space">Cambia</string>
-     <string name="experience_more_features">Add a device to view all features</string>
+     <string name="experience_more_features">Aggiungi un dispositivo e visualizza tutte le funzioni</string>
      <string name="finger_print_num">Impronta %d</string>
      <string name="finger_print_of_use">Utilizza impronta digitale</string>
      <string name="fingerprint_number_upper_limit">Troppi tentativi di sblocco falliti</string>
@@ -104,12 +104,12 @@ per essere in grado di vederli sempre"</string>
      <string name="go_on_import">Continua importazione</string>
      <string name="gpg_message">"La creazione di app clonate per i giochi richiede Google Play Games. Creare un'app clonata per Google Play Games?"</string>
      <string name="gpg_title">App clonata per Google Play Games</string>
-     <string name="green_guard">Parental controls</string>
-     <string name="green_guard_des1">Add devices to manage them remotely</string>
-     <string name="green_guard_des2">Know where exactly all managed devices are</string>
-     <string name="green_guard_des3">Control installed apps and restrict usage</string>
-     <string name="green_guard_title2">View location info</string>
-     <string name="green_guard_title3">Manage apps</string>
+     <string name="green_guard">Controlli genitori</string>
+     <string name="green_guard_des1">Aggiungi i dispositivi da gestire in remoto</string>
+     <string name="green_guard_des2">Scopri dove sono tutti i dispositivi gestiti</string>
+     <string name="green_guard_des3">"Controlla le applicazioni installate limitandone l'utilizzo"</string>
+     <string name="green_guard_title2">Visualizza informazioni sulla posizione</string>
+     <string name="green_guard_title3">Gestisci app</string>
      <string name="guide_contact_sub_title_desc">"I contatti aggiunti allo spazio Secondario saranno privati.
 I messaggi saranno visibili solo nello spazio Secondario."</string>
      <string name="guide_contact_suc_sub_title_desc">Solo i contatti e i messaggi privati verranno mostrati nello spazio Secondario</string>
@@ -150,7 +150,7 @@ Puoi anche scaricarli separatamente"</string>
      <string name="msg_switch_photo">Eliminare queste foto dallo spazio Primario dopo lo spostamento?</string>
      <string name="needSetKeyguardFirst">Imposta la password per lo spazio Primario</string>
      <string name="needSetKeyguardFirstDes">Imposta la password per lo spazio Primario prima di impostare quella per lo Spazio Secondario</string>
-     <string name="need_network_when_bind">Connect to the network before Adding devices</string>
+     <string name="need_network_when_bind">Connettiti a una rete prima di aggiungere dei dispositivi</string>
      <string name="need_network_when_create">Collegati alla rete prima di creare lo spazio di lavoro</string>
      <string name="need_reset_passwd">Ripristina la password prima di accedere allo spazio di lavoro</string>
      <string name="need_set_second_space_desc">"Aggiungi una password prima di inserire l'impronta digitale sul Spazio Secondario"</string>
