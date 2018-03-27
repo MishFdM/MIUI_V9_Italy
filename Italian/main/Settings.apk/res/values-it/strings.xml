@@ -76,6 +76,7 @@ Se il dispositivo ha più utenti, l'utilizzo di questo collegamento sulla scherm
      <string name="accessibility_no_wifi">Wi-Fi disconnesso.</string>
      <string name="accessibility_personal_account_title">Account personale - %s</string>
      <string name="accessibility_power_button_ends_call_prerefence_title">Chiudi chiamata da ON/OFF</string>
+	 <string name="accessibility_toggle_speak_password_preference_title">Password vocali</string>
      <string name="accessibility_preference_magnification_summary">Zoom sullo schermo</string>
      <string name="accessibility_screen_magnification_enable">"Gesti d'ingrandimento"</string>
      <string name="accessibility_screen_magnification_gestures_title">Ingrandisci con un triplo tap</string>
