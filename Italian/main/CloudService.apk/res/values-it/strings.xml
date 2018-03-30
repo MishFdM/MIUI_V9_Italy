@@ -572,8 +572,8 @@ Questa funziona cripta ed invia l'ID del tuo dispositivo ai server Xiaomi."</str
      <string name="upgrade_space_successful_total">%s GB disponibili</string>
      <string name="upgrade_space_tb">TB</string>
      <string name="user_agreement">Accordo Utente</string>
-     <string name="user_agreement_content">"By using this service, you're agreeing to %s."</string>
-     <string name="user_agreement_link">"Mi Cloud's Terms of Service"</string>
+     <string name="user_agreement_content">"Utilizzando questo servizio, accetterai il %s."</string>
+     <string name="user_agreement_link">Termini di servizio Mi Cloud</string>
      <string name="user_agreement_p5">"
 "</string>
      <string name="user_agreement_title">"Termini del Servizio Mi Cloud"</string>
