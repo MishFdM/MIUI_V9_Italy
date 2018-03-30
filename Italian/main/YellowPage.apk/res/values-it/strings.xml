@@ -142,7 +142,7 @@
      <string name="mark_number_feedback_hint">Inserisci il tuo feedback</string>
      <string name="mark_number_feedback_invalid_hint">Inserisci un feedback valido</string>
      <string name="mark_number_feedback_success">Feedback inviato, il numero verrà verificato.</string>
-     <string name="mark_number_feedback_title_hint">This number is：</string>
+     <string name="mark_number_feedback_title_hint">Questo numero è：</string>
      <string name="mark_number_marked_maintitle">Modifica</string>
      <string name="mark_number_marked_subtitle">Etichettato come %s</string>
      <string name="mark_number_notification_title">Segnala numero sospetto</string>
@@ -303,8 +303,8 @@ Totale: RMB%3$s"</string>
      <string name="turn_on_smart_antispam_summary">Carica ed identifica i numeri sconosciuti dal registro chiamate e dai messaggi</string>
      <string name="turn_on_smart_antispam_title">Identifica numeri sconosciuti</string>
      <string name="turn_on_yellowpage_service_title">Utilizza il servizio di directory</string>
-     <string name="unicom_app_name">page</string>
-     <string name="unicom_yellow_page_operator_provided">Provided by the operator</string>
+     <string name="unicom_app_name">Pagina</string>
+     <string name="unicom_yellow_page_operator_provided">"Fornito dall'operatore"</string>
      <string name="uploads_disabled">Il caricamento dei file è disattivato</string>
      <string name="user_agreement2">Contratto utente</string>
      <string name="user_agreement4">Politica riservatezza</string>
