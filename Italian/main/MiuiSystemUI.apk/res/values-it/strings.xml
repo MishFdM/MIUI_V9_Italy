@@ -224,7 +224,7 @@ Frequenza Campione"</string>
      <string name="clear_adb_keys">Revoca autorizzazioni debugging USB</string>
      <string name="click_expand">Tocca per espandere</string>
      <string name="click_to_return_multi_window">Clicca per ritornare in modalità Multi Finestra</string>
-     <string name="click_to_return_multi_window_of_notch">return to Split screen</string>
+     <string name="click_to_return_multi_window_of_notch">Ritorna in modalità Multi Finestra</string>
      <string name="confirm_enable_oem_unlock_text">ATTENZIONE: La protezione dispositivo non funzionerà su questo dispositivo mentre questa opzione sarà attiva.</string>
      <string name="confirm_enable_oem_unlock_title">Permettere sblocco OEM?</string>
      <string name="connected_via_network_scorer">Connesso automaticamente tramite %1$s</string>

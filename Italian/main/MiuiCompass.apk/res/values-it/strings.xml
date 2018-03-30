@@ -55,7 +55,7 @@
      <string name="pressure_title">Pressione</string>
      <string name="pressure_unit">hPa</string>
      <string name="shake_enter_tip">Scuoti per calibrare</string>
-     <string name="unit_degree">Degrees</string>
+     <string name="unit_degree">Gradi</string>
      <string name="using_camera_confirm_cancel">Esci</string>
      <string name="using_camera_confirm_ok">OK</string>
 </resources>

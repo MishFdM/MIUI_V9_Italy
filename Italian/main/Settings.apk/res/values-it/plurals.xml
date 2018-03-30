@@ -37,12 +37,12 @@
         <item quantity="one">"%d autorizzata all'avvio automatico"</item>
      </plurals>
      <plurals name="bg_network_allow_count">
-        <item quantity="other">%d apps can connect to the network</item>
-        <item quantity="one">%d app can connect to the network</item>
+        <item quantity="other">%d app possono connettersi alla rete</item>
+        <item quantity="one">%d app può connettersi alla rete</item>
      </plurals>
      <plurals name="bg_network_restrict_count">
-        <item quantity="other">"%d apps can't connect to the network"</item>
-        <item quantity="one">"%d app can't connect to the network"</item>
+        <item quantity="other">"%d app non possono connettersi alla rete"</item>
+        <item quantity="one">"%d app non può connettersi alla rete"</item>
      </plurals>
      <plurals name="connected_devices_number">
         <item quantity="other">%d dispositivi</item>
@@ -93,8 +93,8 @@
         <item quantity="one">Minimo %d app</item>
      </plurals>
      <plurals name="firewall_item_summary">
-        <item quantity="other">Restricted connection for %s apps</item>
-        <item quantity="one">Restricted connection for %s app</item>
+        <item quantity="other">Connessione limitata per %s app</item>
+        <item quantity="one">Connessione limitata per %s app</item>
      </plurals>
      <plurals name="free_wifi_connected_count">
         <item quantity="other">%1$d persone collegate</item>
