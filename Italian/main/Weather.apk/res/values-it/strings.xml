@@ -86,6 +86,7 @@
      <string name="change_alert">Controlla la connessione di rete e prova di nuovo</string>
      <string name="china_version_first_start_network_msg">"By using this product, you agree to Xiaomi's%1$s and %2$s.This app needs to connect to the internet and access your location to work normally."</string>
      <string name="city_exceeded_warning">Puoi aggiungere fino a 10 città</string>
+     <string name="clear_net_mock_success">Net mock clear success</string>
      <string name="commercial">Pubblicità</string>
      <string name="common_loading_text">Solo un attimo...</string>
      <string name="connect_fail">Anomalia nella connessione di rete. Prova di nuovo più tardi.</string>
@@ -225,6 +226,7 @@ Tocca lo schermo per aggiungere manualmente o riprovare"</string>
      <string name="realtime_humidity_title">Umidità relativa</string>
      <string name="realtime_temperature_no_data">N/A</string>
      <string name="realtime_wind_default_title">Vento</string>
+     <string name="receive_net_mock_success">Net mock receive success</string>
      <string name="refresh_fail">Impossibile collegarsi alla rete</string>
      <string name="reminder_from_xiaomi_weather_app">Promemoria da applicazione Xiaomi Meteo</string>
      <string name="retry">Riprova</string>

@@ -180,9 +180,12 @@ e creerà una foto in cui tutti appariranno ancora più belli."</string>
      <string name="portait_effect_entry_japanese">Sky blue</string>
      <string name="portait_effect_entry_maze">Maze</string>
      <string name="portait_effect_entry_mood">Emotions</string>
+     <string name="portait_effect_entry_movie">Movie</string>
      <string name="portait_effect_entry_nature">Nature</string>
      <string name="portait_effect_entry_pink">Blush</string>
+     <string name="portait_effect_entry_riddle">Riddle</string>
      <string name="portait_effect_entry_romance">Romantic</string>
+     <string name="portait_effect_entry_story">Story</string>
      <string name="portrait_mode_depth_effect_success_hint">Effetto profondità</string>
      <string name="portrait_mode_lowlight_hint">Adesso è troppo scuro</string>
      <string name="portrait_mode_too_close_hint">"Allontanati dall'oggetto"</string>
