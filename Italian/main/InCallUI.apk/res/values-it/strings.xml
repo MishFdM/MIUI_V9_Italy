@@ -83,9 +83,9 @@
      <string name="conference_caller_info_name">Audio conferenza di %1$s</string>
      <string name="conference_callers_exceeded">Limite partecipanti superato</string>
      <string name="contacts_icon_label">Contatti</string>
-     <string name="crbt_second_hold_prompt">%s is on hold…</string>
-     <string name="crbt_second_hold_prompt_conference">Conference call is on hold…</string>
-     <string name="crbt_second_hold_prompt_no_name">Previous call is on hold…</string>
+     <string name="crbt_second_hold_prompt">%s è in attesa…</string>
+     <string name="crbt_second_hold_prompt_conference">La conferenza telefonica è in attesa…</string>
+     <string name="crbt_second_hold_prompt_no_name">La chiamata precedente è in attesa…</string>
      <string name="description_image_button_answer">Scorri in alto per rispondere</string>
      <string name="description_image_button_dialpad">Tastierino</string>
      <string name="description_image_button_eight">otto</string>
@@ -185,7 +185,7 @@
      <string name="payphone">Telefono a monete</string>
      <string name="picking_participant">Recupero informazioni di contatto…</string>
      <string name="private_num">Numero privato</string>
-     <string name="prompt_no_volte_when_failed">"VoLTE services aren't available."</string>
+     <string name="prompt_no_volte_when_failed">Il servizio VoLTE non è disponibile.</string>
      <string name="remind_unlock_message">Il tuo dispositivo è stato bloccato. \"%s\" sarà di nuovo disponibile dopo lo sblocco del dispositivo. Sbloccare adesso?</string>
      <string name="respond_via_sms_custom_message">Messaggio personalizzato…</string>
      <string name="select_audio_dialog_title">Scegli la modalità di risposta</string>
