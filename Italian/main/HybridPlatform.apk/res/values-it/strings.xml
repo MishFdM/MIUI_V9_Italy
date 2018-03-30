@@ -35,7 +35,7 @@
      <string name="common_google_play_services_unknown_issue">%1$s sta avendo problemi con i servizi di Google Play. Prego riprova.</string>
      <string name="crop_image_activity_title" />
      <string name="crop_image_menu_crop">Taglia</string>
-     <string name="crop_image_menu_flip">Ruota</string>
+     <string name="crop_image_menu_flip">Capovolgi</string>
      <string name="crop_image_menu_flip_horizontally">Ruota orizzontalmente</string>
      <string name="crop_image_menu_flip_vertically">Ruota verticalmente</string>
      <string name="crop_image_menu_rotate_left">Ruota in senso antiorario</string>
