@@ -410,12 +410,10 @@
      <string name="email_address">Indirizzo email</string>
      <string name="email_feedback_uri" />
      <string name="email_netease">NetEase Mail</string>
-     <string name="email_package_name">com.android.email</string>
      <string name="email_qq">QQ Mail</string>
      <string name="email_setting">Impostazioni Email</string>
      <string name="email_setting_keywords">Account;Aggiungi account;account mail;aggiungi account mail;conferma prima di eliminare;conferma eliminazione;conferma prima di inviare;invia conferma;elimina flusso messaggi;elimina reindirizzamento;visualizza conversazione;conversazione mail;risparmio batteria;batteria mail;invia feedback;invia log</string>
      <string name="email_sina">Sina Mail</string>
-     <string name="email_suggestions_authority">com.android.email.provider</string>
      <string name="eml_parse_message">"Il recupero dei file eml richiede un po' di tempo, attendere prego…"</string>
      <string name="empty_account_tip">"Impossibile trovare l'account"</string>
      <string name="empty_email_tip">Impossibile inviare email vuota</string>
