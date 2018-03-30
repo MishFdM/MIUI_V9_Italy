@@ -78,7 +78,7 @@ per essere in grado di vederli sempre"</string>
      <string name="downloading_space">Download in corso...</string>
      <string name="enable">Attiva</string>
      <string name="encrypt_space_delete_dialog_click_message">"*Se non necessiti di spostare dati, %s"</string>
-     <string name="encrypt_space_delete_dialog_click_message_action">Elimina e crea uno Spazio Secondario ora.</string>
+     <string name="encrypt_space_delete_dialog_click_message_action">Elimina e crea uno spazio Secondario ora.</string>
      <string name="encrypt_space_delete_dialog_message">"Stai per aggiornare la versione di Android. Dopo l'aggiornamento, i dati dello Spazio Secondario diventeranno incompatibili. Per evitare ciò, sposta tutti i dati verso lo Spazio Primario, elimina lo Spazio Secondario, e crealo nuovamente."</string>
      <string name="encrypt_space_delete_dialog_positive_text">Sposta dati</string>
      <string name="encrypt_space_delete_dialog_title">Attenzione</string>
