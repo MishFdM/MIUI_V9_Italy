@@ -372,11 +372,13 @@
      <string name="sdcard_not_mounted_dialog_title">Scheda SD non trovata</string>
      <string name="search_hint_header_text">Parole più ricercate</string>
      <string name="selected_resource_file_invalid">Impossibile utilizzare il file di risorsa selezionato</string>
+     <string name="set_color_ring_back_tone">Set color ring back tone</string>
      <string name="settings">Impostazioni</string>
      <string name="system_precust">Predefinito di sistema</string>
      <string name="the_picture_is_not_support">"L'immagine non è supportata"</string>
      <string name="the_picture_is_too_small">"L'immagine è troppo piccola"</string>
      <string name="theme_apply_audio_dialog_item_alarm">Sveglia</string>
+     <string name="theme_apply_audio_dialog_item_color_ring_back_tone">Color ring back tone</string>
      <string name="theme_apply_audio_dialog_item_notification">Notifiche</string>
      <string name="theme_apply_audio_dialog_item_ringtone">Suoneria</string>
      <string name="theme_apply_failured">Impossibile applicare lo sfondo per la Schermata di blocco</string>
