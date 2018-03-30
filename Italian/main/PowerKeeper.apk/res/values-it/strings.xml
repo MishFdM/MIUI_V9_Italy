@@ -26,6 +26,7 @@
      <string name="disable_hide_mode_warning">La disattivazione di Risparmio Batteria MIUI potrebbe causare maggiori consumi</string>
      <string name="empty_title_apps_container_list">Nessuna app</string>
      <string name="enable_hide_mode">Attiva Risparmio Batteria MIUI</string>
+     <string name="enable_sleep_mode">Enabling sleep mode to optimize night standby</string>
      <string name="error_filename_too_long">Il nome del file è troppo lungo.</string>
      <string name="extreme_power_config_mode_category">Risparmio Batteria Estremo</string>
      <string name="extreme_power_config_mode_desc">"L'attivazione di questa funzione disattiverà sincronizzazione, bluetooth, GPS, NFC, doppio tocco, tasti luminosi, attivazione schermo su notifica, luce di notifica pulsante etc, ed il risparmio batteria verrà impostato su ultimate"</string>
@@ -58,6 +59,7 @@
      <string name="power_config_apps">Risparmio energia in background</string>
      <string name="power_config_event_delete">Elimina</string>
      <string name="power_config_select_apps_title">App</string>
+     <string name="power_consume_abnormal_night">In night power consume abnormal</string>
      <string name="power_hide_mode_app_list_summary">Impostazioni app</string>
      <string name="power_hide_mode_title">Gestisci utilizzo batteria delle app</string>
      <string name="power_mode">Impostazioni consumo</string>
@@ -71,6 +73,11 @@
      <string name="sleep_config_enhance_description">MIUI migliorerà il risparmio batteria notturno</string>
      <string name="sleep_config_enhance_description_non_nfc">"Ogni volta che MIUI rileva che stai dormendo, chiuderà le applicazioni in background, limiterà Bluetooth, GPS, rete dati mobile e utilizzo Wi-Fi, inoltre non attiverà lo schermo al ricevimento delle notifiche."</string>
      <string name="sleep_config_enhance_title">Risparmio notturno</string>
+     <string name="sleepmode_disclaimer_agree">Agree</string>
+     <string name="sleepmode_disclaimer_cancel">Cancle</string>
+     <string name="sleepmode_privacy_content">This feature will use your phone system and device information data, which will not be uploaded to the server</string>
+     <string name="sleepmode_privacy_link">Detailed security and privacy</string>
+     <string name="sleepmode_privacy_title">Sleep mode</string>
      <string name="sucess">successo</string>
      <string name="update_profile_failture_not_connect_wifi">Aggiornamento fallito, nessuna connessione Wifi</string>
      <string name="update_profile_sucess">Aggiornamento dal server completato</string>

@@ -903,7 +903,6 @@ Desideri passare comunque al nuovo servizio?"</string>
      <string name="list_language_dtitle">Lingue</string>
      <string name="list_language_summary">Seleziona la lingua delle notizie</string>
      <string name="list_language_title">Lingua</string>
-     <string name="livetalk_setting">Ricarica pacchetto</string>
      <string name="load_networks_progress">Ricerca…</string>
      <string name="local_backup_password_summary_change">Tocca per modificare o rimuovere la password dei backup locali</string>
      <string name="local_backup_password_summary_none">I backup locali non sono attualmente protetti</string>
@@ -966,6 +965,7 @@ Desideri passare comunque al nuovo servizio?"</string>
      <string name="modem_dialog_body">La rete mobile non è stabile, causa interruzioni o problemi di rete.Inviare una segnalazione a Mi analizzarla? Questa segnalazione potrebbe contenere informazioni sui dati personali. Il tuo rapporto verrà utilizzato unicamente per la risoluzione del problema e non verrà mai condiviso a scopi commerciali.</string>
      <string name="modem_dialog_title">La rete mobile non è stabile</string>
      <string name="msim_apn_not_set">Non impostato</string>
+     <string name="msim_cmcc_dds_switch_not_support">"Can't switch SIM cards due to carrier restrictions."</string>
      <string name="msim_default_setting">Impostazioni predefinite</string>
      <string name="msim_disable_sim_card_btn_text">OK</string>
      <string name="msim_disable_sim_card_summary_default_card">"Questa SIM è attualmente impostata com e predefinita. Se decidi di non utilizzarla più, non sarai più in grado di effettuare chiamate o utilizzare la connessione dati. Puoi smettere di utilizzare questa SIM dopo averne impostata un'altra come predefinita."</string>

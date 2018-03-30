@@ -349,9 +349,6 @@ Utilizza un account diverso."</string>
      <string name="micloud_manage_space_data">Gestisci dati MiCloud</string>
      <string name="micloud_member">Abbonamento Mi Cloud</string>
      <string name="micloud_member_advantage">Ottieni altro spazio di archiviazione.</string>
-     <string name="micloud_member_buy_content" formatted="false">"Valido per %s-%s-%s
-
-%s Mi Credit"</string>
      <string name="micloud_member_buy_title">Conferma ordine</string>
      <string name="micloud_member_net_error_alert_message">Non hai una connessione internet.</string>
      <string name="micloud_member_net_error_alert_title">Impossibile connettersi alla rete</string>
@@ -575,11 +572,10 @@ Questa funziona cripta ed invia l'ID del tuo dispositivo ai server Xiaomi."</str
      <string name="upgrade_space_successful_total">%s GB disponibili</string>
      <string name="upgrade_space_tb">TB</string>
      <string name="user_agreement">Accordo Utente</string>
+     <string name="user_agreement_content">"By using this service, you're agreeing to %s."</string>
+     <string name="user_agreement_link">"Mi Cloud's Terms of Service"</string>
      <string name="user_agreement_p5">"
 "</string>
-     <string name="user_agreement_p6">"L'utilizzo di questa funzione è soggetto alle "</string>
-     <string name="user_agreement_p7">"Condizioni di utilizzo Mi Cloud"</string>
-     <string name="user_agreement_p8">.</string>
      <string name="user_agreement_title">"Termini del Servizio Mi Cloud"</string>
      <string name="vcode">Codice di verifica</string>
      <string name="verify">Verifica</string>

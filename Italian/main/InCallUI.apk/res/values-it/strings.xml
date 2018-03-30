@@ -4,7 +4,6 @@
      <string name="antispam_marked_count">Segnalato da %1$d utenti MIUI</string>
      <string name="antispam_notification_title">Numero sconosciuto</string>
      <string name="antispam_provider">Identificato da %s</string>
-     <string name="areacode_set_default">Imposta come predefinito</string>
      <string name="callFailed_cb_enabled">Impossibile effettuare chiamate in uscita con il blocco chiamate attivo.</string>
      <string name="callFailed_congestion">Rete occupata</string>
      <string name="callFailed_dialToDial">Richiesta DIAL modificata in una DIAL con diverso numero.</string>
@@ -50,7 +49,6 @@
      <string name="call_recording_notification_title_error">Non è stato possibile registrare la chiamata</string>
      <string name="call_title_redialing_with_times">Ricomposto %d volte</string>
      <string name="caller_manage_header">Audioconferenza %s</string>
-     <string name="can_not_call_oneself">Impossibile effettuare la chiamata a questo numero</string>
      <string name="can_not_use">Impossibile utilizzare</string>
      <string name="cancel">Annulla</string>
      <string name="card_title_answering">Risposta</string>
@@ -85,7 +83,9 @@
      <string name="conference_caller_info_name">Audio conferenza di %1$s</string>
      <string name="conference_callers_exceeded">Limite partecipanti superato</string>
      <string name="contacts_icon_label">Contatti</string>
-     <string name="default_area_code_setting">Prefisso internazionale predefinito</string>
+     <string name="crbt_second_hold_prompt">%s is on hold…</string>
+     <string name="crbt_second_hold_prompt_conference">Conference call is on hold…</string>
+     <string name="crbt_second_hold_prompt_no_name">Previous call is on hold…</string>
      <string name="description_image_button_answer">Scorri in alto per rispondere</string>
      <string name="description_image_button_dialpad">Tastierino</string>
      <string name="description_image_button_eight">otto</string>
@@ -107,8 +107,6 @@
      <string name="description_image_button_video_answer">Video chiamata</string>
      <string name="description_image_button_zero">zero</string>
      <string name="description_target_answer">Rispondi</string>
-     <string name="dialog_activate_livetalk">Verifica numero</string>
-     <string name="dialog_call_ordinary_telephone">Chiamata normale</string>
      <string name="dialpad_abc">ABC</string>
      <string name="dialpad_def">DEF</string>
      <string name="dialpad_eight">8</string>
@@ -127,7 +125,6 @@
      <string name="dialpad_two">2</string>
      <string name="dialpad_wxyz">WXYZ</string>
      <string name="dialpad_zero">0</string>
-     <string name="do_not_ask">Non mostrare più</string>
      <string name="do_not_support_video_calls_by_remote">"Le videochiamate non sono supportate dall'altro dispositivo"</string>
      <string name="emergency_call_dialog_number_for_display">Numero di emergenza</string>
      <string name="inCallLabel">InCallUI</string>
@@ -148,20 +145,8 @@
      <string name="incoming_circle_text_message_p">Scorri per rispondere con SMS</string>
      <string name="incoming_circle_text_reject">Rilascia per rifiutare</string>
      <string name="incoming_circle_text_reject_p">Scorri per rifiutare</string>
-     <string name="keep_wait_call_back">Attendi</string>
-     <string name="livetalk_dial">Utilizzo pacchetto riempimento</string>
-     <string name="livetalk_hangup">Termina</string>
      <string name="manageConferenceLabel">Gestione chiamate in conferenza</string>
      <string name="msim_select_default_time_left">(%d s)</string>
-     <string name="network_error_message">La rete non è stabile. Passando ad una chiamata normale in base ai costi previsti dal tuo operatore.</string>
-     <string name="network_error_title">Rete non stabile</string>
-     <string name="no_call_back_message">La connessione sta impiegando troppo tempo. Passando ad una chiamata normale in base ai costi previsti dal tuo operatore.</string>
-     <string name="no_call_back_title">Attenzione</string>
-     <string name="not_activate_sim_card_content">Verifica il tuo numero di telefono per iniziare ad utilizzare il pacchetto di ricarica. Puoi ancora fare una chiamata normale in base ai costi previsti dal tuo operatore.</string>
-     <string name="not_activate_sim_card_content_title">Numero di telefono non verificato</string>
-     <string name="not_activate_sim_card_content_with_operator">Verifica SIM %1$s (%2$s) per effettuare una chiamata utilizzando il pacchetto di ricarica. Puoi ancora fare una chiamata normale in base ai costi previsti dal tuo operatore.</string>
-     <string name="not_support_message">Impossibile chiamare questo numero. Passando ad una chiamata normale in base ai costi previsti dal tuo operatore.</string>
-     <string name="not_support_title">Questo numero non è supportato</string>
      <string name="notification_action_accept">Accetta</string>
      <string name="notification_action_answer_video">Video</string>
      <string name="notification_action_answer_voice">Voce</string>
@@ -200,6 +185,7 @@
      <string name="payphone">Telefono a monete</string>
      <string name="picking_participant">Recupero informazioni di contatto…</string>
      <string name="private_num">Numero privato</string>
+     <string name="prompt_no_volte_when_failed">"VoLTE services aren't available."</string>
      <string name="remind_unlock_message">Il tuo dispositivo è stato bloccato. \"%s\" sarà di nuovo disponibile dopo lo sblocco del dispositivo. Sbloccare adesso?</string>
      <string name="respond_via_sms_custom_message">Messaggio personalizzato…</string>
      <string name="select_audio_dialog_title">Scegli la modalità di risposta</string>
@@ -209,7 +195,6 @@
      <string name="separate_from_conference">Separa chiamata</string>
      <string name="sip_call_not_support_record">Impossibile registrare le chiamate SIP</string>
      <string name="suspect_info">"Verifica sempre l'identità della persona con cui stai parlando al telefono o in videochiamata prima di fornire informazioni personali."</string>
-     <string name="time_left_livetalk">(%d S)</string>
      <string name="unknown">Sconosciuto</string>
      <string name="unlock_phone">Sblocca dispositivo</string>
      <string name="upgrade_vt_prompt">Vuoi passare da chiamata audio a videochiamata?</string>
