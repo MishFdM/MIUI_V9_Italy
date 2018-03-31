@@ -118,9 +118,9 @@
      <string name="express_entry_note">Nota:</string>
      <string name="express_entry_reserve">Richiesta eseguita</string>
      <string name="express_rom_start_install">Aggiorna usando la recovery della ROM</string>
-     <string name="express_update_reserve_content">Non potrai aggiornare direttamente a questa versione ora. Registrarti per aggiornamento (%1$s)? Ti notificheremo quando %1$s sarà disponibile per il tuo dispositivo. Fino a quel momento, dovrai ricevere regolarmente nuovi aggiornamenti.</string>
-     <string name="express_update_reserve_negative">Non applicare</string>
-     <string name="express_update_reserve_positive">Registrati per un aggiornamento (%s)</string>
+     <string name="express_update_reserve_content">Non potrai aggiornare direttamente a questa versione ora. Richiedere aggiornamento (%1$s)? Ti notificheremo quando %1$s sarà disponibile per il tuo dispositivo. Fino a quel momento, dovrai ricevere regolarmente nuovi aggiornamenti.</string>
+     <string name="express_update_reserve_negative">Non richiedere</string>
+     <string name="express_update_reserve_positive">Richiedi aggiornamento (%s)</string>
      <string name="express_update_switch_content_erase">La MIUI verrà aggiornata ad una nuova versione (%s). Questo aggiornamento potrebbe eliminare i tuoi dati.</string>
      <string name="express_update_switch_content_no_erase">La MIUI verrà aggiornata ad una nuova versione (%s). Questo aggiornamento non eliminerà i tuoi dati.</string>
      <string name="express_update_switch_negative">No grazie</string>
@@ -142,7 +142,7 @@
      <string name="home_delay_ok">OK</string>
      <string name="home_delay_title">Un aggiornamento è disponibile</string>
      <string name="home_dialog_more_button">Visualizza dettagli ></string>
-     <string name="home_dialog_msg">Gli aggiornamenti sono pronti per essere installati. Tocca \"Riavvia\" per completare.</string>
+     <string name="home_dialog_msg">Gli aggiornamenti sono pronti per essere installati. Tocca \"Riavvia\" per completare la procedura.</string>
      <string name="home_dialog_negative_button">Non ora</string>
      <string name="home_dialog_positive_button">Riavvia</string>
      <string name="home_dialog_title">MIUI 9. Lightning fast.</string>
@@ -156,8 +156,8 @@ I dati non verranno cancellati."</string>
      <string name="install_title">Sei sicuro di voler continuare?</string>
      <string name="internal_build">Interna</string>
      <string name="keywords_auto_setting">Auto updates;Download automatically;Install automatically;autoupdates;auto-updates; automatic updates</string>
-     <string name="keywords_updater">"Aggiornamento MIUI; aggiornamento di sistema;aggiornamento software;ROM;aggiornamento ROM;aggiornamento;aggiornamenti;verifica aggiornamenti;verifica aggiornamenti;trova aggiornamenti;scarica aggiornamenti;upgrade;upgrades;upgrade software;nuova versione;versione software;testing;cosa c'è di nuovo;cosa c'è di nuovo;log;log aggiornamento;apk;pacchetto di aggiornamento;pacchetto ROM;autoaggiornamenti;aggiornamento automatico;aggiornamenti automatici;versione MIUI;versione;aggiornamenti"</string>
-     <string name="keywords_updater_settings">"Updater;MIUI update;system update;software update;ROM;ROM update;update;updates;check updates; check for updates;find updates;download updates;upgrade;upgrades;software upgrade;new version;software version; testing;whats new;what's new;log;update log;apk;update package;ROM package;autoupdates;auto-updates; automatic updates;MIUI version;version;updater;Updater;Download automatically;Install automatically; Beta Feedback Program;rom"</string>
+     <string name="keywords_updater">"Aggiornamento MIUI;aggiornamento di sistema;aggiornamento software;ROM;aggiornamento ROM;aggiornamento;aggiornamenti;verifica aggiornamenti;verifica aggiornamenti;trova aggiornamenti;scarica aggiornamenti;upgrade;upgrade;upgrade software;nuova versione;versione software;testing;cosa c'è di nuovo;cosa c'è di nuovo;log;log aggiornamento;apk;pacchetto di aggiornamento;pacchetto ROM;aggiornamenti automatici;aggiornamenti automatici;aggiornamenti automatici;versione MIUI;versione;aggiornamenti"</string>
+     <string name="keywords_updater_settings">"Aggiornamenti;aggiornamento MIUI;aggiornamento di sistema;aggiornamento software;ROM;aggiornamento ROM;aggiornamento;aggiornamenti;verifica aggiornamenti;verifica aggiornamenti;trova aggiornamenti;scarica aggiornamenti;upgrade;upgrade;upgrade software;nuova versione;versione software;testing;cosa c'è di nuovo;cosa c'è di nuovo;log;log aggiornamento;apk;pacchetto di aggiornamento;pacchetto ROM;aggiornamenti automatici;aggiornamenti automatici; aggiornamenti automatici;versione MIUI;versione;aggiornamenti;Aggiornamenti;Scarica automaticamente;Installa automaticamente;Programma di segnalazioni Beta;rom"</string>
      <string name="later">Riavvia dopo</string>
      <string name="loading">Caricamento</string>
      <string name="log_share">Condividi</string>
