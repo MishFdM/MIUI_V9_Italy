@@ -214,8 +214,8 @@ Nessun aggiornamento sarà disponibile per te!"</string>
      <string name="notification_express_available">Il tuo aggiornamento (%1$s) è pronto per essere scaricato</string>
      <string name="notification_express_ready">Il tuo aggiornamento (%1$s) è pronto per essere installato</string>
      <string name="notification_fail_msg">Tentativo di download ROM Full</string>
-     <string name="notification_has_express">Puoi registrarti per un aggiornamento (%s)</string>
-     <string name="notification_has_express_more">Puoi registrarti per un aggiornamento</string>
+     <string name="notification_has_express">Puoi richiedere un aggiornamento (%s)</string>
+     <string name="notification_has_express_more">Puoi richiedere un aggiornamento</string>
      <string name="notification_load_body_alpha">Ricevi gli ultimi aggiornamenti per il tuo dispositivo.</string>
      <string name="notification_load_body_dev">Ricevi gli ultimi aggiornamenti per il tuo dispositivo.</string>
      <string name="notification_load_title_alpha">Accedi al tuo Mi Account</string>
