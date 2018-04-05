@@ -832,7 +832,7 @@ Il tuo operatore potrebbe addebitarti costi aggiuntivi se attivi di nuovo la ret
      <string name="gs_game_shortcut">"Goditi un'esperienza di gioco più fluida"</string>
      <string name="gs_only_self_start_for_list">Limita i processi in background per risparmiare batteria da utilizzare per il gioco</string>
      <string name="gs_open_game_booster">Incrementa la velocità</string>
-     <string name="gs_open_game_booster_summary">Boost network speed for games</string>
+     <string name="gs_open_game_booster_summary">Migliora la velocità di rete per i giochi</string>
      <string name="gs_performance_mode">Modalità prestazioni</string>
      <string name="gs_performance_mode_detail">"Aumenta l'utilizzo della CPU per garantire prestazioni migliori"</string>
      <string name="gs_sign_notification">Ricordami di registrarmi ogni giorno alle 8 di sera</string>
