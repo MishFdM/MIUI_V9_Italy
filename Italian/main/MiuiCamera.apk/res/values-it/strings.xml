@@ -15,9 +15,9 @@
      <string name="accessibility_camera_shutter_finish">Foto scattata correttamente</string>
      <string name="accessibility_closed">Disattivato</string>
      <string name="accessibility_effect_mode_button">Effetti</string>
-     <string name="accessibility_filter_close_panel">Menu filtro chiuso</string>
-     <string name="accessibility_filter_open_panel">Il menu del filtro è aperto</string>
-     <string name="accessibility_filter_pad_close">Il menu del filtro è nascosto</string>
+     <string name="accessibility_filter_close_panel">Menù filtro chiuso</string>
+     <string name="accessibility_filter_open_panel">Il menù del filtro è aperto</string>
+     <string name="accessibility_filter_pad_close">Il menù del filtro è nascosto</string>
      <string name="accessibility_flash_auto">Auto flash attivato</string>
      <string name="accessibility_flash_mode_button">Pulsante Flash</string>
      <string name="accessibility_flash_off">Flash disattivato</string>
@@ -50,7 +50,7 @@
      <string name="accessibility_video_capture_button">Pulsante cattura</string>
      <string name="accessibility_video_module_picker">VideoModulePicker</string>
      <string name="accessibility_video_pause_button">Pulsante pausa</string>
-     <string name="accessibility_zoom_button">Zoom mode</string>
+     <string name="accessibility_zoom_button">Modalità Zoom</string>
      <string name="ai_scene_mode_use_hint_text">"Apri la fotocamera Scena-AI, identifica il tipo di scena 
  ed ottimizza l'immagine in base al tipo di scena"</string>
      <string name="audio_focus_exit_button_text">Disattiva Audio Focus</string>
@@ -74,19 +74,19 @@
      <string name="cannot_connect_camera_twice">Impossibile avviare la fotocamera, riavvia il dispositivo</string>
      <string name="cannot_connect_camera_volte_call">La video chiamata è in corso, prova più tardi.</string>
      <string name="cannot_move_warning_message">Mantieni il dispositivo fermo</string>
-     <string name="color_effect_entry_berry">Berries</string>
+     <string name="color_effect_entry_berry">Frutti di bosco</string>
      <string name="color_effect_entry_blackwhite">N</string>
      <string name="color_effect_entry_cookie">Cookie</string>
      <string name="color_effect_entry_delicacy">Gourmet</string>
-     <string name="color_effect_entry_fade">Fade</string>
+     <string name="color_effect_entry_fade">Dissolvenza</string>
      <string name="color_effect_entry_film">Film</string>
-     <string name="color_effect_entry_glimmer">Glow</string>
+     <string name="color_effect_entry_glimmer">Splendore</string>
      <string name="color_effect_entry_koizora">Amour</string>
      <string name="color_effect_entry_latte">Latte</string>
-     <string name="color_effect_entry_quiet">Calm</string>
+     <string name="color_effect_entry_quiet">Tranquillità</string>
      <string name="color_effect_entry_soda">Soda</string>
-     <string name="color_effect_entry_vivid">Vivid</string>
-     <string name="color_effect_entry_warm">Sun</string>
+     <string name="color_effect_entry_vivid">Vivido</string>
+     <string name="color_effect_entry_warm">Soleggiato</string>
      <string name="config_name_group">Selfie di gruppo</string>
      <string name="config_name_hht">HHT</string>
      <string name="config_name_magic">Magic</string>
@@ -190,7 +190,7 @@ e creerà una foto in cui tutti appariranno ancora più belli."</string>
      <string name="portrait_mode_lowlight_hint">Adesso è troppo scuro</string>
      <string name="portrait_mode_too_close_hint">"Allontanati dall'oggetto"</string>
      <string name="portrait_mode_too_far_hint">"Posiziona l'oggetto entro 2.5"</string>
-     <string name="portrait_mode_use_hint">"La modalità portrait ti aiuta a sfocare lo sfondo
+     <string name="portrait_mode_use_hint">"La modalità verticale ti aiuta a sfocare lo sfondo
 per rendere il tuo corpo ancor più chiaro e meraviglioso"</string>
      <string name="pref_advance_settings">Impostazioni aggiuntive</string>
      <string name="pref_ai_detect">Rilevamento AI</string>
@@ -221,7 +221,7 @@ per rendere il tuo corpo ancor più chiaro e meraviglioso"</string>
      <string name="pref_camera_beautify_entry_low">Basso</string>
      <string name="pref_camera_beautify_entry_normal">Medio</string>
      <string name="pref_camera_beauty">Bellezza</string>
-     <string name="pref_camera_beauty_deep">bellezza profonda</string>
+     <string name="pref_camera_beauty_deep">Bellezza profonda</string>
      <string name="pref_camera_bokeh_title">Verticale</string>
      <string name="pref_camera_coloreffect_entry_aqua" />
      <string name="pref_camera_coloreffect_entry_big_face">Diffuso</string>
