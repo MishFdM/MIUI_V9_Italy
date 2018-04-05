@@ -636,7 +636,7 @@ Il tuo operatore potrebbe addebitarti costi aggiuntivi se attivi di nuovo la ret
      <string name="dlg_clear_all_sms">Eliminare i messaggi bloccati?</string>
      <string name="dlg_clear_current_call">Cancellare le chiamate bloccate da questo numero?</string>
      <string name="dlg_clear_current_ok">Rimuovi</string>
-     <string name="dlg_clear_current_sms">ELiminare tutti messaggi bloccati da questo numero?</string>
+     <string name="dlg_clear_current_sms">Eliminare tutti messaggi bloccati da questo numero?</string>
      <string name="dlg_delete_keyword">Rimuovere parole chiave selezionate?</string>
      <string name="dlg_edit_keyword">Modifica parola chiave</string>
      <string name="dlg_import_blacklist">Importazione nella blacklist</string>
@@ -792,7 +792,7 @@ Il tuo operatore potrebbe addebitarti costi aggiuntivi se attivi di nuovo la ret
      <string name="gb_get_gift_right_now">Registrati ora</string>
      <string name="gb_have_signed">Registrato oggi</string>
      <string name="gb_network_status_bad">Si è verificato un errore di connessione.</string>
-     <string name="gb_new_feature">Nuova funzione</string>
+     <string name="gb_new_feature">Nuova funzionalità</string>
      <string name="gb_sign_gift">Registrati per ottenere premi</string>
      <string name="gb_sign_gift_button_text">Ricevi</string>
      <string name="gb_sign_notification_summary">Registrati giornalmente per ottenere un Incremento Xunyou</string>
@@ -817,7 +817,7 @@ Il tuo operatore potrebbe addebitarti costi aggiuntivi se attivi di nuovo la ret
      <string name="gs_auto_clean_memory">Cancella cache</string>
      <string name="gs_auto_clean_memory_detail">Cancella automaticamente la cache per ottimizzare il gioco</string>
      <string name="gs_autobooster">Potenzia automaticamente</string>
-     <string name="gs_autobooster_detail">Potenzia automaticamente la velocità per  i giochi selezionati</string>
+     <string name="gs_autobooster_detail">Potenzia automaticamente la velocità per i giochi selezionati</string>
      <string name="gs_autobooster_dialog_message">Se stai utilizzando Xunyou speed boost, apri i giochi nelle pagine apposite.</string>
      <string name="gs_call_handsfree">Rispondi alle chiamate a mani libere</string>
      <string name="gs_call_handsfree_mute">Modalità silenziosa</string>
