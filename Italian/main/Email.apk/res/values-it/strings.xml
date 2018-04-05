@@ -484,9 +484,9 @@
      <string name="folder_sent_name_en4">[Gmail]/Posta inviata</string>
      <string name="folder_shortcut_widget_label">Cartella email</string>
      <string name="folder_synchronization_mail_settings">Impostazioni di sincronizzazione delle cartelle</string>
-     <string name="folder_trash_name_cn0">已删除</string>
-     <string name="folder_trash_name_cn1">已删除邮件</string>
-     <string name="folder_trash_name_cn2">[Gmail]/已删除邮件</string>
+     <string name="folder_trash_name_cn0">Eliminato</string>
+     <string name="folder_trash_name_cn1">Messaggio eliminato</string>
+     <string name="folder_trash_name_cn2">[Gmail]/Messaggio eliminato</string>
      <string name="folder_trash_name_en0">Cestino</string>
      <string name="folder_trash_name_en1">Messaggi eliminati</string>
      <string name="folder_trash_name_en2">Messaggio eliminato</string>
@@ -498,7 +498,7 @@
      <string name="forward_attribution_no_headers">---------- Messaggio inoltrato ----------</string>
      <string name="forward_download_failed_ticker">Impossibile inoltrare uno o più allegati.</string>
      <string name="forward_download_failed_title">Allegato non inoltrato</string>
-     <string name="forward_subject_label">I:</string>
+     <string name="forward_subject_label">"I:"</string>
      <string name="free_period_text">Periodo di prova gratuito</string>
      <string name="from_heading">"Da: "</string>
      <string name="general_preference_confirm_delete_label">Conferma prima di eliminare</string>
@@ -857,8 +857,7 @@ perr icevere promemoria sui pagamenti dei tuoi viaggi"</string>
      <string name="quote_divider_5">-----------Linea divisoria di riferimento-------------</string>
      <string name="quote_divider_6">---Originale---</string>
      <string name="quote_divider_7">Messaggio originale</string>
-     <string name="quote_divider_apple">"
->"</string>
+     <string name="quote_divider_apple">">"</string>
      <string name="quote_divider_huawei_zh">Inviato dal mio Huawei</string>
      <string name="quote_divider_ipad_zh">Inviato dal mio iPad</string>
      <string name="quote_divider_iphone_en">Inviato dal mio iPhone</string>
@@ -912,7 +911,7 @@ perr icevere promemoria sui pagamenti dei tuoi viaggi"</string>
      <string name="reply_add_bodycontent">Aggiungere un messaggio di risposta rapida al contenuto?</string>
      <string name="reply_all">Rispondi a tutti</string>
      <string name="reply_attribution" formatted="false">Il %s, %s ha scritto:</string>
-     <string name="reply_subject_label">R:</string>
+     <string name="reply_subject_label">"R:"</string>
      <string name="report_phishing">Segnala come phishing</string>
      <string name="report_spam">Segnala come spam</string>
      <string name="request_entity_large">File richiesto troppo grande!</string>
@@ -993,11 +992,11 @@ perr icevere promemoria sui pagamenti dei tuoi viaggi"</string>
      <string name="sms_tip">Autenticazione fallita, controlla che il tuo antivirus non stia bloccando gli SMS</string>
      <string name="smtp_password_error">La password per il server di posta in uscita non è corretta</string>
      <string name="sort_attachment">Ordina per</string>
-     <string name="special_text_1">写道:</string>
-     <string name="special_text_2">写道：</string>
-     <string name="special_text_3">寫道:</string>
-     <string name="special_text_4">寫道：</string>
-     <string name="special_text_5">wrote:</string>
+     <string name="special_text_1">Ha scritto:</string>
+     <string name="special_text_2">Ha scritto：</string>
+     <string name="special_text_3">Ha scritto:</string>
+     <string name="special_text_4">Ha scritto：</string>
+     <string name="special_text_5">ha scritto:</string>
      <string name="storage">Memoria</string>
      <string name="str_select_all">Seleziona tutto</string>
      <string name="str_select_none">Deseleziona tutto</string>
