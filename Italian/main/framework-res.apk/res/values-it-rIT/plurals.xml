@@ -139,5 +139,13 @@
 	<plurals name="duration_seconds">
         <item quantity="other">%d secondi</item>
         <item quantity="one">1 secondo</item>
-    </plurals>
+     </plurals>
+     <plurals name="duration_minutes">
+        <item quantity="other">%d minuti</item>
+        <item quantity="one">1 minuto</item>
+     </plurals>
+     <plurals name="duration_hours">
+        <item quantity="other">%d ore</item>
+        <item quantity="one">1 ora</item>
+     </plurals>
 </resources>
