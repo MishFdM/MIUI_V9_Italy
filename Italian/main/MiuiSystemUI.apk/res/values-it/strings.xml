@@ -656,7 +656,7 @@ For more information, contact your admin."</string>
      <string name="screenshot_saving_ticker">Salvataggio schermata…</string>
      <string name="screenshot_saving_title">Salvataggio schermata…</string>
      <string name="screenshot_send">Invia</string>
-     <string name="screenshot_toalbum_txt">Preview</string>
+     <string name="screenshot_toalbum_txt">Anteprima</string>
      <string name="search_hint">Cerca siti web, app, contatti, video...</string>
      <string name="select_application">Seleziona applicazioni</string>
      <string name="select_logd_size_dialog_title">Seleziona dimensione logger per log buffer</string>
