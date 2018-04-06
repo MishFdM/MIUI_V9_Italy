@@ -484,7 +484,7 @@ se se dimenticata"</string>
      <string name="card_main_deepclean_wechat_action">Cancella</string>
      <string name="card_main_deepclean_wechat_summary">Cancella cache WeChat per liberare spazio di archiviazione</string>
      <string name="card_main_deepclean_wechat_title">Cache WeChat</string>
-     <string name="card_main_gamebooster_title">Game Speed Booster</string>
+     <string name="card_main_gamebooster_title">Turbo videogiochi</string>
      <string name="card_main_hbassistant_summary">Utilizza questo strumento per ottimizzare la velocità dei giochi</string>
      <string name="card_main_hbassistant_title">Game Booster</string>
      <string name="card_main_monthreport_action">Visualizza</string>
@@ -551,7 +551,7 @@ se se dimenticata"</string>
      <string name="cpu_usage_app_uninstalled_toast">Questa app è stata disinstallata</string>
      <string name="cpu_usage_process_run_time_little_time">Meno di 1 minuto</string>
      <string name="cpu_usage_view_action_btn_text">Tocca per vedere</string>
-     <string name="create_shortcut">Crea un collegamento in Home per Game Speed Booster</string>
+     <string name="create_shortcut">Crea un collegamento in Home per Turbo videogiochi</string>
      <string name="cta_dialog_msg">"Utilizzerai il centro di sicurezza MIUI. Per garantire il corretto funzionamento del database virus ed il suo aggiornamento sarà necessario l'utilizzo della rete dati. Continuare?"</string>
      <string name="cta_dialog_title">Termini e Condizioni</string>
      <string name="cta_settings">Consenti connessione internet</string>
@@ -615,7 +615,7 @@ Il tuo operatore potrebbe addebitarti costi aggiuntivi se attivi di nuovo la ret
      <string name="dialog_restrict_positive">Annulla</string>
      <string name="dialog_roaming_message">"Consenti a questa applicazione di utilizzare i dati roaming all'estero?"</string>
      <string name="dialog_roaming_title">Roaming estero</string>
-     <string name="dialog_text">Crea un collegamento in Home per Game Speed Booster</string>
+     <string name="dialog_text">Crea un collegamento in Home per Turbo videogiochi</string>
      <string name="dialog_title_attention">Attenzione</string>
      <string name="dialog_title_auto_start_declare">"Info sull'avvio automatico"</string>
      <string name="dialog_title_stop_virus_scan">Ferma scansione antivirus</string>
@@ -636,7 +636,7 @@ Il tuo operatore potrebbe addebitarti costi aggiuntivi se attivi di nuovo la ret
      <string name="dlg_clear_all_sms">Eliminare i messaggi bloccati?</string>
      <string name="dlg_clear_current_call">Cancellare le chiamate bloccate da questo numero?</string>
      <string name="dlg_clear_current_ok">Rimuovi</string>
-     <string name="dlg_clear_current_sms">ELiminare tutti messaggi bloccati da questo numero?</string>
+     <string name="dlg_clear_current_sms">Eliminare tutti messaggi bloccati da questo numero?</string>
      <string name="dlg_delete_keyword">Rimuovere parole chiave selezionate?</string>
      <string name="dlg_edit_keyword">Modifica parola chiave</string>
      <string name="dlg_import_blacklist">Importazione nella blacklist</string>
@@ -761,9 +761,9 @@ Il tuo operatore potrebbe addebitarti costi aggiuntivi se attivi di nuovo la ret
      <string name="fw_oversea_content">Blocca chiamate da numeri di telefono stranieri</string>
      <string name="game_ad_recommendation">Stanno giocando tutti</string>
      <string name="game_anti_disturb_msg">Modalità DND</string>
-     <string name="game_booster">Game Speed Booster</string>
-     <string name="game_booster_close">Game Speed Booster disattivato</string>
-     <string name="game_booster_intro">Informazioni su Game Speed Booster</string>
+     <string name="game_booster">Turbo videogiochi</string>
+     <string name="game_booster_close">Turbo videogiochi disattivato</string>
+     <string name="game_booster_intro">Informazioni su Turbo videogiochi</string>
      <string name="game_booster_jump_webview">Solo un secondo…</string>
      <string name="game_booster_tab_top">In cima</string>
      <string name="game_booster_title">Accelera</string>
@@ -778,8 +778,8 @@ Il tuo operatore potrebbe addebitarti costi aggiuntivi se attivi di nuovo la ret
      <string name="game_setting">Impostazioni di gioco</string>
      <string name="gamebooster_lowbattery_notification_summary">Carica il dispositivo prima che si spenga.</string>
      <string name="gamebooster_lowbattery_notification_title">Batteria inferiore al 5%%</string>
-     <string name="gamebooster_main_activity_back">Torna a Game Speed Booster</string>
-     <string name="gamebooster_network_dialog_message">"Consentire all'app Sicurezza di collegarsi alla rete per poter utilizzare tutte le funzioni di Game speed booster?"</string>
+     <string name="gamebooster_main_activity_back">Torna a Turbo videogiochi</string>
+     <string name="gamebooster_network_dialog_message">"Consentire all'app Sicurezza di collegarsi alla rete per poter utilizzare tutte le funzioni di Turbo videogiochi?"</string>
      <string name="gamebooster_network_dialog_title">Alcune funzioni non sono disponibili</string>
      <string name="gateway_exception_summary">Controlla il tuo router e riprova.</string>
      <string name="gateway_exception_summary2">"Impossibile connettersi al server"</string>
@@ -792,7 +792,7 @@ Il tuo operatore potrebbe addebitarti costi aggiuntivi se attivi di nuovo la ret
      <string name="gb_get_gift_right_now">Registrati ora</string>
      <string name="gb_have_signed">Registrato oggi</string>
      <string name="gb_network_status_bad">Si è verificato un errore di connessione.</string>
-     <string name="gb_new_feature">Nuova funzione</string>
+     <string name="gb_new_feature">Nuova funzionalità</string>
      <string name="gb_sign_gift">Registrati per ottenere premi</string>
      <string name="gb_sign_gift_button_text">Ricevi</string>
      <string name="gb_sign_notification_summary">Registrati giornalmente per ottenere un Incremento Xunyou</string>
@@ -817,7 +817,7 @@ Il tuo operatore potrebbe addebitarti costi aggiuntivi se attivi di nuovo la ret
      <string name="gs_auto_clean_memory">Cancella cache</string>
      <string name="gs_auto_clean_memory_detail">Cancella automaticamente la cache per ottimizzare il gioco</string>
      <string name="gs_autobooster">Potenzia automaticamente</string>
-     <string name="gs_autobooster_detail">Potenzia automaticamente la velocità per  i giochi selezionati</string>
+     <string name="gs_autobooster_detail">Potenzia automaticamente la velocità per i giochi selezionati</string>
      <string name="gs_autobooster_dialog_message">Se stai utilizzando Xunyou speed boost, apri i giochi nelle pagine apposite.</string>
      <string name="gs_call_handsfree">Rispondi alle chiamate a mani libere</string>
      <string name="gs_call_handsfree_mute">Modalità silenziosa</string>
@@ -832,7 +832,7 @@ Il tuo operatore potrebbe addebitarti costi aggiuntivi se attivi di nuovo la ret
      <string name="gs_game_shortcut">"Goditi un'esperienza di gioco più fluida"</string>
      <string name="gs_only_self_start_for_list">Limita i processi in background per risparmiare batteria da utilizzare per il gioco</string>
      <string name="gs_open_game_booster">Incrementa la velocità</string>
-     <string name="gs_open_game_booster_summary">Boost network speed for games</string>
+     <string name="gs_open_game_booster_summary">Migliora la velocità di rete per i giochi</string>
      <string name="gs_performance_mode">Modalità prestazioni</string>
      <string name="gs_performance_mode_detail">"Aumenta l'utilizzo della CPU per garantire prestazioni migliori"</string>
      <string name="gs_sign_notification">Ricordami di registrarmi ogni giorno alle 8 di sera</string>
@@ -1365,7 +1365,7 @@ Questa attività riduce la durata della batteria."</string>
      <string name="path_auto_restart">App di sistema/Sicurezza/Permessi/Gestione avvio automatico</string>
      <string name="path_buy_flow">Applicazioni di sistema/Sicurezza/Utilizzo dati/Acquista credito mobile</string>
      <string name="path_cleanmaster">Applicazioni di sistema/Sicurezza/Pulizia</string>
-     <string name="path_gamebooster">Applicazioni di sistema/Sicurezza/Game speed booster</string>
+     <string name="path_gamebooster">Applicazioni di sistema/Sicurezza/Turbo videogiochi</string>
      <string name="path_networkassistant_1">Applicazioni di sicurezza/Sicurezza/Assistente di rete</string>
      <string name="path_networkassistant_2">Applicazioni di sistema/Sicurezza/Assistente di rete</string>
      <string name="path_networkassistant_4">Applicazioni di sistema/Sicurezza/Assistente di rete/Test di rete</string>
@@ -1594,7 +1594,7 @@ Questa attività riduce la durata della batteria."</string>
      <string name="resource_auto_restart">Gestione avvio automatico</string>
      <string name="resource_buy_flow">Acquista credito mobile</string>
      <string name="resource_cleanmaster">Pulizia</string>
-     <string name="resource_gamebooster">Game speed booster</string>
+     <string name="resource_gamebooster">Turbo videogiochi</string>
      <string name="resource_networkassistant_1">Utilizzo dati</string>
      <string name="resource_networkassistant_2">Calibra piano dati</string>
      <string name="resource_networkassistant_4">Test di rete</string>
