@@ -1524,7 +1524,7 @@
      <string-array name="wifi_proxy_settings">
         <item>Nessuno</item>
         <item>Manuale</item>
-        <item>Proxy auto-config</item>
+        <item>Auto configurante</item>
      </string-array>
      <string-array name="wifi_signal">
         <item>Scadente</item>
