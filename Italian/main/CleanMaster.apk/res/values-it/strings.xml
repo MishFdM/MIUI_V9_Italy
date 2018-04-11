@@ -53,9 +53,9 @@
      <string name="auto_clean_time_seven_day">Ogni 7 giorni</string>
      <string name="auto_clean_time_three_day">Ogni 3 giorni</string>
      <string name="auto_clean_trigger_dialog_title">Pulizia memoria</string>
-     <string name="auto_clean_trigger_percent_eighty">"Quando l'80% é in uso"</string>
-     <string name="auto_clean_trigger_percent_ninety">Quando il 90% é in uso</string>
-     <string name="auto_clean_trigger_percent_sixty">Quando il 60% é in uso</string>
+     <string name="auto_clean_trigger_percent_eighty">"Quando l'80% è in uso"</string>
+     <string name="auto_clean_trigger_percent_ninety">Quando il 90% è in uso</string>
+     <string name="auto_clean_trigger_percent_sixty">Quando il 60% è in uso</string>
      <string name="auto_cleaner_open">Attiva</string>
      <string name="back">Indietro</string>
      <string name="browser_scan_history_desc">Cronologia browser</string>
