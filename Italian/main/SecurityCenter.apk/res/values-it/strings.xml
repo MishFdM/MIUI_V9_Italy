@@ -803,7 +803,7 @@ Il tuo operatore potrebbe addebitarti costi aggiuntivi se attivi di nuovo la ret
      <string name="gb_description_image_button_video_answer">Video chiamata</string>
      <string name="gb_get_gift_right_now">Registrati ora</string>
      <string name="gb_have_signed">Registrato oggi</string>
-     <string name="gb_msg_completely_shielded">Messaggi nascosti</string>
+     <string name="gb_msg_completely_shielded">Nascondi messaggi</string>
      <string name="gb_msg_completely_shielded_summary">Nascondi</string>
      <string name="gb_msg_quickly_answer">Consenti risposte veloci</string>
      <string name="gb_msg_quickly_answer_summary">Risposte veloci</string>
