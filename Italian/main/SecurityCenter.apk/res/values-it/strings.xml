@@ -708,11 +708,11 @@ Il tuo operatore potrebbe addebitarti costi aggiuntivi se attivi di nuovo la ret
      <string name="exit_dialog_garbage_clean_message">"L'ammontare di dati sul tuo dispositivo supera i %s. Pulire ora?"</string>
      <string name="exit_dialog_garbage_clean_positive_button">Pulisci</string>
      <string name="exit_dialog_garbage_clean_title">Pulisci dati</string>
-     <string name="exit_dialog_homepage_optimise_message">Il punteggio prestazionale del tuo dispositivo é basso di 80 punti. Ottimizzare ora?</string>
-     <string name="exit_dialog_release_storage_message">"Piú dell'80% di memoria del tuo dispositivo é occupata. Libera spazio disinstallando le app inutilizzate."</string>
+     <string name="exit_dialog_homepage_optimise_message">Il punteggio prestazionale del tuo dispositivo è basso di 80 punti. Ottimizzare ora?</string>
+     <string name="exit_dialog_release_storage_message">"Piú dell'80% di memoria del tuo dispositivo è occupata. Libera spazio disinstallando le app inutilizzate."</string>
      <string name="exit_dialog_release_storage_positive_button">Libera spazio</string>
      <string name="exit_dialog_release_storage_title">Libera spazio</string>
-     <string name="exit_dialog_scan_message">Il punteggio prestazionale del tuo dispositivo é basso di 75 punti. Ottimizzare ora?</string>
+     <string name="exit_dialog_scan_message">Il punteggio prestazionale del tuo dispositivo è basso di 75 punti. Ottimizzare ora?</string>
      <string name="exit_dialog_scan_positive_button">Ottimizza</string>
      <string name="exit_dialog_scan_title">Ottimizza prestazioni</string>
      <string name="finger_remind_message">Supporta lo sblocco con impronta digitale. Aggiungere impronta?</string>
