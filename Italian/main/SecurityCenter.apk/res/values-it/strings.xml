@@ -1895,7 +1895,7 @@ Questa attività riduce la durata della batteria."</string>
      <string name="summary_app_lock_disable">Blocca le applicazioni per proteggere la tua privacy</string>
      <string name="summary_auto_update">MIUI sceglierà il momento migliore per scaricare ed installare gli aggiornamenti.</string>
      <string name="summary_background_connection">Hai limitato la connessione in background per questa app. Tocca per correggere.</string>
-     <string name="summary_block_calls_from_cantacts">Stai utilizzando una lista di blocco, Tocca per correggere.</string>
+     <string name="summary_block_calls_from_cantacts">Stai utilizzando una lista di blocco. Tocca per correggere.</string>
      <string name="summary_block_calls_from_strangers">Hai consentito solo chiamate dai contatti. Tocca per correggere.</string>
      <string name="summary_cleaner_cloudscan">Carica e confronta i nomi sconosciuti con il database online</string>
      <string name="summary_cloud_account">Ottieni il massimo dal tuo dispositivo Mi</string>
