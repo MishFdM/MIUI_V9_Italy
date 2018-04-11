@@ -118,7 +118,11 @@
      <string name="express_entry_note">Nota:</string>
      <string name="express_entry_reserve">Richiesta eseguita</string>
      <string name="express_rom_start_install">Aggiorna usando la recovery della ROM</string>
+     <string name="express_update_reserve_check_text">I understand the difference between ROM versions</string>
      <string name="express_update_reserve_content">Non potrai aggiornare direttamente a questa versione ora. Richiedere aggiornamento (%1$s)? Ti notificheremo quando %1$s sarà disponibile per il tuo dispositivo. Fino a quel momento, dovrai ricevere regolarmente nuovi aggiornamenti.</string>
+     <string name="express_update_reserve_content2">"Some things will change after you upgrade to stable ROM. Here's what:
+1. Root access will be restricted even if you allowed it previously.
+2. Various features of the Beta ROM won't be available in its stable versions."</string>
      <string name="express_update_reserve_negative">Non richiedere</string>
      <string name="express_update_reserve_positive">Richiedi aggiornamento (%s)</string>
      <string name="express_update_switch_content_erase">La MIUI verrà aggiornata ad una nuova versione (%s). Questo aggiornamento potrebbe eliminare i tuoi dati.</string>
