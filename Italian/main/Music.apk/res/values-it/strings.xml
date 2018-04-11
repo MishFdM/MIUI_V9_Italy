@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="account">Account</string>
      <string name="account_and_cloud">Account</string>
@@ -801,7 +801,7 @@ attendere o selezionare Musica Online."</string>
      <string name="settings_search_title_notification">Notifiche musica</string>
      <string name="settings_search_title_vip_service">Canzoni premium</string>
      <string name="share_append_text">Da @MIUI</string>
-     <string name="share_choice">Select</string>
+     <string name="share_choice">Seleziona</string>
      <string name="share_chooser_title">Condividi usando</string>
      <string name="share_description">Da Mi Music</string>
      <string name="share_end_note">Da Mi Music</string>
