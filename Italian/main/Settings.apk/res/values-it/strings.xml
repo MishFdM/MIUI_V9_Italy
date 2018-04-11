@@ -1124,7 +1124,7 @@ Frequenza Campione"</string>
      <string name="confirm_erase">Elimina</string>
      <string name="confirm_fingerprint_icon_content_description">Usa la tua impronta per continuare.</string>
      <string name="confirm_fingerprint_msg">Appoggia il dito sul lettore di impronte</string>
-     <string name="confirm_frp_credential_message">Il tuo dispositivo verrà reinizializzato alle impostazioni di fabbrica, potrai sbloccarlo con i tuoi precedenti dati segreti.</string>
+     <string name="confirm_frp_credential_message">Il tuo dispositivo verrà ripristinato alle impostazioni di fabbrica, potrai sbloccarlo con i tuoi precedenti dati segreti.</string>
      <string name="confirm_frp_credential_skip_txt">UTILIZZA UN ACCOUNT GOOGLE INVECE</string>
      <string name="confirm_frp_credential_title">Protezione Reset di Fabbrica</string>
      <string name="confirm_new_backup_pw_prompt">"Digita nuovamente la nuova password di backup completo qui"</string>
@@ -3071,7 +3071,7 @@ ed esegui il software."</string>
      <string name="oldman_installed_current_btn">Ripristina schermata Home originaria</string>
      <string name="oldman_installed_current_des">Hai impostato la modalità Lite come schermata Home predefinita. Tocca il pulsante in basso per tornare alla schermata Home originale.</string>
      <string name="oldman_installed_not_current_btn">Imposta come schermata Home predefinita</string>
-     <string name="oldman_installed_not_current_des">La modalità Lite é installata sul tuo dispositivo. Puoi utilizzarla come tua schermata Home predefinita.</string>
+     <string name="oldman_installed_not_current_des">La modalità Lite è installata sul tuo dispositivo. Puoi utilizzarla come tua schermata Home predefinita.</string>
      <string name="oldman_mode_entry_name">Modalità Lite</string>
      <string name="oldman_uninstalled_btn">Installa</string>
      <string name="oldman_uninstalled_des">"La modalità Lite elimina l'ingombro visivo e mantiene la schermata Home semplice e minimale."</string>
@@ -5687,7 +5687,7 @@ Tocca "<b>Indietro</b>" per connetterti a un'altra rete Wi-Fi."</string>
      <string name="wifi_tether_configure_ssid_default">Hotspot-Android</string>
      <string name="wifi_tether_configure_subtext">Hotspot Wi-Fi %1$s %2$s</string>
      <string name="wifi_tether_enabled_subtext">Hotspot %1$s attivo</string>
-     <string name="wifi_tether_enabled_summary">%1$s é attivo</string>
+     <string name="wifi_tether_enabled_summary">%1$s è attivo</string>
      <string name="wifi_tether_failed_subtext">Errore hotspot Wi-Fi portatile</string>
      <string name="wifi_tether_setting_title">Impostazioni base</string>
      <string name="wifi_tether_settings_title">Hotspot personale</string>
