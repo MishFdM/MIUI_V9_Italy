@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="about_to_recover">Solo un attimo…</string>
      <string name="app_is_running">App in esecuzione…</string>
@@ -107,9 +107,9 @@ Nota: i dati delle applicazioni installate non verranno salvati su Mi Cloud."</s
      <string name="download_settings">Download impostazioni Home: %s%%</string>
      <string name="download_settings_fail">Download impostazioni Home fallito</string>
      <string name="error_unknown">Si è verificato un errore</string>
-     <string name="get_device_id_error">"Couldn't get device ID"</string>
-     <string name="home_hint_global_launcher">Poco Home screen</string>
-     <string name="home_restore_error">"Couldn't restore Home screen"</string>
+     <string name="get_device_id_error">Impossibile ottenere ID dispositivo</string>
+     <string name="home_hint_global_launcher">Schermata Home Poco</string>
+     <string name="home_restore_error">Impossibile ripristinare schermata Home</string>
      <string name="lack_of_storage">Spazio di archiviazione insufficiente</string>
      <string name="latest_backup_time_loading">Caricamento…</string>
      <string name="managespace_delete_backup">Elimina backup</string>
@@ -155,7 +155,7 @@ Nota: i dati delle applicazioni installate non verranno salvati su Mi Cloud."</s
      <string name="restore_unfinished">Ripristino incompleto, riprova più tardi</string>
      <string name="retry">Riprova</string>
      <string name="self_phone">Questo dispositivo</string>
-     <string name="self_phone_home">This phone: %s</string>
+     <string name="self_phone_home">Questo telefono: %s</string>
      <string name="settings_backup">Backup impostazioni</string>
      <string name="size_unknown">Dimensione sconosciuta</string>
      <string name="start_backup_to_micloud">Esegui backup su Mi Cloud</string>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="accessibility_calllog_detail">Dettagli registro chiamate</string>
      <string name="accessibility_contact_detail">Dettagli contatto</string>
@@ -868,9 +868,9 @@ Per aggiungere un contatto alla lista dei Preferiti:
      <string name="pref_key_photo_word_title">Foto per tutti</string>
      <string name="pref_key_rebuild_t9_index_message">"Ricostruisci i dati dell'indice per risolvere problemi con la ricerca"</string>
      <string name="pref_key_rebuild_t9_index_title">Ricostruzione indice</string>
-     <string name="pref_key_sdn_manage">View SDN</string>
-     <string name="pref_key_sdn_manage1">View SDN card 1</string>
-     <string name="pref_key_sdn_manage2">View SDN card 2</string>
+     <string name="pref_key_sdn_manage">Visualizza SDN</string>
+     <string name="pref_key_sdn_manage1">Visualizza SDN scheda 1</string>
+     <string name="pref_key_sdn_manage2">Visualizza SDN scheda 2</string>
      <string name="pref_key_sim_manage">Gestione SIM</string>
      <string name="pref_key_sim_manage1">Configura SIM 1</string>
      <string name="pref_key_sim_manage2">Configura SIM 2</string>
@@ -992,7 +992,7 @@ Tocca l'icona Unisci in basso per iniziare."</string>
      <string name="scanning_sdcard_failed_message">"Scansione dell'archivio non riuscita. Motivo: \"%s\"</string>
      <string name="scanning_sdcard_failed_title">La scheda SD non può essere scansionata</string>
      <string name="sdnContacts_empty">No SDN</string>
-     <string name="sdnContacts_emptyLoading">Loading SDN…</string>
+     <string name="sdnContacts_emptyLoading">Caricamento SDN…</string>
      <string name="searchHint">Cerca contatti</string>
      <string name="search_batch_delete">Organizza;Contatti</string>
      <string name="search_contacts_display">Contatti;Display</string>
@@ -1114,7 +1114,7 @@ Tocca l'icona Unisci in basso per iniziare."</string>
      <string name="social_widget_label">Contatto</string>
      <string name="social_widget_loading">Caricamento…</string>
      <string name="solar_calendar">Solare</string>
-     <string name="special_code_security_exception">Operation rejected：Not default dialer</string>
+     <string name="special_code_security_exception">Operazione rifiutata： Nessun compositore predefinito</string>
      <string name="splitConfirmation">Questo contatto verrà diviso in più contatti.</string>
      <string name="splitConfirmation_title">Separare contatto?</string>
      <string name="starredList">Speciali</string>

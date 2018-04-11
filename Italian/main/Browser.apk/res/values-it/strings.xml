@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="abc_action_bar_home_description">Vai alla home</string>
      <string name="abc_action_bar_up_description">Vai in alto</string>
@@ -132,7 +132,7 @@
      <string name="cancel">Annulla</string>
      <string name="cancle_sync_cloud_tabs">Annulla sincronizzazione</string>
      <string name="cannot_download">È possibile scaricare soltanto URL \"http\" o \"https\".</string>
-     <string name="cast_video">Cast video</string>
+     <string name="cast_video">Streaming video</string>
      <string name="check_security_tip_privacy_policy">Informativa Privacy</string>
      <string name="check_security_tip_user_agreement">Accordo Utente</string>
      <string name="choosertitle_sharevia">Condividi tramite</string>
@@ -157,7 +157,7 @@
      <string name="cloud_tabs_sync_off">Sincronizzazione disattivata</string>
      <string name="cloud_time_tips">Ultima sincronizzazione</string>
      <string name="cloud_up_to_loading_tips">Rilascia per sincronizzare</string>
-     <string name="collect_video">Collect video</string>
+     <string name="collect_video">Ottieni video</string>
      <string name="comment_app_menu">commenti</string>
      <string name="comment_description">Commento</string>
      <string name="comment_hint">Commenti</string>
@@ -268,7 +268,7 @@ stia per accadere"</string>
      <string name="download_status_pending">In attesa</string>
      <string name="download_success">Completato</string>
      <string name="download_title">Download</string>
-     <string name="download_video">Download video</string>
+     <string name="download_video">Scarica video</string>
      <string name="download_wait_connect">In attesa di connessione</string>
      <string name="edit">Modifica</string>
      <string name="edit_bookmark">Modifica segnalibro</string>
@@ -296,7 +296,7 @@ per vedere qui le schede cloud aperte su altri dispositivi"</string>
      <string name="error_unauthorized">Sincronizzazione disattivata a causa di un numero eccessivo di tentativi di accesso.</string>
      <string name="exit">Esci</string>
      <string name="exit_browser_warning">Esci dal browser?</string>
-     <string name="exit_fullscreen">Exit fullscreen</string>
+     <string name="exit_fullscreen">Esci da schermo intero</string>
      <string name="favorite">Preferito</string>
      <string name="file_dir">Cartella</string>
      <string name="file_name">File:</string>
@@ -657,15 +657,15 @@ Sei scuro di voler uscire da questa pagina?"</string>
         &lt;/ul&gt;"</string>
      <string name="mw_no_matches">Nessun risultato</string>
      <string name="mw_notification_category_browser">Browser</string>
-     <string name="mw_notification_category_content_suggestions">Content Suggestions</string>
-     <string name="mw_notification_category_downloads">Downloads</string>
-     <string name="mw_notification_category_fullscreen_controls">Full screen site controls</string>
-     <string name="mw_notification_category_group_general">General</string>
+     <string name="mw_notification_category_content_suggestions">Suggerimenti contenuto</string>
+     <string name="mw_notification_category_downloads">Download</string>
+     <string name="mw_notification_category_fullscreen_controls">Controlli sito a schermo intero</string>
+     <string name="mw_notification_category_group_general">Generale</string>
      <string name="mw_notification_category_incognito">Incognito</string>
      <string name="mw_notification_category_media">Media</string>
-     <string name="mw_notification_category_screen_capture">Screen Capture</string>
-     <string name="mw_notification_category_sites">Sites</string>
-     <string name="mw_notification_hidden_text">Contents hidden</string>
+     <string name="mw_notification_category_screen_capture">Cattura Schermo</string>
+     <string name="mw_notification_category_sites">Siti</string>
+     <string name="mw_notification_hidden_text">Contenuti nascosti</string>
      <string name="mw_ntp_title_no_suggestions">"E' tutto per adesso"</string>
      <string name="mw_older">Più vecchio</string>
      <string name="mw_opening_file_error">Impossibile aprire il file selezionato</string>
@@ -839,8 +839,8 @@ Ricorda che i file scaricati e i segnalibri che aggiungi verranno salvati comunq
      <string name="pay_success_toast">Pagamento eseguito</string>
      <string name="permission_notification">Invia notifiche</string>
      <string name="permissions_prompt_message">"%s vuole "</string>
-     <string name="play_pause_video">Play or pause video</string>
-     <string name="play_video">Play video</string>
+     <string name="play_pause_video">Riproduci o metti in pausa video</string>
+     <string name="play_video">Riproduci video</string>
      <string name="popup_video">Popup video</string>
      <string name="popup_window_attempt">Consentire al sito di aprire una finestra popup?</string>
      <string name="positive_confirm_message">Disattiva comunque</string>
@@ -1054,7 +1054,7 @@ Ricorda che i file scaricati e i segnalibri che aggiungi verranno salvati comunq
      <string name="sequence_bookmark_description">Modifica la sequenza dei segnalibri</string>
      <string name="share_image_text">Sto guardando una foto bellissima</string>
      <string name="share_page_text">"Mi sto godendo %1$s | %2$s"</string>
-     <string name="share_video">Share video</string>
+     <string name="share_video">Condividi video</string>
      <string name="show_check_security_url_check_tip_dialog_description">"Raccoglieremo ed utilizzeremo i tuoi dati personali se scegli di utilizzare il nostro servizio.
 Questi sono i dati che raccoglieremo:
 1. URL sicuri: raccoglieremo gli URL dei siti che visiti mentre utilizzi il nostro servizio.

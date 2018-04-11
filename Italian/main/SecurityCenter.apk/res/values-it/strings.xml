@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="Phonepass">Consenti chiamate</string>
      <string name="SMS_and_MMS">SMS e MMS</string>
@@ -604,8 +604,8 @@ Il tuo operatore potrebbe addebitarti costi aggiuntivi se attivi di nuovo la ret
      <string name="diagnostic_attention_dialog_message">"Diagnostica per %1$s in corso. Attendi che finisca e riprova."</string>
      <string name="dialog_app_roaming_message">"%1$s non può usare la connessione dati durante il roaming. Quando usi il roaming all'estero, solo le app che hai aggiunto alle eccezioni potranno usare la connessione dati."</string>
      <string name="dialog_app_roaming_title">Roaming estero non è attivo per %1$s</string>
-     <string name="dialog_button_ignore">Ignore</string>
-     <string name="dialog_button_yes">Yes</string>
+     <string name="dialog_button_ignore">Ignora</string>
+     <string name="dialog_button_yes">Si</string>
      <string name="dialog_msg_auto_start_declare">Alcune app di sicurezza potrebbero indicare erroneamente che MIUI sta impedendo alle app di avviarsi. Per verificare i permessi concessi alle singole app, vai in Impostazioni > Applicazioni</string>
      <string name="dialog_msg_stop_virus_scan">Interrompe la scansione antivirus prima che sia terminata</string>
      <string name="dialog_no_longer_alert">Non mostrare più</string>
@@ -705,16 +705,16 @@ Il tuo operatore potrebbe addebitarti costi aggiuntivi se attivi di nuovo la ret
      <string name="exception_notify_message">Eccezione statistiche di rete, si consiglia di riavviare</string>
      <string name="exception_titile">Eccezioni assistente di rete</string>
      <string name="exit">Esci</string>
-     <string name="exit_dialog_garbage_clean_message">The amount of trash on your device is more than %s. Clean up trash?</string>
-     <string name="exit_dialog_garbage_clean_positive_button">Clean up</string>
-     <string name="exit_dialog_garbage_clean_title">Clean up trash</string>
-     <string name="exit_dialog_homepage_optimise_message">"Your device's performance score is lower than 80 points. Optimize now?"</string>
-     <string name="exit_dialog_release_storage_message">More than 80% of storage on your device is occupied. Free up space by uninstalling the apps you never use.</string>
-     <string name="exit_dialog_release_storage_positive_button">Free up space</string>
-     <string name="exit_dialog_release_storage_title">Free up space</string>
-     <string name="exit_dialog_scan_message">"Your device's performance score is lower than 75 points. Optimize now?"</string>
-     <string name="exit_dialog_scan_positive_button">Optimize</string>
-     <string name="exit_dialog_scan_title">Optimize performance</string>
+     <string name="exit_dialog_garbage_clean_message">"L'ammontare di dati sul tuo dispositivo supera i %s. Pulire ora?"</string>
+     <string name="exit_dialog_garbage_clean_positive_button">Pulisci</string>
+     <string name="exit_dialog_garbage_clean_title">Pulisci dati</string>
+     <string name="exit_dialog_homepage_optimise_message">Il punteggio prestazionale del tuo dispositivo è basso di 80 punti. Ottimizzare ora?</string>
+     <string name="exit_dialog_release_storage_message">"Piú dell'80% di memoria del tuo dispositivo è occupata. Libera spazio disinstallando le app inutilizzate."</string>
+     <string name="exit_dialog_release_storage_positive_button">Libera spazio</string>
+     <string name="exit_dialog_release_storage_title">Libera spazio</string>
+     <string name="exit_dialog_scan_message">Il punteggio prestazionale del tuo dispositivo è basso di 75 punti. Ottimizzare ora?</string>
+     <string name="exit_dialog_scan_positive_button">Ottimizza</string>
+     <string name="exit_dialog_scan_title">Ottimizza prestazioni</string>
      <string name="finger_remind_message">Supporta lo sblocco con impronta digitale. Aggiungere impronta?</string>
      <string name="fingerprint_identify_msg">Scansione impronta…</string>
      <string name="fingerprint_not_identified_msg">Per sbloccare il dispositivo, inserisci la tua password.</string>
@@ -803,12 +803,12 @@ Il tuo operatore potrebbe addebitarti costi aggiuntivi se attivi di nuovo la ret
      <string name="gb_description_image_button_video_answer">Video chiamata</string>
      <string name="gb_get_gift_right_now">Registrati ora</string>
      <string name="gb_have_signed">Registrato oggi</string>
-     <string name="gb_msg_completely_shielded">Hide messages</string>
-     <string name="gb_msg_completely_shielded_summary">Hide</string>
-     <string name="gb_msg_quickly_answer">Allow quick replies</string>
-     <string name="gb_msg_quickly_answer_summary">Quick replies</string>
-     <string name="gb_msg_transparent_dispaly">Notifications with transparent background</string>
-     <string name="gb_msg_transparent_dispaly_summary">Transparent</string>
+     <string name="gb_msg_completely_shielded">Nascondi messaggi</string>
+     <string name="gb_msg_completely_shielded_summary">Nascondi</string>
+     <string name="gb_msg_quickly_answer">Consenti risposte veloci</string>
+     <string name="gb_msg_quickly_answer_summary">Risposte veloci</string>
+     <string name="gb_msg_transparent_dispaly">Notifiche con sfondo trasparente</string>
+     <string name="gb_msg_transparent_dispaly_summary">Trasparente</string>
      <string name="gb_network_status_bad">Si è verificato un errore di connessione.</string>
      <string name="gb_new_feature">Nuova funzionalità</string>
      <string name="gb_sign_gift">Registrati per ottenere premi</string>
@@ -1894,9 +1894,9 @@ Questa attività riduce la durata della batteria."</string>
      <string name="suggest_scan_again">Si consigli a di completare la scansione per una sicurezza totale.</string>
      <string name="summary_app_lock_disable">Blocca le applicazioni per proteggere la tua privacy</string>
      <string name="summary_auto_update">MIUI sceglierà il momento migliore per scaricare ed installare gli aggiornamenti.</string>
-     <string name="summary_background_connection">You restricted background connection for this app. Tap to fix.</string>
-     <string name="summary_block_calls_from_cantacts">"You're using blocklist. Tap to fix."</string>
-     <string name="summary_block_calls_from_strangers">You only allow calls from contacts. Tap to fix.</string>
+     <string name="summary_background_connection">Hai limitato la connessione in background per questa app. Tocca per correggere.</string>
+     <string name="summary_block_calls_from_cantacts">Stai utilizzando una lista di blocco. Tocca per correggere.</string>
+     <string name="summary_block_calls_from_strangers">Hai consentito solo chiamate dai contatti. Tocca per correggere.</string>
      <string name="summary_cleaner_cloudscan">Carica e confronta i nomi sconosciuti con il database online</string>
      <string name="summary_cloud_account">Ottieni il massimo dal tuo dispositivo Mi</string>
      <string name="summary_cloud_service">Sincronizza le foto, i contatti e molto altro su tutti i tuoi dispositivi</string>
@@ -1907,8 +1907,8 @@ Questa attività riduce la durata della batteria."</string>
      <string name="summary_data_flow">Evita di superare la soglia dati mensile</string>
      <string name="summary_default_app">%s non è impostata come app di sistema predefinita</string>
      <string name="summary_dev">Evita i pericoli e protegge i dati personali</string>
-     <string name="summary_do_not_disturb">"You're using DND mode. Tap to fix."</string>
-     <string name="summary_eye_shield">"You're using Reading mode. Tap to fix."</string>
+     <string name="summary_do_not_disturb">Sei in modalità DND. Tocca per correggere.</string>
+     <string name="summary_eye_shield">Sei in modalità lettura. Tocca per correggere.</string>
      <string name="summary_find_device">Localizza e rintraccia il tuo dispositivo ovunque ti trovi</string>
      <string name="summary_flow_notification">Mostra le statistiche mensili nel pannello di notifica</string>
      <string name="summary_flow_purchase">Sembra che non ti rimanga molto traffico dati. Ricarica per rimanere connesso.</string>
@@ -1926,7 +1926,7 @@ Questa attività riduce la durata della batteria."</string>
      <string name="summary_permission_root">Il tuo dispositivo ed i dati personali in esso contenuti sono più vulnerabili ad attacchi provenienti da applicazioni con permessi root</string>
      <string name="summary_power_optimizer">Riduci le prestazioni del tuo dispositivo quando la batteria è scarica</string>
      <string name="summary_realname_verify">Verifica la tua identità per rendere i pagamenti più sicuri.</string>
-     <string name="summary_restrict_data_usage">You restricted data usage for this app. Tap to fix.</string>
+     <string name="summary_restrict_data_usage">"Hai limitato l'utilizzo di dati per questa app. Tocca per correggere."</string>
      <string name="summary_show_notification">Cancella cache, mostra lo stato della batteria e blocca gli elementi nel pannello delle notifiche</string>
      <string name="summary_telecom_operator">Ottieni le statistiche mensili dal tuo operatore</string>
      <string name="summary_usb">Evita la diffusione di virus da altri dispositivi</string>
@@ -2048,9 +2048,9 @@ Questa attività riduce la durata della batteria."</string>
      <string name="title_app_lock_disable">Blocca app</string>
      <string name="title_app_update">Aggiornamento disponibile</string>
      <string name="title_auto_update">Aggiorna automaticamente</string>
-     <string name="title_background_connection">"Can't use %s in the background?"</string>
-     <string name="title_block_calls_from_cantacts">Miss calls from your contacts?</string>
-     <string name="title_block_calls_from_strangers">Miss important calls?</string>
+     <string name="title_background_connection">Non puoi utilizzare %s in background?</string>
+     <string name="title_block_calls_from_cantacts">Hai perso chiamate dai tuoi contatti?</string>
+     <string name="title_block_calls_from_strangers">Hai perso chiamate importanti?</string>
      <string name="title_chain_start">Limita catena di avvio</string>
      <string name="title_cleaner_cloudscan">Utilizza motore di pulizia online</string>
      <string name="title_cloud_account">Mi Account</string>
@@ -2065,8 +2065,8 @@ Questa attività riduce la durata della batteria."</string>
      <string name="title_dev_no">Opzioni sviluppatore attivate</string>
      <string name="title_dev_yes">Opzioni sviluppatore disattivate</string>
      <string name="title_device_not_root">I permessi di root non sono stati concessi</string>
-     <string name="title_do_not_disturb">"Can't hear your ringtone?"</string>
-     <string name="title_eye_shield">"Screen color doesn't look right?"</string>
+     <string name="title_do_not_disturb">Non riesci a sentire la tua suoneria?</string>
+     <string name="title_eye_shield">I colori dello schermo non vengono riprodotti correttamente?</string>
      <string name="title_find_device">Attiva Trova dispositivo</string>
      <string name="title_flow_notification">Rapporto utilizzo dati</string>
      <string name="title_flow_purchase">"È il momento di ricaricare"</string>
@@ -2095,7 +2095,7 @@ Questa attività riduce la durata della batteria."</string>
      <string name="title_permission_yes">Gestore permessi attivato</string>
      <string name="title_power_optimizer">Risparmio batteria</string>
      <string name="title_realname_verify">Verifica ID</string>
-     <string name="title_restrict_data_usage">"%s can't connect to the internet?"</string>
+     <string name="title_restrict_data_usage">"%s non riesce a connettersi ad Internet?</string>
      <string name="title_show_notification">Controlli pannello di notifica</string>
      <string name="title_system_auto_download">Gli aggiornamenti verranno scaricati automaticamente</string>
      <string name="title_telecom_operator">Utilizza il conteggio del gestore</string>
