@@ -1617,6 +1617,7 @@ Il prossimo periodo inizia tra %2$d giorni (%3$s)"</string>
      <string name="verify_apps_over_usb_title">Verifica app tramite USB</string>
      <string name="vibrate_after_connected_summary">Vibra quando rispondi</string>
      <string name="vibrate_after_connected_title">Vibra dopo la connessione</string>
+     <string name="vice_card_data_in_use_alert">Additional data fees may be generated.</string>
      <string name="vice_slot_volte_data_switch_prompt">Il dispositivo si collegherà ad una rete dati mobile tramite una SIM secondaria durante le chiamate in uscita VoLTE. Questo può generare costi aggiuntivi. Contatta il tuo operatore per informazioni dettagliate sui tuo piano.</string>
      <string name="vice_slot_volte_data_switch_summary">Durante le chiamate VoLTE, il dispositivo si collegherà ad una rete dati mobile tramite una SIM secondaria</string>
      <string name="vice_slot_volte_data_switch_title">Usa rete dati mobile durante le chiamate VoLTE sulla SIM secondaria.</string>
@@ -1662,6 +1663,7 @@ Contatta il tuo operatore se questo problema persiste."</string>
      <string name="volte_switch_summary">Utilizza VoLTE per migliorare la qualità audio e video delle chiamate</string>
      <string name="volte_switch_summary2">Confirm that your carrier supports this feature before turning on. Otherwise, regular calls might be affected.</string>
      <string name="volte_switch_title">VoLTE attivato</string>
+     <string name="volte_switch_title_ct">VoLTE enabled</string>
      <string name="volte_tips_when_turn_on">China Telecom VoLTE services are only provided in the areas with LTE network coverage.</string>
      <string name="vpn_settings_not_available">Impostazioni VPN non disponibili per questo utente</string>
      <string name="vvm_unsupported_message_format">Tipi di messaggi non supportati, chiama %s per ascoltare.</string>
