@@ -4702,7 +4702,6 @@ L'approccio di Google alla sincronizzazione di dati per consentirti l'accesso ai
      <string name="tether_devices_management_title">Gestisci dispositivi</string>
      <string name="tether_devices_max_number">Limite di dispositivi collegati</string>
      <string name="tether_limit_dialog_title">Limite dati mobili</string>
-     <string name="tether_limit_value_custom">Personalizzato</string>
      <string name="tether_over_limit_dialog_cancle_btn">Reimposta hotspot</string>
      <string name="tether_over_limit_dialog_message">"Hai raggiunto il limite dati dell'hotspot portatile."</string>
      <string name="tether_over_limit_dialog_title">Avviso utilizzo dati</string>
