@@ -65,7 +65,7 @@ Leggi questo documento per la tastiera: "</string>
      <string name="shut_down">Spegni</string>
      <string name="sim_card_detecting">Controllo SIM in corso…</string>
      <string name="sim_card_detecting_check">Impossibile trovare SIM. Assicurati che la SIM sia correttamente installata e di avere credito sufficiente."</string>
-     <string name="sim_card_detecting_confirm_turn_on_network">Allow connecting to mobile data networks? If you do, the SIM card you insert will be used to connect to mobile data networks.</string>
+     <string name="sim_card_detecting_confirm_turn_on_network">Consenti il collegamento a reti dei dati mobili? Se lo fai, la scheda SIM che si inserisce sarà utilizzata per connettersi alle reti dei dati mobili.</string>
      <string name="sim_card_detecting_title">Cerca SIM</string>
      <string name="sim_card_detection">Nessuna SIM rilevata</string>
      <string name="sim_card_detection_info">Hai bisogno di una SIM per impostare il tuo Mi Account.</string>
