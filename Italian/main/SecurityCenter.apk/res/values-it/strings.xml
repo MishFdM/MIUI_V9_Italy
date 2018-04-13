@@ -1765,7 +1765,7 @@ Questa attività riduce la durata della batteria."</string>
      <string name="sp_toast_removed_from_sign_white_list">Rimossa dalle eccezioni. La prossima volta verrà scansionata.</string>
      <string name="special_number_group">Blocco numeri speciali</string>
      <string name="sponsored_sec_fb">Sponsorizzato</string>
-     <string name="ss_activity_main_support_text">Powered by %s</string>
+     <string name="ss_activity_main_support_text">Offerto da %s</string>
      <string name="st_antispam_black_adress_add">Seleziona area</string>
      <string name="st_antispam_bw_adress_add">Seleziona località</string>
      <string name="st_antispam_bw_choose_modes">Seleziona modalità</string>
