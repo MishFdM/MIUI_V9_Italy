@@ -2035,7 +2035,7 @@ Quando attivi il backup automatico, il dispositivo e i dati delle applicazioni v
      <string name="gxzw_add_fingerprint_move_indicate">Muovi leggermente il dito</string>
      <string name="gxzw_add_fingerprint_move_message">Troppe aree di ripetizione delle dita, muovi leggermente il dito</string>
      <string name="gxzw_add_fingerprint_move_title">Muovi leggermente il dito</string>
-     <string name="gxzw_add_fingerprint_put_finger_message">Premi più forte, solleva dopo la vibrazione e ripetuti più volte</string>
+     <string name="gxzw_add_fingerprint_put_finger_message">Premi più forte, solleva dopo la vibrazione e ripeti più volte</string>
      <string name="gxzw_add_fingerprint_put_finger_title">Premi più forte, solleva dopo la vibrazione</string>
      <string name="gxzw_add_fingerprint_title">"Aggiungi un'impronta digitale"</string>
      <string name="handy_mode">Uso con una mano</string>
