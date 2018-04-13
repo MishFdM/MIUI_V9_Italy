@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="Accounts_settings_title">Account</string>
      <string name="abc_action_bar_home_description">Naviga nella home</string>
@@ -170,6 +170,7 @@ Nota: il tocco triplo per ingrandire funziona ovunque tranne che per la tastiera
      <string name="add_device_admin">Attiva</string>
      <string name="add_device_admin_msg">Attivare amministratore dispositivo?</string>
      <string name="add_facerecoginition_text">Aggiungi dati viso</string>
+     <string name="add_fingerprint_cancel_button_text">Back</string>
      <string name="add_fingerprint_done_msg">Adesso puoi sbloccare il dispositivo con le impronte digitali.</string>
      <string name="add_fingerprint_done_title">Finito.</string>
      <string name="add_fingerprint_edge_instruction_msg">Sposta il dito sul sensore così che possa leggere i dettagli della tua impronta digitale.</string>
@@ -2024,6 +2025,19 @@ Quando attivi il backup automatico, il dispositivo e i dati delle applicazioni v
      <string name="google_title">Google</string>
      <string name="got_it">OK</string>
      <string name="gsm_to_wifi_connect_type_title">Da rete cellulare a Wi-Fi</string>
+     <string name="gxzw_add_fingerprint_continue">Continue</string>
+     <string name="gxzw_add_fingerprint_edge_message">Move your finger so the sensor could record the edges of your fingerprint.</string>
+     <string name="gxzw_add_fingerprint_edge_title">Move your finger slightly</string>
+     <string name="gxzw_add_fingerprint_finish">Finish</string>
+     <string name="gxzw_add_fingerprint_indicate">Press harder here</string>
+     <string name="gxzw_add_fingerprint_know">Got it</string>
+     <string name="gxzw_add_fingerprint_message">Keep fingers and screen surface clean</string>
+     <string name="gxzw_add_fingerprint_move_indicate">Move your finger slightly</string>
+     <string name="gxzw_add_fingerprint_move_message">Too many finger repeat areas, please move your finger slightly</string>
+     <string name="gxzw_add_fingerprint_move_title">Move your finger slightly</string>
+     <string name="gxzw_add_fingerprint_put_finger_message">Press harder, lifted after vibration and repeated several times</string>
+     <string name="gxzw_add_fingerprint_put_finger_title">Press harder, lift after vibration</string>
+     <string name="gxzw_add_fingerprint_title">Add fingerprint</string>
      <string name="handy_mode">Uso con una mano</string>
      <string name="handy_mode_enable">Modalità mano singola</string>
      <string name="handy_mode_size">Dimensione schermo</string>
