@@ -73,9 +73,9 @@
      <string name="fingerprint_try_again_msg">"Impossibile verificare l'impronta, prova di nuovo."</string>
      <string name="fingerprint_try_again_text">Prova di nuovo</string>
      <string name="forget_password_string">Dimentica password</string>
-     <string name="gxzw_press_harder">Please press harder</string>
-     <string name="gxzw_try_more_again">Try more again</string>
-     <string name="gxzw_use_password">Please use password</string>
+     <string name="gxzw_press_harder">Premi più forte</string>
+     <string name="gxzw_try_more_again">Prova di nuovo</string>
+     <string name="gxzw_use_password">Utilizza una password</string>
      <string name="incorrect_pincode">PIN non corretto</string>
      <string name="incorrect_pukcode">PUK non corretto</string>
      <string name="input_password_after_boot_msg">Inserisci la password per sbloccare il dispositivo</string>
