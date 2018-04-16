@@ -36,11 +36,11 @@
      <string name="afdcalibration_test">TEST CALIBRAZIONE AFD</string>
      <string name="afdcalibrationrubberstamp_test">TEST CALIBRAZIONE TIMBRO AFD</string>
      <string name="afdrubberstamp_test">TEST TIMBRO AFD</string>
-     <string name="audio_spk_cal_wait">Calibration, please...</string>
-     <string name="audio_spk_def">Calibrate the speakers, please</string>
+     <string name="audio_spk_cal_wait">Calibra, per favore...</string>
+     <string name="audio_spk_def">Calibra gli altoparlanti, per favore</string>
      <string name="baterry_percent">"Totale ricarica batteria: "</string>
      <string name="baterry_temperature">"Temperatura batteria: "</string>
-     <string name="battery_info">Charging battery related information</string>
+     <string name="battery_info">Informazioni di ricarica relative alla batteria</string>
      <string name="begin_to_save_finger_data">Inizio salvataggio dati dito</string>
      <string name="button_ok">OK</string>
      <string name="camera_capture">Cattura</string>
@@ -122,20 +122,20 @@ Avvicina il dispositivo al viso e parla al ricevitore: dovresti sentire la tua v
      <string name="cit_audio_loopback_summary_dualmic_earpiece">"Test di riduzione rumore ambientale.
 
 Impugna il dispositivo come se stessi chiamando e parla al microfono principale: dovresti sentire la tua voce senza rumori di fondo nel ricevitore."</string>
-     <string name="cit_audio_rcv_type">"Audio receiver vendor: "</string>
-     <string name="cit_audio_rcv_usetime">"Audio receiver use time: "</string>
+     <string name="cit_audio_rcv_type">"Ricevitore audio: "</string>
+     <string name="cit_audio_rcv_usetime">"Tempo di utilizzo del ricevitore audio: "</string>
      <string name="cit_audio_right_caldata">"Dati calibrazione PA destro:
 "</string>
      <string name="cit_audio_right_calfail">Calibrazione PA destro Fallito!</string>
      <string name="cit_audio_spk_type">"Audio speaker vendor: "</string>
      <string name="cit_audio_spk_usetime">"Audio speaker use time: "</string>
      <string name="cit_aux_camera_action">Zoom</string>
-     <string name="cit_aux_camera_check_summary">"Test instructions:
+     <string name="cit_aux_camera_check_summary">"Istruzioni di prova:
 
-1.Tap the Zoom button below to enter Camera interface
-2.Tap the zoom button on camera preview, preview frame will zoom in
-3.Tap the Done icon."</string>
-     <string name="cit_back_pointer_location_title">Back touch sensor</string>
+1.Tocca il pulsante Zoom sotto per accedere all'interfaccia della fotocamera
+2.Tocca il pulsante di zoom sull'anteprima della videocamera, l'anteprima della cornice si ingrandirà
+3.Tocca l'icona Fine."</string>
+     <string name="cit_back_pointer_location_title">Sensore touch posteriore</string>
      <string name="cit_battery_check_summary">Statistiche batteria dispositivo</string>
      <string name="cit_battery_check_title">Informazioni batteria</string>
      <string name="cit_battery_temp_fail">La temperatura della batteria non è nella norma (valore: %d)</string>
