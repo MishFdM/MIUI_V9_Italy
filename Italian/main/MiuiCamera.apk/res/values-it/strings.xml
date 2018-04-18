@@ -343,6 +343,8 @@ per rendere il tuo corpo ancor più chiaro e meraviglioso"</string>
      <string name="pref_camera_peak_title">Messa a fuoco Peak</string>
      <string name="pref_camera_picture_format_entry_jpeg">JPEG</string>
      <string name="pref_camera_picture_format_entry_raw">RAW</string>
+     <string name="pref_camera_picturesize_entry_fullscreen">Schermo Intero 16:9</string>
+  <string name="pref_camera_picturesize_entry_standard">Normale 4:3</string>
      <string name="pref_camera_picturesize_title_simple_mode">Formato immagine</string>
      <string name="pref_camera_portrait_mode_entry_off">Modalità ritratto disattivata</string>
      <string name="pref_camera_portrait_mode_entry_on">Modalità ritratto attivata</string>
