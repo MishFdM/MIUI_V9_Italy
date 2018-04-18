@@ -145,6 +145,7 @@ Il soggetto non deve essere più lontano di 2 metri."</string>
      <string name="face_score_info">Punto: %.1f</string>
      <string name="front_camera_hint_text_place">"Fare un selfie sarà più facile se ruoti il telefono"</string>
      <string name="front_camera_hint_text_rotate">Ruota il tuo telefono</string>
+     <string name="groupshot_mode_use_hint">La fotocamera scatterà più foto per creare uno scatto con il risultato migliore.</string>
      <string name="hine_hht">"Con poca luce ambientale, verranno scattate foto multiple
 per la costruzione di uno scatto con il minimo rumore."</string>
      <string name="hint_device_water_mark">Il logo del dispositivo verrà aggiunto automaticamente.</string>
@@ -208,6 +209,7 @@ per rendere il tuo corpo ancor più chiaro e meraviglioso"</string>
      <string name="pref_camera_antibanding_entry_3">Auto</string>
      <string name="pref_camera_antibanding_title">Anti banding</string>
      <string name="pref_camera_asd_night_title">Miglioramento foto notturne</string>
+     <string name="pref_camera_asd_popup_title">Notify when flash is needed</string>
      <string name="pref_camera_audio_capture_title">Scatto vocale</string>
      <string name="pref_camera_auto_capture_when_stable_summary">"Per selezionare un oggetto, tocca due punti in diagonale lungo il suo bordo. Quando l'oggetto sarà stabile, la fotocamera scatterà automaticamente."</string>
      <string name="pref_camera_auto_capture_when_stable_title">Scatta quando è stabile</string>
@@ -431,7 +433,6 @@ per rendere il tuo corpo ancor più chiaro e meraviglioso"</string>
      <string name="pref_front_mirror_label_auto">Auto</string>
      <string name="pref_front_mirror_title">Fotoc. frontale (effetto specchio)</string>
      <string name="pref_groupshot_with_primitive_title">Salva la prima immagine nella modalità Foto di Gruppo</string>
-	 <string name="groupshot_mode_use_hint">La fotocamera scatterà più foto per creare uno scatto con il risultato migliore.</string>
      <string name="pref_manual_exposure_title">Esp. manuale</string>
      <string name="pref_priority_storage_title">Salva su scheda SD</string>
      <string name="pref_qc_focus_position_title">Messa a fuoco</string>
@@ -447,6 +448,7 @@ per rendere il tuo corpo ancor più chiaro e meraviglioso"</string>
      <string name="pref_skin_beautify_intelligent_title">Intelligente</string>
      <string name="pref_skin_beautify_slim_title">Sottile</string>
      <string name="pref_skin_beautify_smooth_title">Liscio</string>
+     <string name="pref_video_captrue_ability_title">Image capture while recording</string>
      <string name="pref_video_focusmode_entry_auto">Tocca</string>
      <string name="pref_video_focusmode_entry_continuous">CAF</string>
      <string name="pref_video_focusmode_title">Modalità focus</string>

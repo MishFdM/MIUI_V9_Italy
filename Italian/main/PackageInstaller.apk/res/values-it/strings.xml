@@ -461,8 +461,6 @@
      <string name="uninstalling_notification_channel">Esecuzione delle disinstallazioni</string>
      <string name="unknown">Sconosciuto</string>
      <string name="unknown_apps_admin_dlg_text">"L'amministratore non consente l'installazione di app ottenute da origini sconosciute."</string>
-     <string name="unknown_apps_dlg_text">"Per motivi di sicurezza, il telefono è impostato per bloccare l'installazione di app ottenute da fonti sconosciute."</string>
-     <string name="unknown_apps_dlg_title">Blocco installazione</string>
      <string name="unknown_apps_user_restriction_dlg_text">Le app sconosciute non possono essere installate da questo utente</string>
      <string name="untrusted_external_source_warning">Per motivi di sicurezza, il telefono non è autorizzato a installare app sconosciute da questa fonte.</string>
      <string name="usb_audio_disable_routing">Disattiva routing audio USB</string>

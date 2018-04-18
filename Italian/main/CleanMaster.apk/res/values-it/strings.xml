@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="activity_title_ad">Pubblicità</string>
      <string name="activity_title_apk">Pacchetti</string>
@@ -168,6 +168,7 @@
      <string name="default_cache_type">Dati File</string>
      <string name="delete_confirm">Elimina</string>
      <string name="delete_confirm_msg">Eliminare questi file in modo permanente?</string>
+     <string name="desc_image">image</string>
      <string name="dialog_content_checkbox_delete_cloud_image">Rimuovi le foto anche da Mi Cloud</string>
      <string name="dialog_content_select_all_confirm">Mantenere una copia di questa immagine?</string>
      <string name="dialog_msg_add_white_list_error">"Il file non supporta l'aggiunta di eccezioni"</string>
