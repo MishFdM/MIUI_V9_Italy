@@ -10,6 +10,14 @@
         <item>Lun-Ven</item>
         <item>Personalizza</item>
      </string-array>
+     <string-array name="standard_configuration_version_description_primary">
+        <item>CPU</item>
+        <item>Capacità batteria</item>
+        <item>Videocamera posteriore</item>
+        <item>Dimensione schermo</item>
+        <item>Risoluzione</item>
+        <item>Versione Android</item>
+    </string-array>
      <string-array name="alarm_repeat_type_no_workdays">
         <item>Tutti i giorni</item>
         <item>Giorni feriali</item>
