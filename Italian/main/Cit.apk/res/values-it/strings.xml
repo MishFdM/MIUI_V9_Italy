@@ -127,8 +127,8 @@ Impugna il dispositivo come se stessi chiamando e parla al microfono principale:
      <string name="cit_audio_right_caldata">"Dati calibrazione PA destro:
 "</string>
      <string name="cit_audio_right_calfail">Calibrazione PA destro Fallito!</string>
-     <string name="cit_audio_spk_type">"Audio speaker vendor: "</string>
-     <string name="cit_audio_spk_usetime">"Audio speaker use time: "</string>
+     <string name="cit_audio_spk_type">"Costruttore altoparlanti: "</string>
+     <string name="cit_audio_spk_usetime">"Tempo di utilizzo altoparlanti: "</string>
      <string name="cit_aux_camera_action">Zoom</string>
      <string name="cit_aux_camera_check_summary">"Istruzioni di prova:
 
