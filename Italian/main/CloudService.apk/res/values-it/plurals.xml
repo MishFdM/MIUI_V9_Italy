@@ -56,10 +56,6 @@
         <item quantity="other">Elementi in attesa di sincronizzazione: %d</item>
         <item quantity="one">Elemento in sincronizzazione: %d</item>
      </plurals>
-     <plurals name="items_waiting_to_sync">
-        <item quantity="other">%d elementi in attesa di sincronizzazione</item>
-        <item quantity="one">%d elemento in attesa di sincronizzazione</item>
-     </plurals>
      <plurals name="micloud_main_resume_sync_hour">
         <item quantity="other">Riprendi la sincronizzazione dopo %d ore</item>
         <item quantity="one">Riprendi la sincronizzazione dopo %d ora</item>
@@ -67,9 +63,5 @@
      <plurals name="micloud_main_resume_sync_min">
         <item quantity="other">Riprendi la sincronizzazione dopo %d minuti</item>
         <item quantity="one">Riprendi la sincronizzazione dopo %d minuto</item>
-     </plurals>
-     <plurals name="sync_items_close">
-        <item quantity="other">%d disattivati</item>
-        <item quantity="one">%d disattivato</item>
      </plurals>
 </resources>

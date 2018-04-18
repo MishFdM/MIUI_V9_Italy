@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="Active">Attivo</string>
      <string name="PassWordGuard">Password Spazio Secondario</string>
@@ -155,6 +155,7 @@ Puoi anche scaricarli separatamente"</string>
      <string name="lock_screen_open_second_space">Entra nel Spazio Secondario dalla schermata di blocco</string>
      <string name="messageData">Messaggi</string>
      <string name="msg_switch_file">Eliminare questi file dallo spazio Primario dopo lo spostamento?</string>
+     <string name="msg_switch_file_second">Delete these files in Second space after they are moved?</string>
      <string name="msg_switch_photo">Eliminare queste foto dallo spazio Primario dopo lo spostamento?</string>
      <string name="needSetKeyguardFirst">Imposta la password per lo spazio Primario</string>
      <string name="needSetKeyguardFirstDes">Imposta la password per lo spazio Primario prima di impostare quella per lo Spazio Secondario</string>

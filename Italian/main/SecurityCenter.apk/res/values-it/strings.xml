@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="Phonepass">Consenti chiamate</string>
      <string name="SMS_and_MMS">SMS e MMS</string>
@@ -26,10 +26,10 @@
      <string name="access_control_app_is_launching">App in avvio</string>
      <string name="access_control_failed_need_to_unlock_nofingerprint">"E' richiesta la password per aprire l'app"</string>
      <string name="access_control_fingerprint_not_identified_msg">Impossibile trovare impronta.</string>
-     <string name="access_control_need_password">"%s blocco aggiunta con successo
-"</string>
+     <string name="access_control_need_password">"%s blocco aggiunta con successo"</string>
      <string name="access_control_need_to_unlock_nofingerprint">Inserisci password di sblocco</string>
      <string name="accessibility_service_description" />
+     <string name="accessibility_gameboosterservice_description">Attiva questa opzione per silenziare le chiamate WeChat durante le fasi di gioco</string>
      <string name="action_button_text_100">Ottimizza</string>
      <string name="action_button_text_60">Ottimizza</string>
      <string name="action_button_text_60_80">Ottimizza</string>
@@ -1038,6 +1038,7 @@ dall'operatore"</string>
      <string name="main_toolbar_statistic">Statistiche utilizzo dati</string>
      <string name="main_used_bill">%s CNY</string>
      <string name="man_add_application">Aggiungi manualmente app in avvio automatico</string>
+     <string name="managed_user_title">All work apps</string>
      <string name="manual_input_free_traffic">Imposta utilizzo dati fuori soglia</string>
      <string name="manual_input_traffic">Imposta utilizzo dati</string>
      <string name="manual_item_white_list_summary">Non ottimizzare le app selezionate</string>

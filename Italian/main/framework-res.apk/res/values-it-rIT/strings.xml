@@ -855,6 +855,7 @@ Riprova tra %d secondi."</string>
      <string name="mobile_provisioning_url" />
      <string name="month_day_year" formatted="false">%B %-e, %Y</string>
      <string name="more_item_label">Altro</string>
+     <string name="move_button_text">Switch</string>
      <string name="muted_by">Audio disattivato da %1$s</string>
      <string name="needPuk">La SIM è bloccata tramite PUK. Digita il codice PUK per sbloccarla.</string>
      <string name="needPuk2">Digita il PUK2 per sbloccare la SIM.</string>
