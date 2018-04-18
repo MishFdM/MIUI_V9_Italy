@@ -68,7 +68,7 @@
      <string name="camera_mode_options">Modalità</string>
      <string name="camera_setting">Impostazioni fotocamera</string>
      <string name="camera_settings_label">Fotocamera</string>
-     <string name="camera_snap_mode_title">Modalità Quick Snap</string>
+     <string name="camera_snap_mode_title">Modalità Scatto Veloce</string>
      <string name="camera_snap_mode_title_detail">Tocca per i dettagli</string>
      <string name="cannot_connect_camera_once">Impossibile avviare la fotocamera</string>
      <string name="cannot_connect_camera_twice">Impossibile avviare la fotocamera, riavvia il dispositivo</string>
