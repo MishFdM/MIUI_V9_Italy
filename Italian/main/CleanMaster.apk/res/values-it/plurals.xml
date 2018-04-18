@@ -34,7 +34,7 @@
         <item quantity="other">Scaricato da %1$d persone</item>
     </plurals>
     <plurals name="view_num">
-        <item quantity="other">%1$s visualizzaioni</item>
+        <item quantity="other">%1$s visualizzazioni</item>
         <item quantity="one">%1$s visualizzazione</item>
     </plurals>
     <plurals name="hint_similar_image_header_left">
