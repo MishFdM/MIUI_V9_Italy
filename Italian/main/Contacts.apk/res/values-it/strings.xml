@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="accessibility_calllog_detail">Dettagli registro chiamate</string>
      <string name="accessibility_contact_detail">Dettagli contatto</string>
@@ -542,7 +542,7 @@ Motivo: \"%s\"</string>
      <string name="import_contact_card_button">Importa contatto</string>
      <string name="import_failure_no_vcard_file">"Nessun file vCard trovato nell'archivio."</string>
      <string name="import_from_onekey_migrate">Importa con Transfer</string>
-     <string name="import_from_other_device">Import from another device</string>
+     <string name="import_from_other_device">Importa da un altro dispositivo</string>
      <string name="import_from_sdcard">Importa da archivio</string>
      <string name="import_from_sim">Importa da SIM</string>
      <string name="import_from_sim1">Importa da SIM 1</string>

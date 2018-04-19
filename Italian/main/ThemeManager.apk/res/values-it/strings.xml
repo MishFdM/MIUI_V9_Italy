@@ -1,24 +1,24 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
-     <string name="abc_action_bar_home_description">Navigate home</string>
+     <string name="abc_action_bar_home_description">Vai alla pagina principale</string>
      <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
      <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
-     <string name="abc_action_bar_up_description">Navigate up</string>
-     <string name="abc_action_menu_overflow_description">More options</string>
-     <string name="abc_action_mode_done">Done</string>
-     <string name="abc_activity_chooser_view_see_all">See all</string>
-     <string name="abc_activitychooserview_choose_application">Choose an app</string>
-     <string name="abc_capital_off">OFF</string>
-     <string name="abc_capital_on">ON</string>
-     <string name="abc_search_hint">Search…</string>
-     <string name="abc_searchview_description_clear">Clear query</string>
-     <string name="abc_searchview_description_query">Search query</string>
-     <string name="abc_searchview_description_search">Search</string>
-     <string name="abc_searchview_description_submit">Submit query</string>
-     <string name="abc_searchview_description_voice">Voice search</string>
-     <string name="abc_shareactionprovider_share_with">Share with</string>
-     <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
-     <string name="abc_toolbar_collapse_description">Collapse</string>
+     <string name="abc_action_bar_up_description">Vai in alto</string>
+     <string name="abc_action_menu_overflow_description">Piú opzioni</string>
+     <string name="abc_action_mode_done">Fatto</string>
+     <string name="abc_activity_chooser_view_see_all">Vedi tutto</string>
+     <string name="abc_activitychooserview_choose_application">"Seleziona un'app"</string>
+     <string name="abc_capital_off">DISATTIVA</string>
+     <string name="abc_capital_on">ATTIVA</string>
+     <string name="abc_search_hint">Ricerca…</string>
+     <string name="abc_searchview_description_clear">Pulisci query</string>
+     <string name="abc_searchview_description_query">Cerca query</string>
+     <string name="abc_searchview_description_search">Cerca</string>
+     <string name="abc_searchview_description_submit">Invia query</string>
+     <string name="abc_searchview_description_voice">Ricerca vocale</string>
+     <string name="abc_shareactionprovider_share_with">Condividi con</string>
+     <string name="abc_shareactionprovider_share_with_application">Condividi con %s</string>
+     <string name="abc_toolbar_collapse_description">Riduci</string>
      <string name="account_info">Mi Account</string>
      <string name="account_name_not_login">Accedi</string>
      <string name="account_unactivated">Account non attivato.</string>
@@ -51,8 +51,8 @@
      <string name="card_retry">Riprova</string>
      <string name="change_host_hint">cambia host</string>
      <string name="change_wallpaper">Sfondi</string>
-     <string name="character_counter_pattern">%1$d / %2$d</string>
-     <string name="classification_more_understand_you">Select your favorite category</string>
+     <string name="character_counter_pattern">%1$d di %2$d</string>
+     <string name="classification_more_understand_you">Seleziona la tua categoria preferita</string>
      <string name="close">Chiudi</string>
      <string name="component_backup_preference_title">Backup tema</string>
      <string name="component_category_finest_title">In evidenza</string>
@@ -172,7 +172,7 @@
      <string name="online_precust_scenery">Scenari</string>
      <string name="online_precust_tiny">Minuscoli</string>
      <string name="online_search_hint">Cerca risorse online</string>
-     <string name="password_toggle_content_description">Toggle password visibility</string>
+     <string name="password_toggle_content_description">Attiva visibilità password</string>
      <string name="present_local_themes">Scaricati</string>
      <string name="present_official_themes">Selezione ufficiale</string>
      <string name="present_online_themes">Online</string>
@@ -184,12 +184,12 @@
      <string name="purchased_list_current">MIUI 9</string>
      <string name="purchased_list_legacy">Vecchie versioni</string>
      <string name="recently_used">Usati di recente</string>
-     <string name="refresh_footer_all_loaded">"That's all for now."</string>
-     <string name="refresh_footer_failed">"Couldn't load info"</string>
-     <string name="refresh_footer_finish">Loaded successfully</string>
-     <string name="refresh_footer_loading">Just a sec…</string>
-     <string name="refresh_footer_pullup">Pull up to load more</string>
-     <string name="refresh_footer_release">Release to load more</string>
+     <string name="refresh_footer_all_loaded">Questo è tutto per ora.</string>
+     <string name="refresh_footer_failed">Impossibile caricare info</string>
+     <string name="refresh_footer_finish">Caricamento riuscito</string>
+     <string name="refresh_footer_loading">Solo un secondo…</string>
+     <string name="refresh_footer_pullup">"Tira verso l'alto per caricare altro"</string>
+     <string name="refresh_footer_release">Rilascia per caricare altro</string>
      <string name="region_not_support">Spiacenti, temi non supportati nel tuo Paese.</string>
      <string name="reload">Riprova</string>
      <string name="resource_account_abnormal_state">Errore account, riprovare più tardi.</string>
@@ -400,7 +400,7 @@
      <string name="sdcard_not_mounted_dialog_message">Inserisci una scheda SD ora</string>
      <string name="sdcard_not_mounted_dialog_title">Scheda SD non trovata</string>
      <string name="search_hint_header_text">Parole più ricercate</string>
-     <string name="search_menu_title">Search</string>
+     <string name="search_menu_title">Cerca</string>
      <string name="selected_resource_file_invalid">Impossibile utilizzare il file di risorsa selezionato</string>
      <string name="set_color_ring_back_tone">Imposta colore tono di risposta</string>
      <string name="settings">Impostazioni</string>
@@ -509,7 +509,7 @@
      <string name="wallpaper_settings_no_history">Nessuna cronologia</string>
      <string name="wallpaper_settings_pad_more_page_title">Altri sfondi</string>
      <string name="wallpaper_settings_page_title">Sfondo</string>
-     <string name="xiaoai_speech_not_installed_download">Download</string>
-     <string name="xiaoai_speech_not_installed_message">Download and install Mi AI voice assistant to continue.</string>
-     <string name="xiaoai_speech_not_installed_title">"Mi AI voice assistant isn't installed."</string>
+     <string name="xiaoai_speech_not_installed_download">Scarica</string>
+     <string name="xiaoai_speech_not_installed_message">Per continuare scarica ed installa l'assistente vocale Mi AI.</string>
+     <string name="xiaoai_speech_not_installed_title">"L'assistente vocale Mi AI non è installato."</string>
 </resources>

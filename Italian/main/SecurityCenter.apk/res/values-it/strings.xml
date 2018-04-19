@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="Phonepass">Consenti chiamate</string>
      <string name="SMS_and_MMS">SMS e MMS</string>
@@ -1038,7 +1038,7 @@ dall'operatore"</string>
      <string name="main_toolbar_statistic">Statistiche utilizzo dati</string>
      <string name="main_used_bill">%s CNY</string>
      <string name="man_add_application">Aggiungi manualmente app in avvio automatico</string>
-     <string name="managed_user_title">All work apps</string>
+     <string name="managed_user_title">Tutte le app di lavoro</string>
      <string name="manual_input_free_traffic">Imposta utilizzo dati fuori soglia</string>
      <string name="manual_input_traffic">Imposta utilizzo dati</string>
      <string name="manual_item_white_list_summary">Non ottimizzare le app selezionate</string>

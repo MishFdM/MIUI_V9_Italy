@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="access_denied">Accesso negato</string>
      <string name="account_related">Il dispositivo è associato ad un Mi Account esistente (%s). Collegati alla rete per verificare il dispositivo.</string>
@@ -159,7 +159,7 @@ al tuo Mi Account per riattivare Mi Cloud."</string>
      <string name="micloud_find_device_open_fail">Impossibile attivare Trova Dispositivo</string>
      <string name="micloud_find_device_opened">Trova Dispositivo attivato</string>
      <string name="micloud_find_device_opened_content">Trova Dispositivo a %s</string>
-     <string name="micloud_find_device_sms_alert">An outgoing SMS message may be required to activate this service. Your carrier will charge you for this message. When you switch your SIM card, a message may be sent automatically to reactivate this feature.</string>
+     <string name="micloud_find_device_sms_alert">Potrebbe essere richiesto un messaggio SMS in uscita per attivare questo servizio. Il tuo operatore ti addebiterà il costo questo messaggio. Quando sostituirai la scheda SIM, è possibile che venga inviato automaticamente un messaggio per riattivare questa funzionalità.</string>
      <string name="micloud_find_device_verify_button">Riattiva Trova dispositivo</string>
      <string name="micloud_find_device_verify_close">Disattiva Trova dispositivo</string>
      <string name="micloud_find_device_verify_fail">Impossibile riattivare Trova dispositivo</string>
@@ -193,7 +193,7 @@ Utilizza un account diverso."</string>
      <string name="micloud_main_query_error_message">Non è possibile garantire che la sincronizzazione sia stata completata</string>
      <string name="micloud_main_query_error_title">Impossibile recuperare i dati di sincronizzazione</string>
      <string name="micloud_main_resume_sync_soon">Ripristina sincronizzazione quanto prima</string>
-     <string name="micloud_main_see_unsynced_data">Check the data to be synced</string>
+     <string name="micloud_main_see_unsynced_data">Verifica i dati da sincronizzare</string>
      <string name="micloud_main_set_internet">Rete</string>
      <string name="micloud_main_space_full_message">Aggiornando con un abbonamento riceverai più spazio</string>
      <string name="micloud_main_space_full_title">Spazio cloud esaurito</string>

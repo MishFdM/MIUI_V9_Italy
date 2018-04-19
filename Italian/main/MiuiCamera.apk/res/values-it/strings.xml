@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="access_sd_fail">Impossibile accedere alla scheda SD.</string>
      <string name="accessibility_audio_shutter_bg">Sfondo scatto vocale</string>
@@ -209,7 +209,7 @@ per rendere il tuo corpo ancor più chiaro e meraviglioso"</string>
      <string name="pref_camera_antibanding_entry_3">Auto</string>
      <string name="pref_camera_antibanding_title">Anti banding</string>
      <string name="pref_camera_asd_night_title">Miglioramento foto notturne</string>
-     <string name="pref_camera_asd_popup_title">Notify when flash is needed</string>
+     <string name="pref_camera_asd_popup_title">Notifica quando il flash è richiesto</string>
      <string name="pref_camera_audio_capture_title">Scatto vocale</string>
      <string name="pref_camera_auto_capture_when_stable_summary">"Per selezionare un oggetto, tocca due punti in diagonale lungo il suo bordo. Quando l'oggetto sarà stabile, la fotocamera scatterà automaticamente."</string>
      <string name="pref_camera_auto_capture_when_stable_title">Scatta quando è stabile</string>
@@ -282,7 +282,7 @@ per rendere il tuo corpo ancor più chiaro e meraviglioso"</string>
      <string name="pref_camera_flashmode_entry_torch">Torcia</string>
      <string name="pref_camera_flashmode_title">Flash</string>
      <string name="pref_camera_focus_shoot_summary">Tocca lo schermo per mettere a fuoco e tocca di nuovo per scattare.</string>
-     <string name="pref_camera_focus_shoot_title">Focus &amp; scatto</string>
+     <string name="pref_camera_focus_shoot_title">Focus e scatto</string>
      <string name="pref_camera_focusmode_entry_auto">Auto</string>
      <string name="pref_camera_focusmode_entry_infinity">Infinito</string>
      <string name="pref_camera_focusmode_entry_macro">Macro</string>
@@ -416,8 +416,8 @@ per rendere il tuo corpo ancor più chiaro e meraviglioso"</string>
      <string name="pref_camera_whitebalance_entry_manual">Manuale</string>
      <string name="pref_camera_whitebalance_entry_measure">Misurato</string>
      <string name="pref_camera_whitebalance_title">Bil. bianco</string>
-     <string name="pref_camera_zoom_mode_entry_high_pixel">HIGH PIXEL</string>
-     <string name="pref_camera_zoom_mode_entry_standard">STANDARD</string>
+     <string name="pref_camera_zoom_mode_entry_high_pixel">MOLTI PIXEL</string>
+     <string name="pref_camera_zoom_mode_entry_standard">NORMALE</string>
      <string name="pref_camera_zoom_mode_entry_tele">Teleobiettivo</string>
      <string name="pref_camera_zoom_mode_entry_wide">Grandangolo</string>
      <string name="pref_camera_zoom_mode_title">Lenti</string>
@@ -450,7 +450,7 @@ per rendere il tuo corpo ancor più chiaro e meraviglioso"</string>
      <string name="pref_skin_beautify_intelligent_title">Intelligente</string>
      <string name="pref_skin_beautify_slim_title">Sottile</string>
      <string name="pref_skin_beautify_smooth_title">Liscio</string>
-     <string name="pref_video_captrue_ability_title">Image capture while recording</string>
+     <string name="pref_video_captrue_ability_title">Cattura immagini durante la registrazione</string>
      <string name="pref_video_focusmode_entry_auto">Tocca</string>
      <string name="pref_video_focusmode_entry_continuous">CAF</string>
      <string name="pref_video_focusmode_title">Modalità focus</string>
