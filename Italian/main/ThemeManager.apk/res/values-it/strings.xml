@@ -188,7 +188,7 @@
      <string name="refresh_footer_failed">Impossibile caricare info</string>
      <string name="refresh_footer_finish">Caricamento riuscito</string>
      <string name="refresh_footer_loading">Solo un secondo…</string>
-     <string name="refresh_footer_pullup">"Tira verso l'alto per caricare altro"</string>
+     <string name="refresh_footer_pullup">"Trascina verso l'alto per caricare altro"</string>
      <string name="refresh_footer_release">Rilascia per caricare altro</string>
      <string name="region_not_support">Spiacenti, temi non supportati nel tuo Paese.</string>
      <string name="reload">Riprova</string>
