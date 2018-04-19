@@ -206,9 +206,9 @@ La funzione di risparmio energetico viene disattivata automaticamente quando il 
      <string name="bluetooth_a2dp_audio_route_name">Audio Bluetooth</string>
      <string name="browse">Browser</string>
      <string name="bugreport_message">"Raccoglierà informazioni sullo stato corrente del dispositivo che verranno inviate sotto forma di messaggio email. Passerà un po' di tempo prima che la segnalazione di bug aperta sia pronta per essere inviata; ti preghiamo di avere pazienza."</string>
-     <string name="bugreport_option_full_summary">Utilizza questa opzione per minimizzare le interferenze di sistema quando il tuo dispositivo non risponde o è troppo lento, o quando necessiti della segnalazione. Non ti è concesso di entrare piú nei dettagli o di catturare schermate addizionali.</string>
+     <string name="bugreport_option_full_summary">Utilizza questa opzione per minimizzare le interferenze di sistema quando il tuo dispositivo non risponde o è troppo lento, o quando necessiti della segnalazione. Non ti è concesso di entrare più nei dettagli o di catturare schermate addizionali.</string>
      <string name="bugreport_option_full_title">Segnalazione completa</string>
-     <string name="bugreport_option_interactive_summary">Utilizza questo in diverse circostanze. Ti permetterà di tracciare i progressi della tua segnalazione, entrare mggiormente nei dettagli del tuo problema, e di catturare schermate. Potrebbe omettere alcune sezioni poco utilizzate che richiederebbero molto tempo per la segnalazione.</string>
+     <string name="bugreport_option_interactive_summary">Utilizza questo in diverse circostanze. Ti permetterà di tracciare i progressi della tua segnalazione, entrare maggiormente nei dettagli del tuo problema, e di catturare schermate. Potrebbe omettere alcune sezioni poco utilizzate che richiederebbero molto tempo per la segnalazione.</string>
      <string name="bugreport_option_interactive_title">Segnalazione interattiva</string>
      <string name="bugreport_status" formatted="false">%s (%s)</string>
      <string name="bugreport_title">Apri segnalazione bug</string>

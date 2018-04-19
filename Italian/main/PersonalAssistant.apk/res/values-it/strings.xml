@@ -882,7 +882,7 @@ Verifica il tuo numero di tracciabilità"</string>
      <string name="setting_map_brief">Calcola tempo viaggio e chiamata taxi</string>
      <string name="setting_map_brief_detail">Calcolare il tempo necessario per un viaggio e per chiamare un taxi</string>
      <string name="setting_note">Note</string>
-     <string name="setting_note_brief">Il metodo piú semplice per scrivere note</string>
+     <string name="setting_note_brief">Il metodo più semplice per scrivere note</string>
      <string name="setting_place">Imposta gli spostamenti frequenti e fornisci informazioni sul traffico e sul percorso prima della partenza</string>
      <string name="setting_place_next">Prossimo</string>
      <string name="setting_pref_confirm">Termina</string>
@@ -946,7 +946,7 @@ Verifica il tuo numero di tracciabilità"</string>
      <string name="stock_list_empty_text">Non stai seguendo alcuna compagnia.</string>
      <string name="stock_search_empty">Impossibile trovare risultati</string>
      <string name="stock_title">Riserve</string>
-     <string name="stock_toast_add_max_count">Non puoi seguire piú di 8 compagnie.</string>
+     <string name="stock_toast_add_max_count">Non puoi seguire più di 8 compagnie.</string>
      <string name="stock_web_bottom_btn">Apri</string>
      <string name="stock_web_bottom_text">Apri il client e visualizza più info</string>
      <string name="stock_web_lable">Riserve</string>
