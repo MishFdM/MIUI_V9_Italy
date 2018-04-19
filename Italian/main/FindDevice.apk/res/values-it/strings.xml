@@ -14,6 +14,7 @@ Contatta il tuo venditore per ulteriori informazioni."</string>
      <string name="disable_find_device_error">"Impossibile disattivare Trova Dispositivo. %1$s"</string>
      <string name="disable_find_device_success">Trova Dispositivo disattivo.</string>
      <string name="doing_extra_login_steps">Verifica accesso…</string>
+     <string name="emergency_call">Chiamata di emergenza</string>
      <string name="enable_find_device_error">"Impossibile attivare Trova Dispositivo. %1$s"</string>
      <string name="enable_find_device_success">Trova Dispositivo attivo.</string>
      <string name="find_device">Trova Dispositivo</string>
@@ -29,6 +30,7 @@ Contatta il tuo venditore per ulteriori informazioni."</string>
      <string name="find_device_notice_p1">Vai su</string>
      <string name="find_device_notice_p3">"per localizzare, bloccare o formattare il tuo dispositivo.
 Se cambi SIM, verrà automaticamente inviato un SMS per riattivare questa funzione."</string>
+     <string name="find_device_notice_sms_alert">If you switch SIM cards, another SMS may be sent automatically to reactivate this feature.</string>
      <string name="find_device_stop_noise">Tocca OK per silenziare</string>
      <string name="find_device_storage_corrupted">Memoria Trova Dispositivo corrotta. Il tuo dispositivo adesso non è sicuro.</string>
      <string name="find_device_success_title">Trova dispositivo</string>
@@ -49,6 +51,7 @@ Se cambi SIM, verrà automaticamente inviato un SMS per riattivare questa funzio
      <string name="phone_locked">"Questo dispositivo è associato ad un Mi Account (%s). Esegui l'accesso per attivare il dispositivo."</string>
      <string name="phone_locked_account_email">, email associata: %s</string>
      <string name="phone_locked_account_phone">, numero associato: %s</string>
+     <string name="return_to_call">Ritorna alla chiamata</string>
      <string name="stop_on_empty_captcha">Il captcha non può essere vuoto</string>
      <string name="stop_on_empty_password">La password non può essere vuota</string>
      <string name="sys_notification_async_open_failed_content">Premi per riprovare o annullare.</string>

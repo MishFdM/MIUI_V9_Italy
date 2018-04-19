@@ -28,8 +28,18 @@
      <string name="app_name">HybridPlatform</string>
      <string name="app_settings_disable_notification">Notifiche nascoste</string>
      <string name="app_settings_enable_notification">Mostra notifiche</string>
+     <string name="audio_paused_label">In pausa</string>
+     <string name="audio_playing_label">In riproduzione</string>
      <string name="button_ok">OK</string>
      <string name="character_counter_pattern">%1$d / %2$d</string>
+     <string name="common_google_play_services_unknown_issue">%1$s sta avendo problemi con i servizi di Google Play. Prego riprova.</string>
+     <string name="crop_image_activity_title" />
+     <string name="crop_image_menu_crop">Taglia</string>
+     <string name="crop_image_menu_flip">Capovolgi</string>
+     <string name="crop_image_menu_flip_horizontally">Ruota orizzontalmente</string>
+     <string name="crop_image_menu_flip_vertically">Ruota verticalmente</string>
+     <string name="crop_image_menu_rotate_left">Ruota in senso antiorario</string>
+     <string name="crop_image_menu_rotate_right">Ruota</string>
      <string name="dlg_btn_continue">Continua</string>
      <string name="dlg_btn_quit">Esci</string>
      <string name="dlg_page_error_message">Mostra dettagli errore</string>
@@ -49,14 +59,13 @@
      <string name="fail_message">"Impossibile scaricare l'app, controlla lo stato della rete"</string>
      <string name="feature_barcode_flight">Luce frontale</string>
      <string name="h5_pay_dialog_title">Invio richiesta di pagamento su WeChat...</string>
-     <string name="hybrid_app_settings">Direct Service</string>
      <string name="loading_message">App in caricamento</string>
      <string name="loading_slogan">Nessuna installazione | Utilizzo dati minore | Servizio diretto</string>
      <string name="media_contorls_restart">Riproduci ancora</string>
      <string name="media_contorls_retry">Riprova</string>
      <string name="msg_camera_framework_bug">Spiacenti, la fotocamera Android ha riscontrato un problema. Potrebbe essere necessario riavviare il dispositivo.</string>
      <string name="msg_default_status">Posiziona un codice a barre nel riquadro viewfinder per leggerlo.</string>
-     <string name="notification_settings_activity_title">Direct Service</string>
+     <string name="notification_creating_shortcut_for">Installazione scorciatoia per %s</string>
      <string name="password_toggle_content_description">Visibilità comando password</string>
      <string name="permission_desc_install_shortcut">installa collegamento</string>
      <string name="permission_desc_location">"utilizza la posizione del tuo dispositivo"</string>
@@ -65,6 +74,7 @@
      <string name="permission_dialog_allow">CONSENTI</string>
      <string name="permission_dialog_block">BLOCCA</string>
      <string name="permission_dialog_message">%1$s vuole %2$s.</string>
+     <string name="pick_image_intent_chooser_title">Seleziona sorgente</string>
      <string name="platform_incompatible">La piattaforma è troppo vecchia per eseguire %1$s, aggiorna la piattaforma.</string>
      <string name="platform_notification_name">Messaggi istantanei</string>
      <string name="platform_notification_summary">Usa app compatibili senza installarle</string>
@@ -82,4 +92,14 @@
      <string name="show_notifications">Mostra notifiche</string>
      <string name="toast_error_detail_copied">"I dettagli dell'errore sono stati copiati."</string>
      <string name="webview_loading" />
+     <string name="xiaomi_update_sdk_bytes_unit">%1$sB</string>
+     <string name="xiaomi_update_sdk_connect_download_manager_fail">Connessione Gestore Download non riuscita, prego verifica lo stato del Gestore Download in Gestione Applicazioni.</string>
+     <string name="xiaomi_update_sdk_dialog_message">"Introduzione versione %1$s
+Dimensione: %2$s"</string>
+     <string name="xiaomi_update_sdk_dialog_message_diff">"Introduzione versione %1$s
+Dimensione aggiornamento Delta: %2$s"</string>
+     <string name="xiaomi_update_sdk_dialog_title">%1$s update!</string>
+     <string name="xiaomi_update_sdk_external_storage_unavailable">Storage unavailable, please check the SD card.</string>
+     <string name="xiaomi_update_sdk_kilobytes_unit">%1$sKB</string>
+     <string name="xiaomi_update_sdk_megabytes_unit">%1$sMB</string>
 </resources>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="abc_action_bar_home_description">Vai alla home</string>
      <string name="abc_action_bar_up_description">Vai in alto</string>
@@ -132,6 +132,7 @@
      <string name="cancel">Annulla</string>
      <string name="cancle_sync_cloud_tabs">Annulla sincronizzazione</string>
      <string name="cannot_download">È possibile scaricare soltanto URL \"http\" o \"https\".</string>
+     <string name="cast_video">Streaming video</string>
      <string name="check_security_tip_privacy_policy">Informativa Privacy</string>
      <string name="check_security_tip_user_agreement">Accordo Utente</string>
      <string name="choosertitle_sharevia">Condividi tramite</string>
@@ -156,10 +157,13 @@
      <string name="cloud_tabs_sync_off">Sincronizzazione disattivata</string>
      <string name="cloud_time_tips">Ultima sincronizzazione</string>
      <string name="cloud_up_to_loading_tips">Rilascia per sincronizzare</string>
+     <string name="collect_video">Ottieni video</string>
      <string name="comment_app_menu">commenti</string>
      <string name="comment_description">Commento</string>
      <string name="comment_hint">Commenti</string>
-     <string name="comment_menu">commenti</string>
+     <string name="comment_max_length">Spiacente, la casella di input è piena.</string>
+     <string name="comment_menu">Commenti</string>
+     <string name="comment_num_description">Numero commento</string>
      <string name="common_use_phrase_bottom_bar_text_next">Avanti</string>
      <string name="common_use_phrase_bottom_bar_text_previous">Indietro</string>
      <string name="context_menu_add_to_desk_id">Aggiungi alla Home</string>
@@ -264,6 +268,7 @@ stia per accadere"</string>
      <string name="download_status_pending">In attesa</string>
      <string name="download_success">Completato</string>
      <string name="download_title">Download</string>
+     <string name="download_video">Scarica video</string>
      <string name="download_wait_connect">In attesa di connessione</string>
      <string name="edit">Modifica</string>
      <string name="edit_bookmark">Modifica segnalibro</string>
@@ -291,6 +296,8 @@ per vedere qui le schede cloud aperte su altri dispositivi"</string>
      <string name="error_unauthorized">Sincronizzazione disattivata a causa di un numero eccessivo di tentativi di accesso.</string>
      <string name="exit">Esci</string>
      <string name="exit_browser_warning">Esci dal browser?</string>
+     <string name="exit_fullscreen">Esci da schermo intero</string>
+     <string name="favorite">Preferito</string>
      <string name="file_dir">Cartella</string>
      <string name="file_name">File:</string>
      <string name="file_picker">Seleziona percorso</string>
@@ -649,6 +656,16 @@ Sei scuro di voler uscire da questa pagina?"</string>
           &lt;li&gt;Il tuo Internet Service Provider
         &lt;/ul&gt;"</string>
      <string name="mw_no_matches">Nessun risultato</string>
+     <string name="mw_notification_category_browser">Browser</string>
+     <string name="mw_notification_category_content_suggestions">Suggerimenti contenuto</string>
+     <string name="mw_notification_category_downloads">Download</string>
+     <string name="mw_notification_category_fullscreen_controls">Controlli sito a schermo intero</string>
+     <string name="mw_notification_category_group_general">Generale</string>
+     <string name="mw_notification_category_incognito">Incognito</string>
+     <string name="mw_notification_category_media">Media</string>
+     <string name="mw_notification_category_screen_capture">Cattura Schermo</string>
+     <string name="mw_notification_category_sites">Siti</string>
+     <string name="mw_notification_hidden_text">Contenuti nascosti</string>
      <string name="mw_ntp_title_no_suggestions">"E' tutto per adesso"</string>
      <string name="mw_older">Più vecchio</string>
      <string name="mw_opening_file_error">Impossibile aprire il file selezionato</string>
@@ -822,6 +839,9 @@ Ricorda che i file scaricati e i segnalibri che aggiungi verranno salvati comunq
      <string name="pay_success_toast">Pagamento eseguito</string>
      <string name="permission_notification">Invia notifiche</string>
      <string name="permissions_prompt_message">"%s vuole "</string>
+     <string name="play_pause_video">Riproduci o metti in pausa video</string>
+     <string name="play_video">Riproduci video</string>
+     <string name="popup_video">Popup video</string>
      <string name="popup_window_attempt">Consentire al sito di aprire una finestra popup?</string>
      <string name="positive_confirm_message">Disattiva comunque</string>
      <string name="pref_accept_quicklink_push">Avvia push pagina</string>
@@ -1034,6 +1054,7 @@ Ricorda che i file scaricati e i segnalibri che aggiungi verranno salvati comunq
      <string name="sequence_bookmark_description">Modifica la sequenza dei segnalibri</string>
      <string name="share_image_text">Sto guardando una foto bellissima</string>
      <string name="share_page_text">"Mi sto godendo %1$s | %2$s"</string>
+     <string name="share_video">Condividi video</string>
      <string name="show_check_security_url_check_tip_dialog_description">"Raccoglieremo ed utilizzeremo i tuoi dati personali se scegli di utilizzare il nostro servizio.
 Questi sono i dati che raccoglieremo:
 1. URL sicuri: raccoglieremo gli URL dei siti che visiti mentre utilizzi il nostro servizio.
@@ -1097,11 +1118,20 @@ Per navigare correttamente devi essere collegato ad Internet. Per poter utilizza
      <string name="suggest_access_music">Mi Music</string>
      <string name="suggest_item_delete_text">Elimina</string>
      <string name="suggest_open_app_failed">Non è stato possibile aprire questa app</string>
-     <string name="suggestion_lottery_detail_pour">%sNOTE</string>
-     <string name="suggestion_lottery_detail_price">EACH NOTE%sYUAN</string>
-     <string name="suggestion_lottery_detail_text">THIS%s</string>
+     <string name="suggestion_express_button_query_more">VEDI ALTRO</string>
+     <string name="suggestion_express_button_text_query">QUERY</string>
+     <string name="suggestion_express_exception_net">Si è verificato un problema di rete. Prego verifica la connessione di rete</string>
+     <string name="suggestion_express_exception_number">Il numero non è corretto, prego verifica il relativo numero</string>
+     <string name="suggestion_express_exception_server">Si è verificato un problema al server, prego verifica più tardi</string>
+     <string name="suggestion_express_input_empty">Il numero di tracciamento non deve essere vuoto</string>
+     <string name="suggestion_express_input_hint_inside">Prego inserisci il numero di tracciamento</string>
+     <string name="suggestion_express_input_hint_out">Numero di tracciamento:</string>
+     <string name="suggestion_express_title">Query a singolo numero espresso</string>
+     <string name="suggestion_lottery_detail_pour">%sNOTA</string>
+     <string name="suggestion_lottery_detail_price">OGNI NOTA%sYUAN</string>
+     <string name="suggestion_lottery_detail_text">QUESTO%s</string>
      <string name="suggestion_lottery_period">NO.%s</string>
-     <string name="suggestion_translation_more">TRANSLATION MORE</string>
+     <string name="suggestion_translation_more">PIÙ TRADUZIONI</string>
      <string name="switchText">SI</string>
      <string name="switch_proxy_dialog_msg">"Rilevato tentativo di deviazione di rete. Utilizza l'app Sicurezza di MIUI o segnala al tuo operatore."</string>
      <string name="switch_proxy_dialog_title">Deviazione di rete</string>
@@ -1221,8 +1251,8 @@ Per navigare correttamente devi essere collegato ad Internet. Per poter utilizza
      <string name="voice_open_permission_xunfei">Vai in Impostazioni attiva i permessi vocali per le Impostazioni Vocali</string>
      <string name="voice_search_permission">La ricerca vocale richiede i permessi adeguati, vai nelle impostazioni del Browser per aprire i permessi vocali</string>
      <string name="voice_semantic_analysis">Analisi semantica dopo la connessione</string>
-     <string name="voice_start_description">Start</string>
-     <string name="voice_stop_description">Stop</string>
+     <string name="voice_start_description">Inizia</string>
+     <string name="voice_stop_description">Ferma</string>
      <string name="voice_sub_title">"Non sai cosa dire? Prova Apri mi.com!"</string>
      <string name="voice_title">Pronuncia il tuo comando…</string>
      <string name="voice_title_distinguish">Elaborazione…</string>

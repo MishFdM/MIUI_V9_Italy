@@ -1,10 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="about_hide_mode">Informazioni su Risparmio Batteria MIUI</string>
      <string name="app_list_title">Scegli applicazioni</string>
      <string name="app_name">Risparmio batteria</string>
-     <string name="base_info">Base info</string>
-     <string name="cloud_addr_info">HideMode cloud info</string>
+     <string name="app_preload_policies_summary">"Usa l'apprendimento macchina per predirre quali app avranno maggiore probabilità di essere utilizzate, e carica le risorse in anticipo."</string>
+     <string name="app_preload_policies_title">Pre-caricamento AI</string>
+     <string name="base_info">Info base</string>
+     <string name="cloud_addr_info">Modalità oscuramento info cloud</string>
      <string name="cloud_china_addr">Aggiorna dati server cinese</string>
      <string name="cloud_international_addr">Aggiorna dati server internazionale</string>
      <string name="cloud_staging_addr">Aggiorna dati server</string>
@@ -26,6 +28,7 @@
      <string name="disable_hide_mode_warning">La disattivazione di Risparmio Batteria MIUI potrebbe causare maggiori consumi</string>
      <string name="empty_title_apps_container_list">Nessuna app</string>
      <string name="enable_hide_mode">Attiva Risparmio Batteria MIUI</string>
+     <string name="enable_sleep_mode">Abilita la modalità riposo per ottimizzare i consumi notturni</string>
      <string name="error_filename_too_long">Il nome del file è troppo lungo.</string>
      <string name="extreme_power_config_mode_category">Risparmio Batteria Estremo</string>
      <string name="extreme_power_config_mode_desc">"L'attivazione di questa funzione disattiverà sincronizzazione, bluetooth, GPS, NFC, doppio tocco, tasti luminosi, attivazione schermo su notifica, luce di notifica pulsante etc, ed il risparmio batteria verrà impostato su ultimate"</string>
@@ -58,10 +61,12 @@
      <string name="power_config_apps">Risparmio energia in background</string>
      <string name="power_config_event_delete">Elimina</string>
      <string name="power_config_select_apps_title">App</string>
+     <string name="power_consume_abnormal_night">Ci sono problemi nel consumo notturno</string>
      <string name="power_hide_mode_app_list_summary">Impostazioni app</string>
      <string name="power_hide_mode_title">Gestisci utilizzo batteria delle app</string>
      <string name="power_mode">Impostazioni consumo</string>
      <string name="power_usage">Utilizzo batteria</string>
+     <string name="pref_config_title">Ottimizzazione Prestazioni</string>
      <string name="scenario_policies_summary">Risparmio in base agli scenari</string>
      <string name="scenario_policies_title">Modalità di risparmio</string>
      <string name="scenario_policies_warmcontrol">Controllo riscaldamento</string>
@@ -71,6 +76,11 @@
      <string name="sleep_config_enhance_description">MIUI migliorerà il risparmio batteria notturno</string>
      <string name="sleep_config_enhance_description_non_nfc">"Ogni volta che MIUI rileva che stai dormendo, chiuderà le applicazioni in background, limiterà Bluetooth, GPS, rete dati mobile e utilizzo Wi-Fi, inoltre non attiverà lo schermo al ricevimento delle notifiche."</string>
      <string name="sleep_config_enhance_title">Risparmio notturno</string>
+     <string name="sleepmode_disclaimer_agree">Accetto</string>
+     <string name="sleepmode_disclaimer_cancel">Annulla</string>
+     <string name="sleepmode_privacy_content">Questa funzionalità utilizzerà il sistema e le informazioni del tuo dispositivo, che non verranno inviate ad alcun server</string>
+     <string name="sleepmode_privacy_link">Sicurezza e privacy dettagliati</string>
+     <string name="sleepmode_privacy_title">Modalità riposo</string>
      <string name="sucess">successo</string>
      <string name="update_profile_failture_not_connect_wifi">Aggiornamento fallito, nessuna connessione Wifi</string>
      <string name="update_profile_sucess">Aggiornamento dal server completato</string>

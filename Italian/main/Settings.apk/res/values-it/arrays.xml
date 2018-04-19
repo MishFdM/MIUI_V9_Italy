@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
 <resources>
      <string-array name="agps_network_entries">
         <item>Rete domestica</item>
@@ -968,6 +969,24 @@
         <item>Ultimi 30 giorni</item>
         <item>Imposta ciclo di utilizzo...</item>
      </string-array>
+     <string-array name="date_of_app_all">
+        <item>Today (data)</item>
+        <item>This month (data)</item>
+        <item>Last month (data)</item>
+        <item>Today WLAN</item>
+        <item>This month WLAN</item>
+        <item>Last month WLAN</item>
+     </string-array>
+     <string-array name="date_of_traffic">
+        <item>"Today "</item>
+        <item>"This month "</item>
+        <item>"Last month "</item>
+     </string-array>
+     <string-array name="date_of_traffic_prefix">
+        <item>"Today: "</item>
+        <item>"This month: "</item>
+        <item>"Last month: "</item>
+     </string-array>
      <string-array name="debug_hw_overdraw_entries">
         <item>Disattivato</item>
         <item>Visualizza le zone di conflitto</item>
@@ -1283,6 +1302,14 @@
         <item>4M</item>
         <item>16M</item>
      </string-array>
+     <string-array name="select_logd_system_levels">
+        <item>Off</item>
+        <item>Error</item>
+        <item>Warn</item>
+        <item>Info</item>
+        <item>Debug</item>
+        <item>Verbose</item>
+     </string-array>
      <string-array name="select_logpersist_summaries">
         <item>Disattivato</item>
         <item>Tutti i buffer log</item>
@@ -1338,6 +1365,10 @@
         <item>Chiusa</item>
         <item>Modalità normale</item>
         <item>Modalità estrema</item>
+     </string-array>
+     <string-array name="traffic_type">
+        <item>"Mobile usage "</item>
+        <item>"WLAN usage "</item>
      </string-array>
      <string-array name="transition_animation_scale_entries">
         <item>Animazioni disattivate</item>
@@ -1502,7 +1533,7 @@
      <string-array name="wifi_proxy_settings">
         <item>Nessuno</item>
         <item>Manuale</item>
-        <item>Proxy auto-config</item>
+        <item>Auto configurante</item>
      </string-array>
      <string-array name="wifi_signal">
         <item>Scadente</item>

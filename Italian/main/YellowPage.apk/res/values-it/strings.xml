@@ -124,9 +124,8 @@
      <string name="mark_number_feedback">Segnala</string>
      <string name="mark_number_feedback_hint">Inserisci il tuo feedback</string>
      <string name="mark_number_feedback_invalid_hint">Inserisci un feedback valido</string>
-     <string name="mark_number_feedback_not_number">Non è il numero di %s</string>
-     <string name="mark_number_feedback_personal_number">"È un numero personale"</string>
      <string name="mark_number_feedback_success">Feedback inviato, il numero verrà verificato.</string>
+     <string name="mark_number_feedback_title_hint">Questo numero è:</string>
      <string name="mark_number_marked_maintitle">Modifica</string>
      <string name="mark_number_marked_subtitle">Etichettato come %s</string>
      <string name="mark_number_notification_title">Segnala numero sospetto</string>

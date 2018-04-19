@@ -5,6 +5,8 @@
      <string name="account_container_title">Importato da</string>
      <string name="account_default">Dispositivo</string>
      <string name="account_phone">Solo su dispositivo, non sincronizzato</string>
+     <string name="account_sdn">SDN</string>
+     <string name="account_sdn2">SDN %d</string>
      <string name="account_sim">Scheda SIM</string>
      <string name="account_sim2">Scheda SIM %d</string>
      <string name="account_type_format">Contatto da %1$s</string>
@@ -540,7 +542,7 @@ Motivo: \"%s\"</string>
      <string name="import_contact_card_button">Importa contatto</string>
      <string name="import_failure_no_vcard_file">"Nessun file vCard trovato nell'archivio."</string>
      <string name="import_from_onekey_migrate">Importa con Transfer</string>
-     <string name="import_from_other_phone">Importa da un altro dispositivo</string>
+     <string name="import_from_other_device">Import from another device</string>
      <string name="import_from_sdcard">Importa da archivio</string>
      <string name="import_from_sim">Importa da SIM</string>
      <string name="import_from_sim1">Importa da SIM 1</string>
@@ -866,6 +868,9 @@ Per aggiungere un contatto alla lista dei Preferiti:
      <string name="pref_key_photo_word_title">Foto per tutti</string>
      <string name="pref_key_rebuild_t9_index_message">"Ricostruisci i dati dell'indice per risolvere problemi con la ricerca"</string>
      <string name="pref_key_rebuild_t9_index_title">Ricostruzione indice</string>
+     <string name="pref_key_sdn_manage">Visualizza SDN</string>
+     <string name="pref_key_sdn_manage1">Visualizza SDN scheda 1</string>
+     <string name="pref_key_sdn_manage2">Visualizza SDN scheda 2</string>
      <string name="pref_key_sim_manage">Gestione SIM</string>
      <string name="pref_key_sim_manage1">Configura SIM 1</string>
      <string name="pref_key_sim_manage2">Configura SIM 2</string>
@@ -986,6 +991,8 @@ Tocca l'icona Unisci in basso per iniziare."</string>
      <string name="scan_qrcode_card_hint2">Aggiungi le mie informazioni ai tuoi contatti</string>
      <string name="scanning_sdcard_failed_message">"Scansione dell'archivio non riuscita. Motivo: \"%s\"</string>
      <string name="scanning_sdcard_failed_title">La scheda SD non può essere scansionata</string>
+     <string name="sdnContacts_empty">No SDN</string>
+     <string name="sdnContacts_emptyLoading">Caricamento SDN…</string>
      <string name="searchHint">Cerca contatti</string>
      <string name="search_batch_delete">Organizza;Contatti</string>
      <string name="search_contacts_display">Contatti;Display</string>
@@ -1107,6 +1114,7 @@ Tocca l'icona Unisci in basso per iniziare."</string>
      <string name="social_widget_label">Contatto</string>
      <string name="social_widget_loading">Caricamento…</string>
      <string name="solar_calendar">Solare</string>
+     <string name="special_code_security_exception">Operazione rifiutata： Nessun compositore predefinito</string>
      <string name="splitConfirmation">Questo contatto verrà diviso in più contatti.</string>
      <string name="splitConfirmation_title">Separare contatto?</string>
      <string name="starredList">Speciali</string>
@@ -1117,6 +1125,7 @@ Tocca l'icona Unisci in basso per iniziare."</string>
      <string name="strequentList">Preferiti</string>
      <string name="success_message_import_from_account">Contato importato</string>
      <string name="summary_kind_title">Sommario</string>
+     <string name="sv">SV</string>
      <string name="t9_search_empty_create_contact">Nuovo contatto</string>
      <string name="t9_search_empty_edit_contact">Aggiungi ad un contatto</string>
      <string name="t9_search_empty_send_sms">Invia messaggio</string>

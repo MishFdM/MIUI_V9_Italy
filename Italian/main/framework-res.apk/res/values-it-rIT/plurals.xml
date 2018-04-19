@@ -136,4 +136,16 @@
         <item quantity="other">Per %1$d minuti (fino a %2$s)</item>
         <item quantity="one">Per 1 minuto (fino a %2$s)</item>
      </plurals>
+	<plurals name="duration_seconds">
+        <item quantity="other">%d secondi</item>
+        <item quantity="one">1 secondo</item>
+     </plurals>
+     <plurals name="duration_minutes">
+        <item quantity="other">%d minuti</item>
+        <item quantity="one">1 minuto</item>
+     </plurals>
+     <plurals name="duration_hours">
+        <item quantity="other">%d ore</item>
+        <item quantity="one">1 ora</item>
+     </plurals>
 </resources>

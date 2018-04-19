@@ -127,7 +127,7 @@
      <string name="namecard_recognize_failed_tip">Impossibile leggere il biglietto</string>
      <string name="namecard_recognizing">Lettura…</string>
      <string name="namecard_title">"Poni il biglietto all'interno della cornice"</string>
-     <string name="namecard_vendor_info">Powered by CamCard</string>
+     <string name="namecard_vendor_info">Offerto da CamCard</string>
      <string name="nickname">Nickname:</string>
      <string name="no_network">Impossibile connettersi alla rete</string>
      <string name="no_storage">Nessuna memoria interna</string>
@@ -170,14 +170,14 @@
      <string name="settings">Impostazioni</string>
      <string name="shopping_searching">Ricerca…</string>
      <string name="shopping_title">Acquisisci foto del prodotto</string>
-     <string name="shopping_vendor_info">Powered by Taobao</string>
+     <string name="shopping_vendor_info">Offerto da Taobao</string>
      <string name="spaceIsLow_content">Spazio su memoria interna insufficiente. Liberane un pò.</string>
      <string name="study_report_title">Segnala</string>
      <string name="study_rotate_picture">Elaborazione foto</string>
      <string name="study_scan_result">Risultato</string>
      <string name="study_searching">Ricerca risultati</string>
      <string name="study_title">Acquisisci foto del problema</string>
-     <string name="study_vendor_info">Powered by Master Learner</string>
+     <string name="study_vendor_info">Offerto da Master Learner</string>
      <string name="switch_open">Attiva</string>
      <string name="tips_message">Connettiti ad Internet per verificare se il sito web che stai per visualizzare è sicuro.</string>
      <string name="title">Titolo:</string>
@@ -203,7 +203,7 @@
      <string name="url_is_safety">Questo sito web è sicuro</string>
      <string name="url_is_unknown">Impossibile verificare se il sito web è sicuro</string>
      <string name="url_is_unsafety">Questo sito web non è sicuro</string>
-     <string name="vender_info_translation_kingsoft">Powered by Kingsoft</string>
+     <string name="vender_info_translation_kingsoft">Offerto da Kingsoft</string>
      <string name="view_study_report">Visualizza resoconto</string>
      <string name="web">Sito web:</string>
      <string name="website_details">Sito web:</string>

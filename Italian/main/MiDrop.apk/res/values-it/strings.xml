@@ -1,15 +1,17 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="Connect">Connessione</string>
      <string name="Disconnect">Disconnessione</string>
      <string name="HIPS_Perm_External_Storage">Accedere e modificare file nella memoria interna</string>
      <string name="HIPS_Perm_Location">Recuperare informazione sulla posizione</string>
      <string name="HIPS_Perm_PhoneID">Recuperare informazioni sul dispositivo</string>
-     <string name="HIPS_Perm_Settings">MOdificare le informazioni di sistema</string>
+     <string name="HIPS_Perm_Settings">Modificare le informazioni di sistema</string>
+     <string name="HIPS_Perm_SystemAlert">Mostra finestra pop-up</string>
      <string name="HIPS_Perm_WIFI_Connectivity">Modificare la connettività Wi-Fi</string>
      <string name="HIPS_Perm_background_start_activity">Avvia in background</string>
      <string name="HIPS_Perm_get_accounts">Accedere agli account sul dispositivo</string>
      <string name="HIPS_Perm_get_installed_apps">Recuperare informazioni sulle app installate</string>
+     <string name="HIPS_Perm_show_when_locked">Mostra sulla schermata di blocco</string>
      <string name="Register">registrati</string>
      <string name="Start">Avvia</string>
      <string name="StartScan">StartScan</string>

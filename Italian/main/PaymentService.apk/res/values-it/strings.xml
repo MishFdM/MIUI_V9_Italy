@@ -35,7 +35,7 @@
      <string name="mibi_bill_record_empty">Nessun elemento.</string>
      <string name="mibi_btn_agree">OK</string>
      <string name="mibi_btn_back">Indietro</string>
-     <string name="mibi_btn_count_down_auto">Chiedi di nuovo tra %1$s secondi</string>
+      <string name="mibi_btn_count_down_auto">Chiedi di nuovo tra %1$d secondi</string>
      <string name="mibi_btn_finish">Fine</string>
      <string name="mibi_btn_mili_center_recharge">Ricarica Mi Credit</string>
      <string name="mibi_btn_net_connection_retry">Riprova</string>
@@ -57,6 +57,7 @@
      <string name="mibi_button_pay">Conferma</string>
      <string name="mibi_button_reget">Invia di nuovo</string>
      <string name="mibi_button_retry">Riprova</string>
+     <string name="mibi_camera_open_failed">Apertura fotocamera non riuscita</string>
      <string name="mibi_cancel">Annulla</string>
      <string name="mibi_change_security_lock">Altri blocco schermo</string>
      <string name="mibi_check_giftcard">Mostra coupon</string>
@@ -268,6 +269,7 @@ Controlla la tua data locale e riprova."</string>
      <string name="mibi_progress_prepaid_creating">Generazione ordine…</string>
      <string name="mibi_progress_querying">Elaborazione…</string>
      <string name="mibi_progress_submit_hint">La ricarica verrà effettuata sul saldo del tuo account entro 3 minuti.</string>
+     <string name="mibi_progress_submit_pay">Il pagamento verrà completato fra circa 3 minuti…</string>
      <string name="mibi_progress_submit_recharge_summary">Ricarica: %1$s Mi Credit.</string>
      <string name="mibi_progress_submit_title">Richiesta inviata</string>
      <string name="mibi_progress_success_pay_title">Pagamento di %1$s Mi Credit completato</string>

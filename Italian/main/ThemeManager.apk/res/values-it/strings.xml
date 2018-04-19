@@ -1,5 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+     <string name="abc_action_bar_home_description">Navigate home</string>
+     <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+     <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+     <string name="abc_action_bar_up_description">Navigate up</string>
+     <string name="abc_action_menu_overflow_description">More options</string>
+     <string name="abc_action_mode_done">Done</string>
+     <string name="abc_activity_chooser_view_see_all">See all</string>
+     <string name="abc_activitychooserview_choose_application">Choose an app</string>
+     <string name="abc_capital_off">OFF</string>
+     <string name="abc_capital_on">ON</string>
+     <string name="abc_search_hint">Search…</string>
+     <string name="abc_searchview_description_clear">Clear query</string>
+     <string name="abc_searchview_description_query">Search query</string>
+     <string name="abc_searchview_description_search">Search</string>
+     <string name="abc_searchview_description_submit">Submit query</string>
+     <string name="abc_searchview_description_voice">Voice search</string>
+     <string name="abc_shareactionprovider_share_with">Share with</string>
+     <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
+     <string name="abc_toolbar_collapse_description">Collapse</string>
      <string name="account_info">Mi Account</string>
      <string name="account_name_not_login">Accedi</string>
      <string name="account_unactivated">Account non attivato.</string>
@@ -8,6 +27,7 @@
      <string name="add_resource_detail_fail">Impossibile aggiungere risorsa</string>
      <string name="all_resources">Tutto</string>
      <string name="app_name">Temi</string>
+     <string name="appbar_scrolling_view_behavior">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
      <string name="apply_default_font_tip">Vuoi continuare a utilizzare il font attuale del sistema?</string>
      <string name="apply_font_btn_exclude">Applica senza font</string>
      <string name="apply_font_btn_reboot">Applica e riavvia</string>
@@ -31,6 +51,8 @@
      <string name="card_retry">Riprova</string>
      <string name="change_host_hint">cambia host</string>
      <string name="change_wallpaper">Sfondi</string>
+     <string name="character_counter_pattern">%1$d / %2$d</string>
+     <string name="classification_more_understand_you">Select your favorite category</string>
      <string name="close">Chiudi</string>
      <string name="component_backup_preference_title">Backup tema</string>
      <string name="component_category_finest_title">In evidenza</string>
@@ -150,6 +172,7 @@
      <string name="online_precust_scenery">Scenari</string>
      <string name="online_precust_tiny">Minuscoli</string>
      <string name="online_search_hint">Cerca risorse online</string>
+     <string name="password_toggle_content_description">Toggle password visibility</string>
      <string name="present_local_themes">Scaricati</string>
      <string name="present_official_themes">Selezione ufficiale</string>
      <string name="present_online_themes">Online</string>
@@ -161,6 +184,12 @@
      <string name="purchased_list_current">MIUI 9</string>
      <string name="purchased_list_legacy">Vecchie versioni</string>
      <string name="recently_used">Usati di recente</string>
+     <string name="refresh_footer_all_loaded">"That's all for now."</string>
+     <string name="refresh_footer_failed">"Couldn't load info"</string>
+     <string name="refresh_footer_finish">Loaded successfully</string>
+     <string name="refresh_footer_loading">Just a sec…</string>
+     <string name="refresh_footer_pullup">Pull up to load more</string>
+     <string name="refresh_footer_release">Release to load more</string>
      <string name="region_not_support">Spiacenti, temi non supportati nel tuo Paese.</string>
      <string name="reload">Riprova</string>
      <string name="resource_account_abnormal_state">Errore account, riprovare più tardi.</string>
@@ -371,12 +400,15 @@
      <string name="sdcard_not_mounted_dialog_message">Inserisci una scheda SD ora</string>
      <string name="sdcard_not_mounted_dialog_title">Scheda SD non trovata</string>
      <string name="search_hint_header_text">Parole più ricercate</string>
+     <string name="search_menu_title">Search</string>
      <string name="selected_resource_file_invalid">Impossibile utilizzare il file di risorsa selezionato</string>
+     <string name="set_color_ring_back_tone">Imposta colore tono di risposta</string>
      <string name="settings">Impostazioni</string>
      <string name="system_precust">Predefinito di sistema</string>
      <string name="the_picture_is_not_support">"L'immagine non è supportata"</string>
      <string name="the_picture_is_too_small">"L'immagine è troppo piccola"</string>
      <string name="theme_apply_audio_dialog_item_alarm">Sveglia</string>
+     <string name="theme_apply_audio_dialog_item_color_ring_back_tone">Colore tono di risposta</string>
      <string name="theme_apply_audio_dialog_item_notification">Notifiche</string>
      <string name="theme_apply_audio_dialog_item_ringtone">Suoneria</string>
      <string name="theme_apply_failured">Impossibile applicare lo sfondo per la Schermata di blocco</string>
@@ -477,4 +509,7 @@
      <string name="wallpaper_settings_no_history">Nessuna cronologia</string>
      <string name="wallpaper_settings_pad_more_page_title">Altri sfondi</string>
      <string name="wallpaper_settings_page_title">Sfondo</string>
+     <string name="xiaoai_speech_not_installed_download">Download</string>
+     <string name="xiaoai_speech_not_installed_message">Download and install Mi AI voice assistant to continue.</string>
+     <string name="xiaoai_speech_not_installed_title">"Mi AI voice assistant isn't installed."</string>
 </resources>

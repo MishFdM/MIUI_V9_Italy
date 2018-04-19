@@ -85,6 +85,10 @@ Se attivi di nuovo i dati su rete mobile, il tuo operatore potrebbe addebitarti 
         <item quantity="other">%1$d persone stanno giocando</item>
         <item quantity="one">%1$d persona sta giocando</item>
      </plurals>
+     <plurals name="gb_signed_days_sum">
+        <item quantity="other">Registrato %d giorni di seguito</item>
+        <item quantity="one">Registrato %d volta</item>
+     </plurals>
      <plurals name="hints_apps_perm_count">
         <item quantity="other">%d permessi</item>
         <item quantity="one">%d permesso</item>

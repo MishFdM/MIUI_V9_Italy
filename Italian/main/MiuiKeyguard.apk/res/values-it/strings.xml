@@ -73,10 +73,14 @@
      <string name="fingerprint_try_again_msg">"Impossibile verificare l'impronta, prova di nuovo."</string>
      <string name="fingerprint_try_again_text">Prova di nuovo</string>
      <string name="forget_password_string">Dimentica password</string>
+     <string name="gxzw_press_harder">Premi più forte</string>
+     <string name="gxzw_try_more_again">Prova di nuovo</string>
+     <string name="gxzw_use_password">Utilizza una password</string>
      <string name="incorrect_pincode">PIN non corretto</string>
      <string name="incorrect_pukcode">PUK non corretto</string>
      <string name="input_password_after_boot_msg">Inserisci la password per sbloccare il dispositivo</string>
      <string name="input_password_after_boot_msg_can_not_switch_when_calling">Impossibile cambiare spazio durante una chiamata</string>
+     <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">Impossibile passare ad altri spazi quando la guardia verde è attiva</string>
      <string name="input_password_after_boot_msg_must_enter_owner_space">Devi inserire lo spazio primario dopo che il dispositivo è stato riavviato</string>
      <string name="input_password_handle_sdcard_fs">Impossibile accedere allo spazio secondario dalla lockscreen. Inserisci dallo spazio Primario.</string>
      <string name="input_password_hint_text">Inserisci password</string>
@@ -106,6 +110,7 @@
      <string name="keyguard_left_view_lock_wallpaper">Sfondi Carousel</string>
      <string name="keyguard_quick_charging_info_click_to_detail">Carica rapida. Tocca per vedere i dettagli.</string>
      <string name="keyguard_torch_cover_text">Tieni premuto il tasto Accensione per accendere la Torcia</string>
+     <string name="kg_password_pin_failed">Operazione PIN SIM fallita!</string>
      <string name="lock_screen_date">EEEE,d MMMM</string>
      <string name="lock_screen_date_12">EEEE,d MMMM </string>
      <string name="lock_screen_no_sim_card">Nessuna SIM</string>

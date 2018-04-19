@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="PERSOSUBSTATE_RUIM_CORPORATE_ENTRY">Sblocco PIN aziendale RUIM</string>
      <string name="PERSOSUBSTATE_RUIM_CORPORATE_ERROR">Richiesta sblocco aziendale RUIM non riuscita.</string>
@@ -903,7 +903,6 @@ Desideri passare comunque al nuovo servizio?"</string>
      <string name="list_language_dtitle">Lingue</string>
      <string name="list_language_summary">Seleziona la lingua delle notizie</string>
      <string name="list_language_title">Lingua</string>
-     <string name="livetalk_setting">Ricarica pacchetto</string>
      <string name="load_networks_progress">Ricerca…</string>
      <string name="local_backup_password_summary_change">Tocca per modificare o rimuovere la password dei backup locali</string>
      <string name="local_backup_password_summary_none">I backup locali non sono attualmente protetti</string>
@@ -966,6 +965,7 @@ Desideri passare comunque al nuovo servizio?"</string>
      <string name="modem_dialog_body">La rete mobile non è stabile, causa interruzioni o problemi di rete.Inviare una segnalazione a Mi analizzarla? Questa segnalazione potrebbe contenere informazioni sui dati personali. Il tuo rapporto verrà utilizzato unicamente per la risoluzione del problema e non verrà mai condiviso a scopi commerciali.</string>
      <string name="modem_dialog_title">La rete mobile non è stabile</string>
      <string name="msim_apn_not_set">Non impostato</string>
+     <string name="msim_cmcc_dds_switch_not_support">Impossibile invertire schede SIM a causa di restrizioni del gestore.</string>
      <string name="msim_default_setting">Impostazioni predefinite</string>
      <string name="msim_disable_sim_card_btn_text">OK</string>
      <string name="msim_disable_sim_card_summary_default_card">"Questa SIM è attualmente impostata com e predefinita. Se decidi di non utilizzarla più, non sarai più in grado di effettuare chiamate o utilizzare la connessione dati. Puoi smettere di utilizzare questa SIM dopo averne impostata un'altra come predefinita."</string>
@@ -1617,6 +1617,7 @@ Il prossimo periodo inizia tra %2$d giorni (%3$s)"</string>
      <string name="verify_apps_over_usb_title">Verifica app tramite USB</string>
      <string name="vibrate_after_connected_summary">Vibra quando rispondi</string>
      <string name="vibrate_after_connected_title">Vibra dopo la connessione</string>
+     <string name="vice_card_data_in_use_alert">Potrebbero essere generate tariffe aggiuntive per i dati.</string>
      <string name="vice_slot_volte_data_switch_prompt">Il dispositivo si collegherà ad una rete dati mobile tramite una SIM secondaria durante le chiamate in uscita VoLTE. Questo può generare costi aggiuntivi. Contatta il tuo operatore per informazioni dettagliate sui tuo piano.</string>
      <string name="vice_slot_volte_data_switch_summary">Durante le chiamate VoLTE, il dispositivo si collegherà ad una rete dati mobile tramite una SIM secondaria</string>
      <string name="vice_slot_volte_data_switch_title">Usa rete dati mobile durante le chiamate VoLTE sulla SIM secondaria.</string>
@@ -1662,6 +1663,7 @@ Contatta il tuo operatore se questo problema persiste."</string>
      <string name="volte_switch_summary">Utilizza VoLTE per migliorare la qualità audio e video delle chiamate</string>
      <string name="volte_switch_summary2">Confirm that your carrier supports this feature before turning on. Otherwise, regular calls might be affected.</string>
      <string name="volte_switch_title">VoLTE attivato</string>
+     <string name="volte_switch_title_ct">VoLTE abilitato</string>
      <string name="volte_tips_when_turn_on">China Telecom VoLTE services are only provided in the areas with LTE network coverage.</string>
      <string name="vpn_settings_not_available">Impostazioni VPN non disponibili per questo utente</string>
      <string name="vvm_unsupported_message_format">Tipi di messaggi non supportati, chiama %s per ascoltare.</string>
