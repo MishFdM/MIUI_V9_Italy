@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
      <string-array name="agps_network_entries">
@@ -1303,9 +1303,9 @@
         <item>16M</item>
      </string-array>
      <string-array name="select_logd_system_levels">
-        <item>Off</item>
-        <item>Error</item>
-        <item>Warn</item>
+        <item>Disattiva</item>
+        <item>Errore</item>
+        <item>Avvisa</item>
         <item>Info</item>
         <item>Debug</item>
         <item>Verbose</item>

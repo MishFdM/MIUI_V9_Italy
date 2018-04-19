@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="Accounts_settings_title">Account</string>
      <string name="abc_action_bar_home_description">Naviga nella home</string>
@@ -48,7 +48,7 @@
      <string name="accessibility_captioning_title">Sottotitoli</string>
      <string name="accessibility_category_personal">Impostazioni profilo personale</string>
      <string name="accessibility_category_work">Account profili di lavoro - %s</string>
-     <string name="accessibility_close_tab">Close current tab</string>
+     <string name="accessibility_close_tab">Chiudi scheda recente</string>
      <string name="accessibility_display_daltonizer_preference_subtitle">Questa funzionalità è sperimentale potrebbe influire sulle prestazioni.</string>
      <string name="accessibility_display_daltonizer_preference_title">Correzione colore</string>
      <string name="accessibility_display_inversion_preference_subtitle">(Sperimentale) Potrebbe influire sulle prestazioni</string>
@@ -71,7 +71,7 @@ Se il dispositivo ha più utenti, l'utilizzo di questo collegamento sulla scherm
      <string name="accessibility_lock_screen_progress">%1$d di %2$d caratteri usati</string>
      <string name="accessibility_long_press_timeout_preference_title">Ritardo tocco e pressione</string>
      <string name="accessibility_menu_item_settings">Impostazioni</string>
-     <string name="accessibility_more_settings">Additional settings</string>
+     <string name="accessibility_more_settings">Impostazioni addizionali</string>
      <string name="accessibility_no_service_selected">Nessun servizio selezionato</string>
      <string name="accessibility_no_services_installed">Nessun servizio installato</string>
      <string name="accessibility_no_wifi">Wi-Fi disconnesso.</string>
@@ -129,7 +129,7 @@ Nota: il tocco triplo per ingrandire funziona ovunque tranne che per la tastiera
      <string name="accessibility_toggle_screen_magnification_auto_update_preference_summary">Aggiorna ingrandimento schermo per transizioni app</string>
      <string name="accessibility_toggle_screen_magnification_auto_update_preference_title">Aggiorn. autom. ingrandim. schermo</string>
      <string name="accessibility_toggle_speak_password_preference_title">Password vocali</string>
-     <string name="accessibility_vpn_settings_info">VPN configuration</string>
+     <string name="accessibility_vpn_settings_info">Configurazione VPN</string>
      <string name="accessibility_wifi_off">Wi-Fi disattivo.</string>
      <string name="accessibility_wifi_one_bar">Wi-Fi una barra.</string>
      <string name="accessibility_wifi_security_type_none">Rete aperta</string>
@@ -1041,7 +1041,7 @@ Frequenza Campione"</string>
      <string name="checking_decryption">Verifica…</string>
      <string name="checking_find_device_status">Verifica stato Trova dispositivo\u2026</string>
      <string name="checking_for_updates">Ricerca aggiornamenti in corso\u2026</string>
-     <string name="choose_a_card_to_reset">Select SIM card to reset</string>
+     <string name="choose_a_card_to_reset">Seleziona scheda SIM da reimpostare</string>
      <string name="choose_profile">Scegli il profilo</string>
      <string name="choose_smartcover_type">Scegli il tipo di custodia</string>
      <string name="choose_spell_checker">Scegli controllo ortografico</string>
@@ -1065,8 +1065,8 @@ Frequenza Campione"</string>
      <string name="close_demo_mode">Annulla</string>
      <string name="close_gesture">Chiudi gesture in uso</string>
      <string name="close_miui_optimization_title">Disattiva ottimizzazione MIUI</string>
-     <string name="close_optimization_message">Text layout, accounts, and other parts off MIUI might be affected after you turn this feature off.</string>
-     <string name="close_optimization_option">Turn off</string>
+     <string name="close_optimization_message">"La disposizione del testo, dell'account e di altre parti esterne alla MIUI potrebbero risultare compromesse dopo aver disattivato questa funzionalità."</string>
+     <string name="close_optimization_option">Disattiva</string>
      <string name="cloud_backup_section_title">Backup Mi Cloud</string>
      <string name="cloud_backup_settings_section_title">Impostazioni backup</string>
      <string name="cloud_restore_section_summary">Ripristino app, layout Home e impostazioni di sistema</string>
@@ -3103,8 +3103,8 @@ ed esegui il software."</string>
      <string name="open_demo_mode">Apri</string>
      <string name="open_demo_mode_warning_message">"Quando la modalità Demo è attiva, l'orologio nella barra di stato si fermerà, la batteria e le icone di segnale verranno mostrate come piene. Puoi disattivare la funzione Demo o riavviare il dispositivo per modificare questa impostazione."</string>
      <string name="open_miui_optimization_title">Attiva ottimizzazione MIUI</string>
-     <string name="open_optimization_message">Turn on optimization to enjoy a smoother, faster UI.</string>
-     <string name="open_optimization_option">Turn on</string>
+     <string name="open_optimization_message">"Attiva l'ottimizzazione e goditi una fluida, e veloce UI."</string>
+     <string name="open_optimization_option">Attiva</string>
      <string name="open_wifi_connect_summary">Tocca per gestire</string>
      <string name="open_wifi_connect_title">Connettiti alla rete aperta %1$s</string>
      <string name="opening_paragraph_delete_profile_unknown_company">Questo profilo di lavoro è gestito da:</string>
@@ -3604,10 +3604,10 @@ Interfaccia UT: %5$s"</string>
      <string name="reset_legacy_password_settings_preface_text">Devi ripristinare la tua password della Schermata di blocco.</string>
      <string name="reset_network_bluetooth">Bluetooth</string>
      <string name="reset_network_button_text">Ripristina impostazioni</string>
-     <string name="reset_network_category">This will reset all network settings, including:</string>
+     <string name="reset_network_category">Questo reimposterà tutti i settaggi, inclusi:</string>
      <string name="reset_network_complete_toast">Impostazioni di rete ripristinate correttamente</string>
      <string name="reset_network_confirm_title">Ripristinare?</string>
-     <string name="reset_network_data">Mobile data</string>
+     <string name="reset_network_data">Dati mobili</string>
      <string name="reset_network_desc">"Verranno reimpostate tutte le impostazioni di rete, tra cui:
 
 "<li>Wi-Fi</li>"
@@ -3616,7 +3616,7 @@ Interfaccia UT: %5$s"</string>
      <string name="reset_network_final_button_text">Ripristina</string>
      <string name="reset_network_final_desc">"Ripristinare le impostazioni di rete? Quest'azione è irreversibile!"</string>
      <string name="reset_network_title">Ripristino impostazioni di rete</string>
-     <string name="reset_network_wifi">WLAN</string>
+     <string name="reset_network_wifi">Wi-Fi</string>
      <string name="reset_second_space_passwd">Reimpostazione password spazio Secondario</string>
      <string name="reset_second_space_passwd_cancel">Annulla</string>
      <string name="reset_second_space_passwd_confirm">Continua</string>
@@ -4121,7 +4121,7 @@ Nota: Non puoi utilizzare la tua impronta per sbloccare questo dispositivo. Per 
      <string name="select_all">Seleziona tutti</string>
      <string name="select_application">Seleziona applicazione</string>
      <string name="select_device_admin_msg">Amministratori dispositivo</string>
-     <string name="select_logd_level">Select log level</string>
+     <string name="select_logd_level">Seleziona livello log</string>
      <string name="select_logd_size_dialog_title">Seleziona la dimensione del buffer logger</string>
      <string name="select_logd_size_title">Dimensione buffer logger</string>
      <string name="select_logpersist_dialog_title">Seleziona buffer log per archiviare persistentemente sul dispositivo</string>
@@ -5491,7 +5491,7 @@ Aggiungi una parola toccando il tasto +."</string>
      <string name="wifi_forget">Elimina</string>
      <string name="wifi_frequency">Frequenza</string>
      <string name="wifi_gateway">Gateway</string>
-     <string name="wifi_hide_password">Hide password</string>
+     <string name="wifi_hide_password">Nascondi password</string>
      <string name="wifi_hotspot_checkbox_text">Hotspot Wi-Fi</string>
      <string name="wifi_hotspot_checkbox_text_summary">Usa la connessione del cellulare per condividere la rete Wi-Fi</string>
      <string name="wifi_hotspot_configure_ap_text">Configurazione hotspot Wi-Fi</string>

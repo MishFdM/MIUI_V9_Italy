@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string-array name="animator_duration_scale_entries">
         <item>Animazioni disattivate</item>
@@ -170,9 +170,9 @@
         <item>16M</item>
      </string-array>
      <string-array name="select_logd_system_levels">
-        <item>Off</item>
-        <item>Error</item>
-        <item>Warn</item>
+        <item>Disattivato</item>
+        <item>Errore</item>
+        <item>Avviso</item>
         <item>Info</item>
         <item>Debug</item>
         <item>Verbose</item>
