@@ -2,7 +2,7 @@
 <resources>
      <string name="accept">Accetta</string>
      <string name="accept_or_deny">%1$s album condivisi, %2$s con te.</string>
-     <string name="actionbar_overflow_item_desc">More options</string>
+     <string name="actionbar_overflow_item_desc">Altre opzioni</string>
      <string name="add_automatically_alert_msg">Aggiungere automaticamente le foto da \"%1$s\" a questo album?</string>
      <string name="add_automatically_alert_title">Aggiungi automaticamente le foto</string>
      <string name="add_secret_ensure_title">Nascondi</string>
@@ -20,7 +20,7 @@
      <string name="add_to_secret_failed_with_reason">"Impossibile aggiungere all'album nascosto. %1$s."</string>
      <string name="add_to_secret_successful">"Aggiunto all'album nascosto"</string>
      <string name="add_to_share_album_not_delete">"Impossibile eliminare foto dall'album condiviso"</string>
-     <string name="added_to_favorites">Added to favorites</string>
+     <string name="added_to_favorites">Aggiunto ai preferiti</string>
      <string name="added_to_favorites_tip">"Aggiunto all'album \"Preferiti\" album"</string>
      <string name="adding">Inserimento</string>
      <string name="adding_recipients">Aggiungo destinatari…</string>
@@ -92,7 +92,7 @@
      <string name="app_name">Galleria</string>
      <string name="app_name_view_picture">Mostra immagine</string>
      <string name="app_name_view_video">Mostra video</string>
-     <string name="application_icon">App icon</string>
+     <string name="application_icon">Icona App</string>
      <string name="apply">Applica</string>
      <string name="assistant_page_label">Assistente</string>
      <string name="associate_face_album">Scegli un album</string>
@@ -112,13 +112,13 @@
      <string name="baby_album_needs_auto_backup_tip">Impossibile disattivare il backup automatico per gli album dei bambini</string>
      <string name="baby_album_new_photo_remind">"Ci sono nuove foto nell'album del tuo bambino."</string>
      <string name="baby_album_setting_title">Info bambino</string>
-     <string name="baby_album_settings">Baby album settings</string>
+     <string name="baby_album_settings">"Impostazioni dell'album per bambini"</string>
      <string name="baby_album_sharer_accept_dialog_msg">"%2$s di %1$s,
 %4$s di %3$s ha condiviso l'album di %5$s con te"</string>
      <string name="baby_album_sharer_recommand_face">Aggiungere le foto esistenti a %1$s?</string>
      <string name="baby_album_sharers_page_title">Condividi con i familiari</string>
      <string name="baby_birthday">Compleanno</string>
-     <string name="baby_face_desc">Baby album</string>
+     <string name="baby_face_desc">Album del bambino</string>
      <string name="baby_lock_wallpaper">Sfondo Blocco schermo</string>
      <string name="baby_lock_wallpaper_cancelled">Riattivato lo sfondo predefinito della Schermata di blocco</string>
      <string name="baby_lock_wallpaper_save_settings_msg">Applicare queste impostazioni?</string>
@@ -130,7 +130,7 @@
      <string name="baby_nick_name">Nickname</string>
      <string name="baby_sexy">Genere</string>
      <string name="baby_suffix">piccolo</string>
-     <string name="back">Back</string>
+     <string name="back">Indietro</string>
      <string name="backup_automatically_summary">Esegui il backup di foto e video per tutti i dispositivi su Mi Cloud. Puoi sfogliare, ordinare, modificare e condividere le foto e i video su tutti i dispositivi.</string>
      <string name="backup_automatically_title">Backup automatico</string>
      <string name="backup_battery_low_desc">Puoi comunque scegliere di proseguire nel backup degli elementi</string>
@@ -604,8 +604,8 @@
      <string name="cleaner_stop_scan">Termina scansione</string>
      <string name="click_download_gif">Tocca per scaricare GIF</string>
      <string name="click_top_right">"Tocca l'icona in alto a destra"</string>
-     <string name="close">Close</string>
-     <string name="close_dialog_desc">Close dialog box</string>
+     <string name="close">Chiudi</string>
+     <string name="close_dialog_desc">Chiudi la finestra di dialogo</string>
      <string name="cloud_camera_display_name">Non ordinati</string>
      <string name="cloud_guide_auto_backup_title">Scegli gli album di cui fare il backup su Mi Cloud</string>
      <string name="cloud_guide_login_title">Esegui automaticamente il backup di foto e video</string>
@@ -628,7 +628,7 @@
      <string name="cloudfolder_contain_invalidate_char">"Il nome della cartella non può contenere '%s'"</string>
      <string name="cloudfolder_name_cannot_empty">Inserisci un nome per la cartella.</string>
      <string name="cloudfolder_name_reserved">Il nome della cartella è riservato.</string>
-     <string name="collage__talkback_effect">%d effect</string>
+     <string name="collage__talkback_effect">%d effetto</string>
      <string name="collage_choose">Scegli</string>
      <string name="collage_margin_text">Margine</string>
      <string name="collage_mirror">Specchio</string>
@@ -666,9 +666,9 @@
      <string name="context_menu_add_contact">Aggiungi ai contatti</string>
      <string name="context_menu_copy">Copia</string>
      <string name="context_menu_copy_notice">Selezione copiata negli appunti</string>
-     <string name="correct_photo_time">Correct date and time for photos</string>
-     <string name="correct_time_success">Corrected successfully</string>
-     <string name="correct_time_tip">Correcting date and time…</string>
+     <string name="correct_photo_time">Data e ora corrette per le foto</string>
+     <string name="correct_time_success">Corretto con successo</string>
+     <string name="correct_time_tip">Correggere data e ora…</string>
      <string name="create_baby_album">Crea un Album bambino</string>
      <string name="create_baby_album_dialog_msg">Creare un album per \"%s\"?</string>
      <string name="create_baby_album_later_toast">Crea un \"Album bambino\" quando vuoi nelle Impostazioni</string>
@@ -682,7 +682,7 @@
      <string name="custom_select_title_quickly_share">Condividi</string>
      <string name="custom_select_title_select_all">Seleziona tutto</string>
      <string name="custom_select_title_select_item">Seleziona elementi</string>
-     <string name="debugging_info">Debug info has been generated successfully. Tap OK to open folder.</string>
+     <string name="debugging_info">Le informazioni di debug sono state generate correttamente. Tocca OK per aprire la cartella.</string>
      <string name="debugging_tip">Creazione rapporto debug</string>
      <string name="default_relation_name">Nuovo gruppo</string>
      <string name="define_by_user">Personalizza</string>
@@ -812,7 +812,7 @@
      <string name="exit_share_in_process">Uscita da album \"%s\"…</string>
      <string name="exit_share_successfully">"Uscita dall'album %1$s completata"</string>
      <string name="exit_video_play">Esci</string>
-     <string name="expand_desc">More</string>
+     <string name="expand_desc">Altro</string>
      <string name="expand_people">Espandi altre persone</string>
      <string name="face_album_detecting_tip">Solo un attimo…</string>
      <string name="face_album_empty">"Foto non sufficienti per il riconoscimento.
@@ -836,7 +836,7 @@ Scatta più foto ai tuoi amici!"</string>
      <string name="fail_to_pick_email">Email selezionata non valida</string>
      <string name="fail_to_sync_album">"Impossibile sincronizzare l'album con il server. Verifica la connessione di rete."</string>
      <string name="family_member_invitation_text">Altro familiare</string>
-     <string name="fancy_color_desc">Colors</string>
+     <string name="fancy_color_desc">Colori</string>
      <string name="fast_share_auto_render">Filtro bellezza</string>
      <string name="fast_share_auto_render_finish">Filtro bellezza applicato</string>
      <string name="filter_bi_memory">Memory</string>
@@ -900,7 +900,7 @@ Scatta più foto ai tuoi amici!"</string>
      <string name="finish_fill_baby">Crea</string>
      <string name="flash_off">Niente flash</string>
      <string name="flash_on">Usa flash</string>
-     <string name="free_view_desc">3D view</string>
+     <string name="free_view_desc">Vista 3D</string>
      <string name="gallery_setting">Impostazioni</string>
      <string name="gallery_sync_disable_toast">La funzione di sincronizzazione della galleria non è attiva</string>
      <string name="get_album_info_in_process">Richiesta informazioni album condiviso, attendere…</string>
