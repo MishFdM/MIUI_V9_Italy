@@ -159,7 +159,7 @@ al tuo Mi Account per riattivare Mi Cloud."</string>
      <string name="micloud_find_device_open_fail">Impossibile attivare Trova Dispositivo</string>
      <string name="micloud_find_device_opened">Trova Dispositivo attivato</string>
      <string name="micloud_find_device_opened_content">Trova Dispositivo a %s</string>
-     <string name="micloud_find_device_sms_alert">Potrebbe essere richiesto un messaggio SMS in uscita per attivare questo servizio. Il tuo operatore ti addebiterà il costo questo messaggio. Quando sostituirai la scheda SIM, è possibile che venga inviato automaticamente un messaggio per riattivare questa funzionalità.</string>
+     <string name="micloud_find_device_sms_alert">Potrebbe essere richiesto un messaggio SMS in uscita per attivare questo servizio. Il tuo operatore ti addebiterà il costo di questo messaggio. Quando sostituirai la scheda SIM, è possibile che venga inviato automaticamente un messaggio per riattivare questa funzionalità.</string>
      <string name="micloud_find_device_verify_button">Riattiva Trova dispositivo</string>
      <string name="micloud_find_device_verify_close">Disattiva Trova dispositivo</string>
      <string name="micloud_find_device_verify_fail">Impossibile riattivare Trova dispositivo</string>
