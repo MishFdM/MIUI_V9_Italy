@@ -2031,7 +2031,7 @@ Quando attivi il backup automatico, il dispositivo e i dati delle applicazioni v
      <string name="got_it">OK</string>
      <string name="gsm_to_wifi_connect_type_title">Da rete cellulare a Wi-Fi</string>
      <string name="gxzw_add_fingerprint_continue">Continua</string>
-     <string name="gxzw_add_fingerprint_edge_message">""Muovi il dito in modo che il sensore possa registrare i bordi dell'impronta digitale"."</string>
+     <string name="gxzw_add_fingerprint_edge_message">"Muovi il dito in modo che il sensore possa registrare i bordi dell'impronta digitale."</string>
      <string name="gxzw_add_fingerprint_edge_title">Muovi leggermente il dito</string>
      <string name="gxzw_add_fingerprint_finish">Finito</string>
      <string name="gxzw_add_fingerprint_indicate">Premi più forte qui</string>
