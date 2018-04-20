@@ -510,6 +510,6 @@
      <string name="wallpaper_settings_pad_more_page_title">Altri sfondi</string>
      <string name="wallpaper_settings_page_title">Sfondo</string>
      <string name="xiaoai_speech_not_installed_download">Scarica</string>
-     <string name="xiaoai_speech_not_installed_message">Per continuare scarica ed installa l'assistente vocale Mi AI.</string>
+     <string name="xiaoai_speech_not_installed_message">"Per continuare scarica ed installa l'assistente vocale Mi AI."</string>
      <string name="xiaoai_speech_not_installed_title">"L'assistente vocale Mi AI non è installato."</string>
 </resources>
