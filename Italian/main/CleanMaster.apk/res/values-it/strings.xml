@@ -215,7 +215,7 @@
      <string name="go_to">Procedi</string>
      <string name="goto_set">Imposta</string>
      <string name="grabage_rank_title">Pulito oggi</string>
-     <string name="guide_secure_dialog_message">Il punteggio di ottimizzazione è inferiore a 80 punti.Ottimizzare ora?</string>
+     <string name="guide_secure_dialog_message">Il punteggio di ottimizzazione è inferiore a 80 punti. Ottimizzare ora?</string>
      <string name="guide_secure_dialog_negative">Annulla</string>
      <string name="guide_secure_dialog_positive">Ottimizza</string>
      <string name="guide_secure_dialog_title">Ottimizza prestazioni</string>
