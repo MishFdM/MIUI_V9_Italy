@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="activity_title_ad">Pubblicità</string>
      <string name="activity_title_apk">Pacchetti</string>
@@ -33,7 +33,7 @@
      <string name="apk_status_installed_old">Vecchia versione</string>
      <string name="apk_status_uninstalled">Non installata</string>
      <string name="apk_title_alipay_plugin">Plugin Alipay</string>
-     <string name="app_description_content">"L'app Pulizia trova ed elimina i file inutili per liberare spazio. Assicurati di poter fare a meno di queste funzioni prima di eliminare l'app."</string>
+     <string name="app_description_content">"L'app Pulizia trova ed elimina i file inutili per liberare spazio. Assicurati di poter fare a meno di queste funzionalità prima di eliminare l'app."</string>
      <string name="app_description_title">Informazioni</string>
      <string name="app_name">Cheetah Mobile CleanMaster SDK</string>
      <string name="app_usage_never">Non usato di recente</string>
@@ -223,7 +223,7 @@
      <string name="guide_virus_dialog_negative">Annulla</string>
      <string name="guide_virus_dialog_positive">Scansiona</string>
      <string name="guide_virus_dialog_title">Scansione antivirus</string>
-     <string name="header_optimizer">Utilizzando questa funzione accetti %s.</string>
+     <string name="header_optimizer">Utilizzando questa funzionalità accetti %s.</string>
      <string name="hint_clean_select_items">Elimina duplicati…</string>
      <string name="hints_ad_header_left">Pubblicità</string>
      <string name="hints_apk_header_left">Pacchetti</string>
@@ -431,7 +431,7 @@
      <string name="summary_delete_cache">Alcune applicazioni potrebbero aver bisogno di questi file per funzionare correttamente.</string>
      <string name="summary_delete_large_file">Alcuni file di grosse dimensioni possono essere utili quando non si ha una connessione internet a disposizione (es: mappe, agende, etc.). Assicurati di non aver bisogno di questi file.</string>
      <string name="summary_delete_video">Eliminare definitivamente i video selezionati?</string>
-     <string name="summary_optimizer">Questa funzione carica i nomi delle cartelle nei database online di Cheeta Mobile</string>
+     <string name="summary_optimizer">Questa funzionalità carica i nomi delle cartelle nei database online di Cheeta Mobile</string>
      <string name="sys_cache_on_sdcard_item_name">Nascosto</string>
      <string name="terabyteShort">TB</string>
      <string name="text_optimizer">Carica i nomi delle cartelle</string>
@@ -439,7 +439,7 @@
      <string name="tips_of_app_manage">Elimina app utilizzate raramente per risparmiare spazio</string>
      <string name="tips_of_auto_launch_manage">"Previene l'avvio automatico delle app utilizzate raramente"</string>
      <string name="tips_of_cloud_service">Accedi al tuo Mi Account per utilizzare altri servizi Mi</string>
-     <string name="tips_of_connect">Connettiti ad internet per utilizzare il set completo delle funzioni di sicurezza</string>
+     <string name="tips_of_connect">Connettiti ad internet per utilizzare il set completo delle funzionalità di sicurezza</string>
      <string name="tips_of_garbage_cloud_scan">Trova file da rimuovere con la scansione online</string>
      <string name="tips_of_garbage_data_set">Aggiorna il database dello strumento di pulizia per trovare altri file da rimuovere</string>
      <string name="tips_of_network_speed_set">Mostra la velocità di rete nella barra di stato</string>
