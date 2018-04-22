@@ -215,6 +215,14 @@
      <string name="go_to">Procedi</string>
      <string name="goto_set">Imposta</string>
      <string name="grabage_rank_title">Pulito oggi</string>
+     <string name="guide_secure_dialog_message">Il punteggio di ottimizzazione è inferiore a 80 punti. Ottimizzare ora?</string>
+     <string name="guide_secure_dialog_negative">Annulla</string>
+     <string name="guide_secure_dialog_positive">Ottimizza</string>
+     <string name="guide_secure_dialog_title">Ottimizza prestazioni</string>
+     <string name="guide_virus_dialog_message">Le applicazioni di scansione e i pacchetti di installazione proteggono il tuo dispositivo da virus e malware. Eseguire la scansione ora?</string>
+     <string name="guide_virus_dialog_negative">Annulla</string>
+     <string name="guide_virus_dialog_positive">Scansiona</string>
+     <string name="guide_virus_dialog_title">Scansione antivirus</string>
      <string name="header_optimizer">Utilizzando questa funzionalità accetti %s.</string>
      <string name="hint_clean_select_items">Elimina duplicati…</string>
      <string name="hints_ad_header_left">Pubblicità</string>
@@ -294,6 +302,7 @@
      <string name="low_memory_warning_dialog_ok_button">Avvia la pulizia</string>
      <string name="low_memory_warning_dialog_title">Spazio insufficiente in memoria</string>
      <string name="main_title_filesize">%1$s spazzatura</string>
+     <string name="mainbtn_text_no_trash">Skip</string>
      <string name="mainbtn_text_quick_cleanup">Pulisci %s</string>
      <string name="mainbtn_text_quick_cleanup_default">Pulisci</string>
      <string name="megabyteShort">MB</string>
