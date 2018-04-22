@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="abrupt_weather_settings_summary_type_a">Comando Avviso Meteo Insolito</string>
      <string name="abrupt_weather_settings_summary_type_b">Comando Avviso Meteo Insolito</string>
@@ -119,7 +119,7 @@ trascina verso il basso per aggiornare o verifica le impostazioni di rete"</stri
      <string name="feedback_light_rain">Pioggia leggera</string>
      <string name="feedback_overcast">Coperto</string>
      <string name="feedback_result_fail_no_choice">Seleziona il meteo reale</string>
-     <string name="feedback_result_success">Inviato correttamente, grazie per il feedback</string>
+     <string name="feedback_result_success">Inviato correttamente, grazie per la segnalazione</string>
      <string name="feedback_sand">Sabbia</string>
      <string name="feedback_sunny">Sole</string>
      <string name="first_start_network_msg">Per aggiornare le informazioni meteo devi connetterti ad internet.</string>
@@ -143,7 +143,7 @@ trascina verso il basso per aggiornare o verifica le impostazioni di rete"</stri
      <string name="indices_desc_pressure">%1$s hPa</string>
      <string name="indices_desc_visibility">%1$s km</string>
      <string name="indices_no_restriction">Nessuna</string>
-     <string name="indices_title">Attività raccomandate</string>
+     <string name="indices_title">Attività consigliate</string>
      <string name="indices_title_Precip1hr">Precipitazioni 1 ora</string>
      <string name="indices_title_car_wash">Lavaggio auto</string>
      <string name="indices_title_feel">Percepita</string>
@@ -176,7 +176,7 @@ Tocca lo schermo per aggiungere manualmente o riprovare"</string>
      <string name="minute_rain_after_an_hour">"Tra un'ora"</string>
      <string name="minute_rain_after_two_hour">Tra due ore</string>
      <string name="minute_rain_feedback_subtitle">Dicci che tempo fa</string>
-     <string name="minute_rain_feedback_text">Feedback</string>
+     <string name="minute_rain_feedback_text">Segnala condizioni</string>
      <string name="minute_rain_feedback_title">Il meteo non sembra attendibile..</string>
      <string name="minute_rain_let_go_refresh">Lascia che aggiorni</string>
      <string name="minute_rain_no_data">Nessun dato</string>
@@ -291,7 +291,7 @@ Tocca lo schermo per aggiungere manualmente o riprovare"</string>
      <string name="wind_direction_no_data">Vento</string>
      <string name="wind_miles_unit">%1$smph</string>
      <string name="wind_unit">%1$s km/h</string>
-     <string name="xiaomi_weather_description_content">"Il Meteo fornisce previsioni metereologiche affidabili. Senza questa app, il widget della barra di stato e della Home non funzioneranno. Accertati di non aver necessità di queste funzioni prima di eliminare l'app."</string>
+     <string name="xiaomi_weather_description_content">"Il Meteo fornisce previsioni metereologiche affidabili. Senza questa app, il widget della barra di stato e della Home non funzioneranno. Accertati di non aver necessità di queste funzionalità prima di eliminare l'app."</string>
      <string name="xiaomi_weather_description_title">Informazioni</string>
      <string name="yes_vote_ratio">Per %1$s%%</string>
      <string name="your_location">La tua posizione</string>
