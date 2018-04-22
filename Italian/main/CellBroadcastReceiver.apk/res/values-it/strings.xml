@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
-     <string name="add_channel">Add Channel</string>
+     <string name="add_channel">Aggiungi canale</string>
      <string name="alert_reminder_interval_summary" />
      <string name="alert_reminder_interval_title">Promemoria allerta</string>
      <string name="app_label">Trasmissione Cella</string>

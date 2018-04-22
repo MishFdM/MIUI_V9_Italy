@@ -599,7 +599,7 @@ Motivo: \"%s\"</string>
      <string name="local_search_label">Tutti i contatti</string>
      <string name="locale_change_in_progress">"Elenco contatti in fase di aggiornamento per l'applicazione della modifica della lingua."</string>
      <string name="login_ok">Accedi</string>
-     <string name="low_memory_toast">Memoria insufficiente per utilizzare questa funzione.</string>
+     <string name="low_memory_toast">Memoria insufficiente per utilizzare questa funzionalità.</string>
      <string name="lunarBirthdayLabelsGroup">Compleanno lunare</string>
      <string name="lunar_calendar">Lunare</string>
      <string name="lunar_leap" />
@@ -670,7 +670,7 @@ Motivo: \"%s\"</string>
      <string name="miprofile_alertdialog_edit">Inserisci nome</string>
      <string name="miprofile_alertdialog_message">Mostra questo nome ai contatti quando chiedi di scambiare le schede.</string>
      <string name="miprofile_alertdialog_title">Inserisci nome</string>
-     <string name="miprofile_bind_account_alertdialog_message">Devi aggiungere il numero di questo dispositivo al tuo Mi Account per utilizzare questa funzione."</string>
+     <string name="miprofile_bind_account_alertdialog_message">Devi aggiungere il numero di questo dispositivo al tuo Mi Account per utilizzare questa funzionalità."</string>
      <string name="miprofile_bind_account_alertdialog_positive">Aggiungi numero</string>
      <string name="miprofile_bind_account_alertdialog_title">Aggiungi numero di telefono</string>
      <string name="miprofile_contact_add">Aggiungi</string>
@@ -903,7 +903,7 @@ Per aggiungere un contatto alla lista dei Preferiti:
      <string name="preference_phone">Telefono</string>
      <string name="preference_phone_more_title">Chiamate</string>
      <string name="preference_remove_duplicate">Unisci contatti duplicati</string>
-     <string name="preference_show_yellowpage_tab_description">Se chiudi la scheda delle Pagine Gialle, la funzione Pagine Gialle non funzionerà correttamente</string>
+     <string name="preference_show_yellowpage_tab_description">Se chiudi la scheda delle Pagine Gialle, la funzionalità Pagine Gialle non funzionerà correttamente</string>
      <string name="preference_show_yellowpage_tab_title">Mostra la scheda delle PagineGialle</string>
      <string name="preference_simple_mode_description">"Mostra l'immagine e gli altri dati del contatto nell'elenco dei contatti"</string>
      <string name="preference_simple_mode_title">Vista dettagliata</string>
@@ -1214,7 +1214,7 @@ Scegli una delle seguenti opzioni:"</string>
      <string name="wipe_data">Cancella dati</string>
      <string name="yellowPageNavigationIconLabel">Directory</string>
      <string name="yellowPageNavigationLabel">Directory</string>
-     <string name="yellowpage_fc_toast">Errore con Pagine Gialle, impossibile utilizzare questa funzione.</string>
+     <string name="yellowpage_fc_toast">Errore con Pagine Gialle, impossibile utilizzare questa funzionalità.</string>
      <string name="yellowpage_mi_family">Mi Family</string>
      <string name="yellowpage_navigation_ad_hint">Ad</string>
      <string name="yellowpage_navigation_balance_refresh_failed">Impossibile verificare saldo e dati mobili, riprova più tardi.</string>

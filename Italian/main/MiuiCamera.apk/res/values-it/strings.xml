@@ -152,11 +152,11 @@ per la costruzione di uno scatto con il minimo rumore."</string>
      <string name="hint_fast_motion">Il video che registri verrà riprodotto più velocemente.</string>
      <string name="hint_groupshot">"La fotocamera scatterà foto multiple
 e creerà una foto in cui tutti appariranno ancora più belli."</string>
-     <string name="hint_groupshot_beauty">Con i selfie di gruppo non è possibile utilizzare la funzione Bellezza</string>
+     <string name="hint_groupshot_beauty">Con i selfie di gruppo non è possibile utilizzare la funzionalità Bellezza</string>
      <string name="hint_slow_motion">Il video che registri verrà riprodotto più lentamente.</string>
      <string name="hunt_dual_water_mark">Il logo dual camera verrà aggiunto automaticamente.</string>
      <string name="install_confirmed">Installa</string>
-     <string name="message_snap_double_confirm">La funzione attuale associata alla pressione prolungata del tasto volume è la modalità NFC, confermare la sostituzione?</string>
+     <string name="message_snap_double_confirm">La funzionlità attuale associata alla pressione prolungata del tasto volume è la modalità NFC, confermare la sostituzione?</string>
      <string name="module_name_beauty">Bellezza</string>
      <string name="module_name_capture">Foto</string>
      <string name="module_name_fun">Video breve</string>
@@ -349,7 +349,7 @@ per rendere il tuo corpo ancor più chiaro e meraviglioso"</string>
      <string name="pref_camera_portrait_mode_entry_off">Modalità ritratto disattivata</string>
      <string name="pref_camera_portrait_mode_entry_on">Modalità ritratto attivata</string>
      <string name="pref_camera_portrait_mode_title">Modalità ritratto</string>
-     <string name="pref_camera_portrait_with_facebeauty_title">Funzione Bellezza in modalità ritratto</string>
+     <string name="pref_camera_portrait_with_facebeauty_title">Funzionlità Bellezza in modalità ritratto</string>
      <string name="pref_camera_proximity_lock_summary">Blocca i movimenti touch quando posizionato in una tasca</string>
      <string name="pref_camera_proximity_lock_title">Modalità Pocket</string>
      <string name="pref_camera_recordlocation_entry_off">Disattivato</string>
@@ -388,7 +388,7 @@ per rendere il tuo corpo ancor più chiaro e meraviglioso"</string>
      <string name="pref_camera_snap_entry_take_picture">Foto</string>
      <string name="pref_camera_snap_label_take_movie">Video</string>
      <string name="pref_camera_snap_label_take_picture">Foto</string>
-     <string name="pref_camera_snap_toast_when_volume_can_wake_screen">Impossibile utilizzare la modalità Quick Snap mentre la funzione \"Utilizza i tasti volume per attivare\" è attiva.</string>
+     <string name="pref_camera_snap_toast_when_volume_can_wake_screen">Impossibile utilizzare la modalità Quick Snap mentre la funzionlità \"Utilizza i tasti volume per attivare\" è attiva.</string>
      <string name="pref_camera_sound_title">"Suoni nell'applicazione"</string>
      <string name="pref_camera_square_mode_title">Quadrato</string>
      <string name="pref_camera_stereo_mode_title">Stereo</string>

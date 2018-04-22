@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="app_name">Plugin Servizio di Sicurezza</string>
      <string name="cancel_button">Annulla</string>
-     <string name="fastboot_locked_answer_1">"Fastboot è il metodo tradizionale per flashare il tuo dispositivo Mi. Quando il dispositivo è in modalità Fastboot, tutti i dati salvati non saranno più raggiungibili e verranno direttamente. Bloccheremo successivamente il tuo dispositivo per assicurarci che i tuoi dati rimangano al sicuro nel caso di smarrimento del dispositivo, così come per assicurare l'affidabilità delle funzioni trova dispositivo."</string>
+     <string name="fastboot_locked_answer_1">"Fastboot è il metodo tradizionale per flashare il tuo dispositivo Mi. Quando il dispositivo è in modalità Fastboot, tutti i dati salvati non saranno più raggiungibili e verranno direttamente. Bloccheremo successivamente il tuo dispositivo per assicurarci che i tuoi dati rimangano al sicuro nel caso di smarrimento del dispositivo, così come per assicurare l'affidabilità delle funzionalità trova dispositivo."</string>
      <string name="fastboot_locked_answer_2">Nel caso di smarrimento del dispositivo, la modalità Fastboot garantirà la sicurezza degli elementi in esso salvati. Se effettuerai lo sblocco con Fastboot, non sarai più in grado di bloccare il tuo dispositivo da remoto o cancellare i dati con trova dispositivo. Ecco perché non consigliamo di sbloccare il tuo dispositivo con Fastboot</string>
      <string name="fastboot_locked_answer_3">Dovresti utilizzare lo strumento di sblocco dal sito MIUI. Per sbloccare il dispositivo, dobbiamo assicurarci che il dispositivo appartiene a te. Ecco perché dovresti accedere con il tuo Mi account ed abilitare trova dispositivo.</string>
      <string name="fastboot_locked_question_1">Perché il bootloader dovrebbe essere bloccato?</string>

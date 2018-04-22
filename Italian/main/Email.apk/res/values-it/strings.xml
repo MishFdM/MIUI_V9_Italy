@@ -107,7 +107,7 @@
      <string name="account_setup_failed_ioerror">Impossibile stabilire la connessione al server.</string>
      <string name="account_setup_failed_protocol_unsupported">"Hai digitato l'indirizzo di un server sbagliato o il server richiede una versione di protocollo non supportata da Email."</string>
      <string name="account_setup_failed_security">Impossibile stabilire la connessione al server a causa di un errore di sicurezza.</string>
-     <string name="account_setup_failed_security_policies_unsupported">Il server richiede funzioni di sicurezza non supportate dal tuo dispositivo Android, fra cui: %s</string>
+     <string name="account_setup_failed_security_policies_unsupported">Il server richiede funzionalità di sicurezza non supportate dal tuo dispositivo Android, fra cui: %s</string>
      <string name="account_setup_failed_tls_required">TLS richiesto ma non supportato dal server.</string>
      <string name="account_setup_failed_too_many_partnerships">"Accesso fallito, è stato raggiunto il numero massimo di connessioni consentite dal server."</string>
      <string name="account_setup_incoming_delete_policy_delete_label">Quando elimino da Posta in arrivo</string>
@@ -213,7 +213,7 @@
      <string name="auto_advance_summary">"Scegli quale schermata visualizzare dopo l'eliminazione di un messaggio"</string>
      <string name="auto_login_fail">Accesso automatico fallito</string>
      <string name="auto_login_fail_to_retry">Accesso automatico fallito, prova di nuovo.</string>
-     <string name="auto_mail_describe">139 Email è un servizio di configurazione automatica che può aiutare a compilare le informazioni di login sulla casella di posta. Desideri attivare questa funzione?</string>
+     <string name="auto_mail_describe">139 Email è un servizio di configurazione automatica che può aiutare a compilare le informazioni di login sulla casella di posta. Desideri attivare questa funzionalità?</string>
      <string name="auto_mail_disable_txt">Disattivato</string>
      <string name="auto_mail_enable_txt">Inizia impostazioni</string>
      <string name="auto_mail_go_email">Casella di posta</string>
@@ -238,7 +238,7 @@
      <string name="bill_list_card_num_fmt">**** **** **** %s</string>
      <string name="bill_remind">Promemoria rinnovo</string>
      <string name="bill_remind_due">Rinnovo pagamento il %s, tocca per vedere</string>
-     <string name="blank_feedback_toast">Il feedback è vuoto, inserisci un feedback.</string>
+     <string name="blank_feedback_toast">La segnalazione bug è vuota, inserisci una segnalazione.</string>
      <string name="body_forward_email_text">[Inoltra]</string>
      <string name="body_hint">Scrivi email</string>
      <string name="body_inline_pic_text">[Immagine]</string>
@@ -317,7 +317,7 @@
      <string name="contextmenu_create">Crea un nuovo contatto</string>
      <string name="contextmenu_dial_dot">Componi…</string>
      <string name="contextmenu_edit">Modifica contatto</string>
-     <string name="contextmenu_feedback">Invia feedback</string>
+     <string name="contextmenu_feedback">Invia segnalazione bug</string>
      <string name="contextmenu_help">Guida</string>
      <string name="contextmenu_map">Mappa</string>
      <string name="contextmenu_open">Apri</string>
@@ -363,7 +363,7 @@
      <string name="delete_message_flow_keywords">elimina flusso messaggio;elimina reindirizzamento</string>
      <string name="deleted">Eliminata</string>
      <string name="device_activity_btn_str">Invio per attivare</string>
-     <string name="device_activity_lint_str">"Attiva completamento dell'aggiornamento per il servizio di posta e attiva la funzione di sicurezza"</string>
+     <string name="device_activity_lint_str">"Attiva completamento dell'aggiornamento per il servizio di posta e attiva la funzionalità di sicurezza"</string>
      <string name="device_admin_description">Abilita norme di sicurezza specificate dal server</string>
      <string name="device_admin_label">Posta</string>
      <string name="device_not_activiey_lint1">Il gestore del dispositivo non è attivato</string>
@@ -414,7 +414,7 @@
      <string name="email_netease">NetEase Mail</string>
      <string name="email_qq">QQ Mail</string>
      <string name="email_setting">Impostazioni Email</string>
-     <string name="email_setting_keywords">Account;Aggiungi account;account mail;aggiungi account mail;conferma prima di eliminare;conferma eliminazione;conferma prima di inviare;invia conferma;elimina flusso messaggi;elimina reindirizzamento;visualizza conversazione;conversazione mail;risparmio batteria;batteria mail;invia feedback;invia log</string>
+     <string name="email_setting_keywords">Account;Aggiungi account;account mail;aggiungi account mail;conferma prima di eliminare;conferma eliminazione;conferma prima di inviare;invia conferma;elimina flusso messaggi;elimina reindirizzamento;visualizza conversazione;conversazione mail;risparmio batteria;batteria mail;invia segnalazione bug;invia log</string>
      <string name="email_sina">Sina Mail</string>
      <string name="eml_parse_message">"Il recupero dei file eml richiede un po' di tempo, attendere prego…"</string>
      <string name="empty_account_tip">"Impossibile trovare l'account"</string>
@@ -437,9 +437,9 @@
      <string name="failed_read_phone_state_permission">"Mancata autorizzazione per l'accesso allo stato del telefono"</string>
      <string name="failed_read_write_calendar_permission">"Mancata autorizzazione per l'accesso al calendario"</string>
      <string name="failed_read_write_contacts_permission">"Mancata autorizzazione per l'accesso ai contatti"</string>
-     <string name="feedback">Invia feedback</string>
-     <string name="feedback_body">Informazioni feedback</string>
-     <string name="feedback_sent">Grazie per il tuo feedback</string>
+     <string name="feedback">Invia segnalazione bug</string>
+     <string name="feedback_body">Informazioni segnalazione bug</string>
+     <string name="feedback_sent">Grazie per la tua segnalazione</string>
      <string name="feedback_user_edit_hint">Descrivi qui il problema. Ti invieremo una email dopo aver esaminato il problema.</string>
      <string name="feedback_user_edit_tag">Da MIUI </string>
      <string name="fetch_bank_sender_list_failure">Impossibile recuperare informazioni</string>
@@ -525,7 +525,7 @@
      <string name="gmail_web_login_go">OK</string>
      <string name="gmail_web_login_required_message">Accedi a Gmail</string>
      <string name="header_category_account">Account</string>
-     <string name="header_category_other">Feedback</string>
+     <string name="header_category_other">Segnalazione bug</string>
      <string name="header_label_general_preferences">Generali</string>
      <string name="help_and_info">Guida</string>
      <string name="help_config">Auto configurazione</string>
@@ -756,7 +756,7 @@ Prova con una diverso account."</string>
      <string name="path_about_conversation_view">Email/Impostazioni/Mostra conversazione</string>
      <string name="path_about_delete_message_flow">Email/Impostazioni/Elimina scambio messaggi</string>
      <string name="path_about_email_setting">Email/Impostazioni</string>
-     <string name="path_about_send_feed_back">Email/Impostazioni/Invia feedback</string>
+     <string name="path_about_send_feed_back">Email/Impostazioni/Invia segnalazione bug</string>
      <string name="path_about_upload_logs">Email/Impostazioni/Carica log</string>
      <string name="perference_change_pw_notnull_tips">La password non può essere vuota</string>
      <string name="perference_change_pw_ok_tips">Password modificata</string>
@@ -961,8 +961,8 @@ perr icevere promemoria sui pagamenti dei tuoi viaggi"</string>
      <string name="select_path">Seleziona percorso</string>
      <string name="send">Invia</string>
      <string name="send_failed">"Il messaggio non è stato inviato."</string>
-     <string name="send_feed_back">Invia feedback</string>
-     <string name="send_feed_back_keywords">invia feedback</string>
+     <string name="send_feed_back">Invia segnalazione bug</string>
+     <string name="send_feed_back_keywords">invia segnalazione bug</string>
      <string name="send_mail">Invia</string>
      <string name="sender_whitelist_cleared">Le immagini non verranno mostrate automaticamente.</string>
      <string name="senders_split_token">, </string>
@@ -1079,7 +1079,7 @@ Interrompere adesso?"</string>
      <string name="unread_string">Conversazione non letta</string>
      <string name="unzip_file_failed">Impossibile decomprimere il file</string>
      <string name="update_date_format_templete">HH:mm aa, dd MMMM</string>
-     <string name="update_to_wps_mail">Funzioni avanzate, aggiorna a WPS-mail</string>
+     <string name="update_to_wps_mail">Funzionalità avanzate, aggiorna a WPS-mail</string>
      <string name="updated_at">Ultimo aggiornamento %1$s</string>
      <string name="upload_log">Carica log</string>
      <string name="upload_log_failed">Caricamento log fallito</string>

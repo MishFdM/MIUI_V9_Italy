@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string-array name="attachment_chooser">
         <item>Fotocamera</item>
@@ -49,7 +49,7 @@ Proteggi le note private con una password.
 Esistono 2 modi per nascondere una nota:
 1. Tocca il tasto \"+\" in alto a destra della nota e seleziona \"Nascondi\".
 2. Tieni premuto sulla nota finché non appare un pop-up e scegli \"Nascondi\"."</item>
-        <item>"Ed altri interessanti funzioni!
+        <item>"Ed altri interessanti funzionalità!
   - Immagini, elenchi e promemoria.
 
 Aggiungi immagini

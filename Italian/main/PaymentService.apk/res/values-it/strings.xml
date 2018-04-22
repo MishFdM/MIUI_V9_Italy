@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="abc_action_bar_home_description">Vai in home</string>
      <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
@@ -63,7 +63,7 @@
      <string name="mibi_check_giftcard">Mostra coupon</string>
      <string name="mibi_click_retry">%1$s, tocca per riprovare</string>
      <string name="mibi_deduct_goods_name">Prodotto</string>
-     <string name="mibi_deduct_open_prompt">%1$s sarà in grado di ricarica automaticamente %2$s senza verifica.Puoi disattivare questa funzione in %1$s</string>
+     <string name="mibi_deduct_open_prompt">%1$s sarà in grado di ricarica automaticamente %2$s senza verifica.Puoi disattivare questa funzionalità in %1$s</string>
      <string name="mibi_deduct_order_price">Prezzo</string>
      <string name="mibi_deduct_pay_group_title">Seleziona metodo di addebito</string>
      <string name="mibi_deduct_payment_title">Addebito automatico</string>
@@ -171,7 +171,7 @@ Controlla la tua data locale e riprova."</string>
      <string name="mibi_list_item_bottom_hint">Hai raggiunto la fine della lista</string>
      <string name="mibi_login">Accedi</string>
      <string name="mibi_memu_refresh">Aggiorna</string>
-     <string name="mibi_menu_feedback">Feedback</string>
+     <string name="mibi_menu_feedback">Segnalazione bug</string>
      <string name="mibi_menu_lock">Sequenza di sblocco</string>
      <string name="mibi_menu_qa">FAQ</string>
      <string name="mibi_menu_shotcut">Posiziona in Home</string>

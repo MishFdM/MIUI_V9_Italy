@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">NVIDIA Wireless Display</string>
+    <string name="app_name">NVIDIA Schemo Wireless</string>
     <string name="miracast_hdmi_title">HDMI</string>
     <string name="miracast_hdmi_unavailable">Non disponibile quando Miracast è attivo.</string>
     <string name="miracast_hdcp_title">Autenticazione HDCP fallita con %1$s</string>

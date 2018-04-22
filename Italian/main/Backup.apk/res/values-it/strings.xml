@@ -120,7 +120,7 @@ https://appleid.apple.com/#!&amp;page=signin per chiudere"</string>
      <string name="enable_encrypt_description">Crittografia</string>
      <string name="enable_encrypt_fail">Abilitazione crittografia fallita</string>
      <string name="enable_encrypt_indicator">Backup non crittografato, tocca per abilitarla.</string>
-     <string name="enable_encrypt_summery1">"Il sistema cripterà il tuo backup locale basato sul tuo Mi Account. Devi accedere al tuo Mi Account per rimuovere dati o usare altri dispositivi per ripristinare il backup."</string>
+     <string name="enable_encrypt_summery1">"Il sistema crittograferà il tuo backup locale basato sul tuo Mi Account. Devi accedere al tuo Mi Account per rimuovere dati o usare altri dispositivi per ripristinare il backup."</string>
      <string name="enable_encrypt_summery2">Il nuovo backup verrà crittografato automaticamente. Devi accedere al tuo Mi Account per rimuovere i dati o usare altri dispositivi per ripristinare il backup.</string>
      <string name="enable_encrypt_title">Crittografia abilitata</string>
      <string name="enable_encrypt_xiaomi_account">"Questo backup è stato creato da %1$s, si prega di eliminare l'account attuale ed accedere a %2$s per ripristinare i dati."</string>
@@ -523,7 +523,7 @@ In attesa del trasferimento…"</string>
      <string name="user_name">Apple ID o email</string>
      <string name="user_name_null">Il nome utente non può essere vuoto</string>
      <string name="user_notice_declaration_ignore">Non mostrare più</string>
-     <string name="user_notice_message">Alcune funzioni richiedono una connessione internet per funzionare correttamente.</string>
+     <string name="user_notice_message">Alcune funzionalità richiedono una connessione internet per funzionare correttamente.</string>
      <string name="user_notice_title">Notifiche utente</string>
      <string name="view_password_description">Mostra password</string>
      <string name="wifi_title">Impostazioni Wi-Fi</string>

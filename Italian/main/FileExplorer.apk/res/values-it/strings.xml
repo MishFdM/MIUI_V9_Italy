@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="a_week_share_rank">Classifica settimanale</string>
      <string name="action_mode_deselect_all">Deseleziona tutto</string>
@@ -139,8 +139,8 @@
      <string name="decompress_to_here">Estrai qui</string>
      <string name="decrypt">Rimuovi</string>
      <string name="decrypt_error">Impossibile decrittare</string>
-     <string name="decrypt_to">Decripta e salva in…</string>
-     <string name="decrypting">Decriptazione…</string>
+     <string name="decrypt_to">Decritta e salva in…</string>
+     <string name="decrypting">Decrittazione…</string>
      <string name="default_prize_text">Questo va dritto assieme ai miei tesori!</string>
      <string name="default_user_desc">Questa persona non ha ancora aggiunto una descrizione</string>
      <string name="delete_dialog_button">Elimina</string>

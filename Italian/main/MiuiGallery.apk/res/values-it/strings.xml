@@ -653,7 +653,7 @@
      <string name="confirm_download_video_title">Scarica video</string>
      <string name="confirm_face">Corrispondenza</string>
      <string name="confirm_hidden_recommend_group">OK</string>
-     <string name="confirm_hidden_recommend_group_message">QUando i suggerimenti sono disattivati, puoi ancora utilizzare la funzione \"Altre persone che assomigliano\"</string>
+     <string name="confirm_hidden_recommend_group_message">QUando i suggerimenti sono disattivati, puoi ancora utilizzare la funzionalità \"Altre persone che assomigliano\"</string>
      <string name="confirm_hidden_recommend_group_title">Non mostrare i suggerimenti</string>
      <string name="confirm_merge_face_albums">" "<data> Unire questo album con %s? </data>" "</string>
      <string name="confirm_merge_many_face_albums">" "<data> Unire questi album con %s? </data>" "</string>
@@ -802,9 +802,9 @@
      <string name="error_sync_off_tip">Sincronizzazione disattivata</string>
      <string name="error_title">Impossibile sincronizzare</string>
      <string name="error_unauthorized">Troppi tentativi di accesso: sincronizzazione disattivata.</string>
-     <string name="error_unknown_action">Feedback</string>
+     <string name="error_unknown_action">Segnalazione bug</string>
      <string name="error_unknown_host">Hostname sconosciuto, controlla la connessione di rete</string>
-     <string name="error_unknown_msg">Si è verificato un errore. Inviaci il tuo feedback.</string>
+     <string name="error_unknown_msg">Si è verificato un errore. Inviaci la tua segnalazione.</string>
      <string name="error_unknown_tip">Si è verificato un errore.</string>
      <string name="exit">Esci</string>
      <string name="exit_share">"Esci dall'album"</string>
@@ -902,7 +902,7 @@ Scatta più foto ai tuoi amici!"</string>
      <string name="flash_on">Usa flash</string>
      <string name="free_view_desc">Visuale 3D</string>
      <string name="gallery_setting">Impostazioni</string>
-     <string name="gallery_sync_disable_toast">La funzione di sincronizzazione della galleria non è attiva</string>
+     <string name="gallery_sync_disable_toast">La funzionalità di sincronizzazione della galleria non è attiva</string>
      <string name="get_album_info_in_process">Richiesta informazioni album condiviso, attendere…</string>
      <string name="gif_tip">GIF</string>
      <string name="gigabyteShort">GB</string>
@@ -1476,7 +1476,7 @@ per personalizzare la Galleria"</string>
      <string name="title_tip">Suggerimento</string>
      <string name="title_warn">Attenzione</string>
      <string name="to_count">%d totali</string>
-     <string name="to_enable_gallery_sync_dialog_message">Prima attiva la funzione di sincronizzazione galleria</string>
+     <string name="to_enable_gallery_sync_dialog_message">Prima attiva la funzionalità di sincronizzazione galleria</string>
      <string name="to_enable_sync_dialog_message">Prima attiva la sincronizzazione</string>
      <string name="to_enable_sync_dialog_positive_button_text">Vai</string>
      <string name="to_enable_sync_dialog_title">Sincronizzazione</string>
@@ -1535,7 +1535,7 @@ per personalizzare la Galleria"</string>
      <string name="video_editor_filter_sunny">Sole</string>
      <string name="video_editor_invalid_trim_arguments">Potrebbe impiegare qualche minuto</string>
      <string name="video_editor_loading_plugin">Caricamento…</string>
-     <string name="video_editor_loading_warning_msg">A causa di un errore nella codifica, alcune funzioni ed anteprime potrebbero non essere disponibili durante il processo. In ogni caso questo non influenzerà il video finale.</string>
+     <string name="video_editor_loading_warning_msg">A causa di un errore nella codifica, alcune funzionalità ed anteprime potrebbero non essere disponibili durante il processo. In ogni caso questo non influenzerà il video finale.</string>
      <string name="video_editor_loading_warning_title">Errore di codifica</string>
      <string name="video_editor_more">Avanzate</string>
      <string name="video_editor_not_support_tips">Questi file video non sono supportati</string>
@@ -1543,7 +1543,7 @@ per personalizzare la Galleria"</string>
      <string name="video_editor_res_download_failed_tips">Impossibile scaricare, controlla le impostazioni di rete e riprova</string>
      <string name="video_editor_res_download_mobil_network_confirm_msg">Scaricare tramite rete dati cellulare?</string>
      <string name="video_editor_res_download_mobil_network_confirm_title">Utilizza rete dati cellulare</string>
-     <string name="video_editor_res_not_load_dialog_msg">Scarica il plugin per poter utilizzare questa funzione.</string>
+     <string name="video_editor_res_not_load_dialog_msg">Scarica il plugin per poter utilizzare questa funzionalità.</string>
      <string name="video_editor_template_family">Famiglia</string>
      <string name="video_editor_template_forbidden_tips">Operazione impossibile mentre si utilizza un modello</string>
      <string name="video_editor_template_oldfilm">Vintage</string>

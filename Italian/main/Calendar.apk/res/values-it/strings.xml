@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="accessibility_add_attendee">Aggiungi partecipante</string>
      <string name="accessibility_all_day">Tutto il giorno</string>
@@ -440,7 +440,7 @@ Puoi anche aggiungere dei promemoria per non perdere niente di importante."</str
      <string name="user_notice_button_exit">Esci</string>
      <string name="user_notice_button_ok">OK</string>
      <string name="user_notice_declaration_ignore">Non mostrare più</string>
-     <string name="user_notice_message">Utilizzando questo prodotto, accetti %1$s e %2$s. Alcune funzioni devono connettersi ad internet per funzionare correttamente.</string>
+     <string name="user_notice_message">Utilizzando questo prodotto, accetti %1$s e %2$s. Alcune funzionalità devono connettersi ad internet per funzionare correttamente.</string>
      <string name="user_notice_title">Notifica utente</string>
      <string name="user_notification">Notifica utente</string>
      <string name="user_notification_descrip">Mostra la notifica utente ogni volta che apri il Calendario</string>

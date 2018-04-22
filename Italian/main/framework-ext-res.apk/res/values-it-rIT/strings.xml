@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="activity_package_delete_confirm_title">Avviso importante</string>
      <string name="add_frequent_phrases">Aggiungi frase</string>
@@ -43,7 +43,7 @@
      <string name="fc_dialog_jump_to_preview">Mostra il riassunto</string>
      <string name="first_back_long_press_message">"Tieni premuto Indietro per chiudere il processo attivo ed i servizi ad esso collegati.
 
-Per attivare questa funzione, vai in Impostazioni > Sistema > Tasti"</string>
+Per attivare questa funzionalità, vai in Impostazioni > Sistema > Tasti"</string>
      <string name="fm_record_smaple_prefix_miui">Registrazione FM</string>
      <string name="force_exit_message">Chiusura forzata di %1$s</string>
      <string name="force_exit_skip_message">Impossibile chiudere %1$s perché è richiesta dal sistema.</string>
@@ -86,7 +86,7 @@ Per attivare questa funzione, vai in Impostazioni > Sistema > Tasti"</string>
      <string name="miui_screen_ratio_hint_go_to_settings">Vai nelle impostazioni</string>
      <string name="miui_screen_ratio_hint_message">Questa app può avviarsi in modalità schermo intero, potrebbe avere problemi nella visualizzazione. Puoi modificare nelle Impostazioni &gt; Impostazioni avanzate &gt; Tasti.</string>
      <string name="miui_screen_ratio_hint_ok">OK</string>
-     <string name="miui_upgrading_notification_title">Il sistema sta caricando, alcune funzioni potrebbero essere limitate</string>
+     <string name="miui_upgrading_notification_title">Il sistema sta caricando, alcune funzionalità potrebbero essere limitate</string>
      <string name="onehour">30 minuti</string>
      <string name="package_delete_confirm_step_1">Eliminare %s?</string>
      <string name="package_delete_confirm_step_2">Eliminando questa app potresti causare instabilità del sistema.</string>
@@ -105,11 +105,11 @@ Per attivare questa funzione, vai in Impostazioni > Sistema > Tasti"</string>
      <string name="resource_select">Seleziona</string>
      <string name="screen_button_notification_text">Per attivarli premi contemporaneamente i tasti Home e Power.</string>
      <string name="screen_button_notification_title">I tasti di navigazione sono disattivati</string>
-     <string name="screen_on_proximity_sensor_hint">Disattiva questa funzione, premi il tasto del Volume Su.</string>
-     <string name="screen_on_proximity_sensor_hint_has_navigation_bar">Disattiva questa funzione, premi tasto Volume su.</string>
+     <string name="screen_on_proximity_sensor_hint">Disattiva questa funzionalità, premi il tasto del Volume Su.</string>
+     <string name="screen_on_proximity_sensor_hint_has_navigation_bar">Disattiva questa funzionalità, premi tasto Volume su.</string>
      <string name="screen_on_proximity_sensor_summary">Non coprire la parte superiore dello schermo</string>
      <string name="screen_on_proximity_sensor_title">Previeni chiamate dalla tasca</string>
-     <string name="screen_paper_mode_enter_toast">Modalità lettura attivata. Puoi attivare/disattivare questa funzione in qualsiasi momento in Impostazioni aggiuntive > Modalità lettura.</string>
+     <string name="screen_paper_mode_enter_toast">Modalità lettura attivata. Puoi attivare/disattivare questa funzionalità in qualsiasi momento in Impostazioni aggiuntive > Modalità lettura.</string>
      <string name="screen_rotation_freeze_message">Rotazione automatica disattivata.</string>
      <string name="screenshot_gesture_detect_alert_button">Impostazioni > Screenshot</string>
      <string name="screenshot_gesture_detect_alert_dont_again">Non mostrare più</string>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="DOWNLOAD_UNIT_BIT">B</string>
      <string name="DOWNLOAD_UNIT_GB">GB</string>
@@ -380,8 +380,8 @@ su tutti i tuoi dispositivi grazie a Xunlei"</string>
      <string name="sniff_terms_agree_new">Accetto</string>
      <string name="sniff_terms_check_text">Accetto i Termini del Servizio</string>
      <string name="sniff_terms_msg">Devi accettare le \"Condizioni di Utilizzo\" per utilizzare il motore di ricerca di terze parti.</string>
-     <string name="sniff_terms_msg_a">Questa funzione è fornita da uno sviluppatore di terze parti. Devi accettare i Termini del Servizio prima di utilizzarla.</string>
-     <string name="sniff_terms_msg_b">Questa funzione di ricerca è fornita da uno sviluppatore di terze parti. Devi accettare i Termini del Servizio prima di utilizzarla. Se accetti, tocca il simbolo di spunta.</string>
+     <string name="sniff_terms_msg_a">Questa funzionalità è fornita da uno sviluppatore di terze parti. Devi accettare i Termini del Servizio prima di utilizzarla.</string>
+     <string name="sniff_terms_msg_b">Questa funzionalità di ricerca è fornita da uno sviluppatore di terze parti. Devi accettare i Termini del Servizio prima di utilizzarla. Se accetti, tocca il simbolo di spunta.</string>
      <string name="sniff_terms_msg_bold">Condizioni di Utilizzo</string>
      <string name="sniff_terms_msg_bold_new">Termini del Servizio</string>
      <string name="sniff_terms_reject">Rifiuta</string>

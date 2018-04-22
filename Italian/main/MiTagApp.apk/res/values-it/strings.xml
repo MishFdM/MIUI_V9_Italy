@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Mi Tag</string>
     <string name="btn_write">Scrivi</string>
@@ -72,7 +72,7 @@ toccalo con la parte posteriore del tuo dispositivo"</string>
     <string name="bump_write_alert">Per applicare queste impostazioni, tocca il retro del tuo dispositivo con il tag</string>
     <string name="pwd_alert">Imposta una password ora</string>
     <string name="pwd_pref">Proteggi il tag dalla riscrittura</string>
-    <string name="pwd_pref_desc">Quando questa funzione di protezione viene attivata, sarà richiesta una password per scrivere nuovamente il tag</string>
+    <string name="pwd_pref_desc">Quando questa funzionalità di protezione viene attivata, sarà richiesta una password per scrivere nuovamente il tag</string>
     <string name="input_password">Inserisci la password di 4 cifre</string>
     <string name="input_password_gain">Inserisci di nuovo la password</string>
     <string name="inconsistent_password">Le password non corrispondono, riprova</string>

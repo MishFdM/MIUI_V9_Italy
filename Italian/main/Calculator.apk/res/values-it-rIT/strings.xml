@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="angle">grad</string>
      <string name="app_name">Calcolatrice</string>
@@ -40,7 +40,7 @@
      <string name="degDesc">Angolo</string>
      <string name="del">DEL</string>
      <string name="deleteDesc">elimina</string>
-     <string name="description_content">"Oltre alle funzioni base, l'app Calcolatrice funziona anche da multi convertitore, calcolo finanziamenti e tasse. Assicurati di non aver necessità di queste funzioni prima di eliminare l'app"</string>
+     <string name="description_content">"Oltre alle funzionalità base, l'app Calcolatrice funziona anche da multi convertitore, calcolo finanziamenti e tasse. Assicurati di non aver necessità di queste funzionalità prima di eliminare l'app"</string>
      <string name="description_title">Informazioni</string>
      <string name="devided_by_zero_reminder_message">Impossibile dividere per zero</string>
      <string name="digit0">0</string>
@@ -80,7 +80,7 @@
      <string name="global_search_key_length_convertion">Lunghezza;Convertitore Lunghezza;Conversione Lunghezza</string>
      <string name="global_search_key_mortgage">Calcolo mutuo;Calcolatore mutuo;Mutuo</string>
      <string name="global_search_key_personal_tax">Tassa di reddito individuale;Dopo tassa reddito;Calcolatrice tassa;Tassa di reddito personale;Calcolo reddito;Calcolo dopotassa reddito;Tassa reddito personale;Tassa;Tasse</string>
-     <string name="global_search_key_scientific_convertion">Calcolatrice scientifica;Funzione calcolo;Math;Algebra</string>
+     <string name="global_search_key_scientific_convertion">Calcolatrice scientifica;Funzionalità di calcolo;Math;Algebra</string>
      <string name="global_search_key_speed_convertion">Unità conversione Velocità;Conversione Velocità;Conversione Velocità;Convertitore Velocità;Velocità;Velocità</string>
      <string name="global_search_key_temperature_convertion">Unità conversione Temperatura;Conversione Temperatura;Convertitore Temperatura;Fahrenheit;Celsius;Centigradi</string>
      <string name="global_search_key_volume_convertion">Unità conversione Volume;Conversione a volume;Convertitore Volume</string>
@@ -173,7 +173,7 @@
      <string name="power">^</string>
      <string name="powerDesc">potenza</string>
      <string name="preference_about_calculator">Informazioni</string>
-     <string name="preference_alert_follow_qq_group">Copia e incolla su QQ per il feedback</string>
+     <string name="preference_alert_follow_qq_group">Copia e incolla su QQ per la segnalazione bug</string>
      <string name="preference_alert_follow_wechat">Copia e incolla su WeChat per seguire</string>
      <string name="preference_alert_follow_wechat_button">Copia</string>
      <string name="preference_check_update_summary_current_version">Aggiornamento attuale: %s</string>

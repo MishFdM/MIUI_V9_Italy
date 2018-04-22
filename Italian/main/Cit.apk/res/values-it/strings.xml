@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="FpTest">Esegui FpTest</string>
      <string name="FpTest_result">Risultato FpTest:</string>
@@ -197,7 +197,7 @@ Impugna il dispositivo come se stessi chiamando e parla al microfono principale:
      <string name="cit_fm_audio_path">Configura path audio</string>
      <string name="cit_fm_audio_path_headset">Cuffie</string>
      <string name="cit_fm_audio_path_speaker">Altoparlante</string>
-     <string name="cit_fm_check_summary">Questo testerà la funzione FM del dispositivo.</string>
+     <string name="cit_fm_check_summary">Questo testerà la funzionalità FM del dispositivo.</string>
      <string name="cit_fm_check_title">Test Radio FM</string>
      <string name="cit_fm_close">Chiudi FM</string>
      <string name="cit_fm_not_supported">Questo dispositivo non supporta la radio FM</string>

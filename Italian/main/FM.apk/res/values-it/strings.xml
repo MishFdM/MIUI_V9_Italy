@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="alert_frequency_duplicate">Frequenza già esistente</string>
      <string name="alert_invalid_frequency">Frequenza non valida!</string>
@@ -50,7 +50,7 @@
      <string name="stations_list_empty">Lista stazioni vuota</string>
      <string name="toast_added_to_list">Aggiunta alla lista stazioni</string>
      <string name="toast_added_to_presets">Aggiunto ai predefiniti</string>
-     <string name="toast_fm_error_startfailed">"Registrazione fallita, un'altra applicazione potrebbe utilizzare la funzione di registrazione. Verifica e controlla di nuovo."</string>
+     <string name="toast_fm_error_startfailed">"Registrazione fallita, un'altra applicazione potrebbe utilizzare la funzionalità di registrazione. Verifica e controlla di nuovo."</string>
      <string name="toast_fm_recorder_access_error">Impossibile registrare in modalità Ospite</string>
      <string name="toast_fm_recorder_internal_error">Errore registrazione FM.</string>
      <string name="toast_fm_recorder_storage_full">Memoria piena,la registrazione non può essere effettuata</string>

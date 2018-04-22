@@ -287,13 +287,13 @@ Utilizza un account diverso."</string>
 È possibile disattivare o attivare questa funzione in qualsiasi momento in Impostazioni. "</string>
      <string name="mx_dspt_provision_privacy">"Questa funzione potrebbe richiedere il tuo numero di telefono. Il tuo operatore potrebbe addebitarti il costo di un SMS utilizzato per attivare questo servizio.
 
-Questa funzione cripta ed invia il tuo ID ai server Xiaomi."</string>
+Questa funzione critta ed invia il tuo ID ai server Xiaomi."</string>
      <string name="mx_dspt_provision_privacy_2_sim">"Questa funzione potrebbe richiedere il tuo numero di telefono. Il tuo operatore potrebbe addebitarti il costo di un SMS utilizzato per attivare questo servizio.
 
-Questa funziona cripta ed invia l'ID del tuo dispositivo ai server Xiaomi."</string>
+Questa funziona critta ed invia l'ID del tuo dispositivo ai server Xiaomi."</string>
      <string name="mx_dspt_provision_privacy_no_sim">"Questa funzione potrebbe richiedere il tuo numero di telefono. Il tuo operatore potrebbe addebitarti il costo di un SMS utilizzato per attivare questo servizio all'inserimento della SIM.
 
-Questa funziona cripta ed invia l'ID del tuo dispositivo ai server Xiaomi."</string>
+Questa funziona critta ed invia l'ID del tuo dispositivo ai server Xiaomi."</string>
      <string name="mx_dspt_provision_with_voip">"Chiama gratuitamente gli altri utenti MIUI utilizzando la connessione internet. Pupoi modificare questa opzione in qualsiasi momento nelle Impostazioni. VoIP è supportato da Weihui. Leggi l'informativa sulla Privacy"</string>
      <string name="mx_dspt_provision_with_voip2">Informativa sulla Privacy</string>
      <string name="mx_sub_dspt_provision">Mi Message</string>
