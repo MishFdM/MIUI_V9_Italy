@@ -1364,8 +1364,8 @@ L'ascolto ad alto volume per lunghi periodi di tempo potrebbe danneggiare l'udit
      <string name="serviceNotProvisioned">Servizio non fornito.</string>
      <string name="serviceRegistered">Registrazione effettuata.</string>
      <string name="setup_autofill">Compilaz. autom.</string>
-     <string name="sha1_fingerprint">Impronta SHA-1:</string>
-     <string name="sha256_fingerprint">Impronta SHA-256:</string>
+     <string name="sha1_fingerprint">Fingerprint SHA-1:</string>
+     <string name="sha256_fingerprint">Fingerprint SHA-256:</string>
      <string name="share">Condividi</string>
      <string name="share_action_provider_share_with">Condividi con</string>
      <string name="share_remote_bugreport_action">SHARE</string>
