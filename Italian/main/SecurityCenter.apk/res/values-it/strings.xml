@@ -185,7 +185,7 @@
      <string name="app_manager_globel_other_perm_title">Altri permessi</string>
      <string name="app_manager_globel_perm_summary">Gestione dei permessi di localizzazione, archiviazione, telefono, messaggi e contatti.</string>
      <string name="app_manager_globel_perm_title">Permessi app</string>
-     <string name="app_manager_has_not_data">No data</string>
+     <string name="app_manager_has_not_data">Nessun dato</string>
      <string name="app_manager_have_not_consume">No</string>
      <string name="app_manager_hide_system_server">Nascondi i servizi di sistema</string>
      <string name="app_manager_install_other_app">Installa applicazioni da fonti sconosciute</string>
