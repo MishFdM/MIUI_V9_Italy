@@ -2717,7 +2717,7 @@ Ci sono altri utenti presenti su questo dispositivo.
      <string name="miui_lab_feature_applied">Applicato</string>
      <string name="miui_lab_feature_off">Disattivato</string>
      <string name="miui_lab_feature_on">Attivato</string>
-     <string name="miui_lab_features">funzionalità MIUI lab</string>
+     <string name="miui_lab_features">Funzionalità MIUI lab</string>
      <string name="miui_lab_gallery_search_desc">Ricerca immagini migliorata</string>
      <string name="miui_lab_gallery_search_title">Trova foto in Galleria Gallery</string>
      <string name="miui_lab_settings">MIUI Lab</string>
@@ -3918,7 +3918,7 @@ Come usare Mantieni su schermo:
      <string name="search_input_hint">Cerca nelle impostazioni</string>
      <string name="search_input_txt_na">"&lt;font color='#ff0000'>%s&lt;/font>"</string>
      <string name="search_key_settings_title">Tasti;Pulsanti</string>
-     <string name="search_lab_functions_title">funzionalità beta;funzionalità lab</string>
+     <string name="search_lab_functions_title">Funzionalità beta;Funzionalità lab</string>
      <string name="search_label">Impostazioni</string>
      <string name="search_language_settings">Lingua e input;Lingua;Lingua ed input;Input;Tastiera</string>
      <string name="search_led_settings">LED;Luce di notifica;Luce LED</string>
