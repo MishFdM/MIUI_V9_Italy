@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Mi AntiFake</string>
     <string name="action_settings">Impostazioni</string>
@@ -89,7 +89,7 @@
     <string name="restart_app">Riavvia</string>
     <string name="title_error_token">Impossibile verificare le informazioni</string>
     <string name="msg_error_token">"Per assicurare l'accuratezza dei dati, puoi riavviare l'app di nuovo."</string>
-    <string name="tip_feedback_success">Feedback inviato</string>
+    <string name="tip_feedback_success">Segnalazione bug inviata</string>
     <string name="msg_feedback_success">"Abbiamo ricevuto la tua richiesta di assistenza, verificheremo le informazioni che ci hai fornito, in seguito effettueremo delle verifiche con l'ufficio affari di zona e l'ufficio vendite ed effettueremo le investigazioni del caso. Grazie per il tuo supporto!"</string>
     <string name="tip_charge_up_battery">Suggerimento sulla batteria</string>
     <string name="charge_up_battery">"Per assicurare l'accuratezza dell'identificazione, assicurati che la batteria del dispositivo sia carica almeno al 50%, si prega di collegare il caricabatteria"</string>

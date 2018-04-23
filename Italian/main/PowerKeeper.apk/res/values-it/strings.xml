@@ -14,7 +14,7 @@
      <string name="config_mode_title">Impostazioni background</string>
      <string name="config_no_restrict_description">"Il risparmio batteria non limiterà l'attività dell'app"</string>
      <string name="config_no_restrict_title">Nessuna limitazione</string>
-     <string name="config_restrict_function_description">"Alcune funzioni (es. notifiche push) potrebbero essere coinvolte, ma l'app non verrà chiusa"</string>
+     <string name="config_restrict_function_description">"Alcune funzionalità (es. notifiche push) potrebbero essere coinvolte, ma l'app non verrà chiusa"</string>
      <string name="config_restrict_function_title">Limita applicazioni in background</string>
      <string name="config_restrict_running_description">Le app verranno chiuse per risparmiare batteria</string>
      <string name="config_restrict_running_title">Limita attività in background</string>
@@ -31,7 +31,7 @@
      <string name="enable_sleep_mode">Abilita la modalità riposo per ottimizzare i consumi notturni</string>
      <string name="error_filename_too_long">Il nome del file è troppo lungo.</string>
      <string name="extreme_power_config_mode_category">Risparmio Batteria Estremo</string>
-     <string name="extreme_power_config_mode_desc">"L'attivazione di questa funzione disattiverà sincronizzazione, bluetooth, GPS, NFC, doppio tocco, tasti luminosi, attivazione schermo su notifica, luce di notifica pulsante etc, ed il risparmio batteria verrà impostato su ultimate"</string>
+     <string name="extreme_power_config_mode_desc">"L'attivazione di questa funzionalità disattiverà sincronizzazione, bluetooth, GPS, NFC, doppio tocco, tasti luminosi, attivazione schermo su notifica, luce di notifica pulsante etc, ed il risparmio batteria verrà impostato su ultimate"</string>
      <string name="extreme_power_config_mode_title">Modalità Risparmio Batteria Estremo</string>
      <string name="failure">fallito</string>
      <string name="hide_mode_desc">"Quando un'app è in background, la sua attività verrà monitorata per controllarne il consumo di batteria."</string>
@@ -84,8 +84,8 @@
      <string name="sucess">successo</string>
      <string name="update_profile_failture_not_connect_wifi">Aggiornamento fallito, nessuna connessione Wifi</string>
      <string name="update_profile_sucess">Aggiornamento dal server completato</string>
-     <string name="vip_feedback">Feedback VIP</string>
-     <string name="vip_feedback_enable">Attiva Feedback automatico VIP</string>
+     <string name="vip_feedback">Segnalazione bug VIP</string>
+     <string name="vip_feedback_enable">Attiva segnalazione bug automatica VIP</string>
      <string name="warm_configure">Configurazione controllo riscaldamento</string>
      <string name="warm_performance_tip">In scenari di alto carico, la temperatura del telefono sarà maggiore della modalità predefinita</string>
 </resources>

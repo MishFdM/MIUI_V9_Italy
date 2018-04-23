@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="action_firewall_setting">Blacklist</string>
      <string name="activity_not_found">Applicazione non installata sul telefono.</string>
@@ -320,7 +320,7 @@
      <string name="mx_enable_ex">Mi Message e Voce</string>
      <string name="mx_enable_popup_msg">"Questo servizio consente di scambiare messaggi tramite la rete dati. È necessario inviare un SMS per attivare il servizio, verranno applicate le tariffe previste dall'operatore. Continuare?"</string>
      <string name="mx_filter_message_from_stranger">Blocca Mi Message da numeri sconosciuti</string>
-     <string name="mx_filter_message_from_stranger_dialog_desc">Potrai ancora ricevere SMS normali da numeri sconosciuti. Puoi attivare e disattivare questa funzione in qualsiasi momento da Messaggi > Impostazioni."</string>
+     <string name="mx_filter_message_from_stranger_dialog_desc">Potrai ancora ricevere SMS normali da numeri sconosciuti. Puoi attivare e disattivare questa funzionalità in qualsiasi momento da Messaggi > Impostazioni."</string>
      <string name="mx_filter_message_from_stranger_dialog_title">Blocca Mi Message da numeri sconosciuti</string>
      <string name="mx_filter_message_from_stranger_summary">Potrai ancora ricevere SMS normali da numeri sconosciuti</string>
      <string name="mx_msg">Mi Message</string>
@@ -335,8 +335,8 @@
      <string name="mx_type_guide">Mi Message ti consente di inviare messaggi ad altri utenti MIUI senza costi aggiuntivi</string>
      <string name="need_download">Sincronizzazione…</string>
      <string name="networking_allow_continue">OK</string>
-     <string name="networking_allow_desc">Mi Message deve collegarsi ad internet per funzionare correttamente. Per poter fornire testo libero e servizi vocali, riconoscere numeri sconosciuti, filtrare spam ed attivare altre funzioni, Mi Message deve utilizzare le Pagine Gialle. Consentire alle Pagine Gialle, ricevi le informazioni di posizione e leggere i tuoi contatti?</string>
-     <string name="networking_allow_desc_without_mx">Mi Message deve collegarsi ad internet per funzionare correttamente. Per poter identificare numeri anonimi, filtrare spam ed attivare altre funzioni, per poter fornire testo libero e servizi vocali, riconoscere numeri sconosciuti, filtrare spam ed attivare altre funzioni, Mi Message deve utilizzare le Pagine Gialle. Consentire alle Pagine Gialle, ricevi le informazioni di posizione e leggere i tuoi contatti?</string>
+     <string name="networking_allow_desc">Mi Message deve collegarsi ad internet per funzionare correttamente. Per poter fornire testo libero e servizi vocali, riconoscere numeri sconosciuti, filtrare spam ed attivare altre funzionalità, Mi Message deve utilizzare le Pagine Gialle. Consentire alle Pagine Gialle, ricevi le informazioni di posizione e leggere i tuoi contatti?</string>
+     <string name="networking_allow_desc_without_mx">Mi Message deve collegarsi ad internet per funzionare correttamente. Per poter identificare numeri anonimi, filtrare spam ed attivare altre funzionalità, per poter fornire testo libero e servizi vocali, riconoscere numeri sconosciuti, filtrare spam ed attivare altre funzionalità, Mi Message deve utilizzare le Pagine Gialle. Consentire alle Pagine Gialle, ricevi le informazioni di posizione e leggere i tuoi contatti?</string>
      <string name="networking_allow_title">Attenzione</string>
      <string name="new_message">Nuovo messaggio</string>
      <string name="new_message_arrived">Nuovo messaggio ricevuto</string>
@@ -654,7 +654,7 @@
      <string name="warning_show">Invio tra %ds</string>
      <string name="wild_msg_processing">Elaborazione…</string>
      <string name="wild_msg_title">Attiva sincronizzazione cloud</string>
-     <string name="yellowpage_recommend_msg">Prova le funzioni SMS di MIUI</string>
+     <string name="yellowpage_recommend_msg">Prova le funzionalità SMS di MIUI</string>
      <string name="yes">OK</string>
      <string name="yesterday">Ieri</string>
 </resources>

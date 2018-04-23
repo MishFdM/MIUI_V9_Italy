@@ -193,7 +193,7 @@ I dati non verranno cancellati."</string>
      <string name="my_best_update">Miglior aggiornamento</string>
      <string name="my_expect_update">Aspettative</string>
      <string name="my_rank">Mia posizione:</string>
-     <string name="my_update_feel">Il mio feedback</string>
+     <string name="my_update_feel">La mia segnalazione</string>
      <string name="my_worst_update">Peggior aggiornamento</string>
      <string name="new_version">Nuova versione trovata!</string>
      <string name="next">Avanti</string>
@@ -348,9 +348,9 @@ Nessun aggiornamento sarà disponibile per te!"</string>
      <string name="update_feedback">Segnalazione aggiornamento</string>
      <string name="update_feedback_end">Ti sei perso la griglia di questa settimana</string>
      <string name="update_feedback_end_sum">Puoi accedere ogni martedì</string>
-     <string name="update_feedback_expired">"Ti sei perso la griglia feedback di questa settimana.
+     <string name="update_feedback_expired">"Ti sei perso la griglia segnalazione di questa settimana.
 	 Potrai partecipare il prossimo martedì"</string>
-     <string name="update_feedback_need_account">Devi accedere prima al tuo Mi Account</string>
+     <string name="update_feedback_need_account">Devi prima accedere al tuo Mi Account</string>
      <string name="update_feedback_need_network">Collegati prima alla rete</string>
      <string name="update_feedback_need_update">"Devi prima aggiornare il sistema all'ultima versione."</string>
      <string name="update_feel">Cosa ne pensi?</string>
@@ -375,16 +375,16 @@ Nessun aggiornamento sarà disponibile per te!"</string>
      <string name="validate_pkg_failed_msg">"L'aggiornamento che hai scaricato non corrisponde con i nostri dati. Prova a scaricarlo di nuovo."</string>
      <string name="validate_pkg_failed_title">"Impossibile verificare l'aggiornamento"</string>
      <string name="version">Attualmente installato:</string>
-     <string name="vote_beta">Programma Feedback Beta</string>
+     <string name="vote_beta">Programma Segnalazioni Bug Beta</string>
      <string name="vote_error1">"Sembra che tu non sia un membro
- del Programma Feedback Beta"</string>
-     <string name="vote_error2">"Impossibile inviare feedback.
+ del Programma Segnalazioni Bug Beta"</string>
+     <string name="vote_error2">"Impossibile inviare segnalazione.
  Aggiorna il tuo dispositivo e riprova"</string>
      <string name="vote_error3">"Impossibile accedere.
  Prova ad accedere di nuovo col tuo Mi Account."</string>
-     <string name="vote_error4">Hai già inviato il tuo feedback</string>
+     <string name="vote_error4">Hai già inviato la tua segnalazione</string>
      <string name="vote_error5">"Si è verificato un errore.
- Impossibile inviare il feedback"</string>
+ Impossibile inviare la segnalazione"</string>
      <string name="vote_error_nonetwork">Impossibile collegarsi alla rete</string>
      <string name="vote_experience">Esperienza forum</string>
      <string name="vote_hint">Ricevi 20 punti esperienza sul forum MIUI quando voti</string>

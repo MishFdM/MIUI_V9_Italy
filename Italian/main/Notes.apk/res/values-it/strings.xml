@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="action_folder_description">Visualizza cartelle</string>
      <string name="action_mode_switcher_grid_description">Griglia</string>
@@ -192,7 +192,7 @@
      <string name="trash_folder_reminder">Le note eliminate verranno cancellate permanentemente tra 30 giorni.</string>
      <string name="undo">Annulla</string>
      <string name="unknown_source">Fonte sconosciuta</string>
-     <string name="welcome_note_for_cm">"E molte altre fantastiche funzioni!
+     <string name="welcome_note_for_cm">"E molte altre fantastiche funzionalità!
   - Sincronizzazione con Mi Cloud
   - Impostazione avvisi"</string>
      <string name="widget_content_loading">Caricamento…</string>

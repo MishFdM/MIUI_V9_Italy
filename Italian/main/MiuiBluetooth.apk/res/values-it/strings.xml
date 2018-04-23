@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="app_name">MIUI Bluetooth</string>
      <string name="ble_device_address">Dispositivi smart MAC bluetooth</string>
@@ -18,7 +18,7 @@
      <string name="device_picker">Impostazioni dispositivo bluetooth</string>
      <string name="disconnect">Dissocia</string>
      <string name="goto_package">Apri %1$s</string>
-     <string name="install_package">Installa %1$s per altre funzioni</string>
+     <string name="install_package">Installa %1$s per altre funzionalità</string>
      <string name="mi_band_vibrate_alarm">Vibra quando suona la sveglia</string>
      <string name="mi_band_vibrate_incall">Vibra quando squilla</string>
      <string name="mi_band_vibrate_incall_in_contacts">Chiamate dai contatti</string>
@@ -39,8 +39,8 @@
      <string name="notify_device_lose_connection_title">Connessione persa con %1$s</string>
      <string name="ok_button">OK</string>
      <string name="progress_scanning">Ricerca…</string>
-     <string name="reset_function_msg">"l'azzeramento di questa funzione potrebbe impedire a %1$s di funzionare correttamente."</string>
-     <string name="some_app_taking">(%1$s sta già utilizzando questa funzione)</string>
+     <string name="reset_function_msg">"l'azzeramento di questa funzionalità potrebbe impedire a %1$s di funzionare correttamente."</string>
+     <string name="some_app_taking">(%1$s sta già utilizzando questa funzionalità)</string>
      <string name="unbind_device_alert_cancel">Annulla</string>
      <string name="unbind_device_alert_content">Connessione persa con %1$s. Dissocia questo dispositivo per risparmiare batteria.</string>
      <string name="unbind_device_alert_ok">Dissocia</string>

@@ -29,7 +29,7 @@ Contatta il tuo venditore per ulteriori informazioni."</string>
      <string name="find_device_noise_title">Suono di localizzazione dispositivo</string>
      <string name="find_device_notice_p1">Vai su</string>
      <string name="find_device_notice_p3">"per localizzare, bloccare o formattare il tuo dispositivo.
-Se cambi SIM, verrà automaticamente inviato un SMS per riattivare questa funzione."</string>
+Se cambi SIM, verrà automaticamente inviato un SMS per riattivare questa funzionalità."</string>
      <string name="find_device_notice_sms_alert">In caso di sostituzione della scheda SIM, un altro SMS potrebbe essere inviato automaticamente per riattivare questa funzionalità.</string>
      <string name="find_device_stop_noise">Tocca OK per silenziare</string>
      <string name="find_device_storage_corrupted">Memoria Trova Dispositivo corrotta. Il tuo dispositivo adesso non è sicuro.</string>

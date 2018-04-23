@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="mira_vision_title">MiraVision</string>
     <string name="mira_vision_summary">Fornisce i migliori effetti visivi</string>
@@ -26,7 +26,7 @@
     <string name="drawer_open">Apri drawer di navigazione</string>
     <string name="drawer_close">Chiudi drawer di navigazione</string>
     <string name="intro_title">Informazioni su MiraVision™</string>
-    <string name="intro_str">MiraVision™ è un insieme di motori che migliorano la qualità delle immagini visualizzate. Questa interfaccia consente regolazioni interattive con feedback sulla qualità in tempo reale, rendendolo così uno strumento facile e diretto per gli utenti per personalizzare la qualità delle immagini in base alle proprie esigenze. Gli utenti avanzati possono selezonare la Modalità Immagine / Modalità Utente per attivare altre opzioni di regolazione.</string>
+    <string name="intro_str">MiraVision™ è un insieme di motori che migliorano la qualità delle immagini visualizzate. Questa interfaccia consente regolazioni interattive con segnalazioni bug sulla qualità in tempo reale, rendendolo così uno strumento facile e diretto per gli utenti per personalizzare la qualità delle immagini in base alle proprie esigenze. Gli utenti avanzati possono selezonare la Modalità Immagine / Modalità Utente per attivare altre opzioni di regolazione.</string>
     <string name="aal_header">Retroilluminazione schermo</string>
     <string name="aal_item">Regolazione sensibile alla luce ambientale</string>
     <string name="picture_mode_header">Modalità Rapida</string>

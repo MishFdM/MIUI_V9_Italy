@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
      <plurals name="abbrev_a_hour_ago">
         <item quantity="other">1 ora fa</item>
@@ -32,7 +32,7 @@
      </plurals>
      <plurals name="btn_delete_multi_contacts">
         <item quantity="other">Elimina %1$d contatti</item>
-        <item quantity="one">Elimina %1$d  contatto</item>
+        <item quantity="one">Elimina %1$d contatto</item>
      </plurals>
      <plurals name="callNoAnswerTimeFormat">
         <item quantity="other">ha squillato %1$d volte</item>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="accessibility_action_divider_bottom_full">Schermo intero inferiore</string>
      <string name="accessibility_action_divider_left_30">Sinistra 30%</string>
@@ -91,7 +91,7 @@
      <string name="accessibility_wimax_three_bars">WiMAX: tre barre.</string>
      <string name="accessibility_wimax_two_bars">WiMAX: due barre.</string>
      <string name="account_info">Accesso non eseguito</string>
-     <string name="activate_usb_message">Per attivare questa funzione inserisci la SIM.</string>
+     <string name="activate_usb_message">Per attivare questa funzionalità inserisci la SIM.</string>
      <string name="activate_usb_title">Attiva USB</string>
      <string name="active_input_method_subtypes">Metodi di inserimento attivi</string>
      <string name="adb_keys_warning_message">"Revocare l'accesso al debug USB da tutti i PC che hai precedentemente autorizzato?"</string>
@@ -361,12 +361,12 @@ Se riattivi i dati, l'operatore potrebbe addebitarti un costo."</string>
      <string name="gps_notification_searching_text">Ricerca del GPS</string>
      <string name="hdcp_checking_dialog_title">Imposta comportamento di controllo HDCP</string>
      <string name="hdcp_checking_title">Controllo HDCP</string>
-     <string name="help_feedback_label">Aiuto &amp; feedback</string>
+     <string name="help_feedback_label">Aiuto e segnalazione bug</string>
      <string name="home">Impostazioni Home</string>
      <string name="hour_minute_time_format">HH:mm</string>
      <string name="how_to_back_home">Come tornare alla home</string>
      <string name="how_to_switch_recents">Come passare a Recenti</string>
-     <string name="how_to_use_drawer">Come utilizzare la funzione di scorrimento app</string>
+     <string name="how_to_use_drawer">Come utilizzare la funzionalità di scorrimento app</string>
      <string name="how_to_use_drawer_summary">Scorri dalla parte in alto a sinistra</string>
      <string name="how_to_use_fsg">Come posso utilizzare le gesture a tutto schermo?</string>
      <string name="ime_security_warning">"Questo metodo di inserimento potrebbe raccogliere il testo che digiti, compresi dai personali come password e numeri di carte di credito. Questo tramite l'app %1$s. Utilizzare questo metodo di inserimento?"</string>
@@ -542,7 +542,7 @@ For more information, contact your admin."</string>
      <string name="picture_color_mode">Modalità colore immagine</string>
      <string name="picture_color_mode_desc">Usa sRGB</string>
      <string name="pip_menu_title">Menu picture in picture</string>
-     <string name="pip_notification_message">Se non vuoi utilizzare %s per questa funzione, tocca per aprire le impostazioni e disattivarlo.</string>
+     <string name="pip_notification_message">Se non vuoi utilizzare %s per questa funzionalità, tocca per aprire le impostazioni e disattivarlo.</string>
      <string name="pip_notification_title">%s è in picture-in-picture</string>
      <string name="pip_pause">Pause</string>
      <string name="pip_phone_close">Chiudi</string>
@@ -647,7 +647,7 @@ For more information, contact your admin."</string>
      <string name="screenshot_dlg_delete_button">Elimina</string>
      <string name="screenshot_edit">Modifica</string>
      <string name="screenshot_failed_text">"Impossibile salvare lo screenshot. L'archivio esterno potrebbe essere in uso."</string>
-     <string name="screenshot_feedback_txt">Feedback</string>
+     <string name="screenshot_feedback_txt">Segnalazione bug</string>
      <string name="screenshot_insert_failed">"Caricamento schermata fallito, prego prova di nuovo o visualizza le immagini nell'album"</string>
      <string name="screenshot_long_screenshot">Screenshot lungo</string>
      <string name="screenshot_saved_text">Premi per visualizzare la tua schermata.</string>
@@ -725,7 +725,7 @@ scorri in basso per bloccare"</string>
      <string name="strict_mode_summary">"Fai lampeggiare lo schermo quando un'applicazione esegue un'operazione lunga sul thread principale"</string>
      <string name="task_access_locked_app_msg">"Il contenuto dell'applicazione è nascosto."</string>
      <string name="telephony_monitor_switch">Telephony Monitor</string>
-     <string name="telephony_monitor_switch_summary">"Telephony Monitor raccoglierà log quando rileva un problema con le funzioni telephony/modem e chiede all'utente di inviare un report sul bug."</string>
+     <string name="telephony_monitor_switch_summary">"Telephony Monitor raccoglierà log quando rileva un problema con le funzionalità telefono/modem e chiede all'utente di inviare un report sul bug."</string>
      <string name="tether_settings_title_all">Tethering e hotspot</string>
      <string name="tether_settings_title_bluetooth">Tethering bluetooth</string>
      <string name="tether_settings_title_usb">Tethering USB</string>

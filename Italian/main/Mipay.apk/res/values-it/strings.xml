@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="mipay_wallet_app_name">Mi Pay Wallet</string>
     <string name="mipay_bank_cards">Carte di credito</string>
@@ -36,7 +36,7 @@
     <string name="mipay_bank_card_item">%1$s (Carta n. %2$s)</string>
     <string name="mipay_alipay_error">Alipay fallita</string>
     <string name="mipay_bank_card_hint">Inserisci il numero di conto</string>
-    <string name="mipay_bank_card_safe_info">Questo servizio è criptato e autorizzato da Xiaomi e dalla banca</string>
+    <string name="mipay_bank_card_safe_info">Questo servizio è crittografato e autorizzato da Xiaomi e dalla banca</string>
     <string name="mipay_bank_card_number_error">Verifica il numero di conto</string>
     <string name="mipay_bank_card_support_list">Banche supportate</string>
     <string name="mipay_bank_card_logo_desc">Logo banca</string>

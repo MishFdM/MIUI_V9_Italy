@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="access_select">%s selezionati</string>
      <string name="access_unselect">%s deselezionati</string>
@@ -493,13 +493,13 @@ Verifica il tuo numero di tracciabilità"</string>
      <string name="function_keyguard_dialog_cancel">Indietro</string>
      <string name="function_keyguard_dialog_confirm">Imposta</string>
      <string name="function_keyguard_dialog_content">Imposta password di blocco schermo per proteggere i tuoi pagamenti.</string>
-     <string name="function_keyguard_dialog_title">Questa funzione non é ancora supportata</string>
+     <string name="function_keyguard_dialog_title">Questa funzionalità non é ancora supportata</string>
      <string name="function_mistore_cart">Carrello</string>
      <string name="function_mistore_favorite">Preferiti</string>
      <string name="function_mistore_title">Mi Store</string>
      <string name="function_music_recognize">Ascolta brano</string>
      <string name="function_music_title">Musica</string>
-     <string name="function_not_support">Questa funzione non é supportata da questo dispositivo</string>
+     <string name="function_not_support">Questa funzionalità non é supportata da questo dispositivo</string>
      <string name="function_open_error_content">"Questo collegamento non funzionerà perché l'app é stata disinstallata. Seleziona un altro collegamento o reinstalla l'app."</string>
      <string name="function_open_error_content_app">"Quest'app é stata disinstallata. Seleziona un altro collegamento o reinstalla l'app."</string>
      <string name="function_open_error_content_app_xspace">"Questo collegamento non funzionerà perchè l'app clonata é stata disinstallata. Seleziona un collegamento diverso o clona una nuova app."</string>

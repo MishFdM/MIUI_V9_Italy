@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <!--This Italian translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI Italia www.miui.it-->
 <resources>
     <string name="copy">Copia</string>
@@ -172,7 +172,7 @@ dal cellulare puoi scorrere lo slide in basso per usarla"</string>
     <string name="setting_speed_desc">"Una velocità maggiore garantisce maggiore reattività, ma può diminuire il tasso di riconoscimenti corretti Diminuendo la velocità aumenterai il tasso di riconoscimenti corretti ma diminuirà il tempo di risposta. "</string>
     <string name="setting_speed_slow">Più lenta</string>
     <string name="setting_speed_quick">Più veloce</string>
-    <string name="setting_vibrate_desc">Il telefono vibrerà per notificare quando la funzione verrà eseguita</string>
+    <string name="setting_vibrate_desc">Il telefono vibrerà per notificare quando la funzionlità verrà eseguita</string>
     <string name="setting_keeplive_desc">"Consenti esecuzione applicazione in background. Potrebbe aumentare il consumo della batteria"</string>
     <string name="setting_speed_text">Velocità</string>
     <string name="setting_keeplive_text">Esegui in background</string>
@@ -184,7 +184,7 @@ dal cellulare puoi scorrere lo slide in basso per usarla"</string>
     <string name="setting_instant_photo_desc">"L'attivazione del Flash permette di ottenere immagini 
 più nitide, ma allunga il tempo impiegato 
 per eseguire lo scatto"</string>
-    <string name="toolbox_outer_desc">Selezionare più funzioni esistenti</string>
+    <string name="toolbox_outer_desc">Selezionare più funzionalità esistenti</string>
     <string name="setting_speed_max_time">1000</string>
     <string name="setting_speed_middle_time">500ms</string>
     <string name="setting_speed_min_time">0</string>
@@ -201,8 +201,8 @@ per eseguire lo scatto"</string>
     <string name="silent_mode_tip_sub">Puoi attivarlo nelle Impostazioni</string>
     <string name="test_user_entry">Test</string>
     <string name="goto_update">Aggiorna</string>
-    <string name="unsupport_title">Questa funzione non è supportata</string>
-    <string name="unsupport_content">"Si prega di eseguire l'aggiornamento all'ultima versione MIUI "developer" per il supporto di questa funzione."</string>
+    <string name="unsupport_title">Questa funzionità non è supportata</string>
+    <string name="unsupport_content">"Si prega di eseguire l'aggiornamento all'ultima versione MIUI "developer" per il supporto di questa funzionalità."</string>
     <string name="action_baidusearch">Baidu</string>
     <string name="select_baidusearch">Baidu</string>
     <string name="select_baiduvoicesearch">Ricerca vocale Baidu</string>
@@ -210,7 +210,7 @@ per eseguire lo scatto"</string>
     <string name="faq_speed_title">Azione sconosciuta?</string>
     <string name="faq_speed_text">Differenti dispositivi mobili reagiscono in modo differenti, per questo la velocità può essere regolata nelle impostazioni. Cerca il ritmo adatto per il tuo telefono.</string>
     <string name="faq_focus_title">Perché la foto è sfocata? Perché lo scatto è lento?</string>
-    <string name="faq_focus_text">"Il flash allunga il tempo necessario per ottenere una immagine, ma il risultato è una immagine più nitida. Puoi provare a disattivare il flash per permettere alla funzione AF di scattare più velocemente, ma l'immagine potrebbe essere sfocata"</string>
+    <string name="faq_focus_text">"Il flash allunga il tempo necessario per ottenere una immagine, ma il risultato è una immagine più nitida. Puoi provare a disattivare il flash per permettere alla funzionlità AF di scattare più velocemente, ma l'immagine potrebbe essere sfocata"</string>
     <string name="faq_plug_title">Come inserire il Mi Key correttamente?</string>
     <string name="faq_plug_text">Questo metodo per inserire il Mi Key previene potenziali problemi. Assicurati di inserirlo senza premere il pulsante.</string>
     <string name="faq_misreq_title">Cosa fare in caso di malfunzionamenti?</string>
@@ -230,7 +230,7 @@ per eseguire lo scatto"</string>
     <string name="hint_long_press_del">Premi a lungo per eliminare</string>
     <string name="hint_mikey_sprite">"Premi Mi Key per eseguire molte operazioni come 
 invio di audio, scattare foto, giocare… 
-Utilizzando Mi Key per alcune funzioni non sarà possibile utilizzare i tasti per certe operazioni"</string>
+Utilizzando Mi Key per alcune funzionlità non sarà possibile utilizzare i tasti per certe operazioni"</string>
     <string name="enable_mikey_sprite">Apri Wizard</string>
     <string name="disable_mikey_sprite">Scollega Wizard</string>
     <string name="dialog_title_disable_mikey_sprite">Confermare scollegamento di Wizard?</string>

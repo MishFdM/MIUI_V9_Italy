@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="app_label">Gestore Download</string>
      <string name="auto_restart_under_wifi">Questo file verrà scaricato automaticamente quando connesso al Wi-Fi</string>
@@ -57,14 +57,14 @@
      <string name="permdesc_downloadCacheNonPurgeable">"Consente all'applicazione di scaricare nella cache i file che non possono essere eliminati automaticamente quando a gestione dei download serve più spazio."</string>
      <string name="permdesc_downloadCompletedIntent">"Consente all'applicazione di inviare notifiche relative ai download completati. Le applicazioni dannose possono farne uso per confondere altre applicazioni che scaricano file."</string>
      <string name="permdesc_downloadManager">"Consente all'applicazione di accedere a gestione dei download e di utilizzarla per scaricare file. Le applicazioni dannose possono farne uso per disturbare i download e accedere a informazioni private."</string>
-     <string name="permdesc_downloadManagerAdvanced">"Consente all'applicazione di accedere alle funzioni avanzate di gestione dei download. Le applicazioni dannose possono farne uso per disturbare i download e accedere a informazioni private."</string>
+     <string name="permdesc_downloadManagerAdvanced">"Consente all'applicazione di accedere alle funzionalità avanzate di gestione dei download. Le applicazioni dannose possono farne uso per disturbare i download e accedere a informazioni private."</string>
      <string name="permdesc_downloadWithoutNotification">"Consente all'applicazione di scaricare i file tramite gestione dei download senza mostrare alcuna notifica all'utente."</string>
      <string name="permdesc_seeAllExternal">"Consente all'applicazione di visualizzare tutti i download sulla scheda SD, a prescindere dall'applicazione che li ha scaricati."</string>
      <string name="permlab_accessAllDownloads">Accesso a tutti i download di sistema</string>
      <string name="permlab_downloadCacheNonPurgeable">Conservazione spazio nella cache dei download</string>
      <string name="permlab_downloadCompletedIntent">Inviare notifiche di download.</string>
      <string name="permlab_downloadManager">Accesso alla gestione dei download.</string>
-     <string name="permlab_downloadManagerAdvanced">Funzioni avanzate di gestione dei download.</string>
+     <string name="permlab_downloadManagerAdvanced">Funzionalità avanzate di gestione dei download.</string>
      <string name="permlab_downloadWithoutNotification">download file senza notifica</string>
      <string name="permlab_seeAllExternal">Tutti i download in archivio USB</string>
      <string name="privacy_notif_content">Tocca per vedere i dettagli.</string>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="daily_forcast_drawer_on_top">
         <item quantity="other">Previsione a %1$s giorni</item>
@@ -33,7 +33,7 @@
         <item quantity="one">%1$s persona | </item>
     </plurals>
     <plurals name="feedback_result_interval_time_too_short">
-        <item quantity="other">%1$s secondi dopo il feedback</item>
-        <item quantity="one">%1$s secondo dopo il feedback</item>
+        <item quantity="other">%1$s secondi dopo la segnalazione</item>
+        <item quantity="one">%1$s secondo dopo il segnalazione</item>
     </plurals>
 </resources>

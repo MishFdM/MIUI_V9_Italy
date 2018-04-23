@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="altitude">%.1f</string>
      <string name="altitude_longitude_Degree_format" formatted="false">"%d°%d'%d\"</string>
@@ -9,7 +9,7 @@
      <string name="altitude_uncalibrate_tip">"Impossibile calibrare l'altitudine"</string>
      <string name="altitude_unit">M</string>
      <string name="angle">%.0f</string>
-     <string name="app_description_content">La bussola è utilizzata per orientarsi ed indicare le direzioni. Assicurati di non aver bisogno di queste funzioni prima di disinstallare questa app.</string>
+     <string name="app_description_content">La bussola è utilizzata per orientarsi ed indicare le direzioni. Assicurati di non aver bisogno di queste funzionalità prima di disinstallare questa app.</string>
      <string name="app_description_title">Informazioni</string>
      <string name="app_label">Bussola</string>
      <string name="calibrate_failed">Calibrazione altitudine fallita</string>

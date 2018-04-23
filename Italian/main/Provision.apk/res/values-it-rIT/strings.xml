@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="accessibility_enabled">Accessibilità attivata.</string>
      <string name="agree">OK</string>
@@ -21,7 +21,7 @@
      <string name="desc_international_fingerprint">Usa la tua impronta digitale per sbloccare il dispositivo o per accedere ad applicazioni e servizi.</string>
      <string name="disagree">Annulla</string>
      <string name="enable_accessibility_canceled">Accessibilità annullata.</string>
-     <string name="enable_accessibility_dialog_message">Hai attivato TalkBack toccando lo schermo con due dita per più di 10 secondi. TalkBack fornisce feedback audio per utenti ipovedenti. Se lo hai attivato involontariamente, tocca il tasto Annulla poi tocca due volte lo schermo.</string>
+     <string name="enable_accessibility_dialog_message">Hai attivato TalkBack toccando lo schermo con due dita per più di 10 secondi. TalkBack fornisce un feedback audio per utenti ipovedenti. Se lo hai attivato involontariamente, tocca il tasto Annulla poi tocca due volte lo schermo.</string>
      <string name="enable_accessibility_dialog_negative_btn">Annulla</string>
      <string name="enable_accessibility_dialog_positive_btn">OK</string>
      <string name="ime_privacy_policy">Termini della Privacy per la tastiera selezionata</string>

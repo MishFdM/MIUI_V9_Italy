@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Scanner</string>
     <string name="copy">Copia</string>
@@ -51,7 +51,7 @@
     <string name="copy_text_success">Copia eseguita</string>
     <string name="success_message_import_from_account">Importazione eseguita</string>
     <string name="web_url_warning">Il sito linkato proviene da una fonte sconosciuta e potrebbe essere un rischio per la sicurezza.</string>
-    <string name="web_url_apk_warning">Questa app proviene da una fonte sconosciuta e potrebbe essere un rischio per la sicurezza. Raccomandiamo di installare solo app provenienti da fonti sicure.</string>
+    <string name="web_url_apk_warning">Questa app proviene da una fonte sconosciuta e potrebbe essere un rischio per la sicurezza. Consigliamo di installare solo app provenienti da fonti sicure.</string>
     <string name="wifi_ssid">SSID:</string>
     <string name="wifi_pwd">Password:</string>
     <string name="wifi_security">Sicurezza:</string>

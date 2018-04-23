@@ -6,13 +6,13 @@
         <item>App clonata</item>
      </string-array>
      <string-array name="switch_apps_entries">
-        <item>Utilizzato nello Spazio Primario</item>
-        <item>Utilizzato nello Spazio Secondario</item>
+        <item>Utilizzato nello spazio Primario</item>
+        <item>Utilizzato nello spazio Secondario</item>
         <item>Utilizzato in entrambi gli spazi</item>
      </string-array>
      <string-array name="switch_apps_msg_confirms">
-        <item>I dati app andranno persi dopo che le applicazioni vengono spostate nello Spazio Primario.</item>
-        <item>I dati app andranno persi dopo che le applicazioni vengono spostate nello Spazio Secondario</item>
+        <item>I dati app andranno persi dopo che le applicazioni verranno spostate nello spazio Primario.</item>
+        <item>I dati app andranno persi dopo che le applicazioni verranno spostate nello spazio Secondario</item>
         <item>Le applicazione vengono utilizzate in entrambi gli spazi.</item>
      </string-array>
      <string-array name="switch_apps_title_confirms">

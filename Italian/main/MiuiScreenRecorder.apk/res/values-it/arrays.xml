@@ -23,8 +23,8 @@
         <item>Orizzontale</item>
      </string-array>
      <string-array name="screenrecorder_settings_sound">
-        <item>Muto</item>
+        <item>Silenziato</item>
         <item>Microfono</item>
-        <item>Speaker</item>
+        <item>Altoparlante</item>
      </string-array>
 </resources>

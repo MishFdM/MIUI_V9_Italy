@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="pref_summary_manage_sim_messages">Gestisci i messaggi archiviati sulla tua SIM</string>
     <string name="pref_title_manage_sim_messages">Gestici messaggi SIM</string>
@@ -184,9 +184,9 @@
     <string name="pref_show_sms_template_summary">Copia e incolla automaticamente i codici di verifica</string>
     <string name="sp_mark_as_read_title">Segna come tutti letti</string>
     <string name="message_list_all_read">Segna tutto come già letto</string>
-    <string name="pref_key_mx_feedback">Feedback</string>
-    <string name="pref_summary_mx_feedback">Segnala bug e lascia il tuo feedback</string>
-    <string name="feedback_description_hint">Lascia qui il tuo feedback</string>
+    <string name="pref_key_mx_feedback">Segnalazione bug</string>
+    <string name="pref_summary_mx_feedback">Segnala bug e lascia un tuo consiglio</string>
+    <string name="feedback_description_hint">Lascia qui la tua segnalazione</string>
     <string name="feedback_submit">Invia</string>
     <string name="menu_call">Chiama</string>
     <string name="menu_contact">Visualizza informazioni contatto</string>
@@ -209,7 +209,7 @@
     <string name="file_create_time">Creato:</string>
     <string name="file_size">Dimensione:</string>
     <string name="file_title">Nome:</string>
-    <string name="festival_networking_desc">Questa funzione deve collegarsi ad internet per funzionare correttamente.</string>
+    <string name="festival_networking_desc">Questa funzionalità deve collegarsi ad internet per funzionare correttamente.</string>
     <string name="festival_never_remind">Non mostrare più</string>
     <string name="pref_title_festival_networking">Notifica connessione</string>
     <string name="left_cancel">Effettua uno swipe a sinistra per annullare</string>

@@ -772,7 +772,7 @@ Sei scuro di voler uscire da questa pagina?"</string>
      <string name="mw_sad_tab_reload_restart_device">Riavvia il dispositivo</string>
      <string name="mw_sad_tab_reload_title">Impossibile aprire questa pagina</string>
      <string name="mw_sad_tab_reload_try">Prova i suggerimenti di seguito:</string>
-     <string name="mw_sad_tab_send_feedback_label">Invia Feedback</string>
+     <string name="mw_sad_tab_send_feedback_label">Invia segnalazione bug</string>
      <string name="mw_sad_tab_title">Oh, no!</string>
      <string name="mw_sad_tab_uma_optin">Invia automaticamente statistiche utente e rapporto crash a Google</string>
      <string name="mw_save_password_message">Vuoi che il browser memorizzi questa password?</string>
@@ -882,7 +882,7 @@ Ricorda che i file scaricati e i segnalibri che aggiungi verranno salvati comunq
      <string name="pref_extras_reset_default_dlg">Ripristinare le impostazioni ai valori predefiniti?</string>
      <string name="pref_extras_reset_default_summary">Ripristina impostazioni predefinite</string>
      <string name="pref_extras_reset_default_title">Ripristina impostazioni predefinite</string>
-     <string name="pref_extras_send_feedback">Invia feedback</string>
+     <string name="pref_extras_send_feedback">Invia segnalazione bug</string>
      <string name="pref_extras_title">Avanzate</string>
      <string name="pref_extras_title_version">Versione</string>
      <string name="pref_file_downlaod_save_is_reset_default_settings">Ripristina impostazioni predefinite</string>

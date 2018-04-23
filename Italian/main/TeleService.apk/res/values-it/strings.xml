@@ -100,7 +100,7 @@
      <string name="PERSOSUBSTATE_SIM_SP_EHPLMN_ERROR">Richiesta sblocco SP EHPLMN non riuscita.</string>
      <string name="PERSOSUBSTATE_SIM_SP_EHPLMN_IN_PROGRESS">Richiesta sblocco SP EHPLMN…</string>
      <string name="PERSOSUBSTATE_SIM_SP_EHPLMN_SUCCESS">Sblocco SP EHPLMN riuscito.</string>
-     <string name="accessibility_display_daltonizer_preference_subtitle">Questa funzione è sperimentale e potrebbe non funzionare correttamente.</string>
+     <string name="accessibility_display_daltonizer_preference_subtitle">Questa funzionalità è sperimentale e potrebbe non funzionare correttamente.</string>
      <string name="accessibility_display_daltonizer_preference_title">Correzione colore</string>
      <string name="accessibility_no_wifi">Wi-Fi disconnessa.</string>
      <string name="accessibility_settings_activity_title">Accessibilità</string>
@@ -222,7 +222,7 @@
      <string name="bluetooth_connected_no_map">Connesso (nessun messaggio di accesso)</string>
      <string name="bluetooth_connecting">Connessione in corso…</string>
      <string name="bluetooth_disable_absolute_volume">Disattiva volume assoluto</string>
-     <string name="bluetooth_disable_absolute_volume_summary">Disattiva la funzione di volume assoluto Bluetooth in caso di problemi con il volume come volume eccessivamente alto o mancanza di controllo.</string>
+     <string name="bluetooth_disable_absolute_volume_summary">Disattiva la funzionalità di volume assoluto Bluetooth in caso di problemi con il volume come volume eccessivamente alto o mancanza di controllo.</string>
      <string name="bluetooth_disconnected">Disconnesso</string>
      <string name="bluetooth_disconnecting">Disconnessione in corso…</string>
      <string name="bluetooth_dun_profile_summary_connected">Collegato a server Dun</string>
@@ -295,7 +295,7 @@ Frequenza Campione"</string>
      <string name="callFailed_bearer_service_not_implemented">Servizio portatore non implementato</string>
      <string name="callFailed_call_rejected">Chiamata rifiutata</string>
      <string name="callFailed_cb_enabled">"Non puoi effettuare chiamate in uscita quando il blocco è attivo."</string>
-     <string name="callFailed_cdma_activation">Una SIM ha attivato il tuo servizio ed aggiornato le funzioni roaming del tuo telefono.</string>
+     <string name="callFailed_cdma_activation">Una SIM ha attivato il tuo servizio ed aggiornato le funzionalità roaming del tuo telefono.</string>
      <string name="callFailed_cdma_call_limit">Ci sono troppe chiamate attive. Prego termina o unisci quelle esistenti per poterne effettuare di nuove.</string>
      <string name="callFailed_channel_unacceptable">Canale non accettabile</string>
      <string name="callFailed_conditional_IE_error">Condizionato da errore IE</string>
@@ -523,7 +523,7 @@ Frequenza Campione"</string>
      <string name="config_world_mode" />
      <string name="confirmPin2Label">Conferma il nuovo PIN2</string>
      <string name="confirmPinLabel">Conferma il nuovo PIN</string>
-     <string name="confirm_enable_oem_unlock_text">ATTENZIONE: Le funzionalità di protezione del dispositivo non funzioneranno quando questa opzione é attiva.</string>
+     <string name="confirm_enable_oem_unlock_text">ATTENZIONE: Le funzionalità di protezione del dispositivo non funzionalitàranno quando questa opzione é attiva.</string>
      <string name="confirm_enable_oem_unlock_title">Consentire sblocco OEM?</string>
      <string name="confirm_password_label">Conferma la nuova password</string>
      <string name="confirm_pin2_label">Conferma il nuovo PIN2</string>
@@ -740,7 +740,7 @@ Frequenza Campione"</string>
      <string name="enabled_by_admin">"Abilitato dall'amministratore"</string>
      <string name="enhanced_4g_lte_mode_off_failed">Impossibile disattivare VoLTE."</string>
      <string name="enhanced_4g_lte_mode_on_failed">Impossibile attivare VoLTE."</string>
-     <string name="enhanced_4g_lte_mode_summary">Utilizza i servizi LTE per migliorare la comunicazione voce e altro (raccomandato)</string>
+     <string name="enhanced_4g_lte_mode_summary">Utilizza i servizi LTE per migliorare la comunicazione voce e altro (consigliato)</string>
      <string name="enhanced_4g_lte_mode_title">Modalità 4G LTE avanzata</string>
      <string name="enhanced_4g_lte_mode_title_variant">Chiamata avanzata</string>
      <string name="enter_callbarring_password">Inserisci la password per il blocco chiamate (4 cifre)</string>
@@ -808,7 +808,7 @@ Desideri passare comunque al nuovo servizio?"</string>
      <string name="handon_ringer_title">Non vibrare</string>
      <string name="hdcp_checking_dialog_title">Imposta controllo comportamento HDCP</string>
      <string name="hdcp_checking_title">Controllo HDCP</string>
-     <string name="help_feedback_label">Aiuto e feedback</string>
+     <string name="help_feedback_label">Aiuto e segnalazione bug</string>
      <string name="home">Impostazioni Home</string>
      <string name="ime_security_warning">"Questo metodo di inserimento potrebbe raccogliere informazioni dal testo digitato, inclusi dati personali come password e numeri di carte di credito. Proviene dall'app %1$s. Usare questo metodo di inserimento?"</string>
      <string name="immediately_destroy_activities">Non conservare attività</string>
@@ -1004,12 +1004,12 @@ Desideri passare comunque al nuovo servizio?"</string>
      <string name="network_1x">GPRS</string>
      <string name="network_2G">2G</string>
      <string name="network_3G">3G</string>
-     <string name="network_4G">4G (raccomandato)</string>
+     <string name="network_4G">4G (consigliato)</string>
      <string name="network_error_message">Impossibile collegarsi alla rete</string>
      <string name="network_global">Globale</string>
      <string name="network_id">ID rete</string>
      <string name="network_info_message">Messaggio di rete</string>
-     <string name="network_lte">LTE (raccomandato)</string>
+     <string name="network_lte">LTE (consigliato)</string>
      <string name="network_message">Messaggio di rete</string>
      <string name="network_operator_settings_class">com.android.phone.settings.MobileNetworkSetting</string>
      <string name="network_query_error">Errore durante la ricerca reti.</string>
@@ -1488,7 +1488,7 @@ Le funzionalità relative al PIN2 saranno bloccate se si fallisce un altro tenta
      <string name="technology_news_disable">Notizie di tecnologia disattivate</string>
      <string name="technology_news_enable">Notizie di tecnologia attivate</string>
      <string name="telephony_monitor_switch">Telephony Monitor</string>
-     <string name="telephony_monitor_switch_summary">"Telephony Monitor raccoglierà log quando incontrerà un problema con funzioni telefono/modem e richiederà all'utente di segnalare il bug"</string>
+     <string name="telephony_monitor_switch_summary">"Telephony Monitor raccoglierà log quando incontrerà un problema con funzionalità telefono/modem e richiederà all'utente di segnalare il bug"</string>
      <string name="telephony_setting">Chiamate</string>
      <string name="telocation_auto_country_code">Aggiunta prefisso internazionale</string>
      <string name="telocation_auto_country_code_summary">Aggiungi sempre il prefisso internazionale ai numeri che chiami</string>

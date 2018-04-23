@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="abc_action_bar_home_description">Navigate home</string>
      <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
@@ -235,7 +235,7 @@ Sample Rate"</string>
      <string name="force_rtl_layout_all_locales_summary">Force screen layout direction to RTL for all locales</string>
      <string name="hdcp_checking_dialog_title">Set HDCP checking behavior</string>
      <string name="hdcp_checking_title">HDCP checking</string>
-     <string name="help_feedback_label">Help &amp; feedback</string>
+     <string name="help_feedback_label">Aiuto e segnalazione bug</string>
      <string name="help_uri_deletion_helper" />
      <string name="home">Settings Home</string>
      <string name="ime_security_warning">This input method may be able to collect all the text you type, including personal data like passwords and credit card numbers. It comes from the app %1$s. Use this input method?</string>

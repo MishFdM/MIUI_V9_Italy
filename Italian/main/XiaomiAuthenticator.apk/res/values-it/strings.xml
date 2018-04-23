@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="about_preference_screen_title">Informazioni</string>
      <string name="about_preference_title">Informazioni</string>
@@ -63,9 +63,9 @@ Esegui il login su https://account.xiaomi.com e seleziona l'opzione di recupero 
      <string name="install_button">Installa</string>
      <string name="install_dialog_message">Per scansionare un codice a barre che contiene delle chiavi, devi installare lo ZXing barcode scanner.</string>
      <string name="install_dialog_title">Installare lo scanner di codici a barre?</string>
-     <string name="jump_createpattern_tip">"Saltare questa impostazione di sicurezza non è raccomandato. Continuare?"</string>
+     <string name="jump_createpattern_tip">"Saltare questa impostazione di sicurezza non è consigliato. Continuare?"</string>
      <string name="jump_lockpattern_title">Nota</string>
-     <string name="jump_updatepattern_tip">Disattivare il blocco password è un rischio per la sicurezza, ti raccomandiamo di non disattivare questa opzione.</string>
+     <string name="jump_updatepattern_tip">Disattivare il blocco password è un rischio per la sicurezza, ti consigliamo di non disattivare questa opzione.</string>
      <string name="lockpassword_choose_your_pattern_header">Scegli la tua sequenza</string>
      <string name="lockpassword_confirm_your_pattern_header">Conferma la tua sequenza</string>
      <string name="lockpassword_input_your_pattern_header">Conferma la tua sequenza</string>

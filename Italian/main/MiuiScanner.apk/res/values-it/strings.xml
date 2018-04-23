@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="accept">OK</string>
      <string name="access_sd_fail">"Impossibile accedere alla scheda SD"</string>
@@ -10,7 +10,7 @@
      <string name="app_description_title">Info su Scanner</string>
      <string name="app_details">App:</string>
      <string name="app_name">Scanner</string>
-     <string name="ar_unsupport_for_kk">Questa funzione non supporta al versione 4.4</string>
+     <string name="ar_unsupport_for_kk">Questa funzionalità non supporta al versione 4.4</string>
      <string name="back">Indietro</string>
      <string name="barcode_into_rectangle">"Piazza il codice all'interno della cornice"</string>
      <string name="birthday">Compleanno:</string>
@@ -116,7 +116,7 @@
      <string name="miracast_details">Scansiona il codice QR per trasmettere</string>
      <string name="miracast_message">Trasmettere a Mi TV?</string>
      <string name="miracast_switch_off">Schermo wireless disattivato</string>
-     <string name="miracast_switch_tip">Attiva uno schermo wireless per utilizzare questa funzione</string>
+     <string name="miracast_switch_tip">Attiva uno schermo wireless per utilizzare questa funzionalità</string>
      <string name="module_title_code">Codice QR</string>
      <string name="module_title_document">Documento</string>
      <string name="module_title_namecard">Biglietto da visita</string>

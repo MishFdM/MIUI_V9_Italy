@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="AVL">AVL</string>
      <string name="Avast">Avast</string>
@@ -11,7 +11,7 @@
      <string name="app_name">com.securitycore.miui_t</string>
      <string name="avast_dialog_cloudscan" />
      <string name="avast_dialog_dbupdate" />
-     <string name="avast_dialog_header">"Questa funzione crittografa e carica l'ID del tuo dispositivo sui server Avast (%s)."</string>
+     <string name="avast_dialog_header">"Questa funzionalità critta e carica l'ID del tuo dispositivo sui server Avast (%s)."</string>
      <string name="avast_dialog_policy">"leggi l'Informativa sulla Privacy"</string>
      <string name="avast_dialog_title">"Informativa sulla Privacy di Avast"</string>
      <string name="avast_virus_type_adware_description">Questo virus è un adware. Visualizza automaticamente le pubblicità.</string>
@@ -27,10 +27,10 @@
      <string name="avast_virus_type_tool_description">Questo virus è uno strumento potenzialmente malevolo che infetta similmente ai PUP (programmi potenzialmente indesiderati).</string>
      <string name="avast_virus_type_trjan_description">"Questo virus è un trojan. È un malware progettato per fornire accesso remoto non autorizzato al dispositivo dell'utente. I trojan di solito non hanno la capacità di replicarsi come altri virus; comunque possono causare infezione da altri virus sulla macchina, furto di dati o altre conseguenze dannose."</string>
      <string name="avast_virus_type_unknown_description">Tipo di infezione sconosciuta.</string>
-     <string name="avast_virus_type_worm_description">"Questo virus è un worm. È un malware singolo capace di replicarsi per diffondersi su altri dispositivi. Si approfitta di file o funzioni di trasporto informazioni del sistema (come le reti), può diffondersi senza azioni da parte dell'utente. I worm causano quasi sempre almeno qualche danno alla rete."</string>
+     <string name="avast_virus_type_worm_description">"Questo virus è un worm. È un malware singolo capace di replicarsi per diffondersi su altri dispositivi. Si approfitta di file o funzionalità di trasporto informazioni del sistema (come le reti), può diffondersi senza azioni da parte dell'utente. I worm causano quasi sempre almeno qualche danno alla rete."</string>
      <string name="avl_dialog_cloudscan" />
      <string name="avl_dialog_dbupdate" />
-     <string name="avl_dialog_header">"Questa funzione crittografa ed invia l'ID del tuo dispositivo ai server di AVL (%s)."</string>
+     <string name="avl_dialog_header">"Questa funzionalità critta ed invia l'ID del tuo dispositivo ai server di AVL (%s)."</string>
      <string name="avl_dialog_policy">"leggi l'Informativa sulla Privacy"</string>
      <string name="avl_dialog_title">"Informativa sulla Privacy di AVL"</string>
      <string name="default_sdcard_volume_path" />
@@ -38,7 +38,7 @@
      <string name="menu_settings">Impostazioni</string>
      <string name="tencent_dialog_cloudscan">Carica e scansiona i nomi delle app di dettagli utilizzando le definizioni online dei virus.</string>
      <string name="tencent_dialog_dbupdate">Aggiorna automaticamente le definizioni dei virus</string>
-     <string name="tencent_dialog_header">"Questa funzione crittografa ed invia l'ID del tuo dispositivo ai server di Tencent (%s)."</string>
+     <string name="tencent_dialog_header">"Questa funzionalità critta ed invia l'ID del tuo dispositivo ai server di Tencent (%s)."</string>
      <string name="tencent_dialog_policy">"leggi l'Informativa sulla Privacy"</string>
      <string name="tencent_dialog_title">Informativa sulla Privacy di Tencent</string>
      <string name="title_activity_main">MainActivity</string>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
      <plurals name="accessibility_desc_weather_temperature">
         <item quantity="other">Meteo %d gradi</item>
@@ -14,8 +14,8 @@
         <item quantity="one">Recenti aperti, app disponibili: %d. Scorri in alto per chiudere, scorri in basso per bloccare.</item>
      </plurals>
      <plurals name="block_record_notification_more_text">
-        <item quantity="other">Nascondi notifiche da %1$s &amp;amp; %2$d app.</item>
-        <item quantity="one">Nascondi notifiche da %1$s &amp;amp; %2$d app.</item>
+        <item quantity="other">Nascondi notifiche da %1$s e %2$d app.</item>
+        <item quantity="one">Nascondi notifiche da %1$s e %2$d app.</item>
      </plurals>
      <plurals name="disable_notification_confirm_title">
         <item quantity="other">Nascondere le notifiche di %d app?</item>

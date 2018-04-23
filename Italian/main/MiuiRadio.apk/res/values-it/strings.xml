@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Radio</string>
     <string name="find_program">Cerca</string>
@@ -74,7 +74,7 @@
     <string name="select_device">Seleziona dispositivo</string>
     <string name="download_completed">Scaricati</string>
     <string name="project_device">Mi Phone</string>
-    <string name="still_in_dev">Stiamo ancora lavorando su questa funzione!</string>
+    <string name="still_in_dev">Stiamo ancora lavorando su questa funzionalità!</string>
     <string name="search_hint">Cerca</string>
     <string name="metered_alert_msg">"Utilizzando la rete dati mobile per l'ascolto della musica aumenterai il consumo dati. Se superi il tuo piano dati, il tuo operatore potrebbe addebitarti costi aggiuntivi."</string>
     <string name="metered_alert">"Avviso utilizzo dati</string>

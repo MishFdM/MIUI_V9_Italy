@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="Parse_error_dlg_text">"Errore durante l'analisi del pacchetto."</string>
      <string name="abc_action_bar_home_description">Vai alla home</string>
@@ -20,7 +20,7 @@
      <string name="abc_shareactionprovider_share_with">Condividi con</string>
      <string name="abc_shareactionprovider_share_with_application">Condividi con %s</string>
      <string name="abc_toolbar_collapse_description">Comprimi</string>
-     <string name="accessibility_display_daltonizer_preference_subtitle">Questa funzione è sperimentale e potrebbe influire sulle prestazioni.</string>
+     <string name="accessibility_display_daltonizer_preference_subtitle">Questa funzionalità è sperimentale e potrebbe influire sulle prestazioni.</string>
      <string name="accessibility_display_daltonizer_preference_title">Correzione del colore</string>
      <string name="accessibility_no_wifi">Wi-Fi disconnesso.</string>
      <string name="accessibility_wifi_off">Wi-Fi disattivato.</string>
@@ -66,7 +66,7 @@
      <string name="bluetooth_connected_no_map">Connesso (nessun messaggio di accesso)</string>
      <string name="bluetooth_connecting">Connessione...</string>
      <string name="bluetooth_disable_absolute_volume">Disattiva volume assoluto</string>
-     <string name="bluetooth_disable_absolute_volume_summary">Consente di disattivare la funzione del volume assoluto Bluetooth in caso di problemi con il volume dei dispositivi remoti, ad esempio un volume troppo alto o la mancanza di controllo.</string>
+     <string name="bluetooth_disable_absolute_volume_summary">Consente di disattivare la funzionlità del volume assoluto Bluetooth in caso di problemi con il volume dei dispositivi remoti, ad esempio un volume troppo alto o la mancanza di controllo.</string>
      <string name="bluetooth_disconnected">Disconnesso</string>
      <string name="bluetooth_disconnecting">Disconnessione in corso...</string>
      <string name="bluetooth_enable_inband_ringing">Attiva suoneria in cuffia</string>
@@ -130,13 +130,13 @@
      <string name="charge_length_format">%1$s fa</string>
      <string name="choose_profile">Scegli profilo</string>
      <string name="clear_adb_keys">Revoca autorizzazioni debug USB</string>
-     <string name="confirm_enable_oem_unlock_text">AVVISO. Le funzioni di protezione del dispositivo non funzionano su questo dispositivo se questa impostazione è attiva.</string>
+     <string name="confirm_enable_oem_unlock_text">AVVISO. Le funzionlità di protezione del dispositivo non funzionano su questo dispositivo se questa impostazione è attiva.</string>
      <string name="confirm_enable_oem_unlock_title">Consentire lo sblocco OEM?</string>
      <string name="connected_via_network_scorer">Connesso automaticamente tramite %1$s</string>
      <string name="connected_via_network_scorer_default">Connesso automaticamente tramite provider rating di rete</string>
      <string name="connected_via_passpoint">Connesso tramite %1$s</string>
      <string name="content_description_menu_button">Menu</string>
-     <string name="convert_to_fbe_warning">"Converti la partizione di dati in crittografia basata su file. Attenzione. Questa operazione eliminerà tutti i tuoi dati. Questa funzione è in versione alpha, pertanto potrebbe non funzionare correttamente. Premi \"Cancella e converti...\" per continuare."</string>
+     <string name="convert_to_fbe_warning">"Converti la partizione di dati in crittografia basata su file. Attenzione. Questa operazione eliminerà tutti i tuoi dati. Questa funzionalità è in versione alpha, pertanto potrebbe non funzionare correttamente. Premi \"Cancella e converti...\" per continuare."</string>
      <string name="convert_to_file_encryption">Converti in crittografia basata su file</string>
      <string name="convert_to_file_encryption_done">Crittografia su base file già eseguita</string>
      <string name="convert_to_file_encryption_enabled">Converti...</string>
@@ -218,7 +218,7 @@
      <string name="hdcp_checking_dialog_title">Comportamento di verifica HDCP</string>
      <string name="hdcp_checking_title">Verifica HDCP</string>
      <string name="help_app_permissions" />
-     <string name="help_feedback_label">Guida e feedback</string>
+     <string name="help_feedback_label">Guida e segnalazione bug</string>
      <string name="home">Home page Impostazioni</string>
      <string name="ime_security_warning">This input method may be able to collect all the text you type, including personal data like passwords and credit card numbers. It comes from the app %1$s. Use this input method?</string>
      <string name="immediately_destroy_activities">Non conservare attività</string>
@@ -398,7 +398,7 @@
      <string name="strict_mode_summary">Flash dello schermo in caso di lunghe operazioni sul thread principale</string>
      <string name="system_warning">Se neghi questa autorizzazione, le funzionalità di base del dispositivo potrebbero non funzionare più come previsto.</string>
      <string name="telephony_monitor_switch">Telephony Monitor</string>
-     <string name="telephony_monitor_switch_summary">"Telephony Monitor raccoglierà log quando incontrerà un problema con funzioni telefono/modem e richiederà all'utente di segnalare il bug"</string>
+     <string name="telephony_monitor_switch_summary">"Telephony Monitor raccoglierà log quando incontrerà un problema con funzionalità telefono/modem e richiederà all'utente di segnalare il bug"</string>
      <string name="tether_settings_title_all">Tethering e hotspot</string>
      <string name="tether_settings_title_bluetooth">Tethering Bluetooth</string>
      <string name="tether_settings_title_usb">Tethering USB</string>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <!--This Italian translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI Italia www.miui.it-->
 <resources>
     <string name="about">Info</string>
@@ -159,7 +159,7 @@ indirizzo :%2$s"</string>
     <string name="exit_login">Scollega</string>
     <string name="exit_login_1">"Uscire dall'account?"</string>
     <string name="failed_enable_bt">Attivare Bluetooth.</string>
-    <string name="feedback">Feedback</string>
+    <string name="feedback">Segnalazione bug</string>
     <string name="female">Femmina</string>
     <string name="find_bracelet">Trova Mi Band</string>
     <string name="find_bracelet_warning">La ricerca di Mi Band comporta un alto consumo di batteria.</string>
@@ -185,7 +185,7 @@ avvia automaticamente l'aggiornamento"</string>
     <string name="fw_low_battery_view_help">Aiuto</string>
     <string name="fw_upgrade">Aggiornamento firmware</string>
     <string name="fw_upgrade_failed">Aggiornamento firmware fallito!</string>
-    <string name="fw_upgrade_failed_tips">"Errore nell'aggiornamento firmware di Mi Band, alcune funzioni potrebbero non funzionare correttamente"</string>
+    <string name="fw_upgrade_failed_tips">"Errore nell'aggiornamento firmware di Mi Band, alcune funzionalità potrebbero non funzionare correttamente"</string>
     <string name="fw_upgrade_now">Aggiornamento firmware in corso</string>
     <string name="fw_upgrade_progress">%s%% completato</string>
     <string name="fw_upgrade_succ">Aggiornamento firmware completato, attendi il riavvio del Mi Band…</string>
@@ -264,7 +264,7 @@ Uscendo perderai i dati non sincronizzati. Procedere all'uscita?"</string>
     <string name="mili_exit_login_info_continue_tip">"Confermare l'uscita con ESCI"</string>
     <string name="mili_exit_login_info_exiting">Chiusura…</string>
     <string name="mili_exit_login_info_unbind">"Uscendo il telefono perderà l'associazione con Mi Band"</string>
-    <string name="mili_exit_login_info_unlock">Tutte le funzioni non saranno più disponibili.</string>
+    <string name="mili_exit_login_info_unlock">Tutte le funzionalità non saranno più disponibili.</string>
     <string name="mili_name">Nome Mi Band</string>
     <string name="mili_name_too_long">Hai inserito un nome troppo lungo, assegnane un altro più corto</string>
     <string name="mili_rename_fail">Rinomina fallito</string>
@@ -272,7 +272,7 @@ Uscendo perderai i dati non sincronizzati. Procedere all'uscita?"</string>
 Confermi il ripristino?</string>
     <string name="mili_unbind_question">Dopo la dissociazione, il telefono non potrà ottenere le informazioni da Mi Band</string>
     <string name="mili_unbind_question_content">Dopo la disconnessione puoi usare un altro telefono per connetterti al Mi Band o sostituirlo con un altro.</string>
-    <string name="mili_unbind_question_content_1">" Se hai impostato Mi Band per sbloccare il telefono e lo dissoci, perderai questa funzione."</string>
+    <string name="mili_unbind_question_content_1">" Se hai impostato Mi Band per sbloccare il telefono e lo dissoci, perderai questa funzionalità."</string>
     <string name="minute">Min</string>
     <string name="modify_gender">Sesso</string>
     <string name="modify_height">Altezza</string>
@@ -362,7 +362,7 @@ Non ti fermare, continua così!"</string>
     <string name="setting_about_app">"MIUI Italia (www.miui.it) - Versione"</string>
     <string name="setting_about_fw">Versione Firmware</string>
     <string name="setting_feedback_address">Contatto (email, telefono o QQ)</string>
-    <string name="setting_feedback_hint">Grazie per il feedback, seguiremo ogni singolo commento</string>
+    <string name="setting_feedback_hint">Grazie per la segnalazione, seguiremo ogni singolo commento</string>
     <string name="setting_feedback_send">Invia</string>
     <string name="share">Condividi</string>
     <string name="share_blog_cancel">Annulla</string>
@@ -481,7 +481,7 @@ Vorrei alzarmi quando sono del tutto sveglio"</string>
     <string name="step_per_day">Passi al giorno</string>
     <string name="stop">Fine</string>
     <string name="sync_to_server">Sincronizzando con il server…</string>
-    <string name="system_low_info">"Il tuo telefono utilizza Android 4.3+, utilizzare quest'app potrebbe non essere compatibile. È raccomandato l'aggiornamento ad Android 4.4 o superiore il prima possibile."</string>
+    <string name="system_low_info">"Il tuo telefono utilizza Android 4.3+, utilizzare quest'app potrebbe non essere compatibile. È consigliato l'aggiornamento ad Android 4.4 o superiore il prima possibile."</string>
     <string name="system_low_title">Aggiorna il sistema</string>
     <string name="system_not_support_info">"Il tuo sistema non è sufficientemente aggiornato.
 È necessario Android 4.4 o superiore. "</string>
@@ -503,7 +503,7 @@ Vorrei alzarmi quando sono del tutto sveglio"</string>
     <string name="unknown_location">Località sconosciuta</string>
     <string name="unknown_mili">Mio</string>
     <string name="unlock_screen">Sblocca schermo</string>
-    <string name="unlock_screen_help_info0">Per garantire la sicurezza, la funzione di sblocco sarà disponibile solo se Mi Band è vicino al telefono, il teleofno lontano da Mi Band non sarà sbloccato.</string>
+    <string name="unlock_screen_help_info0">Per garantire la sicurezza, la funzionalità di sblocco sarà disponibile solo se Mi Band è vicino al telefono, il teleofno lontano da Mi Band non sarà sbloccato.</string>
     <string name="unlock_screen_help_info1">Se lo sblocco non avviene, prova a spegnere e riaccendere il Bluetooth, dopo pochi minuti controlla che lo sblocco con Mi Band funzioni</string>
     <string name="unlock_screen_help_info2">"Se riavviare il Bluetooth non funziona, vai a Impostazioni -> Sicurezza e privacy-> Bluetooth rimuovi l'associazione e ripeti l'associazione dall'applicazione."</string>
     <string name="unlock_screen_help_tips">Con due passaggi, consenti a Mi Band di sbloccare lo schermo</string>

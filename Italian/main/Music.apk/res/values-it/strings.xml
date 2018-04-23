@@ -441,7 +441,7 @@
      <string name="is_scanning">Scansione, attendere…</string>
      <string name="is_scanning_support_online">"Scansione, 
 attendere o selezionare Musica Online."</string>
-     <string name="karaoke_message">Devi scaricare e aggiornare il plugin Karaoke per attivare questa funzione.</string>
+     <string name="karaoke_message">Devi scaricare e aggiornare il plugin Karaoke per attivare questa funzionalità.</string>
      <string name="karaoke_my_studio">My Karaoke Studio</string>
      <string name="karaoke_negative_text">Più tardi</string>
      <string name="karaoke_positive_text">OK</string>
@@ -627,7 +627,7 @@ attendere o selezionare Musica Online."</string>
      <string name="online_switch_message">La disattivazione dei servizi online ha effetti sui servizi VIP e i consigli. Disattivare comunque?</string>
      <string name="online_switch_setting">Impostazioni contenuti online</string>
      <string name="open_download">Apri</string>
-     <string name="open_online_service">Devi attivare i servizi online per poter utilizzare questa funzione. Attivare adesso?</string>
+     <string name="open_online_service">Devi attivare i servizi online per poter utilizzare questa funzionalità. Attivare adesso?</string>
      <string name="open_service">Attiva</string>
      <string name="optimize_all_until_optimized">Ottimizza informazioni brano, album e testi</string>
      <string name="optimize_all_until_scanned">Scansione brano locale, riprova più tardi</string>
