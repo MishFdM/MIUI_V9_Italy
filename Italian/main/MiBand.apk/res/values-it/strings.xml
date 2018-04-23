@@ -481,7 +481,7 @@ Vorrei alzarmi quando sono del tutto sveglio"</string>
     <string name="step_per_day">Passi al giorno</string>
     <string name="stop">Fine</string>
     <string name="sync_to_server">Sincronizzando con il server…</string>
-    <string name="system_low_info">"Il tuo telefono utilizza Android 4.3+, utilizzare quest'app potrebbe non essere compatibile. È raccomandato l'aggiornamento ad Android 4.4 o superiore il prima possibile."</string>
+    <string name="system_low_info">"Il tuo telefono utilizza Android 4.3+, utilizzare quest'app potrebbe non essere compatibile. È consigliato l'aggiornamento ad Android 4.4 o superiore il prima possibile."</string>
     <string name="system_low_title">Aggiorna il sistema</string>
     <string name="system_not_support_info">"Il tuo sistema non è sufficientemente aggiornato.
 È necessario Android 4.4 o superiore. "</string>
