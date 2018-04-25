@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="Phonepass">Consenti chiamate</string>
      <string name="SMS_and_MMS">SMS e MMS</string>
@@ -28,8 +28,8 @@
      <string name="access_control_fingerprint_not_identified_msg">Impossibile trovare impronta.</string>
      <string name="access_control_need_password">"%s blocco aggiunta con successo"</string>
      <string name="access_control_need_to_unlock_nofingerprint">Inserisci password di sblocco</string>
-     <string name="accessibility_service_description" />
      <string name="accessibility_gameboosterservice_description">Attiva questa opzione per silenziare le chiamate WeChat durante le fasi di gioco</string>
+     <string name="accessibility_service_description" />
      <string name="action_button_text_100">Ottimizza</string>
      <string name="action_button_text_60">Ottimizza</string>
      <string name="action_button_text_60_80">Ottimizza</string>
@@ -73,6 +73,7 @@
      <string name="add_whitelist">Aggiungi alle eccezioni</string>
      <string name="address">Indirizzo</string>
      <string name="address_choose_hint">%1$s、%2$s e %3$d elementi</string>
+     <string name="adjust_sms_cmd"><u>Adjust calibration SMS template</u></string>
      <string name="adjust_traffic_carrier_summary_more_onemonth_before">Aggiornato più di un mese fa</string>
      <string name="adjust_traffic_carrier_summary_more_oneweek_before">Aggiornato più di una settimana fa</string>
      <string name="adjust_traffic_carrier_summary_oneweek_before">Aggiornato 1 settimana fa</string>
@@ -617,6 +618,9 @@ Il tuo operatore potrebbe addebitarti costi aggiuntivi se attivi di nuovo la ret
      <string name="dialog_restrict_positive">Annulla</string>
      <string name="dialog_roaming_message">"Consenti a questa applicazione di utilizzare i dati roaming all'estero?"</string>
      <string name="dialog_roaming_title">Roaming estero</string>
+     <string name="dialog_roaming_warning_checkbox">"Don't show again"</string>
+     <string name="dialog_roaming_warning_message">The carrier will charge you a fee after you turn on international data roaming. Turn on anyway?</string>
+     <string name="dialog_roaming_warning_ok">Turn on</string>
      <string name="dialog_text">Crea un collegamento in Home per Turbo videogiochi</string>
      <string name="dialog_title_attention">Attenzione</string>
      <string name="dialog_title_auto_start_declare">"Info sull'avvio automatico"</string>
@@ -1116,6 +1120,7 @@ dall'operatore"</string>
      <string name="menu_item_virus_lib_auto_update_summary">Ultimo aggiornamento: %s</string>
      <string name="menu_remove">Rimuovi</string>
      <string name="menu_report">Segnala errore</string>
+     <string name="menu_setting_traffic">Set manually</string>
      <string name="menu_sms">Invia messaggio</string>
      <string name="menu_text_antispam">Blacklist</string>
      <string name="menu_text_antivirus">Antivirus</string>
@@ -1723,6 +1728,7 @@ Questa attività riduce la durata della batteria."</string>
      <string name="sms_contact_block">Filtro contatti</string>
      <string name="sms_delete_hint">Eliminare tutti i messaggi bloccati inviati dai numeri selezionati?</string>
      <string name="sms_delete_title">Rimuovi Messaggio</string>
+     <string name="sms_detail_correct_success_text">"Here's the data usage stats from the previous calibration (%1$s):"</string>
      <string name="sms_detail_fragment_title_bill">Saldo telefono</string>
      <string name="sms_detail_fragment_title_traffic">Dati rimanenti</string>
      <string name="sms_filter">Blacklist Parole</string>
@@ -1950,6 +1956,7 @@ Questa attività riduce la durata della batteria."</string>
      <string name="tab_guide">Guide</string>
      <string name="tab_sms">Messaggi</string>
      <string name="tab_title">Blacklist</string>
+     <string name="tc_cmd_invalid">Template is invalid</string>
      <string name="tc_diagnostic_all_error_notification_summary">Tocca per inviare una segnalazione</string>
      <string name="tc_diagnostic_all_error_notification_title">"Impossibile completare la diagnostica"</string>
      <string name="tc_diagnostic_brand_error_notification_summary">Tocca per aggiustare la rete</string>
@@ -1987,8 +1994,12 @@ Questa attività riduce la durata della batteria."</string>
      <string name="tc_diagnostic_success_result">"&lt;font color='#CC0000'>Risultato: Rete e nome operatore impostati correttamente&lt;br/>&lt;br/>Impossibile completare la regolazione:&lt;br/>1. Le statistiche dell'operatore potrebbero non essere affidabili all'inizio e alla fine del mese.&lt;br/>2. L'assistente di rete non era aggiornato.&lt;br/>&lt;br/>Segnala questa uscita per aiutare MIUI a migliorare gli strumenti di diagnostica&lt;/font>"</string>
      <string name="tc_diagnostic_title">Diagnostica operatore</string>
      <string name="tc_diagnostic_upload_button">Riporta</string>
-     <string name="tc_diagnostic_upload_no_network">Grazie per la tua segnalazione! L\'invio sarà eseguito non appena ti connetterai alla rete.</string>
+     <string name="tc_diagnostic_upload_no_network">"Grazie per la tua segnalazione! L\'invio sarà eseguito non appena ti connetterai alla rete."</string>
      <string name="tc_diagnostic_upload_success">Grazie per la tua segnalazione!</string>
+     <string name="tc_get_cmd_error">"Couldn't get template"</string>
+     <string name="tc_parse_error">"Couldn't parse SMS"</string>
+     <string name="tc_receive_timeout">Calibration timed out</string>
+     <string name="tc_send_sms_error">"Couldn't send SMS"</string>
      <string name="tc_sms_report_direction">Codice richiesta SMS</string>
      <string name="tc_sms_report_do_report">Invia</string>
      <string name="tc_sms_report_get_default">"Non avrai costi aggiuntivi per l'SMS utilizzato per recuperare il traffico dati dal tuo operatore."</string>
@@ -2022,6 +2033,7 @@ Questa attività riduce la durata della batteria."</string>
      <string name="tc_sms_report_type">Tipo di rapporto</string>
      <string name="tc_sms_report_upload_success">Rapporto utilizzo dati SMS inviato. Lo riceveremo a breve!</string>
      <string name="tc_sms_report_upload_when_net">Grazie per la tua segnalazione!</string>
+     <string name="tc_web_correct_error">"Couldn't calibrate"</string>
      <string name="ten_percent_total_pkg">%s (10%% di dati mensili)</string>
      <string name="tether_custom_dialog_title">Limite dati rete mobile</string>
      <string name="tether_limit_dialog_title">Limite rete dati mobile</string>

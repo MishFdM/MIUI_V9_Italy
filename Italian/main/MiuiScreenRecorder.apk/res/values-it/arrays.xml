@@ -27,4 +27,8 @@
         <item>Microfono</item>
         <item>Altoparlante</item>
      </string-array>
+     <string-array name="screenrecorder_settings_storage_location">
+        <item>Internal storage</item>
+        <item>External storage</item>
+     </string-array>
 </resources>
