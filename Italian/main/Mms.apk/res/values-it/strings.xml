@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="action_firewall_setting">Blacklist</string>
      <string name="activity_not_found">Applicazione non installata sul telefono.</string>
@@ -51,6 +51,16 @@
      <string name="bookmark_confirm_delete_message">Gli elementi selezionati saranno eliminati</string>
      <string name="bookmark_empty">Nessun modello</string>
      <string name="bookmark_list_title">Preferiti</string>
+     <string name="button_emoji_creature">Animal emojis</string>
+     <string name="button_emoji_lifestyle">Lifestyle emojis</string>
+     <string name="button_emoji_smiley">Face emojis</string>
+     <string name="button_emoji_symbol">Symbol emojis</string>
+     <string name="button_emoji_text">Text emojis</string>
+     <string name="button_fold">Fold</string>
+     <string name="button_next_slide">Next</string>
+     <string name="button_pre_slide">Previous</string>
+     <string name="button_resend_message">Send again</string>
+     <string name="button_unfold">Unfold</string>
      <string name="call_sender">Chiama mittente</string>
      <string name="cannot_add_picture_and_video">Impossibile aggiungere video e immagine a una diapositiva.</string>
      <string name="cannot_add_slide_anymore">Impossibile aggiungere altre diapositive.</string>
@@ -127,7 +137,9 @@
      <string name="delete_wild_sims_title">Elimina numeri selezionati</string>
      <string name="delivery_report_activity">Conferma di recapito</string>
      <string name="delivery_toast_body">Messaggio correttamente inviato a %s</string>
+     <string name="dialog_message_fake_cell_detect_error">Correct the info about this message? To do this, MIUI needs to upload the phone number (%1$s), the contents of the message, and the info about nearby location to its servers.</string>
      <string name="dialog_message_sms_report">"I messaggi spam e le informazioni sui loro mittenti verranno segnalati a MIUI con il tuo report. Verranno utilizzati unicamente per migliorare i filtri spam MIUI."</string>
+     <string name="dialog_title_fake_cell_detect_error">Correction</string>
      <string name="disable_notifications_dialog_message">"Interrompere la notifica dei messaggi di testo provenienti dall'applicazione predefinita ?"</string>
      <string name="disabled">Disattivato</string>
      <string name="discard">Ignora</string>
@@ -140,6 +152,7 @@
      <string name="download_later">Download attualmente non disponibile. Riprova più tardi.</string>
      <string name="downloading">Download…</string>
      <string name="downloading_file_can_not_play">Attendi fino alla fine del download</string>
+     <string name="draft">Draft</string>
      <string name="duration_not_a_number">La durata deve essere un numero.</string>
      <string name="duration_sec">Durata (%s sec)</string>
      <string name="duration_selector_title">"Durata diapositiva "</string>
@@ -168,9 +181,9 @@
      <string name="fail_to_view_attachment">allegato non disponibile</string>
      <string name="failed_to_add_media">Impossibile aggiungere %1$s al messaggio.</string>
      <string name="failed_to_resize_image">Immagine non ridimensionata.</string>
+     <string name="fake_cell_alert_detect_error">"This wasn't sent from a fake base cell"</string>
      <string name="fake_cell_alert_hint">Sembra che questo messaggio sia stato inviato da un numero di telefono che diverso è diverso da quello visualizzato. Fai attenzione agli SMS che contengono richieste finanziarie.</string>
      <string name="fake_cell_checking_hint">Controllo di sicurezza…</string>
-     <string name="fake_cell_detection_entry">Rilevamento base fallito</string>
      <string name="fake_cell_safe_hint">Questo messaggio è sicuro</string>
      <string name="fake_cell_timeout_hint">Controllo di sicurezza fallito</string>
      <string name="favorite_at_time">Aggiunto ai preferiti alle: %1s</string>
