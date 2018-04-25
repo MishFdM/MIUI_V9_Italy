@@ -447,7 +447,7 @@ Libera almeno %s"</string>
      <string name="trans_my_device">Il mio dispositivo</string>
      <string name="trans_native_no_space">"Questo dispositivo non ha spazio sufficiente
 Si prega di liberare almeno %s"</string>
-     <string name="trans_old_phone_low_space_msg">Mi Mover necessita di un po' di spazio di archiviazione per comprimere i dati trasferiti, ma sembra che non ci sia abbastanza spazio disponibile sul vecchio dispositivo. Libera spazio in \"Sicurezza\" o trasferisci solo gli elementi importanti.</string>
+     <string name="trans_old_phone_low_space_msg">Mi Mover necessita di un po\' di spazio di archiviazione per comprimere i dati trasferiti, ma sembra che non ci sia abbastanza spazio disponibile sul vecchio dispositivo. Libera spazio in \"Sicurezza\" o trasferisci solo gli elementi importanti.</string>
      <string name="trans_old_phone_low_space_title">Spazio libero non sufficiente</string>
      <string name="trans_one_key_migrate">Trasferisci</string>
      <string name="trans_operate_func_one">Metodo A</string>
