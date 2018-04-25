@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="accept">Accetta</string>
      <string name="accept_or_deny">%1$s album condivisi, %2$s con te.</string>
@@ -1242,18 +1242,18 @@ per personalizzare la Galleria"</string>
      <string name="recovery_merge_or_rename_message">Esiste già un album con questo nome. Unire adesso?</string>
      <string name="recovery_rename">Rinomina</string>
      <string name="refocus_desc">Metti nuovamente a fuoco</string>
-     <string name="refocus_discard_confirm_message">Save changes?</string>
-     <string name="refocus_discard_negative_btn">Discard</string>
-     <string name="refocus_discard_positive_btn">Save</string>
-     <string name="refocus_photo_not_support">"Can't apply blur to this photo"</string>
-     <string name="refocus_save_cancel">Cancel</string>
-     <string name="refocus_save_title">Select format</string>
-     <string name="refocus_save_to_photo">Save as image</string>
-     <string name="refocus_save_to_video">Save as video</string>
-     <string name="refocus_saving">Saving…</string>
-     <string name="refocus_title">Blur</string>
-     <string name="refocus_type_static">Blur level</string>
-     <string name="refocus_type_video">Light trails</string>
+     <string name="refocus_discard_confirm_message">Salvare i cambiamenti?</string>
+     <string name="refocus_discard_negative_btn">Annulla</string>
+     <string name="refocus_discard_positive_btn">Salva</string>
+     <string name="refocus_photo_not_support">Impossibile aggiungere sfocatura a questa foto</string>
+     <string name="refocus_save_cancel">Annulla</string>
+     <string name="refocus_save_title">Seleziona formato</string>
+     <string name="refocus_save_to_photo">Salva come immagine</string>
+     <string name="refocus_save_to_video">Salva come video</string>
+     <string name="refocus_saving">Salvataggio…</string>
+     <string name="refocus_title">Sfocatura</string>
+     <string name="refocus_type_static">Livello di sfocatura</string>
+     <string name="refocus_type_video">Linee di luce</string>
      <string name="relation_text_empty_alert">Aggiungi informazioni di relazione</string>
      <string name="relation_text_family">Familiare</string>
      <string name="relation_text_father">Padre</string>

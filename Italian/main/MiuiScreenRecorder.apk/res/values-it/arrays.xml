@@ -28,7 +28,7 @@
         <item>Altoparlante</item>
      </string-array>
      <string-array name="screenrecorder_settings_storage_location">
-        <item>Internal storage</item>
-        <item>External storage</item>
+        <item>Memoria interna</item>
+        <item>Memoria esterna</item>
      </string-array>
 </resources>

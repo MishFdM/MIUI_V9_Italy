@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="app_name">Registrazione schermo</string>
      <string name="app_notification_info">La Registrazione Schermo sta operando in background</string>
@@ -13,10 +13,10 @@
      <string name="button_confirm">OK</string>
      <string name="button_goon_recorder">Riprendi</string>
      <string name="cancel_edit">Annulla</string>
-     <string name="cannot_change_frames">Frame rate can only be customized for recordings with fixed frame rate.</string>
+     <string name="cannot_change_frames">La sequenza dei fotogrammi può essere personalizzata solo per le registrazioni con sequenza dei fotogrammi fissa.</string>
      <string name="cannot_change_parames">Impossibile cambiare i parametri durante la registrazione</string>
      <string name="cannot_record">Impossibile registrare, prova più tardi</string>
-     <string name="close_screen_record">Stopped recording</string>
+     <string name="close_screen_record">Registrazione fermata</string>
      <string name="date_day" />
      <string name="date_month">/</string>
      <string name="date_year">/</string>
@@ -24,10 +24,10 @@
      <string name="description_title">Info su Registrazione Schermo</string>
      <string name="deselect_all">Deseleziona tutto</string>
      <string name="error_open_file_failed_no_app_found">"Impossibile trovare un'applicazione per l'apertura del file"</string>
-     <string name="fixed_frame_rate">Fixed frame rate</string>
-     <string name="fixed_frame_rate_summary">Recording videos with fixed frame rate enhances playback on social media platforms and reduces battery life.</string>
-     <string name="frames">Frame rate</string>
-     <string name="frames_summary">Più alto il frame rate maggiore sarà la riduzione della sfocatura</string>
+     <string name="fixed_frame_rate">Sequenza dei fotogrammi fissa</string>
+     <string name="fixed_frame_rate_summary">Registrare video con sequenza dei fotogrammi fissa migliora la riproduzione su piattaforme social multimediali ma riduce la durata della batteria.</string>
+     <string name="frames">Sequenza dei fotogrammi</string>
+     <string name="frames_summary">Più alta sarà la sequenza dei fotogrammi maggiore sarà la riduzione della sfocatura</string>
      <string name="frequently_click_toast">Servizio avviato, attendere</string>
      <string name="gleam_led_while_recording">Flash LED durante la registrazione</string>
      <string name="hint_back">Indietro</string>
@@ -37,10 +37,10 @@
      <string name="hint_volume_down">Volume -</string>
      <string name="hint_volume_up">Volume +</string>
      <string name="home_title_none">Elementi selezionati</string>
-     <string name="is_checked">Selected</string>
-     <string name="is_go_home">Go back to Screen recorder</string>
-     <string name="is_go_home_summary">"Open Screen recorder's start page after you stop recording"</string>
-     <string name="loopback_sound">Speaker</string>
+     <string name="is_checked">Selezionato</string>
+     <string name="is_go_home">Torna a Registrazione schermo</string>
+     <string name="is_go_home_summary">Apri la pagina iniziale di Registrazione schermo dopo aver fermato la registrazione</string>
+     <string name="loopback_sound">Altoparlante</string>
      <string name="low_battery">Carica il tuo telefono prima di iniziare una registrazione dello schermo</string>
      <string name="low_battery_title">Batteria quasi scarica</string>
      <string name="low_battery_warning">La batteria è quasi scarica. La registrazione video è stata fermata e salvata.</string>
@@ -65,7 +65,7 @@
      <string name="screen_record_option">Impostazioni di registrazione</string>
      <string name="screen_record_params">Parametri di registrazione</string>
      <string name="select_all">Seleziona tutto</string>
-     <string name="settings">Settings</string>
+     <string name="settings">Impostazioni</string>
      <string name="show_hard_key">Visualizza tasti di navigazione</string>
      <string name="show_hard_key_summary">Come da istruzioni premi i tasti Home, Menu, e Indietro</string>
      <string name="show_screen_touch">Mostra tocchi</string>
@@ -78,7 +78,7 @@
      <string name="stop_record_while_locking">Terminare quando bloccato</string>
      <string name="stop_record_while_locking_summary">Termina e salva la registrazione quando il dispositivo è bloccato</string>
      <string name="stop_recording">Interrompi registrazione</string>
-     <string name="storage_location">Storage</string>
-     <string name="storage_location_summary">Select your preferred storage option</string>
-     <string name="unchecked">Not selected</string>
+     <string name="storage_location">Memoria</string>
+     <string name="storage_location_summary">Seleziona la tua opzione di memorizzazione preferita</string>
+     <string name="unchecked">Non selezionato</string>
 </resources>

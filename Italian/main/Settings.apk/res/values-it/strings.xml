@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="Accounts_settings_title">Account</string>
      <string name="abc_action_bar_home_description">Naviga nella home</string>
@@ -2011,7 +2011,7 @@ Quando attivi il backup automatico, il dispositivo e i dati delle applicazioni v
      <string name="gadget_wifi">Wi-Fi</string>
      <string name="gallery_privacy_password_role_instruction">Le tue foto private verranno archiviate qui.</string>
      <string name="game_controller_settings_category">Controller di gioco</string>
-     <string name="game_mode_settings">Gaming mode</string>
+     <string name="game_mode_settings">Modalità gioco</string>
      <string name="game_storage_settings">Giochi</string>
      <string name="gesture_preference_summary">Gesture veloci per controllare il telefono</string>
      <string name="gesture_preference_title">Gesture</string>
@@ -2755,11 +2755,11 @@ Ci sono altri utenti presenti su questo dispositivo.
      <string name="move_app_to_sdcard">Sposta sulla scheda SD</string>
      <string name="move_error_device_admin">"L'amministratore del dispositivo non può essere installato su media esterno."</string>
      <string name="moving">Spostamento</string>
-     <string name="mqs_privacy_automatically_upload">Upload automatically next time</string>
-     <string name="mqs_privacy_dialog_cancel">Cancel</string>
-     <string name="mqs_privacy_dialog_confirm">Upload</string>
-     <string name="mqs_privacy_dialog_content">Upload logs to help us locate and solve this problem? Logs may contain your personal info, including the info about your location.</string>
-     <string name="mqs_privacy_dialog_title">An error occurred</string>
+     <string name="mqs_privacy_automatically_upload">Invia automaticamente la prossima volta</string>
+     <string name="mqs_privacy_dialog_cancel">Annulla</string>
+     <string name="mqs_privacy_dialog_confirm">Invia</string>
+     <string name="mqs_privacy_dialog_content">Inviare i log per aiutarci ad identificare e risolvere questo problema? I log potrebbero contenere informazioni personali, inclusi i dati sulla tua posizione.</string>
+     <string name="mqs_privacy_dialog_title">Si è verificato un errore</string>
      <string name="msd_driver_download">Scarica driver</string>
      <string name="msd_driver_download_mac">Per macOS, scarica <b>Android File Transfer</b> per installare i driver USB</string>
      <string name="msd_driver_download_mac_url">Ottieni i driver da http://www.android.com/filetransfer/</string>

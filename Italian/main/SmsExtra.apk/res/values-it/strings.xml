@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="activity_not_found">Non è stata trovata nessuna app per eseguire questa operazione</string>
      <string name="back_to_message_list">Indietro alla lista messaggi</string>
-     <string name="button_close">Close</string>
+     <string name="button_close">Chiudi</string>
      <string name="confirm_delete_conversation">Eliminare questo intero thread?</string>
      <string name="confirm_delete_group_message">Eliminare i messaggi di gruppo?</string>
      <string name="confirm_delete_locked_message">Eliminare questo messaggio bloccato?</string>
@@ -24,7 +24,7 @@
      <string name="hybrid_pull_to_refresh_release_label">Rilascia per aggiornare…</string>
      <string name="hybrid_service_unavailiable">Servizio non disponibile</string>
      <string name="hybrid_try_again">Prova di nuovo</string>
-     <string name="imageview_ad">Ad</string>
+     <string name="imageview_ad">Pubblicità</string>
      <string name="menu_forward">Avanti</string>
      <string name="menu_lock">Blocca</string>
      <string name="menu_unlock">Sblocca</string>

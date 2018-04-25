@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="accessibility_action_divider_bottom_full">Schermo intero inferiore</string>
      <string name="accessibility_action_divider_left_30">Sinistra 30%</string>
@@ -312,10 +312,10 @@ Se riattivi i dati, l'operatore potrebbe addebitarti un costo."</string>
      <string name="enable_terminal_summary">Abilita app terminale per accesso locale shell</string>
      <string name="enable_terminal_title">Terminale locale</string>
      <string name="enabled_by_admin">"Abilitato dall'amministratore"</string>
-     <string name="enter_special_mode_message">After restarting the application, the application content will be extended to the top status bar area. If there are exceptions such as content occlusion and click misplacement, you can click the button again to restore the default mode.</string>
-     <string name="enter_special_mode_title">Restart the app and expand the display space</string>
-     <string name="exit_special_mode_message">After restarting the application, the application display space will be restored to the default mode.</string>
-     <string name="exit_special_mode_title">Restart the application and restore the display space</string>
+     <string name="enter_special_mode_message">"Dopo aver riavviato l'applicazione, il suo contenuto verrà esteso all'area superiore della barra di stato. In caso di eccezioni come l'occlusione dei contenuti o l'errato posizionamento dei tocchi, sarà possibile cliccare nuovamente sul pulsante per ripristinare la modalità predefinita."</string>
+     <string name="enter_special_mode_title">"Riavvia l'app ed espandi lo spazio dello schermo"</string>
+     <string name="exit_special_mode_message">"Dopo aver riavviato l'applicazione, lo spazio dello schermo verrà ripristinato alla modalità predefinita".</string>
+     <string name="exit_special_mode_title">"Riavvia l'applicazione e ripristina lo spazio dello schermo"</string>
      <string name="expanded_confirm_disable_notification">Conferma</string>
      <string name="expanded_notification_manager">Gest. notifiche</string>
      <string name="ext_media_badremoval_notification_message">"Smonta l'archivio USB prima di rimuoverlo per evitare perdite di dati."</string>
@@ -693,8 +693,8 @@ For more information, contact your admin."</string>
      <string name="show_touches">Mostra pressioni</string>
      <string name="show_touches_summary">Mostra feedback visuali per pressioni</string>
      <string name="simulate_color_space">Simula lo spazio del colore</string>
-     <string name="special_mode_cancel">Cancel</string>
-     <string name="special_mode_ok">Restart</string>
+     <string name="special_mode_cancel">Annulla</string>
+     <string name="special_mode_ok">Riavvia</string>
      <string name="stat_sys_data_connected_1x_half">1X</string>
      <string name="status_bar_accessibility_dismiss_recents">Chiudi app recenti</string>
      <string name="status_bar_clock_date_format">EEEE, dd MMMM</string>
