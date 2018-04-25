@@ -7,7 +7,7 @@ I messaggi compariranno solo nello Spazio secondario."</string>
      <string name="PrivacyContactDes2">"Se hai utilizzato i messaggi nello spazio Primario,
 questa funzionalità verrà aggiunta automaticamente allo spazio Secondario."</string>
      <string name="add_finger_print">Aggiungi impronta</string>
-     <string name="agree">Concordo</string>
+     <string name="agree">Accetto</string>
      <string name="air_space_created">Spazio di lavoro creato correttamente</string>
      <string name="air_space_deleted">Spazio di lavoro eliminato correttamente</string>
      <string name="air_space_exit">Esci dallo spazio</string>
@@ -74,7 +74,7 @@ per essere in grado di vederli sempre"</string>
      <string name="dialog_title">Attenzione</string>
      <string name="dir_switch_out_all_photos">Galleria Spazio Secondario</string>
      <string name="disable">Disattiva</string>
-     <string name="disagree">Non concordo</string>
+     <string name="disagree">Non accetto</string>
      <string name="do_not_ask">Non chiedere più</string>
      <string name="dont_import">Non adesso</string>
      <string name="downloading_space">Download in corso...</string>
