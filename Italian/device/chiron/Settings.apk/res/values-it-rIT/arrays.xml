@@ -46,12 +46,27 @@
         <item>Geolocalizzazione</item>
         <item>Ottieni statistiche uso</item>
         <item>Muto/non muto microfono</item>
+        <item>Mostra toast</item>
         <item>Media Project</item>
         <item>Attiva VPN</item>
         <item>Scrivi sfondo</item>
         <item>Struttura assistita</item>
         <item>Screenshot assistito</item>
-     </string-array>
+        <item>Leggi stato telefono</item>
+        <item>Aggiungi messaggio vocale</item>
+        <item>Utilizza sip</item>
+        <item>Elabora chiamata in uscita</item>
+        <item>Impronta</item>
+        <item>Sensori del corpo</item>
+        <item>Leggi le trasmissioni cellulari</item>
+        <item>Posizione falsa</item>
+        <item>Leggi memoria</item>
+        <item>Scrivi memoria</item>
+        <item>Attiva schermo</item>
+        <item>Ottieni account</item>
+        <item>Avviate in background</item>
+        <item>Accessibilità volume</item>
+	 </string-array>
      <string-array name="app_ops_summaries">
         <item>posizione approssimativa</item>
         <item>posizione precisa</item>
@@ -98,13 +113,28 @@
         <item>monitora localizzazione a consumo elevato</item>
         <item>ottieni statistiche uso</item>
         <item>muto/non muto microfono</item>
+        <item>mostra toast</item>
         <item>media Project</item>
         <item>attiva VPN</item>
         <item>scrivi sfondo</item>
         <item>struttura assistita</item>
         <item>screenshot assistito</item>
+        <item>leggi stato telefono</item>
+        <item>aggiungi messaggio vocale</item>
+        <item>utilizza sip</item>
+        <item>elabora chiamata in uscita</item>
+        <item>impronta</item>
+        <item>sensori del corpo</item>
+        <item>leggi le trasmissioni cellulari</item>
+        <item>posizione falsa</item>
+        <item>òeggi memoria</item>
+        <item>scrivi memoria</item>
+        <item>attiva schermo</item>
+        <item>ottieni account</item>
+        <item>avviate in background</item>
+        <item>accessibilità volume</item>
      </string-array>
-	    <string-array name="wifi_signal">
+	 <string-array name="wifi_signal">
 		<item>Scadente</item>
         <item>Scadente</item>
         <item>Discreta</item>
