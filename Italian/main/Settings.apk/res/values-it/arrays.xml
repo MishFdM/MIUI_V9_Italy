@@ -1596,4 +1596,11 @@
         <item>Scala animazione 5x</item>
         <item>Scala animazione 10x</item>
      </string-array>
+	 <string-array name="mvno_type_entries">
+        <item>Nessuno</item>
+        <item>SPN</item>
+        <item>IMSI</item>
+        <item>GID</item>
+        <item>ICCID</item>
+    </string-array>
 </resources>

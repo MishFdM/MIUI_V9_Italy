@@ -2436,6 +2436,7 @@ Puoi impostare un nuovo blocco schermo sia per il dispositivo che per il tuo pro
      <string name="lock_settings_profile_unified_summary">Lo stesso dello sblocco schermo dispositivo</string>
      <string name="lock_settings_title">Sicurezza schermo</string>
      <string name="lock_settings_with_fingerprint">Schermata di blocco e password</string>
+	 <string name="master_clear_summary">Eliminerà tutti i dati sul telefono</string>
      <string name="lock_setup">Impostazione completata.</string>
      <string name="lock_sounds_enable_title">Suono di blocco schermo</string>
      <string name="lockpassword_cancel_label">Annulla</string>

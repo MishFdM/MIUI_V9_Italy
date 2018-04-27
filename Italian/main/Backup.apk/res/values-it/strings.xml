@@ -453,7 +453,7 @@ Si prega di liberare almeno %s"</string>
      <string name="trans_operate_func_one">Metodo A</string>
      <string name="trans_operate_func_two">Metodo B</string>
      <string name="trans_operate_new_phone_tips">"Vai in Impostazioni > Impostazioni aggiuntive > Mi Mover
-Tocca [I'm a recipient] per creare un Codice QR"</string>
+Tocca per creare un Codice QR"</string>
      <string name="trans_operate_old_phone_tips1">"1. Installa l'app Transfer sul tuo vecchio dispositivo
 2. Apri l'app e seleziona [Sono il mittente]
 3. Scansiona il Codice QR con il vecchio dispositivo"</string>
