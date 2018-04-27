@@ -5921,4 +5921,6 @@ Tocca "<b>Indietro</b>" per connetterti a un'altra rete Wi-Fi."</string>
      <string name="zone_auto_summaryOn">Utilizza il fuso orario fornito dalla rete</string>
      <string name="zone_list_menu_sort_alphabetically">Ordine alfabetico</string>
      <string name="zone_list_menu_sort_by_timezone">Ordina per fuso orario</string>
+	 <string name="sdcard_optimization">Ottimizzazione scheda SD</string>
+	 <string name="sdcard_optimization_summary">La tua scheda SD sarà molto più veloce</string>
 </resources>
