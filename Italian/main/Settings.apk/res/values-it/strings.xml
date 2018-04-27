@@ -5813,7 +5813,7 @@ Tocca "<b>Indietro</b>" per connetterti a un'altra rete Wi-Fi."</string>
      <string name="wrong_pin_code_pukked">"Codice PIN della SIM errato. Devi contattare l'operatore per sbloccare il dispositivo."</string>
      <string name="xiaomi_account">Mi Account</string>
      <string name="xiaomi_cloud_service">Mi Cloud</string>
-     <string name="xiaomi_cloud_service_description">Mi Cloud sincronizza i contatti,le foto ed esegue il backup delle tue applicazioni,impostazioni aiutandoti a trovare il tuo dispositivo con la funzionalità Trova dispositivo.</string>
+     <string name="xiaomi_cloud_service_description">Mi Cloud sincronizza i contatti, le foto, ed esegue il backup delle tue applicazioni e impostazioni, aiutandoti a trovare il tuo dispositivo con la funzionalità Trova dispositivo.</string>
      <string name="xiaomi_cloud_service_disabled">Disattivato</string>
      <string name="xiaomi_cloud_service_unknown">Sconosciuto</string>
      <string name="xiaomi_money_service">Mi Credit</string>
