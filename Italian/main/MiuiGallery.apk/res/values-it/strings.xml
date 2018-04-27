@@ -1207,9 +1207,9 @@ per personalizzare la Galleria"</string>
      <string name="picker_image_will_download">%d delle foto selezionate non sono sul dispositivo, download in corso</string>
      <string name="picker_no_network_message">Rete non disponibile, collegati alla rete e procedi con il download</string>
      <string name="picker_origin_need_download">%1$d delle foto selezionate non sono sul dispositivo (%2$d MB). Scaricare utilizzando la rete dati cellulare?</string>
-     <string name="picker_title_format">Selezionata/e %1$d foto su %2$d</string>
+     <string name="picker_title_format">Seleziona da %1$d a %2$d foto</string>
      <string name="picker_title_selection_format">%d selezionate</string>
-     <string name="picker_title_selection_format_multiple">Seleziona %1$d di %2$d foto (%3$d)</string>
+     <string name="picker_title_selection_format_multiple">Seleziona da %1$d a %2$d foto (%3$d selezionate)</string>
      <string name="picker_title_specify_format">Seleziona %d foto</string>
      <string name="picker_title_specify_format_one">Seleziona %d foto</string>
      <string name="picker_title_unlimit">Seleziona immagine</string>
