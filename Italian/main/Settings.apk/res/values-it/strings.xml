@@ -3508,6 +3508,7 @@ ed esegui il software."</string>
      <string name="radioInfo_menu_getIMS">Stato Servizio IMS</string>
      <string name="radioInfo_menu_viewADN">Visualizza rubrica SIM</string>
      <string name="radioInfo_menu_viewFDN">Visualizza numeri selezione fissa</string>
+	 <string name="radioInfo_menu_getPDP">Ottieni lista PDP</string>
      <string name="radioInfo_menu_viewSDN">"Visualizza numeri dell'elenco dei numeri di servizio"</string>
      <string name="radioInfo_phone_idle">Disattivato</string>
      <string name="radioInfo_phone_offhook">Chiamata in corso</string>
