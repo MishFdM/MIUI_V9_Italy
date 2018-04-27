@@ -35,8 +35,7 @@
      <string name="accelerometer_title">Rotazione automatica</string>
      <string name="access_control_app_entry_multiple">Apri %s</string>
      <string name="access_control_app_entry_single">Apri app</string>
-     <string name="access_control_need_password">"%s è stato protetto
-"</string>
+     <string name="access_control_need_password">%s è stato protetto</string>
      <string name="access_control_need_to_unlock">Password richiesta:</string>
      <string name="access_control_no_back_footer">Tocca [icon] per uscire</string>
      <string name="access_control_password_title">Password</string>
@@ -145,9 +144,9 @@ Nota: il tocco triplo per ingrandire funziona ovunque tranne che per la tastiera
      <string name="account_list">Altri account</string>
      <string name="account_other">Altro</string>
      <string name="account_settings">Account</string>
-     <string name="account_settings_menu_auto_sync">Auto-sync dati</string>
-     <string name="account_settings_menu_auto_sync_personal">Auto-sync dati personale</string>
-     <string name="account_settings_menu_auto_sync_work">Auto-sync dati lavoro</string>
+     <string name="account_settings_menu_auto_sync">Auto-sincr. dati</string>
+     <string name="account_settings_menu_auto_sync_personal">Auto-sincr. dati personale</string>
+     <string name="account_settings_menu_auto_sync_work">Auto-sincr. dati lavoro</string>
      <string name="account_settings_title">Account</string>
      <string name="account_sync_settings_title">Sincronizzazione</string>
      <string name="account_sync_title">Sincronizza Account</string>
@@ -5814,7 +5813,7 @@ Tocca "<b>Indietro</b>" per connetterti a un'altra rete Wi-Fi."</string>
      <string name="wrong_pin_code_pukked">"Codice PIN della SIM errato. Devi contattare l'operatore per sbloccare il dispositivo."</string>
      <string name="xiaomi_account">Mi Account</string>
      <string name="xiaomi_cloud_service">Mi Cloud</string>
-     <string name="xiaomi_cloud_service_description">Mi Cloud sincronizza i contatti,le foto ed esegue il backup delle tue applicazioni,impostazioni aiutandoti a trovare il tuo dispositivo con la funzionalità Trova dispositivo.</string>
+     <string name="xiaomi_cloud_service_description">Mi Cloud sincronizza i contatti, le foto, ed esegue il backup delle tue applicazioni e impostazioni, aiutandoti a trovare il tuo dispositivo con la funzionalità Trova dispositivo.</string>
      <string name="xiaomi_cloud_service_disabled">Disattivato</string>
      <string name="xiaomi_cloud_service_unknown">Sconosciuto</string>
      <string name="xiaomi_money_service">Mi Credit</string>
