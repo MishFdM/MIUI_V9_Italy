@@ -310,6 +310,7 @@
      <string name="menu_add_to_white_list">Aggiungi alle eccezioni</string>
      <string name="menu_clear">Cancella</string>
      <string name="menu_install">Installa con questa app</string>
+     <string name="menu_open">Apri</string>
      <string name="menu_view">Mostra nella cartella</string>
      <string name="month_day_format">dd MMM</string>
      <string name="msg_cleanup_db_update_checking">Ricerca aggiornamenti…</string>
@@ -436,6 +437,13 @@
      <string name="terabyteShort">TB</string>
      <string name="text_optimizer">Carica i nomi delle cartelle</string>
      <string name="there_is_no">Tutto ok, riprova più tardi</string>
+     <string name="tips_low_storage_dialog_cancel">Annulla</string>
+     <string name="tips_low_storage_dialog_msg_qq">La cache di QQ ha raggiunto 3 GB. Questo può rallentare il dipositivo. Pulire la cache di QQ cache adesso?</string>
+     <string name="tips_low_storage_dialog_msg_storage">Stai usando il 90% della memoria interna. Disinstalla le applicazioni meno utilizzate.</string>
+     <string name="tips_low_storage_dialog_msg_wechat">La cache di WeChat ha raggiunto 3 GB. Questo può rallentare il dipositivo. Pulire la cache di WeChat cache adesso?</string>
+     <string name="tips_low_storage_dialog_ok">Pulisci</string>
+     <string name="tips_low_storage_dialog_ok_storage">Spazio libero</string>
+     <string name="tips_low_storage_dialog_title">La memoria interna in uso è poca</string>
      <string name="tips_of_app_manage">Elimina app utilizzate raramente per risparmiare spazio</string>
      <string name="tips_of_auto_launch_manage">"Previene l'avvio automatico delle app utilizzate raramente"</string>
      <string name="tips_of_cloud_service">Accedi al tuo Mi Account per utilizzare altri servizi Mi</string>

@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="accept">OK</string>
      <string name="access_sd_fail">"Impossibile accedere alla scheda SD"</string>
@@ -136,6 +136,7 @@
      <string name="not_tips">Non mostrare di nuovo</string>
      <string name="note">Nota:</string>
      <string name="path_scanner_setting">App di sistema/Scanner</string>
+     <string name="payment_text">Apri con %s</string>
      <string name="payment_weixin">WeChat</string>
      <string name="payment_zhifubao">AliPay</string>
      <string name="phone">Telefono:</string>

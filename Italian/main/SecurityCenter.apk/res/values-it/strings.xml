@@ -1469,7 +1469,7 @@ Questa attività riduce la durata della batteria."</string>
      <string name="power_optimize_save_mode_not_opened">Risparmio batteria disattivo</string>
      <string name="power_optimize_save_on_lockscreen">Salvaguarda i consumi quando il dispositivo è bloccato</string>
      <string name="power_phone">Chiamate vocali</string>
-     <string name="power_save_mode_auto_exit_summary">Disattiva quando la batteria raggiunge il 60% o la carica completa</string>
+     <string name="power_save_mode_auto_exit_summary">Disattiva quando la batteria raggiunge il 60% o è la carica completa</string>
      <string name="power_save_mode_auto_exit_title">Disattiva quando in carica</string>
      <string name="power_save_mode_close_warn_text">Il risparmio batteria limita le attività in background . Se decidi di utilizzarlo quando il dispositivo è carico, alcune parti potrebbero non funzionare correttamente. Mantenere il risparmio batteria anche con dispositivo carico?</string>
      <string name="power_save_mode_close_warn_title">Risparmio batteria</string>

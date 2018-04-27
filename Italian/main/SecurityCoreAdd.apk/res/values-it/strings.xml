@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="Active">Attivo</string>
      <string name="PassWordGuard">Password Spazio Secondario</string>
@@ -201,6 +201,7 @@ Altrimenti potresti non essere in grado di accedere allo spazio Secondario dalla
      <string name="private_sms_show_title">I messaggi privati verranno visualizzati nello spazio Secondario</string>
      <string name="private_space_setting">Gestisci</string>
      <string name="public_app">Entrambi gli spazi</string>
+     <string name="qq_login">Accedi a QQ</string>
      <string name="qq_send">Invia ad amici/dispositivi QQ</string>
      <string name="radio_button_icon_switch_title">Usa un collegamento</string>
      <string name="radio_button_password_switch_title">Usa una password</string>
