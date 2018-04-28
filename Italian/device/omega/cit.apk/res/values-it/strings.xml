@@ -70,7 +70,7 @@
      <string name="Gpstestcheck">Test Verifics GPS</string>
      <string name="HallSensor">Sensore Sala</string>
      <string name="Light">Sensore di Luminosità</string>
-     <string name="LightAProximity">Luce/Prossimità</tring>
+     <string name="LightAProximity">Luce/Prossimità</string>
      <string name="MHz">MHz</string>
      <string name="Midtest_GPS_Message">Test Intermedio Messaggio GPS</string>
      <string name="OTG">OTG</string>
