@@ -1172,9 +1172,9 @@ System may behave unpredictably after you set wrong value"</string>
     <string name="radioInfo_menu_viewADN">View SIM address book</string>
     <string name="radioInfo_menu_viewFDN">View Fixed Dialing Numbers</string>
     <string name="radioInfo_menu_viewSDN">View Service Dialing Numbers</string>
-    <string name="radioInfo_menu_getPDP">Get PDP list</string>
-    <string name="radioInfo_menu_enableData">Enable data connection</string>
-    <string name="radioInfo_menu_disableData">Disable data connection</string>
+    <string name="radioInfo_menu_getPDP">Ottieni lista PDP</string>
+    <string name="radioInfo_menu_enableData">Attiva connessione dati</string>
+    <string name="radioInfo_menu_disableData">Disattiva connessione dati</string>
     <string name="radioInfo_menu_enableDataOnBoot">Enable data on boot</string>
     <string name="radioInfo_menu_disableDataOnBoot">Disable data on boot</string>
     <string name="radioInfo_service_in">In service</string>
