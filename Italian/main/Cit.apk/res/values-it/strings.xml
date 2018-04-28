@@ -292,8 +292,8 @@ Tocca lo schermo per attivare il GPS"</string>
 5. La foto che hai scattato dovrebbe comparire di seguito. Tocca "Elimina" per completare questo test"</string>
      <string name="cit_main_camera_check_title">Test Fotocamera posteriore</string>
      <string name="cit_name">Diagnostica</string>
-     <string name="cit_nfc_check_summary">Please put the card on the top of the back of the phone</string>
-     <string name="cit_nfc_check_title">NFC test</string>
+     <string name="cit_nfc_check_summary">Si prega di mettere la scheda sulla parte superiore del retro del dispositivo</string>
+     <string name="cit_nfc_check_title">Test NFC</string>
      <string name="cit_not_available">La versione utente non supporta questo test, sono disponibili solo i test di fabbrica</string>
      <string name="cit_notificationlight">LED Notifica</string>
      <string name="cit_notificationlight_off">LED Notifica OFF</string>

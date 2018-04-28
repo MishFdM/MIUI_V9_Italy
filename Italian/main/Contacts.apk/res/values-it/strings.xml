@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="accessibility_calllog_detail">Dettagli registro chiamate</string>
      <string name="accessibility_contact_detail">Dettagli contatto</string>
@@ -780,6 +780,7 @@ Per aggiungere un contatto alla lista dei Preferiti:
      <string name="no_contacts_dialog_title">Impossibile trovare contatti</string>
      <string name="no_contacts_selected">Nessun contatto selezionato.</string>
      <string name="no_sdcard_message">Nessun archivio trovato.</string>
+     <string name="no_setting_menu">Nessuna menù disponibile</string>
      <string name="non_phone_add_to_contacts">Aggiungi a contatti</string>
      <string name="non_phone_caption">Numero di telefono</string>
      <string name="non_phone_close">Chiudi</string>
