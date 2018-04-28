@@ -287,7 +287,7 @@
     <string name="nv_pass">Test riuscito</string>
     <string name="nv_null">Non testato</string>
     <string name="nv_fail">Test fallito</string>
-    <string name="nv_fail_interval">L'intervallo di risposta del pulsante è troppo breve</string>
+    <string name="nv_fail_interval">"L'intervallo di risposta del pulsante è troppo breve"</string>
     <string name="led_name">LED</string>
     <string name="led_tri_text">Test sequenza LED: verde, blu, rosso</string>
     <string name="led_dual_text">Test sequenza LED: verde, ambra</string>
@@ -337,7 +337,7 @@
     <string name="not_test">Non testato</string>
     <string name="otg_name">OTG</string>
     <string name="otg_confirm">"L"OTG è connesso"</string>
-    <string name="otg_insert">'L'OTG è connesso"</string>
+    <string name="otg_insert">"L'OTG è connesso"</string>
     <string name="otg_remove">"L'OTG è stato rimosso"</string>
     <string name="pdic_name">PDIC</string>
     <string name="pdic_battery">batteria</string>
@@ -364,7 +364,7 @@
     <string name="gtp_module_type_err">Errore tipo Modulo TP</string>
     <string name="gtp_version_err">Errore versione TP</string>
     <string name="battery_prompt">È necessario scollegare il caricabatterie per completare il test batteria</string>
-    <string name="battery_current_prompt">Attendi un po' di tempo per la corrente</string>
+    <string name="battery_current_prompt">Attendi un pò di tempo per la corrente</string>
     <string name="mytest">usa per test</string>
     <string name="gsensorcli_name">Calibrazione Sensore di Accelerazione</string>
     <string name="sensor_calibration">Calibrazione Sensore</string>
