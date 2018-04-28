@@ -5929,4 +5929,10 @@ Tocca "<b>Indietro</b>" per connetterti a un'altra rete Wi-Fi."</string>
      <string name="show_cpu_usage_summary">Mostra utilizzo CPU sullo schermo</string>
 	 <string name="legacy_dhcp_client">Utilizza il client DHCP</string>
 	 <string name="legacy_dhcp_client_summary">Utilizzare il client DHCP da Lollipop al posto del nuovo client Android DHCP.</string>
+	 <string name="use_nuplayer">Utilizza NuPlayer (sperimentale)</string>
+     <string name="use_nuplayer_summary">Utilizza NuPlayer al posto di AwesomePlayer</string>
+	 <string name="print_enable">Abilita stampa</string>
+	 <string name="print_remind">Abilita prima la stampa</string>
+	 <string name="date_time_date_format">Scegli il formato data</string>
+	 <string name="zen_mode_from">Chiamate/messaggi da</string>
 </resources>
