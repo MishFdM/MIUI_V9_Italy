@@ -250,7 +250,7 @@
      <string name="app_right">Produzione ufficiale Xiaomi</string>
      <string name="app_usage_never">Non utilizzata di recente</string>
      <string name="app_usage_recently">Utilizzata di recente</string>
-     <string name="app_version">Versione:</string>
+     <string name="app_version">Versione\u0020</string>
      <string name="app_wifi">Wi-Fi</string>
      <string name="application_item_already_permission">Autorizzata</string>
      <string name="application_item_disable">Bloccata</string>
