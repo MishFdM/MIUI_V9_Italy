@@ -249,7 +249,7 @@ Tocca lo schermo per attivare il GPS"</string>
      <string name="cit_headset_button_fast_forward">Avanti veloce</string>
      <string name="cit_headset_button_next">Successivo</string>
      <string name="cit_headset_button_pass">Riuscito</string>
-     <string name="cit_headset_button_play_pause">Play/Pausa</string>
+     <string name="cit_headset_button_play_pause">Riproduci/Pausa</string>
      <string name="cit_headset_button_previous">Precedente</string>
      <string name="cit_headset_button_reverse">Please reversely insert usb headset</string>
      <string name="cit_headset_button_rewind">Ricomincia</string>
