@@ -472,8 +472,7 @@
     <string name="dualflash_tips">Due torce saranno attivate in maniera alternata, per favore continua a guardare!</string>
     <string name="dualflash_confirm">Prego assicurati che la luce gialla del flash sia funzionante!!</string>
     <string name="simb">TEST SIMB</string>
-    <string name="chinese">切换中文</string>
-    <string name="english">English</string>
+    <string name="english">Inglese</string>
     <string name="miss_camera">Impossibile trovare camera</string>
     <string name="query">query</string>
     <string name="dualcamera_name">Doppia Camera Posteriore</string>

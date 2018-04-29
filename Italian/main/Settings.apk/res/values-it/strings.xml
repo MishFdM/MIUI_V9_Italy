@@ -364,7 +364,7 @@ Vuoi abilitare le finestre flottanti?"</string>
      <string name="app_special_disable_dlg_title">"Eliminare i dati e disattivare l'applicazione?"</string>
      <string name="app_switch_key">Recenti</string>
      <string name="app_usage_preference">Preferenze sui dati di utilizzo delle app</string>
-     <string name="app_version">Versione</string>
+     <string name="app_version">Versione\u0020</string>
      <string name="app_wifi">Wi-Fi</string>
      <string name="application_forbid_auto_startup">Impedisci a %s di avviarsi in background</string>
      <string name="application_info_label">Informazioni applicazione</string>

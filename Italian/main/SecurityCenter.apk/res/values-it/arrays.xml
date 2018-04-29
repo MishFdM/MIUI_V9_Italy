@@ -14,14 +14,14 @@
         <item>Personalizzato</item>
      </string-array>
      <string-array name="date_of_app_all">
-        <item>Dati (ieri)</item>
-        <item>Dati (oggi)</item>
-		<item>Dati (ultimo mese)</item>
-        <item>Dati (questo mese)</item>
-        <item>Wi-Fi (ieri)</item>
-        <item>Wi-Fi (oggi)</item>
-		<item>Wi-Fi (ultimo mese)</item>
-        <item>Wi-Fi (questo mese)</item>
+        <item>Dati (ieri)\u0020</item>
+        <item>Dati (oggi)\u0020</item>
+		<item>Dati (ultimo mese)\u0020</item>
+        <item>Dati (questo mese)\u0020</item>
+        <item>Wi-Fi (ieri)\u0020</item>
+        <item>Wi-Fi (oggi)\u0020</item>
+		<item>Wi-Fi (ultimo mese)\u0020</item>
+        <item>Wi-Fi (questo mese)\u0020</item>
      </string-array>
      <string-array name="date_of_traffic">
         <item>"Ieri "</item>

@@ -112,8 +112,8 @@
      <string name="keyguard_quick_charging_info_click_to_detail">Carica rapida. Tocca per vedere i dettagli.</string>
      <string name="keyguard_torch_cover_text">Tieni premuto il tasto Accensione per accendere la Torcia</string>
      <string name="kg_password_pin_failed">Operazione PIN SIM fallita!</string>
-     <string name="lock_screen_date">EEEE,d MMMM</string>
-     <string name="lock_screen_date_12">EEEE,d MMMM </string>
+     <string name="lock_screen_date">EEEE, d MMMM</string>
+     <string name="lock_screen_date_12">EEEE, d MMMM </string>
      <string name="lock_screen_no_sim_card">Nessuna SIM</string>
      <string name="lock_wallpaper_enter">Inserisci</string>
      <string name="lock_wallpaper_learn_more">Altro</string>
