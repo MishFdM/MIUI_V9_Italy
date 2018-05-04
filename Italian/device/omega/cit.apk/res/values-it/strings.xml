@@ -131,7 +131,7 @@
      <string name="acce_X">X :</string>
      <string name="acce_Y">Y :</string>
      <string name="acce_Z">Z :</string>
-     <string name="accelarator_attention">"l'immagine in basso punta alla posizione del telefono (orizzontale, su, già, sinistra, destra), se non viene mostrata alcuna immagine o sussiste un'incoerenza del puntatore, allora c'衵n errore"</string>
+     <string name="accelarator_attention">"l'immagine in basso punta alla posizione del telefono (orizzontale, su, già, sinistra, destra), se non viene mostrata alcuna immagine o sussiste un'incoerenza del puntatore, allora c'è errore"</string>
      <string name="accelerator_test">Acceleratore</string>
      <string name="accept">Usa questa registrazione</string>
      <string name="accuracy">Accuratezza (m) :</string>
@@ -800,4 +800,5 @@ pESN:%s
      <string name="yellow">Giallo</string>
      <string name="yes">Si</string>
      <string name="you_can_use_vol_key">puoi utilizzare i pulsanti del volume per regolare la frequenza</string>
+	 <string name="blackcardtest">Test scheda nera</string>
 </resources>

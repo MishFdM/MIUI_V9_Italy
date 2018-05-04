@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
 <resources>
      <string name="ATV">ATV</string>
      <string name="ATV_FM">ATV FM</string>
@@ -215,6 +216,7 @@ solo in modalità frame"</string>
      <string name="battery_vol_test">Capacità Batteria</string>
      <string name="bearing">Da Nord a Est:</string>
      <string name="black">Nero</string>
+     <string name="blackcardtest">Test scheda nera</string>
      <string name="blow_from_mic_to_rec">Soffia nel Microfono, in corrispondenza del ricevitore di riproduzione. Assicurati che venga emesso un suono.</string>
      <string name="blow_to_earphone_mic">Soffia nel Microfono, in corrispondenza del capsula auricolare di riproduzione. Assicurati che venga emesso un suono.</string>
      <string name="blow_to_mic">"Soffia nel Microfono, in corrispondenza dell'altoparlante di riproduzione. Assicurati che venga emesso un suono."</string>
@@ -242,11 +244,8 @@ solo in modalità frame"</string>
      <string name="build_time">Tempo Build:</string>
      <string name="burntest">Stress Test</string>
      <string name="button_ok">OK</string>
-     <string name="cali_value_tip">impedenza calibrazione</string>
      <string name="call_test">Test chiamata</string>
      <string name="call_test_hint">Parla al mic. principale, e assicurati che venga emessa la tua voce.</string>
-     <string name="camera_main2">Camera Principale 2</string>
-     <string name="camera_main2_result">"Risultato test Camera Principale 2:  "</string>
      <string name="camera_test">Camera</string>
      <string name="camerainfo">Informazioni camera</string>
      <string name="cancel">Annulla</string>
@@ -263,25 +262,14 @@ solo in modalità frame"</string>
      <string name="cdmaonly">Solo CDMA</string>
      <string name="cellinfo">Info Cell</string>
      <string name="channel">Canale:</string>
-     <string name="channel_name">Nome Canale</string>
      <string name="charge_battery_test">Ricarica/Batt.</string>
      <string name="charge_current">Corrente Carica</string>
      <string name="charge_test">Carica</string>
      <string name="charge_voltage">Voltaggio Carica</string>
      <string name="charger_in_test">Caricabatterie collegato</string>
      <string name="charger_out_test">Caricabatterie scollegato</string>
-     <string name="checkerboard_test">TEST CHECKBOARD</string>
      <string name="choose_channel">Seleziona canale</string>
-     <string name="cit_apk_signature_failed">firma apk FALLITO</string>
-     <string name="cit_apk_signature_passed">firma apk RIUSCITO</string>
-     <string name="cit_build_finger_failed">costruzione impronta FALLITO</string>
-     <string name="cit_build_finger_passed">costruzione impronta PASSATO</string>
-     <string name="cit_get_signature_failed">ottenimento firma FALLITO</string>
      <string name="cit_nv_flag">"Flag CIT NV: "</string>
-     <string name="cit_recovery_signature_failed">firma di recupero FALLITO</string>
-     <string name="cit_recovery_signature_passed">firma di recupero PASSATO</string>
-     <string name="cit_signature_check_label">controllo firma:</string>
-     <string name="cit_te_test_fail">Fallito</string>
      <string name="cit_tp_default_info">nullo</string>
      <string name="close">non hai alcuna partizione otp</string>
      <string name="combile">Assembla</string>
@@ -335,7 +323,6 @@ solo in modalità frame"</string>
      <string name="efs_version">Versione EFS:</string>
      <string name="efuse_get_error">ottieni errore stato efuse!</string>
      <string name="efuse_text">stato efuse</string>
-     <string name="emmc_cid_info">CID EMMC:</string>
      <string name="empty_list">Lista canali vuota.</string>
      <string name="error">Errore</string>
      <string name="error_app_internal">Errore interno applicazione</string>
@@ -352,22 +339,13 @@ solo in modalità frame"</string>
      <string name="factory_restore">Ripristino di Fabbrica</string>
      <string name="fastboot_lock_text">stato blocco fastboot</string>
      <string name="favorite_manager">Lista Canali</string>
-     <string name="favorites">Preferiti</string>
      <string name="field_netinfo">informazioni di rete</string>
      <string name="field_state">stato</string>
      <string name="field_test">Campo Test</string>
      <string name="fieldtest">Campo Test</string>
      <string name="fingerprint">Test Impronta</string>
-     <string name="fingerprint_authen">Autenticazione</string>
-     <string name="fingerprint_enrolCount">Contatore Registrazione</string>
-     <string name="fingerprint_enrolQuality">Qualità Registrazione</string>
-     <string name="fingerprint_enroll">Registrazione</string>
-     <string name="fingerprint_enroll_test">Test Registrazione Impronta</string>
      <string name="fingerprint_fail">Fallito</string>
-     <string name="fingerprint_no">nessuna impronta</string>
      <string name="fingerprint_ok">Con successo</string>
-     <string name="fingerprint_remove">Rimuovi impronta</string>
-     <string name="fingerprint_tips">Clicca Registra per Autenticare, quindi posiziona il tuo dito sul sensore</string>
      <string name="firmware_version">Versione Firmware</string>
      <string name="flashled">LED Flash</string>
      <string name="flashled2_off">Disattivo</string>
@@ -375,13 +353,9 @@ solo in modalità frame"</string>
      <string name="flashled_off">Torcia disattivata</string>
      <string name="flashled_on">Torcia attiva</string>
      <string name="flashledtest">Il LED del Flash LED si è acceso?</string>
-     <string name="fm_no_headset_text">"Per iniziare l'ascolto, collega gli auricolari (usandoli come antenna)."</string>
      <string name="fm_recorder_name">Registratore Radio FM</string>
-     <string name="fm_station_list_menu_refresh">Ricarica</string>
      <string name="fm_stopped_text">Radio FM è stata interrotta!</string>
-     <string name="fm_symbol">FM</string>
      <string name="fm_test">FM</string>
-     <string name="fm_turn_on">Riproduci o ferma la Radio FM</string>
      <string name="frame_mod_info">frame</string>
      <string name="freq">Freq:</string>
      <string name="freq_add">Aggiungi frequenza</string>
@@ -424,9 +398,6 @@ solo in modalità frame"</string>
      <string name="headset_pluged_in">Auricolari collegata</string>
      <string name="headset_unplug_err">Radio FM interrotta.</string>
      <string name="height">Altezza :</string>
-     <string name="high_charge_battery_chargein_test">Test di ricarica della batteria</string>
-     <string name="high_charge_battery_chargeout_test">Test di scarica della batteria</string>
-     <string name="image_quality_test">TEST QUALITÀ IMMAGINE</string>
      <string name="imei">[IMEI]:</string>
      <string name="infrared">Infrarossi</string>
      <string name="infrared_info">Test infrarossi</string>
@@ -444,7 +415,6 @@ solo in modalità frame"</string>
      <string name="keyboard_test">Test tastiera</string>
      <string name="keyboardlight">Luci tastiera</string>
      <string name="keyboardlight_info">Si prega di verificare se lampeggia la luce della tastiera</string>
-     <string name="keyboardvalue">Valore chiave</string>
      <string name="keyled_off">Luci tastiera spente</string>
      <string name="keyled_on">Luci tastiera</string>
      <string name="keyled_on_open">Luci tastiera accese</string>
@@ -460,13 +430,6 @@ solo in modalità frame"</string>
      <string name="light_attention">Se la tua mano copre il sensore di luminosità, il valore del sensore si ridurrà, altrimenti il ​​test risulterà fallito! (Nota: il valore del sensore di luminosità cambia lentamente, sarà necessario coprire la mano per alcuni secondi)</string>
      <string name="light_sensor_test">Sensore di luminosità</string>
      <string name="lightsensorinfo">Nessun sensore di luminosità</string>
-     <string name="limited_battery_charge_enter_hint1">Livello della batteria superiore a 80%，Si prega di scaricarla</string>
-     <string name="limited_battery_charge_enter_hint2">Il livello della batteria ha raggiunto lo standard!</string>
-     <string name="limited_battery_charge_exit_hint">Confermi di uscire dalla carica limitata della batteria?</string>
-     <string name="limited_battery_charge_level">Livello batteria (%1$s%%)...</string>
-     <string name="limited_battery_charge_status_fail">FALLITO</string>
-     <string name="limited_battery_charge_status_pass">RIUSCITO</string>
-     <string name="limited_battery_charge_title">Limite carica batteria</string>
      <string name="list_text">Radio FM</string>
      <string name="location_time">Tempo della posizione:</string>
      <string name="lock">bloccato</string>
@@ -566,6 +529,7 @@ off---Disabilita Tx continuo"</string>
      <string name="otp_lock_text">stato blocco otp</string>
      <string name="pass">Riuscito</string>
      <string name="patterninfo">Modello:</string>
+     <string name="patternlimit">[0-5]</string>
      <string name="patternnum">"0-tutti zero\u0009 1-tutti uno
 2-ripeti per 10
 3-PN7\u00094-PN9\u00095-PN15"</string>
@@ -574,6 +538,7 @@ off---Disabilita Tx continuo"</string>
      <string name="phoneruning_error_msg">Non puoi usare la radio FM quando stai facendo chiamate telefoniche.</string>
      <string name="pink">Rosa</string>
      <string name="pkgsizeinfo">Dimensione pacchetto:</string>
+     <string name="pkgsizelimit">[32-1500]</string>
      <string name="pkgsizeout">la dimensione del pacchetto dovrebbe essere da 32 a 1500!</string>
      <string name="play_music">Ascolta musica dalla Scheda SD</string>
      <string name="play_music_info">Ascolta musica dalla Scheda SD. Si prega di inserire file MP3 sulla Scheda SD</string>
@@ -591,8 +556,14 @@ off---Disabilita Tx continuo"</string>
      <string name="plug_otg_in">Dispositivo OTG collegato</string>
      <string name="plug_otg_out">Dipositivo OTG non collegato</string>
      <string name="pluginheadset">Si prega di collegare le cuffie, serviranno come antenna</string>
+     <string name="plus">+</string>
      <string name="power">Accensione</string>
      <string name="powerinfo">Accensione:</string>
+     <string name="powerlimit_mod">[0-15]</string>
+     <string name="powerlimit_mod_aw550">[0-13]</string>
+     <string name="powerlimit_unmod">[0-11]</string>
+     <string name="powernum">"unmod:0-11
+mod:0-15"</string>
      <string name="powerout">La potenza dovrebbe essere compresa tra 0 e 14 o tra 0 e 11 in modalità non modale!</string>
      <string name="preset_add">Aggiungi</string>
      <string name="preset_delete">Elimina</string>
@@ -623,6 +594,7 @@ off---Disabilita Tx continuo"</string>
      <string name="ram_title">RAM :</string>
      <string name="rate">Valuta:</string>
      <string name="rateandfreqout">La frequenza dovrebbe essere compresa tra 0 e 11 e la frequenza dovrebbe essere compresa tra 1 e 13!</string>
+     <string name="ratelimit">[0-11]</string>
      <string name="ratenum">"Valuta (Mb)
 0--1Mb\u00091--2Mb
 2--5.5Mb\u00093--11Mb
@@ -635,8 +607,6 @@ off---Disabilita Tx continuo"</string>
      <string name="receive_test">Test di ricezione</string>
      <string name="receiveinfo">Test di ricezione...</string>
      <string name="receiver">Ricevitore</string>
-     <string name="receiver_music_test">test ricevitore</string>
-     <string name="receiver_music_test_hint">Si prega di ascoltare il ricevitore e vedere se emette un suono</string>
      <string name="receiver_test">Test ricevitore</string>
      <string name="record_and_play">Registra e ascolta</string>
      <string name="record_your_message">Registra il tuo messaggio</string>
@@ -647,11 +617,8 @@ off---Disabilita Tx continuo"</string>
      <string name="redledtest">LED rosso</string>
      <string name="register_listener">registrazioni da ascoltare</string>
      <string name="remove_earphone">Si prega di rimuovere gli auricolari</string>
-     <string name="remove_favorite">Rimuovi preferiti</string>
      <string name="remove_headset">Si prega di rimuovere le cuffie</string>
      <string name="remove_headset_and_starttest">Prego rimuovi gli auricolari e premere start oer eseguire il test</string>
-     <string name="rename">Rinomina</string>
-     <string name="replay">mostra nuovamente</string>
      <string name="research_and_development">Ricerca e sviluppo</string>
      <string name="reset">Reimposta</string>
      <string name="result">Risultati</string>
@@ -662,11 +629,8 @@ off---Disabilita Tx continuo"</string>
      <string name="sample2_fail">Esempio test 2 fallito, hai bisogno di testare nuovamente lo stesso test</string>
      <string name="sample2_test_not_entry">Questo progetto non ha bisogno del test esempio numero 2.</string>
      <string name="save">Salva</string>
-     <string name="save_dialog_caption">"Per ascoltare le registrazioni, devi aprire l'applicazione Musica."</string>
-     <string name="save_dialog_title">Salvare la registrazione?</string>
      <string name="save_local_freq">Salva la frequenza locale</string>
      <string name="sd_u_test">SD_U disk</string>
-     <string name="sdcard_insert">Si prega di inserire una Scheda SD.</string>
      <string name="sdcard_result">[SCHEDA SD]:</string>
      <string name="sdcarddetect">Scheda SD trovata</string>
      <string name="search">Ricerca</string>
@@ -675,7 +639,6 @@ off---Disabilita Tx continuo"</string>
      <string name="secureboot_text">stato avvio sicuro</string>
      <string name="seeking">\u0009Ricerca...</string>
      <string name="selectall">Seleziona tutto</string>
-     <string name="selftest">SELF-TEST</string>
      <string name="send">Invia</string>
      <string name="send_test">Invia test</string>
      <string name="sensors_test">Sensori</string>
@@ -683,11 +646,12 @@ off---Disabilita Tx continuo"</string>
      <string name="shake_phone">Si prega di calibrare con gli strumenti prima del test, se il risultato è errato, si prega di scuotere il telefono</string>
      <string name="short_vib">Vibrazione breve</string>
      <string name="sim_out_status_test">SIM non collegata nel test</string>
-     <string name="sim_sd_out_status_test">SIM e Scheda SD non collegata nel test</string>
-     <string name="sim_sd_status_test">SIM e Scheda SD collegata nel test</string>
      <string name="sim_status_test">SIM collegata nel testt</string>
      <string name="sine_mod_info">seno</string>
      <string name="sleeptest">Test del sonno</string>
+     <string name="sn">[ S/N]:</string>
+     <string name="sn_fmt">"%s
+"</string>
      <string name="softver">Versione software:</string>
      <string name="softversion">Versione software</string>
      <string name="someinfo">Alcune info</string>
@@ -700,33 +664,20 @@ off---Disabilita Tx continuo"</string>
      <string name="start_calibrate">Inizia calibrazione</string>
      <string name="start_get_service">Ottieni servizio GPS</string>
      <string name="stat_notif_frequency">Stazione %1$sMHz FM radio</string>
-     <string name="station_empty_text">Nessuna stazione trovata</string>
-     <string name="station_rename_hint">Inserisci nome stazione</string>
-     <string name="station_searching_tips">Ottieni stazioni</string>
-     <string name="station_title">Stazioni Radio</string>
      <string name="status_unavailable">non disponibili</string>
-     <string name="stereo_camera_test">Test stereo della fotocamera</string>
      <string name="stop">Ferma</string>
      <string name="storage_is_full">Memoria dispositivo piena</string>
      <string name="switch_language">cambia lingua</string>
      <string name="swversion">Versione SW</string>
      <string name="system_info">Versione</string>
-     <string name="talk_add_favorite">Aggiungi ai preferiti</string>
-     <string name="talk_decrease">Abbassa la frequenza</string>
-     <string name="talk_increase">Alza la frequenza</string>
-     <string name="talk_next_station">Prossima stazione</string>
-     <string name="talk_prev_station">Stazione precedente</string>
-     <string name="talk_start_recording">Inizia registrazione</string>
      <string name="test">Testa</string>
-     <string name="test_begin">Test iniziato</string>
-     <string name="test_fail">fallito</string>
-     <string name="test_ok">riuscito</string>
-     <string name="test_rawdata_hint">Premi sul pulsante precedente di test, si prega di non toccare il pulsante virtuale.</string>
      <string name="test_report">Rapporto del test</string>
      <string name="test_result">Risultato del test</string>
      <string name="testagain">Puoi premere il pulsante Home per testare nuovamente</string>
      <string name="testagainaftertestover">Dopo la fine del test, prima di premere RIUSCITO o FALLITO, dovrai premere nuovamente il pulsante HOME</string>
      <string name="testerror">Testa di nuovo</string>
+     <string name="testinf2">TESTINF</string>
+     <string name="testinfo">[TESTINF]:</string>
      <string name="textview">Visualizzatore di Test</string>
      <string name="toast_already_favorite">Questo canale si trova già nella lista dei preferiti.</string>
      <string name="toast_already_favorite1">Questo canale si trova già nella lista dei canali preimpostati.</string>
@@ -743,19 +694,14 @@ off---Disabilita Tx continuo"</string>
      <string name="toast_in_call">Non puoi avviare la Radio FM mentre sei in una chiamata</string>
      <string name="toast_invalid_frequency">Frequenza non valida per la posizione corrente. Ambito di frequenza valido: 87,5-108,0</string>
      <string name="toast_invalid_input">Ultimo input valido, compreso fra i valori 0 or 5.</string>
-     <string name="toast_listen">ASCOLTA</string>
      <string name="toast_noantenna_text">Gli auticolari non sono collegati!</string>
      <string name="toast_player_internal_error">Si è verificato un errore interno del riproduttore!</string>
      <string name="toast_powerup_before_record_warning">Prego avvia prima la Radio FM!</string>
-     <string name="toast_record_not_saved">Registrazione non salvata</string>
-     <string name="toast_record_saved">Registrazione salvata</string>
      <string name="toast_recorder_internal_error">Si è verificato un errore interno del registratore!</string>
      <string name="toast_recording_lost_warning">Le tue registrazioni andranno perse se rimuoverai la Scheda SD!</string>
      <string name="toast_sdcard_insufficient_space">Spazio insufficiente su Scheda SD!</string>
      <string name="toast_sdcard_missing">La tua Scheda SD risulta mancante</string>
      <string name="toast_start_recording">Inizio registrazione...</string>
-     <string name="toast_station_renamed">La stazione è stata rinominata</string>
-     <string name="toast_station_searched">Ricerca stazioni disponibili:</string>
      <string name="touchpanel_test">Pannello Touch</string>
      <string name="tp_multi_point">E fai clic sullo schermo dei due punti o su due di colore grigio, se è blu risulterà riuscito!</string>
      <string name="tp_selftest">Self-Test pannello touch</string>
@@ -769,9 +715,13 @@ off---Disabilita Tx continuo"</string>
      <string name="tx99_mod_info">tx99</string>
      <string name="ubboardtest">Scheda UB</string>
      <string name="uimCard_test">Scheda UIM</string>
+     <string name="uit87">[ UIT87]:</string>
+     <string name="uit88">[ UIT88]:</string>
+     <string name="uit89">[ UIT89]:</string>
      <string name="unique_id_null">id univoco vuoto</string>
      <string name="unique_id_text">id univoco</string>
      <string name="unit">" MHz"</string>
+     <string name="unknown">未知</string>
      <string name="unlock">sblocca</string>
      <string name="unmodulated">Non modulato</string>
      <string name="usrdata_version">Versione Dati Utente</string>
@@ -800,5 +750,4 @@ pESN:%s
      <string name="yellow">Giallo</string>
      <string name="yes">Si</string>
      <string name="you_can_use_vol_key">puoi utilizzare i pulsanti del volume per regolare la frequenza</string>
-	 <string name="blackcardtest">Test scheda nera</string>
 </resources>
