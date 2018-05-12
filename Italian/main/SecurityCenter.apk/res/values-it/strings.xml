@@ -2245,7 +2245,7 @@ I dati rimanenti includono dati che sono stati erogati il mese precedente."</str
      <string name="use_immediately">Utilizza</string>
      <string name="user_define_title">Aggiungi regole</string>
      <string name="virus_ad_icon_text">Ad</string>
-     <string name="virus_auto_update_engine">Aggiornamento automatico：%s</string>
+     <string name="virus_auto_update_engine">Aggiornamento automatico: %s</string>
      <string name="virus_scan_process_pre">%</string>
      <string name="virus_update_tips_title">Collegati a Wi-Fi</string>
      <string name="virus_wait_network_dialog_message">Gli aggiornamenti sono di grandi dimensioni. Collegati ad una rete Wi-Fi per scaricarli.</string>
