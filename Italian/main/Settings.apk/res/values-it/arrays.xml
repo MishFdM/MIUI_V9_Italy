@@ -99,20 +99,20 @@
         <item>Attiva VPN</item>
         <item>Cambia wlan</item>
         <item>Cambia bluetooth</item>
-        <item>assisti screenshot</item>
-        <item>leggi lo stato del telefono</item>
-        <item>aggiungi voicemail</item>
-        <item>utilizza sip</item>
-        <item>processa chiamata in uscita</item>
-        <item>impronta digitale</item>
-        <item>sensori del corpo</item>
-        <item>leggi trasmissione cella</item>
-        <item>posizione fittizia</item>
-        <item>leggi archivio</item>
-        <item>scrivi archivio</item>
-        <item>attiva schermo</item>
-        <item>recupera account</item>
-        <item>esegui in background</item>
+        <item>Assisti screenshot</item>
+        <item>Leggi lo stato del telefono</item>
+        <item>Aggiungi voicemail</item>
+        <item>Utilizza sip</item>
+        <item>Processa chiamata in uscita</item>
+        <item>Impronta digitale</item>
+        <item>Sensori del corpo</item>
+        <item>Leggi trasmissione cella</item>
+        <item>Posizione fittizia</item>
+        <item>Leggi archivio</item>
+        <item>Scrivi archivio</item>
+        <item>Attiva schermo</item>
+        <item>Recupera account</item>
+        <item>Esegui in background</item>
      </string-array>
      <string-array name="app_ops_summaries">
         <item>posizione approssimativa</item>
